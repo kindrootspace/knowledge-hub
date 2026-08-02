@@ -119,7 +119,7 @@ const LIVE = {
     title: "Sterling, right now",
     tie: "Economics",
     note: "Live reference rates from the Frankfurter API, sourced from the ECB.",
-    url: function(){ return "https://api.frankfurter.app/latest?base=GBP&symbols=USD,EUR,JPY,CHF"; },
+    url: function(){ return "https://api.frankfurter.dev/v1/latest?base=GBP&symbols=USD,EUR,JPY,CHF"; },
     render: function(j){
       if (!j.rates) return null;
       return Object.keys(j.rates).map(function(k){
