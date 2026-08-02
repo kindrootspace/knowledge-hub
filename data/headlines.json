@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02 22:10 UTC",
+ "updated": "2026-08-02 23:12 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+     "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 22:51:09 +0000"
+    },
+    {
      "title": "Wildfires force mass evacuations across the Pacific Northwest",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
      "date": "Sun, 02 Aug 2026 21:47:18 +0000"
@@ -218,56 +223,6 @@
      "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
      "date": "Sun, 02 Aug 2026 19:39:32 +0000"
-    },
-    {
-     "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-     "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 19:30:25 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-     "link": "https://www.nature.com/articles/s41586-026-10921-w",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
-     "link": "https://www.nature.com/articles/d41586-026-02419-2",
-     "date": ""
-    },
-    {
-     "title": "The physics of fizz: why some bubbles are louder than others",
-     "link": "https://www.nature.com/articles/d41586-026-02334-6",
-     "date": ""
-    },
-    {
-     "title": "The power of ignorance and peering into the Milky Way: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02371-1",
-     "date": ""
-    },
-    {
-     "title": "Meat allergy is on the rise — what scientists want to know",
-     "link": "https://www.nature.com/articles/d41586-026-02362-2",
-     "date": ""
-    },
-    {
-     "title": "The forensic traces that can help catch poachers — July’s best science images",
-     "link": "https://www.nature.com/articles/d41586-026-02274-1",
-     "date": ""
-    },
-    {
-     "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-     "link": "https://www.nature.com/articles/d41586-026-02366-y",
-     "date": ""
-    },
-    {
-     "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
-     "link": "https://www.nature.com/articles/d41586-026-02397-5",
-     "date": ""
     }
    ]
   }
