@@ -100,49 +100,71 @@ const LIVE = {
     title: "On this day",
     tie: "History",
     note: "Selected events for today's date, from Wikimedia.",
-    url: function(){
-      const d = new Date();
-      return "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/selected/" +
-             String(d.getMonth()+1).padStart(2,"0") + "/" + String(d.getDate()).padStart(2,"0");
-    },
-    render: function(j){
-      const rows = (j.selected || []).slice(0,5);
-      if (!rows.length) return null;
-      return rows.map(function(e){
-        const p = (e.pages && e.pages[0] && e.pages[0].content_urls) ? e.pages[0].content_urls.desktop.page : null;
-        return '<li><b>' + esc(e.year) + '</b><span>' + esc(e.text) +
-               (p ? ' <a href="' + p + '" target="_blank" rel="noopener">read &nearr;</a>' : '') + '</span></li>';
-      }).join("");
-    }
+    sources: [{
+      url: function(){
+        const d = new Date();
+        return "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/selected/" +
+               String(d.getMonth()+1).padStart(2,"0") + "/" + String(d.getDate()).padStart(2,"0");
+      },
+      render: function(j){
+        const rows = (j.selected || []).slice(0,5);
+        if (!rows.length) return null;
+        return rows.map(function(e){
+          const p = (e.pages && e.pages[0] && e.pages[0].content_urls) ? e.pages[0].content_urls.desktop.page : null;
+          return '<li><b>' + esc(e.year) + '</b><span>' + esc(e.text) +
+                 (p ? ' <a href="' + p + '" target="_blank" rel="noopener">read &nearr;</a>' : '') + '</span></li>';
+        }).join("");
+      }
+    }]
   },
   fx: {
     title: "Sterling, right now",
     tie: "Economics",
-    note: "Live reference rates from the Frankfurter API, sourced from the ECB.",
-    url: function(){ return "https://api.frankfurter.dev/v1/latest?base=GBP&symbols=USD,EUR,JPY,CHF"; },
-    render: function(j){
-      if (!j.rates) return null;
-      return Object.keys(j.rates).map(function(k){
-        return '<li><b>' + k + '</b><span>' + j.rates[k].toFixed(k === "JPY" ? 2 : 4) +
-               ' per &pound;1</span></li>';
-      }).join("") + '<li><b>as of</b><span>' + esc(j.date) + '</span></li>';
-    }
+    note: "Live reference rates. Tries the ECB via Frankfurter first, then a second provider.",
+    sources: [
+      {
+        url: function(){ return "https://api.frankfurter.dev/v1/latest?base=GBP&symbols=USD,EUR,JPY,CHF"; },
+        render: function(j){
+          if (!j || !j.rates) return null;
+          return fxRows(j.rates, j.date);
+        }
+      },
+      {
+        url: function(){ return "https://open.er-api.com/v6/latest/GBP"; },
+        render: function(j){
+          if (!j || !j.rates) return null;
+          const keep = {};
+          ["USD","EUR","JPY","CHF"].forEach(function(k){ if (j.rates[k]) keep[k] = j.rates[k]; });
+          if (!Object.keys(keep).length) return null;
+          return fxRows(keep, (j.time_last_update_utc || "").slice(5,16));
+        }
+      }
+    ]
   },
   hn: {
     title: "What the technical world is reading",
     tie: "Technology",
     note: "Hacker News front page — a decent early signal on technology and science.",
-    url: function(){ return "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=6"; },
-    render: function(j){
-      if (!j.hits || !j.hits.length) return null;
-      return j.hits.slice(0,6).map(function(h){
-        const u = h.url || ("https://news.ycombinator.com/item?id=" + h.objectID);
-        return '<li><b>' + (h.points || 0) + '</b><span><a href="' + u +
-               '" target="_blank" rel="noopener">' + esc(h.title) + '</a></span></li>';
-      }).join("");
-    }
+    sources: [{
+      url: function(){ return "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=6"; },
+      render: function(j){
+        if (!j.hits || !j.hits.length) return null;
+        return j.hits.slice(0,6).map(function(h){
+          const u = h.url || ("https://news.ycombinator.com/item?id=" + h.objectID);
+          return '<li><b>' + (h.points || 0) + '</b><span><a href="' + u +
+                 '" target="_blank" rel="noopener">' + esc(h.title) + '</a></span></li>';
+        }).join("");
+      }
+    }]
   }
 };
+
+function fxRows(rates, asOf){
+  return Object.keys(rates).map(function(k){
+    return '<li><b>' + k + '</b><span>' + Number(rates[k]).toFixed(k === "JPY" ? 2 : 4) +
+           ' per &pound;1</span></li>';
+  }).join("") + (asOf ? '<li><b>as of</b><span>' + esc(asOf) + '</span></li>' : "");
+}
 
 function liveFetch(url, ms){
   const ctrl = new AbortController();
@@ -158,14 +180,19 @@ function loadLive(){
     const box = document.getElementById("live-" + key);
     if (!box) return;
     const spec = LIVE[key];
-    liveFetch(spec.url()).then(function(j){
-      const html = spec.render(j);
-      if (!html) throw new Error("empty");
-      box.innerHTML = '<ul class="livelist">' + html + '</ul>' +
-        '<p class="livestat ok">Live &middot; fetched just now</p>';
-    }).catch(function(){
-      box.innerHTML = '<p class="livefail">Could not reach this source. Live panels need a normal browser tab and a connection &mdash; if you are viewing this inside the app\'s preview panel, its sandbox may block outside requests. Everything else in the hub works offline.</p>';
-    });
+    (function attempt(i){
+      if (i >= spec.sources.length) {
+        box.innerHTML = '<p class="livefail">Could not reach this source right now. Live panels need a normal browser tab and a connection; some free providers also rate-limit. Everything else in the hub works regardless.</p>';
+        return;
+      }
+      const src = spec.sources[i];
+      liveFetch(src.url()).then(function(j){
+        const html = src.render(j);
+        if (!html) throw new Error("empty");
+        box.innerHTML = '<ul class="livelist">' + html + '</ul>' +
+          '<p class="livestat ok">Live &middot; fetched just now</p>';
+      }).catch(function(){ attempt(i + 1); });
+    })(0);
   });
 }
 
