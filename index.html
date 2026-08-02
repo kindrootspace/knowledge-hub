@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Knowledge Hub</title>
+<meta name="theme-color" content="#0b0d12">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Knowledge Hub">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%230b0d12'/%3E%3Ctext%20x='32'%20y='45'%20font-family='Georgia,serif'%20font-size='36'%20fill='%23fbbf24'%20text-anchor='middle'%3EK%3C/text%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20180'%3E%3Crect%20width='180'%20height='180'%20fill='%230b0d12'/%3E%3Ctext%20x='90'%20y='124'%20font-family='Georgia,serif'%20font-size='100'%20fill='%23fbbf24'%20text-anchor='middle'%3EK%3C/text%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="app">
+  <nav class="side">
+    <div class="brand">
+      <h1>Knowledge Hub</h1>
+      <p id="brandDate">Daily brief &amp; curricula</p>
+    </div>
+    <div class="navgroup">Today</div>
+    <button class="navitem" data-go="today" style="--ac:#fbbf24"><span class="dot"></span>Today's learning<span class="navmeta" id="dayNo"></span></button>
+    <button class="navitem" data-go="news" style="--ac:#f472b6"><span class="dot"></span>News brief<span class="navmeta" id="newsCount"></span></button>
+    <button class="navitem" data-go="home" style="--ac:#94a3b8"><span class="dot"></span>Overview</button>
+    <div class="navgroup">Learning tracks</div>
+    <div id="trackNav"></div>
+    <div class="navgroup">Explore</div>
+    <button class="navitem" data-go="thinkers" style="--ac:#e8e0c8"><span class="dot"></span>Great thinkers<span class="navmeta" id="thCount"></span></button>
+    <button class="navitem" data-go="questions" style="--ac:#94e2d5"><span class="dot"></span>Big questions<span class="navmeta" id="bqCount"></span></button>
+    <div class="navgroup">Reference</div>
+    <button class="navitem" data-go="glossary" style="--ac:#94a3b8"><span class="dot"></span>Glossary</button>
+    <button class="navitem" data-go="sources" style="--ac:#94a3b8"><span class="dot"></span>Sources</button>
+  </nav>
+  <main class="main" id="main"></main>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>
