@@ -1,0 +1,894 @@
+{
+ "id": "history",
+ "name": "History",
+ "tagline": "How the past is reconstructed, argued over and put to work",
+ "accent": "#d98b6a",
+ "blurb": "History is not a stock of settled facts waiting to be memorised. It is a discipline of inference from damaged, partial and interested evidence, and almost everything interesting in it is a live argument about what that evidence will bear. This track starts with method, because without it the rest is anecdote, then works forward from the first farmers to the ways the past is currently being weaponised.",
+ "modules": [
+  {
+   "id": "his-1",
+   "title": "How Historians Actually Know Things",
+   "oneLine": "The evidentiary machinery underneath every historical claim, and why the conclusions keep changing.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Sources and what they can bear",
+     "p": [
+      "The working distinction is not primary versus secondary — that pair is taught in schools and abandoned almost immediately afterwards — but between what a source was <em>for</em> and what you want it to tell you. A medieval manorial roll was written to record dues owed. It is poor evidence of what peasants believed and excellent evidence of how many oxen they had, because nobody had any motive to lie about oxen to that particular document. Marc Bloch called this reading against the grain: the most reliable information in a source is usually the information its author was not trying to convey.",
+      "The deeper constraint is survival. Archives are not samples; they are the residue of what somebody had reason to preserve. Literate, urban, male, propertied, state-adjacent lives are massively over-represented, and the bias is multiplicative — a document must be created, kept, survive fire and damp, be catalogued, and be in a language someone still reads. When a historian says the evidence is silent, that silence is itself an artefact with a history, which is Michel-Rolph Trouillot's central point about Haiti: a revolution contemporaries found literally unthinkable was recorded accordingly."
+     ]
+    },
+    {
+     "h": "Bias is not the problem you think it is",
+     "p": [
+      "The naive worry is that biased sources mislead us. The professional view is close to the opposite: bias is information. A hostile account of a heretical sect tells you what the accusers thought was damning, which is often the only route to what the sect actually did. What ruins an argument is not a partisan source but an <em>unrepresentative</em> body of sources whose partiality has not been mapped. Hence the emphasis on corroboration across independent evidentiary types: charters against archaeology, chronicles against coin hoards, parish registers against pollen cores and tree rings.",
+      "The historian's own bias is handled differently again. Nobody now believes in Leopold von Ranke's ideal of showing the past as it essentially was, uncoloured by the present; but the collapse of naive objectivity does not license the conclusion that all accounts are equally good. E.H. Carr's formulation still holds: the historian selects, but the facts push back, and an interpretation that requires ignoring evidence is worse than one that does not. That is a weaker standard than physics and a much stronger one than opinion."
+     ]
+    },
+    {
+     "h": "Why history gets rewritten",
+     "p": [
+      "Revision is not fashion. Three things drive it. New evidence: Soviet archival openings after 1991 settled several decades-old arguments about Stalinist repression, generally in favour of lower numerical estimates than dissidents had claimed and higher culpability than apologists had. New technique: radiocarbon calibration, dendrochronology, ancient DNA and isotopic analysis of tooth enamel have rewritten migration history so thoroughly that the 1990s consensus against population movement in prehistory has largely been reversed. New questions: once you ask about women, slaves, sanitation or climate, the same archives yield different books.",
+      "The failure mode to watch for is <em>presentism</em> — reading past actors as though they held our categories — and its mirror image, the assumption that people in the past were incapable of moral reasoning. Both are lazy. The abolitionist argument was available to eighteenth-century slaveholders because abolitionists were making it to them. Similarly, <em>Whig history</em>, the habit of narrating the past as a ramp towards present arrangements, survives less in academic writing than in journalism and political speech, where phrases like the wrong side of history do heavy unexamined work."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Reading against the grain",
+     "def": "Extracting from a source the information its author had no interest in shaping, which is usually the most reliable part of it."
+    },
+    {
+     "term": "Survivorship bias in archives",
+     "def": "The systematic over-representation of literate, propertied and state-connected lives caused by which documents were created and preserved."
+    },
+    {
+     "term": "Historiography",
+     "def": "The history of historical writing itself: what earlier historians asked, assumed and could not see."
+    },
+    {
+     "term": "Presentism",
+     "def": "Projecting contemporary categories, knowledge or moral frameworks onto actors who did not possess them."
+    },
+    {
+     "term": "Whig history",
+     "def": "Butterfield's term for narrating the past as a progressive ascent towards the present, judging actors by whether they anticipated us."
+    },
+    {
+     "term": "Silences of the archive",
+     "def": "Trouillot's argument that omissions in the record are produced by power at four stages, from fact creation to retrospective significance."
+    },
+    {
+     "term": "Microhistory",
+     "def": "Intensive reconstruction of a single small case, used to test whether generalisations hold at the scale people actually lived."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Leopold von Ranke (1795–1886)",
+     "note": "Professionalised the discipline around archival source criticism; his motto about showing the past as it essentially was is now cited mainly as the position everyone defines themselves against."
+    },
+    {
+     "name": "Marc Bloch (1886–1944)",
+     "note": "Co-founder of the Annales school and of long-run structural history; wrote The Historian's Craft in hiding before being shot by the Gestapo."
+    },
+    {
+     "name": "E.H. Carr (1892–1982)",
+     "note": "What Is History? — facts do not speak for themselves, the historian selects; his opponent Geoffrey Elton thought this a licence for ideology."
+    },
+    {
+     "name": "Michel-Rolph Trouillot (1949–2012)",
+     "note": "Silencing the Past — power operates on the record itself, so absences must be explained rather than accepted."
+    }
+   ],
+   "debate": {
+    "title": "Can historical writing be objective in any useful sense?",
+    "sides": [
+     {
+      "label": "Reconstruction is real",
+      "text": "Evidence constrains. Some accounts are refuted by documents, stratigraphy or isotope data, and the discipline has repeatedly abandoned positions its practitioners preferred. That asymmetry between what historians want and what they can defend is what objectivity practically means."
+     },
+     {
+      "label": "Selection is unavoidable",
+      "text": "Every step from question to narrative involves choices no evidence dictates: which archive, which scale, which causal chain counts as the explanation. The pretence of a view from nowhere mostly conceals whose questions are being asked, which is why the field looked so different once its personnel changed."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Historian's Craft",
+     "who": "Marc Bloch — the best short statement of what the job involves."
+    },
+    {
+     "title": "What Is History?",
+     "who": "E.H. Carr — read alongside Elton's The Practice of History for the other side."
+    },
+    {
+     "title": "Silencing the Past",
+     "who": "Michel-Rolph Trouillot — on how the record is produced, not merely found."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why might a hostile source be more useful than a sympathetic one?",
+     "a": "Because hostility tells you what contemporaries thought was worth attacking, and hostile writers often preserve concrete detail — names, practices, numbers — that friendly accounts smooth away. The bias is legible and can be corrected for; unrepresentative silence cannot."
+    },
+    {
+     "q": "Give a case where new technique, not new documents, forced a rewrite.",
+     "a": "Ancient DNA. Sequencing of Bronze Age remains from about 2015 onwards demonstrated large-scale steppe ancestry entering Europe around 3000 BCE, reversing a long consensus that cultural change spread mostly through ideas rather than people."
+    }
+   ]
+  },
+  {
+   "id": "his-2",
+   "title": "Farming, Sedentism and the First States",
+   "oneLine": "Why people took up agriculture despite it making them shorter, sicker and busier, and what states did with the result.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The puzzle nobody expected",
+     "p": [
+      "For most of the twentieth century agriculture was the obvious good: a discovery that freed humans from precarious foraging. The skeletal evidence demolished that. Across the Levant, Anatolia, the Americas and China, the transition to farming is associated with falling adult stature, more dental caries and enamel hypoplasia, higher parasite loads, iron-deficiency anaemia and a narrower diet. Jared Diamond's description of it as the worst mistake in human history was polemical, but the underlying palaeopathology is not seriously disputed.",
+      "Nor was it a quick decision. At Göbekli Tepe in south-eastern Anatolia, monumental carved pillars were raised around 9500 BCE by people who were still, on the current reading, primarily foragers. Domestication of wheat, barley, sheep and goats took two to three thousand years of gradual morphological change. There was no moment at which anyone chose farming, which is exactly why the outcome could be one nobody would have chosen."
+     ]
+    },
+    {
+     "h": "Why it happened anyway",
+     "p": [
+      "The best current answers are demographic and ratchet-like rather than intentional. Sedentism shortens birth intervals: a mother who is not carrying infants between camps can support more children at once. Jean-Pierre Bocquet-Appel's Neolithic Demographic Transition shows fertility rising sharply at the onset of farming while mortality rises too — more people, living worse. Once population density has risen on a cultivated landscape, reversion is not available; the foraging option has been eaten. Add Younger Dryas climate volatility and post-glacial stabilisation after roughly 9600 BCE, and you have opportunity plus a trap.",
+      "The other half of the answer is that farming has one decisive advantage over foraging that has nothing to do with welfare: it produces storable surplus, and storable surplus can be defended, lent, inherited and taxed. Inequality in the archaeological record — differential grave goods, house sizes, storage capacity — tracks storability closely. This is where the standard narrative of civilisation begins, and it begins with a granary."
+     ]
+    },
+    {
+     "h": "The state as a grain machine",
+     "p": [
+      "James C. Scott's argument in Against the Grain is that early states did not arise wherever agriculture did, but specifically where <em>cereals</em> did. Grain ripens predictably, above ground, all at once, and divides into countable units. Cassava and yams do not: they sit in the earth and can be dug when needed, which makes them close to untaxable. On this account the state is a technology for appropriating the visible harvest, and the first writing supports it — the proto-cuneiform tablets from Uruk around 3200 BCE are overwhelmingly ledgers of grain, beer, livestock and labour, not literature or law.",
+      "The cost side is worth stating plainly, because the triumphal version omits it: early states are also the first context for systematic slavery, bonded labour, epidemic disease from crowding and livestock proximity, and walls that were arguably as much about keeping subjects in as enemies out. Scott's picture of the barbarian periphery as a preferable place to live for many centuries is contested but has real support. The countervailing case, made forcefully by David Graeber and David Wengrow, is that all of this is far less uniform than either the progressive or the pessimist story allows: Ukrainian mega-sites of eight thousand or more people show no evidence of palaces or central authority, and seasonal alternation between hierarchical and egalitarian arrangements looks common."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Neolithic Demographic Transition",
+     "def": "The sharp rise in fertility and in mortality that accompanies the shift to farming, producing more people in worse health."
+    },
+    {
+     "term": "Domestication syndrome",
+     "def": "The suite of morphological changes — smaller seeds shattering less readily, docility, size shifts — that marks a species as under human selection."
+    },
+    {
+     "term": "Sedentism",
+     "def": "Year-round occupation of a fixed site, which precedes agriculture in several regions and drives much of its demographic effect."
+    },
+    {
+     "term": "Legibility",
+     "def": "Scott's term for the state's need to render populations and harvests countable; illegible crops and mobile peoples are effectively untaxable."
+    },
+    {
+     "term": "Secondary products revolution",
+     "def": "Sherratt's argument that milk, wool, traction and manure, exploited well after initial domestication, transformed farming's economics."
+    },
+    {
+     "term": "Zoonosis",
+     "def": "Disease crossing from livestock to humans; the crowd infections of settled life have no clear pre-Neolithic equivalent."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "V. Gordon Childe (1892–1957)",
+     "note": "Coined Neolithic Revolution and Urban Revolution; his Marxist framing set the agenda even for those who rejected it."
+    },
+    {
+     "name": "Jared Diamond",
+     "note": "Guns, Germs and Steel put geographic determinism into mainstream argument; specialists object that the deterministic reading flattens contingency and agency."
+    },
+    {
+     "name": "James C. Scott (1936–2024)",
+     "note": "Against the Grain and Seeing Like a State — the state as an extractive apparatus whose demands shaped which crops and which people flourished."
+    },
+    {
+     "name": "David Graeber (1961–2020) and David Wengrow",
+     "note": "The Dawn of Everything — attacks the linear band-to-state sequence, arguing early societies experimented far more widely than either standard story admits."
+    }
+   ],
+   "debate": {
+    "title": "Was the adoption of agriculture a catastrophe or a foundation?",
+    "sides": [
+     {
+      "label": "A trap",
+      "text": "The bioarchaeology is one-directional: shorter, sicker, more overworked bodies, plus epidemic disease, entrenched inequality and slavery. Nobody living through it gained, and the ratchet of population growth removed the exit. Calling it progress is judging by aggregate output, which is precisely what the people involved did not experience."
+     },
+     {
+      "label": "A foundation",
+      "text": "Every subsequent good — literacy, specialised medicine, accumulated technique, populations large enough to sustain division of labour — depends on surplus. Foraging supports perhaps ten million people worldwide. The relevant comparison is not a Neolithic farmer against a Palaeolithic forager but the entire subsequent range of human possibility against its absence."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Against the Grain",
+     "who": "James C. Scott — short, argumentative, the best statement of the pessimist case."
+    },
+    {
+     "title": "The Dawn of Everything",
+     "who": "Graeber and Wengrow — deliberately unsettling; check the reviews by specialists alongside."
+    },
+    {
+     "title": "The Oxford Handbook of the Archaeology of Diet",
+     "who": "For the palaeopathology, if you want the evidence rather than the argument."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does Scott think cereals rather than agriculture as such explain early states?",
+     "a": "Because grain ripens at a fixed time above ground and divides into countable units, so a tax collector can arrive on a known date and assess the yield. Tuber-based agriculture leaves the crop in the ground until needed, which makes appropriation impractical and state formation correspondingly unlikely."
+    },
+    {
+     "q": "If farming made people less healthy, why did it spread?",
+     "a": "Because it raised fertility and population density even as it lowered welfare, and a denser population cannot revert to foraging on a landscape it has already transformed. Selection operated on the number of descendants, not on how well anyone lived."
+    }
+   ]
+  },
+  {
+   "id": "his-3",
+   "title": "Empires: the Logic of Rome and China",
+   "oneLine": "What imperial systems actually do to survive, and why the two great test cases came apart so differently.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "What an empire is",
+     "p": [
+      "Jane Burbank and Frederick Cooper give the most usable definition: an empire is a large political unit that maintains and exploits <em>difference</em> among the peoples it rules, as against the nation-state, which works towards homogeneity. That is not a moral distinction but a structural one, and it explains a great deal. Rome could extend citizenship to every free inhabitant in 212 CE precisely because Roman identity was legal rather than ethnic. The Qing ruled as Confucian emperors in China, Buddhist patrons in Tibet and khans in Mongolia, simultaneously and without embarrassment.",
+      "The machinery is remarkably consistent across cases. Co-opt local elites by making collaboration more profitable than resistance. Extract enough tax to pay an army large enough to deter the next revolt, but not so much that revolt becomes rational. Build the communication infrastructure that makes both possible — the cursus publicus, the Grand Canal, the Inca road system. And supply a legitimating story that the ruled can partly believe: the Mandate of Heaven, the pax Romana, the civilising mission."
+     ]
+    },
+    {
+     "h": "Rome and Han: the same problems, different solutions",
+     "p": [
+      "The two systems were roughly contemporaneous and roughly comparable in scale — the Han census of 2 CE recorded 57.7 million people, and estimates for the Roman empire at its second-century peak run to 60 or 70 million. Their divergence is instructive. Rome ran a relatively thin administration over a heavily urbanised Mediterranean, delegating to cities and relying on an army that eventually consumed most of the budget and, from the third century, made and unmade emperors. Han China built an examination-adjacent bureaucracy, a canonical civil ideology and a registered peasantry, and kept its military under civilian suspicion.",
+      "The consequence shows in what happened after collapse. China's imperial framework was reconstituted repeatedly — Sui, Tang, Song, Ming, Qing — because the bureaucratic and ideological templates survived the dynasty. Rome's western half was never reassembled, and the attempts to claim its mantle from Charlemagne to the Habsburgs were symbolic rather than administrative. Walter Scheidel's argument is that this divergence, the durability of a single Chinese imperial equilibrium against Europe's persistent fragmentation, is the deep structure behind everything in the next two modules."
+     ]
+    },
+    {
+     "h": "How they end",
+     "p": [
+      "Three families of explanation are live. <em>Exogenous shock</em>: Peter Heather's case that the western empire was destroyed by external military pressure, itself triggered by Hunnic movements, and that without the barbarian invasions Rome would have continued. <em>Systemic overload</em>: Joseph Tainter's argument that complex societies invest in complexity to solve problems, hit declining marginal returns, and eventually find collapse the rational simplification. <em>Internal cycle</em>: Ibn Khaldun's fourteenth-century model of asabiyya, group solidarity, decaying over roughly four generations as a conquering elite becomes urban and comfortable, which maps uncomfortably well onto the Chinese dynastic pattern.",
+      "Cutting across all three is the argument about whether the western Roman collapse was a catastrophe at all. Peter Brown and Walter Goffart shifted the field towards transformation — accommodation, gradual cultural fusion, a late antiquity with its own achievements. Bryan Ward-Perkins pushed back with material evidence: the near-disappearance of standardised fine pottery, the collapse of long-distance ceramic distribution, the end of large-scale roof tile production, and Greenland ice-core lead pollution falling to pre-Roman levels and not recovering until the eighteenth century. Something ended, whatever one calls it. Note that both camps are reading real evidence; they weight material living standards against cultural continuity differently."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Politics of difference",
+     "def": "Burbank and Cooper's criterion: empires manage and exploit the distinctness of their subject peoples rather than dissolving it."
+    },
+    {
+     "term": "Elite co-option",
+     "def": "Buying local rulers into the imperial system with rank, tax farming and protection, so that revolt costs them more than compliance."
+    },
+    {
+     "term": "Mandate of Heaven",
+     "def": "The Chinese doctrine that legitimate rule is conditional on performance, providing both a justification for the dynasty and a ready-made theory of its overthrow."
+    },
+    {
+     "term": "Asabiyya",
+     "def": "Ibn Khaldun's group cohesion; strongest among austere frontier groups, dissipating as they become the settled elite."
+    },
+    {
+     "term": "Declining marginal returns on complexity",
+     "def": "Tainter's mechanism: each added layer of administration or infrastructure yields less benefit per unit cost until simplification dominates."
+    },
+    {
+     "term": "Late antiquity",
+     "def": "The reframing of roughly 250–750 CE as a period with its own logic rather than as the tail of Rome's decline."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Edward Gibbon (1737–1794)",
+     "note": "Decline and Fall — magnificent, and wrong in its central claim that Christianity sapped Roman civic vigour; still worth reading for the prose and the method."
+    },
+    {
+     "name": "Ibn Khaldun (1332–1406)",
+     "note": "The Muqaddimah proposed a genuinely sociological account of dynastic rise and fall four centuries before anyone in Europe attempted one."
+    },
+    {
+     "name": "Joseph Tainter",
+     "note": "The Collapse of Complex Societies — collapse as a rational response to the costs of complexity, applied comparatively from the Maya to Chaco Canyon."
+    },
+    {
+     "name": "Walter Scheidel",
+     "note": "Escape from Rome — argues that Europe's failure to rebuild a single empire, not any positive European trait, is what eventually permitted divergent development."
+    }
+   ],
+   "debate": {
+    "title": "Did the western Roman empire fall, or transform?",
+    "sides": [
+     {
+      "label": "It fell",
+      "text": "The material record shows a steep drop in living standards: fine pottery, coinage, literacy, cattle size, building in stone and long-distance trade all contract sharply in the fifth and sixth centuries. Ice-core lead deposition, a proxy for metal smelting, does not recover for over a thousand years. Calling that a transformation is a euphemism produced by focusing on elite culture."
+     },
+     {
+      "label": "It transformed",
+      "text": "The barbarian groups were long-standing federates who wanted into the Roman system, not to destroy it; Roman law, Latin, episcopal administration and landholding structures persisted for centuries. The catastrophe narrative was built by nineteenth-century historians for whom civilisational collapse served nationalist purposes, and it obscures a genuinely creative period."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Empires in World History",
+     "who": "Burbank and Cooper — the comparative frame, from Rome to the Soviet Union."
+    },
+    {
+     "title": "The Fall of Rome and the End of Civilization",
+     "who": "Bryan Ward-Perkins — brisk, and the sharpest statement of the material case."
+    },
+    {
+     "title": "The Muqaddimah",
+     "who": "Ibn Khaldun — read the sections on asabiyya and dynastic decay; the rest is a bonus."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why was the Chinese imperial system rebuilt repeatedly while Rome's west was not?",
+     "a": "Because China's continuity rested on transferable institutional templates — a canonical bureaucratic ideology, an examined civil service, a registered tax-paying peasantry — that outlived any particular dynasty. Roman authority in the west was carried by cities, an army and a legal citizenship that fragmented with the state itself."
+    },
+    {
+     "q": "What evidence do the catastrophe theorists rely on that the transformation theorists tend to downplay?",
+     "a": "Bulk material indicators rather than texts: ceramic distribution, coin circulation, animal bone sizes, building techniques and industrial pollution proxies in ice cores. These track ordinary living standards, whereas continuity of law, language and church structure tracks elite institutions."
+    }
+   ]
+  },
+  {
+   "id": "his-4",
+   "title": "The World Beyond Europe, 750–1700",
+   "oneLine": "The centres of wealth, science and power during the centuries the standard curriculum spends on Europe.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The Islamic world: what the golden age actually was",
+     "p": [
+      "Between roughly 800 and 1400 the Arabic-reading world was the principal site of mathematical and astronomical work anywhere. Al-Khwarizmi, working in ninth-century Baghdad, gave his name to the algorithm and his book's title to algebra. Ibn al-Haytham's Book of Optics, written around 1020, does something no Greek text does: it states hypotheses and tests them with controlled apparatus, which is why claims for him as a founder of experimental method are not merely decorative. The astronomers of the Maragha observatory in thirteenth-century Iran developed geometrical devices — the Tusi couple among them — that reappear, unattributed, in Copernicus.",
+      "Two corrections matter. First, the House of Wisdom was not a great research academy; Dimitri Gutas has shown the grand version is a modern invention, and the translation movement was a diffuse, patronage-driven affair across many households. Second, the story that al-Ghazali's attack on the philosophers around 1095 killed Islamic science is, as George Saliba and others have demonstrated, contradicted by the evidence — the most productive astronomy came afterwards, at Maragha and then at Ulugh Beg's Samarkand observatory in the 1420s. Something did change eventually; the simple religious-obscurantism explanation is not what the manuscripts show."
+     ]
+    },
+    {
+     "h": "Song China and the industrial revolution that was not",
+     "p": [
+      "Song China between 960 and 1279 assembled an unnerving proportion of the industrial revolution's components. Movable type by around 1040. The first government paper currency, developing from Sichuanese jiaozi notes into state issue in 1024. Gunpowder weapons, the magnetic compass in navigation, blast furnaces using coal, water-powered spinning. Kaifeng, the capital, probably held around three quarters of a million people at a time when no European city reached a hundred thousand. Robert Hartwell's estimate of some 125,000 tons of iron a year by 1078 is now regarded as too high by several specialists, but even the revised figures exceed anything in Europe until well into the eighteenth century.",
+      "Why no take-off followed is the question the next module addresses. What matters here is refusing the two lazy answers: that China was stagnant, which the record flatly contradicts, and that it was simply prevented by Mongol conquest or Ming introspection, which is too neat given how prosperous the late Ming and high Qing economies were. The honest position is that the absence needs explaining rather than assuming."
+     ]
+    },
+    {
+     "h": "Mali, the Indian Ocean and Mughal India",
+     "p": [
+      "Fourteenth-century Mali controlled the goldfields supplying much of Eurasia's bullion. Mansa Musa's hajj of 1324 was spectacular enough that a Catalan mapmaker was still drawing him, enthroned with a gold nugget, in 1375 — though the frequently repeated claim that his spending crashed Cairo's gold price for a decade rests on a single chronicler and has been embellished considerably since. Timbuktu's manuscript libraries, tens of thousands of volumes of jurisprudence, astronomy and correspondence, survive and are being catalogued now.",
+      "Janet Abu-Lughod's argument in Before European Hegemony is the frame worth carrying away: a thirteenth-century world system of eight overlapping trade circuits, from Bruges to Guangzhou, in which no region dominated and Europe was peripheral. Mughal India sat at its richest node. Angus Maddison's reconstruction, disputed in detail but not in order of magnitude, puts the subcontinent at roughly a quarter of world output around 1700 against Britain's three per cent, with Bengal's cotton textile industry supplying markets from Japan to West Africa. Akbar's abolition of the jizya tax in 1564 and his experiments in confessional pluralism are worth knowing precisely because Aurangzeb's reversal in 1679 shows how contingent such settlements are."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Translation movement",
+     "def": "The eighth- to tenth-century Abbasid programme rendering Greek, Persian and Sanskrit scientific works into Arabic, driven by elite patronage rather than a single institution."
+    },
+    {
+     "term": "Tusi couple",
+     "def": "A geometrical construction generating linear motion from two circles, developed at Maragha and reappearing in Copernicus without acknowledgement."
+    },
+    {
+     "term": "Jiaozi",
+     "def": "Sichuanese merchant promissory notes that became, from 1024, the world's first government-issued paper money."
+    },
+    {
+     "term": "Thirteenth-century world system",
+     "def": "Abu-Lughod's model of interlocking Eurasian and Indian Ocean trade circuits with no dominant centre and a marginal Europe."
+    },
+    {
+     "term": "Trans-Saharan trade",
+     "def": "The gold-for-salt and slave routes that made Ghana, Mali and Songhai fiscally powerful and connected West Africa to Mediterranean bullion markets."
+    },
+    {
+     "term": "Mansabdari system",
+     "def": "The Mughal ranked service hierarchy allocating revenue assignments in return for cavalry obligations, deliberately non-hereditary to prevent entrenchment."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Joseph Needham (1900–1995)",
+     "note": "Science and Civilisation in China documented Chinese priority in dozens of technologies and posed the question that still carries his name."
+    },
+    {
+     "name": "George Saliba",
+     "note": "Islamic Science and the Making of the European Renaissance — dismantled the decline-after-Ghazali narrative using the astronomical manuscripts themselves."
+    },
+    {
+     "name": "Janet Abu-Lughod (1928–2013)",
+     "note": "Before European Hegemony — showed a functioning global economy before 1350 in which Europe was a customer, not a hub."
+    },
+    {
+     "name": "Marshall Hodgson (1922–1968)",
+     "note": "The Venture of Islam — coined Islamicate for the shared civilisation beyond the religion, and attacked the map projections and periodisations that made Europe look central."
+    }
+   ],
+   "debate": {
+    "title": "Is the golden-age-and-decline framing useful for the Islamic world?",
+    "sides": [
+     {
+      "label": "It distorts",
+      "text": "The framing forces a search for a moment of failure and invites theological explanation. The manuscript record shows sustained astronomical, medical and mathematical production into the seventeenth century, and Ottoman, Safavid and Mughal states were among the most powerful on earth in 1600. What changed was relative, driven by developments elsewhere."
+     },
+     {
+      "label": "It describes something real",
+      "text": "Relative decline is decline. Printing was resisted for centuries, institutional forms such as the corporation did not develop, and by 1800 the scientific centre of gravity had unambiguously moved. Refusing the word because it has been misused politically leaves a real and important divergence unexamined."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Before European Hegemony",
+     "who": "Janet Abu-Lughod — the pre-1500 world economy, and the best cure for Eurocentric sequencing."
+    },
+    {
+     "title": "The Venture of Islam",
+     "who": "Marshall Hodgson — long, but the standard against which later syntheses are measured."
+    },
+    {
+     "title": "The Silk Roads",
+     "who": "Peter Frankopan — popular and Asia-centred; treat the sweeping claims as an invitation to check."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is wrong with the claim that al-Ghazali ended Islamic science?",
+     "a": "The chronology defeats it. The most sophisticated Islamic astronomy — the Maragha school, Ibn al-Shatir, Ulugh Beg's Samarkand observatory — comes after 1100, and much of it fed directly into Copernicus. The narrative persists because it offers a single satisfying cause for a change that was gradual, relative and multi-factorial."
+    },
+    {
+     "q": "Why does Song China complicate stories about European technological uniqueness?",
+     "a": "Because printing, paper money, gunpowder, the compass, coal-fired metallurgy and water-powered textile machinery all appear there first, several centuries early. That rules out simple accounts based on invention or ingenuity and forces the explanation onto why those components were not assembled into self-sustaining growth."
+    }
+   ]
+  },
+  {
+   "id": "his-5",
+   "title": "The Great Divergence",
+   "oneLine": "Why sustained industrial growth began in one small place, and why the answer is still genuinely open.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The question, and why the timing matters",
+     "p": [
+      "Around 1750 the most advanced regions of Europe and Asia were, on many measures, comparable. Two centuries later, income per head in Britain was perhaps ten times that in China. Nothing before this compares in consequence, and the explanation you accept determines what you think about colonialism, institutions, culture and development policy today — which is precisely why it is fought over so hard.",
+      "The first thing to establish is when the gap opened, because different dates rule out different causes. Kenneth Pomeranz's 2000 book argued that the Yangzi delta and England were broadly similar in life expectancy, calorie intake, market development and consumption as late as 1750, making the divergence sudden and late. Stephen Broadberry and colleagues, reconstructing national accounts back through the medieval period, argue instead that English GDP per head was already pulling ahead by 1700 and possibly from the fourteenth century, which would make the divergence slow and deep. This is an empirical dispute about reconstructed data, and it is not settled."
+     ]
+    },
+    {
+     "h": "The main schools and their evidence",
+     "p": [
+      "<strong>Coal and colonies.</strong> Pomeranz's mechanism is that Britain had two windfalls unavailable to the Yangzi: coal seams close to navigable water and to the industrial workforce, and New World land supplying the equivalent of perhaps twenty-five million acres of timber, cotton and sugar calories — ghost acreage that lifted the ecological ceiling constraining every advanced organic economy. On this reading the divergence is contingent and geographic rather than a reward for European virtue.",
+      "<strong>Relative prices.</strong> Robert Allen's version keeps the coal and adds a wage argument: Britain uniquely combined high labour costs with cheap fuel and capital, so machines that were unprofitable in France or Bengal paid for themselves in Lancashire. His evidence is welfare ratios assembled from wage and price series across Eurasian cities. The elegant part is that it explains why the same inventions were not adopted where they were known — not ignorance but arithmetic.",
+      "<strong>Institutions and culture.</strong> Douglass North and, later, Acemoglu and Robinson locate the cause in secure property rights, constraints on the executive after 1688 and open access to entrepreneurship. Joel Mokyr's version is cultural-intellectual: a European Republic of Letters combining Baconian instrumentalism with competitive fragmentation, so heterodox thinkers could move between jurisdictions. Against these, Broadberry's earlier-divergence data can be read as support, since it points to deep institutional differences rather than a lucky eighteenth century."
+     ]
+    },
+    {
+     "h": "Slavery, and how to think about the whole argument",
+     "p": [
+      "Eric Williams argued in 1944 that Caribbean slave profits financed British industrialisation. Economic historians spent decades rebutting the strong version — Stanley Engerman calculated slave trade profits at a small fraction of British investment — and a newer literature associated with Sven Beckert and Edward Baptist has revived a modified claim: that slavery mattered less as a direct funding source than as the supplier of the cotton input, the guaranteed colonial market, and the credit and insurance instruments the City developed to handle it. The quantitative critique of this revival is itself vigorous. Treat both the dismissal and the revival as live.",
+      "The methodological point is more useful than any verdict. These schools are not simply contradictory: coal endowment, wage structure, colonial inputs and institutional form could all be jointly necessary, and most serious practitioners now hold some weighted combination. What distinguishes them is which factor they think was <em>binding</em> — the one whose absence would have prevented the outcome. When you read a confident single-cause account of the industrial revolution, whichever cause it names, that is the tell."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Great Divergence",
+     "def": "The opening of a large and sustained income gap between north-west Europe and the rest of Eurasia, conventionally dated to somewhere between 1500 and 1800."
+    },
+    {
+     "term": "Ghost acreage",
+     "def": "Pomeranz's term for the land-equivalent embodied in imported goods, which relaxed the ecological constraint on an organic economy."
+    },
+    {
+     "term": "High-wage economy",
+     "def": "Allen's characterisation of Britain: expensive labour and cheap energy made labour-saving machinery profitable there and nowhere else."
+    },
+    {
+     "term": "Involution",
+     "def": "Growth in total output through ever more intensive labour on fixed land, with falling returns per worker — long applied to late imperial China, now contested."
+    },
+    {
+     "term": "Malthusian ceiling",
+     "def": "The pre-industrial constraint whereby population growth absorbs productivity gains, so income per head is trendless over centuries."
+    },
+    {
+     "term": "California School",
+     "def": "Pomeranz, Wong, Frank and others who reject European exceptionalism and treat the divergence as late, contingent and resource-driven."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Kenneth Pomeranz",
+     "note": "The Great Divergence — reframed the debate by insisting on like-for-like regional comparison rather than Europe against all of Asia."
+    },
+    {
+     "name": "Robert Allen",
+     "note": "The British Industrial Revolution in Global Perspective — supplied the wage and price series that turned a cultural argument into a testable one about relative costs."
+    },
+    {
+     "name": "Joel Mokyr",
+     "note": "A Culture of Growth — the case that useful knowledge became socially prestigious in Europe, and that fragmented jurisdictions protected heretics."
+    },
+    {
+     "name": "Stephen Broadberry",
+     "note": "Historical national accounting that dates English divergence far earlier, which if correct undercuts the late-and-contingent story."
+    }
+   ],
+   "debate": {
+    "title": "Was the divergence caused by luck and coercion, or by institutions and culture?",
+    "sides": [
+     {
+      "label": "Resources and empire",
+      "text": "Coal at the right place, and colonies supplying land-intensive goods and captive markets, lifted a constraint that bound every other advanced economy. Comparable regions elsewhere had markets, property rights and skilled artisans and did not industrialise, which suggests the missing ingredient was not institutional. Attributing the outcome to European virtue also requires ignoring who paid for the inputs."
+     },
+     {
+      "label": "Institutions and knowledge",
+      "text": "Coal is common and colonies were held by Spain and Portugal, which did not industrialise; Britain's distinctiveness was constraints on arbitrary power, cheap credit, patent-protected invention and a culture that rewarded applied knowledge. If the divergence was already underway by 1700, as reconstructed national accounts suggest, then eighteenth-century windfalls cannot be the cause."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Great Divergence",
+     "who": "Kenneth Pomeranz — the book that reopened the question; read the comparisons closely."
+    },
+    {
+     "title": "The British Industrial Revolution in Global Perspective",
+     "who": "Robert Allen — the price-and-wage argument, admirably explicit about its data."
+    },
+    {
+     "title": "Why Europe Grew Rich and Asia Did Not",
+     "who": "Prasannan Parthasarathi — the case that competition from Indian textiles drove British innovation."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does the date of the divergence matter so much to the argument?",
+     "a": "Because a late divergence around 1750 is compatible with contingent causes such as coal location and colonial resources, while an early one is not — causes must precede effects. That is why the reconstruction of pre-industrial GDP series, which sounds technical, is the most contested front in the debate."
+    },
+    {
+     "q": "What does Allen's argument explain that a pure invention-based account cannot?",
+     "a": "Non-adoption. The spinning jenny and early steam engines were known outside Britain but were not worth installing where labour was cheap and fuel expensive. Framing the question as one of relative prices turns the puzzle from why the British were clever into why mechanisation paid there first."
+    }
+   ]
+  },
+  {
+   "id": "his-6",
+   "title": "Revolutions and the Modern Political Order",
+   "oneLine": "What separates a revolution from a coup, a rebellion or a reform — and what 1776, 1789, 1848 and 1917 actually did.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "What counts as a revolution",
+     "p": [
+      "Theda Skocpol's definition remains the most demanding: a social revolution is a rapid, basic transformation of a society's state <em>and</em> class structures, carried through by class-based revolts from below. On that test the American Revolution barely qualifies, since colonial social structure survived largely intact, while France, Russia and China clearly do. The corollary is her famous claim that revolutions are not made but come: they require a state already weakened by international competition and fiscal strain, plus an agrarian structure that permits peasant insurrection. Ideology, on this account, shapes what revolutionaries build, not whether they succeed.",
+      "The alternative tradition emphasises exactly what Skocpol brackets. Hannah Arendt distinguished the American revolution, concerned with founding institutions of political freedom, from the French, overwhelmed by the social question of poverty — and argued the difference explains the Terror. Tocqueville's contribution, from 1856, is the most durable single finding in the field: the Revolution completed the centralisation the monarchy had begun, and conditions in France were improving, not worsening, before 1789. Rising expectations, not immiseration, is the pattern that recurs."
+     ]
+    },
+    {
+     "h": "The sequence, 1776 to 1848",
+     "p": [
+      "Three points about 1789 that popular accounts blur. It began as a fiscal crisis: debt service consumed roughly half of royal revenue by 1788, and the Estates-General was summoned because the crown could not tax the privileged orders. The radicalisation was substantially driven by war from April 1792 onwards, which converted internal opposition into treason — the Terror of 1793 to 1794 killed perhaps seventeen thousand by formal execution and many more in the Vendée, under a government that genuinely believed itself besieged. And it did not end in 1794; the pattern of revolution, Thermidorean reaction and Bonapartist consolidation is a template later revolutions repeat.",
+      "Two events belong in the sequence and are usually missing. Haiti, from the 1791 uprising to independence in 1804, is the only slave revolt in history to produce a state, and France extracted an indemnity of 150 million francs in 1825 that Haiti serviced until 1947 — a fiscal fact with a very long shadow. And 1848, the springtime of peoples, failed almost everywhere within eighteen months, yet abolished serfdom permanently in the Habsburg lands and taught a generation of liberals that constitutional reform without armed force is revocable. Failed revolutions change things too."
+     ]
+    },
+    {
+     "h": "1917 and the argument about it",
+     "p": [
+      "Russia had two revolutions in 1917. February was unplanned, driven by bread queues, women textile workers and a Petrograd garrison that would not fire, and it ended the monarchy within a week. October was planned, executed by a disciplined party against a Provisional Government that had lost its army by insisting on continuing the war. Whether the second was a revolution or a coup is a real historiographical fight. Richard Pipes argued for a putsch by a conspiratorial minority; the social historians — Sheila Fitzpatrick, Alexander Rabinowitch — documented genuine mass radicalisation, with Bolsheviks holding majorities in the Petrograd and Moscow soviets by September.",
+      "The awkward fact for both sides is the Constituent Assembly election of November 1917, the freest vote in Russian history, in which the Socialist Revolutionaries took around 40 per cent and the Bolsheviks about 24, after which the Assembly was dissolved by force in January 1918. The coup theorists point to the dissolution; the revisionists point to the urban and military returns, where Bolshevik support was concentrated exactly where power was decided. Both are describing the same numbers. What separates them is whether legitimacy is measured nationally or where the guns were."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Social revolution",
+     "def": "Skocpol's category: simultaneous transformation of state structures and class relations, driven from below, as distinct from a political revolution that changes only the regime."
+    },
+    {
+     "term": "Dual power",
+     "def": "Lenin's term for the coexistence of the Provisional Government and the soviets between February and October 1917; a general feature of revolutionary interregnums."
+    },
+    {
+     "term": "Thermidorean reaction",
+     "def": "The consolidating phase after revolutionary radicalism exhausts itself, named for the fall of Robespierre in July 1794."
+    },
+    {
+     "term": "Rising expectations",
+     "def": "The finding, from Tocqueville and later Davies, that revolt follows improvement interrupted rather than sustained misery."
+    },
+    {
+     "term": "Revolutionary situation",
+     "def": "Tilly's formulation: multiple blocs making incompatible claims to sovereignty, with significant popular backing for more than one."
+    },
+    {
+     "term": "Constituent assembly",
+     "def": "A body elected to write a constitution; its treatment is usually the clearest early signal of whether a revolution intends to be democratic."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Alexis de Tocqueville (1805–1859)",
+     "note": "The Old Regime and the Revolution — revolutions come when things are improving, and often complete what the ancien regime had started."
+    },
+    {
+     "name": "Theda Skocpol",
+     "note": "States and Social Revolutions — a structural, comparative account that deliberately removes revolutionary intention from the explanation."
+    },
+    {
+     "name": "Hannah Arendt (1906–1975)",
+     "note": "On Revolution — the American and French cases diverged because one addressed political freedom and the other the social question of poverty."
+    },
+    {
+     "name": "C.L.R. James (1901–1989)",
+     "note": "The Black Jacobins — put Haiti at the centre of the Atlantic revolutionary age decades before the profession followed."
+    }
+   ],
+   "debate": {
+    "title": "Was October 1917 a popular revolution or a seizure of power by a minority?",
+    "sides": [
+     {
+      "label": "A revolution",
+      "text": "Workers' committees, soldiers' soviets and peasant land seizures had already dismantled the old order before October; the Bolsheviks held soviet majorities in the two decisive cities and were the only party willing to end the war and ratify the land seizures. The takeover met almost no resistance because it registered a shift that had already occurred."
+     },
+     {
+      "label": "A coup",
+      "text": "A tightly organised party took the capital's key points with a few thousand men, then dissolved by force the only freely elected national assembly in Russian history, in which it had won under a quarter of the vote. Popular radicalisation was real, but it was mostly not Bolshevik outside the cities, and the one-party state followed immediately."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "States and Social Revolutions",
+     "who": "Theda Skocpol — the structural case, still the benchmark others argue with."
+    },
+    {
+     "title": "The Black Jacobins",
+     "who": "C.L.R. James — Haiti, written in 1938 with an eye on African decolonisation."
+    },
+    {
+     "title": "The Russian Revolution",
+     "who": "Sheila Fitzpatrick — short, and scrupulous about what the evidence supports."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does Tocqueville's finding about improving conditions matter for reading current politics?",
+     "a": "Because it predicts instability where reform has raised expectations and then stalled, not where deprivation is deepest. The most dangerous moment for a regime is typically when it begins liberalising, which is also why authoritarian leaders often conclude that partial reform is more dangerous than none."
+    },
+    {
+     "q": "What does the 1848 sequence show about failed revolutions?",
+     "a": "That reversal at the level of regimes can coexist with permanent change underneath. Almost every 1848 constitution was revoked within two years, but Habsburg serfdom was abolished for good, and the failure convinced liberals across Europe that unification and reform would need state power rather than street assemblies — which is how Bismarck's Germany became possible."
+    }
+   ]
+  },
+  {
+   "id": "his-7",
+   "title": "The Twentieth Century: War, Empire's End, Cold Peace",
+   "oneLine": "The century's central events, the arguments about their causes, and its extraordinary moral arithmetic.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Total war, and the argument about 1914",
+     "p": [
+      "The causes of the First World War are the standing example of unresolved historical controversy, and the schools are worth knowing individually. Fritz Fischer argued in 1961, from German archives, that Berlin deliberately sought a continental war to achieve world power, citing the December 1912 war council and the September Programme of annexationist aims — an argument so unwelcome in West Germany that it triggered a national political row. Christopher Clark's Sleepwalkers redistributes responsibility across all the powers, taking Serbian and Russian decision-making seriously and depicting leaders who understood the risks and took them anyway. A third tradition emphasises structure: mobilisation timetables, alliance commitments and the offensive doctrines that made delay feel fatal. Niall Ferguson makes a fourth, counterfactual case that British entry was an avoidable error.",
+      "What total war then meant is best conveyed by the industrial arithmetic. Around ten million military deaths between 1914 and 1918, followed by an influenza pandemic that killed perhaps fifty million. Between fifty-five and eighty million deaths in the Second World War, most of them civilian: roughly twenty-seven million Soviet citizens, fifteen to twenty million Chinese, and six million Jews murdered in a programme of extermination that was administrative and industrial rather than merely brutal."
+     ]
+    },
+    {
+     "h": "Decolonisation and the ledger of empire",
+     "p": [
+      "In 1945 roughly a third of the world's population lived in territories governed by others. Within three decades the United Nations went from 51 members to well over 150. The process ranged from negotiated transfer to prolonged war: India in 1947, where partition displaced twelve to eighteen million people and killed perhaps a million; Ghana in 1957 and then seventeen African states in 1960 alone; Algeria's war from 1954 to 1962, with Algerian death estimates ranging from about 250,000 in French accounts to 1.5 million in FLN ones.",
+      "The balance sheet of colonial rule is contested along clear lines. One side points to measurable outcomes: Indian per capita income growth close to zero across the whole colonial period, life expectancy around 32 at independence, deindustrialisation of Bengali textiles, and famines including Bengal in 1943 with two to three million dead. Utsa Patnaik's estimate of a 45 trillion dollar transfer from India is the maximal statement of the case and its methodology is heavily criticised. The other side, made by Niall Ferguson and in a different register by Tirthankar Roy, credits legal systems, railways and administrative structures, and argues that pre-colonial Indian states were themselves extractive and that comparison must be against a plausible alternative rather than an idealised one. Both sides have real data; they disagree about the counterfactual, which is not something the archives can settle."
+     ]
+    },
+    {
+     "h": "The Cold War and the century's arithmetic",
+     "p": [
+      "Cold War origins ran through three waves of scholarship. Orthodox accounts blamed Soviet expansion; revisionists such as William Appleman Williams blamed American insistence on an open economic order; post-revisionists, John Lewis Gaddis foremost, argued for a security dilemma in which both sides' defensive measures read as aggression. Soviet archival access after 1991 shifted Gaddis himself towards greater emphasis on Stalin's ideological intentions, which is a useful example of evidence moving a historian in a direction he had not previously argued.",
+      "The century's moral arithmetic resists a single verdict, which is the point. Global population went from about 1.65 billion to just over 6 billion; life expectancy at birth roughly doubled from the low thirties to around 66; smallpox was eradicated. Against that: the Holocaust; the Soviet famine of 1932 to 1933 with five to seven million dead; the Great Leap Forward famine, with demographic estimates ranging from sixteen to forty-five million; Cambodia's roughly 1.7 million. These are not separate stories. The same state capacity that delivered mass vaccination and universal schooling made mass killing administratively possible, and no honest account of the century can take one without the other."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Fischer thesis",
+     "def": "The argument that Germany's leadership deliberately sought a general war in 1914 in pursuit of world-power status, evidenced from its own archives."
+    },
+    {
+     "term": "Security dilemma",
+     "def": "The dynamic in which measures one state takes for defence appear offensive to another, generating escalation without either intending war."
+    },
+    {
+     "term": "Total war",
+     "def": "Conflict in which the whole economy and population are mobilised and civilians become legitimate strategic targets."
+    },
+    {
+     "term": "Deindustrialisation thesis",
+     "def": "The claim that colonial trade policy destroyed established Indian manufacturing, particularly textiles, converting a producer into a raw-material supplier."
+    },
+    {
+     "term": "Nuclear taboo",
+     "def": "Tannenwald's argument that non-use since 1945 reflects a normative prohibition rather than deterrence calculation alone."
+    },
+    {
+     "term": "Demographic transition",
+     "def": "The shift from high birth and death rates to low ones, which drove the twentieth century's population surge and its subsequent slowing."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Fritz Fischer (1908–1999)",
+     "note": "Germany's Aims in the First World War — forced his own country to confront continuity between 1914 and 1939, at considerable personal cost."
+    },
+    {
+     "name": "Christopher Clark",
+     "note": "The Sleepwalkers — reframed 1914 as a shared failure of political systems rather than a search for a guilty party."
+    },
+    {
+     "name": "Eric Hobsbawm (1917–2012)",
+     "note": "The Age of Extremes — the short twentieth century, 1914 to 1991; read with awareness of his lifelong communist commitments, which he never hid."
+    },
+    {
+     "name": "Frantz Fanon (1925–1961)",
+     "note": "The Wretched of the Earth — psychiatrist in Algeria; the most influential analysis of colonialism's psychological structure and of decolonisation's violence."
+    }
+   ],
+   "debate": {
+    "title": "What is the honest balance sheet of European colonial rule?",
+    "sides": [
+     {
+      "label": "Net extraction",
+      "text": "The measurable record for the largest colony is near-zero per capita growth over two centuries, repeated famines under administrations that exported grain, and the collapse of established manufacturing under asymmetric trade rules. Infrastructure was built to serve extraction, and legal institutions coexisted comfortably with the denial of representation to the governed."
+     },
+     {
+      "label": "A more mixed ledger",
+      "text": "The relevant comparison is with what the alternative rulers were doing, not with a modern democracy. Pre-colonial states were also extractive and frequently at war; colonial administrations introduced legal codification, railways, irrigation and public health measures that survived independence and were retained by successor states that had every reason to discard them."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Sleepwalkers",
+     "who": "Christopher Clark — then read a summary of the Fischer debate, since Clark is writing against it."
+    },
+    {
+     "title": "The Age of Extremes",
+     "who": "Eric Hobsbawm — the standard synthesis, and openly committed; both facts matter."
+    },
+    {
+     "title": "Inglorious Empire and Empire",
+     "who": "Tharoor and Ferguson — read consecutively; the disagreement is mostly about the counterfactual."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why did the Fischer thesis cause a political crisis rather than just an academic one?",
+     "a": "Because it drew a line of continuity from imperial Germany's war aims to Nazi expansionism, undercutting the post-war West German position that 1933 was a rupture. It also dissolved the comfortable consensus, useful to all sides after 1918, that the war had been a collective accident nobody chose."
+    },
+    {
+     "q": "What makes the colonial balance sheet hard to settle empirically?",
+     "a": "The dispute is primarily counterfactual: what would have happened to these societies otherwise. Both sides largely accept the same growth, famine and mortality figures, and disagree about whether the comparison should be with a modernising independent state, with pre-colonial regimes, or with contemporaneous uncolonised countries such as Siam or Ethiopia."
+    }
+   ]
+  },
+  {
+   "id": "his-8",
+   "title": "Memory, Myth and the Uses of History",
+   "oneLine": "How societies build usable pasts, why monuments become flashpoints, and what history can and cannot tell policymakers.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Nations need a past, and mostly build one",
+     "p": [
+      "Ernest Renan's 1882 lecture contains the sentence that anchors this whole field: getting its history wrong is part of being a nation, and historical scholarship is therefore often a danger to nationality. He meant it descriptively. A nation requires a shared story of common descent, and that story requires forgetting — in his example, the St Bartholomew's Day massacre, which every Frenchman had to have forgotten in order for France to exist.",
+      "Hobsbawm and Ranger's Invention of Tradition supplied the mechanism. Practices presented as immemorial are frequently recent and often deliberately manufactured: Hugh Trevor-Roper's contribution showed the modern Scottish clan tartan system was largely a nineteenth-century commercial and romantic construction, and the short kilt an eighteenth-century industrial adaptation. The point is not that such traditions are fraudulent — invented traditions do real social work, and every nation has them — but that a claim of ancient continuity is a historical assertion like any other, and can be checked."
+     ]
+    },
+    {
+     "h": "Monuments and memory politics",
+     "p": [
+      "Monument controversies become tractable once you ask when the monument was built rather than who it depicts. The Southern Poverty Law Center's survey of American Confederate memorials found their construction clustered in two periods: roughly 1900 to 1920, when Jim Crow was being consolidated, and the 1950s and 1960s, during resistance to desegregation — not in the immediate aftermath of the war. That distribution is itself evidence about function. Similar questions apply to the Colston statue in Bristol, erected in 1895 for a merchant who died in 1721, toppled in 2020, with the four people charged acquitted in 2022.",
+      "States handle inconvenient pasts very differently, and the comparison is instructive. Germany's Historikerstreit of 1986 to 1987, in which Ernst Nolte's relativising of the Holocaust was met by Jürgen Habermas, established a public norm; the Stolpersteine project has now set over 100,000 brass memorial stones into European pavements. Poland's 2018 law criminalising attribution of Nazi crimes to the Polish nation was amended after international pressure but signalled the opposite approach. Russia's liquidation of the Memorial society in December 2021 is the clearest recent case of a state treating historical research itself as a threat. Note that all three are democracies or nominal democracies making choices about what may be publicly said about the past."
+     ]
+    },
+    {
+     "h": "Counterfactuals, analogies and what history is for",
+     "p": [
+      "E.H. Carr dismissed counterfactuals as a parlour game, and much popular alternate history deserves that. But the disciplined version is indispensable, because every causal claim contains one: to say the assassination at Sarajevo caused the war is to say the war would not have happened without it. Robert Fogel's 1964 study of American railways is the model — he built an explicit counterfactual economy of canals and roads, and found the social saving from railways was only a few per cent of GNP, which demolished a confident consensus about their indispensability.",
+      "The riskier use is analogy in policymaking. Munich is invoked to argue against negotiation; Vietnam to argue against intervention; 1930s appeasement and 1914 escalation are wheeled out on opposite sides of the same crisis. Richard Neustadt and Ernest May's Thinking in Time offers the practical discipline: before using an analogy, separate what is known from what is presumed, and list the ways the present case differs from the historical one. Yuen Foong Khong's study of Vietnam decision-making showed officials selecting analogies that confirmed positions already held. The honest claim for history is not that it supplies lessons but that it supplies a wider sample of how things have gone, and a working sense of how often confident people were wrong."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Invented tradition",
+     "def": "A practice claiming ancient continuity that can be shown to be recent, usually created to legitimate an institution or identity."
+    },
+    {
+     "term": "Collective memory",
+     "def": "Halbwachs's concept: recollection is socially framed and maintained by groups, so what a society remembers is a present-tense fact about it."
+    },
+    {
+     "term": "Lieux de memoire",
+     "def": "Nora's sites of memory — places, texts and rituals where a community deposits a past it no longer lives continuously."
+    },
+    {
+     "term": "Memory law",
+     "def": "Legislation prescribing or forbidding particular characterisations of historical events, from Holocaust denial bans to national-honour statutes."
+    },
+    {
+     "term": "Counterfactual reasoning",
+     "def": "Explicit specification of what would have happened absent a cause; unavoidable in any causal claim and best done openly."
+    },
+    {
+     "term": "Analogical reasoning trap",
+     "def": "Neustadt and May's observation that officials reach for a familiar historical parallel and stop examining how the present case differs."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Ernest Renan (1823–1892)",
+     "note": "What Is a Nation? — nations are constituted by shared forgetting as much as shared memory, and by a daily plebiscite rather than blood or language."
+    },
+    {
+     "name": "Maurice Halbwachs (1877–1945)",
+     "note": "Founded the study of collective memory; deported to Buchenwald, where he died, for protesting his relatives' arrest."
+    },
+    {
+     "name": "Eric Hobsbawm and Terence Ranger",
+     "note": "The Invention of Tradition — the case studies, from Highland dress to colonial durbars, that made the concept usable."
+    },
+    {
+     "name": "Pierre Nora",
+     "note": "Les Lieux de Memoire — argued that we build memorial sites precisely because living memory has stopped transmitting itself."
+    }
+   ],
+   "debate": {
+    "title": "Should contested monuments be removed?",
+    "sides": [
+     {
+      "label": "Remove or relocate",
+      "text": "A statue on a plinth in a civic square is an honour conferred in the present, not a neutral record; museums preserve the history without the endorsement. Many were erected specifically to assert racial hierarchy at moments of political contest, which makes their retention a continuation of that assertion rather than a defence of heritage."
+     },
+     {
+      "label": "Retain and contextualise",
+      "text": "Removal offers a cheap sense of resolution and erases the evidence that a society once honoured such people. Judging past figures by present standards would empty most public spaces, and handing decisions to whichever group can mobilise force sets a precedent nobody controls. Added interpretation teaches more than an empty plinth."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Invention of Tradition",
+     "who": "Hobsbawm and Ranger — start with the Trevor-Roper chapter on Scotland."
+    },
+    {
+     "title": "Thinking in Time",
+     "who": "Neustadt and May — written for officials; the most practical book on using history badly and well."
+    },
+    {
+     "title": "Race and Reunion",
+     "who": "David Blight — how the American Civil War's meaning was rewritten within a generation, and by whom."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the erection date of a monument often more revealing than its subject?",
+     "a": "Because the decision to commemorate is made in the present of the builders, not the subject. Confederate memorials cluster in the Jim Crow consolidation and the desegregation backlash rather than the post-war decade, which indicates they were arguments about contemporary racial order rather than acts of mourning."
+    },
+    {
+     "q": "What distinguishes a disciplined counterfactual from a parlour game?",
+     "a": "Specificity and restraint. A usable counterfactual alters one variable, holds everything else at its documented state, and traces consequences over a short horizon — as Fogel did with American railways. Speculative chains extending decades from a single changed event compound uncertainty until nothing can be inferred."
+    }
+   ]
+  }
+ ]
+}

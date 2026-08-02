@@ -1,0 +1,907 @@
+{
+ "id": "science",
+ "name": "Science",
+ "tagline": "The physical, biological and computational picture of how the world works",
+ "accent": "#38bdf8",
+ "blurb": "The aim here is not to make you a scientist but to give you the load-bearing structures: what the universe is made of, how life came to be as it is, how the brain and climate work as systems, and how to read a statistical claim without being fooled. These are the modules that make science journalism intelligible rather than merely impressive.",
+ "modules": [
+  {
+   "id": "sci-1",
+   "title": "Statistics: How to Read a Claim",
+   "oneLine": "The single most transferable module in the whole hub.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Base rates and conditional probability",
+     "p": [
+      "A test for a disease is 99% accurate. You test positive. What is the chance you have it? The intuitive answer is 99%; the correct answer depends entirely on how common the disease is. If it affects 1 in 10,000 people, then among a million tested, about 100 have it (99 detected) and about 999,900 do not (of whom roughly 9,999 test positive falsely). So a positive result means roughly a 1% chance of disease.",
+      "This is <em>base rate neglect</em>, and it is the most consequential statistical error in ordinary life. It explains why mass screening for rare conditions produces mostly false positives, why security profiling on rare events generates enormous false-positive burdens, and why \"the DNA match probability is one in a million\" means something quite different in a database trawl than in testing a specific suspect."
+     ]
+    },
+    {
+     "h": "Significance, effect size and power",
+     "p": [
+      "A p-value is the probability of observing data at least this extreme <em>if the null hypothesis were true</em>. It is not the probability that the hypothesis is false, not the probability the result was chance, and not a measure of importance. The conventional p < 0.05 threshold is arbitrary — Fisher proposed it as a rough convenience — and with a large enough sample, any trivial difference becomes \"significant\".",
+      "So always ask for the <em>effect size</em>: how big is the difference, in units that mean something? And ask about <em>statistical power</em>: an underpowered study that finds an effect has probably overestimated it, because only large observed effects clear the threshold in small samples. This is the winner's-curse mechanism behind much of the replication crisis. Related traps: <em>p-hacking</em> (trying analyses until one crosses 0.05), <em>garden of forking paths</em> (making defensible choices that collectively guarantee a finding), and <em>publication bias</em> (null results not being published, so the literature is a biased sample of what was run)."
+     ]
+    },
+    {
+     "h": "Correlation, causation and the tools that bridge them",
+     "p": [
+      "Correlation can arise from causation in either direction, from a common cause (confounding), from selection into the sample, or from chance. The gold standard for establishing causation is the <em>randomised controlled trial</em>, because randomisation makes treatment and control groups equivalent in expectation on every variable, including ones nobody thought to measure.",
+      "Where randomisation is impossible, the credible tools are: <em>natural experiments</em> (a policy change affecting one region and not a neighbouring one), <em>instrumental variables</em> (something affecting the treatment but nothing else relevant), <em>regression discontinuity</em> (comparing those just above and just below a threshold), and <em>difference-in-differences</em>. These are the methods behind the 2021 Nobel to Card, Angrist and Imbens, and knowing their names lets you tell serious empirical work from a correlation dressed up.",
+      "Two further hazards. <em>Simpson's paradox</em>: a trend in every subgroup can reverse in the aggregate, as in the Berkeley admissions case where each department favoured women while the university overall appeared to favour men. And <em>survivorship bias</em>: studying only successes — the Abraham Wald bomber-armour story — systematically misleads about what causes success."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Base rate neglect",
+     "def": "Ignoring how common a condition is when interpreting a test result or diagnostic judgement."
+    },
+    {
+     "term": "p-value",
+     "def": "The probability of data at least this extreme given the null hypothesis — not the probability the hypothesis is false."
+    },
+    {
+     "term": "Effect size",
+     "def": "The magnitude of a difference in meaningful units, as distinct from whether it is statistically detectable."
+    },
+    {
+     "term": "Statistical power",
+     "def": "The probability of detecting a real effect; low power inflates published effect sizes."
+    },
+    {
+     "term": "Confounding",
+     "def": "A third variable causing both the supposed cause and the supposed effect."
+    },
+    {
+     "term": "Simpson's paradox",
+     "def": "An association present in every subgroup can reverse when the subgroups are combined."
+    },
+    {
+     "term": "Survivorship bias",
+     "def": "Drawing conclusions from a sample that has been filtered by the outcome under study."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Thomas Bayes (1701–1761)",
+     "note": "His theorem is the formal machinery for updating belief on evidence, and the correct treatment of base rates."
+    },
+    {
+     "name": "Ronald Fisher (1890–1962)",
+     "note": "Randomisation, experimental design and the p-value; also a cautionary figure on motivated reasoning about tobacco."
+    },
+    {
+     "name": "John Ioannidis",
+     "note": "'Why Most Published Research Findings Are False' (2005) — the paper that anticipated the replication crisis."
+    },
+    {
+     "name": "Judea Pearl",
+     "note": "The causal revolution; formal tools for stating and testing causal claims from observational data."
+    }
+   ],
+   "debate": {
+    "title": "Should the p < 0.05 threshold be abandoned?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "It creates a perverse binary in a continuous world, drives p-hacking, and licenses the fiction that 0.049 and 0.051 are different in kind. Report effect sizes with confidence intervals and let readers judge."
+     },
+     {
+      "label": "Keep a threshold",
+      "text": "Some decision rule is needed or every result becomes a matter of narrative judgement, which is worse. The fix is pre-registration, replication requirements and higher power — not removing the only guardrail."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Art of Statistics",
+     "who": "David Spiegelhalter — the best single book for a general reader."
+    },
+    {
+     "title": "Why Most Published Research Findings Are False",
+     "who": "Ioannidis — short, free, still bracing."
+    },
+    {
+     "title": "The Book of Why",
+     "who": "Judea Pearl — causation made accessible."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "A 99%-accurate test for a 1-in-10,000 disease comes back positive. Roughly what is the chance you have it?",
+     "a": "About 1%. Among a million people, ~100 have the disease and ~99 test positive; ~999,900 do not and ~9,999 test positive falsely. Positives are dominated by false ones because the base rate is tiny."
+    },
+    {
+     "q": "Why do underpowered studies overstate effects?",
+     "a": "Because in a small sample, only an unusually large observed effect will cross the significance threshold. Conditional on publication, the reported effect is therefore biased upward — the statistical winner's curse."
+    }
+   ]
+  },
+  {
+   "id": "sci-2",
+   "title": "Physics: Matter, Energy, Relativity, Quantum",
+   "oneLine": "The two great twentieth-century theories, what each says, and why they don't fit together.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Classical foundations",
+     "p": [
+      "Newton's framework — objects move uniformly unless acted on, force equals mass times acceleration, every action has an equal and opposite reaction, and gravity is a universal attractive force — remained unchallenged for two centuries and is still what you use to launch a satellite. It treats space and time as a fixed stage on which events happen.",
+      "Thermodynamics added something Newton did not have: <em>direction</em>. The first law says energy is conserved. The second says entropy — a measure of the number of microscopic arrangements consistent with a macroscopic state — increases in an isolated system. This is why heat flows from hot to cold, why perpetual motion is impossible, and why time has an arrow at all. It is arguably the deepest law in physics, and Eddington's claim that a theory contradicting it has no hope still stands."
+     ]
+    },
+    {
+     "h": "Relativity",
+     "p": [
+      "<em>Special relativity</em> (1905) begins from two postulates: the laws of physics are the same for all non-accelerating observers, and the speed of light is the same for all of them regardless of their motion. The second is bizarre and experimentally forced. Its consequences follow inescapably: moving clocks run slow, moving objects contract along their motion, simultaneity is relative — two events simultaneous for you are not for someone moving relative to you — and mass and energy are the same thing, E = mc².",
+      "<em>General relativity</em> (1915) extends this to gravity, and reconceives it entirely. Gravity is not a force but the curvature of spacetime by mass and energy; objects follow the straightest available paths through curved geometry. This predicted light bending around the Sun (confirmed 1919), gravitational time dilation (which GPS must correct for, or it would drift by kilometres per day), black holes, and gravitational waves — detected directly by LIGO in 2015, a century after prediction."
+     ]
+    },
+    {
+     "h": "Quantum mechanics",
+     "p": [
+      "At small scales the world is quantised. Energy comes in discrete packets; particles exhibit wave behaviour and waves exhibit particle behaviour; and the <em>uncertainty principle</em> says position and momentum cannot both be sharply defined — not because measurement disturbs the system, but because the pairing is not simultaneously well-defined in nature.",
+      "A quantum system is described by a wavefunction giving the probability of each possible measurement outcome. What happens on measurement is the <em>measurement problem</em>, and it is unresolved. Interpretations include Copenhagen (the wavefunction collapses; do not ask further), many-worlds (no collapse; all outcomes occur in branching worlds), and pilot-wave theories (particles have definite positions guided by a wave). These make identical predictions, which is precisely why the disagreement persists.",
+      "<em>Entanglement</em> is the strangest verified feature: two particles can share a state such that measuring one instantly determines the other's, at any distance. Bell's theorem, tested repeatedly and honoured with the 2022 Nobel, proves this cannot be explained by hidden pre-existing values. It does not permit faster-than-light signalling — the outcomes are random until compared — but it does mean the world is not locally realistic.",
+      "The unfinished business: general relativity describes gravity as smooth geometry; quantum mechanics describes everything else as discrete and probabilistic. They cannot both be complete, and inside a black hole or at the Big Bang you need both. String theory and loop quantum gravity are the leading candidate reconciliations, neither with experimental support."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Entropy and the second law",
+     "def": "Disorder increases in isolated systems; the origin of the arrow of time."
+    },
+    {
+     "term": "Spacetime curvature",
+     "def": "General relativity's account of gravity: mass and energy curve geometry, and objects follow straight paths through it."
+    },
+    {
+     "term": "Time dilation",
+     "def": "Clocks run slower when moving relative to an observer and deeper in a gravitational field; measured daily by GPS."
+    },
+    {
+     "term": "Wave–particle duality",
+     "def": "Quantum entities exhibit both wave and particle behaviour depending on how they are probed."
+    },
+    {
+     "term": "Uncertainty principle",
+     "def": "Certain pairs of properties cannot simultaneously have precise values — a feature of nature, not of instruments."
+    },
+    {
+     "term": "Entanglement",
+     "def": "Correlations between separated systems stronger than any pre-existing-values account allows, per Bell's theorem."
+    },
+    {
+     "term": "Standard Model",
+     "def": "The catalogue of known particles and three of the four forces; extraordinarily accurate and known to be incomplete."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Isaac Newton (1642–1727)",
+     "note": "Mechanics, gravitation, calculus; the model for what a physical theory could be."
+    },
+    {
+     "name": "Albert Einstein (1879–1955)",
+     "note": "Special and general relativity, and the photoelectric effect that helped start quantum theory he then resisted."
+    },
+    {
+     "name": "Emmy Noether (1882–1935)",
+     "note": "Noether's theorem: every conservation law follows from a symmetry. Possibly the deepest structural insight in physics."
+    },
+    {
+     "name": "Richard Feynman (1918–1988)",
+     "note": "Quantum electrodynamics, and the best explanatory writing in the discipline."
+    }
+   ],
+   "debate": {
+    "title": "What does quantum mechanics tell us about reality?",
+    "sides": [
+     {
+      "label": "Nothing beyond predictions",
+      "text": "The formalism predicts measurement statistics with unmatched precision. Interpretations are empirically indistinguishable, so choosing between them is metaphysics, not physics."
+     },
+     {
+      "label": "Interpretation matters",
+      "text": "A theory that cannot say what happens when nobody looks is incomplete. Whether reality branches, whether it is fundamentally random, whether locality survives — these are questions about the world, and Bell's theorem shows such questions can become experimental."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Six Easy Pieces",
+     "who": "Richard Feynman — the best introduction to physical thinking."
+    },
+    {
+     "title": "Seven Brief Lessons on Physics",
+     "who": "Carlo Rovelli — an hour, beautifully written."
+    },
+    {
+     "title": "Quantum Physics: A Beginner's Guide",
+     "who": "Alastair Rae — a step up, still accessible."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why must GPS correct for relativity?",
+     "a": "Satellite clocks run slower from orbital speed (special relativity) and faster from weaker gravity (general relativity), netting to several microseconds a day. Uncorrected, positions would drift by roughly ten kilometres daily."
+    },
+    {
+     "q": "What does Bell's theorem rule out?",
+     "a": "Local hidden-variable explanations of entanglement — the idea that particles simply carried predetermined values all along. Experiments confirm the quantum predictions, so nature is not locally realistic."
+    }
+   ]
+  },
+  {
+   "id": "sci-3",
+   "title": "Cosmology: The Universe's Story",
+   "oneLine": "13.8 billion years, and the 95% of it we cannot identify.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "How we know the universe is expanding",
+     "p": [
+      "In 1929 Hubble showed that galaxies recede from us at speeds proportional to their distance — the further away, the faster. The natural reading is that space itself is expanding, so every observer sees the same pattern; there is no centre. Run the expansion backwards and everything was once compressed into an extremely hot, dense state roughly 13.8 billion years ago.",
+      "The decisive evidence is the <em>cosmic microwave background</em>, discovered accidentally in 1964 by Penzias and Wilson: faint radiation filling the sky at 2.7 kelvin, the cooled relic of light released about 380,000 years after the beginning, when the universe first became transparent. Its temperature is uniform to about one part in 100,000, and the tiny fluctuations that do exist match, with remarkable precision, the seeds of the galaxy distribution we observe today. That agreement is why the Big Bang model is not seriously contested."
+     ]
+    },
+    {
+     "h": "Dark matter and dark energy",
+     "p": [
+      "Galaxies rotate too fast. Their outer stars should fly off given the visible mass, and they do not. Gravitational lensing, cluster dynamics and the CMB fluctuation pattern independently point to the same conclusion: roughly five times more matter exists than we can see. <em>Dark matter</em> is the placeholder. It is not exotic in behaviour — it clumps and gravitates normally — it simply does not interact electromagnetically. Decades of direct detection experiments have found nothing, which is a substantial and underdiscussed problem for the leading candidate particles.",
+      "In 1998, two teams measuring distant supernovae found the expansion is not slowing under gravity but <em>accelerating</em>. <em>Dark energy</em> is the name for whatever drives that. It behaves like an intrinsic energy of space itself, and it is about 68% of the universe's energy content, with dark matter at about 27% and ordinary matter — everything ever observed directly — under 5%. When quantum field theory is used to predict the energy density of the vacuum, the answer disagrees with observation by some 120 orders of magnitude, the worst prediction in the history of physics."
+     ]
+    },
+    {
+     "h": "Open questions worth tracking",
+     "p": [
+      "<em>The Hubble tension</em>: the expansion rate measured from the early universe (via the CMB) and from the local universe (via supernovae and Cepheids) disagree by about 8%, well beyond the stated error bars, and the gap has widened as measurements improved. Either a systematic error is hiding somewhere, or the standard model of cosmology is incomplete. This is the most interesting live problem in the field.",
+      "Also worth following: <em>inflation</em>, the hypothesised burst of exponential expansion in the first fraction of a second that explains the universe's uniformity and flatness — well motivated, hard to test decisively. And the <em>James Webb</em> observations of surprisingly massive, mature galaxies very early in cosmic history, which are pressing on galaxy formation models though not, despite headlines, on the Big Bang itself."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Hubble's law",
+     "def": "Recession velocity is proportional to distance — the observational basis for cosmic expansion."
+    },
+    {
+     "term": "Cosmic microwave background",
+     "def": "Relic radiation from 380,000 years after the Big Bang; the strongest evidence for the model."
+    },
+    {
+     "term": "Dark matter",
+     "def": "Non-luminous matter inferred from gravitational effects; about 27% of the energy content."
+    },
+    {
+     "term": "Dark energy",
+     "def": "The unknown driver of accelerating expansion; about 68% of the energy content."
+    },
+    {
+     "term": "Cosmic inflation",
+     "def": "A proposed exponential expansion in the first instant, explaining large-scale uniformity and flatness."
+    },
+    {
+     "term": "Hubble tension",
+     "def": "The unresolved discrepancy between early-universe and local measurements of the expansion rate."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Georges Lemaître (1894–1966)",
+     "note": "Priest and physicist; proposed the expanding universe and the 'primeval atom' before Hubble's observations."
+    },
+    {
+     "name": "Vera Rubin (1928–2016)",
+     "note": "Galaxy rotation curves — the observational case for dark matter, and a notorious Nobel omission."
+    },
+    {
+     "name": "Subrahmanyan Chandrasekhar (1910–1995)",
+     "note": "The mass limit above which a white dwarf collapses; the foundation of stellar death physics."
+    },
+    {
+     "name": "Jocelyn Bell Burnell",
+     "note": "Discovered pulsars as a graduate student; the Nobel went to her supervisor."
+    }
+   ],
+   "debate": {
+    "title": "Dark matter, or modified gravity?",
+    "sides": [
+     {
+      "label": "Dark matter",
+      "text": "Independent lines — lensing, cluster collisions like the Bullet Cluster, CMB acoustic peaks, structure formation — converge on the same mass and distribution. Modified gravity theories fit rotation curves but struggle with clusters and the CMB."
+     },
+     {
+      "label": "Modified gravity",
+      "text": "Fifty years of increasingly sensitive direct detection have found nothing, and MOND predicted the tight regularity of galactic rotation curves that dark matter models must fit after the fact. Positing invisible matter to save a theory has a mixed historical record."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Cosmos",
+     "who": "Carl Sagan — dated in detail, unmatched in conveying the scale."
+    },
+    {
+     "title": "The First Three Minutes",
+     "who": "Steven Weinberg — a classic, still clear."
+    },
+    {
+     "title": "NASA and ESA mission pages",
+     "who": "Free, current, and better illustrated than any book."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the cosmic microwave background such strong evidence?",
+     "a": "Because it was predicted before discovery, its temperature matches the prediction, and the pattern of its tiny fluctuations quantitatively matches the observed large-scale structure of galaxies — an agreement no rival model reproduces."
+    },
+    {
+     "q": "What is the Hubble tension?",
+     "a": "Early-universe measurements of the expansion rate (from the CMB) and local ones (from supernovae and Cepheids) differ by about 8%, beyond their error bars, suggesting either an undetected systematic or missing physics."
+    }
+   ]
+  },
+  {
+   "id": "sci-4",
+   "title": "Evolution, Genetics and the Logic of Life",
+   "oneLine": "The single idea that organises all of biology, and the molecular machinery beneath it.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Natural selection as an algorithm",
+     "p": [
+      "Darwin's mechanism requires only three conditions: variation among individuals, heritability of that variation, and differential reproductive success. Given all three, adaptation follows necessarily. It is a substrate-neutral algorithm — which is why the same logic applies to antibiotic resistance, to cancer cells within a body, and to genetic algorithms in software.",
+      "Two clarifications worth holding. Evolution has no foresight and no goal: it cannot plan, only filter what mutation happens to supply, which is why organisms are full of kludges like the vertebrate blind spot and the recurrent laryngeal nerve looping absurdly around the aorta. And \"survival of the fittest\" is about reproductive success, not strength — a peacock's tail is a survival handicap that persists because it improves mating success.",
+      "Selection is not the only force. <em>Genetic drift</em> — random change in allele frequencies — dominates in small populations and means much evolution is not adaptive at all. Kimura's neutral theory established that most molecular-level change is effectively invisible to selection, which was initially controversial and is now standard."
+     ]
+    },
+    {
+     "h": "The molecular layer",
+     "p": [
+      "DNA is a double helix of four bases whose pairing rules (A-T, C-G) make each strand a template for the other — the structural fact that explains heredity, and the point Watson, Crick and Franklin's 1953 work made visible. The central dogma runs DNA → RNA → protein: genes are transcribed to RNA, which is translated into proteins that do essentially all cellular work.",
+      "The refinements matter more than the dogma now. Only around 1–2% of human DNA codes for proteins; much of the rest is regulatory, controlling when and where genes are expressed, which is where most of the difference between a human and a chimpanzee lives. <em>Epigenetics</em> — chemical marks that alter expression without changing sequence — responds to environment and can persist through cell division, though claims about multi-generational inheritance in humans remain contested and are routinely overstated in popular coverage. And <em>CRISPR</em>, adapted from a bacterial immune system, made precise genome editing cheap, delivering the first approved gene-editing therapy for sickle cell disease in 2023 and opening ethical questions about heritable editing that are not close to resolved."
+     ]
+    },
+    {
+     "h": "Reading genetics claims critically",
+     "p": [
+      "Almost every trait of interest is <em>polygenic</em>: influenced by thousands of variants each contributing a minuscule amount. \"A gene for\" intelligence, or criminality, or almost anything behavioural, is a category error. <em>Heritability</em> is the most misunderstood term in the field: it is the proportion of variation <em>in a specific population and environment</em> attributable to genetic variation. It says nothing about an individual, and nothing about whether a trait can be changed. Height is highly heritable and rose several inches in a century through nutrition — heritability and malleability are simply different questions.",
+      "Also worth knowing: human genetic variation is overwhelmingly within, not between, populations, and the traditional racial categories do not correspond to distinct genetic clusters. And polygenic scores, increasingly marketed commercially, have substantially weaker predictive power in populations different from those they were trained on — a technical limitation with obvious potential for misuse."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Natural selection",
+     "def": "Differential reproduction of heritable variants; a substrate-neutral algorithm producing adaptation."
+    },
+    {
+     "term": "Genetic drift",
+     "def": "Random fluctuation in allele frequencies, dominant in small populations and much of molecular evolution."
+    },
+    {
+     "term": "Central dogma",
+     "def": "Information flows DNA → RNA → protein; heavily refined but still the organising frame."
+    },
+    {
+     "term": "Epigenetics",
+     "def": "Heritable-through-cell-division changes in gene expression without changes in DNA sequence."
+    },
+    {
+     "term": "Polygenic trait",
+     "def": "A trait influenced by many variants of individually tiny effect — which is nearly all interesting traits."
+    },
+    {
+     "term": "Heritability",
+     "def": "The share of trait variation in a given population and environment attributable to genetic variation; not a claim about individuals or about malleability."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Charles Darwin (1809–1882)",
+     "note": "On the Origin of Species — the mechanism, and a masterclass in anticipating objections."
+    },
+    {
+     "name": "Gregor Mendel (1822–1884)",
+     "note": "Discrete inheritance from pea plants; ignored for 35 years, then the foundation of genetics."
+    },
+    {
+     "name": "Rosalind Franklin (1920–1958)",
+     "note": "Photograph 51 — the X-ray data that made the double helix structure determinable."
+    },
+    {
+     "name": "Lynn Margulis (1938–2011)",
+     "note": "Endosymbiosis: mitochondria and chloroplasts were once free-living bacteria. Rejected for years, now textbook."
+    }
+   ],
+   "debate": {
+    "title": "Should we permit heritable human genome editing?",
+    "sides": [
+     {
+      "label": "Eventually yes",
+      "text": "Preventing devastating single-gene disease at the germline spares not just a person but every descendant. A blanket prohibition on a technology that could end Huntington's disease requires stronger justification than discomfort."
+     },
+     {
+      "label": "Not now",
+      "text": "Changes are irreversible and propagate through the population; off-target effects and polygenic interactions are poorly understood; and embryo selection already addresses most single-gene cases without editing. The line from disease prevention to enhancement has no natural stopping point."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Selfish Gene",
+     "who": "Richard Dawkins — the gene's-eye view; read the extended-phenotype critiques too."
+    },
+    {
+     "title": "A Brief History of Everyone Who Ever Lived",
+     "who": "Adam Rutherford — genetics, ancestry and why race is a bad genetic category."
+    },
+    {
+     "title": "The Gene: An Intimate History",
+     "who": "Siddhartha Mukherjee — narrative, humane, thorough."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why doesn't high heritability mean a trait is fixed?",
+     "a": "Heritability measures variation within a specific population and environment. Height is highly heritable and rose several inches in a century through improved nutrition — changing the environment changes the outcome regardless of heritability."
+    },
+    {
+     "q": "Why is 'a gene for X' usually wrong for behavioural traits?",
+     "a": "Because such traits are polygenic — shaped by thousands of variants of tiny individual effect, interacting with each other and with environment. No single locus carries meaningful explanatory weight."
+    }
+   ]
+  },
+  {
+   "id": "sci-5",
+   "title": "The Brain and the Science of Mind",
+   "oneLine": "What neuroscience has established, and where popular accounts run ahead of it.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Architecture",
+     "p": [
+      "Roughly 86 billion neurons, each connecting to thousands of others through synapses, forming a network whose function lies in the pattern of connections rather than in individual cells. Signals travel electrically along the neuron and chemically across the synapse via neurotransmitters — which is where most psychoactive drugs act.",
+      "Broad organisation: the brainstem handles basic regulation, the cerebellum coordination and timing, the limbic structures emotion and memory formation, and the cerebral cortex the higher functions, with the prefrontal cortex particularly implicated in planning, inhibition and social judgement. But strict localisation is the wrong picture. Functions are distributed across networks, and the same region participates in many. <em>Neuroplasticity</em> — the reorganisation of connections through experience — continues throughout life, though the dramatic remapping seen in children is more limited in adults than popular accounts suggest."
+     ]
+    },
+    {
+     "h": "Memory, and its reconstructive nature",
+     "p": [
+      "Memory is not one system. <em>Working memory</em> holds a few items briefly for manipulation. <em>Episodic</em> memory stores events, <em>semantic</em> memory facts, and <em>procedural</em> memory skills — which is why an amnesiac patient can learn a new motor skill while having no recollection of the practice sessions. Patient H.M., who lost the ability to form new episodic memories after hippocampal surgery in 1953, demonstrated this dissociation more clearly than any experiment could have been designed to.",
+      "Crucially, remembering is reconstruction rather than replay. Each recall partially rewrites the trace, incorporating current expectations and subsequent information. Elizabeth Loftus's work showed that entirely false memories of childhood events can be implanted through suggestion, and that eyewitness confidence correlates weakly with accuracy. This is not a marginal finding — it has reshaped how legal systems treat testimony, and it should shape how much weight you place on your own vivid recollections."
+     ]
+    },
+    {
+     "h": "Where to be sceptical",
+     "p": [
+      "Three specific cautions. <em>Neuroimaging</em>: fMRI measures blood flow as a proxy for activity, with poor temporal resolution and enormous analytical flexibility. The infamous dead-salmon study — which found \"brain activity\" in a deceased fish using standard uncorrected analysis — demonstrated how easily spurious results arise. \"Brain region lights up\" headlines are usually reporting small differences in a noisy signal.",
+      "<em>The chemical imbalance story</em>: the claim that depression is caused by low serotonin was always a simplification of the evidence, and a major 2022 umbrella review found no consistent support for it. Antidepressants do help many people; the mechanistic story told about them was wrong, and the two facts are independent.",
+      "<em>Neuro-myths</em>: left-brain versus right-brain personalities, the 10%-of-your-brain claim, and learning styles all persist in popular and even professional settings with no empirical support. The general rule: neuroscience is genuinely strong on mechanism at the cellular and circuit level, and much weaker on inferring complex mental content from imaging than press coverage implies."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Neuroplasticity",
+     "def": "Experience-driven reorganisation of neural connections, continuing throughout life at diminishing scale."
+    },
+    {
+     "term": "Working memory",
+     "def": "The limited-capacity system holding and manipulating information over seconds."
+    },
+    {
+     "term": "Reconsolidation",
+     "def": "The finding that recalling a memory makes it labile and subject to modification before restorage."
+    },
+    {
+     "term": "Predictive processing",
+     "def": "The influential framework in which the brain continuously generates predictions and processes prediction error rather than passively receiving input."
+    },
+    {
+     "term": "Default mode network",
+     "def": "Regions more active during rest and internally directed thought than during external tasks."
+    },
+    {
+     "term": "Reverse inference",
+     "def": "The common fallacy of inferring a mental state from the activation of a brain region that serves many functions."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Santiago Ramón y Cajal (1852–1934)",
+     "note": "Established that the brain is made of discrete cells; his drawings remain in use."
+    },
+    {
+     "name": "Elizabeth Loftus",
+     "note": "Memory malleability and false memory implantation; changed legal practice on eyewitness evidence."
+    },
+    {
+     "name": "Karl Friston",
+     "note": "The free energy principle and predictive processing — ambitious, influential, contested."
+    },
+    {
+     "name": "Lisa Feldman Barrett",
+     "note": "The theory of constructed emotion: emotions are built by the brain from interoception and concepts, not universally hardwired."
+    }
+   ],
+   "debate": {
+    "title": "Can mental states be read from brain scans?",
+    "sides": [
+     {
+      "label": "Increasingly",
+      "text": "Decoding models now reconstruct viewed images and, with cooperative subjects and lengthy training, approximate continuous language from fMRI. The trajectory is clear and the privacy implications are immediate."
+     },
+     {
+      "label": "Overstated",
+      "text": "These work under highly constrained conditions with subject cooperation and extensive individual calibration, and degrade sharply outside them. Reverse inference from a region to a specific mental content remains invalid, and forensic or commercial applications rest on far weaker ground than headlines imply."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Idea of the Brain",
+     "who": "Matthew Cobb — history of how we have understood the brain, and why each metaphor failed."
+    },
+    {
+     "title": "How Emotions Are Made",
+     "who": "Lisa Feldman Barrett — challenges the standard emotion picture."
+    },
+    {
+     "title": "Bad Science",
+     "who": "Ben Goldacre — on how neuro-claims get mangled in transit."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is memory better described as reconstruction than replay?",
+     "a": "Because retrieval reactivates and partially rewrites the trace, blending in current knowledge and expectations. This is why vivid, confident memories can be substantially or wholly false."
+    },
+    {
+     "q": "What is reverse inference and why is it a fallacy?",
+     "a": "Inferring a specific mental state from activity in a brain region. It fails because regions serve many functions — amygdala activity indicates salience generally, not fear specifically — so activation does not identify the state."
+    }
+   ]
+  },
+  {
+   "id": "sci-6",
+   "title": "Climate and Earth Systems",
+   "oneLine": "The physics, the evidence, the uncertainties that are real and the ones that are not.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The mechanism",
+     "p": [
+      "The physics is old and simple. The Earth absorbs shortwave solar radiation and re-emits longwave infrared. Certain gases — water vapour, CO₂, methane, nitrous oxide — absorb and re-radiate infrared, so some of that energy returns to the surface. This is the greenhouse effect, established by Tyndall's laboratory measurements in the 1850s and quantified for CO₂ by Arrhenius in 1896. Without it, Earth's average surface temperature would be around −18°C rather than about 15°C.",
+      "Atmospheric CO₂ has risen from roughly 280 ppm before industrialisation to over 420 ppm now, a level not seen for several million years. That the increase is anthropogenic is not inferred loosely: fossil carbon has a distinct isotopic signature (depleted in ¹³C and free of ¹⁴C), and atmospheric oxygen is declining in the ratio expected from combustion. The fingerprint is unambiguous."
+     ]
+    },
+    {
+     "h": "Feedbacks are where the difficulty lives",
+     "p": [
+      "Doubling CO₂ alone would warm the planet by about 1°C. The observed and projected warming is larger because of <em>feedbacks</em>. <em>Water vapour</em>: warmer air holds more of it, and it is itself a greenhouse gas — the largest amplifier, roughly doubling the direct effect. <em>Ice–albedo</em>: melting ice exposes darker ocean and land, absorbing more energy. <em>Clouds</em>: the dominant remaining uncertainty, since low clouds cool and high clouds warm, and the net response is hard to constrain.",
+      "<em>Climate sensitivity</em> — equilibrium warming from doubled CO₂ — is the number that matters, and the IPCC's assessed likely range is 2.5–4°C, narrowed from decades at 1.5–4.5°C by combining paleoclimate, process understanding and the historical record. The honest statement is that the direction and approximate magnitude are settled while the precise sensitivity and, much more so, the regional and impact projections carry real uncertainty. Note that uncertainty is not reassurance: it is symmetric, and the damage function is convex, so the high tail matters more than the low tail."
+     ]
+    },
+    {
+     "h": "Tipping points and the policy frame",
+     "p": [
+      "Some Earth systems may have thresholds beyond which change becomes self-sustaining: Greenland and West Antarctic ice sheet collapse, Amazon dieback, permafrost carbon release, and weakening of the Atlantic meridional overturning circulation. The evidence base is much weaker than for the core warming physics, and the timing is poorly constrained — but the asymmetry of consequences is why they receive attention out of proportion to their probability.",
+      "On policy, the economics is less contested than the politics suggests. Almost all economists favour carbon pricing; the disagreements concern the discount rate applied to future damages (a partly ethical choice, and the crux of the Stern–Nordhaus dispute), the treatment of tail risks, and how to handle the fact that emissions are global while policy is national. Adaptation and mitigation are complements, not alternatives — some warming is already locked in by thermal inertia, and some further warming is unavoidable given deployment timescales."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Greenhouse effect",
+     "def": "Atmospheric absorption and re-emission of outgoing infrared radiation, warming the surface."
+    },
+    {
+     "term": "Radiative forcing",
+     "def": "The change in Earth's energy balance caused by a given perturbation, measured in watts per square metre."
+    },
+    {
+     "term": "Climate sensitivity",
+     "def": "Equilibrium warming from a doubling of atmospheric CO₂; assessed likely range 2.5–4°C."
+    },
+    {
+     "term": "Feedback",
+     "def": "A process that amplifies or damps an initial forcing — water vapour and ice albedo amplify; clouds are uncertain."
+    },
+    {
+     "term": "Tipping point",
+     "def": "A threshold past which a system's change becomes self-sustaining and effectively irreversible on human timescales."
+    },
+    {
+     "term": "Discount rate",
+     "def": "The rate at which future costs are weighted against present ones; a partly ethical parameter that dominates cost–benefit results."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Svante Arrhenius (1859–1927)",
+     "note": "Calculated CO₂ warming by hand in 1896, arriving at a sensitivity close to modern estimates."
+    },
+    {
+     "name": "Charles Keeling (1928–2005)",
+     "note": "Began continuous CO₂ measurement at Mauna Loa in 1958; the Keeling Curve is the single most important dataset in the field."
+    },
+    {
+     "name": "Syukuro Manabe",
+     "note": "Built the first physically realistic climate models; Nobel in Physics 2021."
+    },
+    {
+     "name": "William Nordhaus",
+     "note": "Integrated assessment modelling and carbon pricing; Nobel 2018, and heavily criticised for a low damage function."
+    }
+   ],
+   "debate": {
+    "title": "What discount rate should apply to climate damages?",
+    "sides": [
+     {
+      "label": "Low (Stern)",
+      "text": "Discounting future welfare simply because it is future is ethically indefensible — it means valuing people less for being born later. A near-zero pure rate of time preference implies aggressive immediate action."
+     },
+     {
+      "label": "Higher (Nordhaus)",
+      "text": "Market rates reflect real opportunity costs: capital invested now compounds, and future generations will be richer. Ignoring this means sacrificing present welfare, including in poor countries today, for wealthier future people."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "IPCC AR6 Summary for Policymakers",
+     "who": "Free; the authoritative synthesis, and shorter than its reputation."
+    },
+    {
+     "title": "Under a White Sky",
+     "who": "Elizabeth Kolbert — on intervention, adaptation and unintended consequences."
+    },
+    {
+     "title": "How to Avoid a Climate Disaster",
+     "who": "Bill Gates — the technology-and-deployment framing, worth reading critically."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "How do we know the CO₂ rise is from fossil fuels?",
+     "a": "Isotopic signature — fossil carbon is depleted in ¹³C and contains no ¹⁴C, and atmospheric ratios have shifted accordingly — combined with declining atmospheric oxygen in exactly the proportion expected from combustion."
+    },
+    {
+     "q": "Why doesn't uncertainty in climate sensitivity argue for delay?",
+     "a": "Because uncertainty runs in both directions and the damage function is convex: the cost of the high-sensitivity outcome vastly exceeds the saving from the low one. Under those conditions uncertainty argues for more precaution, not less."
+    }
+   ]
+  },
+  {
+   "id": "sci-7",
+   "title": "Computation, Information and AI",
+   "oneLine": "What computers fundamentally are, what information means, and what current AI actually does.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The foundations",
+     "p": [
+      "Turing's 1936 paper defined computation abstractly: a machine reading and writing symbols on a tape according to rules. The <em>Church–Turing thesis</em> holds that anything effectively computable is computable by such a machine — so your laptop, a supercomputer and a sufficiently patient person with pencil and paper differ in speed, not in what they can in principle compute.",
+      "Turing also proved there are things no computer can do. The <em>halting problem</em> — determining in general whether an arbitrary program will terminate — is undecidable. This is not an engineering limitation to be overcome; it is a proof. <em>Complexity theory</em> then asks not what is computable but what is computable efficiently, and the P versus NP question — whether problems whose solutions can be checked quickly can also be solved quickly — remains the central open problem in the field, with cryptography, logistics and drug design all downstream of the answer.",
+      "Shannon's 1948 information theory supplied the other pillar: information is reduction in uncertainty, measured in bits, and every channel has a maximum error-free capacity. This is the mathematics underneath compression, error correction, and effectively all digital communication."
+     ]
+    },
+    {
+     "h": "What machine learning is",
+     "p": [
+      "Classical programming specifies rules explicitly. Machine learning instead fits parameters to data so that the resulting function performs well on examples. <em>Supervised</em> learning uses labelled examples, <em>unsupervised</em> learning finds structure without labels, and <em>reinforcement</em> learning optimises actions against a reward signal.",
+      "Modern deep learning stacks many layers of simple units, trained by gradient descent through backpropagation. Its power comes from learning representations rather than having them hand-designed — the network discovers useful intermediate features itself. Large language models are transformers trained to predict the next token across enormous text corpora, then adapted through further training on demonstrations and feedback. That the resulting systems exhibit capabilities not obviously implied by next-token prediction is a genuine and unresolved scientific puzzle, not marketing."
+     ]
+    },
+    {
+     "h": "Reading AI claims carefully",
+     "p": [
+      "Several distinctions do most of the work. <em>Capability versus reliability</em>: a system that succeeds 95% of the time is impressive in a demo and unusable where the 5% is costly. <em>Benchmark versus deployment</em>: benchmarks are gamed, and contamination — test data appearing in training data — is a persistent problem. <em>Correlation versus understanding</em>: a model can produce correct answers by pattern-matching without any world model, and distinguishing these empirically is difficult and actively researched.",
+      "The known failure modes are specific: <em>hallucination</em> (confident fabrication, a consequence of training to produce plausible continuations rather than to track truth), <em>distribution shift</em> (degradation when deployed inputs differ from training data), and <em>bias amplification</em> (training data reflects historical patterns, and optimisation can sharpen them). On the broader debate — whether scaling current architectures leads to general intelligence, and what risks that would pose — the honest position is that serious researchers disagree substantially, the disagreement is not resolvable from outside the evidence, and confident predictions in either direction have a poor track record."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Turing machine",
+     "def": "The abstract model defining what computation is; the reference point for computability."
+    },
+    {
+     "term": "Halting problem",
+     "def": "The proven impossibility of a general algorithm determining whether an arbitrary program terminates."
+    },
+    {
+     "term": "P vs NP",
+     "def": "Whether every problem whose solution is quickly verifiable is also quickly solvable; the central open question in computer science."
+    },
+    {
+     "term": "Shannon entropy",
+     "def": "A measure of uncertainty or information content, in bits; the basis of compression and error correction."
+    },
+    {
+     "term": "Gradient descent",
+     "def": "Iteratively adjusting parameters in the direction that most reduces error; how neural networks are trained."
+    },
+    {
+     "term": "Distribution shift",
+     "def": "Performance degradation when deployment data differs from training data — the most common cause of real-world ML failure."
+    },
+    {
+     "term": "Hallucination",
+     "def": "Confident generation of false content, arising from training objectives that reward plausibility rather than truth."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Alan Turing (1912–1954)",
+     "note": "Computability, the halting problem, the imitation game, and the Enigma work."
+    },
+    {
+     "name": "Claude Shannon (1916–2001)",
+     "note": "Information theory — arguably the most consequential single paper of the twentieth century."
+    },
+    {
+     "name": "Ada Lovelace (1815–1852)",
+     "note": "Wrote the first algorithm intended for a machine, and noted that such a machine could manipulate symbols generally, not just numbers."
+    },
+    {
+     "name": "Geoffrey Hinton",
+     "note": "Backpropagation and deep learning; later a prominent voice on the risks, which is itself informative."
+    }
+   ],
+   "debate": {
+    "title": "Do large language models understand anything?",
+    "sides": [
+     {
+      "label": "Something like it",
+      "text": "They build internal representations that generalise to genuinely novel problems, encode world structure recoverable by probing, and transfer across domains. Insisting this is 'mere' pattern matching requires a definition of understanding that no one can operationalise for humans either."
+     },
+     {
+      "label": "No",
+      "text": "They optimise next-token likelihood over text with no grounding in the world, no persistent goals, and no capacity to check claims against reality — which is exactly why they hallucinate. Fluency is being mistaken for comprehension, as it has been at every previous AI inflection."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Information",
+     "who": "James Gleick — Shannon and the history of the concept."
+    },
+    {
+     "title": "The Alignment Problem",
+     "who": "Brian Christian — the clearest account of what goes wrong and why."
+    },
+    {
+     "title": "Turing's 1950 paper, 'Computing Machinery and Intelligence'",
+     "who": "Free; the objections he anticipates are still the ones being made."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What does the halting problem establish?",
+     "a": "That no general algorithm can determine whether an arbitrary program halts. It is a proof of impossibility, not an unsolved engineering challenge, and it bounds what computation can ever do."
+    },
+    {
+     "q": "Why do language models hallucinate?",
+     "a": "Because they are trained to produce plausible continuations of text, not to track truth. Fabrication and accuracy are indistinguishable to the training objective when both are fluent, so nothing in the process penalises confident invention."
+    }
+   ]
+  },
+  {
+   "id": "sci-8",
+   "title": "Chemistry, Materials and Energy",
+   "oneLine": "Why matter behaves as it does, and the physical constraints on the energy transition.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "The logic of the periodic table",
+     "p": [
+      "Mendeleev's table works because chemical behaviour is determined almost entirely by the arrangement of outer electrons. Elements in the same column have the same outer-shell configuration and therefore behave alike: the noble gases have full shells and react with almost nothing; the alkali metals have one loose electron and react violently to lose it; the halogens need one and react violently to gain it. The table is not a filing system imposed on the elements — it is a readout of quantum structure, which is why Mendeleev could leave gaps and correctly predict the properties of elements not yet discovered.",
+      "Bonding follows: <em>ionic</em> (electrons transferred, producing charged ions held electrostatically — salt), <em>covalent</em> (electrons shared — water, and all organic chemistry), and <em>metallic</em> (a lattice of ions in a shared electron sea, which is why metals conduct and deform rather than shatter). Nearly every material property you encounter traces back to which of these is operating."
+     ]
+    },
+    {
+     "h": "Energy, reactions and why some things burn",
+     "p": [
+      "Chemical reactions rearrange bonds. Breaking bonds costs energy; forming them releases it; the net determines whether a reaction is <em>exothermic</em> or <em>endothermic</em>. But energetic favourability does not mean a reaction will happen: there is usually an <em>activation energy</em> barrier to overcome, which is why petrol sits stably in a tank and needs a spark. <em>Catalysts</em> lower that barrier without being consumed, which is why they are the quiet foundation of most of the chemical industry — and why the Haber–Bosch process, which fixes atmospheric nitrogen into ammonia for fertiliser, is plausibly the most consequential chemical invention ever made. Roughly half the nitrogen in your body passed through it.",
+      "Two constraints from thermodynamics recur across energy policy. Energy is conserved, so it is never created — only converted, always with losses. And <em>energy density</em> is a physical property, not an engineering choice: petrol carries roughly 12,000 watt-hours per kilogram; current lithium-ion cells manage around 250. That ratio is why electrification of cars is straightforward and electrification of long-haul aviation and shipping is not."
+     ]
+    },
+    {
+     "h": "Materials and the transition",
+     "p": [
+      "The bottlenecks in decarbonisation are increasingly material rather than conceptual. Batteries require lithium, cobalt, nickel and graphite; wind turbines and motors require rare earth elements; grid expansion requires enormous quantities of copper. These are not scarce in the crust but are concentrated in few jurisdictions, slow to permit and build, and dirty to refine — which converts a climate problem into a mining, trade and geopolitics problem.",
+      "Storage is the other constraint. Wind and solar are intermittent, so a high-renewables grid needs storage, overbuild, long-distance transmission, demand flexibility or firm low-carbon backup — nuclear, hydro or gas with capture. Battery costs have fallen roughly 90% in a decade, which is the single most important number in the transition, but batteries are well suited to hours and poorly suited to seasons. Hydrogen, pumped hydro, and thermal storage are the candidates for the seasonal problem, and none is yet solved at scale. When you read energy policy coverage, asking \"what is doing the work when the wind is not blowing in January?\" is the question that separates serious plans from unserious ones."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Valence electrons",
+     "def": "Outer-shell electrons; they determine essentially all chemical behaviour and the structure of the periodic table."
+    },
+    {
+     "term": "Activation energy",
+     "def": "The barrier that must be overcome for a reaction to proceed, regardless of whether it is energetically favourable."
+    },
+    {
+     "term": "Catalyst",
+     "def": "A substance that lowers activation energy without being consumed; the basis of industrial chemistry."
+    },
+    {
+     "term": "Energy density",
+     "def": "Energy stored per unit mass or volume; a physical property that constrains what electrification can replace."
+    },
+    {
+     "term": "Haber–Bosch process",
+     "def": "Industrial nitrogen fixation for fertiliser; sustains roughly half the world's food supply and consumes about 1–2% of global energy."
+    },
+    {
+     "term": "Intermittency",
+     "def": "The variability of wind and solar output, requiring storage, transmission, flexibility or firm backup."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Dmitri Mendeleev (1834–1907)",
+     "note": "The periodic table, with gaps left for elements he predicted and that were later found as described."
+    },
+    {
+     "name": "Marie Curie (1867–1934)",
+     "note": "Radioactivity; the only person with Nobel Prizes in two different sciences."
+    },
+    {
+     "name": "Linus Pauling (1901–1994)",
+     "note": "The nature of the chemical bond, applying quantum mechanics to chemistry."
+    },
+    {
+     "name": "Vaclav Smil",
+     "note": "Energy and materials at civilisational scale; the standard corrective to techno-optimism about transition timelines."
+    }
+   ],
+   "debate": {
+    "title": "What role should nuclear play in decarbonisation?",
+    "sides": [
+     {
+      "label": "Substantial",
+      "text": "It is the only proven dispatchable low-carbon source at scale, with the lowest deaths-per-terawatt-hour of any generation technology including wind, and the smallest land and material footprint. France decarbonised its grid in fifteen years with it."
+     },
+     {
+      "label": "Limited",
+      "text": "Recent Western projects have run vastly over time and budget — Hinkley Point C and Flamanville are the reference cases — while renewables and storage keep getting cheaper. Capital deployed in nuclear buys less abatement per pound and arrives a decade later."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Periodic Tales",
+     "who": "Hugh Aldersey-Williams — the elements as cultural and material history."
+    },
+    {
+     "title": "How the World Really Works",
+     "who": "Vaclav Smil — the material constraints, bracingly."
+    },
+    {
+     "title": "Our World in Data: Energy",
+     "who": "Free, current, and the best source for actual numbers."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does energy density matter so much for transport policy?",
+     "a": "Because petrol stores roughly 50 times more energy per kilogram than current batteries. Cars can absorb that penalty; long-haul aircraft and ships, where fuel mass dominates, cannot — which is why they need different solutions rather than bigger batteries."
+    },
+    {
+     "q": "Why is petrol stable in a tank if burning it releases energy?",
+     "a": "Because the reaction is energetically favourable but has a high activation energy barrier. Something must supply the initial energy — a spark — before the self-sustaining release begins."
+    }
+   ]
+  }
+ ]
+}

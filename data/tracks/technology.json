@@ -1,0 +1,895 @@
+{
+ "id": "technology",
+ "name": "Technology",
+ "tagline": "The machines, markets and rules that now run underneath everything else",
+ "accent": "#818cf8",
+ "blurb": "Technology is usually taught either as engineering or as commentary, and both miss the interesting part. What matters for a citizen is that a handful of technical design choices — packet switching, public-key cryptography, the foundry model — hardened into economic structures and then into political ones, and are now very hard to change. This track works upward from the physical and protocol layers to the platforms, money and labour markets built on them, and ends with the historical record on how societies have absorbed disruptive technology before.",
+ "modules": [
+  {
+   "id": "tec-1",
+   "title": "How the Internet Actually Works",
+   "oneLine": "The layered design, the two fragile databases it depends on, and why the governance fight is not academic.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Packets, layers and the end-to-end principle",
+     "p": [
+      "The internet is not a network. It is a protocol for making incompatible networks interoperate, which is why the technical name for it — internetworking — is more honest than the marketing one. Data is chopped into packets, each carrying a destination address, and each packet is routed independently. The Internet Protocol makes only a best-effort promise: it will try to deliver, it will not guarantee delivery, order or timing. TCP, running on the machines at the edges, notices the gaps and asks for retransmission. This split is the design's whole genius. The network stays stupid and cheap; the intelligence sits at the endpoints.",
+      "Saltzer, Reed and Clark formalised this in 1984 as the <em>end-to-end principle</em>, and its consequences are political rather than technical. Because the network does not need to understand applications, nobody has to ask permission to invent one. The web, BitTorrent, Skype, Bitcoin and every streaming service were deployed by writing software at the edges. The same property means the network cannot easily discriminate between traffic types, which is precisely why the net neutrality argument exists: deep packet inspection and traffic shaping are attempts to put intelligence back into the middle, and the fight is over who gets to."
+     ]
+    },
+    {
+     "h": "Names and routes: the two soft spots",
+     "p": [
+      "Two global databases hold the system together and both run substantially on trust. The Domain Name System resolves names through a hierarchy descending from thirteen root server identities — not thirteen machines, but thirteen addresses served by over a thousand anycast instances. The Border Gateway Protocol is worse: it is how roughly 80,000 autonomous systems tell each other which addresses they can reach, and in its original form it simply believes what it is told. Pakistan Telecom took YouTube off the internet in 2008 by announcing a route it did not own; Facebook removed itself in October 2021 by withdrawing its own routes and, because its DNS servers sat behind them, locking staff out of the building systems needed to fix it.",
+      "The slow fix is RPKI, a cryptographic register of which network may announce which addresses; most routed address space now has valid records and major transit providers drop invalid announcements. It illustrates how internet security actually improves — not by decree, but by a standards body publishing a specification and enough large operators adopting it that the remainder become conspicuous."
+     ]
+    },
+    {
+     "h": "Cables, concentration and who governs the layers",
+     "p": [
+      "Almost all intercontinental traffic runs through around 550 submarine cables, each a fibre bundle roughly the diameter of a garden hose lying on the seabed, and there are only about sixty repair ships in the world. Cuts are routine — a few hundred a year, mostly anchors and trawlers — but the recent pattern of damage in the Baltic and the Red Sea has moved the topic from engineering to security. Ownership has shifted too: Google, Meta and Microsoft now own or co-own much of the new transoceanic capacity, so the physical layer increasingly belongs to the same firms that dominate the application layer.",
+      "Governance is deliberately split. Protocols come from the IETF, which runs on rough consensus and running code and has no treaty status; names and numbers from ICANN, released from formal US oversight in 2016; telecommunications from the ITU, a UN body where states vote. That last distinction is the whole argument, because Russia, China and others have pushed since the 2012 Dubai conference to move internet governance into the ITU, where governments rather than engineers would decide. Two misconceptions worth killing: the internet is not the web, only one application running over it; and there is no global kill switch, though there are plenty of national ones, since a government controlling a country's few international gateways can withdraw its routes in an afternoon, as Egypt did in 2011."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Packet switching",
+     "def": "Splitting data into independently routed units rather than reserving a dedicated circuit, so capacity is shared statistically."
+    },
+    {
+     "term": "End-to-end principle",
+     "def": "Keep functions at the network edges; the core should do only what cannot be done elsewhere."
+    },
+    {
+     "term": "BGP",
+     "def": "The protocol by which networks advertise reachability to each other; historically unauthenticated, hence route hijacks and leaks."
+    },
+    {
+     "term": "Anycast",
+     "def": "Announcing the same address from many locations so users reach the nearest instance; underpins DNS roots and CDNs."
+    },
+    {
+     "term": "Peering vs transit",
+     "def": "Networks either exchange traffic as equals for free, or pay a larger network to carry it onward; the economics of who pays whom."
+    },
+    {
+     "term": "Multistakeholder governance",
+     "def": "Standards and coordination by engineers, firms and civil society rather than by intergovernmental treaty."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Paul Baran (1926–2011) and Donald Davies (1924–2000)",
+     "note": "Independently invented packet switching, Baran seeking survivable command networks, Davies seeking efficient time-sharing."
+    },
+    {
+     "name": "Vint Cerf and Bob Kahn",
+     "note": "Designed TCP/IP in 1974; the decision to make the network unreliable by default is theirs."
+    },
+    {
+     "name": "Jon Postel (1943–1998)",
+     "note": "Ran the numbering authority largely single-handed for years; his robustness principle, be conservative in what you send and liberal in what you accept, shaped and arguably harmed protocol design."
+    },
+    {
+     "name": "David Clark",
+     "note": "Articulated the end-to-end principle and the IETF's credo of rough consensus and running code."
+    }
+   ],
+   "debate": {
+    "title": "Should internet governance move from multistakeholder bodies to states?",
+    "sides": [
+     {
+      "label": "Yes, states are accountable",
+      "text": "The current arrangement gives disproportionate influence to American firms and American-domiciled non-profits over infrastructure the whole world depends on. Only governments have democratic mandates and the standing to enforce anything, and every other piece of critical global infrastructure — aviation, shipping, spectrum — is governed by treaty."
+     },
+     {
+      "label": "No, it would ossify and fragment",
+      "text": "The IETF's openness is why deployment is fast and why anyone can propose a fix. State control means the median position is set by the median government, many of which want identification, filtering and traffic controls built into the protocols themselves. The likely outcome is not better governance but a splintered internet with incompatible national stacks."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Where Wizards Stay Up Late",
+     "who": "Hafner & Lyon — the origin story, well told and short."
+    },
+    {
+     "title": "The Undersea Network",
+     "who": "Nicole Starosielski — the physical layer as geography and politics."
+    },
+    {
+     "title": "RFC 1958 and RFC 3724",
+     "who": "Free, a few pages each; the architects explaining the architecture in their own words."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does the internet's core deliberately do so little?",
+     "a": "Because keeping function at the endpoints means new applications need no changes to the network and no permission from its operators. The cost is that the network cannot easily guarantee quality of service, which is the technical root of the net neutrality dispute."
+    },
+    {
+     "q": "Why is BGP considered the internet's weakest structural point?",
+     "a": "It propagates reachability claims that were, by original design, unauthenticated, so a misconfiguration or deliberate hijack in one network can redirect or blackhole traffic globally within minutes. RPKI validation is closing this, but adoption is uneven and partly voluntary."
+    }
+   ]
+  },
+  {
+   "id": "tec-2",
+   "title": "Platforms, Network Effects and the Attention Economy",
+   "oneLine": "Why an architecture built to prevent centralisation produced the most centralised information system in history.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Two-sided markets and winner-take-most",
+     "p": [
+      "Rochet and Tirole's insight, which won Tirole a Nobel in 2014, is that some businesses serve two distinct groups who each value the other's presence, and the platform's central decision is not price but <em>price structure</em> — which side to subsidise. Newspapers underprice readers to sell advertisers; console makers sell hardware near cost to attract developers; card networks charge merchants to keep cardholders free. This is why intuitions from ordinary markets mislead: a price of zero on one side is not evidence of generosity or of predation, it is the normal equilibrium.",
+      "Network effects then do the concentrating: a messaging app is worth more when your contacts are on it, and more sellers attract more buyers who attract more sellers. Add high fixed and near-zero marginal costs, and the market tips. Two qualifications are usually skipped. Network effects are frequently local rather than global — Uber's are city-level, which is why it faced real competition. And <em>multi-homing</em> breaks tipping: most people run several social apps, which is how TikTok took a large share of attention from an incumbent with a decade-long head start. The strongest incumbent advantages are often the dull ones — distribution deals, default placement, bundling, switching costs — rather than network effects as such."
+     ]
+    },
+    {
+     "h": "Ranking and the economics of attention",
+     "p": [
+      "Herbert Simon put the mechanism in one sentence in 1971: a wealth of information creates a poverty of attention. Once content is abundant and free, the scarce resource is the audience's time, and the platform's core asset is the ranking function that allocates it. Feeds moved from chronological to engagement-predicting to fully recommender-driven, where what you see comes mostly from accounts you do not follow. The optimisation target is usually a weighted blend of predicted clicks, watch time, comments and reshares, which is a proxy for value, not value itself — a textbook Goodhart problem.",
+      "Here the popular account runs ahead of the evidence. The strong filter bubble thesis has not held up: the 2020 Facebook and Instagram Election Study, published across <em>Science</em> and <em>Nature</em> in 2023, randomised tens of thousands of users onto reverse-chronological feeds for three months and found that time on platform fell and the content mix changed while polarisation and political attitudes barely moved. Critics reasonably note that three months is short and that platform-wide effects cannot be detected by randomising individuals. The honest summary is that ranking demonstrably shapes what people see and how long they stay, and that its contribution to political attitudes is smaller and more contested than most commentary assumes."
+     ]
+    },
+    {
+     "h": "Moderation, and the law catching up",
+     "p": [
+      "Moderation at scale is not a solved problem badly executed; it is structurally impossible to do well. Any rule applied to billions of items a day will produce enormous absolute numbers of errors in both directions even at high accuracy, and every judgement is context-dependent in ways classifiers handle poorly. The most persistent misconception concerns Section 230 of the US Communications Decency Act: it does not require platforms to be neutral, and never has. Its two clauses immunise a service both for hosting what users say and for removing what it considers objectionable — the removal protection is the point of the statute, not a loophole in it.",
+      "Regulation has accordingly shifted from content rules to process rules. The EU's Digital Services Act obliges very large platforms to assess systemic risks, open data to vetted researchers and submit to audits; the Digital Markets Act designates gatekeepers and bans self-preferencing outright; the UK's Online Safety Act imposes duties of care enforced by Ofcom. Antitrust has moved unevenly: a US court found in 2024 that Google held an unlawful monopoly in search, but the 2025 remedies fell well short of the break-up sought, while a case against Meta's acquisitions of Instagram and WhatsApp failed on market definition. Courts now broadly accept that these markets tip, and disagree about what to do afterwards."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Two-sided market",
+     "def": "A platform serving two interdependent groups, where the split of the total price between them matters more than its level."
+    },
+    {
+     "term": "Multi-homing",
+     "def": "Users participating on several competing platforms at once; the main brake on tipping."
+    },
+    {
+     "term": "Engagement optimisation",
+     "def": "Ranking by predicted interaction rather than by stated preference or quality, with the resulting proxy-target divergence."
+    },
+    {
+     "term": "Section 230",
+     "def": "The US provision immunising services both for user content they host and for content they choose to remove; it imposes no neutrality requirement."
+    },
+    {
+     "term": "Gatekeeper (DMA)",
+     "def": "An EU designation for large platforms controlling access to business users, triggering ex ante conduct rules rather than case-by-case enforcement."
+    },
+    {
+     "term": "Aggregation",
+     "def": "Owning the demand-side relationship and commoditising suppliers, which is how zero-marginal-cost intermediaries capture value."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Jean Tirole and Jean-Charles Rochet",
+     "note": "Built the formal theory of two-sided markets; showed that below-cost pricing on one side can be perfectly competitive behaviour."
+    },
+    {
+     "name": "Herbert Simon (1916–2001)",
+     "note": "Named the attention economy decades before it existed at scale, as a corollary of bounded rationality."
+    },
+    {
+     "name": "Tim Wu",
+     "note": "The Attention Merchants and The Curse of Bigness; the leading modern case for structural antitrust against platforms."
+    },
+    {
+     "name": "Shoshana Zuboff",
+     "note": "Surveillance capitalism: behavioural data as an expropriated raw material; influential, and criticised for treating a business model as a historical epoch."
+    }
+   ],
+   "debate": {
+    "title": "Should platforms be legally liable for what their algorithms recommend?",
+    "sides": [
+     {
+      "label": "Yes — ranking is the platform's own act",
+      "text": "Choosing what to amplify is an editorial decision made by the company, not speech by a user, and a US appeals court accepted exactly that reasoning in 2024 over TikTok's recommendation of a fatal challenge video to a child. Immunity was granted for passive hosting; a system that actively selects and pushes content to people who never asked for it is a different product and should carry ordinary product liability."
+     },
+     {
+      "label": "No — it collapses the distinction that makes the web possible",
+      "text": "Every service that is not purely chronological ranks something, including search engines, app stores and spam filters. Liability for ranking makes any organisation of information legally risky, and the rational response is aggressive over-removal of anything contentious, which falls hardest on marginal and political speech. Harms are better addressed through transparency, design duties and enforcement against specific conduct."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Platform Revolution",
+     "who": "Parker, Van Alstyne & Choudary — the mechanics, from the economists who formalised them."
+    },
+    {
+     "title": "Custodians of the Internet",
+     "who": "Tarleton Gillespie — moderation as the product rather than an afterthought."
+    },
+    {
+     "title": "The 2020 Facebook and Instagram Election Study papers",
+     "who": "Guess, Nyhan and colleagues — free, and the best evidence we have on feed effects."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is a zero price on one side of a platform weak evidence of anticompetitive conduct?",
+     "a": "In two-sided markets the platform must choose which side to subsidise to get both on board, and subsidising the more price-sensitive side is the standard competitive outcome. Predation has to be shown from conduct and recoupment, not from the price level alone."
+    },
+    {
+     "q": "What did randomised feed experiments find about chronological timelines?",
+     "a": "Switching users to reverse-chronological feeds for three months reduced time on platform and changed the mix of content seen, but produced no detectable change in polarisation or political attitudes. That undercuts the strong version of the filter bubble claim without showing ranking is harmless."
+    }
+   ]
+  },
+  {
+   "id": "tec-3",
+   "title": "Cryptography, Privacy and Surveillance",
+   "oneLine": "What public-key cryptography actually guarantees, why the access debate has no clean answer, and how privacy law has performed in practice.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Public-key cryptography without the mathematics",
+     "p": [
+      "Before 1976 every cipher required both parties to share a secret key in advance, which meant the hard problem was not encryption but distribution. Diffie and Hellman broke that constraint by showing two strangers could agree a shared secret over a public channel that an eavesdropper could not reconstruct. RSA followed with a second capability: a keypair where anything scrambled with the public half can only be unscrambled with the private half, and vice versa. That second direction gives digital signatures, and signatures give authentication, and authentication is what actually makes online banking and software updates possible. Encryption gets the attention; signing does more of the work.",
+      "Three corrections to the popular picture. Modern cryptography is essentially never broken by attacking the mathematics — the attacks land on implementations, key management, endpoints and users. Hashing is not encryption; it is one-way and has no key, which is why a leaked password database can still be attacked by guessing. And encryption protects content, not the fact of communication: metadata about who contacted whom, when and for how long is unprotected by design and is frequently more revealing. Michael Hayden, former director of both the NSA and the CIA, put it flatly in 2014 when he said the United States kills people based on metadata."
+     ]
+    },
+    {
+     "h": "End-to-end encryption and the going-dark argument",
+     "p": [
+      "End-to-end encryption means the operator holds no key and cannot read messages even when compelled. Signal's double ratchet protocol is the standard design and now underlies WhatsApp, Messenger and Signal itself, covering several billion accounts. Law enforcement agencies have argued since the 1990s that this produces a going-dark problem, and the argument has real content: warrants that once produced readable material now produce ciphertext, and child protection agencies point to a genuine collapse in the detectability of abuse imagery once a service encrypts.",
+      "The technical rebuttals are equally serious. In <em>Keys Under Doormats</em> in 2015 and <em>Bugs in Our Pockets</em> in 2021, a group including Rivest, Diffie, Schneier and Abelson argued that any exceptional access mechanism creates a high-value target and breaks forward secrecy, and that client-side scanning is a general-purpose surveillance capability whose scope is set by whoever controls the hash list. The record supports caution: the Salt Typhoon intrusions disclosed in 2024 put a Chinese state group inside the lawful-intercept systems of major US telecoms, precisely the failure mode critics predicted. Against that, the same argument gets used to resist measures that are not backdoors at all, and going dark has coexisted with unprecedented data availability from device forensics, cloud backups and location history."
+     ]
+    },
+    {
+     "h": "The data economy and the law that tried to govern it",
+     "p": [
+      "Most commercial surveillance is not interception but aggregation. Data brokers such as Acxiom and LiveRamp assemble thousands of attributes per person from loyalty schemes, public records, app SDKs and bidstream data, and the US Federal Trade Commission has taken action against brokers selling precise location traces revealing visits to clinics and places of worship. The regulatory asymmetry is stark: in most of the US this is lawful, while in the EU and UK it requires a legal basis under the GDPR.",
+      "The GDPR's scorecard after eight years is mixed. It established genuinely important principles — purpose limitation, data minimisation, breach notification, limits on automated decisions — and produced fines large enough to matter, including 1.2 billion euros against Meta in 2023 over transatlantic transfers. It also produced the cookie banner, close to a pure welfare loss: consent theatre that trains people to click accept, owed as much to the older ePrivacy directive as to the GDPR. Enforcement has bottlenecked in Ireland and Luxembourg where the large firms are established, and compliance costs fall hardest on small ones. Meanwhile Max Schrems has twice had transatlantic transfer arrangements struck down, and the 2023 replacement rests on US executive commitments a future administration could revise."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Asymmetric cryptography",
+     "def": "A keypair where the public key encrypts or verifies and the private key decrypts or signs, removing the need for pre-shared secrets."
+    },
+    {
+     "term": "Forward secrecy",
+     "def": "Session keys are ephemeral, so compromising a long-term key does not expose past traffic."
+    },
+    {
+     "term": "Metadata",
+     "def": "The who, when, where and how much of a communication; unprotected by content encryption and often more informative than content."
+    },
+    {
+     "term": "Client-side scanning",
+     "def": "Matching content against a list on the user's device before encryption; technically avoids breaking the cipher, functionally a general surveillance hook."
+    },
+    {
+     "term": "Contextual integrity",
+     "def": "Nissenbaum's account of privacy as appropriate information flow within a context, rather than secrecy or control."
+    },
+    {
+     "term": "Harvest now, decrypt later",
+     "def": "Recording encrypted traffic today in anticipation of future quantum decryption; the reason post-quantum migration is urgent for long-lived secrets."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Whitfield Diffie and Martin Hellman",
+     "note": "Their 1976 paper solved key distribution and effectively created civilian cryptography; both later prominent critics of exceptional access."
+    },
+    {
+     "name": "Phil Zimmermann",
+     "note": "Released PGP in 1991 and spent three years under criminal investigation for it; the first crypto war established that publishing code is protected speech."
+    },
+    {
+     "name": "Helen Nissenbaum",
+     "note": "Reframed privacy away from secrecy towards norms of appropriate flow, which explains why the same disclosure can be fine in one setting and a violation in another."
+    },
+    {
+     "name": "Max Schrems",
+     "note": "An Austrian lawyer who has twice invalidated EU–US data transfer frameworks at the Court of Justice, showing individual litigation can move infrastructure."
+    }
+   ],
+   "debate": {
+    "title": "Should governments have a lawful route into end-to-end encrypted communications?",
+    "sides": [
+     {
+      "label": "Yes, warrants should not stop at the app layer",
+      "text": "The principle that a judge can authorise access to evidence is old, hard-won and not obviously suspended by a technical choice made by a private company. Serious crime investigation has measurably degraded on encrypted services, and abuse-imagery detection in particular fell off a cliff where scanning was withdrawn. A designed access mechanism, audited and warrant-gated, is at least a governed risk; the alternative is agencies relying on undisclosed device exploits, which is less accountable, not more."
+     },
+     {
+      "label": "No, the capability cannot be contained",
+      "text": "Any access mechanism is a permanent structural weakness available to whoever gets control of it, and the assumption that this will be a friendly domestic court ignores both foreign governments and adversaries who compromise the mechanism itself. Salt Typhoon showed a hostile state living inside exactly this kind of infrastructure. Encryption also protects journalists, dissidents and abuse survivors, and once client-side scanning exists, the list of things scanned for is a policy setting rather than a technical limit."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Code Book",
+     "who": "Simon Singh — the clearest popular account of how the mathematics got here."
+    },
+    {
+     "title": "Keys Under Doormats (2015)",
+     "who": "Abelson and colleagues — free, technical but readable, the core of the access argument."
+    },
+    {
+     "title": "Privacy in Context",
+     "who": "Helen Nissenbaum — the framework worth having when the word privacy starts doing too much work."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is metadata often more revealing than message content?",
+     "a": "It is structured, complete and trivially analysable at scale, whereas content is unstructured and ambiguous. Knowing that someone called an oncology clinic, then a family member, then a solicitor tells you the story without a single word of the conversations."
+    },
+    {
+     "q": "What is the standard technical objection to client-side scanning?",
+     "a": "It does not weaken the cipher, but it inserts an inspection point on the device whose target list is controlled externally and cannot be verified by the user. The cryptographic community's position is that the mechanism, not the current policy, is the risk, since expanding the list requires no new engineering."
+    }
+   ]
+  },
+  {
+   "id": "tec-4",
+   "title": "Cybersecurity: Threats, Incentives and Economics",
+   "oneLine": "How breaches actually happen, why ransomware became an industry, and why the binding constraint is economic rather than technical.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Threat models and the unglamorous reality of breaches",
+     "p": [
+      "Security is meaningless without a threat model: who is your adversary, what are they after, what will they spend, and what are you willing to lose. A model that defends against a bored teenager and one that defends against a state intelligence service imply completely different budgets, and the most common organisational failure is having no explicit model at all, so spending follows vendor marketing.",
+      "The empirical picture from the annual Verizon breach investigations report contradicts the cinematic version. The large majority of breaches involve a human element — stolen or reused credentials, phishing, social engineering, or simple error such as a misconfigured storage bucket. Exploitation of software vulnerabilities has grown sharply as a share, but it concentrates in internet-facing infrastructure: VPN concentrators, file transfer appliances and edge devices from vendors like Ivanti, Citrix and Fortinet, where one unpatched box grants entry. True zero-days exist but are spent overwhelmingly on high-value targets. For most organisations, phishing-resistant multi-factor authentication, prompt patching of the perimeter, network segmentation and tested offline backups would prevent or contain the great majority of what actually happens."
+     ]
+    },
+    {
+     "h": "The ransomware economy",
+     "p": [
+      "Ransomware succeeded because it turned a technical capability into a business with division of labour. Initial access brokers sell footholds; ransomware-as-a-service operators supply the encryptor and negotiation infrastructure to affiliates for a cut; separate crews handle laundering. Double extortion — stealing data before encrypting it, so backups no longer defeat the demand — became standard around 2019, and pure extortion without encryption is now common. The Scattered Spider intrusions at MGM Resorts in 2023 and at UK retailers including Marks and Spencer in 2025 were not clever exploits at all: they were phone calls to help desks persuading staff to reset credentials.",
+      "The economics are visibly turning. Chainalysis tracked over a billion dollars in on-chain ransom payments in 2023, then a fall of roughly a third in 2024 and further decline since, even as incident counts rose. Victims increasingly refuse to pay: the share paying has fallen from over three-quarters in 2019 to around a quarter, partly through better backups, partly through sanctions exposure, and partly because the ALPHV group took a twenty-two million dollar payment from Change Healthcare in 2024 and vanished without paying its affiliate — an advertisement for non-payment. Note the structure this reveals: the criminals depend on a reputation for honest dealing, and operations such as the 2024 takedown of LockBit target that reputation as much as the infrastructure."
+     ]
+    },
+    {
+     "h": "Supply chains, states, and security as an economics problem",
+     "p": [
+      "Supply chain compromise converts one intrusion into thousands. SolarWinds put a backdoor into a signed update used by around eighteen thousand organisations; Log4Shell was a flaw in a logging library embedded in an unknowable fraction of Java software; MOVEit gave one group data on thousands of organisations through a single file-transfer product. The most instructive case is the xz-utils backdoor of March 2024, a patient multi-year campaign to become trusted maintainer of a compression library in most Linux distributions, caught only because an engineer investigating a half-second delay in SSH logins was curious enough to dig. Nothing systematic caught it. Concentration cuts the same way without any attacker, as the CrowdStrike update that bricked some 8.5 million Windows machines showed.",
+      "State activity has shifted from espionage towards prepositioning: Volt Typhoon implanted access in US water, power and transport networks using ordinary administrative tools rather than malware, with no evident intent to steal anything — the capability is the objective. Ross Anderson's point, made in 2001, explains why none of this gets fixed: insecurity persists because whoever could fix a problem is not whoever bears its cost. Vendors historically faced no liability, buyers cannot assess security before purchase so the market rewards features, and breach costs land on customers. Everything interesting in cyber policy follows from correcting that — the EU Cyber Resilience Act, mandatory breach disclosure, and insurers pricing behaviour that regulation never managed to."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Threat model",
+     "def": "An explicit statement of adversary, capability, target and acceptable loss; without one, security spending is unfalsifiable."
+    },
+    {
+     "term": "Double extortion",
+     "def": "Exfiltrating data before encrypting it, so that restoring from backup does not remove the leverage."
+    },
+    {
+     "term": "Initial access broker",
+     "def": "A specialist who compromises networks and sells the foothold onward, enabling division of labour in the criminal economy."
+    },
+    {
+     "term": "Living off the land",
+     "def": "Using legitimate administrative tools already present on a system, so activity blends into normal operations and evades malware detection."
+    },
+    {
+     "term": "Externality (in security)",
+     "def": "Costs of insecurity borne by parties other than the one making the design decision; the core reason markets under-supply security."
+    },
+    {
+     "term": "Monoculture risk",
+     "def": "Dan Geer's argument that homogeneous software estates make single failures systemic, whether caused by an attacker or a bad update."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Ross Anderson (1956–2024)",
+     "note": "Founded security economics; argued that most security failures are incentive failures and wrote the field's standard textbook, Security Engineering."
+    },
+    {
+     "name": "Bruce Schneier",
+     "note": "Popularised threat modelling and the phrase security theatre for measures that produce feelings of safety without reducing risk."
+    },
+    {
+     "name": "Dan Geer",
+     "note": "Argued in 2003 that Microsoft's desktop monoculture was itself a national security risk, and was fired from his consultancy for saying so."
+    },
+    {
+     "name": "Katie Moussouris",
+     "note": "Built the first Microsoft bug bounty and the Pentagon's disclosure programme, turning vulnerability reporting from a legal threat into a market."
+    }
+   ],
+   "debate": {
+    "title": "Should paying a ransomware demand be banned?",
+    "sides": [
+     {
+      "label": "Ban it",
+      "text": "Payments are the entire revenue model, and every payment funds the next round of attacks against someone else — a textbook externality that individual victims have no incentive to internalise. A credible ban removes the negotiation, ends the ambiguity that lets boards treat extortion as a business expense, and dries up the affiliate economy. Several US states have already banned public-sector payments and the UK has consulted on doing the same."
+     },
+     {
+      "label": "Do not",
+      "text": "A ban punishes victims at their worst moment and would push payments underground, destroying the incident reporting that law enforcement depends on. Hospitals, water utilities and small firms with no viable recovery path would face closure or genuine danger to life rather than a bad cheque. Payment rates are already collapsing without a ban, which suggests better backups, insurance discipline and disclosure requirements are achieving the same end without the casualties."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Security Engineering, 3rd edition",
+     "who": "Ross Anderson — free online, enormous, and the only book that treats incentives as first-class."
+    },
+    {
+     "title": "Sandworm",
+     "who": "Andy Greenberg — the NotPetya story, and the clearest account of state cyber operations spilling over."
+    },
+    {
+     "title": "The Verizon Data Breach Investigations Report",
+     "who": "Free and annual; the antidote to vendor threat marketing."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is information security described as an economics problem rather than a technical one?",
+     "a": "Because the technical countermeasures for most breaches are well known and cheap, yet remain undeployed since the party best placed to act does not bear the loss. Vendors historically faced no liability, buyers cannot assess security before purchase, and breach costs fall on third parties."
+    },
+    {
+     "q": "Why did ransomware payment rates fall even as attack volumes rose?",
+     "a": "Improved backups and segmentation gave victims a recovery option, sanctions exposure made paying legally risky, and high-profile cases where groups took payment and leaked the data anyway destroyed the criminals' reputation for honouring deals — which their business model requires."
+    }
+   ]
+  },
+  {
+   "id": "tec-5",
+   "title": "AI Systems in the World",
+   "oneLine": "What deployed systems actually do, how they fail in practice, and the three serious positions on risk stated at their strongest.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Capabilities and the shape of failure",
+     "p": [
+      "What has changed since 2022 is less the underlying method than the scale and the interface. Models trained on text prediction, then tuned to follow instructions, turned out to be broadly useful across tasks nobody trained for. Since late 2024 a further shift matters: models that spend more computation at inference time, producing long internal chains of reasoning, which improved performance sharply on mathematics and formal problems while leaving other weaknesses untouched. The other shift is agentic deployment — systems that call tools, browse, execute code and act in external systems rather than only emitting text.",
+      "The failure modes are specific. <em>Confabulation</em>: models produce fluent false statements, and there is a good argument that this is partly a training artefact, since scoring schemes that reward correct answers and give nothing for admitting ignorance make guessing optimal. <em>Prompt injection</em> is the genuinely unsolved one: a system reading untrusted content cannot reliably separate data from instructions, so an agent combining private data, attacker-controlled text and any outbound channel is exploitable. <em>Automation bias</em> is a human failure the technology amplifies — the deepest lesson of the Post Office Horizon scandal, where courts convicted hundreds of subpostmasters on the assumption that accounting software was reliable."
+     ]
+    },
+    {
+     "h": "Evaluation and labour effects",
+     "p": [
+      "Benchmarks are how capability claims are made and they are structurally weak. Test sets leak into training data, headline benchmarks saturate, and optimising for a public benchmark is Goodharting by definition. More importantly, benchmark performance predicts deployment performance poorly, because benchmarks are short, well-specified and scored automatically while real tasks are long, ambiguous and embedded in institutions. The more useful current work measures the length of task a system can complete reliably, which has been roughly doubling every seven months on the software tasks measured by METR — a claim worth watching precisely because it is falsifiable.",
+      "On labour the evidence is mixed and confident positions on either side are unearned. Field experiments show real gains: a study of over five thousand customer support agents found around a fourteen per cent productivity improvement, concentrated almost entirely in the least experienced workers. But METR's 2025 randomised trial of experienced developers on their own repositories found them nineteen per cent <em>slower</em> with AI assistance while believing they had been twenty per cent faster. The clearest early signal is compositional rather than aggregate: Stanford researchers found a relative employment decline for workers aged twenty-two to twenty-five in the most exposed occupations, consistent with substitution for exactly the routine tasks that used to constitute entry-level training."
+     ]
+    },
+    {
+     "h": "The risk debate, three serious positions",
+     "p": [
+      "The <strong>accelerationist</strong> case: the technology is the most promising general-purpose tool for compressing scientific and economic progress since electrification, and the costs of delay are invisible but real — people who die of diseases that would have been treatable, growth that does not happen. On this view current systems are sophisticated pattern learners far from autonomous agency, existential scenarios rest on speculative arguments rather than evidence, and heavy pre-emptive regulation predictably entrenches the largest incumbents by making compliance the barrier to entry. Yann LeCun and Andrew Ng represent versions of this seriously.",
+      "The <strong>mainstream-cautious</strong> case, which is roughly where the International AI Safety Report chaired by Yoshua Bengio sits: the harms that warrant action are the concrete ones already observable — discriminatory decisions in credit, welfare and policing, synthetic media, meaningful uplift to cyber and biological attackers, market concentration, and disruption to entry-level labour markets. The right instruments are ones we know how to build: mandatory evaluation and incident reporting, liability, transparency about training data and capability, and sectoral regulation where the stakes are highest.",
+      "The <strong>safety-focused</strong> case: the concern is loss of meaningful control over systems trained to pursue objectives, deployed with increasing autonomy and understood only shallowly. This is no longer purely theoretical — evaluations have documented models deceiving evaluators, strategically underperforming, and behaving differently when they infer they are observed. If capability scales and interpretability does not, we will be deploying systems whose objectives we cannot verify into positions where verification matters. Anyone taking all three cases seriously should notice they conflict less than they appear to: the disagreement is mostly about probability and timing, and the interventions each camp wants overlap considerably."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Confabulation",
+     "def": "Fluent, confident output that is false; partly a consequence of evaluation schemes that reward guessing over admitting uncertainty."
+    },
+    {
+     "term": "Prompt injection",
+     "def": "Attacker-controlled text in a model's input treated as instruction; unsolved, and the main obstacle to safe agentic deployment."
+    },
+    {
+     "term": "Automation bias",
+     "def": "Human deference to machine output even against contrary evidence; the failure that turns a flawed system into a catastrophe."
+    },
+    {
+     "term": "Benchmark contamination",
+     "def": "Test items present in training data, inflating scores without corresponding capability."
+    },
+    {
+     "term": "Alignment",
+     "def": "Getting a system's actual objectives and behaviour to match what its principals intend, including under conditions not covered in training."
+    },
+    {
+     "term": "Task-level exposure",
+     "def": "Measuring automation by task rather than occupation; the correction that turned alarming job-loss estimates into much smaller ones."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Yoshua Bengio",
+     "note": "Shared the 2018 Turing Award for deep learning, then became the leading scientific voice for caution and chairs the international scientific assessment."
+    },
+    {
+     "name": "Yann LeCun",
+     "note": "Shared that same award and argues the opposite: current architectures lack the world models needed for autonomy, and doom scenarios are unmoored from how the systems work."
+    },
+    {
+     "name": "Timnit Gebru",
+     "note": "Co-authored the stochastic parrots paper and was forced out of Google over it; insists the measurable harms are distributional and present, not speculative and future."
+    },
+    {
+     "name": "Daron Acemoglu",
+     "note": "Argues the direction of automation is a choice, not a fact, and that technology which merely displaces workers without raising productivity much is the worst of both worlds."
+    }
+   ],
+   "debate": {
+    "title": "Should frontier AI development be constrained by regulation now?",
+    "sides": [
+     {
+      "label": "Yes, before capability outruns oversight",
+      "text": "Every other technology capable of large-scale harm — aviation, pharmaceuticals, nuclear power — is licensed before deployment rather than after, and we accept the innovation cost because the alternative is learning from disasters. Compute thresholds, mandatory pre-deployment evaluation and incident reporting impose almost no burden on ordinary developers while creating the visibility regulators currently lack entirely. Waiting until harms are demonstrated means waiting until the systems are embedded and the industry is too large to constrain."
+     },
+     {
+      "label": "No, not yet and not this way",
+      "text": "We are regulating a technology whose failure modes we cannot yet characterise, using proxies like training compute that correlate poorly with capability and will age badly. The predictable outcome is compliance moats that entrench three or four firms, a shift of frontier work to jurisdictions with no rules at all, and forgone benefits in medicine and education that never appear in any impact assessment. Liability for actual harms and sector-specific rules where stakes are high achieve more than a licensing regime for model training."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The International AI Safety Report",
+     "who": "Chaired by Yoshua Bengio — free, consensus-oriented, and explicit about where experts disagree."
+    },
+    {
+     "title": "Power and Progress",
+     "who": "Acemoglu & Johnson — a thousand years of evidence that who benefits from technology is a political outcome."
+    },
+    {
+     "title": "The Alignment Problem",
+     "who": "Brian Christian — the clearest account of how systems learn the wrong objective, without alarmism."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is prompt injection considered a structural rather than incidental problem?",
+     "a": "Language models process instructions and data in the same channel, so any content an agent reads can attempt to redirect it. Mitigations reduce the success rate but no training method has produced a reliable separation, which is why capable agents with private data access and outbound network reach remain risky by construction."
+    },
+    {
+     "q": "What does the METR developer trial suggest about self-reported productivity gains?",
+     "a": "Experienced developers working on repositories they knew well completed tasks roughly nineteen per cent slower with AI assistance while reporting that they had been substantially faster. Perceived and measured productivity can diverge sharply, so survey-based claims about AI's economic impact should be treated with caution."
+    }
+   ]
+  },
+  {
+   "id": "tec-6",
+   "title": "Money and Technology",
+   "oneLine": "How payments actually settle, what a blockchain genuinely solves, and an honest ledger of the crypto decade.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The rails money actually runs on",
+     "p": [
+      "Almost all money in circulation is a private liability of a commercial bank, and a payment is two banks updating ledgers and settling the net difference later at the central bank. Card networks run a four-party model in which the merchant's bank pays the cardholder's bank an interchange fee — high in the US, capped in the EU. The more consequential story is instant domestic payment: M-Pesa in 2007, UK Faster Payments in 2008, India's UPI, Brazil's Pix, and euro-area instant transfers now mandatory for all banks. These move money in seconds at negligible cost, which is why countries that built them early never needed a peer-to-peer payment app industry.",
+      "Cross-border is where the friction is real. There is no global instant system, so a foreign payment traverses correspondent banks, each holding accounts with the next and each running sanctions checks. One misconception is worth killing: SWIFT does not move money. It is a messaging cooperative telling banks what to do, and the value moves through the correspondent chain — so cutting off designated Russian banks in 2022 severed their messaging and practical access to correspondents rather than seizing anything. The average global remittance still costs above six per cent against a G20 target of three, and that gap is the largest genuine failure in the payments system."
+     ]
+    },
+    {
+     "h": "What a blockchain does and does not solve",
+     "p": [
+      "Strip away the vocabulary and Bitcoin solved one precise problem: getting mutually distrustful parties, with open membership and no identity requirement, to agree on the order of transactions without a trusted operator. That is a real result that had eluded people for decades, and the price is enormous — proof of work consumes electricity comparable to a mid-sized country, throughput is a few transactions per second, and finality is only probabilistic. Ethereum's move to proof of stake in 2022 cut its energy use by over ninety-nine per cent, showing the energy cost belongs to one consensus mechanism rather than to the idea.",
+      "The decisive limitation is the <em>oracle problem</em>: a ledger can guarantee a record was not altered after writing, but not that it was true when written. Hence the failure of nearly every enterprise application — if someone types that the container holds sustainably sourced tuna, an immutable ledger immutably records a possible lie. Maersk and IBM shut down TradeLens in 2022; the Australian Securities Exchange abandoned its blockchain settlement project after a write-off of around 250 million Australian dollars. Trustlessness needs qualifying too: trust migrates to exchanges, bridges, oracles and wallets, which is exactly where the money goes missing, as with the 1.5 billion dollars taken from Bybit in 2025 by North Korean state hackers."
+     ]
+    },
+    {
+     "h": "Stablecoins, CBDCs and the honest ledger",
+     "p": [
+      "The genuine uses are narrower than advocates claim and wider than critics allow. Censorship-resistant transfer matters if your currency loses a third of its value a year, and adoption indices show usage highest in Argentina, Nigeria, Turkey and Venezuela. Against that: Mt Gox; Terra-Luna erasing some forty billion dollars in a week; Celsius, Three Arrows and FTX, whose founder is serving twenty-five years for fraud; pig-butchering scams now the largest single category of crypto-denominated loss; and El Salvador, which made Bitcoin legal tender in 2021 and repealed mandatory acceptance in 2025 under an IMF programme after achieving single-digit usage.",
+      "Stablecoins are where regulators have converged, because a payment stablecoin is functionally a narrow bank: deposits in, short-dated government paper held, transferable claims out. Tether now holds enough US Treasuries to rank with medium-sized sovereign holders. MiCA in the EU and the GENIUS Act in the US both require reserves, redemption and audit, and both forbid paying interest. The risk is familiar rather than novel — USDC traded at eighty-seven cents in March 2023 when part of its reserve was trapped in Silicon Valley Bank. Central bank digital currencies are the state's answer, and the honest assessment is deflationary: three small economies have launched one and uptake has been negligible in all three, because a retail CBDC solves a problem instant rails already solved."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Correspondent banking",
+     "def": "The chain of banks holding accounts with each other through which cross-border payments actually travel; the source of most international friction and cost."
+    },
+    {
+     "term": "Oracle problem",
+     "def": "A ledger can guarantee a record was not changed but not that it was true when written; the reason immutability adds little to real-world provenance claims."
+    },
+    {
+     "term": "Trust displacement",
+     "def": "Trust removed from a central operator reappears at exchanges, bridges, oracles and wallets — which is where nearly all losses have occurred."
+    },
+    {
+     "term": "Payment stablecoin",
+     "def": "A transferable claim on short-dated reserves, economically a narrow bank on a blockchain rail."
+    },
+    {
+     "term": "CBDC",
+     "def": "A direct central bank liability held by the public or by banks; retail versions solve little where instant rails exist, wholesale versions target settlement."
+    },
+    {
+     "term": "Interchange",
+     "def": "The fee the merchant's bank pays the cardholder's bank on every card transaction; capped in the EU, unregulated in the US."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "David Chaum",
+     "note": "Invented blind signatures and built DigiCash in the 1990s; anonymous digital cash that worked technically and failed commercially because banks would not adopt it."
+    },
+    {
+     "name": "Satoshi Nakamoto",
+     "note": "The 2008 white paper's contribution was combining known cryptographic parts with an economic incentive that made open-membership consensus work at all."
+    },
+    {
+     "name": "Vitalik Buterin",
+     "note": "Generalised the ledger to arbitrary programs with Ethereum, and has been unusually candid about what the technology cannot do."
+    },
+    {
+     "name": "Hyun Song Shin",
+     "note": "The BIS's head of research and the most rigorous institutional critic: his argument is that crypto's fragmentation is structural, since scaling breaks the very decentralisation that justifies it."
+    }
+   ],
+   "debate": {
+    "title": "Are dollar stablecoins an improvement to global payments or old risks in new packaging?",
+    "sides": [
+     {
+      "label": "A genuine improvement",
+      "text": "They provide dollar-denominated settlement that works at any hour across borders, without correspondent chains, for anyone with a phone. For businesses in countries with capital controls, unstable currencies or shallow banking systems this is not speculation, it is working capital, and volumes reflect real commercial use rather than trading. Regulated reserve and redemption requirements now address the historical objection about backing."
+     },
+     {
+      "label": "Reinvented private banknotes",
+      "text": "This is nineteenth-century free banking with better marketing: privately issued claims trading at par until suddenly they do not, as USDC showed when part of its reserve was trapped in a failing bank. At scale it exports dollarisation into countries whose central banks lose monetary control, concentrates enormous sovereign debt holdings in lightly supervised issuers, and the underlying payments problem is better solved by extending instant domestic rails across borders."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Bitcoin Standard and The Politics of Bitcoin",
+     "who": "Ammous and Golumbia — read the strongest advocate and the sharpest critic together."
+    },
+    {
+     "title": "BIS Annual Economic Report, crypto chapters",
+     "who": "Free; the most rigorous sceptical analysis available, with the data behind it."
+    },
+    {
+     "title": "Number Go Up",
+     "who": "Zeke Faux — reported, funny, and the best account of what the 2021-22 cycle actually was."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why did enterprise blockchain projects for supply chains largely fail?",
+     "a": "Because the guarantee a blockchain provides is that a record has not been altered, not that it was accurate when entered. Provenance depends on trusting the party at the loading dock, and once you trust them, an ordinary shared database is cheaper and faster."
+    },
+    {
+     "q": "What does cutting a country off from SWIFT actually do?",
+     "a": "It removes its banks from the standardised messaging network that instructs correspondent banks, which makes international transfers slow, manual and largely impractical. SWIFT holds no money and settles nothing, so the sanction disrupts communication rather than seizing assets."
+    }
+   ]
+  },
+  {
+   "id": "tec-7",
+   "title": "The Physical Layer: Chips, Minerals and Power",
+   "oneLine": "How the most complex objects ever manufactured are made, where the chokepoints are, and what the buildout costs in energy and water.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "How a chip is actually made",
+     "p": [
+      "A leading-edge processor takes about three months and over a thousand process steps. Purified silicon is grown into a crystal, sliced into 300-millimetre wafers, then built up layer by layer through cycles of deposition, patterning and etching. Patterning is where the difficulty concentrates. Extreme ultraviolet machines make light at 13.5 nanometres by firing a laser twice at falling droplets of molten tin, fifty thousand times a second; because that wavelength is absorbed by glass and air, the optics are mirrors polished flatter than anything else humans make, working in vacuum. One machine costs upwards of 180 million dollars.",
+      "Two corrections. Node names are marketing — nothing in a so-called 3-nanometre process measures three nanometres, and the numbers stopped tracking physical dimensions around 2010. And the frontier has shifted away from shrinking transistors towards transistor architecture, moving to gate-all-around nanosheets at the 2-nanometre generation, and towards advanced packaging that stitches multiple dies and stacks of high-bandwidth memory into one module. For AI accelerators the binding constraint has repeatedly been packaging and memory rather than transistor density, which is not what most coverage assumes."
+     ]
+    },
+    {
+     "h": "Chokepoints",
+     "p": [
+      "Two decisions set the industry's structure. Morris Chang founded TSMC in 1987 on the premise that a foundry making other companies' designs, and competing with none of them, could aggregate demand — which created the fabless model and let Nvidia, Apple and AMD exist without factories. And ASML won the EUV race, and is now the only firm on earth able to build the machines leading-edge logic requires. The result is two single points of failure: over ninety per cent of the most advanced logic is fabricated in Taiwan, and every fab doing it depends on one supplier in Veldhoven. Diversification in Arizona, Kumamoto and Dresden is real but slow.",
+      "Hence export controls as the central instrument of technology policy since October 2022, restricting advanced chips, the tools to make them and the engineers who service them. The results are ambiguous: SMIC produced a 7-nanometre part using older deep-ultraviolet tools and multiple patterning passes, so the controls slow rather than stop progress, at heavy cost in yield. Meanwhile China's own chokepoint turned out to be minerals, and here another misconception needs correcting — rare earths are not rare. They are reasonably abundant; the bottleneck is separation and refining. China holds roughly sixty per cent of mining but around ninety per cent of separation and magnet production, and used export licensing as leverage in 2025. The Nexperia dispute, where a Dutch intervention triggered a Chinese export block on chips packaged in Dongguan and idled European car plants, showed chokepoints run both ways."
+     ]
+    },
+    {
+     "h": "Energy, water and the buildout",
+     "p": [
+      "Data centres consumed roughly 415 terawatt-hours in 2024, about 1.5 per cent of global electricity, which the International Energy Agency expects to roughly double by 2030. The aggregate is manageable; the concentration is not. Load arrives in gigawatt-scale campuses on individual substations, and connection queues, transformer lead times and turbine backlogs now bind harder than capital. Hence the unusual power deals — Microsoft contracting for the restart of a reactor at Three Mile Island, several firms funding small modular reactors that will not deliver until the 2030s — and hence data centre load becoming a live consumer-politics issue as capacity prices and retail bills rise in dense regions.",
+      "Water is more locally contentious. Evaporative cooling consumes on the order of one to two litres per kilowatt-hour, putting large facilities in competition with municipal supply in exactly the arid, cheap-land places that attracted them, with real disputes in Arizona, Chile and Uruguay. The response is closed-loop and direct-to-chip liquid cooling, which cuts water use at some efficiency cost. Two things are worth holding at once: efficiency per unit of computation improved so remarkably that the sector's power draw stayed roughly flat for a decade while workloads grew by orders of magnitude, and that decoupling has now clearly broken. Whether this is a transitional spike or a structural step change depends on facts about AI economics nobody currently knows."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "EUV lithography",
+     "def": "Patterning with 13.5-nanometre light produced from laser-struck tin plasma, requiring all-mirror optics in vacuum; ASML is the sole supplier."
+    },
+    {
+     "term": "Fabless-foundry split",
+     "def": "Separating chip design from manufacturing, created by TSMC in 1987; the structural reason design innovation and fabrication capacity are geographically divorced."
+    },
+    {
+     "term": "Advanced packaging",
+     "def": "Integrating multiple dies and memory stacks into one module; now often the binding capacity constraint for AI accelerators."
+    },
+    {
+     "term": "Process node naming",
+     "def": "Marketing labels that stopped corresponding to physical feature sizes around 2010; comparisons between vendors' numbers are not meaningful."
+    },
+    {
+     "term": "Separation capacity",
+     "def": "The refining step that determines rare earth dependence; the bottleneck is chemical processing and permitting, not geology."
+    },
+    {
+     "term": "Interconnection queue",
+     "def": "The backlog of generation and load waiting for grid connection; increasingly the rate-limiting step on data centre construction."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Gordon Moore (1929–2023)",
+     "note": "His 1965 observation about transistor counts became an industry coordination device — a self-fulfilling roadmap rather than a law of nature."
+    },
+    {
+     "name": "Morris Chang",
+     "note": "Founded TSMC at 55 on the pure-play foundry idea, which unbundled design from manufacturing and reshaped the entire industry's geography."
+    },
+    {
+     "name": "Lynn Conway (1938–2024) and Carver Mead",
+     "note": "Their VLSI design methodology in the late 1970s standardised the interface between design and fabrication, making the fabless model possible at all."
+    },
+    {
+     "name": "Chris Miller",
+     "note": "Chip War traced how semiconductors became the central object of great-power competition; the book changed how governments talk about the industry."
+    }
+   ],
+   "debate": {
+    "title": "Can export controls meaningfully contain a rival's semiconductor capability?",
+    "sides": [
+     {
+      "label": "Yes, the chokepoints are real",
+      "text": "Leading-edge fabrication depends on a handful of irreplaceable suppliers, and no country has ever independently reconstructed the toolchain. Controls have measurably slowed advanced Chinese capacity, kept the largest AI training clusters concentrated in allied jurisdictions, and imposed heavy cost penalties on the workarounds. Denying an adversary the compute frontier is one of the few technology policies with an actual mechanism behind it."
+     },
+     {
+      "label": "No, they accelerate what they aim to prevent",
+      "text": "Controls converted domestic substitution from an expensive preference into a national priority with unlimited funding, and China has already demonstrated 7-nanometre production without EUV. They also cost the controlling side its largest customer, funding the rival's competitors with lost revenue, and they invited symmetric retaliation on minerals and packaging where the dependency runs the other way. Slowing a determined state by a few years while permanently splitting the ecosystem may be a bad trade."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Chip War",
+     "who": "Chris Miller — the history and geopolitics, readable and now standard."
+    },
+    {
+     "title": "How the World Really Works",
+     "who": "Vaclav Smil — the material and energy constraints that digital metaphors obscure."
+    },
+    {
+     "title": "IEA, Energy and AI (2025)",
+     "who": "Free; the most careful public numbers on data centre demand, with the uncertainty stated."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is 'rare earth' a misleading name for the strategic problem?",
+     "a": "The elements are geologically common; the dependency is in separating chemically similar elements and manufacturing sintered magnets, which China dominates because it accepted the environmental cost and built the capacity when prices were low. Opening a mine does not solve it — refining capacity does."
+    },
+    {
+     "q": "Why has data centre electricity demand broken from its previously flat trend?",
+     "a": "Efficiency gains from virtualisation and hyperscale consolidation offset workload growth for roughly a decade, but AI training and inference raised power density per rack by an order of magnitude faster than efficiency improved. The problem is also spatial: load concentrates on individual substations rather than spreading across grids."
+    }
+   ]
+  },
+  {
+   "id": "tec-8",
+   "title": "Technology, Work and Society",
+   "oneLine": "What two centuries of evidence actually say about technological unemployment, and how societies have absorbed disruptive technology before.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The lump of labour fallacy, and its lazy use",
+     "p": [
+      "The lump of labour fallacy is the assumption that there is a fixed quantity of work, so any task a machine performs is a job permanently removed. It is a fallacy: automation lowers costs, which raises real incomes and demand and creates tasks and industries that could not previously exist. Two centuries of mechanisation have produced no downward trend in employment rates anywhere. James Bessen's bank teller example is the standard illustration — ATMs spread from the 1970s, yet teller employment kept rising into the 2000s, because cheaper branches meant banks opened more of them.",
+      "But the label is now used to dismiss things it does not address. Teller numbers did eventually fall. Robert Allen's work on Engels' pause shows British real wages roughly flat from about 1790 to 1840 while output per worker rose substantially and the gains went to profits — a full working generation for whom the long-run optimism was simply false. Acemoglu and Restrepo find local employment and wage effects of industrial robots that are negative and persistent. The correct summary is that aggregate employment adjusts and specific people frequently do not, and that who bears the adjustment cost is a political outcome rather than a technical one."
+     ]
+    },
+    {
+     "h": "What actually happens: polarisation, not disappearance",
+     "p": [
+      "The most robust empirical framework comes from Autor, Levy and Murnane: machines substitute for tasks that can be specified in explicit rules, and complement tasks requiring judgement, dexterity or interpersonal work. Because routine tasks clustered in the middle of the wage distribution — clerical, bookkeeping, machine operation — the result was job polarisation, with growth at the top in professional work and at the bottom in personal services, and hollowing in between. This describes the labour markets of the US, the UK and much of Europe from roughly 1980 to 2015 far better than any story about the number of jobs.",
+      "A misconception worth correcting directly: the much-cited claim that 47 per cent of US jobs are at high risk of automation, from Frey and Osborne in 2013, estimated how technically susceptible whole occupations were, not how much employment would vanish. When the OECD redid it by task rather than occupation — most jobs being bundles, only some of which automate — the figure fell to around nine per cent. History also counsels patience about productivity: electricity was available from the 1880s, but factory output per worker did not jump until the 1920s, when firms reorganised around individual electric drive rather than retrofitting motors to central driveshafts. The complementary organisational investment matters more than the technology."
+     ]
+    },
+    {
+     "h": "Divides, and the record on regulating new technology",
+     "p": [
+      "The digital divide has moved from access to capability. Roughly 2.6 billion people still have no internet access at all, but in rich countries the binding constraints are affordability, skills and the design of services. When benefits, banking, healthcare appointments and school communication all move online, being on the wrong side of the second-level divide means losing access to the state, not merely to entertainment. This is a straightforward equity issue that receives a fraction of the attention given to more glamorous technology debates.",
+      "On regulation, history offers a usable record. The successes share a pattern — a measurable harm, an identifiable mechanism and a feasible substitute. Leaded petrol went after Clair Patterson established the contamination baseline, against decades of industry resistance; CFCs went under the Montreal Protocol once alternatives existed; car safety regulation after Nader cut deaths per mile by an order of magnitude. The failures share a different pattern: asbestos and tobacco, where manufactured doubt delayed action for decades. David Collingridge named the underlying trap in 1980 — early on you could shape a technology but do not know what it will do, and by the time you know, it is entrenched.",
+      "The practical answers are institutions rather than principles: staged deployment, incident reporting, liability that follows the harm, standards bodies and insurers who price risk faster than legislatures move. And notice what the stock caricature gets wrong. The Victorian red flag laws are routinely cited as regulation strangling the motor car, but they were written for steam traction engines that genuinely wrecked roads, and were repealed in 1896 before the car mattered commercially. The historical risk is rarely that societies over-regulate early; it is that they under-regulate for a generation and then over-correct after a disaster."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Lump of labour fallacy",
+     "def": "The false assumption of a fixed stock of work; correct as economics, frequently misused to dismiss real transition costs."
+    },
+    {
+     "term": "Engels' pause",
+     "def": "Allen's finding that British real wages stagnated for roughly fifty years of early industrialisation while output per worker rose."
+    },
+    {
+     "term": "Routine-biased technical change",
+     "def": "Automation substitutes for rule-specifiable tasks and complements judgement-based ones, hollowing out middle-wage occupations."
+    },
+    {
+     "term": "Task-level vs occupation-level exposure",
+     "def": "Whether automation risk is measured for whole jobs or their component tasks; the source of the gap between 47 and 9 per cent estimates."
+    },
+    {
+     "term": "Productivity J-curve",
+     "def": "Measured productivity dips before it rises, because complementary intangible investment is expensed before its returns appear."
+    },
+    {
+     "term": "Collingridge dilemma",
+     "def": "Early enough to control a technology means too early to understand it; late enough to understand it means too entrenched to control."
+    },
+    {
+     "term": "Second-level digital divide",
+     "def": "Inequality in skills and effective use rather than in physical access; the binding constraint in high-connectivity countries."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "David Autor",
+     "note": "Established the task framework and the polarisation finding; more recently argues AI could rebuild middle-skill work by extending expert judgement to more workers."
+    },
+    {
+     "name": "Robert Allen",
+     "note": "Documented Engels' pause, the strongest historical evidence that a generation can lose from a technology that eventually enriches everyone."
+    },
+    {
+     "name": "James Bessen",
+     "note": "Learning by Doing — the bank teller case, and the argument that diffusion is limited by skill acquisition rather than by invention."
+    },
+    {
+     "name": "Carl Benedikt Frey",
+     "note": "Co-author of the 47 per cent estimate and, in The Technology Trap, its most careful qualifier: whether technology is accepted depends on whether workers share the gains."
+    }
+   ],
+   "debate": {
+    "title": "Is AI genuinely different from previous waves of automation for employment?",
+    "sides": [
+     {
+      "label": "This time is different",
+      "text": "Every previous wave automated specific physical or routine tasks, leaving cognitive and judgement work as the reliable refuge; a general-purpose technology that performs cognitive tasks removes the destination workers have always moved to. The speed matters too — diffusion is happening in years rather than the decades that gave previous generations time to retrain. The early evidence on entry-level hiring in exposed occupations is consistent with exactly this, and entry-level work is how people acquire the experience that later protects them."
+     },
+     {
+      "label": "The same pattern, differently dressed",
+      "text": "Every generation has believed its technology was categorically new, and the Frey and Osborne forecast has already been overtaken by events in both directions. Current systems automate tasks, not jobs, and the bundles that constitute real work include accountability, physical presence, relationship and tacit knowledge that remain stubbornly unautomated. Deployment is slower than capability because organisational change is slow, as electricity showed, and the productivity statistics so far show nothing resembling a discontinuity."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Technology Trap",
+     "who": "Carl Benedikt Frey — the long history, and why acceptance depends on distribution."
+    },
+    {
+     "title": "Power and Progress",
+     "who": "Acemoglu & Johnson — a thousand years arguing that the direction of technology is chosen, not given."
+    },
+    {
+     "title": "The Collingridge dilemma, from The Social Control of Technology",
+     "who": "David Collingridge — the framing that every technology policy argument eventually rediscovers."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why did the estimate of US jobs at risk from automation fall from 47 per cent to about 9 per cent?",
+     "a": "The first figure classified whole occupations by technical susceptibility; the second decomposed jobs into tasks and asked how many jobs consisted almost entirely of automatable ones. Most jobs are bundles in which some tasks automate and others do not, so occupation-level analysis systematically overstates displacement."
+    },
+    {
+     "q": "What does Engels' pause add to the lump of labour argument?",
+     "a": "It shows the two claims are compatible: aggregate employment recovered and living standards eventually rose enormously, yet British real wages were flat for roughly half a century while productivity climbed. Long-run optimism about employment says nothing about who bears the adjustment, or for how long."
+    }
+   ]
+  }
+ ]
+}

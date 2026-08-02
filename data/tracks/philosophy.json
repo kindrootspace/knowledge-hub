@@ -1,0 +1,890 @@
+{
+ "id": "philosophy",
+ "name": "Philosophy",
+ "tagline": "The tools for thinking clearly about what is true, what is right, and what exists",
+ "accent": "#a78bfa",
+ "blurb": "Philosophy is best understood not as a body of doctrines but as a set of moves — distinctions, arguments, counterexamples — that let you take a vague question and turn it into a tractable one. This track covers the four core areas (epistemology, metaphysics, ethics, logic) plus the branches that most directly touch politics and science.",
+ "modules": [
+  {
+   "id": "phi-1",
+   "title": "Arguments, Logic and How Reasoning Fails",
+   "oneLine": "The mechanics of a good argument, and the specific ways they break.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Validity, soundness, and why they are different",
+     "p": [
+      "An argument is a set of premises offered in support of a conclusion. A <em>deductive</em> argument is <strong>valid</strong> if the conclusion cannot be false while the premises are true — this is purely about structure, not truth. \"All cats are reptiles; Whiskers is a cat; therefore Whiskers is a reptile\" is perfectly valid and has a false conclusion. An argument is <strong>sound</strong> when it is valid <em>and</em> its premises are actually true.",
+      "This separation is the single most useful tool in the module. When you encounter an argument you dislike, the discipline is to identify which you are objecting to: the structure, or a premise. Most public disagreement is premise disagreement dressed up as logic dispute, and naming the specific premise you reject is what makes a conversation productive."
+     ]
+    },
+    {
+     "h": "Induction and its problem",
+     "p": [
+      "Most real reasoning is <em>inductive</em>: the premises make the conclusion likely rather than guaranteed. Every swan observed has been white, so the next will be white. Hume's problem of induction points out that this move relies on the assumption that the future will resemble the past — and the only support for that assumption is that it has worked in the past, which is circular.",
+      "No fully satisfying solution exists. Working responses include Popper's (science does not justify theories inductively, it only eliminates falsified ones), the pragmatic (induction is the best available method, and if any method works this one does), and the Bayesian (induction is not a leap of faith but a formal updating of probabilities given evidence). The Bayesian framing is the most useful in practice: hold beliefs with degrees of confidence and update them in proportion to how surprising the evidence would be if you were wrong."
+     ]
+    },
+    {
+     "h": "Fallacies worth being able to name",
+     "p": [
+      "<strong>Ad hominem</strong>: attacking the arguer instead of the argument. Note the exception — when someone's credibility <em>is</em> the evidence, as with expert testimony, questioning it is legitimate. <strong>Straw man</strong>: refuting a weakened version of an opponent's position. Its cure is the <em>steel man</em>: state the strongest version of the view you oppose before responding to it. <strong>Motte and bailey</strong>: defending a modest, easily defensible claim (the motte) while operating on an ambitious, contentious one (the bailey), sliding between them when challenged. <strong>Equivocation</strong>: using one word in two senses within an argument. <strong>Appeal to nature</strong>: treating \"natural\" as equivalent to \"good\". <strong>Base rate neglect</strong>: reasoning from how representative a case seems while ignoring how common the category is — the source of most misread medical test results."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Validity",
+     "def": "A structural property: if the premises were true, the conclusion could not be false."
+    },
+    {
+     "term": "Soundness",
+     "def": "Validity plus actually true premises."
+    },
+    {
+     "term": "Problem of induction",
+     "def": "Hume's point that inference from past to future presupposes uniformity, which cannot be established non-circularly."
+    },
+    {
+     "term": "Steel man",
+     "def": "The strongest reconstruction of an opposing argument; the discipline that makes disagreement useful."
+    },
+    {
+     "term": "Motte and bailey",
+     "def": "Retreating to a modest defensible claim when a bolder one is challenged, then reoccupying the bold one."
+    },
+    {
+     "term": "Bayesian updating",
+     "def": "Revising a probability of belief in light of evidence, weighted by how expected that evidence was under each hypothesis."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Aristotle (384–322 BC)",
+     "note": "The first systematic logic; the syllogism dominated Western reasoning for two millennia."
+    },
+    {
+     "name": "David Hume (1711–1776)",
+     "note": "The problem of induction, the is–ought gap, and a general programme of deflating unearned certainty."
+    },
+    {
+     "name": "Gottlob Frege (1848–1925)",
+     "note": "Founded modern formal logic, making mathematics and reasoning about relations tractable."
+    },
+    {
+     "name": "Daniel Kahneman (1934–2024)",
+     "note": "Thinking, Fast and Slow — the empirical psychology of where reasoning actually goes wrong."
+    }
+   ],
+   "debate": {
+    "title": "Are cognitive biases errors, or efficient shortcuts?",
+    "sides": [
+     {
+      "label": "Errors",
+      "text": "Heuristics produce systematic, predictable deviations from correct answers, and they are exploitable — in advertising, politics and markets. Knowing them is a defence."
+     },
+     {
+      "label": "Adaptations",
+      "text": "Gigerenzer's line: heuristics are ecologically rational, fast and accurate in the environments they evolved for. Judged against artificial lab problems they look like errors; judged against real decisions under time and information constraints they often outperform formal methods."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "An Enquiry Concerning Human Understanding",
+     "who": "Hume — readable, and the source of half of modern epistemology."
+    },
+    {
+     "title": "Thinking, Fast and Slow",
+     "who": "Kahneman — long but the standard reference."
+    },
+    {
+     "title": "Stanford Encyclopedia of Philosophy",
+     "who": "Free, authoritative, the best resource on the internet for this whole track."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Can a valid argument have a false conclusion?",
+     "a": "Yes — validity concerns only the relationship between premises and conclusion. If a premise is false, a valid argument can deliver a false conclusion. Only sound arguments guarantee truth."
+    },
+    {
+     "q": "What is the motte-and-bailey manoeuvre?",
+     "a": "Advancing a strong contentious claim, then when challenged retreating to a weak claim almost nobody disputes, defending that, and treating its defence as vindication of the original."
+    }
+   ]
+  },
+  {
+   "id": "phi-2",
+   "title": "Epistemology: What Counts as Knowing",
+   "oneLine": "Justification, testimony, disagreement — and why 'do your own research' is harder than it sounds.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The classical analysis and its collapse",
+     "p": [
+      "For most of Western philosophy, knowledge was defined as justified true belief: you know that P if P is true, you believe it, and you have good reason. In 1963 Edmund Gettier published a three-page paper that broke this. His cases describe someone with a justified true belief that is true by luck — the justification and the truth come apart. You look at a stopped clock reading 2:00 at exactly 2:00: justified, true, believed, and not knowledge.",
+      "Sixty years of proposed repairs have not produced consensus, which is itself informative. The live approaches include <em>reliabilism</em> (knowledge is belief produced by a reliable process), <em>virtue epistemology</em> (knowledge is true belief arising from intellectual competence rather than luck), and the view that knowledge is unanalysable and primitive."
+     ]
+    },
+    {
+     "h": "Testimony: almost everything you know",
+     "p": [
+      "You have not verified that Antarctica exists, that penicillin works, or that the Battle of Hastings was in 1066. Virtually your whole picture of the world rests on testimony — other people's reports, mediated by institutions. This is not a defect; no individual could rebuild civilisation's knowledge from first principles, and the division of cognitive labour is what makes complex knowledge possible.",
+      "The practical consequence is that <em>evaluating sources is an epistemic skill of the first rank</em>, not a substitute for real thinking. \"Do your own research\" is often a demand to replace a high-quality testimonial chain (peer review, replication, professional reputation staked on being right) with a low-quality one (an anonymous video). The genuinely useful version of the slogan is: understand the incentive structures of the institutions you rely on, and notice where they are weak."
+     ]
+    },
+    {
+     "h": "Peer disagreement and calibration",
+     "p": [
+      "When someone you regard as roughly your equal in intelligence, information and good faith disagrees with you, what should you do? The <em>conciliatory</em> view says you should move substantially towards their position, since from an outside view you have no special reason to think you are the one who got it right. The <em>steadfast</em> view says your own reasoning is evidence you have direct access to, and you may retain it.",
+      "The practical middle: distinguish disagreements where you can identify the specific point of divergence (you may reasonably hold your ground, having located the crux) from those where you cannot (you should probably lower confidence). And treat calibration as trainable — record predictions with confidence levels, check them later, and see whether your 80% claims come true about 80% of the time. Most people's do not."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Justified true belief",
+     "def": "The classical analysis of knowledge, refuted as sufficient by Gettier cases."
+    },
+    {
+     "term": "Gettier case",
+     "def": "A scenario producing justified true belief that is true only by luck, and so intuitively not knowledge."
+    },
+    {
+     "term": "Reliabilism",
+     "def": "Knowledge as belief produced by a process that reliably yields truth."
+    },
+    {
+     "term": "Testimony",
+     "def": "Knowledge acquired from others' reports — the source of the overwhelming majority of what anyone knows."
+    },
+    {
+     "term": "Epistemic humility",
+     "def": "Calibrating confidence to the actual strength of one's evidence and the reliability of one's sources."
+    },
+    {
+     "term": "Underdetermination",
+     "def": "The fact that any finite body of evidence is compatible with multiple incompatible theories."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "René Descartes (1596–1650)",
+     "note": "Radical doubt as method; the search for an indubitable foundation. The programme largely failed, which was instructive."
+    },
+    {
+     "name": "Edmund Gettier (1927–2021)",
+     "note": "Three pages that redirected a discipline."
+    },
+    {
+     "name": "W.V.O. Quine (1908–2000)",
+     "note": "Rejected the analytic/synthetic distinction; beliefs face evidence as a web, not individually."
+    },
+    {
+     "name": "Miranda Fricker",
+     "note": "Epistemic injustice — the wrong done when someone's credibility is discounted because of their social identity."
+    }
+   ],
+   "debate": {
+    "title": "Should you defer to expert consensus?",
+    "sides": [
+     {
+      "label": "Generally yes",
+      "text": "Expertise is the only scalable mechanism for handling specialised evidence, and the track record of consensus beats the track record of individual dissenters by a wide margin. Non-experts systematically cannot distinguish real dissent from motivated dissent."
+     },
+     {
+      "label": "With scrutiny",
+      "text": "Consensus can be produced by shared funding, shared training and reputational risk rather than shared evidence, and has been wrong in identifiable ways — nutrition science, ulcer aetiology, replication failures in psychology. Deference should scale with the field's error-correction quality, not its confidence."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Is Justified True Belief Knowledge? (1963)",
+     "who": "Gettier — three pages, read it today."
+    },
+    {
+     "title": "Epistemic Injustice",
+     "who": "Miranda Fricker — how credibility is unevenly distributed."
+    },
+    {
+     "title": "Superforecasting",
+     "who": "Tetlock & Gardner — calibration as a practical skill."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What do Gettier cases show?",
+     "a": "That justified true belief is not sufficient for knowledge, because the justification can be disconnected from what makes the belief true, leaving it true by luck."
+    },
+    {
+     "q": "Why is 'do your own research' epistemically complicated?",
+     "a": "Because almost all knowledge is testimonial, so the real choice is between testimonial chains, not between testimony and independent verification. The useful skill is assessing source reliability, not replacing high-quality sources with low-quality ones."
+    }
+   ]
+  },
+  {
+   "id": "phi-3",
+   "title": "Ethics I: Consequences and Duties",
+   "oneLine": "The two dominant frameworks, their strongest forms and their strongest objections.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Consequentialism",
+     "p": [
+      "The claim: the rightness of an act is determined entirely by its outcomes. Classical utilitarianism specifies the outcome as aggregate welfare — Bentham's \"the greatest happiness of the greatest number\" — and treats everyone's welfare as counting equally, which was radical in 1789 and remains radical in application.",
+      "Its strengths are real: it is impartial, it gives determinate answers, it takes suffering seriously wherever it occurs, and it has an excellent record of getting reforms right early — on animal welfare, on penal reform, on gay rights, Benthamites were often decades ahead. It also underwrites cost-effectiveness reasoning in public health, where refusing to compare outcomes means allocating resources worse.",
+      "The standard objections cluster around the fact that maximising aggregate good can require sacrificing individuals. The transplant surgeon who could save five by harvesting one; punishing an innocent to prevent a riot; the \"utility monster\". A subtler objection, from Bernard Williams, is that consequentialism cannot accommodate <em>integrity</em>: it treats your own deep commitments as just more inputs to a calculation, so you are always potentially a mere channel for the impersonal good."
+     ]
+    },
+    {
+     "h": "Deontology",
+     "p": [
+      "The claim: some acts are right or wrong in themselves, independent of consequences. Kant grounds this in rationality rather than divine command. The Categorical Imperative in its first formulation: act only on a maxim you could will to become a universal law. Lying fails, because a world where everyone lies when convenient destroys the institution of promising that makes lying possible — it is self-undermining, not merely bad.",
+      "The second formulation carries more intuitive weight: treat humanity, in yourself and others, always as an end and never merely as a means. This is the philosophical spine of human rights, informed consent, and the prohibition on torture. It explains what feels wrong about the transplant case in a way aggregate-welfare reasoning cannot.",
+      "The objections: rigidity (Kant notoriously held you may not lie to a murderer asking where your friend is hiding), the difficulty of adjudicating conflicting duties, and the awkwardness of accepting terrible outcomes for the sake of clean hands. Threshold deontology — rights hold until catastrophe looms — is the common practical compromise, at the cost of theoretical tidiness."
+     ]
+    },
+    {
+     "h": "Why the disagreement persists",
+     "p": [
+      "Most people's actual moral judgments are a mix: consequentialist in policy contexts where they are aggregating over strangers, deontological in personal contexts involving specific people with claims on them. Empirical work on trolley-style dilemmas finds exactly this pattern. That does not settle which is correct, but it explains why neither framework has driven the other out: each captures something the other handles badly."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Utilitarianism",
+     "def": "The view that acts should maximise aggregate welfare, counting everyone's equally."
+    },
+    {
+     "term": "Act vs rule utilitarianism",
+     "def": "Whether to evaluate individual acts by their consequences, or the rules that generally produce the best results."
+    },
+    {
+     "term": "Categorical imperative",
+     "def": "Kant's test: act only on maxims you could will as universal law; treat persons never merely as means."
+    },
+    {
+     "term": "Doctrine of double effect",
+     "def": "The principle that harm foreseen as a side effect may be permissible where the same harm intended as a means is not."
+    },
+    {
+     "term": "Threshold deontology",
+     "def": "Rights are near-absolute but yield when consequences become catastrophic."
+    },
+    {
+     "term": "Demandingness objection",
+     "def": "The charge that impartial consequentialism requires implausibly large personal sacrifice, with no room for personal projects."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Jeremy Bentham (1748–1832)",
+     "note": "Founder of utilitarianism; 'the question is not, Can they reason? nor, Can they talk? but, Can they suffer?'"
+    },
+    {
+     "name": "Immanuel Kant (1724–1804)",
+     "note": "Morality grounded in rational autonomy rather than outcome or authority."
+    },
+    {
+     "name": "Bernard Williams (1929–2003)",
+     "note": "The integrity objection; a broad critique of moral theory's ambition to systematise."
+    },
+    {
+     "name": "Peter Singer",
+     "note": "Applied utilitarianism — famine relief, animal ethics, effective altruism. Uncomfortable and hard to refute cleanly."
+    }
+   ],
+   "debate": {
+    "title": "Is effective altruism the right way to do good?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "If you accept that suffering matters equally wherever it occurs, then measuring cost-effectiveness is simply taking that seriously. Charities differ in impact by orders of magnitude; ignoring that in favour of emotional resonance means choosing to help fewer people."
+     },
+     {
+      "label": "Not entirely",
+      "text": "Measurable interventions crowd out unmeasurable but structurally important ones — political change, institution building. Aggregate reasoning also licensed the reputational and ethical failures of longtermist finance, and treating individuals as fungible units of welfare is precisely the objection deontologists have always pressed."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Utilitarianism",
+     "who": "J.S. Mill — the most persuasive short statement."
+    },
+    {
+     "title": "Groundwork of the Metaphysics of Morals",
+     "who": "Kant — difficult; use a guide alongside."
+    },
+    {
+     "title": "Practical Ethics",
+     "who": "Peter Singer — the applied version, deliberately provocative."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does Kant's universalisability test rule out lying promises?",
+     "a": "Because a world in which everyone made lying promises when convenient would destroy the practice of promising, so the maxim cannot coherently be willed as universal law. The failure is self-contradiction, not bad consequences."
+    },
+    {
+     "q": "What is Williams's integrity objection?",
+     "a": "That consequentialism requires treating your own deepest commitments as merely one input among others to an impersonal calculation, which alienates you from the projects that make you the person you are."
+    }
+   ]
+  },
+  {
+   "id": "phi-4",
+   "title": "Ethics II: Virtue, Contract and Moral Luck",
+   "oneLine": "The alternatives to rules and outcomes — character, agreement, and the role of chance.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Virtue ethics: the question is what to be",
+     "p": [
+      "Aristotle's move is to shift the question from \"what should I do?\" to \"what sort of person should I become?\" The good life is <em>eudaimonia</em> — usually translated flourishing rather than happiness, since it names an activity, not a feeling. Virtues are stable dispositions of character that constitute flourishing: courage, temperance, justice, practical wisdom. Each sits as a mean between excess and deficiency — courage between recklessness and cowardice.",
+      "Crucially, virtue is not knowledge of a rule; it is <em>phronesis</em>, practical wisdom, the trained perception of what a situation calls for. This explains why moral expertise looks more like a skill than like a proof, and why it is learned through habituation and good examples rather than argument. The revival of virtue ethics since Anscombe's 1958 paper reflects dissatisfaction with the idea that ethics is a decision procedure at all.",
+      "The objection is the lack of action-guidance: \"do what a virtuous person would do\" is not much help in a novel dilemma. There is also the situationist challenge from social psychology — Milgram, Stanford, the bystander studies — suggesting behaviour is driven far more by situation than by stable character traits than virtue ethics presumes. The replication problems in that literature have softened but not eliminated the point."
+     ]
+    },
+    {
+     "h": "Contractarianism",
+     "p": [
+      "The idea: moral rules are those that rational, self-interested people would agree to as terms of cooperation. Hobbes's version is prudential — the rules you would accept to escape the war of all against all. Rawls's version is the more influential: principles chosen behind a <em>veil of ignorance</em>, not knowing your own class, talents, gender or conception of the good.",
+      "The veil is a device for modelling impartiality, and Rawls argues that from behind it you would choose equal basic liberties for all, and would permit inequalities only where they benefit the worst off (the difference principle), because you might turn out to be the worst off. Scanlon's contractualism reframes the test: an act is wrong if it would be forbidden by principles no one could reasonably reject."
+     ]
+    },
+    {
+     "h": "Moral luck",
+     "p": [
+      "Two drivers are equally careless. One hits a child who steps out; the other's road is empty. We blame the first far more, and both would judge themselves differently — yet the difference is entirely outside their control. Williams and Nagel called this <em>moral luck</em>, and it sits awkwardly with the near-universal principle that people are responsible only for what they control.",
+      "The problem generalises alarmingly. <em>Constitutive luck</em>: your character is a product of genes and upbringing you did not select. <em>Circumstantial luck</em>: whether you face a serious moral test at all is accident. If we subtract everything unchosen, very little remains to praise or blame. Legal systems quietly accept moral luck — attempted murder is punished less than murder — which suggests our practices encode a view that our stated principles disown."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Eudaimonia",
+     "def": "Flourishing; the activity of living well in accordance with virtue, not a subjective feeling."
+    },
+    {
+     "term": "Phronesis",
+     "def": "Practical wisdom; the perceptual skill of discerning what a particular situation requires."
+    },
+    {
+     "term": "Veil of ignorance",
+     "def": "Rawls's device: choose principles of justice without knowing your own position in society."
+    },
+    {
+     "term": "Difference principle",
+     "def": "Inequalities are just only if they work to the benefit of the least advantaged."
+    },
+    {
+     "term": "Moral luck",
+     "def": "The fact that we praise and blame people for outcomes and traits substantially outside their control."
+    },
+    {
+     "term": "Situationism",
+     "def": "The claim from social psychology that behaviour is driven more by circumstance than by stable character."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Aristotle",
+     "note": "Nicomachean Ethics — virtue, the mean, and flourishing as activity."
+    },
+    {
+     "name": "Elizabeth Anscombe (1919–2001)",
+     "note": "'Modern Moral Philosophy' (1958) — argued that duty-talk is incoherent without a lawgiver; relaunched virtue ethics."
+    },
+    {
+     "name": "John Rawls (1921–2002)",
+     "note": "A Theory of Justice — the most influential work of 20th-century political philosophy."
+    },
+    {
+     "name": "Thomas Nagel",
+     "note": "'Moral Luck' — and a general talent for showing that our ordinary views are inconsistent."
+    }
+   ],
+   "debate": {
+    "title": "Should luck be allowed to affect what people deserve?",
+    "sides": [
+     {
+      "label": "No — luck egalitarianism",
+      "text": "Distributions tracking birth, genes and accident are arbitrary from a moral point of view. Justice requires neutralising unchosen disadvantage; talent is as unearned as inheritance."
+     },
+     {
+      "label": "Some luck is inescapable",
+      "text": "Strip out everything unchosen and there is no agent left to reward. And a society that audits every outcome for luck must intrude enormously into private life to do it — the cure conflicts with liberty and with holding people responsible at all."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Nicomachean Ethics, Books I–II",
+     "who": "Aristotle — surprisingly practical."
+    },
+    {
+     "title": "A Theory of Justice",
+     "who": "Rawls — read the first 100 pages if not the whole."
+    },
+    {
+     "title": "Moral Luck",
+     "who": "Thomas Nagel — a short essay that will unsettle you productively."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What work does the veil of ignorance do?",
+     "a": "It models impartiality by removing knowledge of your own position, so principles cannot be chosen to favour the interests you happen to have — self-interested reasoning is converted into fair reasoning."
+    },
+    {
+     "q": "Why is moral luck a problem rather than a curiosity?",
+     "a": "Because we hold both that responsibility requires control and that outcomes affect blame. Successful and attempted murder differ only in luck, yet we punish and judge them differently — so one of our two firm principles has to give."
+    }
+   ]
+  },
+  {
+   "id": "phi-5",
+   "title": "Political Philosophy: Liberty, Equality, Justice",
+   "oneLine": "Rawls, Nozick and the arguments underneath every tax and rights debate.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Two concepts of liberty",
+     "p": [
+      "Isaiah Berlin's 1958 lecture distinguishes <em>negative</em> liberty — the absence of interference by others — from <em>positive</em> liberty — the actual capacity for self-mastery and self-direction. A person free to buy any healthcare and unable to afford any has full negative liberty and little positive liberty.",
+      "Berlin's warning was directed at positive liberty: it invites the move whereby someone else determines your \"real\" interests and coerces you towards them in the name of your own freedom. Every totalitarian project has used this structure. The counter-argument, developed by Amartya Sen and Martha Nussbaum as the <em>capability approach</em>, is that formal freedoms without the means to exercise them are not much use, and that the relevant metric is what people are actually able to do and be.",
+      "A third option, republican liberty (Philip Pettit), defines freedom as non-domination: you are unfree if someone <em>could</em> interfere arbitrarily, even if they never do. This captures why a benevolent autocrat's subjects are unfree, and why employment or immigration rules that leave people dependent on discretionary goodwill restrict freedom even when exercised kindly."
+     ]
+    },
+    {
+     "h": "Rawls versus Nozick",
+     "p": [
+      "Rawls asks what distributive principles rational people would choose without knowing their place in society, and derives: first, equal basic liberties for all; second, fair equality of opportunity; third, inequalities permitted only insofar as they benefit the least advantaged. It is a defence of the redistributive liberal state built on individualist premises rather than solidarity.",
+      "Nozick's reply in Anarchy, State, and Utopia rejects the framing. Justice, he argues, is <em>historical</em>, not patterned: a distribution is just if it arose through just steps — legitimate acquisition and voluntary transfer — regardless of the shape it takes. His Wilt Chamberlain argument: start from any distribution you consider just, let a million people each freely pay a small sum to watch a player, and you have gross inequality produced by nothing but free choices. To maintain a pattern, you must continuously interfere with voluntary exchange.",
+      "The strongest reply to Nozick concerns his first step. Just acquisition presupposes that original appropriation of unowned resources was legitimate, and virtually all actual holdings trace back through conquest, enclosure and slavery. Nozick acknowledged the need for rectification and never worked it out — which leaves the historical theory pointing at a historical record that undermines it."
+     ]
+    },
+    {
+     "h": "What is being distributed",
+     "p": [
+      "A recurring source of confusion in equality debates is the failure to state the <em>currency</em>. Equality of what? Welfare (subjective satisfaction — but expensive tastes then command more resources), resources (Dworkin), primary goods (Rawls), capabilities (Sen), or opportunity rather than outcome. These give sharply different verdicts on the same policy, and most public arguments about equality are actually unacknowledged disagreements about currency."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Negative liberty",
+     "def": "Freedom as absence of interference by others."
+    },
+    {
+     "term": "Positive liberty",
+     "def": "Freedom as the actual capacity for self-direction, requiring resources and capabilities."
+    },
+    {
+     "term": "Non-domination",
+     "def": "The republican conception: unfreedom consists in being subject to arbitrary power, exercised or not."
+    },
+    {
+     "term": "Entitlement theory",
+     "def": "Nozick's view that justice depends on the history of acquisitions and transfers, not the pattern of holdings."
+    },
+    {
+     "term": "Capability approach",
+     "def": "Sen and Nussbaum's metric: what people are actually able to do and be, rather than what they nominally hold."
+    },
+    {
+     "term": "Equality of what?",
+     "def": "Sen's question about the currency of egalitarian justice — welfare, resources, primary goods or capabilities."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Isaiah Berlin",
+     "note": "Two Concepts of Liberty; value pluralism — some goods are genuinely incompatible, so politics involves loss."
+    },
+    {
+     "name": "Robert Nozick (1938–2002)",
+     "note": "Anarchy, State, and Utopia — the most rigorous libertarian argument, written partly as a response to Rawls."
+    },
+    {
+     "name": "Amartya Sen",
+     "note": "Capabilities, and the demonstration that famines occur under entitlement failure rather than food shortage."
+    },
+    {
+     "name": "Philip Pettit",
+     "note": "Republicanism — freedom as non-domination."
+    }
+   ],
+   "debate": {
+    "title": "Is taxation for redistribution justified?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "Property rights are themselves created and enforced by the state, so there is no pre-tax entitlement to defend. Market returns reflect luck, inheritance and infrastructure at least as much as desert, and a distribution nobody would choose from behind a veil of ignorance needs justification."
+     },
+     {
+      "label": "It has limits",
+      "text": "Coercively taking the products of voluntary exchange treats people as means to a social pattern. Even accepting some redistribution, the historical entitlement objection sets real limits, and high marginal rates change behaviour in ways that shrink the base being redistributed."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Two Concepts of Liberty",
+     "who": "Berlin — a lecture, one sitting."
+    },
+    {
+     "title": "Anarchy, State, and Utopia",
+     "who": "Nozick — read at least the Wilt Chamberlain section."
+    },
+    {
+     "title": "Development as Freedom",
+     "who": "Sen — capabilities applied, accessibly."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the Wilt Chamberlain argument meant to show?",
+     "a": "That any patterned principle of distributive justice will be upset by voluntary transactions, so maintaining the pattern requires continuous interference with free exchange."
+    },
+    {
+     "q": "How does republican liberty differ from negative liberty?",
+     "a": "Negative liberty asks whether you are actually interfered with; republican liberty asks whether anyone holds arbitrary power to interfere. A kindly master's slave is free on the first account and unfree on the second."
+    }
+   ]
+  },
+  {
+   "id": "phi-6",
+   "title": "Philosophy of Science",
+   "oneLine": "What separates science from everything else — and why the answer is harder than it looks.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The demarcation problem",
+     "p": [
+      "Popper's answer: what makes a theory scientific is <em>falsifiability</em>. A theory that forbids nothing, that can accommodate any observation, tells you nothing. Einstein's general relativity predicted a specific light deflection that could have failed; astrology and, Popper argued, psychoanalysis explain every outcome after the fact. Science advances by bold conjectures and severe attempted refutations, never by confirmation.",
+      "The trouble, identified by Duhem and Quine, is that theories are never tested alone. Any prediction depends on a theory plus auxiliary assumptions about instruments, background conditions and initial states. When the prediction fails, logic alone cannot tell you which element to reject — so falsification is never as clean as the slogan. When Uranus's orbit deviated from Newtonian prediction, astronomers did not abandon Newton; they postulated an unseen planet, and Neptune was there. The identical move for Mercury failed, and there relativity won. Same reasoning, opposite outcomes: judgement, not algorithm."
+     ]
+    },
+    {
+     "h": "Kuhn and structural change",
+     "p": [
+      "Thomas Kuhn's Structure of Scientific Revolutions describes science as mostly <em>normal science</em>: puzzle-solving inside an accepted paradigm that supplies the questions, methods and standards of a good answer. Anomalies accumulate, are tolerated, then reach crisis, and a <em>paradigm shift</em> replaces the framework wholesale. Because rival paradigms define terms and standards differently, Kuhn argued they are partially <em>incommensurable</em> — there is no fully neutral vantage from which to compare them.",
+      "Kuhn was widely read as claiming science is irrational or merely social, which he denied. The defensible core is the historical observation that theory change is not the smooth accumulation the textbooks imply, and that what counts as evidence is itself partly shaped by the framework in play. Lakatos's refinement is useful here: judge research <em>programmes</em> over time, and ask whether they are progressive (predicting novel facts) or degenerating (adding patches to accommodate failures)."
+     ]
+    },
+    {
+     "h": "What this means for reading science news",
+     "p": [
+      "Three practical filters. First, ask what would have counted as a negative result, and whether the study could have produced one. Second, distinguish effect size from statistical significance: with a large enough sample, trivial differences become significant, and \"significant\" never means \"important\". Third, weight replication above novelty. The replication crisis in psychology and parts of medicine showed that single striking findings, published under strong incentives for novelty, are frequently not real. A meta-analysis of many pre-registered studies beats a headline finding by a wide margin."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Falsifiability",
+     "def": "Popper's criterion: a scientific theory must forbid some observable outcome."
+    },
+    {
+     "term": "Duhem–Quine thesis",
+     "def": "Hypotheses are tested only in bundles with auxiliary assumptions, so a failed prediction never uniquely identifies the culprit."
+    },
+    {
+     "term": "Paradigm",
+     "def": "Kuhn's term for the shared framework of assumptions, methods and exemplars within which normal science operates."
+    },
+    {
+     "term": "Incommensurability",
+     "def": "The claim that rival paradigms lack a fully neutral common standard for comparison."
+    },
+    {
+     "term": "Research programme",
+     "def": "Lakatos's unit of appraisal — a sequence of theories judged progressive or degenerating over time."
+    },
+    {
+     "term": "Replication crisis",
+     "def": "The finding that a large fraction of published results in several fields do not reproduce under repetition."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Karl Popper (1902–1994)",
+     "note": "Falsificationism; also The Open Society and Its Enemies, applying the same anti-dogmatism to politics."
+    },
+    {
+     "name": "Thomas Kuhn (1922–1996)",
+     "note": "Paradigms, normal science and revolutions."
+    },
+    {
+     "name": "Imre Lakatos (1922–1974)",
+     "note": "Research programmes — the constructive synthesis of Popper and Kuhn."
+    },
+    {
+     "name": "Nancy Cartwright",
+     "note": "How the Laws of Physics Lie — on models, idealisation and what laws actually describe."
+    }
+   ],
+   "debate": {
+    "title": "Are scientific theories true, or just useful?",
+    "sides": [
+     {
+      "label": "Realism",
+      "text": "The no-miracles argument: the predictive success of science would be inexplicable if its theories were not at least approximately true. Electrons do things; we use them to build devices."
+     },
+     {
+      "label": "Anti-realism",
+      "text": "The pessimistic meta-induction: every past successful theory — phlogiston, caloric, the ether, Newtonian absolute space — was eventually shown false while being predictively excellent. Empirical adequacy is what we actually have evidence for."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Structure of Scientific Revolutions",
+     "who": "Kuhn — short, still contested, still essential."
+    },
+    {
+     "title": "Conjectures and Refutations",
+     "who": "Popper — the essays are more readable than the treatises."
+    },
+    {
+     "title": "Theory and Reality",
+     "who": "Peter Godfrey-Smith — the best single-volume introduction to the field."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does the Duhem–Quine thesis complicate falsification?",
+     "a": "Because predictions follow from a theory plus auxiliary assumptions. A failed prediction shows the bundle is wrong somewhere, but logic cannot say where — so scientists must exercise judgement about what to revise."
+    },
+    {
+     "q": "What is the pessimistic meta-induction?",
+     "a": "The argument that since most past successful theories turned out to be false, we should expect current ones to be false too — so predictive success does not license belief in a theory's truth."
+    }
+   ]
+  },
+  {
+   "id": "phi-7",
+   "title": "Mind, Consciousness and Free Will",
+   "oneLine": "The hard problem, the determinism debate, and what neuroscience does and does not settle.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The mind–body problem",
+     "p": [
+      "Descartes proposed that mind and body are distinct substances — the mental non-physical, the physical non-mental. The fatal objection is <em>interaction</em>: if the mind is non-physical, how does it move a hand? Any causal influence on physical matter should be detectable as physical, and none is found.",
+      "The dominant modern position is <em>physicalism</em>: mental states are physical states, most plausibly in a <em>functionalist</em> form. Functionalism says mental states are defined by their causal role — what inputs produce them, what outputs they produce, how they relate to other states — rather than by their material substrate. Pain is whatever plays the pain role, which is why an octopus with a very different nervous system can be in pain, and why the same might in principle be true of a machine."
+     ]
+    },
+    {
+     "h": "The hard problem",
+     "p": [
+      "David Chalmers separated the <em>easy</em> problems of consciousness — explaining attention, memory access, verbal report, integration of information — from the <em>hard</em> problem: why any of this processing is accompanied by subjective experience at all. Nagel's version: there is something it is like to be a bat, and no amount of information about echolocation neurology conveys what.",
+      "Frank Jackson's knowledge argument makes it vivid. Mary is a brilliant colour scientist who has lived her whole life in a black-and-white room and knows every physical fact about colour vision. When she steps outside and sees red for the first time, does she learn something new? If yes, then physical facts did not exhaust the facts. Responses include denying she learns a new fact (she gains an ability or a new mode of access to an old fact), and illusionism (Dennett, Frankish), which holds that the sense of an ineffable extra is itself a representational artefact."
+     ]
+    },
+    {
+     "h": "Free will",
+     "p": [
+      "Three positions. <em>Hard determinism</em>: physical events are determined by prior events plus laws, therefore free will is an illusion. <em>Libertarian free will</em>: genuine freedom exists and requires that determinism be false. <em>Compatibilism</em>: freedom, properly understood, is not the absence of causation but the absence of the right kind of constraint — you act freely when your action flows from your own desires and reasoning without coercion or compulsion. Most professional philosophers are compatibilists.",
+      "Note carefully what neuroscience has and has not shown. Libet-style experiments find brain activity preceding conscious awareness of a decision by hundreds of milliseconds, which is often reported as disproving free will. The findings are real but the inference is weak: the tasks involve arbitrary unmotivated choices, the readiness potential has been reinterpreted as ordinary noise accumulation, and compatibilism was never committed to conscious awareness being causally first. The philosophical question is not settled by the timing of a wrist flick."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Substance dualism",
+     "def": "Descartes's view that mind and matter are distinct kinds of substance; foundering on the interaction problem."
+    },
+    {
+     "term": "Functionalism",
+     "def": "Mental states are individuated by causal role, not by physical composition — hence multiple realisability."
+    },
+    {
+     "term": "Hard problem of consciousness",
+     "def": "Chalmers's question of why physical processing is accompanied by subjective experience at all."
+    },
+    {
+     "term": "Qualia",
+     "def": "The subjective qualitative character of experience — the redness of red."
+    },
+    {
+     "term": "Compatibilism",
+     "def": "The view that free will and determinism are consistent, because freedom means acting from one's own reasons without constraint."
+    },
+    {
+     "term": "Chinese Room",
+     "def": "Searle's argument that symbol manipulation according to rules is insufficient for understanding."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Thomas Nagel",
+     "note": "'What Is It Like to Be a Bat?' — the canonical statement of the subjectivity problem."
+    },
+    {
+     "name": "David Chalmers",
+     "note": "Named the hard problem; a leading contemporary dualist-leaning voice."
+    },
+    {
+     "name": "Daniel Dennett (1942–2024)",
+     "note": "Consciousness Explained and Elbow Room — deflationary on qualia, compatibilist on freedom."
+    },
+    {
+     "name": "John Searle (1932–2025)",
+     "note": "The Chinese Room; syntax is not sufficient for semantics."
+    }
+   ],
+   "debate": {
+    "title": "Could a machine be conscious?",
+    "sides": [
+     {
+      "label": "In principle yes",
+      "text": "If functionalism is right, consciousness depends on organisation rather than substrate. Carbon has no special metaphysical status, and insisting otherwise looks like biological chauvinism rather than an argument."
+     },
+     {
+      "label": "Not from computation alone",
+      "text": "Searle's point stands: running a program is manipulating symbols by rules, and no amount of that yields understanding or experience. Behavioural indistinguishability is evidence about outputs, not about whether there is anything it is like to be the system."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "What Is It Like to Be a Bat?",
+     "who": "Nagel — ten pages, foundational."
+    },
+    {
+     "title": "Elbow Room",
+     "who": "Dennett — the best case for compatibilism being enough."
+    },
+    {
+     "title": "Free Will",
+     "who": "Sam Harris, read alongside Dennett's review of it — a productive disagreement."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the point of the Mary's Room thought experiment?",
+     "a": "To test whether complete physical knowledge exhausts all knowledge. If Mary learns something on first seeing red, then there are facts about experience that physical description leaves out."
+    },
+    {
+     "q": "Why don't Libet's experiments refute free will?",
+     "a": "They study arbitrary unmotivated movements, the readiness potential admits alternative interpretations as accumulating noise, and compatibilism never required that conscious awareness be the first link in the causal chain."
+    }
+   ]
+  },
+  {
+   "id": "phi-8",
+   "title": "Meaning, Language and the Limits of Words",
+   "oneLine": "Why definitions fail, how words get their meaning, and what that does to political argument.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "The linguistic turn",
+     "p": [
+      "Much twentieth-century philosophy concluded that a large share of traditional problems were artefacts of language. If you cannot say precisely what \"free\", \"just\" or \"know\" means, disputes using those words may be verbal rather than substantive. The early programme — Frege, Russell, the young Wittgenstein — tried to build a precise logical language in which every meaningful statement would have a determinate sense.",
+      "The later Wittgenstein demolished his own project. Meaning, he argued, is not a matter of correspondence between word and object but of <em>use</em> in a form of life. Ask what \"game\" means and you find no common essence — board games, war games, ring-a-ring-o'-roses — only overlapping <em>family resemblances</em>. Words work like tools, and asking for the essence of a tool independent of its use is a confusion."
+     ]
+    },
+    {
+     "h": "Reference, and why it matters",
+     "p": [
+      "Kripke's Naming and Necessity introduced the causal theory of reference: a name refers not because it abbreviates a description but because of a historical chain from an initial baptism through speakers who intend to use the name as their predecessors did. This is why we can be wrong about almost everything we believe about a person and still be talking about them.",
+      "Putnam extended this to natural kinds with the Twin Earth thought experiment: on a planet where the clear drinkable liquid is XYZ rather than H2O, \"water\" refers to something different even though speakers' mental states are identical. \"Meanings just ain't in the head\" — reference depends partly on the external world and partly on the division of linguistic labour, whereby most of us defer to experts for the content of terms like \"elm\" or \"arthritis\"."
+     ]
+    },
+    {
+     "h": "Contested concepts and political argument",
+     "p": [
+      "W.B. Gallie's notion of <em>essentially contested concepts</em> is the most directly useful idea here. Terms like democracy, art, freedom and fairness are internally complex and evaluative, so reasonable people applying them in good faith will disagree not because one side is confused but because the concept itself contains multiple criteria that can be weighted differently. There is no neutral definition waiting to be found.",
+      "Two consequences for reading political argument. First, much apparent factual dispute is definitional — arguments about whether a policy is \"censorship\" or a country is \"a democracy\" are frequently arguments about where to set a boundary, and they are not resolvable by looking harder at the facts. Second, control of vocabulary is a form of power: whoever fixes what counts as \"reform\", \"extremism\" or \"security\" has won a large part of the argument before it starts. Noticing this is not cynicism — it is a prerequisite for arguing about the substance rather than the label."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Language game",
+     "def": "Wittgenstein's term for a rule-governed practice of using words within a form of life; meaning is use."
+    },
+    {
+     "term": "Family resemblance",
+     "def": "The pattern of overlapping similarities without a common essence that characterises many everyday concepts."
+    },
+    {
+     "term": "Causal theory of reference",
+     "def": "Names refer via a historical chain of use traced to an initial naming, not via associated descriptions."
+    },
+    {
+     "term": "Division of linguistic labour",
+     "def": "Putnam's observation that ordinary speakers defer to experts for the precise content of many terms."
+    },
+    {
+     "term": "Essentially contested concept",
+     "def": "A concept whose correct application is permanently disputable because it is complex and evaluative."
+    },
+    {
+     "term": "Sorites paradox",
+     "def": "The vagueness problem: no single grain makes a heap, yet heaps exist — showing predicates lack sharp boundaries."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Ludwig Wittgenstein (1889–1951)",
+     "note": "Two philosophies, the second refuting the first. Meaning as use; philosophy as therapy for conceptual confusion."
+    },
+    {
+     "name": "Saul Kripke (1940–2022)",
+     "note": "Naming and Necessity — rigid designation and the causal theory of reference."
+    },
+    {
+     "name": "Hilary Putnam (1926–2016)",
+     "note": "Twin Earth; semantic externalism."
+    },
+    {
+     "name": "J.L. Austin (1911–1960)",
+     "note": "Speech acts — some utterances do things rather than describe them: 'I promise', 'I now pronounce you'."
+    }
+   ],
+   "debate": {
+    "title": "Does contested vocabulary make political argument futile?",
+    "sides": [
+     {
+      "label": "It limits it",
+      "text": "If 'freedom' and 'fairness' have no determinate content, then disputes using them cannot be settled by evidence. Much political debate is a struggle over labels masquerading as a search for truth."
+     },
+     {
+      "label": "It clarifies it",
+      "text": "Recognising a concept as contested is progress, not defeat. It moves the argument to the level where it belongs: which criteria should be weighted, and why. That is a real argument with better and worse answers."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Philosophical Investigations, §§1–100",
+     "who": "Wittgenstein — aphoristic, strange, rewarding."
+    },
+    {
+     "title": "Politics and the English Language",
+     "who": "George Orwell — the practical version of this module."
+    },
+    {
+     "title": "Naming and Necessity",
+     "who": "Kripke — originally lectures; more readable than most in this area."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What does 'meaning is use' rule out?",
+     "a": "The assumption that every meaningful word must correspond to a definable essence. Wittgenstein's point is that many concepts are held together by overlapping resemblances, and demanding a definition can create pseudo-problems."
+    },
+    {
+     "q": "Why does calling a concept 'essentially contested' not end the argument?",
+     "a": "Because it relocates it. Once you accept the concept contains several criteria, the productive question becomes which criteria matter most in this context and why — a substantive argument rather than a definitional stalemate."
+    }
+   ]
+  }
+ ]
+}

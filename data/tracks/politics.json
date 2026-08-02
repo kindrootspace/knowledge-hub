@@ -1,0 +1,870 @@
+{
+ "id": "politics",
+ "name": "Politics",
+ "tagline": "How power is organised, contested and constrained",
+ "accent": "#e0a458",
+ "blurb": "Politics is not mainly about personalities or party tribes. It is about a small set of recurring structural problems: who is allowed to coerce whom, how that permission is granted and withdrawn, and what stops the people holding the levers from simply keeping them. This track works through those problems in the order that makes them intelligible.",
+ "modules": [
+  {
+   "id": "pol-1",
+   "title": "The State, Sovereignty and Legitimacy",
+   "oneLine": "Why the state is a distinctive kind of thing, and what makes obedience to it more than fear.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The monopoly on violence",
+     "p": [
+      "Max Weber's definition remains the most useful starting point: a state is the entity that successfully claims a monopoly on the legitimate use of physical force within a given territory. Every word does work. <em>Claims</em>, because the monopoly is asserted before it is real. <em>Successfully</em>, because a claim nobody honours describes a warlord, not a state. <em>Legitimate</em>, because the state's violence is meant to be recognised as rightful rather than merely effective. <em>Territory</em>, because modern statehood is spatial in a way that empires and personal kingdoms were not.",
+      "This is why failed states are not simply badly run states. When the monopoly fragments — Somalia in the 1990s, Libya after 2011, large parts of Sudan today — the problem is not that policy is poor but that there is no single address to which the question \"who decides?\" can be sent. Rebuilding a state is therefore never just an administrative task."
+     ]
+    },
+    {
+     "h": "Sovereignty and its erosion",
+     "p": [
+      "Sovereignty is the doctrine that within its borders a state answers to no higher authority. It is conventionally dated to the Peace of Westphalia in 1648, though historians increasingly regard that as a tidy myth: the principle accreted over centuries. What matters is that sovereignty is a <em>norm</em>, not a fact. States constantly trade slices of it away — to trade blocs, to the IMF, to bond markets, to alliance commitments — and then discover the political cost of having done so.",
+      "Brexit is the cleanest recent demonstration in the Anglosphere. The referendum was won on the language of restored sovereignty; the subsequent decade has been an argument about whether formal sovereignty regained is worth the effective sovereignty lost when a mid-sized economy negotiates alone with larger blocs. Both sides of that argument are internally coherent. They weight different things."
+     ]
+    },
+    {
+     "h": "Legitimacy: why anyone obeys",
+     "p": [
+      "No state has the enforcement capacity to compel a population that has genuinely stopped consenting. Compliance is overwhelmingly voluntary, and legitimacy is the name for whatever makes it so. Weber identified three ideal-typical sources: <em>traditional</em> (it has always been so), <em>charismatic</em> (this particular person commands devotion), and <em>rational-legal</em> (the rules were followed, so the outcome binds). Modern states run mostly on the third, which is why procedural questions — was the election fair, was the process followed — carry a political charge out of all proportion to their apparent dryness.",
+      "The practical lesson: attacks on procedural legitimacy are not a distraction from real politics. They are an attack on the load-bearing wall. A government that wins power through a process half the country regards as rigged has to govern by coercion and patronage, which is expensive and unstable."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Monopoly on legitimate violence",
+     "def": "Weber's criterion for statehood; the claim, generally honoured, to be the only rightful user of force in a territory."
+    },
+    {
+     "term": "Westphalian sovereignty",
+     "def": "The norm that states have supreme authority within their borders and no superior outside them."
+    },
+    {
+     "term": "Rational-legal authority",
+     "def": "Legitimacy derived from correctly followed impersonal rules rather than tradition or personal charisma."
+    },
+    {
+     "term": "Failed state",
+     "def": "A polity where the monopoly on force has fragmented among competing armed actors, so no single authority can be said to govern."
+    },
+    {
+     "term": "Social contract",
+     "def": "The family of theories grounding political obligation in a real or hypothetical agreement among the governed."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Thomas Hobbes (1588–1679)",
+     "note": "Leviathan: without a sovereign, life is 'solitary, poor, nasty, brutish, and short'. Order precedes justice."
+    },
+    {
+     "name": "John Locke (1632–1704)",
+     "note": "Government is a trust held on condition; break the trust and the right of resistance revives. The intellectual spine of the American founding."
+    },
+    {
+     "name": "Max Weber (1864–1920)",
+     "note": "Gave us the definition of the state and the typology of authority still used a century later."
+    },
+    {
+     "name": "Charles Tilly (1929–2008)",
+     "note": "'War made the state and the state made war' — states grew from protection rackets that got good at extraction."
+    }
+   ],
+   "debate": {
+    "title": "Is sovereignty still the right frame?",
+    "sides": [
+     {
+      "label": "It is eroding",
+      "text": "Climate, pandemics, capital flows, cybercrime and AI are all transboundary. A doctrine built for territorial armies cannot govern problems that ignore borders, and clinging to it produces coordination failure."
+     },
+     {
+      "label": "It is the only frame we have",
+      "text": "Every supranational body is answerable to nobody in particular. Democratic accountability is territorial: you can vote out a government, not a treaty secretariat. Diluting sovereignty means diluting the citizen's only real lever."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Politics as a Vocation (1919)",
+     "who": "Max Weber — short, and the source of the definition."
+    },
+    {
+     "title": "Coercion, Capital, and European States",
+     "who": "Charles Tilly — how war-making built the modern state."
+    },
+    {
+     "title": "Why Nations Fail",
+     "who": "Acemoglu & Robinson — accessible, argumentative, contested."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does Weber's definition include the word 'legitimate'?",
+     "a": "Because it distinguishes a state from any other well-armed organisation. A cartel may hold effective force in a district; it does not hold force that the population regards as rightful, so it must spend constantly on coercion."
+    },
+    {
+     "q": "Name a way a democratic state voluntarily reduces its own sovereignty.",
+     "a": "Joining a customs union, accepting the jurisdiction of an international court, pegging its currency, or entering a mutual defence treaty — each binds future governments against the wishes they might later have."
+    }
+   ]
+  },
+  {
+   "id": "pol-2",
+   "title": "Constitutions and the Separation of Powers",
+   "oneLine": "The machinery designed to stop today's winners from becoming permanent winners.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "What a constitution actually does",
+     "p": [
+      "A constitution is a set of rules about how rules are made — a meta-layer that is deliberately harder to change than ordinary law. Its function is not to describe a country's values, whatever preambles suggest, but to make certain moves unavailable to whoever currently holds power. It works by raising the cost of the moves that would entrench a winner permanently.",
+      "Britain is the standing exception: it has no single codified document, only a compound of statutes, court judgments, and conventions that bind because participants believe they bind. This is elegant when everyone plays in good faith and fragile when someone declines to. The 2019 prorogation case, in which the Supreme Court ruled the suspension of Parliament unlawful, is what it looks like when an uncodified system is forced to say out loud what it had assumed."
+     ]
+    },
+    {
+     "h": "Separation, checks, and the difference between them",
+     "p": [
+      "Montesquieu's insight was that concentrated power corrupts regardless of who holds it, so the functions of government — making law, executing law, judging law — should sit in different hands. Pure separation is rare. What real systems use is <em>checks and balances</em>: overlapping powers, so each branch has tools to obstruct the others. The US Congress confirms judges and controls money; the president vetoes; courts strike down.",
+      "Parliamentary systems fuse executive and legislature by design: the government <em>is</em> the majority in the legislature. The check is not separation but the confidence convention — lose a vote of confidence and you fall. This makes parliamentary systems faster and less gridlocked, and correspondingly more dependent on party discipline, backbench nerve and unwritten restraint."
+     ]
+    },
+    {
+     "h": "Judicial review and the counter-majoritarian difficulty",
+     "p": [
+      "If unelected judges can void laws passed by elected legislators, in what sense does the majority rule? This is Alexander Bickel's \"counter-majoritarian difficulty\", and there is no clean solution — only different settlements. The US gives courts strong review and fights ferociously over appointments. The UK gives courts a declaration of incompatibility, which flags a conflict without striking down the law. New Zealand and Canada use variants with legislative override.",
+      "The trade-off is real. Strong review protects minorities from majorities but politicises the judiciary. Weak review keeps courts out of politics but leaves rights at the mercy of whoever won last. Notice that a country's choice here explains a great deal about the temperature of its judicial confirmation fights."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Codified vs uncodified constitution",
+     "def": "Whether the higher-order rules sit in one entrenched document or are dispersed across statute, case law and convention."
+    },
+    {
+     "term": "Checks and balances",
+     "def": "Deliberately overlapping powers that let each branch obstruct the others, as distinct from clean functional separation."
+    },
+    {
+     "term": "Judicial review",
+     "def": "The power of courts to assess whether laws or executive acts conform to the constitution."
+    },
+    {
+     "term": "Counter-majoritarian difficulty",
+     "def": "Bickel's problem: the democratic awkwardness of unelected judges overriding elected majorities."
+    },
+    {
+     "term": "Constitutional convention",
+     "def": "An unwritten rule treated as binding by political actors though unenforceable in court — the mortar of the UK system."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Montesquieu (1689–1755)",
+     "note": "The Spirit of the Laws — separation of powers as a structural remedy for the corruptibility of anyone."
+    },
+    {
+     "name": "James Madison",
+     "note": "Federalist 51: 'Ambition must be made to counteract ambition.' Design for bad actors, not good ones."
+    },
+    {
+     "name": "A.V. Dicey (1835–1922)",
+     "note": "Codified the British doctrines of parliamentary sovereignty and the rule of law."
+    },
+    {
+     "name": "Alexander Bickel (1924–1974)",
+     "note": "Named the counter-majoritarian difficulty and argued for judicial restraint as a virtue."
+    }
+   ],
+   "debate": {
+    "title": "Should the UK codify its constitution?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "Conventions bind only those who feel bound. A written constitution makes limits enforceable rather than merely expected, and gives citizens a document they can point to."
+     },
+     {
+      "label": "No",
+      "text": "Flexibility is the system's strength: it evolves without constitutional crises. Codification would transfer power from Parliament to judges and freeze today's political settlement into tomorrow's straitjacket."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Federalist Papers, nos. 10 and 51",
+     "who": "Madison — still the sharpest short case for structural design."
+    },
+    {
+     "title": "The Rule of Law",
+     "who": "Tom Bingham — lucid, from a former senior UK judge."
+    },
+    {
+     "title": "How Democracies Die",
+     "who": "Levitsky & Ziblatt — on norms as the invisible constitution."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why are parliamentary systems less prone to gridlock than presidential ones?",
+     "a": "Because the executive is drawn from and commands the legislative majority, so there is no structural possibility of a hostile legislature facing an opposed executive. The cost is fewer institutional brakes on a government with a large majority."
+    },
+    {
+     "q": "What is the trade-off in strong judicial review?",
+     "a": "Better minority-rights protection against majority overreach, at the price of politicising judicial appointments and moving contested moral questions from ballots to benches."
+    }
+   ]
+  },
+  {
+   "id": "pol-3",
+   "title": "Electoral Systems and Why They Shape Everything",
+   "oneLine": "The counting rule is not a technicality — it determines the party system, the coalitions and the incentives.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Duverger's law and the mechanics of wasted votes",
+     "p": [
+      "Under first-past-the-post, a vote for a third party in a constituency it cannot win is discarded. Voters learn this and behave strategically; donors and candidates learn it too. Maurice Duverger's observation is that single-member plurality systems tend towards two-party competition, while proportional systems sustain many parties. This is not a cultural fact about Britain or America. It is an arithmetic consequence of the counting rule.",
+      "The 2024 UK general election is a vivid case: Labour won about two-thirds of Commons seats on around a third of the vote, while Reform UK converted roughly 14% of votes into five seats. Whatever one thinks of either party, that ratio is a property of the system, not of the electorate."
+     ]
+    },
+    {
+     "h": "The families of systems",
+     "p": [
+      "<strong>Majoritarian</strong> systems (FPTP, two-round runoffs, alternative vote) prioritise decisive single-party government and a clear constituency link. <strong>Proportional</strong> systems (party list, single transferable vote) prioritise the correspondence between vote share and seat share, and normally produce coalitions. <strong>Mixed</strong> systems (Germany's MMP, Scotland's AMS) try to buy both: a local member plus a top-up correcting disproportionality.",
+      "Each embeds a theory of what an election is <em>for</em>. Majoritarians think an election is a mechanism for choosing a government and, crucially, for ejecting one. Proportionalists think it is a mechanism for representing a society's actual distribution of opinion. Neither is wrong; they answer different questions."
+     ]
+    },
+    {
+     "h": "Second-order effects",
+     "p": [
+      "The counting rule propagates outward. Proportional systems tend to produce coalition governments, which means policy is negotiated after the election rather than mandated by it, which means manifestos are opening bids rather than promises. Majoritarian systems concentrate campaigning on a small number of marginal seats, so national policy is disproportionately shaped by the preferences of a few hundred thousand swing voters in unrepresentative places.",
+      "Two further mechanisms worth knowing. <em>Thresholds</em> (Germany's 5%) keep fringe parties out of proportional legislatures at the cost of discarding real votes. <em>District magnitude</em> — how many seats a district elects — is the single strongest predictor of proportionality, more than the formula used."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Duverger's law",
+     "def": "Single-member plurality tends to two-party systems; proportional representation tends to multiparty systems."
+    },
+    {
+     "term": "District magnitude",
+     "def": "The number of seats elected per district; the strongest structural driver of how proportional an outcome is."
+    },
+    {
+     "term": "Wasted vote",
+     "def": "Any vote cast for a losing candidate or in excess of the winning margin — the raw material of disproportionality."
+    },
+    {
+     "term": "Electoral threshold",
+     "def": "A minimum vote share required for any seats, used in PR systems to limit fragmentation."
+    },
+    {
+     "term": "Median voter theorem",
+     "def": "Under certain conditions with a single issue dimension, two competing parties converge on the preference of the median voter."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Maurice Duverger (1917–2014)",
+     "note": "Formulated the law linking electoral formula to party-system shape."
+    },
+    {
+     "name": "Arend Lijphart",
+     "note": "Patterns of Democracy — the systematic case that consensus (proportional) democracies outperform majoritarian ones on several measures."
+    },
+    {
+     "name": "Kenneth Arrow (1921–2017)",
+     "note": "Impossibility theorem: no voting rule can satisfy a short list of reasonable fairness conditions simultaneously."
+    },
+    {
+     "name": "Anthony Downs (1930–2021)",
+     "note": "An Economic Theory of Democracy — parties as vote-maximising firms; the origin of median-voter reasoning."
+    }
+   ],
+   "debate": {
+    "title": "Should the UK adopt proportional representation?",
+    "sides": [
+     {
+      "label": "For PR",
+      "text": "Seat shares should track vote shares. FPTP manufactures landslide majorities from minority support, disenfranchises millions in safe seats, and hands enormous power to a government most voters opposed."
+     },
+     {
+      "label": "Against PR",
+      "text": "FPTP delivers accountable single-party government that voters can eject cleanly, and preserves a direct constituency link. PR hands coalition-forming power to small parties and moves the real decisions into post-election bargaining voters never sanctioned."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Patterns of Democracy",
+     "who": "Arend Lijphart — the comparative dataset behind most of this argument."
+    },
+    {
+     "title": "Gaming the Vote",
+     "who": "William Poundstone — Arrow and voting paradoxes, readably."
+    },
+    {
+     "title": "Electoral Reform Society / Institute for Government explainers",
+     "who": "Short, current, UK-specific."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does Duverger's law follow from the counting rule rather than from culture?",
+     "a": "Because plurality voting makes third-party votes non-productive, voters defect strategically to the least-bad viable option and elites stop investing in third parties — a feedback loop that operates in any society using the rule."
+    },
+    {
+     "q": "Which matters more for proportionality: the seat-allocation formula or district magnitude?",
+     "a": "District magnitude. A large multi-member district produces near-proportional results under almost any formula; a single-member district cannot be proportional under any."
+    }
+   ]
+  },
+  {
+   "id": "pol-4",
+   "title": "Ideologies: the Left–Right Map and Where It Breaks",
+   "oneLine": "What the major traditions actually claim, stripped of the tribal signalling.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Where the axis came from, and what it hides",
+     "p": [
+      "Left and right originate in the seating plan of the 1789 French National Assembly: supporters of the revolution to the president's left, defenders of the ancien régime to his right. The axis has survived because it tracks a real recurring disagreement about equality and hierarchy. It hides a great deal, though, because a single line cannot represent two questions at once. Someone economically redistributive and socially traditionalist has no place on it — and that combination describes a large share of voters in most democracies.",
+      "This is why the two-dimensional maps (economic left–right against social liberal–authoritarian) explain recent politics better. The realignment visible across Europe and the US since roughly 2016 is largely the second axis becoming more electorally salient than the first."
+     ]
+    },
+    {
+     "h": "The four families worth knowing properly",
+     "p": [
+      "<strong>Liberalism</strong> holds that the individual is the unit of moral concern and that the state's job is to secure the conditions of individual freedom. It splits into classical liberals (freedom as absence of interference; markets and limited government) and social liberals (freedom requires capability, so healthcare and education are freedom-enabling, not freedom-restricting).",
+      "<strong>Conservatism</strong>, in its Burkean form, is less a set of policies than an epistemology: society is a complex evolved order encoding more accumulated wisdom than any planner can articulate, so reform should be incremental and cautious. Note that this makes doctrinaire free-market radicalism a departure from conservatism, not an expression of it — a tension inside every centre-right party.",
+      "<strong>Socialism</strong> begins from the claim that concentrated ownership of productive assets produces domination that formal political equality cannot correct. Its versions range from full public ownership to social democracy, which accepts markets while taxing and regulating the results, and which is now the dominant strand in practice.",
+      "<strong>Nationalism and populism</strong> are not the same thing but currently travel together. Nationalism claims the nation is the proper unit of political solidarity. Populism, following Cas Mudde, is a thin ideology dividing society into a pure people and a corrupt elite and holding that politics should express the general will directly — which is why it attaches easily to left and right hosts alike."
+     ]
+    },
+    {
+     "h": "Reading ideologies honestly",
+     "p": [
+      "A useful discipline: for each tradition, identify the strongest empirical claim it makes, and ask what would falsify it. Hayek's claim that central planners cannot aggregate dispersed knowledge is testable and has strong evidence behind it. The socialist claim that market economies generate self-reinforcing inequality is also testable and has strong evidence behind it. Both can be true. Most serious political disagreement is about weighting, not about facts."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Two-axis political map",
+     "def": "Economic left–right crossed with social liberal–authoritarian; explains voter clusters a single line cannot."
+    },
+    {
+     "term": "Negative vs positive liberty",
+     "def": "Isaiah Berlin's distinction: freedom from interference versus the actual capacity to act on one's choices."
+    },
+    {
+     "term": "Burkean conservatism",
+     "def": "Caution about reform grounded in the claim that inherited institutions encode more knowledge than reason can reconstruct."
+    },
+    {
+     "term": "Thin ideology",
+     "def": "Mudde's term for populism — a framework with no full programme of its own, which attaches to a fuller host ideology."
+    },
+    {
+     "term": "Realignment",
+     "def": "A durable reshuffling of which social groups back which parties, usually when a new issue axis becomes salient."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Edmund Burke (1729–1797)",
+     "note": "Reflections on the Revolution in France — the founding conservative argument against rationalist reconstruction."
+    },
+    {
+     "name": "John Stuart Mill (1806–1873)",
+     "note": "On Liberty — the harm principle and the case for free expression as a truth-finding mechanism."
+    },
+    {
+     "name": "Isaiah Berlin (1909–1997)",
+     "note": "Two Concepts of Liberty; also value pluralism — the claim that genuine goods can be irreconcilable."
+    },
+    {
+     "name": "Cas Mudde",
+     "note": "The standard contemporary analytic definition of populism."
+    }
+   ],
+   "debate": {
+    "title": "Is populism a threat to democracy or a symptom of its failures?",
+    "sides": [
+     {
+      "label": "Threat",
+      "text": "Claiming to embody the people's authentic will delegitimises opposition, courts and press as illegitimate obstacles rather than components of the system. Backsliding tends to run through elected populists, not coups."
+     },
+     {
+      "label": "Symptom",
+      "text": "Populist surges track measurable failures — stagnant real wages, unresponsive institutions, unaddressed immigration concerns. Treating the surge as pathology rather than signal is what produced it, and repeating that treatment deepens it."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "On Liberty",
+     "who": "J.S. Mill — short and still the reference point."
+    },
+    {
+     "title": "The Road to Serfdom",
+     "who": "F.A. Hayek — read for the knowledge argument, not the slippery slope."
+    },
+    {
+     "title": "Populism: A Very Short Introduction",
+     "who": "Mudde & Kaltwasser — the crisp analytic account."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is 'economically left, socially conservative' invisible on a single left–right line?",
+     "a": "Because the line compresses two independent dimensions into one. That quadrant is electorally large and under-served, which is a substantial part of why populist parties have grown."
+    },
+    {
+     "q": "What makes populism a 'thin' ideology?",
+     "a": "It supplies only a people-versus-elite frame and a claim to direct expression of the general will, with no account of economics or social order, so it must attach to a host ideology — hence both left and right variants."
+    }
+   ]
+  },
+  {
+   "id": "pol-5",
+   "title": "Institutions, Bureaucracy and Public Choice",
+   "oneLine": "Why governments fail in patterned, predictable ways rather than randomly.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Institutions as the rules of the game",
+     "p": [
+      "Douglass North's definition: institutions are the humanly devised constraints that structure interaction — formal rules, informal norms, and their enforcement characteristics. The reason this matters for anyone reading the news is that it reframes most policy failure. If a department fails repeatedly under different ministers of different parties, the explanatory work is being done by the institution, not the personnel.",
+      "The key distinction, from Acemoglu and Robinson, is between <em>inclusive</em> institutions — which distribute power broadly, secure property and contract, and let outsiders enter — and <em>extractive</em> ones, which concentrate the gains from economic activity in a narrow group. Their claim is that this, more than geography or culture, explains the wealth gap between nations. It is contested but productive."
+     ]
+    },
+    {
+     "h": "Public choice: officials are people too",
+     "p": [
+      "Public choice theory applies economic reasoning to political actors: assume that politicians, civil servants and regulators pursue their own interests — re-election, budget, status, a quiet life — rather than a disinterested public good. This is not cynicism so much as symmetry. We do not assume shopkeepers are angels; the assumption should not flip on entering government.",
+      "The predictions are specific. <em>Rational ignorance</em>: a single vote almost never decides an election, so it is individually rational not to research candidates — which means politics is fought over impressions. <em>Concentrated benefits, diffuse costs</em>: a subsidy worth millions to twelve firms will be fiercely defended, while the pennies it costs each of 60 million citizens motivates nobody, so bad policies persist. <em>Regulatory capture</em>: regulators depend on the regulated for information and future employment, and drift towards their view of the world."
+     ]
+    },
+    {
+     "h": "What to do with this",
+     "p": [
+      "Public choice is a diagnostic, not a programme. Its libertarian users conclude that government should do less; its institutionalist users conclude that government should be designed better — transparency requirements, sunset clauses, independent agencies with hard mandates, procurement rules that reduce discretion. The analysis supports both. When you read a policy failure story, the useful question is: which actor faced which incentive, and who bore the cost of the failure?"
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Institutions (North)",
+     "def": "The formal and informal constraints that structure political and economic interaction, plus their enforcement."
+    },
+    {
+     "term": "Inclusive vs extractive institutions",
+     "def": "Acemoglu–Robinson's distinction between broad-access and narrow-capture political-economic arrangements."
+    },
+    {
+     "term": "Rational ignorance",
+     "def": "Because one vote almost never decides an outcome, the cost of becoming informed exceeds the expected benefit to the individual."
+    },
+    {
+     "term": "Concentrated benefits, diffuse costs",
+     "def": "The asymmetry that lets small well-organised groups sustain policies that cost the majority more in aggregate."
+    },
+    {
+     "term": "Regulatory capture",
+     "def": "The tendency for regulators to come to serve the interests of the industry they oversee."
+    },
+    {
+     "term": "Path dependence",
+     "def": "Early institutional choices constrain later ones, so present arrangements often reflect historical accident rather than current fit."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Douglass North (1920–2015)",
+     "note": "Nobel laureate; institutions as the deep determinant of economic performance."
+    },
+    {
+     "name": "James Buchanan (1919–2013)",
+     "note": "Founder of public choice; 'politics without romance'."
+    },
+    {
+     "name": "Elinor Ostrom (1933–2012)",
+     "note": "Showed empirically that communities can govern common resources without either privatisation or state control, refuting a too-neat tragedy of the commons."
+    },
+    {
+     "name": "Mancur Olson (1932–1998)",
+     "note": "The Logic of Collective Action — small groups organise, large ones free-ride."
+    }
+   ],
+   "debate": {
+    "title": "Are technocratic independent agencies good for democracy?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "Independent central banks, statistical agencies and fiscal watchdogs remove decisions with long horizons from actors with four-year ones. The inflation record after central bank independence is the evidence."
+     },
+     {
+      "label": "No",
+      "text": "They move contested distributional choices — who bears the cost of disinflation — beyond electoral reach while presenting them as technical. Depoliticisation is itself a political act, and it fuels the anti-elite backlash."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Governing the Commons",
+     "who": "Elinor Ostrom — the empirical corrective to armchair institutional design."
+    },
+    {
+     "title": "Why Nations Fail",
+     "who": "Acemoglu & Robinson — big, arguable, worth arguing with."
+    },
+    {
+     "title": "The Blunders of Our Governments",
+     "who": "King & Crewe — UK-specific catalogue of institutional failure."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why do economically inefficient subsidies survive elections?",
+     "a": "Concentrated benefits, diffuse costs: beneficiaries have large per-head stakes and organise; each citizen's share of the cost is too small to motivate opposition, and rational ignorance means most never learn of it."
+    },
+    {
+     "q": "What did Ostrom show that complicated the tragedy of the commons?",
+     "a": "That real communities managing fisheries, irrigation and pasture frequently evolve durable rules with monitoring and graduated sanctions, so the choice is not only privatise-or-nationalise."
+    }
+   ]
+  },
+  {
+   "id": "pol-6",
+   "title": "Polarisation and Democratic Backsliding",
+   "oneLine": "How democracies now degrade — slowly, legally, and from inside.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The new shape of democratic failure",
+     "p": [
+      "Between 1946 and the late 1990s, most democracies that failed did so by coup: tanks, a radio station, a junta. Since then the dominant mode has changed. Levitsky and Ziblatt's account, supported by the V-Dem and Freedom House datasets, is that contemporary backsliding is executive-led, incremental and formally legal. An elected leader packs the courts, changes broadcasting rules, redraws districts, alters civil service tenure — each step defensible in isolation, the cumulative effect a playing field that opposition cannot win on.",
+      "This matters for how you read news. There is rarely a single dramatic moment to point to, which is precisely the design. The diagnostic question is not \"was this step illegal?\" but \"does this step make it harder to remove the government that took it?\""
+     ]
+    },
+    {
+     "h": "Affective polarisation",
+     "p": [
+      "Polarisation on policy — parties holding more distant positions — is normal and arguably healthy, since it gives voters a real choice. <em>Affective</em> polarisation is different: it measures how much partisans dislike and distrust the other side as people. In the US it has risen sharply since the 1980s while actual policy positions of voters have moved much less, which suggests identity rather than ideology is doing the work.",
+      "The mechanism most researchers point to is <em>sorting</em>: party affiliation has become aligned with religion, geography, education and cultural taste, so that partisan identity now bundles many identities into one. When crossing party lines means crossing every other line too, the cost of defection rises and compromise looks like betrayal."
+     ]
+    },
+    {
+     "h": "Norms as the invisible constitution",
+     "p": [
+      "Two norms do most of the work in stable democracies. <em>Mutual toleration</em>: accepting opponents as legitimate rivals rather than enemies to be eliminated. <em>Institutional forbearance</em>: not using every legal power to its maximum extent. Almost every democratic system contains legal moves that would wreck it if fully exploited — packing a supreme court, endless filibustering, refusing to seat a legislature, governing by decree.",
+      "Forbearance erodes reciprocally. Once one side uses a hard-ball tactic, the other's restraint looks like unilateral disarmament, and escalation is rational for each player while destructive for the system. This is why the erosion is so hard to reverse: nobody has an individual incentive to go first."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Democratic backsliding",
+     "def": "Gradual, usually legal erosion of the conditions for genuine electoral competition, driven by incumbents."
+    },
+    {
+     "term": "Affective polarisation",
+     "def": "Hostility towards the opposing party as a social group, distinct from disagreement over policy."
+    },
+    {
+     "term": "Partisan sorting",
+     "def": "The alignment of party identity with religious, geographic, educational and cultural identity, raising the stakes of partisanship."
+    },
+    {
+     "term": "Mutual toleration",
+     "def": "Treating political opponents as legitimate rivals with an equal right to govern."
+    },
+    {
+     "term": "Institutional forbearance",
+     "def": "Deliberate restraint in exercising legal powers whose full use would destabilise the system."
+    },
+    {
+     "term": "Competitive authoritarianism",
+     "def": "Levitsky and Way's term for regimes that hold real elections on a decisively tilted playing field."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Steven Levitsky & Daniel Ziblatt",
+     "note": "How Democracies Die — the norms-and-gatekeeping account."
+    },
+    {
+     "name": "Lilliana Mason",
+     "note": "Uncivil Agreement — the sorting mechanism behind affective polarisation."
+    },
+    {
+     "name": "Nancy Bermeo",
+     "note": "'On Democratic Backsliding' — the typology distinguishing coups from executive aggrandisement."
+    },
+    {
+     "name": "Larry Diamond",
+     "note": "On the global democratic recession and its measurement."
+    }
+   ],
+   "debate": {
+    "title": "Is social media a primary cause of polarisation?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "Engagement-optimised ranking selects for outrage, algorithmic sorting narrows exposure, and the timing of the polarisation acceleration matches platform adoption closely."
+     },
+     {
+      "label": "Not primarily",
+      "text": "Affective polarisation rose fastest among older cohorts with the lowest social media use, and rose far less in comparable countries with identical platforms. That points to domestic institutional causes — primaries, partisan broadcast media, geographic sorting — with platforms as amplifier rather than engine."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "How Democracies Die",
+     "who": "Levitsky & Ziblatt — the accessible standard."
+    },
+    {
+     "title": "Uncivil Agreement",
+     "who": "Lilliana Mason — the identity mechanism, empirically."
+    },
+    {
+     "title": "V-Dem Annual Democracy Report",
+     "who": "Free, data-rich, updated yearly."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the question 'was it legal?' insufficient for detecting backsliding?",
+     "a": "Because the modern method uses legal powers — appointments, districting, licensing, procedural rules — whose cumulative effect is to make electoral defeat of the incumbent structurally harder. Legality is compatible with the destruction of competition."
+    },
+    {
+     "q": "Why does institutional forbearance erode in a ratchet?",
+     "a": "Because once one side exploits a legal hardball tactic, the other side's continued restraint costs it power for nothing. Escalation is individually rational and collectively ruinous."
+    }
+   ]
+  },
+  {
+   "id": "pol-7",
+   "title": "International Order: Anarchy, Alliances and Power Transition",
+   "oneLine": "The three lenses through which almost all foreign-policy commentary is written.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Anarchy is the starting premise",
+     "p": [
+      "In international relations, \"anarchy\" is a technical term: it means there is no world government, no sovereign above states to enforce agreements. Everything else in the field follows from asking what rational actors do under that condition. It does not mean chaos — the system has dense rules, and most of them are usually followed.",
+      "The <em>security dilemma</em> is the core consequence. Measures a state takes purely for defence — missile defence, forward deployments, larger navies — are indistinguishable to others from preparation for attack, so they provoke counter-measures, leaving everyone less secure with nobody having intended aggression. Much of the Ukraine and Taiwan literature is an argument about how far this mechanism explains events."
+     ]
+    },
+    {
+     "h": "The three lenses",
+     "p": [
+      "<strong>Realism</strong> says states pursue security and relative power; institutions and ideology are epiphenomenal; expect balancing against whoever grows strongest. It predicted the persistence of great-power competition well and the peaceful end of the Cold War poorly.",
+      "<strong>Liberal institutionalism</strong> says that although anarchy is real, institutions, trade and shared information reduce the cost of cooperation and make defection detectable and expensive. It explains the durability of the EU, NATO and the WTO, and struggles with cases where interdependence failed to prevent conflict.",
+      "<strong>Constructivism</strong> says interests are not given by structure but constituted by ideas, identity and norms — \"anarchy is what states make of it\" (Wendt). Britain is not alarmed by French nuclear weapons and is alarmed by North Korean ones, which no purely material account explains. It is strong on change and weak on prediction."
+     ]
+    },
+    {
+     "h": "Power transition and the Thucydides question",
+     "p": [
+      "Power transition theory holds that war is most likely when a rising power approaches parity with a declining hegemon, because the rising power wants a settlement matching its new weight and the incumbent prefers the existing one. Graham Allison's \"Thucydides trap\" popularised this for US–China; his historical base rate has been heavily criticised for case selection, but the underlying mechanism is taken seriously across the field.",
+      "Two moderating factors are worth holding on to: nuclear weapons make direct great-power war catastrophically costly in a way Thucydides's world did not know, and deep economic interdependence raises the price of conflict for both. Neither is a guarantee — 1914 Europe was also deeply interdependent — but both change the arithmetic."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Anarchy",
+     "def": "The absence of a supranational sovereign; the foundational structural condition in IR theory."
+    },
+    {
+     "term": "Security dilemma",
+     "def": "Defensive measures by one state appear threatening to others, provoking counter-measures that reduce everyone's security."
+    },
+    {
+     "term": "Balance of power",
+     "def": "The realist expectation that states will align against any state approaching dominance."
+    },
+    {
+     "term": "Hegemonic stability",
+     "def": "The claim that open international economic orders require a dominant state willing to underwrite them."
+    },
+    {
+     "term": "Soft power",
+     "def": "Nye's term for influence through attraction and agenda-setting rather than coercion or payment."
+    },
+    {
+     "term": "Thucydides trap",
+     "def": "The proposition that a rising power challenging an established one heightens the risk of war."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Thucydides (c. 460–400 BC)",
+     "note": "The Melian Dialogue: 'the strong do what they can and the weak suffer what they must' — realism's founding text."
+    },
+    {
+     "name": "Kenneth Waltz (1924–2013)",
+     "note": "Structural realism: state behaviour is explained by the distribution of capabilities, not by domestic politics."
+    },
+    {
+     "name": "Joseph Nye",
+     "note": "Soft power and complex interdependence."
+    },
+    {
+     "name": "Alexander Wendt",
+     "note": "Constructivism: 'anarchy is what states make of it'."
+    }
+   ],
+   "debate": {
+    "title": "Does economic interdependence prevent war?",
+    "sides": [
+     {
+      "label": "It constrains",
+      "text": "Supply chains, currency reserves and market access give both sides hostages. The cost of conflict is now calculable and enormous, which is why decoupling debates are themselves a security policy."
+     },
+     {
+      "label": "It is overrated",
+      "text": "Europe in 1914 was at record trade integration. Interdependence creates vulnerabilities that can be weaponised — energy, chips, rare earths — and states have repeatedly accepted large economic costs for security or status."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Theory of International Politics",
+     "who": "Kenneth Waltz — dense, foundational."
+    },
+    {
+     "title": "Destined for War",
+     "who": "Graham Allison — read alongside its critics."
+    },
+    {
+     "title": "The Melian Dialogue",
+     "who": "Thucydides — twenty minutes, and still the sharpest statement of the realist case."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why can purely defensive rearmament reduce a state's security?",
+     "a": "Because capabilities, not intentions, are observable. Neighbours must plan against the worst reading, so they arm in response, leaving the first state facing a stronger environment than before — the security dilemma."
+    },
+    {
+     "q": "What does constructivism explain that realism cannot?",
+     "a": "Why identical material capabilities are threatening in some hands and not others — French versus North Korean nuclear weapons from a British perspective. Threat is partly constituted by shared meanings, not only by force ratios."
+    }
+   ]
+  },
+  {
+   "id": "pol-8",
+   "title": "Political Economy: Where Politics and Money Meet",
+   "oneLine": "Welfare states, tax bargains, and the distributional fights underneath most policy news.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Three worlds of welfare",
+     "p": [
+      "Gøsta Esping-Andersen's typology remains the standard map. <em>Liberal</em> regimes (US, UK, Ireland) rely on means-tested benefits, modest universal transfers and private provision; they minimise decommodification, meaning your living standard stays closely tied to your market position. <em>Conservative/corporatist</em> regimes (Germany, France, Italy) organise entitlements around employment status and preserve status differentials, often with a strong family assumption. <em>Social democratic</em> regimes (Nordics) provide universal high-quality services funded by broad, relatively flat taxation.",
+      "The counterintuitive finding is that the most redistributive systems are not the ones with the most progressive taxes. Nordic states raise very large revenues through broad-based VAT and income taxes that hit the middle hard, then redistribute through universal services. Highly progressive but narrow tax systems tend to raise less and redistribute less — the \"paradox of redistribution\" (Korpi and Palme): targeting the poor produces smaller, politically weaker programmes."
+     ]
+    },
+    {
+     "h": "The fiscal contract",
+     "p": [
+      "Taxation is the point where state capacity and consent meet. Historically, representative institutions grew out of rulers needing revenue and having to concede something to get it — no taxation without representation was a bargaining position before it was a slogan. This connection persists: states that fund themselves from natural resource rents rather than citizen taxation tend to be less accountable, which is the core of the resource curse literature.",
+      "For reading budget news, three structural facts do most of the explanatory work in rich democracies. Ageing populations mean health and pension spending rise automatically without any new decision. Most public spending is politically locked in, so discretionary choices are made in a narrow margin. And because debt service costs move with interest rates, the fiscal position of a highly indebted state is partly determined by bond markets rather than by ministers."
+     ]
+    },
+    {
+     "h": "Who actually bears a tax",
+     "p": [
+      "Legal incidence — who writes the cheque — and economic incidence — whose real income falls — are different things, and confusing them is the single most common error in public debate. A payroll tax nominally on employers is largely borne by workers through lower wages. A corporation tax is borne by some mix of shareholders, workers and consumers, with the split depending on capital mobility. A tariff nominally on foreign exporters is mostly paid by domestic importers and consumers.",
+      "The general rule: the burden falls on whichever side of the market is less able to move. This is why capital, being mobile, is hard to tax heavily in an open economy, and why land, being immovable, is the textbook efficient tax base — an argument running from Ricardo through Henry George to today's land value tax advocates."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Decommodification",
+     "def": "The extent to which a person can maintain a living standard independent of market participation."
+    },
+    {
+     "term": "Paradox of redistribution",
+     "def": "Korpi and Palme's finding that universal programmes redistribute more than targeted ones, because they build broader political coalitions."
+    },
+    {
+     "term": "Tax incidence",
+     "def": "Who actually bears the burden of a tax, as opposed to who legally remits it."
+    },
+    {
+     "term": "Resource curse",
+     "def": "The tendency for resource-rich states to have weaker growth and less accountable government, partly because they need not tax citizens."
+    },
+    {
+     "term": "Automatic stabilisers",
+     "def": "Spending and tax elements that expand in downturns without new legislation — unemployment benefits, progressive income tax."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Gøsta Esping-Andersen",
+     "note": "The Three Worlds of Welfare Capitalism — the standard regime typology."
+    },
+    {
+     "name": "Thomas Piketty",
+     "note": "Capital in the Twenty-First Century — the long-run data on wealth concentration, and the r > g argument."
+    },
+    {
+     "name": "Mariana Mazzucato",
+     "note": "The Entrepreneurial State — the case that public investment drives frontier innovation."
+    },
+    {
+     "name": "Henry George (1839–1897)",
+     "note": "Progress and Poverty — land value taxation, still the most-agreed-upon and least-implemented idea in public finance."
+    }
+   ],
+   "debate": {
+    "title": "Should the tax base shift from income to wealth?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "Wealth-to-income ratios are near historic highs, returns to capital exceed growth, and taxing income alone means taxing work while leaving accumulated holdings untouched — which entrenches inherited advantage."
+     },
+     {
+      "label": "No",
+      "text": "Wealth taxes have been repealed in most OECD countries that tried them: valuation is contentious, liquidity problems are real, capital relocates, and revenue underperformed forecasts. Reforming capital gains, property and inheritance taxes is more tractable."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Three Worlds of Welfare Capitalism",
+     "who": "Esping-Andersen — the map everyone still uses."
+    },
+    {
+     "title": "The Deficit Myth vs. The Deficit Delusion",
+     "who": "Read an MMT case and a mainstream rebuttal together."
+    },
+    {
+     "title": "IFS and OBR publications",
+     "who": "Free, rigorous, UK-specific; the best available for reading Budget coverage critically."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why do universal benefits often redistribute more than means-tested ones?",
+     "a": "Because they include the middle class as beneficiaries, which creates a broad political constituency defending generous funding. Targeted programmes serve a group with little political weight and get squeezed."
+    },
+    {
+     "q": "Who bears the burden of a tax legally levied on employers?",
+     "a": "Largely workers, through lower wages, because labour supply is relatively inelastic compared with employers' ability to adjust compensation. Legal incidence rarely matches economic incidence."
+    }
+   ]
+  }
+ ]
+}

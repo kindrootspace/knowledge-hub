@@ -1,0 +1,919 @@
+{
+ "id": "health",
+ "name": "Health & Medicine",
+ "tagline": "What the evidence actually supports about bodies, illness and care",
+ "accent": "#2dd4bf",
+ "blurb": "Medicine is the field with the highest stakes and one of the worst signal-to-noise ratios, which is why learning how its evidence is made matters more than memorising its current conclusions. This track begins with the machinery of clinical evidence, works up through the body, immunity, nutrition, exercise and ageing, and ends with the systems that deliver care and the habits of mind that let you read a health headline properly. It is general education rather than medical advice: nothing here is a recommendation for any particular person, and decisions about your own health belong with a clinician who knows your circumstances.",
+ "modules": [
+  {
+   "id": "hea-1",
+   "title": "How Medical Evidence Works",
+   "oneLine": "Why randomisation buys something nothing else can, and how to read a risk figure without being fooled.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "What randomisation actually buys",
+     "p": [
+      "The point of randomising is not fairness. It is that random allocation balances the confounders you have <em>not</em> measured and cannot name, which no statistical adjustment can do. Austin Bradford Hill's 1948 MRC streptomycin trial for pulmonary tuberculosis is usually dated as the first properly randomised clinical trial, and its innovation was procedural: allocation was concealed from the recruiting clinicians in sealed envelopes. Concealment, blinding, pre-registration of the primary outcome and intention-to-treat analysis are all defences against the same thing — the many small, sincere ways investigators nudge results.",
+      "None of this makes trials authoritative in general. A trial answers one narrow question: in this population, over this duration, against this comparator, at this dose. Trial populations are systematically younger, healthier and less multimorbid than the patients who will later receive the drug. That gap between internal validity, which trials are excellent at, and external validity, which they are often poor at, is the single most useful thing to hold in mind when a result is generalised in a headline."
+     ]
+    },
+    {
+     "h": "Observational studies and the healthy-user problem",
+     "p": [
+      "Observational epidemiology is indispensable — it is how we learned that smoking causes lung cancer — but it fails in a characteristic direction. People who take a preventive treatment differ from people who do not, in ways that predict good outcomes independently. Hormone replacement therapy is the canonical case: cohort studies through the 1990s consistently suggested it protected against heart disease; the Women's Health Initiative randomised trial, stopped early in 2002, found the combined-hormone arm increased coronary events, stroke and breast cancer. The women taking HRT had simply been healthier and better-doctored to begin with.",
+      "Beta-carotene is the other standing warning. Diets rich in it tracked with lower lung cancer rates across many cohorts. Two large trials then tested it directly in smokers — ATBC in 1994 and CARET in 1996 — and both found <em>more</em> lung cancer in the supplemented arm. The lesson is not that observational work is worthless; it is that a correlate of a healthy diet is not the same object as an isolated compound, and that residual confounding runs one way far more often than chance would predict."
+     ]
+    },
+    {
+     "h": "Reading the numbers",
+     "p": [
+      "Relative risk is the number that gets reported and the least informative one. When IARC classified processed meat as a Group 1 carcinogen in 2015, the underlying figure was an 18 per cent increase in colorectal cancer risk per 50g eaten daily. Applied to a UK lifetime bowel cancer risk of roughly 6 per cent, that shifts the absolute risk to around 7 per cent. Both descriptions are true. Only one tells you what is at stake, and Group 1 denotes confidence that an effect exists, not that it is large.",
+      "The number needed to treat converts a trial result into something usable: how many people must take this for one to benefit. For statins in secondary prevention, treating people who have already had a cardiovascular event, the NNT over five years is in the low tens. In primary prevention for someone at low baseline risk it can exceed a hundred. Same drug, same relative effect, completely different clinical proposition — because relative effects are roughly constant while absolute benefit scales with baseline risk.",
+      "Meta-analysis inherits the flaws of its inputs. Pooling twenty weak observational studies produces a precise-looking estimate of a bias. Two things to check: heterogeneity, conventionally reported as I-squared, which tells you whether the studies were even measuring the same thing, and funnel plot asymmetry, which hints that null results were never published."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Allocation concealment",
+     "def": "Hiding the upcoming assignment from whoever recruits participants; distinct from blinding, and the single most important anti-bias feature of a trial."
+    },
+    {
+     "term": "Confounding",
+     "def": "A third factor that causes both the exposure and the outcome, generating an association with no causal path between them."
+    },
+    {
+     "term": "Healthy-user bias",
+     "def": "The tendency of people who adopt any preventive behaviour to be healthier in unmeasured ways, inflating apparent benefit in observational data."
+    },
+    {
+     "term": "Absolute vs relative risk",
+     "def": "The change in your actual probability of an outcome versus the proportional change in it; a large relative change on a tiny base is still tiny."
+    },
+    {
+     "term": "Number needed to treat",
+     "def": "The number of people who must receive a treatment for one additional good outcome; the reciprocal of the absolute risk reduction."
+    },
+    {
+     "term": "Publication bias",
+     "def": "Systematic over-representation of positive findings in the literature, which biases every meta-analysis built on it."
+    },
+    {
+     "term": "Surrogate endpoint",
+     "def": "A measurable proxy such as LDL or tumour shrinkage standing in for an outcome patients care about; frequently moves without the real outcome following."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Austin Bradford Hill (1897–1991)",
+     "note": "Designed the 1948 streptomycin trial and, with Richard Doll, the doctors study on smoking; his nine viewpoints on causation are still the working checklist."
+    },
+    {
+     "name": "Archie Cochrane (1909–1988)",
+     "note": "Effectiveness and Efficiency (1972) argued that most of what the NHS did had never been tested, and that this was a moral problem rather than an academic one."
+    },
+    {
+     "name": "Iain Chalmers",
+     "note": "Founded the Cochrane Collaboration in 1993 to make systematic reviews a standing infrastructure rather than one-off academic exercises."
+    },
+    {
+     "name": "John Ioannidis",
+     "note": "Why Most Published Research Findings Are False (2005) formalised how low prior probability plus flexible analysis manufactures false positives at scale."
+    }
+   ],
+   "debate": {
+    "title": "Is the randomised trial overrated as the gold standard?",
+    "sides": [
+     {
+      "label": "Keep the hierarchy",
+      "text": "Every era has produced confident observational findings that randomisation demolished — HRT, beta-carotene, antiarrhythmics after heart attack. The failures are not rare exceptions but a recurring pattern, and no amount of statistical adjustment has ever reliably substituted for allocation by chance."
+     },
+     {
+      "label": "It is too narrow",
+      "text": "Trials are slow, expensive, and structurally unable to study rare harms, long latencies, whole diets or health systems. Modern causal inference — target trial emulation, instrumental variables, Mendelian randomisation — extracts defensible causal claims from observational data, and refusing to use it means refusing to answer most questions that matter."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Testing Treatments",
+     "who": "Evans, Thornton, Chalmers and Glasziou — free online, and the clearest short account of why trials exist."
+    },
+    {
+     "title": "Bad Pharma",
+     "who": "Ben Goldacre — on missing trial data and the industry incentives that produce it."
+    },
+    {
+     "title": "Why Most Published Research Findings Are False",
+     "who": "John Ioannidis — eight pages that reframed how a generation reads a p-value."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why can adjusting for confounders not substitute for randomisation?",
+     "a": "Adjustment can only handle variables you thought of and measured accurately. Randomisation balances the unmeasured and unimagined ones too, which is why observational estimates of preventive treatments have so often been overturned in the same direction."
+    },
+    {
+     "q": "A drug cuts your risk of a condition by 40 per cent. What else do you need to know?",
+     "a": "The baseline risk. Forty per cent off a 1-in-1,000 risk is a 0.04 percentage point gain; forty per cent off a 1-in-5 risk is transformative. You also want the absolute harms, which are almost never reported in relative terms."
+    }
+   ]
+  },
+  {
+   "id": "hea-2",
+   "title": "The Human Body as a System",
+   "oneLine": "Homeostasis, physiological reserve, and why chronic disease is silent until it is not.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Regulation, not stability",
+     "p": [
+      "Claude Bernard's insight in 1865 was that complex animals achieve freedom from their environment by maintaining a constant internal one — the milieu intérieur. Walter Cannon named the phenomenon homeostasis in the 1920s and described its mechanism: negative feedback loops in which a sensed deviation triggers a correction. Blood glucose, core temperature, plasma osmolality, pH and calcium are all held inside ranges narrow enough that sustained departure is itself a diagnosis. Most of what a clinician measures is not a body part but the output of one of these loops.",
+      "The refinement worth knowing is allostasis, developed by Peter Sterling and Joseph Eyer and taken up by Bruce McEwen. Set points are not fixed; the body predicts demand and shifts targets in advance, which is why blood pressure rises before you stand rather than after. The cost of running loops at chronically elevated settings — sustained cortisol, sustained sympathetic tone — is what McEwen called allostatic load. It is a genuinely useful frame and also a loose one, frequently invoked with more confidence than the measurement supports."
+     ]
+    },
+    {
+     "h": "Reserve, and how organs fail",
+     "p": [
+      "Organs are built with enormous spare capacity, and this single fact explains the clinical shape of most chronic disease. You have around a million nephrons per kidney and can lose most of them before creatinine moves; chronic kidney disease is typically asymptomatic until function is severely reduced. The liver regenerates and can lose the majority of its mass; cirrhosis is not tissue loss but the replacement of architecture with scar, and it stays compensated until it abruptly does not. Lung function declines along the Fletcher-Peto curve for decades before breathlessness registers.",
+      "Atherosclerosis illustrates a related misconception. Plaques accumulate over decades as retained LDL particles in the arterial wall provoke a chronic inflammatory response. Most heart attacks are not caused by the tightest narrowing gradually closing off; they are caused by the rupture of a plaque that was not severely obstructing, followed by thrombosis. This is why stenting a stable lesion relieves angina but does not reliably prevent infarction, a result the ORBITA and ISCHEMIA trials made hard to ignore."
+     ]
+    },
+    {
+     "h": "What chronic disease means",
+     "p": [
+      "The category is defined administratively — long duration, gradual progression, managed rather than cured — and that definition conceals the interesting content. Most chronic disease is a formerly adaptive response that has become the pathology: inflammation that does not resolve, fibrosis that does not stop, insulin resistance that began as a sensible reallocation of fuel. Abdel Omran's epidemiologic transition describes the population-level shift, as infectious mortality fell and the degenerative diseases that require decades to develop became the dominant cause of death.",
+      "The practical consequence is multimorbidity, and it breaks the way medicine is organised. Barnett's 2012 analysis of 1.75 million Scottish patients found that more people with multiple conditions were under 65 than over it, and that onset came ten to fifteen years earlier in the most deprived areas. Guidelines are written one disease at a time; a patient with six conditions accumulates six sets of recommendations that interact, contradict, and produce a medication burden nobody designed."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Homeostasis",
+     "def": "Maintenance of internal variables within narrow ranges through negative feedback loops that correct sensed deviations."
+    },
+    {
+     "term": "Allostasis",
+     "def": "Sterling and Eyer's revision: the body predicts demand and moves its set points in advance rather than defending fixed ones."
+    },
+    {
+     "term": "Allostatic load",
+     "def": "The cumulative physiological cost of running regulatory systems at chronically elevated settings."
+    },
+    {
+     "term": "Physiological reserve",
+     "def": "Spare organ capacity above what daily function requires; the reason most chronic disease is silent for years."
+    },
+    {
+     "term": "Epidemiologic transition",
+     "def": "Omran's account of populations shifting from infectious and famine mortality to degenerative and chronic disease as they develop."
+    },
+    {
+     "term": "Multimorbidity",
+     "def": "The coexistence of two or more chronic conditions in one person; the normal case in older patients and the one guidelines handle worst."
+    },
+    {
+     "term": "Frailty",
+     "def": "A state of reduced reserve across multiple systems, so that a minor insult produces a disproportionate loss of function."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Claude Bernard (1813–1878)",
+     "note": "Established experimental physiology and the milieu intérieur — the idea that the internal environment is actively defended, not merely inherited."
+    },
+    {
+     "name": "Walter Cannon (1871–1945)",
+     "note": "Coined homeostasis and the fight-or-flight response; The Wisdom of the Body made feedback regulation the organising idea of physiology."
+    },
+    {
+     "name": "Bruce McEwen (1938–2020)",
+     "note": "Showed that chronic stress physically remodels the hippocampus, and gave allostatic load its quantitative programme."
+    },
+    {
+     "name": "Abdel Omran (1925–1999)",
+     "note": "The 1971 epidemiologic transition paper, which predicted the shape of mortality in developing countries with unusual accuracy."
+    }
+   ],
+   "debate": {
+    "title": "Should medicine be organised around diseases or around patients?",
+    "sides": [
+     {
+      "label": "Disease-specific",
+      "text": "Specialisation is why outcomes improved. Cardiology, oncology and nephrology each accumulated deep mechanistic knowledge and trial evidence that a generalist cannot hold, and diluting that structure trades measurable gains for a vague holism."
+     },
+     {
+      "label": "Patient-centred",
+      "text": "The single-disease model was built for a population that no longer exists. Most older patients have several interacting conditions, guidelines derived from trials that excluded them, and a treatment burden that itself causes harm; what they need is a clinician optimising across conditions, not six optimising within one."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Wisdom of the Body",
+     "who": "Walter Cannon — 1932, and still the best statement of the regulatory view."
+    },
+    {
+     "title": "Being Mortal",
+     "who": "Atul Gawande — on reserve, frailty and what medicine does when it cannot restore function."
+    },
+    {
+     "title": "Epidemiology and prevention of cardiovascular disease reviews",
+     "who": "Any current textbook chapter on atherogenesis — the mechanism repays being learned once properly."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is chronic kidney disease usually found by accident?",
+     "a": "Because nephron reserve is vast. Serum creatinine barely moves until a large fraction of filtering capacity is gone, so the disease is typically detected on a blood test done for another reason rather than because of symptoms."
+    },
+    {
+     "q": "Why does opening a narrowed coronary artery not reliably prevent heart attacks?",
+     "a": "Most infarctions follow the rupture of a plaque that was not the most obstructive one, so treating the tightest lesion leaves the responsible biology untouched. Stenting relieves angina; risk reduction comes mainly from treating the disease across the whole arterial tree."
+    }
+   ]
+  },
+  {
+   "id": "hea-3",
+   "title": "Immunity and Infectious Disease",
+   "oneLine": "How two immune systems interlock, what vaccines can and cannot promise, and the arithmetic behind an epidemic.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Two systems, one handshake",
+     "p": [
+      "Innate immunity is fast, ancient and non-specific: physical barriers, complement, phagocytes, and receptors that recognise molecular patterns common to whole classes of pathogen. Charles Janeway's 1989 pattern-recognition hypothesis is the conceptual hinge — he argued the innate system must first decide that something is foreign and dangerous before the adaptive system can be licensed to respond. Toll-like receptors, identified in the following decade, turned out to be exactly the machinery he had postulated, and the work took a share of the 2011 Nobel.",
+      "Adaptive immunity is slow, specific and remembers. Macfarlane Burnet's clonal selection theory explains how: lymphocytes each carry one randomly generated receptor, the ones that happen to bind an antigen are selected and expanded, and self-reactive clones are deleted during development. Susumu Tonegawa later showed the receptor diversity is produced by physically recutting and rejoining gene segments, which is why a finite genome can encode a practically unlimited repertoire. Memory B and T cells are the residue of past selections, and they are what vaccination is trying to create."
+     ]
+    },
+    {
+     "h": "What vaccines do, and what they do not",
+     "p": [
+      "A vaccine presents antigen without the disease, and the design problem is provoking the innate system enough to license a durable adaptive response — which is what adjuvants are for. Live attenuated vaccines generally produce the strongest and longest immunity; inactivated, subunit, viral-vector and mRNA platforms trade some of that for safety, stability or speed. The immune correlate of protection differs by disease, and for many pathogens it is still not precisely known.",
+      "The most consistently misreported point is that protection against severe disease and protection against infection or onward transmission are different endpoints with different durability. Mucosal infection is generally harder to block than systemic disease, and antibody titres wane while memory responses persist. A vaccine that stops you being hospitalised for years while stopping you catching the thing for months is behaving normally, not failing — but public communication in 2021 frequently conflated the two and paid for it in trust."
+     ]
+    },
+    {
+     "h": "Resistance and the arithmetic of spread",
+     "p": [
+      "Antimicrobial resistance is evolution under a selective pressure we apply deliberately. The mechanisms are well characterised — beta-lactamases that cleave the drug, efflux pumps, modified targets — and the alarming part is horizontal gene transfer, which lets resistance move between species on plasmids rather than waiting for descent. The economics are as much the problem as the biology: a new antibiotic that works should be held in reserve and barely sold, which is a poor commercial proposition. On magnitude, be careful: the widely quoted 10 million deaths a year by 2050 comes from the 2016 O'Neill review and is a contested extrapolation, whereas the GRAM study estimated 1.27 million deaths directly attributable to resistance in 2019.",
+      "R0 is the average number of secondary infections one case produces in a fully susceptible, homogeneously mixing population. It is a property of pathogen and setting together, not of the pathogen alone. The herd immunity threshold follows as one minus one over R0 — about 92 to 95 per cent for measles, with an R0 in the teens. Three caveats do most of the work in practice: real populations mix assortatively rather than homogeneously, immunity must be sterilising for the simple formula to hold, and it must persist. Where any of those fails, herd immunity is a direction of travel rather than a finish line."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Pattern recognition receptor",
+     "def": "Innate sensor for conserved microbial molecules; the mechanism by which the body decides something is foreign before adaptive immunity engages."
+    },
+    {
+     "term": "Clonal selection",
+     "def": "Burnet's principle that lymphocytes bear a single randomly generated specificity and are expanded only when their receptor binds antigen."
+    },
+    {
+     "term": "Correlate of protection",
+     "def": "A measurable immune marker that reliably predicts protection; known precisely for relatively few diseases."
+    },
+    {
+     "term": "Sterilising immunity",
+     "def": "Immunity that prevents infection and replication outright, as opposed to preventing illness in someone who still gets infected."
+    },
+    {
+     "term": "Horizontal gene transfer",
+     "def": "Movement of genetic material, including resistance genes, between organisms other than by inheritance — usually on plasmids."
+    },
+    {
+     "term": "Basic reproduction number (R0)",
+     "def": "Expected secondary cases from one infection in a wholly susceptible population; a property of pathogen and social context jointly."
+    },
+    {
+     "term": "Herd immunity threshold",
+     "def": "The immune fraction above which sustained transmission fails, equal to one minus the reciprocal of R0 under idealised mixing."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Edward Jenner (1749–1823)",
+     "note": "Used cowpox to protect against smallpox in 1796 and, unusually for the period, published the case series rather than trading on the secret."
+    },
+    {
+     "name": "Frank Macfarlane Burnet (1899–1985)",
+     "note": "Clonal selection theory explained specificity, memory and self-tolerance with one mechanism; Nobel in 1960 for acquired immunological tolerance."
+    },
+    {
+     "name": "Charles Janeway (1943–2003)",
+     "note": "Argued in 1989 that immunology had ignored how the innate system distinguishes dangerous from merely foreign; died before the Nobel that vindicated him."
+    },
+    {
+     "name": "Kermack and McKendrick (1927)",
+     "note": "Derived the compartmental SIR model and the threshold theorem, which is where the whole modern apparatus of epidemic modelling begins."
+    }
+   ],
+   "debate": {
+    "title": "Is herd immunity a useful policy target?",
+    "sides": [
+     {
+      "label": "It is essential",
+      "text": "It is the reason vaccination is a collective good rather than a private one: it explains why coverage protects infants, the immunosuppressed and the elderly who respond poorly to vaccines themselves. Measles elimination and smallpox eradication were achieved by explicitly targeting thresholds."
+     },
+     {
+      "label": "It misleads for most pathogens",
+      "text": "The clean formula holds only under homogeneous mixing, sterilising immunity and lifelong protection. For a fast-evolving respiratory virus with waning, non-sterilising immunity, promising a threshold sets a target that cannot be met and turns a real gradient of risk reduction into a perceived failure."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Immune",
+     "who": "Philipp Dettmer — accurate, genuinely readable, and the best entry point on mechanism."
+    },
+    {
+     "title": "Infectious Diseases of Humans",
+     "who": "Anderson and May — the standard modelling text; the first chapters repay the effort."
+    },
+    {
+     "title": "The Great Influenza",
+     "who": "John Barry — 1918 as a study in institutions, censorship and public trust under an epidemic."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is measles the hardest disease to hold below the herd immunity threshold?",
+     "a": "Its R0 is in the teens, so the required immune fraction is around 92 to 95 per cent — high enough that ordinary geographic clustering of unvaccinated children creates local pockets below threshold even when national coverage looks adequate."
+    },
+    {
+     "q": "Why might a vaccine prevent hospitalisation for years but infection for months?",
+     "a": "Circulating antibody, which blocks infection at mucosal surfaces, wanes relatively quickly, while memory B and T cell responses persist and can be mobilised within days — fast enough to limit severe disease but not fast enough to prevent an initial infection."
+    }
+   ]
+  },
+  {
+   "id": "hea-4",
+   "title": "Nutrition and Metabolism",
+   "oneLine": "What is genuinely settled about diet, what is genuinely contested, and why this literature is so unreliable.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Energy balance is true and not very useful",
+     "p": [
+      "Thermodynamics is not in dispute: body energy stores change with intake minus expenditure. The problem is that this is an accounting identity rather than a mechanism, and both terms are regulated and mutually dependent. Expenditure falls as mass is lost, by more than the reduction in tissue predicts — Fothergill's follow-up of fourteen Biggest Loser contestants found resting metabolic rate still suppressed six years on, a striking result from a tiny and unrepresentative sample. Herman Pontzer's constrained total energy expenditure model, built partly on Hadza foragers, argues the body compensates for activity by trimming other energy costs; it is influential and far from settled.",
+      "The live theoretical dispute is between the energy balance model and the carbohydrate-insulin model advanced by David Ludwig, which holds that refined carbohydrate drives insulin, insulin drives fat storage, and the resulting fuel shortage drives hunger — making overeating a consequence rather than a cause. Kevin Hall's metabolic ward studies are the sharpest test available: under tightly controlled isocaloric conditions, cutting fat produced at least as much body fat loss as cutting carbohydrate, and a ketogenic diet produced no meaningful metabolic advantage. Ludwig's reply is that these studies are too short to capture the adaptation the model predicts."
+     ]
+    },
+    {
+     "h": "Settled, contested, and quietly abandoned",
+     "p": [
+      "Genuinely established: the deficiency diseases and their remedies; folate supplementation before and during early pregnancy substantially reduces neural tube defects; industrial trans fats raise cardiovascular risk, which is why Denmark banned them in 2003 and most of the world followed; higher sodium intake raises blood pressure, though the shape of the curve at low intakes remains argued over. Replacing saturated fat with polyunsaturated fat lowers LDL and probably lowers cardiovascular events; replacing it with refined carbohydrate does not. That replacement framing resolves much of the apparent contradiction between studies.",
+      "Quietly abandoned: dietary cholesterol as a major driver of blood cholesterol for most people, and the alcohol J-curve. The apparent protection of moderate drinking now looks largely like abstainer bias — the non-drinking reference group contained former drinkers and the unwell. Mendelian randomisation studies using alcohol-metabolism gene variants, and meta-analyses using occasional drinkers as the reference, find the protective signal mostly disappears. Actively contested: saturated fat's independent effect, red meat, the optimal macronutrient split, and almost everything about timing."
+     ]
+    },
+    {
+     "h": "Ultra-processed food, and why the field is noisy",
+     "p": [
+      "The NOVA classification, developed by Carlos Monteiro, groups foods by degree of industrial processing rather than nutrient content, and the association between the top group and adverse outcomes is consistent across large cohorts. The strongest causal evidence is Hall's 2019 inpatient trial: twenty adults, two weeks per arm, diets matched for macronutrients and offered ad libitum, on which participants ate around 500 kcal a day more on the ultra-processed diet and gained weight. It is a well-designed study and it is twenty people for four weeks. The mechanism is unresolved — energy density, eating rate, texture and hyper-palatability are all candidates, and NOVA itself is criticised for lumping together foods with little in common.",
+      "Why the literature is so weak is worth stating plainly. Intake is measured by self-report, which under-reports by twenty to thirty per cent and does so differentially by body weight. Diet correlates with income, education, smoking and exercise, so residual confounding is guaranteed. You cannot add a food without displacing another, so every finding is implicitly a substitution. Latency runs to decades, adherence in trials decays, and the number of possible food-outcome comparisons is enormous — Ioannidis and Schoenfeld picked fifty ingredients from random cookbook recipes and found most had published cancer associations, in both directions."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Energy balance model",
+     "def": "The mainstream view that adiposity tracks cumulative intake minus expenditure, with appetite regulation as the interesting variable."
+    },
+    {
+     "term": "Carbohydrate-insulin model",
+     "def": "The rival claim that refined carbohydrate raises insulin, which partitions fuel into fat and drives hunger, making overeating a consequence of the diet."
+    },
+    {
+     "term": "Adaptive thermogenesis",
+     "def": "The fall in energy expenditure after weight loss beyond what the loss of tissue alone predicts."
+    },
+    {
+     "term": "NOVA classification",
+     "def": "Monteiro's grouping of foods by extent of industrial processing rather than nutrient profile; useful, and criticised as imprecise."
+    },
+    {
+     "term": "Substitution effect",
+     "def": "The fact that any dietary change replaces one food with another, so no nutrient can be studied in isolation from what it displaces."
+    },
+    {
+     "term": "Measurement error in self-report",
+     "def": "Systematic under-reporting of intake in food frequency questionnaires and diaries, biased by body weight and social desirability."
+    },
+    {
+     "term": "Mendelian randomisation",
+     "def": "Using inherited genetic variants as a natural randomisation to test whether an exposure causes an outcome."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Ancel Keys (1904–2004)",
+     "note": "Ran the Minnesota starvation experiment and the Seven Countries Study; both the founder of diet-heart epidemiology and the most inaccurately caricatured figure in it."
+    },
+    {
+     "name": "Carlos Monteiro",
+     "note": "Devised NOVA and moved the field's attention from nutrients to the industrial processing of food."
+    },
+    {
+     "name": "Kevin Hall",
+     "note": "Runs the metabolic ward studies that repeatedly convert nutritional argument into a testable question — and has published results uncongenial to every camp, his own included."
+    },
+    {
+     "name": "Herman Pontzer",
+     "note": "Doubly labelled water measurements in Hadza foragers, which produced the constrained total energy expenditure hypothesis."
+    }
+   ],
+   "debate": {
+    "title": "Is ultra-processing itself harmful, or a marker for something else?",
+    "sides": [
+     {
+      "label": "The processing matters",
+      "text": "Hall's controlled feeding trial matched macronutrients and still produced a 500 kcal daily difference, which nutrient composition cannot explain. Softer textures and higher energy density plausibly bypass satiety signalling, and food-matrix effects on absorption are measurable."
+     },
+     {
+      "label": "It is a proxy",
+      "text": "NOVA groups protein shakes with confectionery and wholemeal bread with crisps, which is a poor basis for a causal category. The cohort associations track a whole way of living — income, cooking time, smoking, activity — and one 20-person crossover study cannot carry a global policy claim."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Hungry Brain",
+     "who": "Stephan Guyenet — appetite regulation as neuroscience rather than willpower."
+    },
+    {
+     "title": "Burn",
+     "who": "Herman Pontzer — the constrained expenditure case, argued by its author."
+    },
+    {
+     "title": "Unsavory Truth",
+     "who": "Marion Nestle — how industry funding shapes which nutrition questions get asked."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does the saturated fat literature look contradictory?",
+     "a": "Because studies differ in what the fat is replaced with. Substituting polyunsaturated fat lowers cardiovascular events; substituting refined carbohydrate does not. A study that ignores the replacement nutrient is asking an incomplete question and will get an unstable answer."
+    },
+    {
+     "q": "What made the alcohol J-curve collapse?",
+     "a": "The non-drinking comparison group contained people who had stopped drinking because they were ill, which made abstainers look unhealthy. Using occasional drinkers as the reference, and using genetic variants in alcohol metabolism as a natural experiment, largely removes the apparent benefit."
+    }
+   ]
+  },
+  {
+   "id": "hea-5",
+   "title": "Exercise, Sleep and Recovery",
+   "oneLine": "The shape of the dose-response curves, and what fitness and sleep data can and cannot establish.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The dose-response curve is not linear",
+     "p": [
+      "Physical activity epidemiology began with Jeremy Morris noticing in 1953 that London bus conductors, who climbed the stairs of double-deckers all day, had fewer coronary events than the drivers who sat. Seventy years of cohort data have established the shape of the relationship rather than merely its existence: it is steeply curved, with the largest mortality gain coming from moving out of the least active group. The step from doing nothing to doing something modest is worth far more per unit than anything above it. Current WHO guidance of 150 to 300 minutes of moderate activity a week sits well past the steepest part of the curve.",
+      "Two popular numbers deserve correcting. Ten thousand steps was a 1965 Japanese pedometer marketing figure, not a finding; the meta-analytic evidence, notably Paluch's 2022 pooled analysis, shows mortality benefit accruing steeply to around 6,000 to 8,000 steps a day in older adults with a plateau thereafter. And cardiorespiratory fitness, not self-reported activity, is the variable most strongly associated with mortality — Mandsager's cohort of over 120,000 treadmill tests found no observed upper limit of benefit. Fitness is partly heritable and partly a marker of not being ill, so how much of that association is causal remains genuinely open."
+     ]
+    },
+    {
+     "h": "Sleep architecture and what deprivation does",
+     "p": [
+      "Sleep is not a uniform state. It cycles roughly every 90 minutes through non-REM stages and REM, which Aserinsky and Kleitman identified in 1953; slow-wave sleep is concentrated in the first half of the night and REM in the second, so truncating sleep does not remove a proportional slice of each. Borbély's two-process model remains the working framework: homeostatic pressure builds with time awake, tracked by adenosine accumulation, while a circadian process driven by the suprachiasmatic nucleus and entrained by light sets when that pressure can be discharged.",
+      "The most useful experimental finding is Van Dongen's 2003 restriction study. Participants held at six or four hours in bed showed cumulative, near-linear deterioration in vigilance across two weeks, while their <em>subjective</em> sleepiness plateaued after a few days. People adapt to feeling impaired long before they stop being impaired. Be calibrated about the wider claims: the epidemiological association between short sleep and mortality is real but U-shaped, and the long-sleep arm is heavily contaminated by reverse causation. The glymphatic clearance mechanism popularised after Xie's 2013 mouse work is appealing but was directly challenged by a 2024 study reporting reduced clearance during sleep, and remains unsettled."
+     ]
+    },
+    {
+     "h": "Adaptation and recovery",
+     "p": [
+      "Training works by damage and repair, not by use. Endurance work drives mitochondrial biogenesis, capillary growth and increased stroke volume; resistance work drives neural adaptation first and hypertrophy later. The adaptation happens during recovery, which is why the training stimulus and the training load are different things and why progressive overload without adequate recovery produces functional overreaching and eventually non-functional overtraining — a state defined by underperformance that rest does not quickly resolve.",
+      "Two corrections. Delayed onset muscle soreness is not caused by lactate, which clears within an hour or so; it follows mechanical damage from eccentric contractions and inflammatory repair. And the mortality evidence for resistance training is thinner than for aerobic exercise, though it is consistent and points to independent benefit, with the clearest mechanistic case in preserving muscle mass and bone density with age. Where the evidence is weakest is in the details the fitness industry is most confident about: optimal frequency, timing, and the marginal value of any particular protocol."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Cardiorespiratory fitness",
+     "def": "Maximal oxygen uptake, usually measured on a treadmill; the single physiological variable most strongly associated with all-cause mortality."
+    },
+    {
+     "term": "Dose-response curvature",
+     "def": "The finding that health returns to activity are steepest at the low end, so the first increment of movement is worth the most."
+    },
+    {
+     "term": "Two-process model",
+     "def": "Borbély's account of sleep regulation as a homeostatic pressure term interacting with an independent circadian term."
+    },
+    {
+     "term": "Slow-wave sleep",
+     "def": "The deepest non-REM stage, concentrated early in the night and associated with growth hormone release and memory consolidation."
+    },
+    {
+     "term": "Reverse causation",
+     "def": "The possibility that poor health causes the exposure rather than the other way round — the standing threat to sleep and activity epidemiology."
+    },
+    {
+     "term": "Functional overreaching",
+     "def": "Short-term performance decline from heavy training that resolves with rest and yields adaptation; becomes overtraining when it does not."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Jeremy Morris (1910–2009)",
+     "note": "The 1953 London bus study founded physical activity epidemiology by finding a natural experiment inside a transport network."
+    },
+    {
+     "name": "Ralph Paffenbarger (1922–2007)",
+     "note": "The Harvard alumni cohort quantified the dose-response relationship between activity and longevity, and he ran marathons into his seventies while doing it."
+    },
+    {
+     "name": "Nathaniel Kleitman (1895–1983)",
+     "note": "With Aserinsky, discovered REM sleep in 1953; spent a month in Mammoth Cave testing whether the sleep cycle was endogenous."
+    },
+    {
+     "name": "Alexander Borbély",
+     "note": "The two-process model, which is still how sleep timing and pressure are taught and modelled forty years on."
+    }
+   ],
+   "debate": {
+    "title": "Is high cardiorespiratory fitness causally protective, or mostly a marker?",
+    "sides": [
+     {
+      "label": "Largely causal",
+      "text": "The dose-response is graded, consistent across cohorts and countries, and supported by mechanism — mitochondrial density, endothelial function, insulin sensitivity and cardiac output all improve with training and all sit on plausible causal paths to cardiovascular outcomes."
+     },
+     {
+      "label": "Substantially a marker",
+      "text": "Maximal fitness is around half heritable and is depressed by subclinical disease years before diagnosis, so the fittest group is partly a group that is not yet ill. Randomised trials can raise fitness, but none has been large or long enough to demonstrate the mortality reduction the cohorts imply."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Exercised",
+     "who": "Daniel Lieberman — evolutionary framing, and unusually careful about what the evidence supports."
+    },
+    {
+     "title": "Internal Time",
+     "who": "Till Roenneberg — chronotypes, social jetlag and the circadian half of the picture."
+    },
+    {
+     "title": "Why We Sleep",
+     "who": "Matthew Walker — influential and worth reading alongside the published critiques of its accuracy."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the first hour of weekly exercise worth more than the tenth?",
+     "a": "The mortality curve is steeply concave. Most of the association is captured moving from the least active group to a modest amount of regular activity; beyond roughly the WHO guideline range, additional volume shows diminishing and less certain returns."
+    },
+    {
+     "q": "Why do people underestimate their own sleep deprivation?",
+     "a": "Van Dongen's restriction study found that objective vigilance kept degrading across two weeks while subjective sleepiness levelled off after a few days. Self-assessment recalibrates to the new normal, so how impaired you feel stops tracking how impaired you are."
+    }
+   ]
+  },
+  {
+   "id": "hea-6",
+   "title": "Ageing and Longevity",
+   "oneLine": "The biology of getting old, the healthspan question, and where the longevity industry outruns its evidence.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Why organisms age at all",
+     "p": [
+      "Evolution has no interest in you after reproduction, and that fact generates the standard theories. Medawar pointed out that the force of natural selection declines with age, so late-acting deleterious mutations accumulate unopposed. George Williams added antagonistic pleiotropy: a gene that improves early-life fitness will be selected even if it damages you later. Tom Kirkwood's disposable soma theory frames it as energy allocation — resources spent on somatic repair are resources not spent on reproduction, and the optimum is never immortality. Ageing is thus not a programme but a shortfall of maintenance.",
+      "Empirically, mortality follows Gompertz's 1825 observation that the risk of death roughly doubles every eight years in adulthood. Whether it plateaus at extreme ages is contested: Barbi's 2018 analysis of Italian supercentenarians reported a levelling, and Saul Newman has argued that apparent plateaus and longevity hotspots alike are largely artefacts of age misreporting, missing birth records and pension fraud. That critique applies directly to the Blue Zones literature, which is far more popular than its data quality warrants."
+     ]
+    },
+    {
+     "h": "The hallmarks, and what they are for",
+     "p": [
+      "López-Otín and colleagues published the hallmarks of ageing in 2013 and expanded them to twelve in 2023: genomic instability, telomere attrition, epigenetic alteration, loss of proteostasis, disabled autophagy, deregulated nutrient sensing, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, chronic inflammation and dysbiosis. The framework organised a scattered field and is the standard reference. Its limitation is that it is a list rather than a causal hierarchy — it does not say which hallmarks drive which, and several are plainly downstream of others.",
+      "Cellular senescence is the most tractable of them. Damaged cells stop dividing but do not die, and secrete an inflammatory signature that degrades surrounding tissue. Clearing senescent cells extends healthy lifespan in mice, which is the basis of the senolytics field. Human trials exist but are small and early-phase, and enthusiasm currently exceeds evidence by a wide margin. Epigenetic clocks, beginning with Horvath's in 2013, predict chronological age well from methylation patterns, but their status as surrogate endpoints for intervention trials is unvalidated and consumer versions have poor test-retest reliability."
+     ]
+    },
+    {
+     "h": "Healthspan, and what actually has evidence",
+     "p": [
+      "James Fries proposed in 1980 that medicine would compress morbidity into a short period before death. The data have not clearly borne that out: in many countries years lived with disability have expanded alongside life expectancy, which is why healthspan rather than lifespan has become the stated target. It is also a much harder outcome to measure, and the ambiguity is convenient for anyone selling an intervention.",
+      "On interventions, the honest summary is uncomfortable for the sector. Caloric restriction extends lifespan robustly in rodents; the two long-running primate studies, at Wisconsin and the NIA, reached different conclusions, and the human CALERIE trial could only show improved cardiometabolic markers over two years. Rapamycin produces the most consistent lifespan extension in the NIA Interventions Testing Program mice, but has no human longevity data and real immunosuppressive risk. Metformin's proposed TAME trial has struggled for years to be funded. Resveratrol's sirtuin story has largely deflated. Meanwhile the interventions with strong evidence are the unglamorous ones — not smoking, not being sedentary, controlling blood pressure and LDL, avoiding heavy drinking, sleeping adequately, and maintaining social connection."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Antagonistic pleiotropy",
+     "def": "Williams's principle that genes benefiting early-life fitness can be selected even when they cause late-life harm."
+    },
+    {
+     "term": "Disposable soma",
+     "def": "Kirkwood's account of ageing as an optimal under-investment in somatic maintenance relative to reproduction."
+    },
+    {
+     "term": "Gompertz law",
+     "def": "The empirical regularity that adult mortality risk rises roughly exponentially, doubling about every eight years."
+    },
+    {
+     "term": "Cellular senescence",
+     "def": "A permanent growth arrest in damaged cells that persist and secrete inflammatory factors degrading neighbouring tissue."
+    },
+    {
+     "term": "Hallmarks of ageing",
+     "def": "López-Otín's twelve-item framework organising the cellular processes implicated in ageing; a taxonomy, not a causal model."
+    },
+    {
+     "term": "Epigenetic clock",
+     "def": "An age predictor built from DNA methylation patterns; accurate for chronological age, unproven as a trial endpoint."
+    },
+    {
+     "term": "Compression of morbidity",
+     "def": "Fries's hypothesis that disability would be squeezed into a shorter interval before death; only partly supported by the data."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Peter Medawar (1915–1987)",
+     "note": "An Unsolved Problem of Biology (1952) — ageing exists because selection pressure fades with age, not because it serves any purpose."
+    },
+    {
+     "name": "George Williams (1926–2010)",
+     "note": "Antagonistic pleiotropy, proposed in 1957, which remains the most testable evolutionary theory of senescence."
+    },
+    {
+     "name": "Tom Kirkwood",
+     "note": "The disposable soma theory reframed ageing as a resource allocation problem rather than a design flaw."
+    },
+    {
+     "name": "Cynthia Kenyon",
+     "note": "Showed in 1993 that a single daf-2 mutation doubles the lifespan of C. elegans, which established that ageing rate is genetically malleable."
+    }
+   ],
+   "debate": {
+    "title": "Should ageing be treated as a disease to be targeted directly?",
+    "sides": [
+     {
+      "label": "Geroscience is right",
+      "text": "Ageing is the dominant risk factor for cancer, dementia, cardiovascular and metabolic disease, so treating each downstream condition separately is inefficient. If a single intervention slowed the underlying process it would postpone all of them at once — and rodent work shows the process is modifiable in principle."
+     },
+     {
+      "label": "It is premature and distorting",
+      "text": "No intervention has been shown to extend healthy human life, the surrogate endpoints are unvalidated, and calling ageing a disease creates a huge market for products with no outcome data. The measurable gains available now come from cardiovascular risk, smoking and deprivation, and attention spent on speculative geroprotectors is attention taken from them."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Hallmarks of Aging (2013 and 2023)",
+     "who": "López-Otín et al. — read the framework in the original rather than in summary."
+    },
+    {
+     "title": "Why We Die",
+     "who": "Venki Ramakrishnan — a Nobel biologist assessing the longevity field's claims sceptically."
+    },
+    {
+     "title": "Time of Our Lives",
+     "who": "Tom Kirkwood — the evolutionary case, written for general readers."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does evolution permit ageing?",
+     "a": "The force of selection declines with age because fewer individuals survive to be affected by late-acting genes. Mutations that harm only the old are barely selected against, and genes that help early can be favoured even when they harm later — antagonistic pleiotropy."
+    },
+    {
+     "q": "Why is the Blue Zones evidence treated cautiously by demographers?",
+     "a": "Extreme-age claims depend on birth records, and regions with poor record-keeping or pension incentives systematically over-report ages. When registration quality is controlled for, much of the apparent longevity clustering weakens, which is Saul Newman's central argument."
+    }
+   ]
+  },
+  {
+   "id": "hea-7",
+   "title": "Health Systems",
+   "oneLine": "How Beveridge, Bismarck and the American hybrid differ, what drives cost, and how each rations.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Three models and one hybrid",
+     "p": [
+      "Beveridge systems are funded from general taxation and largely provide care through public institutions — the NHS, and broadly Spain, Italy and the Nordics. Bismarck systems, older by sixty years, run on mandatory social insurance: employers and employees contribute to non-profit sickness funds which purchase care from mostly private providers. Germany, France and Japan are the standard examples, and the Netherlands runs a regulated-competition variant after its 2006 reform. A third family, national health insurance, uses single-payer financing with private delivery, as in Canada and Taiwan.",
+      "The United States is not a model so much as four systems bolted together: Medicare for the over-65s, Medicaid for the low-income, employer-sponsored insurance for most working-age adults, and the Veterans Health Administration, which is a genuine socialised system. Employer-sponsored cover is a historical accident — a workaround for wartime wage controls that was then locked in by tax treatment. The result is that around 8 per cent of the population remains uninsured and coverage is tied to employment, which is why job loss and medical crisis compound each other there in a way they do not elsewhere."
+     ]
+    },
+    {
+     "h": "Why costs differ",
+     "p": [
+      "The US spends around 17 per cent of GDP on health against 10 to 12 per cent in comparable countries. The finding that has held up since Gerard Anderson's 2003 paper is that utilisation is not unusually high: Americans do not see doctors more often or spend longer in hospital. What differs is prices — for procedures, devices, drugs and clinician salaries — together with administrative overhead that runs several times higher than in single-payer systems, because every claim is negotiated between many payers and many providers.",
+      "Underneath national differences, the shared driver of long-run growth is technology rather than ageing. Joseph Newhouse's analysis attributed most cost growth to new capabilities that expand what can be treated, and demography explains a surprisingly modest share. Baumol's cost disease adds the rest: health care is labour-intensive and resists productivity gains, so its relative price rises as productivity grows elsewhere. Payment design then shapes behaviour at the margin — fee-for-service rewards volume, capitation rewards under-provision, and diagnosis-related group payment rewards coding intensity."
+     ]
+    },
+    {
+     "h": "Rationing, and what outcomes data shows",
+     "p": [
+      "Every system rations, because demand at zero price exceeds supply everywhere. The systems differ only in the mechanism and its visibility. The NHS rations by waiting time and by explicit cost-effectiveness assessment: NICE has used a threshold in the region of 20,000 to 30,000 pounds per quality-adjusted life year since 2004, never uprated for inflation. The US rations by insurance status, network design and price, and federal law bars Medicare from using cost-per-QALY thresholds — which does not abolish rationing, only removes the published criterion.",
+      "On outcomes, be careful with the metrics. Life expectancy is weakly related to health spending above a modest threshold, because most of the variance is social; amenable mortality, the deaths avoidable with timely care, is the better comparator. The Commonwealth Fund's cross-country rankings consistently place the US last overall despite the highest spending, and place the UK highly on equity and administrative efficiency while ranking it poorly on health outcomes — a pattern reflecting low capital investment, few beds and scanners per head, and cancer survival that lags comparable countries. The two great natural experiments on coverage, the RAND Health Insurance Experiment and the Oregon Medicaid lottery, both found that cost-sharing reduces valuable and wasteful care alike, and that expanding coverage reliably improves financial security and mental health while showing weaker short-run effects on measured physical markers."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Beveridge model",
+     "def": "Health care funded from general taxation and delivered largely by public providers, as in the NHS."
+    },
+    {
+     "term": "Bismarck model",
+     "def": "Mandatory social insurance through non-profit sickness funds purchasing from mostly private providers, as in Germany and France."
+    },
+    {
+     "term": "Amenable mortality",
+     "def": "Deaths from causes that should not occur given timely, effective care; a better cross-country measure than life expectancy."
+    },
+    {
+     "term": "Quality-adjusted life year",
+     "def": "A year of life weighted by health state, used to compare interventions on a common scale of benefit per pound."
+    },
+    {
+     "term": "Moral hazard",
+     "def": "Increased consumption of care because insurance shields the user from its price; real, and often overstated relative to under-use."
+    },
+    {
+     "term": "Inverse care law",
+     "def": "Tudor Hart's observation that the availability of good medical care varies inversely with the need of the population served."
+    },
+    {
+     "term": "Baumol's cost disease",
+     "def": "The rising relative cost of labour-intensive services whose productivity cannot grow as fast as the wider economy's."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Otto von Bismarck (1815–1898)",
+     "note": "Introduced compulsory sickness insurance in 1883, explicitly to draw working-class support away from the socialists."
+    },
+    {
+     "name": "William Beveridge (1879–1963)",
+     "note": "The 1942 report identified disease as one of the five giants and set the design brief for a tax-funded service free at the point of use."
+    },
+    {
+     "name": "Kenneth Arrow (1921–2017)",
+     "note": "The 1963 paper on uncertainty in medical care founded health economics by explaining why medicine cannot behave like a normal market."
+    },
+    {
+     "name": "Julian Tudor Hart (1927–2018)",
+     "note": "A Welsh GP who formulated the inverse care law in 1971 and ran a practice that recorded blood pressure on every adult in his village."
+    }
+   ],
+   "debate": {
+    "title": "Is single-payer or multi-payer social insurance the better design?",
+    "sides": [
+     {
+      "label": "Single payer",
+      "text": "One purchaser has monopsony power over prices, minimal administrative duplication, and a single accountable line to government. The NHS delivers universal coverage on around 10 per cent of GDP with the lowest financial barriers in the OECD, which no multi-payer system matches on cost per head."
+     },
+     {
+      "label": "Social insurance",
+      "text": "Germany, France and the Netherlands achieve universal coverage with shorter waits, more capacity and higher patient satisfaction, because funding is hypothecated and less exposed to Treasury cycles. Competing funds give patients real exit, and a single payer's cost control is often just deferred capital investment."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Healing of America",
+     "who": "T. R. Reid — a plain comparative tour of the main models."
+    },
+    {
+     "title": "Uncertainty and the Welfare Economics of Medical Care",
+     "who": "Kenneth Arrow — the founding paper, and still the clearest account of why markets misfire here."
+    },
+    {
+     "title": "Mirror, Mirror",
+     "who": "The Commonwealth Fund's recurring comparison — read the methodology as well as the ranking."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does the US spend so much more without using more care?",
+     "a": "Because prices and administrative costs, not volume, drive the difference. Fragmented payers negotiate separately with fragmented providers, which raises both the prices agreed and the overhead of agreeing them, while utilisation of doctors and hospital beds is unremarkable by rich-country standards."
+    },
+    {
+     "q": "What does it mean to say every health system rations?",
+     "a": "Demand at zero marginal price exceeds any supply, so allocation happens by some mechanism. The choice is between explicit criteria such as cost per QALY, implicit ones such as waiting time, and price-based ones such as insurance status — not between rationing and its absence."
+    }
+   ]
+  },
+  {
+   "id": "hea-8",
+   "title": "Reading Health Claims",
+   "oneLine": "Overdiagnosis, supplements, placebo and regression to the mean — the four things that make anecdote unreliable.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Screening and overdiagnosis",
+     "p": [
+      "A screening test with excellent sensitivity and specificity still produces mostly false positives when the disease is rare, because predictive value depends on prevalence. The deeper problem is overdiagnosis: finding real disease, correctly, that would never have caused symptoms or death. South Korea offers the clearest natural experiment — after ultrasound screening spread in the 1990s, thyroid cancer incidence rose roughly fifteen-fold while mortality from it stayed flat. Japan's neuroblastoma screening programme was abandoned in 2004 for the same reason: many more cases, no fewer deaths.",
+      "This is why five-year survival is the wrong metric for judging a screening programme. Gilbert Welch's standing example is prostate cancer, whose five-year survival in the US rose from around two-thirds to nearly 100 per cent with no corresponding fall in mortality — because earlier detection starts the clock sooner, which is lead-time bias, and because slow-growing cancers are more likely to be caught by screening at all, which is length-time bias. The UK's independent Marmot review of breast screening estimated that for every breast cancer death prevented, about three women are overdiagnosed and treated. Reasonable people read that ratio differently; nobody informed disputes that the trade-off exists."
+     ]
+    },
+    {
+     "h": "Supplements and alternative medicine",
+     "p": [
+      "Supplementation works reliably where there is a deficiency to correct — folate before conception substantially reduces neural tube defects, B12 in deficiency, vitamin D for bone health in the deficient. Beyond deficiency the randomised record is close to uniformly null or harmful. Beta-carotene increased lung cancer in smokers in two large trials; vitamin E increased prostate cancer incidence in SELECT; the large VITAL trial found vitamin D did not reduce cancer or cardiovascular events in a generally replete population. US supplements need no pre-market proof of efficacy under the 1994 DSHEA act, which is why the market is large and the evidence base is not.",
+      "Alternative medicine divides usefully. Homeopathy has no plausible mechanism, since typical dilutions leave no molecules of the original substance, and systematic reviews — the Australian NHMRC in 2015, the House of Commons Science and Technology Committee in 2010 — find no effects beyond placebo. Acupuncture is the more interesting case: the large German GERAC trials found real acupuncture beat conventional care for chronic back pain but did not reliably beat sham needling. That pattern is the signature of a powerful ritual rather than a specific physiological effect, and the distinction between does not work and works no better than an elaborate placebo is worth holding precisely."
+     ]
+    },
+    {
+     "h": "Placebo, natural history and regression to the mean",
+     "p": [
+      "Placebo effects are real but narrower than folklore suggests. Hróbjartsson and Gøtzsche's reviews of trials with a no-treatment arm found little clinical effect except modest benefit on continuous subjective outcomes, notably pain. Wechsler's 2011 asthma study is the sharpest illustration: placebo inhaler and sham acupuncture improved patients' reported symptoms as much as albuterol did, while only albuterol improved FEV1. Subjective improvement without objective change is the standard placebo signature, and it means a treatment can make you feel better while the disease proceeds untouched.",
+      "Then add regression to the mean, which Galton described in 1886 and which does more explanatory work in testimonials than anything else. Symptoms fluctuate; people seek treatment at their worst; the next measurement tends towards their average regardless of what was done. Combine that with natural history — most acute conditions resolve — and with recall bias, and you have a machine that manufactures sincere, vivid, entirely mistaken success stories. This is precisely what the control arm of a trial exists to subtract, and why the plural of anecdote is not data but noise.",
+      "A short checklist for headlines: absolute or relative risk, humans or mice, surrogate or real endpoint, a single study or a body of evidence, the paper or the press release, and who funded it."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Overdiagnosis",
+     "def": "Correct detection of a real abnormality that would never have caused symptoms or death in the person's lifetime."
+    },
+    {
+     "term": "Lead-time bias",
+     "def": "Apparent survival gain created purely by starting the clock earlier, without postponing death."
+    },
+    {
+     "term": "Length-time bias",
+     "def": "The tendency of screening to preferentially detect slow-growing, less dangerous disease, flattering the outcomes of screened cohorts."
+    },
+    {
+     "term": "Positive predictive value",
+     "def": "The probability that a positive test reflects real disease; falls sharply as prevalence falls, regardless of test quality."
+    },
+    {
+     "term": "Regression to the mean",
+     "def": "The statistical tendency of an extreme measurement to be followed by a less extreme one, which mimics treatment effect."
+    },
+    {
+     "term": "Nocebo effect",
+     "def": "Adverse symptoms produced by expectation rather than by the treatment; a major driver of reported side effects in trials."
+    },
+    {
+     "term": "Sham control",
+     "def": "A comparator that reproduces the full ritual of a procedure without its active component — the only way to isolate a specific effect."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Francis Galton (1822–1911)",
+     "note": "Described regression towards the mean in 1886 while studying inherited height; the statistical idea outlived his eugenics by a long way."
+    },
+    {
+     "name": "H. Gilbert Welch",
+     "note": "Made overdiagnosis a mainstream clinical concept and showed how five-year survival systematically flatters screening."
+    },
+    {
+     "name": "Asbjørn Hróbjartsson",
+     "note": "His meta-analyses of trials containing a no-treatment arm deflated the received view of placebo as a broadly powerful therapy."
+    },
+    {
+     "name": "Ben Goldacre",
+     "note": "Bad Science and the AllTrials campaign turned the critique of health claims into an organised push for trial transparency."
+    }
+   ],
+   "debate": {
+    "title": "Should population breast screening continue in its current form?",
+    "sides": [
+     {
+      "label": "Continue",
+      "text": "The Marmot review confirmed a real mortality reduction — roughly one death prevented per 235 women invited over twenty years — and treatment for early disease is less aggressive than for late. Withdrawing an effective programme because some diagnoses are unnecessary asks the wrong question."
+     },
+     {
+      "label": "Reform it",
+      "text": "Roughly three women are overdiagnosed and treated for every death prevented, and most invitations are issued without that number being communicated. Risk-stratified invitation and genuinely informed consent would preserve the benefit for those most likely to gain while ending the pretence that screening is unambiguously good for everyone."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Less Medicine, More Health",
+     "who": "H. Gilbert Welch — seven assumptions about medical care, taken apart carefully."
+    },
+    {
+     "title": "Trick or Treatment",
+     "who": "Singh and Ernst — alternative medicine assessed by someone who spent a career researching it."
+    },
+    {
+     "title": "Risk Savvy",
+     "who": "Gerd Gigerenzer — on natural frequencies, and why doctors misread test results too."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is rising five-year survival poor evidence that a screening programme works?",
+     "a": "Detecting disease earlier extends the interval between diagnosis and death without changing the date of death, which inflates survival statistics automatically. Screening also preferentially catches indolent cases. The only sound test is whether mortality from the disease falls in the screened population."
+    },
+    {
+     "q": "Why did acupuncture trials that beat usual care fail to beat sham needling?",
+     "a": "Because the comparison isolates different things. Beating usual care captures the whole package — attention, ritual, expectation, regression to the mean. Beating a sham that reproduces all of that would be needed to show the needling itself does something specific, and large trials generally have not found it."
+    }
+   ]
+  }
+ ]
+}

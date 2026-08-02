@@ -1,0 +1,922 @@
+{
+ "id": "psychology",
+ "name": "Psychology",
+ "tagline": "What the evidence supports about minds, and what it does not",
+ "accent": "#fb7185",
+ "blurb": "Psychology is the attempt to study something that cannot be weighed, using samples that are rarely representative, with instruments the subject can see through. It has produced genuine, durable knowledge and an unusual quantity of confident nonsense, and the interesting skill is telling them apart. This track begins with method, because everything downstream depends on it, then works from perception outwards to the social, the developmental and the clinical.",
+ "modules": [
+  {
+   "id": "psy-1",
+   "title": "What Psychology Can and Cannot Establish",
+   "oneLine": "How psychological claims are actually built, why so many collapsed after 2011, and how to read a finding now.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Measuring things that have no ruler",
+     "p": [
+      "Psychology's central methodological problem is that its objects — anxiety, working memory, extraversion, prejudice — are <em>constructs</em>: theoretical entities inferred from behaviour rather than observed directly. To study one you must operationalise it, which means choosing a proxy: a questionnaire score, a reaction time, a count of button presses. The proxy is never the construct, and the gap between them is where most disputes live. When two labs report opposite findings about self-control, they are frequently measuring two things that share a name.",
+      "Two properties keep this honest. <em>Reliability</em> asks whether the measure gives the same answer twice; <em>validity</em> asks whether it measures what it claims. A measure can be highly reliable and worthless — a bathroom scale is a reliable measure of intelligence, in that it returns consistent numbers. Much of the criticism aimed at psychology is really a validity complaint, and it lands hardest where the construct is doing heavy conceptual work: implicit bias, grit, emotional intelligence."
+     ]
+    },
+    {
+     "h": "WEIRD samples",
+     "p": [
+      "In 2010 Joseph Henrich, Steven Heine and Ara Norenzayan pointed out that roughly 96% of samples in top psychology journals came from Western, educated, industrialised, rich, democratic countries containing about 12% of the world's population — and, within those, disproportionately from undergraduates taking an introductory course for credit. The problem is not merely that this is unrepresentative. It is that on several dimensions where cross-cultural data exist, Western samples are the <em>outliers</em>, not the midpoint.",
+      "The Müller-Lyer illusion is the standard demonstration: the arrow-tail lines that look unequal to a Chicago undergraduate barely fool San foragers of the Kalahari, whose visual environment lacks the carpentered right angles that make the illusion work. If a low-level visual effect is culturally contingent, claims about moral intuition, fairness norms or self-concept built on undergraduate samples deserve more caution than they usually receive."
+     ]
+    },
+    {
+     "h": "The replication crisis, and what survived it",
+     "p": [
+      "In 2015 the Open Science Collaboration attempted direct replications of 100 studies from three leading journals. Ninety-seven of the originals had reported statistically significant results; 36% of replications did. Mean effect size roughly halved. The mechanism was not fraud but the ordinary practices of a field with weak norms: small samples, flexible analysis, optional stopping, unreported outcome measures — what Simmons, Nelson and Simonsohn showed in 2011 could generate a significant result for almost any hypothesis, and what Andrew Gelman calls the garden of forking paths.",
+      "The fixes are structural rather than exhortative. Preregistration fixes the analysis plan before the data arrive. Registered reports commit a journal to publish on the basis of the method, removing the incentive to find something. Adequately powered multi-lab replications settle disputes that single studies cannot. The result is a field with a slower, duller, considerably more trustworthy output — and a large legacy literature of undetermined status, which is the honest position on anything published before about 2012 that has not since been directly retested.",
+      "One asymmetry worth holding onto: failure to replicate is evidence about a specific effect, not a verdict on the discipline. Working memory limits, the Stroop effect, the structure of individual differences, spacing and testing effects in learning, and the basic psychophysics of vision and hearing have all held up under scrutiny that broke flashier findings."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Construct validity",
+     "def": "Whether a measure actually captures the theoretical entity it claims to, rather than something correlated with it."
+    },
+    {
+     "term": "Operationalisation",
+     "def": "The choice of a concrete, measurable proxy for an abstract construct — and the point at which most disagreements originate."
+    },
+    {
+     "term": "Researcher degrees of freedom",
+     "def": "The undisclosed analytic choices that let a determined investigator find significance in almost any dataset."
+    },
+    {
+     "term": "Statistical power",
+     "def": "The probability a study would detect a real effect of a given size; chronically low in pre-2012 psychology, which inflates published effect sizes."
+    },
+    {
+     "term": "Effect size",
+     "def": "The magnitude of a difference or association, independent of sample size; Cohen's d of 0.2, 0.5 and 0.8 are the conventional small, medium and large."
+    },
+    {
+     "term": "Preregistration",
+     "def": "Public specification of hypotheses and analysis plan before data collection, which converts exploratory analysis back into confirmatory testing."
+    },
+    {
+     "term": "WEIRD sample",
+     "def": "A sample drawn from Western, educated, industrialised, rich, democratic populations, which are statistical outliers on many measured dimensions."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Paul Meehl (1920–2003)",
+     "note": "Argued in 1978 that psychology's theories do not die, they slowly fade away, because null-hypothesis testing never forces a real risk of refutation."
+    },
+    {
+     "name": "Jacob Cohen (1923–1998)",
+     "note": "Spent forty years telling psychologists their studies were underpowered and their p-values uninformative; his 1962 power survey was ignored for a generation."
+    },
+    {
+     "name": "Joseph Henrich",
+     "note": "Named the WEIRD problem and showed that even fairness intuitions in economic games vary systematically across small-scale societies."
+    },
+    {
+     "name": "Brian Nosek",
+     "note": "Ran the Reproducibility Project and built the Center for Open Science; turned a methodological complaint into infrastructure."
+    }
+   ],
+   "debate": {
+    "title": "Was the replication crisis a crisis or ordinary self-correction?",
+    "sides": [
+     {
+      "label": "A genuine crisis",
+      "text": "A discipline in which a third of headline findings survive direct retesting was not self-correcting; it was accumulating error for decades and only noticed when outsiders forced the issue. The incentives that produced it — publication bias, novelty premiums, career structures — are largely still in place."
+     },
+     {
+      "label": "Correction working",
+      "text": "Detecting and publicising your own field's errors at scale is precisely what science is supposed to do, and no other social science has done it as systematically. The pre-2011 literature was known to be noisy; what changed was the willingness to quantify it and to redesign the incentives."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Theoretical Risks and Tabular Asterisks (1978)",
+     "who": "Paul Meehl — the diagnosis, written thirty years before the symptoms were widely admitted."
+    },
+    {
+     "title": "The Seven Deadly Sins of Psychology",
+     "who": "Chris Chambers — insider account of the incentive structure, and the case for registered reports."
+    },
+    {
+     "title": "Science Fictions",
+     "who": "Stuart Ritchie — readable, specific, and fair about what survived."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does low statistical power inflate published effect sizes rather than merely producing more null results?",
+     "a": "Because with low power, only unusually large sample estimates clear the significance threshold. If the literature publishes mainly significant findings, the surviving estimates are systematically the overshoots — the winner's curse. This is why a well-powered replication typically finds a smaller effect rather than none at all."
+    },
+    {
+     "q": "What does preregistration actually fix?",
+     "a": "It removes the ability to choose analyses after seeing the data and then present them as though they had been planned. It does not prevent bad theory, poor measures or small samples; it just stops exploratory work from being disguised as confirmatory."
+    }
+   ]
+  },
+  {
+   "id": "psy-2",
+   "title": "Perception, Attention and the Constructed World",
+   "oneLine": "Why experience is a controlled guess about the causes of sensory data, and what the failures of that guess reveal.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Perception as inference",
+     "p": [
+      "The retinal image is radically ambiguous: an infinite family of three-dimensional scenes could have produced it. Hermann von Helmholtz's nineteenth-century answer was that perception involves <em>unconscious inference</em> — the brain settles on the most probable cause of its input given prior experience. The modern version, predictive processing, makes this quantitative. Higher cortical levels continuously generate predictions of the activity at lower levels; only the mismatch, the prediction error, propagates upward. What you experience is closer to the brain's best hypothesis than to the incoming signal.",
+      "This inverts the intuitive picture. Sensory data does not build up a percept; it corrects one. The hollow-mask illusion is the clean demonstration: a concave mould of a face, lit from behind, is seen as convex, because the prior that faces stick out is strong enough to override the stereo depth cues saying otherwise. Notably, people with schizophrenia are markedly <em>less</em> susceptible to it, which is one of the few places where a perceptual quirk maps onto a clinical population in a theoretically motivated way."
+     ]
+    },
+    {
+     "h": "How little you actually take in",
+     "p": [
+      "Daniel Simons and Christopher Chabris asked viewers to count basketball passes; about half failed to notice a person in a gorilla suit walk through the middle of the display, stop, and beat their chest. In Simons and Levin's door study, an experimenter asking directions was swapped for a different person mid-conversation behind a passing door, and roughly half of pedestrians did not notice. These are not attention lapses in a normally complete system. They are what a system built on prediction looks like when the prediction happens to be adequate.",
+      "The consequence is a subjective illusion of richness. Introspection reports a detailed, stable, panoramic visual world; the evidence says you have detail where you are currently attending and a serviceable gist elsewhere, refreshed on demand. Applied honestly, this dismantles several popular ideas at once — that eyewitnesses reliably encode what was in front of them, that mobile phone hands-free kits solve driver distraction, that noticing something is a good test of whether it was visible."
+     ]
+    },
+    {
+     "h": "Illusions as diagnostics, not errors",
+     "p": [
+      "It is a mistake to treat illusions as bugs. Adelson's checker-shadow figure, in which two identically printed squares look obviously different, is the visual system correctly discounting an inferred shadow — the same computation that lets you recognise a white shirt as white indoors and out. The McGurk effect, where a seen mouth movement changes a heard syllable, shows the same principle across senses: the brain is estimating the most likely articulatory cause of both streams at once, not passing sound through unaltered.",
+      "Prediction and evidence are weighted by expected reliability, or precision. Get that weighting wrong and the consequences are clinical rather than curious. On the dominant account, hallucinations reflect priors weighted too strongly against sensory evidence, and there is experimental support: people prone to hallucination are more likely to report hearing a faint tone that was never played, when trained to expect it. The dress, in 2015, was the mass-participation version — an image so underdetermined about its illumination that individual priors about ambient light decided the answer."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Unconscious inference",
+     "def": "Helmholtz's claim that perception solves an underdetermined problem by inferring the most probable external cause of sensory input."
+    },
+    {
+     "term": "Predictive processing",
+     "def": "The framework in which cortex maintains a generative model, sends predictions downward, and passes only prediction error upward."
+    },
+    {
+     "term": "Precision weighting",
+     "def": "The relative confidence assigned to prior expectation versus incoming evidence; a candidate mechanism for hallucination when miscalibrated."
+    },
+    {
+     "term": "Inattentional blindness",
+     "def": "Failure to see a fully visible, unexpected object because attention is engaged elsewhere."
+    },
+    {
+     "term": "Change blindness",
+     "def": "Failure to detect a substantial change to a scene across a disruption such as a blink, cut or occlusion."
+    },
+    {
+     "term": "Binding problem",
+     "def": "The question of how features processed in separate cortical areas — colour, motion, shape — come to be experienced as properties of one object."
+    },
+    {
+     "term": "Grand illusion",
+     "def": "The mismatch between the detailed visual world introspection reports and the sparse representation the evidence supports."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Hermann von Helmholtz (1821–1894)",
+     "note": "Measured the speed of nerve conduction and then argued that perception is inference — both results ahead of the field by a century."
+    },
+    {
+     "name": "Richard Gregory (1923–2010)",
+     "note": "Treated illusions as experiments the brain has already run, and framed percepts as hypotheses that can be wrong in informative ways."
+    },
+    {
+     "name": "Anne Treisman (1935–2018)",
+     "note": "Feature integration theory: attention is what binds separately coded features into objects, which is why unattended scenes produce illusory conjunctions."
+    },
+    {
+     "name": "Andy Clark",
+     "note": "The clearest philosophical expositor of predictive processing, and candid that its flexibility is also its main methodological liability."
+    }
+   ],
+   "debate": {
+    "title": "Is predictive processing a theory or a framework that cannot fail?",
+    "sides": [
+     {
+      "label": "A real unifying theory",
+      "text": "It derives perception, action and learning from one principle, makes contact with cortical anatomy through distinct superficial and deep layer signals, and has produced specific confirmed predictions — hollow-mask insensitivity in schizophrenia, expectation-induced false percepts, repetition suppression."
+     },
+     {
+      "label": "Too accommodating",
+      "text": "Almost any result can be redescribed as a prior, a likelihood or a precision setting after the fact, which is the signature of an unfalsifiable framework rather than a theory. Critics also note that the strongest evidence is compatible with older, more modest Bayesian cue-combination accounts that make no claim about cortical hierarchy."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Eye and Brain",
+     "who": "Richard Gregory — short, still the best introduction to seeing as hypothesis-testing."
+    },
+    {
+     "title": "Surfing Uncertainty",
+     "who": "Andy Clark — the fullest accessible statement of the predictive brain."
+    },
+    {
+     "title": "The Invisible Gorilla",
+     "who": "Simons & Chabris — attention, memory and confidence, written by the people who ran the studies."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is it wrong to call the checker-shadow illusion an error?",
+     "a": "Because the visual system is not trying to report the light arriving at the retina; it is trying to recover the reflectance of surfaces under variable illumination. Discounting an inferred shadow is exactly the right computation, and the figure simply removes the shadow's real cause while keeping its cues."
+    },
+    {
+     "q": "What does the gorilla study actually show about attention?",
+     "a": "That visibility and awareness come apart: the object was fully resolved on the retina and still not seen, because attention was committed to a demanding task. It is evidence against the intuition that anything sufficiently obvious will be noticed, which matters for eyewitness testimony and driving."
+    }
+   ]
+  },
+  {
+   "id": "psy-3",
+   "title": "Learning, Habit and Behaviour Change",
+   "oneLine": "What conditioning really established, why willpower is the wrong lever, and how large behavioural interventions actually are.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Conditioning is about information, not association",
+     "p": [
+      "The textbook cartoon of Pavlov — bell, then food, therefore salivation — is wrong in an instructive way. Robert Rescorla showed in 1968 that what matters is not how often the cue and the outcome coincide but whether the cue <em>changes the probability</em> of the outcome. Pair a tone with shock every time, but also deliver the same rate of shock without the tone, and no conditioning occurs. Leon Kamin's blocking effect makes the same point: a cue that predicts nothing new, because an existing cue already predicts the outcome, is not learned about at all.",
+      "The Rescorla-Wagner model formalised this as learning driven by surprise — the discrepancy between what was predicted and what occurred. Wolfram Schultz then found that midbrain dopamine neurons fire in exactly that pattern: to unexpected reward, not to predicted reward, and with a dip when an expected reward fails to arrive. This is one of the genuine triumphs of twentieth-century psychology, a behavioural equation later located in tissue. It is also, incidentally, the algorithm behind reinforcement learning in machines."
+     ]
+    },
+    {
+     "h": "Schedules, punishment and the limits of the operant frame",
+     "p": [
+      "Thorndike's law of effect and Skinner's operant chamber established that consequences shape the frequency of behaviour, and that the <em>schedule</em> of reinforcement matters more than its quantity. Variable-ratio schedules — reward after an unpredictable number of responses — produce the highest, most persistent responding and the greatest resistance to extinction. Slot machines, pull-to-refresh feeds and loot boxes are not accidentally shaped this way.",
+      "Two corrections to the behaviourist picture matter. Biological preparedness is real: John Garcia showed rats will learn a taste-nausea association in a single trial across an hour's delay, while failing to link a light to nausea at all, which killed the assumption that any stimulus can be conditioned to any response. And punishment is a poor teacher — it suppresses a behaviour in the presence of the punisher without establishing an alternative, which is why it generalises badly and tends to require escalation. Watson and Rayner's Little Albert, meanwhile, has never been properly replicated and would not pass a modern ethics board or a modern methods review."
+     ]
+    },
+    {
+     "h": "What actually changes behaviour",
+     "p": [
+      "Wendy Wood's diary studies suggest something like 40% of daily actions are performed almost every day in the same context — habits in the technical sense, cued by situation rather than chosen by intention. That reframes behaviour change. If a behaviour is context-triggered, altering the context is more effective than resolving harder: people are far more likely to change diet or exercise after a house move, and self-control research finds that those who score well on trait measures mostly succeed by avoiding temptation rather than resisting it.",
+      "Two tools with respectable evidence. Implementation intentions — specifying when, where and how, in advance — show a medium effect across hundreds of studies, roughly d = 0.65 in Gollwitzer and Sheeran's meta-analysis, and work by handing control to a situational cue. And Lally's data put median time to automaticity at 66 days, with a range from 18 to 254; the widely repeated 21 days comes from a 1960 plastic surgeon's observation about patients adjusting to new faces, not from any study of habits."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Contingency versus contiguity",
+     "def": "Rescorla's demonstration that conditioning depends on a cue predicting an outcome, not merely on the two occurring together."
+    },
+    {
+     "term": "Blocking",
+     "def": "Failure to learn about a cue that carries no new predictive information because an existing cue already predicts the outcome."
+    },
+    {
+     "term": "Reward prediction error",
+     "def": "The difference between expected and received reward; the quantity signalled by midbrain dopamine and the engine of both animal learning and machine reinforcement learning."
+    },
+    {
+     "term": "Variable-ratio schedule",
+     "def": "Reinforcement after an unpredictable number of responses; produces the most persistent behaviour and the slowest extinction."
+    },
+    {
+     "term": "Biological preparedness",
+     "def": "The evolved bias making some cue-outcome pairings, such as taste and nausea, far easier to learn than others."
+    },
+    {
+     "term": "Implementation intention",
+     "def": "A pre-specified if-then plan linking a concrete situational cue to an intended action, which reliably narrows the intention-behaviour gap."
+    },
+    {
+     "term": "Habit",
+     "def": "A context-cued, automatically initiated response acquired through repetition, largely insensitive to current goal value."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Ivan Pavlov (1849–1936)",
+     "note": "A physiologist who won his Nobel for digestion and treated conditioning as a window onto cortical function, not a theory of mind."
+    },
+    {
+     "name": "B. F. Skinner (1904–1990)",
+     "note": "Built the experimental analysis of behaviour and insisted that explanations appealing to inner states were placeholders; wrong about language, right about schedules."
+    },
+    {
+     "name": "Robert Rescorla (1940–2020)",
+     "note": "Showed that animals learn predictive relationships rather than associations, and co-authored the model that turned learning into an error-correction equation."
+    },
+    {
+     "name": "Wendy Wood",
+     "note": "Moved habit research from the lab to daily life and made the case that situation design outperforms motivation."
+    }
+   ],
+   "debate": {
+    "title": "Do nudges work at policy scale?",
+    "sides": [
+     {
+      "label": "Yes, cheaply",
+      "text": "Default settings for pension enrolment and organ donation shift behaviour by tens of percentage points at negligible cost, and no plausible alternative policy delivers comparable effect per pound. Even small effects are worth having when the intervention costs almost nothing."
+     },
+     {
+      "label": "Mostly overstated",
+      "text": "DellaVigna and Linos analysed all trials by two US nudge units and found an average effect of 1.4 percentage points against 8.7 in the academic literature — a gap attributable to publication bias and small samples. A 2022 meta-analysis reporting d = 0.43 was shown, once corrected for that bias, to be compatible with no effect at all. Defaults work; most other nudges are marginal."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Good Habits, Bad Habits",
+     "who": "Wendy Wood — habit as context, with the empirical basis intact."
+    },
+    {
+     "title": "Science and Human Behavior",
+     "who": "B. F. Skinner — read the original rather than the caricature; the ambition is startling."
+    },
+    {
+     "title": "RCTs to Scale (Econometrica, 2022)",
+     "who": "DellaVigna & Linos — the clearest evidence on what behavioural interventions deliver in the field."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does adding unpaired shocks abolish conditioning to a tone that still always precedes shock?",
+     "a": "Because the tone no longer changes the probability of shock — it carries no information. Conditioning tracks predictive relationships rather than co-occurrence, which is Rescorla's central result and the reason contiguity-based accounts of learning were abandoned."
+    },
+    {
+     "q": "Why is changing your environment usually more effective than resolving to try harder?",
+     "a": "Because a large share of routine behaviour is initiated by situational cues rather than by deliberation, so willpower is applied late and repeatedly. People who score high on trait self-control mostly report fewer temptation episodes, not more successful resistance."
+    }
+   ]
+  },
+  {
+   "id": "psy-4",
+   "title": "Personality and Individual Differences",
+   "oneLine": "Where the Big Five came from, what it predicts, why MBTI is not science, and what heritability figures mean.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The lexical route to five factors",
+     "p": [
+      "The Big Five was not deduced from a theory of mind. It was discovered by counting words. Allport and Odbert extracted around 18,000 person-descriptive terms from an English dictionary in 1936, on the lexical hypothesis that differences important enough to matter socially get encoded in language. Successive factor analyses of ratings on those terms — Cattell, then Tupes and Christal in 1961, then Costa and McCrae — kept converging on five broad dimensions: openness, conscientiousness, extraversion, agreeableness and neuroticism.",
+      "That origin sets the limits. Five factors are a compact description of how people differ, not an account of why. The structure is a statistical summary of covariance in ratings, which is why the number is not sacred: HEXACO adds a sixth honesty-humility factor with better cross-language support for some traits, and when Michael Gurven's team administered a translated instrument to Tsimane forager-horticulturalists in Bolivia, the five-factor structure did not appear at all. Something closer to two factors did, plausibly tracking what matters for social and economic life in that setting."
+     ]
+    },
+    {
+     "h": "What traits predict, and how much they move",
+     "p": [
+      "Traits predict real outcomes with modest but genuine effect sizes. Conscientiousness correlates with job performance across nearly all occupations, with academic attainment, and with longevity — the Terman cohort followed for decades shows conscientious children living measurably longer. Neuroticism is the strongest single personality predictor of later mental and physical ill health. Roberts and colleagues argued in 2007 that personality predicts mortality, divorce and occupational attainment at magnitudes comparable to socioeconomic status and cognitive ability, which is a defence of the field's relevance rather than a claim of large effects: correlations around 0.2 to 0.3 are typical.",
+      "Traits are also not fixed. The maturity principle describes a consistent pattern of mean-level change from late adolescence into middle age: conscientiousness and agreeableness rise, neuroticism falls. Rank ordering is fairly stable — the more conscientious eighteen-year-old is usually still the more conscientious forty-year-old — but the population as a whole drifts. Volitional change is possible too, though the evidence base is thin and the intervention studies small."
+     ]
+    },
+    {
+     "h": "Types, questionnaires and heritability",
+     "p": [
+      "The Myers-Briggs Type Indicator fails on the basics. It was built by Katharine Briggs and Isabel Myers, neither trained in psychometrics, from Jung's introspective typology. Its dichotomies impose categorical cuts on continuous, unimodally distributed traits, so people near a midpoint are assigned to a type by a rounding error: on retest within a few weeks, something like half of respondents change at least one letter. It has little incremental predictive validity for job performance once Big Five variance is accounted for, and the strong recognition it produces is largely the Barnum effect — descriptions vague and flattering enough to fit almost anyone.",
+      "Twin and adoption studies put heritability of Big Five traits at roughly 40-60%, with the shared family environment contributing close to nothing — Eric Turkheimer's second and third laws of behaviour genetics. Two clarifications are essential. Heritability is a statement about variance in a particular population at a particular time, not about the fixity of a trait in an individual; and the near-zero shared environment estimate applies to trait scores in the normal range, not to outcomes like education, religion or exposure to severe deprivation, where family effects are real."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Lexical hypothesis",
+     "def": "The assumption that socially important individual differences become encoded as single terms in natural language."
+    },
+    {
+     "term": "Big Five",
+     "def": "The five broad dimensions — openness, conscientiousness, extraversion, agreeableness, neuroticism — recovered repeatedly by factor analysis of trait ratings."
+    },
+    {
+     "term": "HEXACO",
+     "def": "A six-factor alternative adding honesty-humility, which captures exploitativeness and entitlement that the Big Five splits awkwardly across factors."
+    },
+    {
+     "term": "Barnum effect",
+     "def": "The tendency to accept vague, generally favourable personality descriptions as uniquely accurate about oneself."
+    },
+    {
+     "term": "Maturity principle",
+     "def": "The reliable mean-level rise in conscientiousness and agreeableness and fall in neuroticism from late adolescence into middle age."
+    },
+    {
+     "term": "Heritability",
+     "def": "The proportion of variation in a trait within a specified population attributable to genetic variation — a population statistic, not an individual one."
+    },
+    {
+     "term": "Non-shared environment",
+     "def": "Environmental influence that makes siblings raised together different; consistently larger than shared-family influence for personality."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Gordon Allport (1897–1967)",
+     "note": "Made traits the unit of personality psychology and warned against exactly the reification his successors went on to commit."
+    },
+    {
+     "name": "Paul Costa and Robert McCrae",
+     "note": "Built the NEO inventories and pushed the five-factor model from a factor-analytic curiosity into the field's working standard."
+    },
+    {
+     "name": "Walter Mischel (1930–2018)",
+     "note": "Argued in 1968 that trait scores predicted behaviour across situations at a ceiling of about r = 0.3, triggering the person-situation debate that took thirty years to settle."
+    },
+    {
+     "name": "Eric Turkheimer",
+     "note": "Formulated the three laws of behaviour genetics and has been the most rigorous critic of over-reading heritability estimates."
+    }
+   ],
+   "debate": {
+    "title": "Are traits causes or just summaries of behaviour?",
+    "sides": [
+     {
+      "label": "Causal dispositions",
+      "text": "Traits are heritable, temporally stable, biologically correlated and predictive of outcomes decades later. Something inside the person is doing the work, and calling it a description evades the question of what generates the regularity."
+     },
+     {
+      "label": "Descriptive summaries",
+      "text": "A trait score is an average of past behaviour, so predicting future behaviour from it is closer to actuarial extrapolation than explanation. Whole-trait theory takes this seriously: individuals vary enormously around their own means from hour to hour, and the trait is the parameter of that distribution, not a hidden engine."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Personality: What Makes You the Way You Are",
+     "who": "Daniel Nettle — short, evolutionary-minded, honest about effect sizes."
+    },
+    {
+     "title": "Personality and Assessment (1968)",
+     "who": "Walter Mischel — the book that nearly ended trait psychology, and improved it."
+    },
+    {
+     "title": "Blueprint",
+     "who": "Robert Plomin — the strong hereditarian case, worth reading alongside its many critics."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does a heritability estimate of 50% not mean half of your personality is fixed at birth?",
+     "a": "Heritability partitions variance across a population, not the causes within one person. The same trait can show high heritability in an environmentally uniform population and much lower heritability where environments vary widely — the number describes a population and its circumstances, not an individual destiny."
+    },
+    {
+     "q": "What is the core psychometric objection to MBTI?",
+     "a": "It converts continuous, unimodally distributed dimensions into categories at an arbitrary cut point, so people near the middle flip type on retest — around half do within weeks. A measure whose central output is that unstable cannot support the interpretive weight placed on it."
+    }
+   ]
+  },
+  {
+   "id": "psy-5",
+   "title": "Emotion and Motivation",
+   "oneLine": "Whether emotions are natural kinds, why rewards can backfire, and how badly people predict their own future feelings.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "What an emotion is",
+     "p": [
+      "William James proposed that we do not tremble because we are afraid but are afraid because we tremble — emotion as the perception of bodily change. Cannon objected that visceral responses are too slow and too undifferentiated to carry the distinctions we experience. Schachter and Singer's two-factor compromise, in which undifferentiated arousal is labelled by situational cues, produced a famous 1962 adrenaline study whose results have never replicated cleanly. What survived from all three is the idea that bodily state and interpretation both matter.",
+      "Appraisal theory, developed by Richard Lazarus and refined by Klaus Scherer, gives the interpretation part structure: emotions follow from evaluations along dimensions such as goal relevance, agency, certainty and coping potential. Anger and sadness differ not in physiology so much as in whether an obstruction is judged removable and someone judged responsible. This is why the same event produces different emotions in different people, and why cognitive therapies work at all."
+     ]
+    },
+    {
+     "h": "Basic emotions and the constructed alternative",
+     "p": [
+      "Paul Ekman's programme held that a small set of emotions — anger, disgust, fear, happiness, sadness, surprise — have distinctive, universally recognised facial expressions. It became the basis of an industry, from airport screening to emotion-recognition software. Lisa Feldman Barrett's 2019 review with colleagues went through the evidence and found the mapping far weaker than assumed: in Western adults, people scowl when angry perhaps 30% of the time, and scowls occur frequently in the absence of anger. Maria Gendron's work with the Himba in Namibia, using free sorting rather than a supplied word list, failed to recover the expected categories at all — much of the earlier universality evidence rested on forced choice from six labels.",
+      "Barrett's positive claim is theory of constructed emotion: the brain builds an emotion from interoceptive signals plus learned concepts, so emotion categories are culturally acquired rather than biologically given. Defenders of the basic-emotion view reply that this overstates the flexibility, and Alan Cowen and Dacher Keltner's large-scale work recovering more than twenty reliably distinguished emotion categories from naturalistic stimuli is genuine counter-evidence. The disagreement is unresolved and consequential: emotion-recognition AI is being deployed on an assumption the field has not established."
+     ]
+    },
+    {
+     "h": "Motivation and the failure of affective forecasting",
+     "p": [
+      "Deci and Ryan's self-determination theory holds that motivation is sustained by autonomy, competence and relatedness, and that tangible rewards offered contingently for an intrinsically interesting task tend to undermine subsequent engagement — the overjustification effect, first shown when Lepper's team paid preschoolers to draw and watched their unpaid drawing decline. The finding is real but bounded: unexpected rewards, and rewards for performance rather than mere participation, do not show the same pattern. Gneezy and Rustichini's Israeli daycare study is the memorable case of the same mechanism outside the lab — introducing a fine for late pickup increased lateness, because it converted a moral obligation into a purchasable service.",
+      "On forecasting, Daniel Gilbert and Timothy Wilson's finding is that people are reasonably good at predicting the <em>valence</em> of their future feelings and poor at predicting duration and intensity — the impact bias, driven partly by immune neglect, our failure to anticipate our own capacity to rationalise. Hedonic adaptation is real for many things and notably incomplete for others: panel data show people do not fully adapt to unemployment, chronic noise or chronic pain. And the well-known claim that happiness plateaus above about 75,000 dollars did not survive: an adversarial collaboration between Kahneman and Matthew Killingsworth in 2023 concluded that wellbeing keeps rising with income for most people, with a flattening confined to the least happy fifth."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Appraisal",
+     "def": "The evaluation of an event along dimensions such as goal relevance, agency and coping potential, which determines which emotion follows."
+    },
+    {
+     "term": "Theory of constructed emotion",
+     "def": "Barrett's account in which emotions are constructed from interoceptive signals and learned cultural concepts rather than triggered as biological kinds."
+    },
+    {
+     "term": "Interoception",
+     "def": "The perception of internal bodily states, treated in current theory as the raw material of affect rather than as emotion itself."
+    },
+    {
+     "term": "Overjustification effect",
+     "def": "The reduction in intrinsic motivation that follows contingent tangible reward for an already-interesting activity."
+    },
+    {
+     "term": "Self-determination theory",
+     "def": "Deci and Ryan's framework treating autonomy, competence and relatedness as the conditions for sustained motivation."
+    },
+    {
+     "term": "Impact bias",
+     "def": "The systematic overestimation of how intense and how long-lasting future emotional reactions will be."
+    },
+    {
+     "term": "Focusing illusion",
+     "def": "The distortion produced by attending to one aspect of life while evaluating it; nothing is as important as it seems while you are thinking about it."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "William James (1842–1910)",
+     "note": "Reversed the folk order of emotion and bodily response, and framed the question every subsequent theory has had to answer."
+    },
+    {
+     "name": "Paul Ekman",
+     "note": "Built the basic-emotion programme and the Facial Action Coding System; his universality claims are now the field's most contested legacy."
+    },
+    {
+     "name": "Lisa Feldman Barrett",
+     "note": "Assembled the evidence against reliable expression-emotion mapping and proposed construction in its place; combative, and taken seriously."
+    },
+    {
+     "name": "Edward Deci and Richard Ryan",
+     "note": "Showed experimentally that paying people for what they already enjoy can reduce their appetite for it, and built a theory of motivation around autonomy."
+    }
+   ],
+   "debate": {
+    "title": "Are there basic emotions with universal expressions?",
+    "sides": [
+     {
+      "label": "Yes, in essentials",
+      "text": "Congenitally blind athletes produce recognisable victory and defeat expressions they have never seen; infants show differentiated affective displays early; and large-scale analyses of naturalistic expression recover dozens of consistently distinguished categories across cultures. Weak signal is not no signal."
+     },
+     {
+      "label": "No, they are constructed",
+      "text": "The universality evidence largely depends on forced choice among supplied emotion words; remove the word list and cross-cultural agreement collapses. Facial configurations correspond to their assigned emotions only a minority of the time, which is a poor basis for claiming natural kinds — or for building inference systems on them."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "How Emotions Are Made",
+     "who": "Lisa Feldman Barrett — the constructionist case, argued at length and with the data."
+    },
+    {
+     "title": "Self-Determination Theory",
+     "who": "Ryan & Deci — comprehensive, and franker about boundary conditions than the popular versions."
+    },
+    {
+     "title": "Stumbling on Happiness",
+     "who": "Daniel Gilbert — affective forecasting, funny, and largely holding up."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why did asking the Himba to sort faces freely give different results from earlier universality studies?",
+     "a": "Because the classic method offered a short list of emotion words and asked participants to pick one, which can produce agreement by elimination. Free sorting removes that scaffolding, and the categories participants generate then diverge substantially from the six proposed basics."
+    },
+    {
+     "q": "What is immune neglect, and why does it matter for life decisions?",
+     "a": "It is the failure to anticipate one's own psychological defences — reframing, rationalising, attention shifting — which blunt bad outcomes. It means people overestimate how long a setback will hurt, and so weight avoidance of loss too heavily when choosing jobs, cities or relationships."
+    }
+   ]
+  },
+  {
+   "id": "psy-6",
+   "title": "Social Psychology After the Reckoning",
+   "oneLine": "Conformity, obedience, groups and attribution, with an honest ledger of which classics survived replication.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The classics, correctly stated",
+     "p": [
+      "Asch's line-judgement studies are usually described as showing that people conform. What they showed is more textured: participants went along with an obviously wrong unanimous majority on about a third of critical trials, roughly three-quarters conformed at least once, and about a quarter never conformed at all. Crucially, a single dissenting confederate cut conformity dramatically. The finding is robust and its lesson is about the power of unanimity, not the weakness of individuals.",
+      "Milgram's obedience work has weathered better than its critics expected and worse than its defenders claim. The headline 65% to the maximum shock came from one of at least 24 variations whose rates ranged from near zero to over 90%; proximity to the victim, proximity of the experimenter and the presence of defiant peers all moved it enormously. Gina Perry's archival work established that experimenters improvised prods well beyond the script and that many participants doubted the shocks were real. Jerry Burger's 2009 partial replication, stopping at 150 volts, found comparable rates. The effect exists; the simple story about situational forces overriding conscience does not."
+     ]
+    },
+    {
+     "h": "The replication ledger",
+     "p": [
+      "The casualties are specific and worth naming. <em>Ego depletion</em> — the idea that self-control draws on a depletable resource — was tested by 23 labs with over 2,000 participants in 2016 and produced an effect indistinguishable from zero. <em>Power posing</em> failed on its physiological claims in a better-powered 2015 study, and Dana Carney, its first author, publicly stated in 2016 that she no longer believed the effect; self-reported feelings of power do survive. <em>Social priming</em> — Bargh's finding that reading elderly-related words made people walk more slowly — failed a 2012 replication using automated timing, though it succeeded when experimenters expected it to, which located the effect in the experimenters. The <em>facial feedback</em> pen study failed a 17-lab replication in 2016, then a differently designed multi-lab project in 2022 recovered a small effect, so the verdict is unsettled rather than dead. And much of the Stanford Prison Experiment collapsed once Thibault Le Texier reached the archives in 2019: guards were coached toward brutality, the famous breakdown was reportedly feigned, and there was neither a control condition nor blind measurement.",
+      "What held up is not trivial. Asch, the core of Milgram, the fundamental attribution error in Jones and Harris's original design, Tajfel's minimal group findings, and the reality of implicit associations as a measured phenomenon all replicate. But adjacent claims did not: Bertram Malle's meta-analysis found the actor-observer asymmetry, a textbook fixture, to be near zero; implicit association scores predict individual behaviour weakly, and shifting those measures does not shift behaviour; and stereotype threat shows strong signs of publication bias in the school-age literature."
+     ]
+    },
+    {
+     "h": "Groups, norms and what to do with all this",
+     "p": [
+      "The bystander effect is the instructive case. In the laboratory, adding bystanders reliably reduces the probability that any individual helps. In the field, Richard Philpot's team analysed CCTV footage of public conflicts in three cities and found someone intervened in about nine cases out of ten — larger groups made intervention by <em>someone</em> more likely, not less. Both results are true: diffusion of responsibility lowers individual probability while raising the number of draws. The Kitty Genovese story that launched the field, meanwhile, was substantially wrong; the 38 unmoved witnesses were an artefact of the original newspaper account, as the paper itself has since acknowledged.",
+      "The framework that best fits the surviving evidence is not that situations overwhelm people, but that people act as members of groups whose norms they have internalised — Alex Haslam and Stephen Reicher's engaged followership reading of both Milgram and Stanford. Participants who complied were not sleepwalking; they were persuaded that a scientific enterprise was worthwhile and identified with it. That is a less comfortable conclusion than the standard one, because it implies cruelty is more often the product of conviction than of automaticity."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Correspondence bias",
+     "def": "The tendency to infer stable dispositions from behaviour that situational constraints fully explain; the robust core of the fundamental attribution error."
+    },
+    {
+     "term": "Diffusion of responsibility",
+     "def": "The reduction in any individual's felt obligation to act as the number of potential helpers rises."
+    },
+    {
+     "term": "Pluralistic ignorance",
+     "def": "A state in which most members of a group privately reject a norm but wrongly assume the others accept it."
+    },
+    {
+     "term": "Minimal group paradigm",
+     "def": "Tajfel's demonstration that arbitrary, meaningless group assignment is sufficient to generate in-group favouritism in allocation."
+    },
+    {
+     "term": "Engaged followership",
+     "def": "Haslam and Reicher's account of obedience as active identification with a leader's cause rather than passive submission to authority."
+    },
+    {
+     "term": "Registered replication report",
+     "def": "A pre-approved, multi-laboratory, high-powered retest of a single effect, designed so the result is publishable whichever way it comes out."
+    },
+    {
+     "term": "Ego depletion",
+     "def": "The now largely unsupported claim that acts of self-control consume a shared limited resource, impairing subsequent self-control."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Solomon Asch (1907–1996)",
+     "note": "Designed the conformity paradigm and always insisted the striking finding was independence — that most people resisted most of the time."
+    },
+    {
+     "name": "Stanley Milgram (1933–1984)",
+     "note": "Ran the obedience variations that remain the field's most cited and most misdescribed body of work."
+    },
+    {
+     "name": "Henri Tajfel (1919–1982)",
+     "note": "A Holocaust survivor who showed that group discrimination needs no history, competition or grievance — arbitrary categorisation suffices."
+    },
+    {
+     "name": "Alex Haslam and Stephen Reicher",
+     "note": "Re-ran the prison paradigm for the BBC and rebuilt the interpretation of the classics around social identity rather than situational automaticity."
+    }
+   ],
+   "debate": {
+    "title": "What do the obedience studies actually teach?",
+    "sides": [
+     {
+      "label": "Situational power",
+      "text": "Ordinary people delivered what they believed were dangerous shocks at rates nobody predicted, across many variations and several countries. Whatever the methodological messiness, the core demonstration — that context does most of the work usually attributed to character — has never been overturned."
+     },
+     {
+      "label": "Identification, not automaticity",
+      "text": "The archives show participants deliberating, resisting, requiring repeated persuasion, and complying most when told the science required it. That is engaged followership, not blind obedience, and the difference matters: it points at how causes recruit people rather than at a switch in all of us."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Obedience to Authority",
+     "who": "Stanley Milgram — read the variations, not the summary."
+    },
+    {
+     "title": "Behind the Shock Machine",
+     "who": "Gina Perry — what the archives and surviving participants actually show."
+    },
+    {
+     "title": "The Person and the Situation",
+     "who": "Ross & Nisbett — the strongest statement of the situationist case, now usefully read against its critics."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "How can the bystander effect be real in the lab and yet strangers usually get help in public?",
+     "a": "Because the effect is about individual probability, not group outcome. Each person is less likely to act as the crowd grows, but there are more people who might; CCTV analysis of real conflicts found intervention in around 90% of cases. Larger groups reduce the chance any given person helps while increasing the chance someone does."
+    },
+    {
+     "q": "Which parts of the Stanford Prison Experiment survive scrutiny?",
+     "a": "Very little as an experiment. Archival evidence shows guards were coached toward harshness, at least one famous breakdown appears to have been performed, and there was no control condition or blind measurement. It is best treated as a vivid demonstration of what people will do when told a worthy project requires it — closer to Haslam and Reicher's reading than to Zimbardo's."
+    }
+   ]
+  },
+  {
+   "id": "psy-7",
+   "title": "Development Across the Lifespan",
+   "oneLine": "Attachment as evidence rather than folklore, Piaget corrected, and what really changes in adolescence and old age.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Attachment, deprivation and the size of parental effects",
+     "p": [
+      "Bowlby's insight — that the infant-caregiver bond is an evolved regulatory system rather than a by-product of feeding — was vindicated, and Mary Ainsworth's Strange Situation gave it a measurable form: secure, avoidant, ambivalent and later disorganised classifications, with distributions that vary meaningfully across cultures. What is oversold is the predictive power. Longitudinal stability from infancy into adulthood is real but modest, and the popular vocabulary of adult attachment styles comes from self-report questionnaires developed by Hazan and Shaver in 1987 that relate only weakly to infant classification. Two literatures with one name are routinely conflated.",
+      "Where the evidence is dramatic is severe deprivation. Michael Rutter's English and Romanian Adoptees study and the Bucharest Early Intervention Project both show large, persistent cognitive and social deficits in children institutionalised in extreme conditions, with substantially better outcomes for those placed in families before roughly six months — genuine sensitive-period effects. This coexists with a much-resisted behaviour-genetic finding: within the normal range of parenting, shared family environment accounts for very little variance in adult personality, though it matters for education, religion, values and health behaviour. Judith Rich Harris drew the provocative conclusion in 1998; the data have moved less than the argument."
+     ]
+    },
+    {
+     "h": "Piaget's legacy and its corrections",
+     "p": [
+      "Piaget established that children think differently rather than merely knowing less, and his tasks — conservation, object permanence, the three mountains — are still worth running. The corrections are threefold. First, he underestimated infants systematically, because his tasks demanded motor responses; violation-of-expectation methods pioneered by Renée Baillargeon suggest infants of a few months already represent hidden objects. Second, development is domain-specific and gradual, not a sequence of global stage transitions; a child can conserve number long before volume. Third, Vygotsky's alternative frame, in which cognition develops through guided participation inside a zone of proximal development, better explains the variability that stage theory treats as noise.",
+      "The infancy literature deserves its own caution. Large collaborative projects have found some celebrated infant effects to be smaller than reported — ManyBabies recovered a real but reduced preference for infant-directed speech — and multi-lab attempts to replicate implicit false-belief understanding in fifteen-month-olds using anticipatory looking have largely failed. The explicit false-belief shift around age four, by contrast, is one of developmental psychology's most replicable findings."
+     ]
+    },
+    {
+     "h": "Adolescence and ageing",
+     "p": [
+      "Laurence Steinberg's dual-systems account fits the adolescent data well: sensitivity to reward and social approval peaks in mid-adolescence, while cognitive control matures more slowly, producing a temporary mismatch. The evidence for its social character is direct — in a driving task, the presence of peers roughly doubled risk-taking in adolescents and had no effect on adults. The familiar claim that the brain is not finished until 25 is a folk simplification: myelination and cortical thinning are continuous processes with no measured endpoint, and 25 is a rhetorical convenience, not a finding.",
+      "In later life, the standard distinction is Cattell and Horn's: fluid ability — reasoning with novel material, processing speed — declines from early adulthood, while crystallised knowledge and vocabulary hold or improve into the seventies. Cross-sectional studies exaggerate the decline by confounding age with cohort; Schaie's Seattle Longitudinal Study, following the same people, finds later and gentler slopes. Two practical results. Commercial brain training does not generalise: a study of over 11,000 participants found gains confined to the trained tasks. And the 2024 Lancet Commission identifies fourteen modifiable risk factors — hearing loss, hypertension, education, smoking, social isolation and others — associated with around 45% of dementia risk at population level, which is an epidemiological attribution rather than a promise about any individual."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Strange Situation",
+     "def": "Ainsworth's structured separation-and-reunion procedure for classifying infant attachment security."
+    },
+    {
+     "term": "Sensitive period",
+     "def": "A developmental window during which a given input has outsized and hard-to-reverse effects, demonstrated most clearly by institutional deprivation studies."
+    },
+    {
+     "term": "Violation of expectation",
+     "def": "A method inferring infant knowledge from how long they look at physically impossible events, which revealed competence Piaget's motor tasks concealed."
+    },
+    {
+     "term": "Zone of proximal development",
+     "def": "Vygotsky's span between what a learner can do alone and what they can do with skilled support."
+    },
+    {
+     "term": "Dual systems model",
+     "def": "The account of adolescent risk-taking as a mismatch between early-peaking reward sensitivity and slower-maturing cognitive control."
+    },
+    {
+     "term": "Fluid versus crystallised ability",
+     "def": "Reasoning with novel material, which declines with age, versus accumulated knowledge, which does not."
+    },
+    {
+     "term": "Cognitive reserve",
+     "def": "The capacity to tolerate brain pathology without proportionate cognitive impairment, associated with education and lifelong cognitive engagement."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "John Bowlby (1907–1990)",
+     "note": "Brought ethology into psychoanalysis and reframed infant attachment as an evolved survival system rather than learned dependency."
+    },
+    {
+     "name": "Mary Ainsworth (1913–1999)",
+     "note": "Turned Bowlby's theory into a measurable procedure — the step that made attachment an empirical research programme rather than a doctrine."
+    },
+    {
+     "name": "Jean Piaget (1896–1980)",
+     "note": "Showed children reason by different rules, not merely with less information; wrong on timing, right on kind."
+    },
+    {
+     "name": "Lev Vygotsky (1896–1934)",
+     "note": "Argued development is social before it is individual, and that instruction leads development rather than waiting on it; dead at 37, translated into English decades later."
+    }
+   ],
+   "debate": {
+    "title": "How much do parents shape who their children become?",
+    "sides": [
+     {
+      "label": "Less than assumed",
+      "text": "Adoption and twin designs repeatedly find that siblings raised in the same home are no more alike in adult personality than would be predicted from shared genes alone. Within the ordinary range of decent parenting, variation in parenting style explains remarkably little of the variance in adult traits."
+     },
+     {
+      "label": "The designs understate it",
+      "text": "Behaviour-genetic models absorb gene-environment correlation into the genetic term, and adoptive families are screened for adequacy, truncating the environmental range studied. Parents demonstrably affect education, language, values, religion, health behaviour and the risk of maltreatment, and the deprivation literature shows environment can matter enormously."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Nurture Assumption",
+     "who": "Judith Rich Harris — overstated in places, and the argument still has not been answered."
+    },
+    {
+     "title": "The Gardener and the Carpenter",
+     "who": "Alison Gopnik — developmental science applied to what parenting is for."
+    },
+    {
+     "title": "Age of Opportunity",
+     "who": "Laurence Steinberg — adolescence as plasticity rather than pathology."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why do violation-of-expectation studies suggest Piaget underestimated infants?",
+     "a": "Because his object-permanence task required a coordinated reach, so failure could reflect motor limits rather than absent representation. Measuring looking time instead shows infants look longer at physically impossible outcomes involving hidden objects, implying they are tracking something they cannot yet retrieve."
+    },
+    {
+     "q": "What is wrong with saying the brain is fully developed at 25?",
+     "a": "Nothing in the imaging data marks a completion point. Myelination and synaptic pruning continue on smooth trajectories with no discontinuity, and different regions and individuals differ substantially. The number is a summary of continuous curves that has hardened into a fact through repetition."
+    }
+   ]
+  },
+  {
+   "id": "psy-8",
+   "title": "Mental Health: Diagnosis, Treatment and Evidence",
+   "oneLine": "What diagnostic categories are for, which treatments have support, and what the serotonin argument does and does not settle.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Categories, dimensions and what the DSM is",
+     "p": [
+      "The DSM's third edition in 1980, driven by Robert Spitzer, replaced psychoanalytic description with operational criteria — checklists with thresholds — because clinicians using the previous system agreed with each other too rarely for research to be possible. It bought reliability, and it is important to see that it never claimed to have bought validity. The categories are administrative and clinical conventions: useful for deciding whether to treat, poor as claims about natural kinds.",
+      "The strains show in the numbers. Because criteria are polythetic, there are 227 distinct symptom combinations that qualify as major depression, and by one calculation over 600,000 ways to meet the DSM-5 criteria for PTSD; two patients can share a diagnosis and no symptoms. Comorbidity is closer to the rule than the exception. Two responses emerged: the US National Institute of Mental Health's RDoC initiative, which in 2013 effectively told researchers to stop organising studies around DSM categories, and HiTOP, which models psychopathology as hierarchical dimensions. The defence of categories is practical: treatment decisions, service thresholds and reimbursement all require a yes or no, and dimensions do not supply one."
+     ]
+    },
+    {
+     "h": "What the treatment evidence supports",
+     "p": [
+      "The strongest evidence is narrower than public discussion suggests. Cognitive behavioural therapy has good support for panic disorder, social anxiety, OCD when it includes exposure and response prevention, and insomnia, where CBT-I is now first-line ahead of medication in major guidelines. For depression the picture is more modest: Pim Cuijpers and colleagues have shown repeatedly that effect sizes shrink substantially when analysis is restricted to low-risk-of-bias trials and corrected for publication bias, from around g = 0.7 to something nearer 0.3. Comparisons between bona fide therapies rarely find large differences, which is the dodo bird verdict and the basis of Bruce Wampold's argument that common factors — alliance, expectancy, a coherent rationale — carry much of the effect.",
+      "For antidepressants, Cipriani's 2018 network meta-analysis of 522 trials and over 116,000 participants found all 21 drugs superior to placebo. The standardised mean difference of roughly 0.3 is real, is larger in severe depression, and is genuinely disputed as to clinical meaningfulness. Discontinuation effects were underestimated for years, though the widely quoted incidence figures come from reviews weighted toward online survey samples and are contested. Psychedelic-assisted therapy has striking phase-2 results and severe blinding problems — participants know what they received — and the FDA declined to approve MDMA-assisted therapy in August 2024. Exercise has real effects, mostly from small unblinded trials; mental health apps have thin evidence and high attrition."
+     ]
+    },
+    {
+     "h": "Serotonin, explanation and stigma",
+     "p": [
+      "Joanna Moncrieff's 2022 umbrella review found no consistent evidence that depression involves reduced serotonin activity. This was reported as showing antidepressants do not work, which does not follow: a drug can be effective without correcting a deficiency, as aspirin relieves headaches without an aspirin deficit. What the review does damage is the chemical-imbalance narrative, which was propagated hard by pharmaceutical marketing in the 1990s and adopted by many clinicians as a way to reduce patient self-blame.",
+      "The stigma consequence is the genuinely uncomfortable finding. Biological and genetic explanations of mental illness do reduce blame — but a meta-analysis by Kvaale, Haslam and Gottdiener found they simultaneously increase perceived dangerousness, pessimism about recovery, and desire for social distance. Decades of anti-stigma campaigning built on the illness-like-any-other framing may have traded one attitude for a worse one, and German time-series data showing rising biological literacy alongside undiminished desire for distance point the same way. Meanwhile, reported prevalence of common mental disorders among young people has risen sharply, and whether that reflects genuine increase, better recognition, or Nick Haslam's concept creep — the expansion of harm concepts to cover milder phenomena — is unsettled. The smartphone debate sits inside it: Jonathan Haidt's causal case is contested by Candice Odgers and Andrew Przybylski, whose analyses put the average association at a magnitude comparable with eating potatoes."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Reliability versus validity in diagnosis",
+     "def": "Whether clinicians agree on a label, as against whether the label picks out a real and coherent condition; DSM-III secured the first without claiming the second."
+    },
+    {
+     "term": "Polythetic criteria",
+     "def": "Diagnostic rules requiring any given number of symptoms from a longer list, which permits patients with the same diagnosis to share no symptoms."
+    },
+    {
+     "term": "RDoC",
+     "def": "The NIH framework organising research around dimensional biological and behavioural systems rather than DSM categories."
+    },
+    {
+     "term": "HiTOP",
+     "def": "A hierarchical dimensional taxonomy of psychopathology built empirically from symptom covariance rather than committee consensus."
+    },
+    {
+     "term": "p-factor",
+     "def": "A general psychopathology dimension on which most symptoms load, analogous in structure to g in intelligence research."
+    },
+    {
+     "term": "Common factors",
+     "def": "Therapeutic ingredients shared across modalities — alliance, expectancy, rationale — argued to account for much of psychotherapy's effect."
+    },
+    {
+     "term": "Concept creep",
+     "def": "Haslam's term for the semantic expansion of harm concepts such as trauma, abuse and addiction to cover progressively milder phenomena."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Emil Kraepelin (1856–1926)",
+     "note": "Separated dementia praecox from manic-depressive illness on the basis of course and outcome, establishing the descriptive-categorical method psychiatry still uses."
+    },
+    {
+     "name": "Robert Spitzer (1932–2015)",
+     "note": "Architect of DSM-III; also chaired the process that removed homosexuality from the manual, a reminder that the categories are decided by committees."
+    },
+    {
+     "name": "Aaron Beck (1921–2021)",
+     "note": "Built cognitive therapy after noticing his depressed analytic patients reported streams of automatic negative thought rather than repressed conflict."
+    },
+    {
+     "name": "Thomas Insel",
+     "note": "As NIMH director, publicly withdrew support from DSM categories for research purposes in 2013, then later conceded the biological programme had not helped patients."
+    }
+   ],
+   "debate": {
+    "title": "Should psychiatric diagnosis be categorical or dimensional?",
+    "sides": [
+     {
+      "label": "Keep categories",
+      "text": "Clinical decisions are binary — treat or not, admit or not, fund or not — and categories encode accumulated clinical knowledge about course and response. Dimensions describe populations elegantly and give the clinician facing one patient nothing actionable, while wholesale reclassification would invalidate decades of trial evidence."
+     },
+     {
+      "label": "Go dimensional",
+      "text": "The categories fail every test of natural kinds: arbitrary thresholds, massive comorbidity, extreme within-category heterogeneity, and no biomarker after forty years of searching. HiTOP-style dimensions predict outcomes better, and clinicians already work dimensionally in practice while recording a category for the notes."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Mind Fixers",
+     "who": "Anne Harrington — a historian's account of biological psychiatry's promises and their record."
+    },
+    {
+     "title": "Saving Normal",
+     "who": "Allen Frances — the chair of DSM-IV on diagnostic inflation, written with obvious discomfort."
+    },
+    {
+     "title": "Cipriani et al., Lancet (2018)",
+     "who": "The antidepressant network meta-analysis everyone cites; worth reading rather than citing."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does the absence of a serotonin abnormality not show that SSRIs are ineffective?",
+     "a": "Because efficacy and mechanism are separate questions. A drug that alters a system can relieve symptoms without any pre-existing deficit in that system — the trial evidence for a modest average benefit stands or falls on the trials, not on the deficiency story. What the finding undermines is the chemical-imbalance explanation offered to patients."
+    },
+    {
+     "q": "What is the unexpected cost of explaining mental illness biologically?",
+     "a": "It reduces blame but increases perceived dangerousness, prognostic pessimism and the desire for social distance. Meta-analytic evidence suggests anti-stigma campaigns built on brain-disease framing may have swapped moral judgement for a belief that the person is unpredictable and unlikely to recover."
+    }
+   ]
+  }
+ ]
+}

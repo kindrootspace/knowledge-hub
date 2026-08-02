@@ -1,0 +1,891 @@
+{
+ "id": "economics",
+ "name": "Economics",
+ "tagline": "How resources, prices, money and growth actually work",
+ "accent": "#4ade80",
+ "blurb": "Economics gets a bad press partly because its public face is forecasting, which it does poorly. Its actual strength is a set of frameworks for thinking about trade-offs, incentives and unintended consequences that make otherwise opaque news legible. This track builds from prices to macro to growth, then to the areas where the standard model is under most pressure.",
+ "modules": [
+  {
+   "id": "eco-1",
+   "title": "Scarcity, Prices and the Knowledge Problem",
+   "oneLine": "Why prices are an information system, and what that implies about planning.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Opportunity cost is the whole foundation",
+     "p": [
+      "The cost of anything is not the money paid but the next-best alternative given up. This sounds trivial and is not: it reframes every \"we should spend more on X\" argument into \"we should spend less on Y\", which is the argument actually being made. Sunk costs — money already spent and unrecoverable — are correctly excluded from the calculation, though people find this psychologically almost impossible, which is why failing projects continue.",
+      "<em>Marginal</em> thinking is the second foundational move. The relevant question is almost never about totals but about the next increment: not \"is healthcare valuable?\" but \"what does the next pound spent on healthcare buy, compared with the next pound spent elsewhere?\" This resolves the old diamond–water paradox — water is more valuable in total, diamonds at the margin, because we have a lot of water."
+     ]
+    },
+    {
+     "h": "Prices carry information nobody possesses",
+     "p": [
+      "Hayek's 1945 paper \"The Use of Knowledge in Society\" is the most important short argument in economics. The knowledge relevant to allocating resources — a shortage in one factory, a change of taste, a new technique — is dispersed among millions of people, mostly tacit, and much of it is not even articulable by those who hold it. No central authority can gather it, because gathering it is not a computing problem but a knowledge-existence problem.",
+      "Prices solve this by compressing all of it into a single number. If tin becomes scarcer for any reason, its price rises, and every user of tin economises without needing to know why. The price is simultaneously a signal (something changed), an incentive (act on it) and a summary (of everyone's willingness to pay). This is why the socialist calculation debate of the 1920s–40s was substantively settled in Hayek and Mises's favour, and why modern debates are about market regulation rather than market abolition."
+     ]
+    },
+    {
+     "h": "Elasticity: the practical concept",
+     "p": [
+      "Elasticity measures how much quantity responds to a change in price. Demand is <em>inelastic</em> when quantity barely moves — insulin, petrol in the short run, addictive goods — and <em>elastic</em> when it moves a lot, as with a specific brand among close substitutes. Almost every applied policy question turns on an elasticity.",
+      "Examples: a tax on an inelastic good raises revenue and changes little behaviour; a tax on an elastic good changes behaviour and raises little revenue. You cannot design a tax to do both. A minimum wage's employment effect depends on labour demand elasticity and on employer market power. Rent controls bite hardest where housing supply is most inelastic. When you read a policy claim, asking \"what elasticity is this assuming?\" is usually the fastest route to the crux."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Opportunity cost",
+     "def": "The value of the next-best alternative forgone; the true cost of any choice."
+    },
+    {
+     "term": "Marginal analysis",
+     "def": "Evaluating the effect of one additional unit rather than the total."
+    },
+    {
+     "term": "The knowledge problem",
+     "def": "Hayek's argument that economically relevant knowledge is dispersed and tacit, so it cannot be centralised."
+    },
+    {
+     "term": "Price signal",
+     "def": "A price acting simultaneously as information, incentive and summary of dispersed preferences."
+    },
+    {
+     "term": "Elasticity",
+     "def": "The responsiveness of quantity demanded or supplied to a change in price."
+    },
+    {
+     "term": "Deadweight loss",
+     "def": "Value destroyed when a tax, subsidy or control prevents mutually beneficial trades from occurring."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Adam Smith (1723–1790)",
+     "note": "The Wealth of Nations — specialisation, the extent of the market, and the invisible hand. Also The Theory of Moral Sentiments, which most citers have not read."
+    },
+    {
+     "name": "Friedrich Hayek (1899–1992)",
+     "note": "Prices as a knowledge-aggregation mechanism; the limits of design."
+    },
+    {
+     "name": "Alfred Marshall (1842–1924)",
+     "note": "Supply and demand as scissor blades; elasticity; the marginalist synthesis."
+    },
+    {
+     "name": "Ronald Coase (1910–2013)",
+     "note": "Transaction costs explain why firms exist, and why the assignment of rights matters when bargaining is costly."
+    }
+   ],
+   "debate": {
+    "title": "Can modern computing solve the knowledge problem?",
+    "sides": [
+     {
+      "label": "Perhaps",
+      "text": "Amazon and Walmart already run planned economies larger than mid-century national ones, with real-time demand data Hayek could not imagine. If the constraint was computational, it has loosened enormously."
+     },
+     {
+      "label": "No",
+      "text": "The constraint was never computational. Hayek's point is that the knowledge does not exist in articulable form anywhere prior to being revealed by the act of trading — preferences are discovered through choice, not stored waiting to be queried. More data does not help with knowledge that has not yet been generated."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Use of Knowledge in Society (1945)",
+     "who": "Hayek — twelve pages, free online, essential."
+    },
+    {
+     "title": "I, Pencil",
+     "who": "Leonard Read — a short parable on distributed production."
+    },
+    {
+     "title": "The Undercover Economist",
+     "who": "Tim Harford — the friendliest on-ramp to price theory."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why can't a tax be both a big revenue-raiser and a big behaviour-changer?",
+     "a": "Because the two depend on opposite elasticities. Inelastic demand means people keep buying and you collect revenue; elastic demand means they stop buying and you collect little. Sin taxes are usually sold as both and can only be one."
+    },
+    {
+     "q": "What is the core of Hayek's knowledge problem?",
+     "a": "That the knowledge needed to allocate resources is dispersed, local, often tacit, and partly generated only by the act of trading — so it cannot be assembled centrally regardless of computing power."
+    }
+   ]
+  },
+  {
+   "id": "eco-2",
+   "title": "Market Failure and Public Goods",
+   "oneLine": "The specific, well-defined conditions under which markets do not deliver good outcomes.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Externalities",
+     "p": [
+      "An externality is a cost or benefit falling on someone not party to a transaction. Pollution is the classic negative case: a factory's price does not include the health costs imposed downwind, so the good is overproduced relative to what a fully informed society would choose. Vaccination is the classic positive case: your immunity protects others, you do not capture that benefit, so vaccination is underprovided by private choice alone.",
+      "Standard remedies: <em>Pigouvian taxes</em> set at the marginal external cost, so the price tells the truth; <em>cap-and-trade</em>, which fixes the quantity and lets the market discover the price; and <em>Coasean bargaining</em>, Coase's insight that where property rights are clear and transaction costs low, the parties can bargain to an efficient outcome without a regulator — the rights assignment then determines who pays, not whether efficiency is reached. Climate policy is the largest externality problem ever attempted, and it is hard precisely because transaction costs across billions of actors and generations are enormous."
+     ]
+    },
+    {
+     "h": "Public goods and the free-rider problem",
+     "p": [
+      "A pure public good is <em>non-rival</em> (my consumption does not reduce yours) and <em>non-excludable</em> (I cannot stop you consuming it). National defence, clean air, basic research, and lighthouses in the textbook. Because nobody can be excluded, nobody has an incentive to pay, so private markets underprovide them — which is the least controversial justification for state action across the entire political spectrum.",
+      "Two refinements. <em>Club goods</em> are non-rival but excludable (a streaming service, a toll road) and can be privately provided. <em>Common-pool resources</em> are rival but non-excludable (fisheries, aquifers) and are the setting for the tragedy of the commons — where Ostrom's fieldwork showed communities frequently develop workable governance without either privatisation or nationalisation."
+     ]
+    },
+    {
+     "h": "Information asymmetry and market power",
+     "p": [
+      "Akerlof's \"market for lemons\" showed that when sellers know more than buyers about quality, buyers rationally discount, good sellers exit, average quality falls, buyers discount further — and the market can unravel entirely. The remedies are institutional: warranties, certification, brands, regulation, professional licensing. This is why insurance markets are so heavily regulated: adverse selection (the sick most want cover) and moral hazard (the insured take more risk) are asymmetry problems in pure form.",
+      "Market power is the fourth failure. A monopolist restricts output to raise price, capturing value and destroying some. Modern competition policy struggles with digital markets, where network effects make dominance natural, marginal costs are near zero, and consumer prices — the traditional test of harm — are often zero because the user is not the customer. Whether antitrust should target consumer prices or market structure itself is the live argument."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Externality",
+     "def": "A cost or benefit borne by someone outside a transaction, causing over- or under-provision."
+    },
+    {
+     "term": "Pigouvian tax",
+     "def": "A tax set equal to the marginal external cost so that private cost equals social cost."
+    },
+    {
+     "term": "Public good",
+     "def": "Non-rival and non-excludable; underprovided by markets because free-riding is rational."
+    },
+    {
+     "term": "Common-pool resource",
+     "def": "Rival but non-excludable; vulnerable to depletion absent governance."
+    },
+    {
+     "term": "Adverse selection",
+     "def": "When asymmetric information causes the worst risks to self-select into a market, degrading the pool."
+    },
+    {
+     "term": "Moral hazard",
+     "def": "When being insured or protected changes behaviour towards greater risk-taking."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Arthur Pigou (1877–1959)",
+     "note": "Externalities and corrective taxation."
+    },
+    {
+     "name": "Ronald Coase",
+     "note": "'The Problem of Social Cost' — efficiency depends on transaction costs, not on who holds the right."
+    },
+    {
+     "name": "George Akerlof",
+     "note": "The market for lemons; asymmetric information as a systematic failure mode."
+    },
+    {
+     "name": "Elinor Ostrom",
+     "note": "Empirical design principles for commons governance that beat both privatisation and state control in many settings."
+    }
+   ],
+   "debate": {
+    "title": "Carbon tax or cap-and-trade?",
+    "sides": [
+     {
+      "label": "Tax",
+      "text": "Price certainty lets firms plan investment, administration is simpler, revenue can be rebated to offset regressivity, and there is no allowance market to game or over-allocate."
+     },
+     {
+      "label": "Cap",
+      "text": "The environmental objective is a quantity of emissions, not a price, and only a cap guarantees it. It is also politically easier to introduce because the initial allowances can be distributed to incumbents — which is simultaneously its main weakness."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Market for Lemons (1970)",
+     "who": "Akerlof — short and field-founding."
+    },
+    {
+     "title": "Governing the Commons",
+     "who": "Ostrom — the empirical answer to the tragedy of the commons."
+    },
+    {
+     "title": "The Climate Casino",
+     "who": "William Nordhaus — carbon pricing from the Nobel laureate who built the models."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why do public goods get underprovided by markets?",
+     "a": "Because non-excludability means anyone can consume without paying, so contributing is individually irrational even when everyone wants the good provided — the free-rider problem."
+    },
+    {
+     "q": "What does Coase say determines whether an externality is resolved efficiently?",
+     "a": "Transaction costs. Where rights are clear and bargaining is cheap, parties reach an efficient outcome regardless of who holds the right; the rights assignment determines the distribution of the gains, not the efficiency."
+    }
+   ]
+  },
+  {
+   "id": "eco-3",
+   "title": "Macro I: GDP, Inflation and Unemployment",
+   "oneLine": "The three headline numbers, what they measure, and what they conceal.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "GDP and what it leaves out",
+     "p": [
+      "GDP is the market value of final goods and services produced in an economy over a period. It can be computed three equivalent ways — output, income, or expenditure (C + I + G + net exports) — and the identity is worth internalising because it makes many policy claims immediately checkable.",
+      "Its omissions are well known and still worth stating: unpaid household and care work is excluded; environmental depletion is not netted off; distribution is invisible (GDP per capita can rise while the median falls); and quality improvements are hard to capture, which probably means real growth is understated in technology-heavy periods. What matters most for reading the news is the difference between <em>nominal</em> and <em>real</em> GDP (adjusted for inflation), between <em>total</em> and <em>per capita</em>, and between <em>levels</em> and <em>growth rates</em>. A great deal of misleading commentary lives in the gaps between those pairs."
+     ]
+    },
+    {
+     "h": "Inflation",
+     "p": [
+      "Inflation is a sustained rise in the general price level, not a rise in the price of any particular thing. The distinction matters: relative price changes reallocate resources and are how the economy communicates; a general price rise degrades the measuring rod itself.",
+      "<em>Demand-pull</em> inflation comes from spending exceeding productive capacity. <em>Cost-push</em> comes from supply shocks — energy, shipping, war — raising costs across the board. The distinction drives policy: raising interest rates suppresses demand-pull effectively, but against a cost-push shock it can only reduce demand until it fits the new smaller supply, which is expensive in output and jobs. This is exactly the argument now running inside the Federal Reserve and the Bank of England over an energy-driven price impulse.",
+      "Two further ideas do heavy lifting. <em>Expectations</em>: if people expect inflation, they price and bargain accordingly, and the expectation becomes self-fulfilling — which is why central banks talk so much about credibility. And <em>core</em> inflation (excluding food and energy) is watched not because food and energy do not matter but because they are volatile, so core is a better read on the underlying trend."
+     ]
+    },
+    {
+     "h": "Unemployment",
+     "p": [
+      "The headline rate counts people without work who are actively seeking it, which means it misses discouraged workers who have stopped looking and the underemployed working fewer hours than they want. Read it alongside the <em>participation rate</em> and the <em>employment rate</em>, which are harder to flatter.",
+      "Types: <em>frictional</em> (people between jobs — healthy and unavoidable), <em>structural</em> (skills or location mismatch — the painful kind), and <em>cyclical</em> (deficient aggregate demand — the kind macro policy can address). The <em>Phillips curve</em> posited a stable trade-off between inflation and unemployment; the 1970s destroyed the simple version, and Friedman and Phelps explained why: the trade-off only exists while inflation is unanticipated. The modern successor concept is the NAIRU, the unemployment rate below which inflation accelerates — theoretically important, empirically slippery, and repeatedly revised after the fact."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Real vs nominal",
+     "def": "Whether a figure is adjusted for inflation. Almost every misleading economic claim exploits this gap."
+    },
+    {
+     "term": "Demand-pull vs cost-push",
+     "def": "Inflation from excess spending versus inflation from supply shocks; they call for different responses."
+    },
+    {
+     "term": "Core inflation",
+     "def": "Price changes excluding volatile food and energy, used as a signal of the underlying trend."
+    },
+    {
+     "term": "Inflation expectations",
+     "def": "What people believe future inflation will be; self-fulfilling, hence central banks' focus on credibility."
+    },
+    {
+     "term": "Phillips curve",
+     "def": "The posited short-run trade-off between inflation and unemployment, stable only while inflation is unanticipated."
+    },
+    {
+     "term": "NAIRU",
+     "def": "The non-accelerating-inflation rate of unemployment — the estimated floor below which wage pressure builds."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "John Maynard Keynes (1883–1946)",
+     "note": "Demand can be deficient; the economy has no automatic mechanism returning it to full employment quickly."
+    },
+    {
+     "name": "Milton Friedman (1912–2006)",
+     "note": "Inflation as 'always and everywhere a monetary phenomenon'; the expectations-augmented Phillips curve."
+    },
+    {
+     "name": "Simon Kuznets (1901–1985)",
+     "note": "Built national accounts, and warned that welfare should not be inferred from them."
+    },
+    {
+     "name": "William Phillips (1914–1975)",
+     "note": "The empirical curve; also built a hydraulic computer that modelled the economy with coloured water."
+    }
+   ],
+   "debate": {
+    "title": "Should central banks raise rates against an energy shock?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "Repeated supply shocks that keep inflation above target for years become embedded in expectations and wage-setting. Once that happens the cost of removing them is far higher. Restraint now is cheaper than credibility repair later."
+     },
+     {
+      "label": "No",
+      "text": "Monetary policy cannot produce oil. Raising rates against a supply shock suppresses demand until it fits the smaller supply, buying lower prices with lost output and jobs while doing nothing about the cause. Look through it and protect the real economy."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "GDP: A Brief but Affectionate History",
+     "who": "Diane Coyle — what the number is and is not."
+    },
+    {
+     "title": "The General Theory, ch. 1–3 and 12",
+     "who": "Keynes — chapter 12 on expectations is famous for good reason."
+    },
+    {
+     "title": "ONS and Bank of England Monetary Policy Reports",
+     "who": "Free, primary, and better than most journalism about them."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is a rise in one good's price not inflation?",
+     "a": "Because inflation is a change in the general price level. A single relative price change is information — it reallocates resources — whereas general inflation degrades the unit of account everyone uses to make decisions."
+    },
+    {
+     "q": "Why does a cost-push shock put central banks in a bind?",
+     "a": "Because the tool available reduces demand, not costs. To bring prices down it must shrink demand to fit the reduced supply, which means accepting lost output and higher unemployment to address a problem monetary policy did not cause."
+    }
+   ]
+  },
+  {
+   "id": "eco-4",
+   "title": "Money, Banking and Central Banks",
+   "oneLine": "Where money comes from, what banks actually do, and how rate decisions transmit.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "What money is",
+     "p": [
+      "Money is defined by three functions: medium of exchange, unit of account, store of value. Almost anything can serve — cattle, shells, cigarettes in prison camps — and modern money is <em>fiat</em>: it has value because it is generally accepted and because the state requires taxes to be paid in it, not because of any commodity backing.",
+      "The most common misconception is about where money comes from. In modern economies, most money is created by commercial banks when they make loans. A bank does not lend out deposits it holds; it creates a deposit by crediting the borrower's account, expanding both sides of its balance sheet simultaneously. The Bank of England's own 2014 bulletin \"Money creation in the modern economy\" says this explicitly, and it is worth reading because the textbook money-multiplier story taught for decades is misleading. Bank lending is constrained by capital requirements, profitability and demand for loans — not by a pile of reserves waiting to be multiplied."
+     ]
+    },
+    {
+     "h": "What central banks do",
+     "p": [
+      "Three roles. <em>Monetary policy</em>: setting a policy interest rate to hit an inflation target (2% in the UK, US and euro area). <em>Lender of last resort</em>: lending freely against good collateral at a penalty rate in a panic — Bagehot's rule from 1873, and still the operating manual. <em>Financial stability</em>: bank supervision, stress tests and capital rules, a role greatly expanded after 2008.",
+      "Transmission from a rate change to inflation runs through several channels and takes roughly 12 to 24 months: borrowing costs for households and firms; asset prices and the wealth effect; the exchange rate, which alters import prices; and expectations. The lags are the central difficulty of the job — you are steering with a delayed response to a target you can only forecast."
+     ]
+    },
+    {
+     "h": "Unconventional policy and its legacy",
+     "p": [
+      "When rates hit the effective lower bound after 2008, central banks turned to <em>quantitative easing</em>: creating reserves to buy government bonds, pushing up their price and down their yield, and pushing investors towards riskier assets. Whether it worked as intended is genuinely contested. It probably prevented a deeper depression; it also inflated asset prices, which are held disproportionately by the already wealthy, making QE a plausible contributor to wealth inequality — an intensely political outcome from a supposedly technical institution.",
+      "<em>Quantitative tightening</em>, the unwind, is now under way in several jurisdictions with no historical precedent to guide it. And the entire arrangement rests on <em>central bank independence</em>, granted on the argument that politicians facing elections will always prefer inflation later to unemployment now. The evidence for independence improving inflation outcomes is decent; the democratic objection — that unelected officials make distributional choices — has grown louder as their remit has widened."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Fiat money",
+     "def": "Money without commodity backing, valuable through general acceptance and tax obligation."
+    },
+    {
+     "term": "Endogenous money creation",
+     "def": "The fact that commercial bank lending creates deposits, rather than lending out pre-existing deposits."
+    },
+    {
+     "term": "Lender of last resort",
+     "def": "Bagehot's rule: in a panic, lend freely, against good collateral, at a penalty rate."
+    },
+    {
+     "term": "Monetary transmission mechanism",
+     "def": "The channels — credit, asset prices, exchange rate, expectations — through which rate changes reach inflation, with long lags."
+    },
+    {
+     "term": "Quantitative easing",
+     "def": "Central bank purchases of assets with newly created reserves to lower long-term yields when policy rates are at their floor."
+    },
+    {
+     "term": "Central bank independence",
+     "def": "Insulating monetary policy from electoral cycles to make an inflation commitment credible."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Walter Bagehot (1826–1877)",
+     "note": "Lombard Street — the crisis-lending doctrine still used verbatim."
+    },
+    {
+     "name": "Milton Friedman",
+     "note": "A Monetary History of the United States — argued the Fed turned a recession into the Great Depression by letting money supply collapse."
+    },
+    {
+     "name": "Hyman Minsky (1919–1996)",
+     "note": "Stability breeds instability: long calm periods encourage leverage that makes the next crisis worse."
+    },
+    {
+     "name": "Mervyn King",
+     "note": "The End of Alchemy — a former BoE governor on banking's fundamental fragility."
+    }
+   ],
+   "debate": {
+    "title": "Was quantitative easing worth it?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "It prevented a debt-deflation spiral when conventional policy was exhausted. The counterfactual is the 1930s, and the cost of that is far higher than any asset-price side effect."
+     },
+     {
+      "label": "It was corrosive",
+      "text": "It transferred wealth to asset holders, kept unproductive zombie firms alive, encouraged government borrowing that will be repriced on the unwind, and pulled an unelected institution deep into distributional politics."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Money creation in the modern economy (2014)",
+     "who": "Bank of England Quarterly Bulletin — free, authoritative, ten pages."
+    },
+    {
+     "title": "Lombard Street",
+     "who": "Bagehot — 1873, still operationally relevant."
+    },
+    {
+     "title": "The End of Alchemy",
+     "who": "Mervyn King — a governor's account of what banking really is."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Do banks lend out deposits?",
+     "a": "No. When a bank makes a loan it creates a new deposit in the borrower's account, expanding both sides of its balance sheet. Lending is constrained by capital, profitability and loan demand, not by reserves held."
+    },
+    {
+     "q": "Why are the lags a central problem for monetary policy?",
+     "a": "Because a rate change takes roughly one to two years to affect inflation, so decisions must be made against a forecast of conditions that far ahead — meaning policy is always being set for an economy that does not yet exist."
+    }
+   ]
+  },
+  {
+   "id": "eco-5",
+   "title": "Fiscal Policy, Debt and Deficits",
+   "oneLine": "What government borrowing is, when it is a problem, and how to read a Budget.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Deficits, debt and the ratio that matters",
+     "p": [
+      "A <em>deficit</em> is the annual shortfall of revenue against spending; <em>debt</em> is the accumulated stock. Almost all serious analysis uses debt as a share of GDP rather than the absolute figure, because what matters is capacity to service it relative to the size of the economy.",
+      "The dynamics are captured by comparing <em>r</em> (the interest rate on government debt) with <em>g</em> (the nominal growth rate). If g exceeds r, the ratio falls even while running a modest primary deficit — the economy outgrows the debt. If r exceeds g, stabilising the ratio requires a primary surplus, and the required surplus grows with the debt stock. This single comparison explains most of what has changed in fiscal debate since 2022: a decade of r below g made borrowing look nearly costless, and its reversal has made every finance ministry's arithmetic harder.",
+      "A crucial distinction, often lost: a country borrowing in a currency it issues cannot be forced into technical default, but it can face inflation or a collapsing exchange rate. Borrowing in a foreign currency — the position of many emerging economies, and of eurozone members in a specific sense — is a genuinely different and more dangerous situation."
+     ]
+    },
+    {
+     "h": "Multipliers and timing",
+     "p": [
+      "The <em>fiscal multiplier</em> is how much GDP changes per unit of government spending. It is not a constant. It is larger in a deep recession with idle capacity and interest rates at their floor; smaller at full employment, where government spending competes for scarce resources and central banks may offset it. It is larger for direct spending and transfers to liquidity-constrained households, smaller for tax cuts to high savers.",
+      "<em>Automatic stabilisers</em> do a lot of this work without any decision: in a downturn, tax receipts fall and unemployment benefits rise, cushioning demand without a vote. Countries with larger welfare states therefore have more automatic countercyclical policy and need less discretionary intervention."
+     ]
+    },
+    {
+     "h": "How to read a Budget",
+     "p": [
+      "Four habits. First, check whether a figure is annual or cumulative over several years — \"£20 billion for X\" often means over five years, which is a quarter of the impact implied. Second, check the baseline: an announcement can be a cut relative to previous plans while sounding like an increase. Third, check whether it is real or nominal, since a nominal freeze during 3% inflation is a real cut. Fourth, read the independent fiscal body's assessment — the OBR in the UK, the CBO in the US — rather than the ministry's press release. These institutions exist precisely because governments have a systematic incentive to present optimistic forecasts, and their scoring is where the real story usually is."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Primary balance",
+     "def": "Revenue minus spending excluding interest payments; the measure of underlying fiscal stance."
+    },
+    {
+     "term": "r minus g",
+     "def": "The gap between the interest rate on debt and nominal growth; determines whether the debt ratio falls automatically."
+    },
+    {
+     "term": "Fiscal multiplier",
+     "def": "The change in GDP per unit of fiscal stimulus; state-dependent, not a constant."
+    },
+    {
+     "term": "Automatic stabilisers",
+     "def": "Tax and benefit elements that cushion the cycle without new legislation."
+    },
+    {
+     "term": "Crowding out",
+     "def": "Government borrowing raising interest rates and displacing private investment — significant at full employment, weak in a slump."
+    },
+    {
+     "term": "Fiscal rule",
+     "def": "A self-imposed constraint on borrowing or debt, used to signal credibility; frequently redefined when binding."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "John Maynard Keynes",
+     "note": "Deficit spending in a slump as demand management, not as a permanent stance."
+    },
+    {
+     "name": "Carmen Reinhart & Kenneth Rogoff",
+     "note": "This Time Is Different — eight centuries of debt crises; their 90% threshold claim was later found to rest on a spreadsheet error, which is itself a lesson."
+    },
+    {
+     "name": "Olivier Blanchard",
+     "note": "The 2019 address arguing that with r below g, public debt may carry no fiscal cost — and his later warnings as that condition reversed."
+    },
+    {
+     "name": "Stephanie Kelton",
+     "note": "The Deficit Myth — the MMT case; read with a mainstream critique alongside."
+    }
+   ],
+   "debate": {
+    "title": "Does government debt matter?",
+    "sides": [
+     {
+      "label": "Less than assumed",
+      "text": "A currency-issuing state faces an inflation constraint, not a solvency one. Debt-financed public investment that raises growth can lower the debt ratio, and austerity in a downturn is self-defeating because it shrinks the denominator."
+     },
+     {
+      "label": "More than claimed",
+      "text": "The inflation constraint is real and was demonstrated in 2021–23. High debt means high rate sensitivity, and interest payments crowd out everything else. Ageing populations mean the structural position deteriorates automatically, before any new commitment."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Public Debt and Low Interest Rates (2019)",
+     "who": "Olivier Blanchard — the AEA presidential address that reframed the debate."
+    },
+    {
+     "title": "The Deficit Myth",
+     "who": "Stephanie Kelton — the strongest popular MMT statement."
+    },
+    {
+     "title": "OBR Economic and Fiscal Outlook",
+     "who": "Free; the actual numbers behind UK Budget coverage."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the debt-to-GDP ratio used instead of the absolute debt figure?",
+     "a": "Because servicing capacity depends on the size of the economy generating the tax base. A given debt is trivial for a large economy and crushing for a small one."
+    },
+    {
+     "q": "Why is the fiscal multiplier larger in a recession?",
+     "a": "Because idle capacity means government spending draws on unused resources rather than bidding them away from private uses, and with rates at the floor the central bank is not offsetting the stimulus."
+    }
+   ]
+  },
+  {
+   "id": "eco-6",
+   "title": "Growth: Why Some Countries Are Rich",
+   "oneLine": "The most consequential question in economics, and the least settled.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "The scale of the thing",
+     "p": [
+      "For almost all of human history, living standards were roughly flat: a peasant in 1700 lived much as one in 1000. Then, in a handful of places from the late eighteenth century, output per person began compounding, and the difference between compounding at 1% and 2% over two centuries is the difference between a doubling and a sevenfold rise. Everything about modern life is downstream of this. Understanding why it started, and why it has not reached everywhere, is the single highest-stakes question in the field."
+     ]
+    },
+    {
+     "h": "The models",
+     "p": [
+      "The <em>Solow model</em> shows that capital accumulation alone runs into diminishing returns: each additional machine per worker adds less. Long-run growth in output per head must therefore come from technological progress, which Solow's model treats as exogenous — an admission that the main driver sat outside the model. It does predict <em>conditional convergence</em>: poor countries with similar institutions should grow faster and catch up, which some (South Korea, Poland, China) dramatically did and many did not.",
+      "<em>Endogenous growth theory</em> (Romer) brings technology inside. Ideas are non-rival: once discovered, a design can be used by everyone at no additional cost. This means ideas have increasing returns, that market size matters for innovation, and that intellectual property is a deliberate trade-off between incentivising creation and restricting use. It also implies growth need not slow with diminishing capital returns, because knowledge does not diminish.",
+      "<em>Institutional accounts</em> (North; Acemoglu and Robinson) argue that neither capital nor ideas explain the divergence, because both flow to where they are protected. What matters is whether property is secure, contracts enforced, entry open and elites constrained. Their evidence includes natural experiments — the Koreas, colonial settler mortality — that are hard to explain any other way. The rival <em>geography</em> and <em>culture</em> accounts have weakened but not vanished."
+     ]
+    },
+    {
+     "h": "Productivity, and the puzzle of the last two decades",
+     "p": [
+      "Productivity — output per hour — is what ultimately determines wages and living standards. \"Productivity isn't everything, but in the long run it is almost everything\" (Krugman). The puzzle is that measured productivity growth across advanced economies slowed sharply after 2005 and has stayed slow through a period of extraordinary apparent technological change. The UK's slowdown has been particularly severe, with output per hour roughly 20% below its pre-2008 trend.",
+      "Candidate explanations: mismeasurement of digital goods; a long lag between general-purpose technologies and their diffusion, as with electricity; the exhaustion of easy ideas (Bloom et al. find research productivity is falling — more researchers for each doubling); weak business investment; and market concentration reducing competitive pressure. None commands consensus, and the arrival of large-scale AI investment is now the live test of the diffusion-lag hypothesis."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Compounding",
+     "def": "Small differences in annual growth rates produce enormous differences in living standards over decades."
+    },
+    {
+     "term": "Solow model",
+     "def": "Capital accumulation faces diminishing returns; long-run per-capita growth requires technological progress."
+    },
+    {
+     "term": "Non-rivalry of ideas",
+     "def": "An idea can be used by any number of people at once, giving knowledge increasing returns to scale."
+    },
+    {
+     "term": "Conditional convergence",
+     "def": "Poorer economies grow faster than rich ones, conditional on similar institutions and investment rates."
+    },
+    {
+     "term": "Total factor productivity",
+     "def": "The part of output growth not explained by more labour or capital — the residual we label technology."
+    },
+    {
+     "term": "Productivity puzzle",
+     "def": "The post-2005 slowdown in measured productivity growth despite rapid apparent technological change."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Robert Solow (1924–2023)",
+     "note": "The growth model, and 'you can see the computer age everywhere but in the productivity statistics'."
+    },
+    {
+     "name": "Paul Romer",
+     "note": "Endogenous growth; ideas as non-rival and partially excludable."
+    },
+    {
+     "name": "Joseph Schumpeter (1883–1950)",
+     "note": "Creative destruction — growth requires the destruction of incumbents, which they resist politically."
+    },
+    {
+     "name": "Robert Gordon",
+     "note": "The Rise and Fall of American Growth — the case that 1870–1970 innovations were simply more transformative than digital ones."
+    }
+   ],
+   "debate": {
+    "title": "Is slow growth a policy failure or a natural ceiling?",
+    "sides": [
+     {
+      "label": "Policy failure",
+      "text": "Planning restrictions, chronic underinvestment, weak competition and short-termist capital markets are choices. Countries with the same technology grow at different rates, which points at institutions, not physics."
+     },
+     {
+      "label": "A ceiling",
+      "text": "Gordon's case: indoor plumbing, electrification, antibiotics and the internal combustion engine were one-time transformations. Ideas are getting harder to find, and the service-heavy composition of rich economies limits achievable productivity growth."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Rise and Fall of American Growth",
+     "who": "Robert Gordon — long, data-rich, pessimistic."
+    },
+    {
+     "title": "How Asia Works",
+     "who": "Joe Studwell — a concrete, contrarian account of development that worked."
+    },
+    {
+     "title": "Are Ideas Getting Harder to Find?",
+     "who": "Bloom, Jones, Van Reenen & Webb — the key paper on research productivity decline."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why can't capital accumulation alone sustain long-run growth in output per head?",
+     "a": "Diminishing returns: each additional unit of capital per worker adds less output than the last, so accumulation eventually only offsets depreciation. Sustained growth needs technological progress."
+    },
+    {
+     "q": "What follows from ideas being non-rival?",
+     "a": "Increasing returns to knowledge, so market size and the number of people working on problems matter; and a genuine trade-off in intellectual property between rewarding creation and restricting free use of something costless to copy."
+    }
+   ]
+  },
+  {
+   "id": "eco-7",
+   "title": "Trade, Globalisation and Its Discontents",
+   "oneLine": "Comparative advantage, why economists like trade, and why the politics went badly anyway.",
+   "minutes": 8,
+   "body": [
+    {
+     "h": "Comparative advantage",
+     "p": [
+      "Ricardo's 1817 insight is the most counterintuitive correct idea in economics. Even if one country is worse at producing <em>everything</em> in absolute terms, both countries gain from specialising in what they produce at lowest <em>opportunity cost</em> and trading. Absolute advantage is irrelevant; relative advantage is everything.",
+      "The lawyer-and-secretary analogy makes it concrete: a lawyer may type faster than her secretary, but every hour she spends typing costs an hour of legal work worth far more. She should specialise and delegate, and both are better off. The logic extends to countries, and it is why nearly all economists support trade liberalisation in the aggregate."
+     ]
+    },
+    {
+     "h": "The distribution problem",
+     "p": [
+      "The aggregate case is solid; the distributional case was oversold. The Stolper–Samuelson theorem shows that trade raises returns to a country's abundant factor and lowers returns to its scarce one. In rich countries that means capital and skilled labour gain while unskilled labour loses — in relative terms and, if the shock is large enough, in absolute ones.",
+      "The \"China shock\" literature (Autor, Dorn and Hanson) established empirically what theory permitted: US local labour markets exposed to Chinese import competition after 2001 saw persistent employment and wage losses, with adjustment far slower and more geographically concentrated than models assumed. Workers did not smoothly reallocate; whole towns declined for a decade or more. The compensation mechanisms that were supposed to make the gains general — retraining, transfers, regional policy — were largely not delivered.",
+      "This is the crux of the political story. Trade produced large aggregate gains and concentrated losses, the losses were geographically clustered, and the resulting political reaction was entirely predictable in retrospect. The economics profession's error was less in the theory than in treating the compensation step as someone else's problem."
+     ]
+    },
+    {
+     "h": "Where trade policy is now",
+     "p": [
+      "Three shifts to track. <em>Reshoring and friend-shoring</em>: after Covid and rising geopolitical tension, resilience is being weighted against efficiency, at a real cost in price. <em>Industrial policy is back</em>: the US CHIPS and IRA packages, the EU's response, and China's long-standing programmes mark the end of the presumption against sectoral subsidy — an intellectual reversal of the past decade. And <em>the rules-based system is weakening</em>: the WTO's appellate body has been non-functional since 2019, so trade disputes are increasingly settled by unilateral action, which advantages large economies."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Comparative advantage",
+     "def": "Gains from specialising by relative opportunity cost, even without any absolute advantage."
+    },
+    {
+     "term": "Stolper–Samuelson theorem",
+     "def": "Trade raises returns to the abundant factor and lowers returns to the scarce one within each country."
+    },
+    {
+     "term": "China shock",
+     "def": "The empirically documented concentrated, persistent labour-market damage in regions exposed to Chinese import competition."
+    },
+    {
+     "term": "Terms of trade",
+     "def": "The ratio of export prices to import prices; a key determinant of national income independent of volumes."
+    },
+    {
+     "term": "Friend-shoring",
+     "def": "Relocating supply chains to geopolitically aligned countries, trading efficiency for security."
+    },
+    {
+     "term": "Infant industry argument",
+     "def": "The case for temporary protection while a nascent sector reaches competitive scale; historically important and easily abused."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "David Ricardo (1772–1823)",
+     "note": "Comparative advantage; also the theory of rent, which underpins land taxation arguments."
+    },
+    {
+     "name": "Paul Krugman",
+     "note": "New trade theory — economies of scale and product variety explain trade between similar rich countries, which Ricardo cannot."
+    },
+    {
+     "name": "Dani Rodrik",
+     "note": "The globalisation trilemma: deep integration, national sovereignty and democracy — pick two."
+    },
+    {
+     "name": "David Autor",
+     "note": "The China shock evidence that changed the profession's view of adjustment costs."
+    }
+   ],
+   "debate": {
+    "title": "Are tariffs ever justified?",
+    "sides": [
+     {
+      "label": "Rarely",
+      "text": "Tariffs are taxes on your own consumers and on your exporters' input costs; the incidence evidence from the 2018–19 US tariffs shows domestic buyers bore nearly all of it. Retaliation follows, and protected industries rarely become competitive."
+     },
+     {
+      "label": "Sometimes",
+      "text": "Genuine security dependencies — semiconductors, pharmaceutical precursors, critical minerals — are not adequately priced by markets that ignore tail risk. And every currently rich country used protection at some stage of its industrialisation."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Globalization Paradox",
+     "who": "Dani Rodrik — the trilemma, clearly argued."
+    },
+    {
+     "title": "The China Shock (2016)",
+     "who": "Autor, Dorn & Hanson — the empirical turning point."
+    },
+    {
+     "title": "Kicking Away the Ladder",
+     "who": "Ha-Joon Chang — the historical case against free-trade orthodoxy."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does comparative advantage hold even for a country worse at everything?",
+     "a": "Because specialisation is governed by opportunity cost, not absolute productivity. Producing the good you are least bad at frees resources from the good where your disadvantage is greatest, and both partners gain."
+    },
+    {
+     "q": "What did the China shock literature change?",
+     "a": "It showed adjustment costs from trade are far larger, more persistent and more geographically concentrated than standard models assumed — validating the aggregate gains while demolishing the assumption that displaced workers reallocate smoothly."
+    }
+   ]
+  },
+  {
+   "id": "eco-8",
+   "title": "Behavioural Economics and Inequality",
+   "oneLine": "Where the standard model breaks, and what the distribution data actually shows.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Systematic, predictable irrationality",
+     "p": [
+      "The rational-agent model was never meant as psychology; it was a tractable approximation. Kahneman and Tversky showed the deviations are not random noise but systematic and predictable, which means they can be modelled — and exploited.",
+      "<em>Loss aversion</em>: losses feel roughly twice as painful as equivalent gains feel good, which explains why reform that makes most people better off is harder to pass than the arithmetic suggests. <em>Anchoring</em>: an irrelevant initial number drags subsequent estimates towards it. <em>Present bias</em>: we discount the future steeply and inconsistently, hence under-saving and the effectiveness of automatic pension enrolment. <em>Framing</em>: identical options described as a 90% survival rate or a 10% mortality rate produce different choices. <em>Endowment effect</em>: owning something raises its valuation immediately.",
+      "The policy application is <em>choice architecture</em>: defaults, framing and friction change behaviour without removing options. Automatic pension enrolment is the flagship success. The critique — that nudging is manipulation by unaccountable designers, and that some findings replicated poorly — is fair and has tempered the field's early triumphalism without overturning the core."
+     ]
+    },
+    {
+     "h": "Reading inequality data",
+     "p": [
+      "Be precise about which inequality is in question. <em>Income</em> inequality (annual flow) is much lower than <em>wealth</em> inequality (accumulated stock) everywhere. Both are usually reported before or after taxes and transfers, and the two figures differ enormously: UK and US market income inequality are similar, while post-tax-and-transfer inequality is meaningfully lower in the UK. <em>Global</em> inequality between individuals has fallen substantially since 1990 as China and India grew, while inequality <em>within</em> most rich countries rose — which is why people making opposite claims can both be citing real data.",
+      "Piketty's r > g argument holds that when the return on capital exceeds the growth rate, inherited wealth compounds faster than earned income, so wealth concentrates absent countervailing forces such as war, depression or heavy taxation. The empirical work behind it — the World Inequality Database — is a genuine contribution regardless of what one makes of the theory. The main critiques concern whether r > g mechanically implies rising inequality given consumption, taxation and dispersion of returns."
+     ]
+    },
+    {
+     "h": "Why it might matter economically",
+     "p": [
+      "Beyond fairness, several channels connect inequality to economic performance. High inequality with low mobility means talent is misallocated — the \"lost Einsteins\" evidence that children of low-income parents with equal test scores patent far less often. Concentrated wealth converts into political influence and then into rules that protect incumbents. And high-income households have lower marginal propensity to consume, so a more concentrated distribution can weaken aggregate demand.",
+      "The counter-case is that some inequality is the necessary return to risk-taking and effort, that mobility matters more than the static distribution, and that measures should target absolute poverty and opportunity rather than the gap itself. The empirical relationship between inequality and growth is genuinely mixed across studies, and anyone claiming it is settled in either direction is overreaching."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Loss aversion",
+     "def": "Losses are weighted roughly twice as heavily as equivalent gains."
+    },
+    {
+     "term": "Choice architecture",
+     "def": "Designing how options are presented — defaults, order, friction — to influence decisions without restricting them."
+    },
+    {
+     "term": "Present bias",
+     "def": "Steeply and inconsistently discounting future costs and benefits relative to immediate ones."
+    },
+    {
+     "term": "Gini coefficient",
+     "def": "A 0-to-1 summary of distributional inequality; simple, widely used, and insensitive to where in the distribution change occurs."
+    },
+    {
+     "term": "r > g",
+     "def": "Piketty's condition: when returns to capital exceed growth, existing wealth compounds faster than incomes."
+    },
+    {
+     "term": "Intergenerational mobility",
+     "def": "How strongly a child's outcomes are predicted by their parents'; low in the US and UK, higher in the Nordics and Canada."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Daniel Kahneman & Amos Tversky",
+     "note": "Prospect theory; the founding programme of behavioural economics."
+    },
+    {
+     "name": "Richard Thaler",
+     "note": "Nudge; mental accounting; brought behavioural findings into policy."
+    },
+    {
+     "name": "Thomas Piketty",
+     "note": "Capital in the Twenty-First Century; the World Inequality Database."
+    },
+    {
+     "name": "Raj Chetty",
+     "note": "Administrative-data work on mobility showing precisely where and for whom opportunity has closed."
+    }
+   ],
+   "debate": {
+    "title": "Is nudging legitimate policy?",
+    "sides": [
+     {
+      "label": "Yes",
+      "text": "There is no neutral choice architecture — some default always exists — so the only question is whether it is chosen thoughtfully. Nudges preserve every option and are far less coercive than bans or taxes."
+     },
+     {
+      "label": "Uneasy",
+      "text": "It works by exploiting the same cognitive weaknesses advertisers use, without the transparency of an honest argument. It also lets governments claim to have acted on structural problems with interventions whose measured effects are frequently small."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Thinking, Fast and Slow",
+     "who": "Kahneman — the standard account, with the caveat that some cited studies replicated poorly."
+    },
+    {
+     "title": "Capital in the Twenty-First Century",
+     "who": "Piketty — read the data chapters even if you reject the thesis."
+    },
+    {
+     "title": "World Inequality Report",
+     "who": "Free, updated, the best single source of distribution data."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does loss aversion make reform difficult?",
+     "a": "Because those who lose from a change feel the loss about twice as intensely as winners feel an equivalent gain, so opposition is more motivated and better organised than support even when the reform is net positive."
+    },
+    {
+     "q": "How can global inequality fall while inequality rises in most countries?",
+     "a": "Because they measure different things. Rapid growth in populous poorer countries narrows the gap between individuals worldwide, while within rich countries the distribution has widened. Both statements are true of the same data."
+    }
+   ]
+  }
+ ]
+}

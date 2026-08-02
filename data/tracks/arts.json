@@ -1,0 +1,890 @@
+{
+ "id": "arts",
+ "name": "Arts & Creativity",
+ "tagline": "How made things produce their effects, and how we came to argue about their worth",
+ "accent": "#f0abfc",
+ "blurb": "The arts are usually taught either as a heritage list to be admired or as a matter of personal response beyond argument. Both dodge the interesting part, which is mechanism: what a sentence, a cadence, a cut or a picture plane is actually doing to a reader, listener or viewer, and why particular techniques reliably produce particular effects. This track starts with the definitional problem, works through five media in enough technical detail to change how you attend to them, then turns to the making of work and to the contested business of judging it.",
+ "modules": [
+  {
+   "id": "art-1",
+   "title": "What Art Is For",
+   "oneLine": "The main answers to what art is and does, and why the definition question turns out to have stakes.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Mimesis and its long shadow",
+     "p": [
+      "The oldest Western account is that art imitates. Plato used it against art: in <em>Republic</em> X the painter copies a bed that a carpenter already copied from the form of a bed, so art sits at a third remove from truth and trades in appearance. Aristotle took the same premise to the opposite conclusion in the <em>Poetics</em>: imitation is a natural human faculty and a source of knowledge, and tragedy in particular works on the audience through pity and fear to produce <em>katharsis</em> — a term he never defines and which has been fought over ever since.",
+      "Mimesis remained the default until roughly the eighteenth century, and it explains a great deal of what art historically valued: likeness, decorum, the well-observed gesture. Its weakness is that it fails on obvious cases. It has little to say about a fugue, a carpet, a cathedral or a lyric poem, and it makes abstraction unintelligible rather than merely difficult. Any theory that rules out most of the world's art is describing a genre, not a category."
+     ]
+    },
+    {
+     "h": "Expression, form, and the retreat from definition",
+     "p": [
+      "The Romantic reversal put the artist's inner state at the centre. Tolstoy's <em>What Is Art?</em> (1897) is the blunt version: art is the transmission of feeling, an infection passed from maker to audience, and on that basis he dismissed most of the canon including his own novels. R.G. Collingwood refined it in 1938 by distinguishing art proper — the clarification of an emotion the artist did not fully possess until the work was made — from craft, which executes a prior plan. The trouble is that expression theories struggle to explain why the work matters rather than the feeling, and why forgeries and sincere bad poems fail.",
+      "Formalism answered that the feeling is in the arrangement. Clive Bell's <em>significant form</em> (1914) held that what all visual art shares is a configuration of lines and colours provoking a specific aesthetic emotion, independent of subject and context. This licensed serious attention to art outside the European tradition, which was a genuine gain, but it required treating a Benin bronze as pure shape while ignoring what it was for. Morris Weitz drew the sceptical conclusion in 1956: following Wittgenstein, art is an open concept held together by family resemblance, and any closed definition will be falsified by the next artist who wants to falsify it."
+     ]
+    },
+    {
+     "h": "The institutional turn, and why this is not academic",
+     "p": [
+      "Arthur Danto's 1964 essay on the artworld began from Warhol's <em>Brillo Boxes</em>, shown that year at the Stable Gallery: objects visually near-identical to supermarket cartons. If two things can look the same and only one be art, the difference cannot be perceptual. Danto located it in an atmosphere of theory and history; George Dickie's institutional theory made it procedural — something is art when a person acting on behalf of the artworld confers candidate status on it. The standard objection is circularity, and Dickie largely accepted that the definition is informative rather than reductive.",
+      "The stakes are practical. Customs officers ruled in <em>Brancusi v. United States</em> (1928) that <em>Bird in Space</em> was art and therefore duty-free, overturning a tariff assessment that treated it as manufactured metal. Arts funding, obscenity law, cultural-property restitution, VAT treatment and now the copyright status of machine-generated images all require somebody to draw a line the theorists cannot draw cleanly. That is the honest answer to the sense that this is word-play: institutions have to decide, and they decide with these arguments in hand."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Mimesis",
+     "def": "Imitation or representation as the defining function of art; the dominant Western account from Plato to the eighteenth century."
+    },
+    {
+     "term": "Katharsis",
+     "def": "Aristotle's term for what tragedy accomplishes in the spectator through pity and fear; variously read as purgation, purification or clarification."
+    },
+    {
+     "term": "Significant form",
+     "def": "Clive Bell's claim that the aesthetically relevant property of visual art is its configuration of line and colour, not its subject."
+    },
+    {
+     "term": "Open concept",
+     "def": "Weitz's Wittgensteinian view that art has no necessary and sufficient conditions, only overlapping family resemblances."
+    },
+    {
+     "term": "Institutional theory of art",
+     "def": "Dickie's account that artefacts become art through status conferred by agents of the artworld rather than through intrinsic properties."
+    },
+    {
+     "term": "Aesthetic autonomy",
+     "def": "The eighteenth-century idea that art is to be judged by its own standards rather than by moral, religious or practical usefulness."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Aristotle (384–322 BC)",
+     "note": "The Poetics treats plot as the soul of tragedy and ranks structure above character — the first technical criticism, not the first appreciation."
+    },
+    {
+     "name": "Immanuel Kant (1724–1804)",
+     "note": "Made aesthetic judgement disinterested and yet claiming universal assent, which set the terms for everything after, including its critics."
+    },
+    {
+     "name": "Arthur Danto (1924–2013)",
+     "note": "Argued from Warhol that indiscernible objects can differ in status, so art-ness is conferred by theory and history, not by the eye."
+    },
+    {
+     "name": "Morris Weitz (1916–1981)",
+     "note": "Argued that any definition of art must fail in principle, because openness to novelty is constitutive of the practice."
+    }
+   ],
+   "debate": {
+    "title": "Can art be defined at all?",
+    "sides": [
+     {
+      "label": "Definition is possible",
+      "text": "Weitz confuses the openness of a category's membership with the impossibility of stating its conditions. Historical definitions — a work is art if it is intended for regard in ways earlier art was regarded — accommodate novelty without abandoning the project, and we plainly do distinguish art from non-art thousands of times a day."
+     },
+     {
+      "label": "Definition is a category error",
+      "text": "Every proposed condition has been deliberately broken by artists who understood the condition. That is not an accident of history but the internal logic of a practice that prizes rupture. What we actually have is a shifting set of institutional decisions dressed up as discoveries about essence."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Transfiguration of the Commonplace",
+     "who": "Arthur Danto — the fullest working-out of the indiscernibles argument."
+    },
+    {
+     "title": "Art and Its Objects",
+     "who": "Richard Wollheim — sceptical, precise, and good on why forgeries matter."
+    },
+    {
+     "title": "But Is It Art?",
+     "who": "Cynthia Freeland — a genuinely short introduction that does not condescend."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why did Warhol's Brillo Boxes create a problem for perceptual theories of art?",
+     "a": "Because the gallery object and the shop carton could be visually indistinguishable while only one counted as art. Whatever makes the difference is therefore not available to the eye, which pushes the explanation towards context, intention and institution."
+    },
+    {
+     "q": "What is the standard objection to the institutional theory, and how strong is it?",
+     "a": "That it is circular: art is what the artworld says is art, and the artworld is the people who deal in art. Dickie conceded the circle but argued it is informative rather than vicious, since it correctly identifies where the decision actually gets made."
+    }
+   ]
+  },
+  {
+   "id": "art-2",
+   "title": "How To Read A Novel",
+   "oneLine": "The mechanics of narration and consciousness, and what modernism withdrew from the realist contract.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Story, plot and the machinery of sequence",
+     "p": [
+      "The Russian formalists separated <em>fabula</em>, the events in chronological order, from <em>syuzhet</em>, the order and manner in which the text delivers them. Almost everything called suspense, irony or revelation is a relation between the two. A detective novel is a syuzhet that withholds a fabula it possesses from the first page; <em>Rebecca</em> opens after its own ending; Muriel Spark's <em>The Prime of Miss Jean Brodie</em> tells you in passing, a third of the way through, which pupil will betray Brodie, converting the rest of the book from a question of what into a question of how and why.",
+      "The second formalist idea is Viktor Shklovsky's <em>ostranenie</em>, defamiliarisation: art works by slowing and roughening perception of things habit has made automatic. This is a claim about effort, not about beauty. It explains why competent transparent prose can feel inert and why a strange description of an ordinary object can feel like new information about the world."
+     ]
+    },
+    {
+     "h": "Who sees, who speaks, and free indirect style",
+     "p": [
+      "Gérard Genette's most useful distinction is between voice (who narrates) and focalisation (whose perceptual and cognitive position we occupy). They come apart constantly. A third-person narrator can restrict itself to what one character knows, or roam, or know things no character does. First-person narration is not more intimate by default; it is more <em>limited</em>, and its intimacy is a side effect of that limit.",
+      "Free indirect style is the technique that made the nineteenth-century novel possible. The narrator reports a character's thought in third person and past tense, but keeps the character's diction, rhythm and self-deception. The result is simultaneous inside and outside: we get the thought and the ironic distance on it in the same clause, without the seam a quotation mark would create. Austen uses it to let Emma Woodhouse's flattering self-assessments stand in the narration, so the reader convicts her without the narrator having to. Flaubert made it a systematic instrument in <em>Madame Bovary</em>, where Emma's borrowed romantic vocabulary infiltrates the prose describing her, and the cruelty is that the style diagnoses her while sounding like her."
+     ]
+    },
+    {
+     "h": "What realism assumed, and what modernism withdrew",
+     "p": [
+      "Ian Watt's <em>The Rise of the Novel</em> (1957) called the eighteenth-century innovation <em>formal realism</em>: particular people with proper names, in specified places, in measured time, with money. George Eliot pushed it towards moral epistemology — the pier-glass parable in chapter 27 of <em>Middlemarch</em> is a compact argument that any candle placed against randomly scratched glass will produce a flattering concentric pattern, which is what egoism does to events. The realist contract assumed a narrator whose account you could trust and a world whose causes were traceable.",
+      "Modernism withdrew both, separately. Woolf and Joyce kept the world and dissolved the narration into consciousness: <em>Mrs Dalloway</em> covers a single June day and moves between minds mid-sentence, and the last episode of <em>Ulysses</em> runs unpunctuated. Ford Madox Ford's <em>The Good Soldier</em> (1915) kept the narration and destroyed its authority, giving a narrator who reveals his own incomprehension while insisting on his reliability. Wayne Booth later named the type. It is worth noticing that neither move abandoned realism's ambition; both claimed to be <em>more</em> faithful to how experience actually arrives."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Fabula and syuzhet",
+     "def": "The underlying chronology of events versus the sequence and manner of their telling; the gap between them generates suspense and irony."
+    },
+    {
+     "term": "Defamiliarisation",
+     "def": "Shklovsky's principle that art renews perception by making the habitual strange and slowing recognition."
+    },
+    {
+     "term": "Focalisation",
+     "def": "Genette's term for the perceptual and cognitive position through which events are filtered, distinct from the voice that narrates them."
+    },
+    {
+     "term": "Free indirect style",
+     "def": "Third-person past-tense narration that carries a character's idiom and judgement without quotation, fusing inside view and external irony."
+    },
+    {
+     "term": "Unreliable narrator",
+     "def": "A narrator whose account the reader is invited to correct, usually via evidence the narrator supplies without understanding it."
+    },
+    {
+     "term": "Formal realism",
+     "def": "Watt's name for the novel's convention of particularised individuals, specific settings, measured time and material circumstance."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Erich Auerbach (1892–1957)",
+     "note": "Wrote Mimesis in wartime Istanbul without a research library, tracing how European prose learned to represent ordinary life seriously."
+    },
+    {
+     "name": "Mikhail Bakhtin (1895–1975)",
+     "note": "Argued the novel is defined by heteroglossia — competing social languages held in tension — with Dostoevsky as the polyphonic limit case."
+    },
+    {
+     "name": "Gérard Genette (1930–2018)",
+     "note": "Supplied the vocabulary (order, duration, frequency, focalisation) that lets you describe narration precisely rather than impressionistically."
+    },
+    {
+     "name": "James Wood",
+     "note": "How Fiction Works — the most readable modern account of free indirect style, and openly partisan about what it values."
+    }
+   ],
+   "debate": {
+    "title": "Did modernism improve the novel or narrow it?",
+    "sides": [
+     {
+      "label": "It deepened the form",
+      "text": "Nineteenth-century omniscience smuggled in a God's-eye reliability nobody actually has. Stream of consciousness and unreliable narration are corrections towards accuracy: experience really does arrive as fragmentary, self-interested and mid-thought, and the technical difficulty is the price of representing it."
+     },
+     {
+      "label": "It traded reach for prestige",
+      "text": "The great realists held large social systems and individual interiority together at once, and were read by everyone. Modernism bought psychological fidelity by shrinking scope to a day, a room, a consciousness, and helped split fiction into a prestige wing and a popular one — a division the novel has not recovered from."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Mimesis",
+     "who": "Erich Auerbach — start with the first chapter on Homer and the Old Testament."
+    },
+    {
+     "title": "The Rhetoric of Fiction",
+     "who": "Wayne Booth — the source of the implied author and the unreliable narrator."
+    },
+    {
+     "title": "Middlemarch",
+     "who": "George Eliot — read chapter 27 first if you want the argument in two pages."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What does free indirect style let a novelist do that direct quotation cannot?",
+     "a": "It puts a character's idiom and the narrator's judgement in the same sentence, so you can inhabit a mistaken view and see it as mistaken simultaneously. Quotation marks would separate the two and hand the reader an explicit verdict."
+    },
+    {
+     "q": "Why is first-person narration not automatically more intimate than third?",
+     "a": "Because its distinguishing feature is restriction, not access. A third-person narrator using free indirect style can report thoughts a character would never articulate to themselves, whereas a first-person narrator is limited to what they are willing and able to say."
+    }
+   ]
+  },
+  {
+   "id": "art-3",
+   "title": "Poetry And What Language Does Besides Say Things",
+   "oneLine": "Metre, image and ambiguity as working instruments, and the case for difficulty as a method rather than a defect.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Metre is a pattern you depart from",
+     "p": [
+      "English metre counts stress, not syllable length or pitch, and the workhorse line is iambic pentameter: five light-heavy pairs. The common misunderstanding is that metrical verse means the line marching in strict alternation. It almost never does, and would be intolerable if it did. The pattern is an expectation held in the reader's ear, and the meaning lives in the departures — a trochaic inversion in the first foot to give a line a shove, a spondee to slow it, a caesura placed off-centre to break the line's symmetry.",
+      "Scansion is therefore diagnostic rather than decorative. When Shakespeare ends a line on an extra unstressed syllable, the line audibly fails to close, which is much of why the late plays sound conversational and the early ones sound cut into lengths. Hopkins pushed this into a system he called sprung rhythm, counting only stresses and letting unstressed syllables crowd between them. Free verse did not abolish rhythm either; it moved the organising unit to the line break, so where a line ends becomes the main syntactic instrument — in William Carlos Williams a break can suspend a noun for a beat before its qualifier arrives."
+     ]
+    },
+    {
+     "h": "Image, sound and the poetic function",
+     "p": [
+      "Ezra Pound's 1913 Imagist rules — direct treatment of the thing, no word that does not contribute, composition by musical phrase rather than metronome — were a reaction against Victorian abstraction and remain the most influential piece of prescriptive advice in modern poetry. An image in this sense is not a picture; Pound defined it as an intellectual and emotional complex presented in an instant. The technique is superposition: set two perceptions beside each other with no connective, and let the reader supply the relation.",
+      "Roman Jakobson gave the general account in 1960. Ordinary language selects words from paradigms and combines them in sequence; the poetic function projects the principle of equivalence from selection onto combination. In plain terms, sound and grammatical similarity start doing semantic work — rhyme asserts that two words belong together, metre asserts that two positions are comparable, and repeated syntax asserts that unlike things are parallel. This is why a rhyme can feel like an argument, and why a bad rhyme feels like a false claim about the world."
+     ]
+    },
+    {
+     "h": "Ambiguity and the uses of difficulty",
+     "p": [
+      "William Empson's <em>Seven Types of Ambiguity</em> (1930) established that multiple simultaneous meanings are not a flaw to be resolved but often the mechanism itself. His types run from simple metaphorical richness to genuine contradiction held unresolved. The point is not that a poem can mean anything. It is that a well-made line can mean two things that both hold, and the tension between them is the content.",
+      "Difficulty is a related but separate matter, and it comes in distinguishable kinds. There is difficulty of reference, which a footnote can fix — most of what makes Eliot's <em>The Waste Land</em> hard on first contact. There is difficulty of syntax, where the sentence itself resists linear processing. And there is what one might call constitutive difficulty, where the obstacle is the subject: Paul Celan's post-Holocaust German is broken because the language he had to write in had been used to administer the murder of his parents, and a fluent poem would have been a lie about its material. Against all this stands the fair objection, made forcefully by Philip Larkin, that a good deal of modernist difficulty is professional self-protection, and that the audience it lost has never come back."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Iambic pentameter",
+     "def": "A five-stress English line of alternating light and heavy syllables, functioning as an expectation against which variation registers."
+    },
+    {
+     "term": "Substitution",
+     "def": "Replacing an expected foot with another — a trochee, spondee or pyrrhic — to alter pace or emphasis without abandoning the metre."
+    },
+    {
+     "term": "Enjambment",
+     "def": "Running a syntactic unit past the line ending, so that the line break creates a momentary alternative reading before the sentence resolves."
+    },
+    {
+     "term": "Volta",
+     "def": "The turn in a sonnet, at line nine in the Petrarchan form or in the closing couplet in the Shakespearean, where the argument pivots."
+    },
+    {
+     "term": "Poetic function",
+     "def": "Jakobson's term for the projection of equivalence onto sequence, whereby sound and grammatical parallelism acquire semantic force."
+    },
+    {
+     "term": "Ambiguity",
+     "def": "In Empson's sense, the simultaneous availability of more than one meaning as a working feature rather than an error."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "William Empson (1906–1984)",
+     "note": "Wrote Seven Types of Ambiguity at twenty-three; showed that close verbal analysis could be an argumentative discipline rather than appreciation."
+    },
+    {
+     "name": "Ezra Pound (1885–1972)",
+     "note": "Imagism, and the editing of The Waste Land into its published shape — the case study in how much of a masterpiece can be someone else's cutting."
+    },
+    {
+     "name": "Roman Jakobson (1896–1982)",
+     "note": "Located the specificity of poetic language in a structural operation rather than in subject matter or sincerity."
+    },
+    {
+     "name": "Helen Vendler (1933–2024)",
+     "note": "Insisted that the poem's formal decisions are the evidence, and read Shakespeare, Keats and Stevens line by line accordingly."
+    }
+   ],
+   "debate": {
+    "title": "Is difficulty in poetry earned or evasive?",
+    "sides": [
+     {
+      "label": "Difficulty does work",
+      "text": "Eliot argued that a complicated civilisation must produce complicated results, and that the poet forces language into meaning it does not yet have. Some subjects — trauma, doubt, the failure of shared reference — cannot be rendered in transparent syntax without falsifying them. Difficulty here is fidelity, not decoration."
+     },
+     {
+      "label": "Difficulty became a guild badge",
+      "text": "Much twentieth-century obscurity is unfalsifiable and conveniently rewards professional explication. The lyric tradition from the ballads to Hardy to Larkin shows that precision, form and genuine complexity of feeling are perfectly compatible with a first reading that yields something. Poetry's collapsed general readership is not a coincidence."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Seven Types of Ambiguity",
+     "who": "William Empson — difficult, and the founding text of close reading."
+    },
+    {
+     "title": "The Sounds of Poetry",
+     "who": "Robert Pinsky — the clearest short practical guide to hearing metre."
+    },
+    {
+     "title": "The Rattle Bag",
+     "who": "Heaney and Hughes, eds. — an anthology arranged to defeat reverence, alphabetical by title."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is a perfectly regular metrical line usually a bad one?",
+     "a": "Because metre works as a background expectation, and expression comes from controlled deviation against it. Unvaried alternation produces a sing-song that overrides the natural stresses of speech and flattens the sentence's own emphasis."
+    },
+    {
+     "q": "What does Jakobson mean by saying poetry projects equivalence onto combination?",
+     "a": "That devices which merely resemble each other in sound or grammar — rhymes, parallel clauses, matched stresses — are treated as if they asserted a relationship in meaning. The form makes claims about how things go together, alongside whatever the words state."
+    }
+   ]
+  },
+  {
+   "id": "art-4",
+   "title": "Looking At Pictures",
+   "oneLine": "Perspective, composition and colour as constructed devices, and the long move from illusion to flatness and beyond.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Perspective as a construction, not a discovery",
+     "p": [
+      "Linear perspective was demonstrated by Brunelleschi in Florence around 1413 using a painted panel with a peephole and a mirror, codified by Alberti in <em>De pictura</em> (1435), and put to full-scale use in Masaccio's <em>Holy Trinity</em> in Santa Maria Novella, where the painted vault appears to open a chapel into the wall. Alberti's metaphor — the picture as an open window — has governed how Europeans discuss pictures ever since. It is worth registering how odd the system is: it assumes a single motionless eye, at a fixed distance, with the other eye closed.",
+      "Erwin Panofsky argued in 1927 that perspective is a symbolic form: a historically specific way of organising space, not a neutral transcription of vision. Other sophisticated traditions declined it. Chinese handscroll painting uses shifting viewpoints because the object is unrolled over time rather than fixed in a frame; Byzantine painting scales figures by importance. None of that is failed illusionism. Gombrich's <em>Art and Illusion</em> (1960) generalised the point: painters work by schema and correction, adjusting inherited formulas against observation rather than copying raw retinal experience."
+     ]
+    },
+    {
+     "h": "Composition, light and colour as machinery",
+     "p": [
+      "Composition is the management of where the eye goes and in what order. The devices are concrete and checkable: strong diagonals that accelerate the gaze, a repoussoir figure at the edge that pushes you inward, a triangular arrangement that stabilises, a horizon placed high to press the scene down. Caravaggio's <em>Calling of St Matthew</em> (1600) works by controlling the arrival of light — tenebrism, a dark field with a raking beam — so that the sequence in which you notice hand, faces and the shadowed figure of Christ is essentially directed.",
+      "Colour was the subject of a long argument in Italian theory between <em>disegno</em>, drawing and design, associated with Florence and Rome, and <em>colorito</em>, the Venetian practice of building form directly in loaded paint, as in late Titian. The nineteenth century added a physical account: Michel Eugène Chevreul's 1839 law of simultaneous contrast showed that a colour shifts the appearance of its neighbour towards the complementary. Seurat built the divisionism of <em>A Sunday on La Grande Jatte</em> on exactly this, placing small unmixed strokes so that the mixing happens in the eye. Impressionist shadows are blue not from whimsy but because a shadow lit by sky is genuinely cooler than one lit by sun."
+     ]
+    },
+    {
+     "h": "From illusion to flatness, and what came after",
+     "p": [
+      "The move to abstraction was gradual and had reasons. Manet's <em>Olympia</em> (1863) flattened modelling and refused the alibi of mythology; Cézanne treated the canvas as a surface where volumes are constructed by facets of colour; Picasso and Braque, from <em>Les Demoiselles d'Avignon</em> (1907) onwards, dismantled the single viewpoint entirely. Kandinsky, Hilma af Klint and Malevich arrived at non-objective painting from partly theosophical motives; Malevich's <em>Black Square</em>, hung across a room corner in Petrograd in 1915 where an Orthodox icon would go, was a deliberate claim about what painting could now be.",
+      "Clement Greenberg later supplied the tidy story — each art purifies itself towards what only it can do, which for painting meant acknowledging flatness — and it is now widely rejected as teleology written backwards from Pollock. What followed was proliferation, not purification: Judd's specific objects abandoned the picture, conceptual artists made the idea the work, and photography became a fine-art medium. The practical takeaway for looking is Michael Baxandall's <em>period eye</em>. A fifteenth-century Florentine merchant brought barrel-gauging skills and devotional habits of visualisation to pictures that assumed them, and much of what reads as flat convention now was doing precise work for a viewer we no longer are."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Linear perspective",
+     "def": "A geometric system, codified by Alberti in 1435, projecting three-dimensional space onto a plane from a single fixed viewpoint."
+    },
+    {
+     "term": "Period eye",
+     "def": "Baxandall's term for the culturally trained visual skills a contemporary audience brought to pictures made for them."
+    },
+    {
+     "term": "Schema and correction",
+     "def": "Gombrich's account of representation as adjustment of inherited formulas against observation, rather than direct copying of vision."
+    },
+    {
+     "term": "Tenebrism",
+     "def": "Extreme contrast of dark field and directed light, used by Caravaggio and his followers to stage attention as well as drama."
+    },
+    {
+     "term": "Simultaneous contrast",
+     "def": "Chevreul's 1839 finding that adjacent colours shift each other's appearance towards their complementaries."
+    },
+    {
+     "term": "Picture plane",
+     "def": "The physical surface of the work, which illusionistic painting conceals and modernist painting increasingly asserts."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Leon Battista Alberti (1404–1472)",
+     "note": "De pictura turned a workshop trick into a transmissible geometry and gave painting the window metaphor it has never escaped."
+    },
+    {
+     "name": "Ernst Gombrich (1909–2001)",
+     "note": "Art and Illusion replaced the innocent eye with a psychology of expectation, testing and adjustment."
+    },
+    {
+     "name": "Michael Baxandall (1933–2008)",
+     "note": "Reconstructed the commercial and devotional skills of Quattrocento viewers from contracts and sermons, not from taste."
+    },
+    {
+     "name": "T.J. Clark",
+     "note": "Read Manet and the Impressionists as registering the class remaking of Paris, insisting that formal change carries social content."
+    }
+   ],
+   "debate": {
+    "title": "Is linear perspective a discovery about vision or a cultural convention?",
+    "sides": [
+     {
+      "label": "Broadly a discovery",
+      "text": "The projection is geometrically correct for a single eye at the construction point, and the illusion works cross-culturally on first exposure. Traditions that lacked it were not choosing otherwise so much as lacking the geometry; once shown, painters across the world adopted it quickly."
+     },
+     {
+      "label": "Substantially a convention",
+      "text": "Real vision is binocular, mobile, foveated and continuous, and no scene looks like a perspective construction. The system encodes specific commitments — a detached single observer, homogeneous measurable space — that map onto early modern European science and commerce, and other traditions declined it while representing depth perfectly well."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Ways of Seeing",
+     "who": "John Berger — short, tendentious, and still the fastest way to start arguing with pictures."
+    },
+    {
+     "title": "Painting and Experience in Fifteenth Century Italy",
+     "who": "Michael Baxandall — the period eye, built from contracts and dance manuals."
+    },
+    {
+     "title": "Art and Illusion",
+     "who": "Ernst Gombrich — the psychology of representation, and the case against the innocent eye."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why does Panofsky call perspective a symbolic form?",
+     "a": "Because it organises space according to assumptions — one fixed monocular viewpoint, uniform infinite space — that belong to a particular culture and period rather than to vision as such. Other traditions represent depth using systems that encode different priorities."
+    },
+    {
+     "q": "What did Greenberg get wrong about the road to abstraction?",
+     "a": "He described it as each medium progressively purifying itself towards its unique properties, with painting converging on flatness. That reads the history backwards from a preferred endpoint and cannot accommodate what followed, which was minimalism, conceptualism and photography rather than ever-purer painting."
+    }
+   ]
+  },
+  {
+   "id": "art-5",
+   "title": "How Music Works",
+   "oneLine": "Pitch, harmony, rhythm and form, the expectation mechanism behind musical emotion, and the canon seen from outside.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Pitch, intervals and the compromise of tuning",
+     "p": [
+      "A vibrating string sounds a fundamental plus a series of overtones at whole-number multiples of its frequency. Simple ratios between those series — 2:1 for the octave, 3:2 for the fifth, 5:4 for the major third — produce overlapping partials and the sensation Western listeners call consonance. This is where the physics ends and the culture begins. Stacking pure fifths never returns exactly to the starting pitch; the discrepancy, the Pythagorean comma, means every practical tuning is a distribution of error. Twelve-tone equal temperament simply spreads it evenly, which is why every key is equally usable and every interval except the octave is slightly out of tune.",
+      "A frequent misconception is that Bach's <em>Well-Tempered Clavier</em> (1722) celebrates equal temperament. Well-tempered meant a tuning in which all keys were playable but not identical, retaining distinct key characters that equal temperament later erased. More important, the assumption that consonance preference is hardwired took a serious hit from Josh McDermott and colleagues in 2016: Tsimane people in the Bolivian Amazon, with minimal exposure to Western music, rated consonant and dissonant chords as equally pleasant while showing normal sensitivity to roughness and to pitch. Some of what feels acoustically inevitable turns out to be learned."
+     ]
+    },
+    {
+     "h": "Tonality, expectation and why resolution moves people",
+     "p": [
+      "Functional tonality organises pitches around a tonic, with the dominant chord a fifth above generating the strongest pull back to it. The engine is the leading note, a semitone below the tonic, which is heard as unstable and demanding resolution. Cadences are the punctuation: an authentic cadence closes, a half cadence leaves a question open, a deceptive cadence sets up the close and substitutes another chord, which is why it produces an audible sensation of being deflected.",
+      "Leonard Meyer argued in 1956 that musical emotion arises from the inhibition and eventual satisfaction of tendencies the style itself has trained. David Huron's <em>Sweet Anticipation</em> (2006) added statistical and physiological detail: listeners run implicit predictions, and composers manipulate delay, denial and reward. Salimpoor and colleagues reported in 2011 that striatal dopamine release peaks in anticipation of a musical climax as well as at it, in anatomically distinct regions. The force of a resolution is therefore not in the chord but in the expectation the piece built for it, which is why a shattering cadence in one style is a shrug in another."
+     ]
+    },
+    {
+     "h": "Rhythm, form, and the canon in context",
+     "p": [
+      "Metre is a hierarchical expectation of beats, and syncopation places events off that grid. The pleasure is measurable and non-linear: Maria Witek and colleagues found in 2014 that the desire to move peaks at moderate syncopation, with very simple and very complex patterns both rated lower — a plausible mechanism for why funk grooves work. At larger scales, form is the management of memory: sonata form states contrasting key areas, destabilises them in development, and resolves the tonal conflict in recapitulation, which is why Beethoven's Fifth can build a symphony from a four-note cell; twelve-bar blues and verse-chorus do comparable work with far fewer moving parts.",
+      "The canon deserves both respect and context. Western art music developed prescriptive notation, which made large multi-part structures composable and preserved them; that is a technical achievement, not a taste. But notation captures pitch and duration and loses timbre, microtiming and inflection — precisely where much of the world's music does its finest work. Kofi Agawu has objected to the habit of describing African rhythm as exotically additive, on the grounds that the framing exoticises rather than analyses. Treating the canon as one highly developed tradition among several is not a concession; it is more accurate."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Harmonic series",
+     "def": "The overtones above a fundamental at integer multiples of its frequency; the acoustic basis of interval consonance."
+    },
+    {
+     "term": "Equal temperament",
+     "def": "Dividing the octave into twelve identical semitones, distributing tuning error evenly so all keys are usable and none is pure."
+    },
+    {
+     "term": "Leading note",
+     "def": "The scale degree a semitone below the tonic, heard as unstable and generating the pull that makes cadences feel conclusive."
+    },
+    {
+     "term": "Deceptive cadence",
+     "def": "A dominant chord resolving to something other than the expected tonic, producing a felt deflection of an established expectation."
+    },
+    {
+     "term": "Sonata form",
+     "def": "A large-scale design that establishes tonal conflict in an exposition, intensifies it in development, and resolves it in recapitulation."
+    },
+    {
+     "term": "Syncopation",
+     "def": "Placing accents off the metrical grid; pleasure and the urge to move peak at intermediate rather than maximal levels."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Leonard Meyer (1918–2007)",
+     "note": "Emotion and Meaning in Music located musical affect in thwarted and satisfied stylistic expectation rather than in imitation of feeling."
+    },
+    {
+     "name": "Heinrich Schenker (1868–1935)",
+     "note": "Devised the reductive analysis still taught, wrapped in an explicit German-supremacist ideology that later theorists have had to disentangle from the method."
+    },
+    {
+     "name": "David Huron",
+     "note": "Reframed musical expectation empirically, distinguishing prediction, tension, reaction and appraisal as separable response systems."
+    },
+    {
+     "name": "Kofi Agawu",
+     "note": "Argues that describing African music through difference-first categories obscures more than it explains, and reads it with the same analytic tools as any other repertory."
+    }
+   ],
+   "debate": {
+    "title": "Is tonal consonance rooted in acoustics or in learning?",
+    "sides": [
+     {
+      "label": "Largely acoustic",
+      "text": "Simple frequency ratios yield coincident partials and low sensory roughness, an effect present in the auditory periphery and in infants. Harmonic structure also matches the spectrum of the human voice, which gives a non-arbitrary reason why the same intervals recur in unrelated traditions."
+     },
+     {
+      "label": "Largely learned",
+      "text": "The Tsimane results show a population with normal roughness sensitivity and no preference for consonance, and many well-developed traditions organise pitch without triadic harmony at all. What generalises is sensitivity to roughness; the aesthetic preference tracks exposure to a particular repertory."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Sweet Anticipation",
+     "who": "David Huron — expectation as the mechanism, with the evidence attached."
+    },
+    {
+     "title": "How Music Works",
+     "who": "David Byrne — strong on context, venue and technology shaping what gets written."
+    },
+    {
+     "title": "The Rest Is Noise",
+     "who": "Alex Ross — twentieth-century music placed in its political and social weather."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is equal temperament described as a compromise?",
+     "a": "Because stacked pure fifths do not close the octave, so any fixed twelve-note tuning must distribute the discrepancy somewhere. Equal temperament spreads it uniformly, buying free modulation between all keys at the cost of every interval except the octave being slightly impure."
+    },
+    {
+     "q": "What did the 2016 Tsimane study suggest about consonance?",
+     "a": "That preference for consonant over dissonant chords is not a universal of human hearing. The participants distinguished the chords and showed normal sensitivity to acoustic roughness, but rated consonant and dissonant intervals as equally pleasant, pointing to exposure rather than acoustics as the source of the preference."
+    }
+   ]
+  },
+  {
+   "id": "art-6",
+   "title": "Film And The Moving Image",
+   "oneLine": "Montage, mise-en-scene and the grammar of shots, and what cinema can do that theatre and prose cannot.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Montage and the Kuleshov inheritance",
+     "p": [
+      "Soviet film theory in the 1920s treated the cut, not the shot, as the basic unit. Lev Kuleshov's demonstration — an unchanging close-up of the actor Ivan Mozzhukhin intercut with a bowl of soup, a body and a child, audiences reportedly reading hunger, grief and tenderness into an identical face — became the founding anecdote. The original footage is lost, contemporaneous documentation is thin, and modern replications give mixed results. The weak form survives anyway: a shot means different things depending on what precedes it.",
+      "Eisenstein turned this into a dialectical programme in which two shots collide to produce a concept neither contains, and staged it in the Odessa Steps sequence of <em>Battleship Potemkin</em> (1925) — an event with no historical basis that is now widely remembered as history. His editing expands the descent well beyond any duration it could have had, which is the general principle: film time is constructed, and cutting rhythm is an expressive instrument in itself."
+     ]
+    },
+    {
+     "h": "Mise-en-scene, the long take, and Bazin's objection",
+     "p": [
+      "André Bazin argued the opposite case in the 1940s and 1950s. If montage tells the viewer what to think by controlling the sequence of attention, then deep focus and the long take preserve the ambiguity of the real and let the spectator choose where to look. His examples were Renoir's <em>La Règle du jeu</em> (1939), Gregg Toland's deep-focus photography for <em>Citizen Kane</em> (1941), and Italian neorealism, where <em>Bicycle Thieves</em> (1948) refuses the consolations of editing. Bazin's ontological claim — that the photographic image has a special relation to its object because it is caused by light from that object — is doing more work here than is often noticed, and digital images have complicated it.",
+      "Mise-en-scene covers everything arranged before the camera and how it is framed: staging, lighting, costume, lens choice, camera height. The vocabulary pays off immediately. A long focal length compresses depth and flattens a character against the background; a wide lens close to a face distorts it and destabilises the space. Hitchcock's dolly zoom in <em>Vertigo</em> (1958) tracks in while zooming out, holding the subject the same size while the background rushes — spatial anxiety with no acting required. Continuity editing exists to make all of it invisible, which is why breaking the 180-degree rule registers so strongly."
+     ]
+    },
+    {
+     "h": "What cinema can and cannot do",
+     "p": [
+      "Against theatre, film's advantages are attention and assembly. A stage director can light and block but cannot force ten thousand people to look at one hand; the camera can, and can then cut. The performance you see was assembled from takes shot out of order, sometimes with the actor's eyeline directed at a mark, which is why film acting rewards minimal, repeatable behaviour rather than projection. What film gives up is co-presence: the fact that live performers can fail tonight is doing more emotional work in theatre than is usually credited.",
+      "Against prose the asymmetry reverses. A novel can state that a character does not believe what he is saying; film can only show behaviour and let you infer, which is why voiceover is so often a confession of structural failure, and why adaptations of interior novels usually fail while adaptations of plotted ones succeed. Film's compensating strength is simultaneity: a face, a room, a colour, a phrase of music and a line of dialogue arriving at once, possibly contradicting each other. Laura Mulvey's 1975 essay argued that mainstream cinema built its looking structures around a male spectator. It has been contested for decades, including by Mulvey, with bell hooks's oppositional gaze the most useful corrective — but the core observation that a camera position is never neutral has held."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Kuleshov effect",
+     "def": "The assignment of meaning to a neutral shot by the shot next to it; foundational, empirically shakier than its reputation."
+    },
+    {
+     "term": "Dialectical montage",
+     "def": "Eisenstein's method of colliding shots so the viewer synthesises an idea present in neither."
+    },
+    {
+     "term": "Mise-en-scene",
+     "def": "Everything arranged within the frame — staging, lighting, costume, lens and camera position — as opposed to what is created by editing."
+    },
+    {
+     "term": "Continuity editing",
+     "def": "The system of matches and spatial rules, including the 180-degree rule, designed to make cutting imperceptible."
+    },
+    {
+     "term": "Diegetic sound",
+     "def": "Sound with a source inside the story world, as against non-diegetic score and narration heard only by the audience."
+    },
+    {
+     "term": "Dolly zoom",
+     "def": "A simultaneous track and counter-zoom that holds subject size constant while the background perspective shifts, producing spatial unease."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Sergei Eisenstein (1898–1948)",
+     "note": "Theorised the cut as a collision producing meaning, and built the most influential sequence in film history around an event that did not happen."
+    },
+    {
+     "name": "Andre Bazin (1918–1958)",
+     "note": "Defended the long take and deep focus as ethically preferable, on the grounds that they preserve the ambiguity of the real."
+    },
+    {
+     "name": "Laura Mulvey",
+     "note": "Applied psychoanalysis to spectatorship in 1975 and reframed the camera's position as an argument rather than a given."
+    },
+    {
+     "name": "David Bordwell (1947–2024)",
+     "note": "Reconstructed classical Hollywood as a rigorous formal system, showing that invisible style is style with rules."
+    }
+   ],
+   "debate": {
+    "title": "Montage or the long take — which is the more honest cinema?",
+    "sides": [
+     {
+      "label": "Montage",
+      "text": "All cinema selects; pretending otherwise is a pose. The cut makes the shaping visible and available for criticism, and it is the one operation no other art performs. Editing also permits argument, comparison and abstraction that a continuous take simply cannot achieve."
+     },
+     {
+      "label": "The long take",
+      "text": "Editing pre-digests the event and hands the viewer a conclusion. Holding the shot preserves real duration, real spatial relations and the possibility of noticing what the director did not intend. Bazin's case is not nostalgia but a claim about respecting the spectator's freedom to look."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Film Art: An Introduction",
+     "who": "Bordwell & Thompson — the standard textbook, and genuinely the fastest route to a working vocabulary."
+    },
+    {
+     "title": "What Is Cinema?",
+     "who": "Andre Bazin — the realist case, argued film by film."
+    },
+    {
+     "title": "In the Blink of an Eye",
+     "who": "Walter Murch — an editor on why a cut works, including the blink and emotion-first rules."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is voiceover often a sign of adaptation trouble?",
+     "a": "Because it imports a novel's direct access to interiority into a medium that otherwise conveys mind through observable behaviour. Where it works it is doing something the images contradict or complicate; where it fails it is narrating what the film could not dramatise."
+    },
+    {
+     "q": "How does the Odessa Steps sequence treat time?",
+     "a": "It expands it. Eisenstein cuts among more actions and vantage points than could occur in the real duration of the descent, so screen time exceeds story time and the sequence becomes an argument about the massacre rather than a record of one."
+    }
+   ]
+  },
+  {
+   "id": "art-7",
+   "title": "The Creative Process",
+   "oneLine": "What the evidence says about where ideas come from, why constraint helps, and how much practice actually explains.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Where ideas come from",
+     "p": [
+      "The folk model is the flash: an idea arrives whole, from outside, and execution is transcription. Graham Wallas gave it a respectable four-stage shape in 1926 — preparation, incubation, illumination, verification — and the middle stages are where the mystique lives. Sio and Ormerod's 2009 meta-analysis found a real but small effect of incubation, larger for divergent tasks with many acceptable answers, larger with longer preparation, and larger when the break was undemanding rather than taxing. Something happens during the walk, but it looks closer to reduced fixation on a failed approach than to unconscious composition.",
+      "Against the flash, Robert Weisberg has argued at length that creative work is ordinary cognition applied with unusual persistence and knowledge. The best-documented case is <em>Guernica</em>: Picasso produced dozens of dated studies over about a month in 1937, and Dora Maar photographed the canvas at successive states, so the picture's development can be followed step by step. It is incremental, with false starts and reversals. The equally famous Mozart letter describing entire symphonies appearing complete in his mind is a nineteenth-century forgery, and Beethoven's surviving sketchbooks show themes arriving in banal form and being ground into shape over years."
+     ]
+    },
+    {
+     "h": "Constraint, quantity and revision",
+     "p": [
+      "Constraint functions as a generator rather than a restriction, because an unlimited space provides no purchase. Stravinsky's <em>Poetics of Music</em> makes the argument directly: the more limits he imposed, the freer he was, because a limit converts a vague ambition into a solvable problem. The Oulipo group formalised it from 1960 — Georges Perec wrote <em>La Disparition</em> (1969) without the letter e, and the constraint forces vocabulary and syntax away from the writer's defaults. The same logic underlies Dogme 95, Brian Eno and Peter Schmidt's Oblique Strategies cards, the sonnet, and the twelve-bar blues.",
+      "Quantity is the second unglamorous finding. Dean Simonton's equal-odds rule holds that the ratio of successful to unsuccessful works is roughly constant within a career, so the creators with the most celebrated works are largely those with the most works. Bach, Picasso and Edison were prolific first. Revision is the third. Raymond Carver's minimalist reputation rests substantially on Gordon Lish's editing, which cut some stories by half or more; the restored versions published as <em>Beginners</em> in 2009 read like a different writer, and the episode is a useful reminder that authorship in practice is often distributed and that cutting is a compositional act."
+     ]
+    },
+    {
+     "h": "What the expertise research shows",
+     "p": [
+      "Anders Ericsson's work on deliberate practice — effortful, feedback-rich, at the edge of current ability, not mere repetition — is well supported as a description of how skill improves. What it does not support is the popular threshold claim. The ten thousand hours figure was an average accumulated by the best violin students at a Berlin academy by age twenty, not a quantity anyone must reach, and Ericsson repeatedly objected to Gladwell's rendering of it.",
+      "The 2014 meta-analysis by Macnamara, Hambrick and Oswald sharpened the picture: across 88 studies, deliberate practice explained about 26 per cent of variance in games, 21 per cent in music, 18 per cent in sports, 4 per cent in education and under 1 per cent in professions. Practice matters most in stable, well-structured domains where the same problem recurs, and creative fields are the least stable domains there are.",
+      "On madness and genius, the largest evidence base is Swedish national registry work by Simon Kyaga and colleagues. People in creative occupations overall were not more likely to carry psychiatric diagnoses, with the exception of writers, who showed elevated rates of several conditions and of suicide; bipolar disorder was overrepresented in artistic and scientific occupations generally. A real signal, and far narrower than the romantic story it gets used to support."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Incubation",
+     "def": "Improvement in problem-solving after a break; empirically real but small, and largest for open-ended tasks after substantial preparation."
+    },
+    {
+     "term": "Bisociation",
+     "def": "Koestler's term for the joining of two previously unrelated frames of reference, proposed as the common structure of jokes, discoveries and art."
+    },
+    {
+     "term": "Deliberate practice",
+     "def": "Effortful, feedback-driven training at the boundary of current ability, distinct from accumulated experience or repetition."
+    },
+    {
+     "term": "Equal-odds rule",
+     "def": "Simonton's finding that hit rate is roughly constant within a career, so eminent output is mostly a function of total output."
+    },
+    {
+     "term": "Generative constraint",
+     "def": "A self-imposed rule that narrows the search space and thereby produces solutions the unconstrained writer or composer would not reach."
+    },
+    {
+     "term": "Functional fixedness",
+     "def": "The tendency to see an object or approach only in its familiar role; a principal obstacle that incubation appears to loosen."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Arthur Koestler (1905–1983)",
+     "note": "The Act of Creation proposed bisociation as the shared mechanism of humour, scientific discovery and art — influential, hard to test."
+    },
+    {
+     "name": "Anders Ericsson (1947–2020)",
+     "note": "Established deliberate practice as the driver of expert performance and spent years disputing the ten-thousand-hour version of his own work."
+    },
+    {
+     "name": "Dean Keith Simonton",
+     "note": "Applied quantitative historiometry to careers, producing the equal-odds rule and the finding that productivity predicts eminence."
+    },
+    {
+     "name": "Mihaly Csikszentmihalyi (1934–2021)",
+     "note": "Described flow as the match of challenge to skill, and studied creativity as a system of person, domain and gatekeeping field."
+    }
+   ],
+   "debate": {
+    "title": "Is creative achievement mostly trainable?",
+    "sides": [
+     {
+      "label": "Mostly trainable",
+      "text": "Nobody produces valuable work without deep domain knowledge, and that is acquired. The documented records — Beethoven's sketchbooks, Picasso's Guernica studies, the revision history of almost any admired novel — show grinding iteration rather than gifts. Attributing outcomes to talent is largely a failure to observe the preparation."
+     },
+     {
+      "label": "Training is necessary but far from sufficient",
+      "text": "The meta-analytic evidence puts practice at a fifth to a quarter of variance in music and games and near nothing in ill-structured professional domains. Timing, access, temperament, working memory and sheer luck of position account for much of the rest, and pretending otherwise flatters effort while misdescribing how careers actually happen."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Creativity: Understanding Innovation",
+     "who": "Robert Weisberg — the sceptical, evidence-first case against the flash of insight."
+    },
+    {
+     "title": "The Poetics of Music",
+     "who": "Igor Stravinsky — six lectures, and the sharpest statement of constraint as freedom."
+    },
+    {
+     "title": "Peak",
+     "who": "Ericsson & Pool — deliberate practice from the source, including what it does not claim."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is actually known about incubation?",
+     "a": "That taking a break yields a small reliable improvement, concentrated in divergent tasks, after substantial prior work, and when the break is not cognitively demanding. The most likely mechanism is the decay of fixation on a failed approach rather than unconscious problem-solving."
+    },
+    {
+     "q": "Why does deliberate practice explain less in creative fields than in chess?",
+     "a": "Because it works best where the same problems recur under stable rules, so feedback is fast and unambiguous. Creative domains reward novelty by definition, so the situations are ill-structured and much of the variance comes from knowledge breadth, timing, access and persistence instead."
+    }
+   ]
+  },
+  {
+   "id": "art-8",
+   "title": "Taste, Canon And Value",
+   "oneLine": "How judgements of quality get made and enforced, what sociology says they are doing, and how machine-made work disturbs the picture.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Hume, Kant and the problem of disagreement",
+     "p": [
+      "Two positions frame the argument. Hume's <em>Of the Standard of Taste</em> (1757) accepts that judgement is a sentiment rather than a property of the object, then rescues a standard empirically: the joint verdict of qualified critics, those with delicate perception, wide comparison, practice, freedom from prejudice and good sense. His illustration is the pair of kinsmen in <em>Don Quixote</em> who detect leather and iron in a cask of wine and are mocked until a key on a leather thong is found at the bottom. Discrimination can be trained, and can be vindicated.",
+      "Kant's <em>Critique of Judgment</em> (1790) took a different route. A judgement of beauty is disinterested — indifferent to whether the thing exists or serves you — and though it rests on feeling, it claims universal assent while being unable to prove it by concepts. Hence the antinomy of taste: there is no arguing about taste, and yet we argue constantly and think we are right. Neither account dissolves the awkward fact that trained critics with delicate perception have been confidently wrong for a generation at a time."
+     ]
+    },
+    {
+     "h": "Bourdieu and the sociology of taste",
+     "p": [
+      "Pierre Bourdieu's <em>Distinction</em> (1979) reframed the question sociologically using French survey data. Taste, he argued, is acquired through upbringing and schooling as <em>cultural capital</em>, functions as a marker of class position, and is experienced as spontaneous preference precisely because its origin is invisible to the person holding it. His most pointed move was to treat the Kantian aesthetic — the disinterested contemplation of form — as itself a class disposition available to those at a distance from necessity, as against a popular aesthetic that wants art to be about something and to do something.",
+      "The picture has since been amended rather than overturned. Peterson and Kern found in 1996 that high-status Americans had shifted from snobbish exclusion to <em>omnivorousness</em>; the catch, as critics noted, is that omnivorousness became the new distinction, since knowing which popular forms are worth knowing is itself expensive. On the canon, the strongest sceptical argument is John Guillory's — canon formation runs through school syllabuses and the reproduction of cultural capital, so the real question is institutional access. Linda Nochlin made the parallel move in 1971, refusing the question of why there had been no great women artists and asking instead about academies that barred women from life drawing. The reappraisals that followed, from Artemisia Gentileschi to Hilma af Klint, whose abstract work of 1906 predates Kandinsky's, support that institutional reading rather than any claim that quality is arbitrary."
+     ]
+    },
+    {
+     "h": "Prices, provenance and the machine question",
+     "p": [
+      "Market price tracks scarcity, provenance and positional competition, not quality; the 450 million dollars paid for <em>Salvator Mundi</em> in 2017 bought a contested attribution. That knowing the origin changes the experience is well evidenced: Han van Meegeren's forgeries were adored as Vermeers until they were not, and Paul Bloom's work on origin-sensitivity suggests we value objects partly for their causal history rather than their surface properties.",
+      "Generative models put pressure on exactly that intuition. Jason Allen's <em>Théâtre D'opéra Spatial</em> won a digital-art category at the Colorado State Fair in August 2022; the US Copyright Office then refused registration for the image, and required disclaiming of AI-generated portions in Kris Kashtanova's comic <em>Zarya of the Dawn</em>, holding to a human-authorship requirement the courts have so far upheld. Empirically, people rate identical work lower when told a machine made it while often failing to identify it blind, so the reaction attaches to authorship rather than to perceptible quality. Two readings are defensible. Either value always depended partly on the trace of human effort, and machine output is a different kind of object; or scarcity of skill was a contingent prop, and its removal will do to painterly virtuosity roughly what photography did to the portrait miniature."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Standard of taste",
+     "def": "Hume's empirical rescue of aesthetic objectivity via the converging verdict of experienced, unprejudiced, practised critics."
+    },
+    {
+     "term": "Disinterestedness",
+     "def": "Kant's condition that aesthetic pleasure be indifferent to the object's existence or usefulness to the judge."
+    },
+    {
+     "term": "Cultural capital",
+     "def": "Bourdieu's term for competences and dispositions, acquired through upbringing and schooling, that convert into social advantage."
+    },
+    {
+     "term": "Omnivore thesis",
+     "def": "Peterson and Kern's finding that elite taste shifted from exclusion of popular forms to selective consumption across the hierarchy."
+    },
+    {
+     "term": "Canon formation",
+     "def": "The institutional process, largely educational, by which some works become the ones transmitted and taught."
+    },
+    {
+     "term": "Human-authorship requirement",
+     "def": "The doctrine that copyright protects only works with human authors, currently limiting protection for purely machine-generated output."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "David Hume (1711–1776)",
+     "note": "Conceded that beauty is in the sentiment and still built a workable standard out of the agreement of trained judges."
+    },
+    {
+     "name": "Pierre Bourdieu (1930–2002)",
+     "note": "Showed with survey data that taste maps onto class position and education, and that its felt spontaneity is part of how it works."
+    },
+    {
+     "name": "Linda Nochlin (1931–2017)",
+     "note": "Rejected the premise of the question about great women artists and redirected it at academies, patronage and training."
+    },
+    {
+     "name": "Walter Benjamin (1892–1940)",
+     "note": "Argued in 1935 that mechanical reproduction strips the artwork's aura of unique presence — the argument now being rerun for generative models."
+    }
+   ],
+   "debate": {
+    "title": "Can AI-generated work have artistic value?",
+    "sides": [
+     {
+      "label": "Yes, in the same way as other tools",
+      "text": "Photography, synthesisers and sampling all drew the same objection and all became media with their own criteria. Prompting, curating and iterating are choices, and blind evaluations repeatedly show that people cannot reliably identify machine output while rating it competently. If the object does the work, insisting on provenance is sentimentality about process."
+     },
+     {
+      "label": "No, or not in the same way",
+      "text": "Our valuation of art is demonstrably origin-sensitive: forgeries lose their power on exposure without changing a pixel. Art is partly a record of a person solving a problem under constraint, and a model trained on existing work returns the statistical centre of that corpus rather than a position someone holds. What survives is a design practice, which is fine, but it is not the same object."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Distinction",
+     "who": "Pierre Bourdieu — heavy going, and the book everything on this topic now answers to."
+    },
+    {
+     "title": "Of the Standard of Taste",
+     "who": "David Hume — twenty pages, and still the best defence of trained judgement."
+    },
+    {
+     "title": "Why Have There Been No Great Women Artists?",
+     "who": "Linda Nochlin — the essay that changed the question rather than the answer."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the omnivore thesis not simply the end of cultural snobbery?",
+     "a": "Because breadth itself became the marker. Knowing which popular forms are worth taking seriously, and being able to discuss them in the right register, requires the same kind of acquired competence that exclusive highbrow taste once signalled."
+    },
+    {
+     "q": "What does the evidence on AI-labelled work actually show?",
+     "a": "That people rate identical outputs lower when told a machine produced them, while often being unable to identify machine work blind. The negative response therefore attaches to authorship and process rather than to any perceived difference in the object itself."
+    }
+   ]
+  }
+ ]
+}

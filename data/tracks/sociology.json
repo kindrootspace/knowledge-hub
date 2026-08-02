@@ -1,0 +1,917 @@
+{
+ "id": "sociology",
+ "name": "Sociology",
+ "accent": "#a3e635",
+ "tagline": "How societies hold together, come apart and reproduce themselves",
+ "blurb": "Sociology studies the patterns that appear when people are aggregated: rates, distributions, institutions and networks that no individual chose and none can see from the inside. Its distinctive claim is that these have properties of their own, and that explaining them takes more than adding up biographies. This track starts with that move and the founding arguments, works through the four domains where the evidence is richest and public debate worst served — class, race, gender and crime — then closes on cities, migration and change. Where the literature genuinely disagrees, these modules say so rather than pick.",
+ "modules": [
+  {
+   "id": "soc-1",
+   "title": "The Sociological Imagination",
+   "oneLine": "Why population-level patterns need explanations that individual psychology cannot supply.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Private troubles and public issues",
+     "p": [
+      "C. Wright Mills opened <em>The Sociological Imagination</em> (1959) with a distinction that still does most of the discipline's work. If one man in a city of 100,000 is unemployed, that is a personal trouble, and you look for its causes in his character, skills and circumstances. If 15 million of 50 million are unemployed, that is a public issue, and no rearrangement of individual character will touch it. The two demand different objects of study: the first a person, the second the structure of an economy. Mills was not saying individuals do not matter. He was saying rates are properties of populations rather than sums of biographies.",
+      "Durkheim had made the harder version sixty years earlier. Social facts are ways of acting, thinking and feeling that are external to the individual and endowed with coercive power. You did not choose your language, cannot amend it alone, and it silently constrains what you find easy to think. His showpiece was the suicide rate: the most intimate act imaginable, yet the rate in a given country is remarkably stable year to year and differs systematically between countries. The stability is the phenomenon. Something other than the individual is doing the work."
+     ]
+    },
+    {
+     "h": "Structure and agency",
+     "p": [
+      "The unresolved argument at the discipline's centre is how much room action has inside all this. Strongly structural traditions — Durkheim, Althusser, Parsons at his most systemic — treat people as occupants of positions. Action-centred ones — Weber's insistence on <em>verstehen</em>, symbolic interactionism, rational choice sociology — hold that structures exist only through what people do. Giddens's structuration theory tried to dissolve the opposition: structure is both medium and outcome of practice, rules and resources existing only when instantiated. Bourdieu's habitus does similar work — dispositions laid down by past conditions, generating exactly the practices that reproduce those conditions, without anyone intending reproduction.",
+      "Margaret Archer's objection is the sharpest available: merging structure and agency into one process makes it impossible to say which is doing what. Her analytical dualism insists structures pre-date the agents who reproduce or transform them, so the interplay can be studied over time rather than collapsed. The practical payoff is a habit of reading. When the same decision is made overwhelmingly by people in one position and almost never by people in another, calling it a choice is not false, but it is not yet an explanation."
+     ]
+    },
+    {
+     "h": "What sociology adds that psychology and economics cannot",
+     "p": [
+      "The core addition is emergence. James Coleman's diagram — Coleman's boat — sets out the required chain: a macro condition shapes individual situations, individuals act, and those actions aggregate into a macro outcome resembling nothing any of them intended. Schelling's segregation model is the canonical case, where mild preferences produce near-total separation. Miss the aggregation step and you commit one of two classic errors. The ecological fallacy infers individual behaviour from group rates: W. S. Robinson's 1950 demonstration that US states with more foreign-born residents had higher literacy, while foreign-born individuals had lower literacy, is still the cleanest illustration. The individualistic fallacy is the reverse.",
+      "Against economics, the difference is where preferences come from. Economics takes tastes as given and studies action under constraint, which is powerful and deliberately silent on why a society's tastes look as they do; sociology treats preferences as produced, and varies the background psychology holds constant. Two misconceptions are worth correcting. Sociology is not the psychology of groups, and it is not inherently a political project, though a large critical tradition within it is openly normative. Its quantitative core — demography, stratification research, network analysis, causal work on administrative data — is as hard-nosed as applied economics."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Social fact",
+     "def": "A way of acting or thinking that is external to any individual and exerts constraint on them, and so must be explained by other social facts."
+    },
+    {
+     "term": "Sociological imagination",
+     "def": "Mills's capacity to see biography as intersecting with historical structure, and so to translate private troubles into public issues."
+    },
+    {
+     "term": "Structure and agency",
+     "def": "The standing problem of how far social patterns constrain action and how far action constitutes the patterns."
+    },
+    {
+     "term": "Habitus",
+     "def": "Bourdieu's term for internalised dispositions, formed by one's conditions of existence, that generate practices reproducing those conditions."
+    },
+    {
+     "term": "Ecological fallacy",
+     "def": "Inferring an individual-level relationship from a correlation observed between group-level aggregates."
+    },
+    {
+     "term": "Emergence",
+     "def": "The appearance at aggregate level of properties not present in, and not predictable from, the individual units alone."
+    },
+    {
+     "term": "Methodological individualism",
+     "def": "The doctrine that all social explanation must ultimately be cashed out in terms of individuals and their actions."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Émile Durkheim (1858–1917)",
+     "note": "Established the social fact as an object of study and insisted social facts be explained by other social facts, never by psychology."
+    },
+    {
+     "name": "C. Wright Mills (1916–1962)",
+     "note": "Coined the sociological imagination and attacked both grand theory and abstracted empiricism as evasions of it."
+    },
+    {
+     "name": "Anthony Giddens (1938– )",
+     "note": "Structuration theory: structure as both medium and outcome of action, existing only in the practices that instantiate it."
+    },
+    {
+     "name": "Margaret Archer (1943–2023)",
+     "note": "Argued for analytical dualism against Giddens — you cannot study interplay between two things you have already merged."
+    }
+   ],
+   "debate": {
+    "title": "Can social facts be reduced to facts about individuals?",
+    "sides": [
+     {
+      "label": "Yes, ultimately",
+      "text": "There is nothing in a society but people and their relations, so any social explanation that cannot in principle be given microfoundations is a placeholder. Appeals to structure without a mechanism describing how people act tend to hide the causal story rather than supply it."
+     },
+     {
+      "label": "No, not usefully",
+      "text": "Emergent properties are real: a queue, a market panic and a segregated city have dynamics no description of individual states captures. Demanding reduction to individuals throws away exactly the aggregation step that produces the phenomenon."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Sociological Imagination (1959)",
+     "who": "C. Wright Mills — short, combative, still the best statement of what the discipline is for."
+    },
+    {
+     "title": "The Rules of Sociological Method (1895)",
+     "who": "Émile Durkheim — the founding argument for social facts as a distinct object."
+    },
+    {
+     "title": "Micromotives and Macrobehavior (1978)",
+     "who": "Thomas Schelling — an economist supplying sociology's clearest demonstration of emergence."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why is the year-to-year stability of a suicide rate the thing Durkheim thought needed explaining?",
+     "a": "Because each individual act has intensely personal causes, yet the aggregate barely moves. Something operating at the level of the society rather than the person is holding the rate in place, and that is what a social fact is."
+    },
+    {
+     "q": "What is the ecological fallacy, and why is it easy to commit?",
+     "a": "It is inferring an individual relationship from a correlation between group aggregates. Robinson found US states with more immigrants had higher literacy while immigrants themselves had lower literacy — the state-level correlation reflected where immigrants settled, not who they were."
+    }
+   ]
+  },
+  {
+   "id": "soc-2",
+   "title": "The Founding Frameworks",
+   "oneLine": "Durkheim, Marx and Weber as three still-working machines for explaining modern society.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Durkheim: solidarity, anomie and the limits of a famous study",
+     "p": [
+      "Durkheim asked what holds a society together once shared belief and shared work stop being available. <em>The Division of Labour in Society</em> (1893) answers with two solidarities. <em>Mechanical</em> solidarity binds people who are alike through a strong shared moral code, the collective conscience, and is enforced by repressive law. <em>Organic</em> solidarity binds people who differ through interdependence — the baker needs the electrician — and law becomes restitutive. Modernity is the transition between them, and its characteristic danger is <em>anomie</em>: the normative regulation of desire breaks down, leaving people with no working sense of what is enough.",
+      "<em>Suicide</em> (1897) applied this to official statistics and became the discipline's founding empirical demonstration: rates varied with integration and regulation rather than individual pathology, giving egoistic, altruistic, anomic and fatalistic types. It equally shows how such work goes wrong. Durkheim inferred individual behaviour from provincial aggregates — the ecological fallacy in its original habitat — and the Protestant-Catholic contrast is partly an artefact of who recorded a death as suicide. The typology survived better than the inference. <em>The Elementary Forms of Religious Life</em> (1912) added collective effervescence: ritual generates the emotional charge societies attach to sacred objects, which is why he thought religion is society worshipping itself."
+     ]
+    },
+    {
+     "h": "Marx: class as a relation, not a rung",
+     "p": [
+      "The commonest misreading treats class as a position on an income ladder. For Marx it is a <em>relation</em> to the means of production: you own productive assets and buy labour, or you own none and sell your own. Surplus value is extracted in production rather than exchange, which is why a perfectly fair market price can still sit on top of exploitation. Historical materialism holds that the economic base conditions the legal, political and cultural superstructure — though Marx and Engels were less crude about this than their critics and some of their followers, and how much autonomy the superstructure retains occupied Gramsci, Althusser and E. P. Thompson for a century afterwards.",
+      "Two concepts stay analytically live regardless of one's politics. <em>Alienation</em>, from the 1844 Manuscripts, identifies four separations: from the product, from the act of working, from one's species-being, and from other people. It is a claim about the structure of wage labour, not about whether a given worker feels unhappy. <em>Ideology</em> is the claim that ideas which come to seem natural tend to be those suiting the dominant class — not by conspiracy but because the class controlling material production also controls the means of mental production. False consciousness, the phrase most associated with Marx, is in fact Engels's."
+     ]
+    },
+    {
+     "h": "Weber: rationalisation, status, and a much-abused thesis",
+     "p": [
+      "Weber's master theme is rationalisation: the long displacement of tradition and magic by calculation, rules and bureaucratic administration. Bureaucracy is technically superior to every prior form of organisation and also, he thought, a cage — the German is <em>stahlhartes Gehäuse</em>, a shell as hard as steel, and Parsons's rendering as iron cage overstates the imprisonment. His stratification is deliberately three-dimensional against Marx's one: <em>class</em> (market position), <em>status</em> (social honour, expressed through consumption and exclusion) and <em>party</em> (organised pursuit of power). A struggling aristocrat and a rich scrap dealer make the point.",
+      "<em>The Protestant Ethic and the Spirit of Capitalism</em> (1904–05) is his most cited and least accurately reported work. He did not claim Protestantism caused capitalism. He claimed Calvinist asceticism produced an unintended result — worldly success as a sign of election, work as a calling, consumption discouraged — that suited accumulation, after which the religious motive fell away and the disposition remained. Its empirical status is contested: Becker and Woessmann's 2009 study of Prussia found the Protestant economic advantage largely explained by literacy. Treat the canon with care too — the big three were consolidated retrospectively, largely by Parsons in the 1930s, sidelining Simmel, Harriet Martineau and Du Bois."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Mechanical and organic solidarity",
+     "def": "Durkheim's contrast between cohesion through likeness and shared belief, and cohesion through specialised interdependence."
+    },
+    {
+     "term": "Anomie",
+     "def": "Weakened normative regulation, in which aspirations become unbounded and individuals lose any sense of legitimate limits."
+    },
+    {
+     "term": "Alienation",
+     "def": "Marx's account of the four separations wage labour imposes: from product, from process, from species-being, and from other workers."
+    },
+    {
+     "term": "Ideology",
+     "def": "The tendency for ideas that appear natural in a society to be those serving the class that controls material production."
+    },
+    {
+     "term": "Rationalisation",
+     "def": "Weber's long-run process by which calculation, rules and means-ends efficiency displace tradition and enchantment."
+    },
+    {
+     "term": "Class, status and party",
+     "def": "Weber's three analytically separate dimensions of stratification: market position, social honour, and organised power."
+    },
+    {
+     "term": "Verstehen",
+     "def": "Interpretive understanding of the meanings actors attach to their conduct, which Weber took to be indispensable to explanation."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Karl Marx (1818–1883)",
+     "note": "Made class a relation of production rather than a level of income, and located exploitation in production rather than in unfair prices."
+    },
+    {
+     "name": "Max Weber (1864–1920)",
+     "note": "Rationalisation as the signature of modernity, and a three-dimensional stratification scheme built explicitly against Marx's one."
+    },
+    {
+     "name": "Georg Simmel (1858–1918)",
+     "note": "The great analyst of social form — the dyad, the triad, the stranger, the blase metropolitan temperament — and the founder the canon nearly lost."
+    },
+    {
+     "name": "W. E. B. Du Bois (1868–1963)",
+     "note": "The Philadelphia Negro (1899) pioneered systematic urban survey research; double consciousness and the colour line entered theory through him."
+    }
+   ],
+   "debate": {
+    "title": "Do ideas drive social change, or do material conditions?",
+    "sides": [
+     {
+      "label": "Material conditions",
+      "text": "Ways of producing and the property relations attached to them set the range of what is thinkable and who has power to act on it. Beliefs that survive tend to be those compatible with the prevailing mode of production, which is why cultural change so often follows economic change with a lag."
+     },
+     {
+      "label": "Ideas have autonomy",
+      "text": "Weber's counter-case is that a religious doctrine with no economic motive whatsoever produced a disposition that reshaped economic life. Similar material conditions across societies have yielded very different outcomes, and the difference often lies in the meanings actors bring."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Protestant Ethic and the Spirit of Capitalism",
+     "who": "Max Weber — read the actual argument before repeating the popular version of it."
+    },
+    {
+     "title": "Economy and Society, part I",
+     "who": "Max Weber — the definitions of action, authority and stratification everything later leans on."
+    },
+    {
+     "title": "Capitalism and Modern Social Theory",
+     "who": "Anthony Giddens — the standard comparative treatment of all three together."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What did Weber actually claim about Protestantism and capitalism?",
+     "a": "Not that Protestantism caused capitalism, but that Calvinist asceticism produced an unintended disposition — disciplined work as a calling, consumption discouraged — that happened to suit accumulation. Becker and Woessmann's Prussian data suggest literacy explains most of the measured Protestant advantage."
+    },
+    {
+     "q": "Why is Marx's class scheme not an income ladder?",
+     "a": "Because class is defined by relation to the means of production: you own productive assets and buy labour, or you do not and sell yours. A well-paid employee and a poorly paid one share a class position on this definition; a struggling small proprietor does not."
+    }
+   ]
+  },
+  {
+   "id": "soc-3",
+   "title": "Class, Status and Mobility",
+   "oneLine": "How class gets measured, what the mobility data show, and why the two rarely line up in public debate.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Measuring something that resists measurement",
+     "p": [
+      "Three incompatible traditions coexist. <em>Gradational</em> schemes rank people continuously by income, education or occupational prestige, treating class as a matter of more and less. <em>Relational</em> schemes in the Marxist tradition — Erik Olin Wright's is the most developed — classify by ownership, authority and skill assets, giving contradictory class locations to managers who command labour without owning capital. <em>Employment-relations</em> schemes, of which Britain's official NS-SEC is standard, classify by the form of contract: a service relationship with career progression and delayed rewards, versus a labour contract paying for discrete effort. Hence NS-SEC placing a plumber with a business and a junior manager differently despite similar earnings.",
+      "Bourdieu's <em>Distinction</em> (1979) added the axis the others miss. Alongside economic capital sit <em>cultural</em> capital (embodied as taste and confidence, objectified as possessions, institutionalised as credentials), <em>social</em> capital and <em>symbolic</em> capital. Taste is not innocent: it marks, and it converts into advantage, because schools reward the cultural capital middle-class children arrive already holding. The Great British Class Survey (Savage and colleagues, 2013) produced seven classes, including the widely reported precariat. Its critics were right about the method — 161,000 heavily self-selected web respondents, a representative supplement of about 1,000 — but the claim that economic and cultural advantage are partly separable has survived."
+     ]
+    },
+    {
+     "h": "What mobility research actually finds",
+     "p": [
+      "The essential distinction is between absolute and relative mobility. <em>Absolute</em> mobility asks what proportion end up in a different position from their parents, and is driven largely by structural change in the occupational distribution: Britain's post-war upward mobility happened because professional and managerial jobs expanded, so there was more room at the top rather than less competition for it. <em>Relative</em> mobility, or social fluidity, asks the odds of a child from one origin reaching a destination compared with a child from another. On the British cohort data of Goldthorpe and Erzsébet Bukodi, relative rates have been broadly stable for decades while absolute downward mobility has risen for cohorts born from the 1970s.",
+      "In the United States, Raj Chetty and colleagues found the share of children out-earning their parents at the same age fell from over 90 per cent for the 1940 birth cohort to about 50 per cent for the 1980 cohort, mostly because growth became unequal rather than because it slowed. Rank-rank mobility also varies enormously across US commuting zones, and their 2022 <em>Nature</em> papers found economic connectedness — the share of a low-income person's friends who are high-income — to be the strongest neighbourhood correlate of upward mobility yet identified. Corak's Great Gatsby curve summarises the rest: more unequal societies tend to be less mobile, though the causal direction is unsettled."
+     ]
+    },
+    {
+     "h": "Contested findings: surnames and assortative mating",
+     "p": [
+      "Gregory Clark's surname method, in <em>The Son Also Rises</em> (2014), estimates persistence by tracking rare surnames through elite registers — Oxbridge matriculations, medical rolls, probate records. It yields status elasticities of 0.7 to 0.8, far above the 0.2 to 0.4 of conventional single-generation studies, and similar values across Sweden, England, the United States, China and India. Clark reads conventional estimates as attenuated by measurement error in any single indicator. Critics reply that surname groups are selected on being elite in the first place, that rare surnames index kin networks rather than individuals, and that the cross-national invariance is suspiciously neat.",
+      "Assortative mating is the other live dispute. Educational homogamy has risen as women's tertiary enrolment overtook men's, and commentary now routinely attributes much household income inequality to graduates marrying graduates. The evidence is more equivocal. Jeremy Greenwood and colleagues' widely quoted 2014 estimate rested on comparing observed sorting with random matching, which was never the alternative world; Lasse Eika, Magne Mogstad and Basit Zafar, and separately Breen and Salazar, find sorting's contribution real but modest, with more of the change coming from rising female labour supply altering which households have two earners at all."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "NS-SEC",
+     "def": "Britain's official classification, sorting occupations by employment relations — service contract versus labour contract — rather than by income or prestige."
+    },
+    {
+     "term": "Cultural capital",
+     "def": "Bourdieu's embodied, objectified and institutionalised competences that schools and employers reward, and that families transmit outside the market."
+    },
+    {
+     "term": "Absolute vs relative mobility",
+     "def": "Whether people end up somewhere different from their parents, versus whether origins still predict destinations once the structure of jobs is held constant."
+    },
+    {
+     "term": "Social fluidity",
+     "def": "The origin-independence of destinations, measured by odds ratios and largely invariant to how many good jobs exist."
+    },
+    {
+     "term": "Great Gatsby curve",
+     "def": "The cross-national association between higher income inequality and higher intergenerational earnings persistence."
+    },
+    {
+     "term": "Educational homogamy",
+     "def": "The tendency for partners to share educational attainment, which has risen as tertiary education expanded."
+    },
+    {
+     "term": "Economic connectedness",
+     "def": "Chetty and colleagues' measure of cross-class friendship, the strongest known neighbourhood predictor of upward income mobility."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Pierre Bourdieu (1930–2002)",
+     "note": "Distinction turned taste into a mechanism of reproduction: what looks like aesthetic preference is a convertible form of capital."
+    },
+    {
+     "name": "John Goldthorpe (1935– )",
+     "note": "Built the employment-relations class scheme and showed British relative mobility to be far more stable than political rhetoric assumes."
+    },
+    {
+     "name": "Erik Olin Wright (1947–2019)",
+     "note": "Rebuilt Marxist class analysis for a managerial economy with the notion of contradictory class locations."
+    },
+    {
+     "name": "Raj Chetty (1979– )",
+     "note": "Used linked tax records to turn mobility from a survey question into a geographically precise measurement."
+    }
+   ],
+   "debate": {
+    "title": "Is Britain's mobility problem about the ladder or the rungs?",
+    "sides": [
+     {
+      "label": "It is about the rungs",
+      "text": "Relative mobility has barely moved in decades while absolute mobility rose and then fell, tracking the expansion and stalling of professional employment. The binding constraint is the shape of the occupational structure and the distance between positions, not the fairness of the competition."
+     },
+     {
+      "label": "It is about the ladder",
+      "text": "Origins still predict destinations strongly through schooling, networks and cultural capital, and surname and multigenerational methods suggest conventional studies understate this badly. Widening the top without loosening the grip of origins simply reshuffles who queues."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Distinction (1979)",
+     "who": "Pierre Bourdieu — difficult, and the most influential book on class since Marx."
+    },
+    {
+     "title": "Social Mobility and Education in Britain (2019)",
+     "who": "Bukodi & Goldthorpe — the careful cohort evidence, against the anecdote."
+    },
+    {
+     "title": "The Son Also Rises (2014)",
+     "who": "Gregory Clark — read alongside its critics; the method is the argument."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why can absolute mobility rise while relative mobility stays flat?",
+     "a": "Because absolute mobility depends on the occupational structure changing shape. If professional jobs expand, more people move up than down without the odds facing a working-class child, relative to a middle-class one, improving at all."
+    },
+    {
+     "q": "What is the main objection to attributing much of income inequality to assortative mating?",
+     "a": "The headline estimates compare observed sorting to random matching, which was never the alternative. Studies using realistic counterfactuals find the contribution real but modest, with rising female employment mattering more than who marries whom."
+    }
+   ]
+  },
+  {
+   "id": "soc-4",
+   "title": "Race and Ethnicity as Social Categories",
+   "oneLine": "What is measured, what is inferred, and the main competing explanations for persistent gaps.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Social construction, stated precisely",
+     "p": [
+      "The claim that race is socially constructed is often reported as the claim that human genetic variation does not exist, which is not what population geneticists or sociologists say. Richard Lewontin's 1972 finding was that roughly 85 per cent of human genetic variance sits within conventionally defined races and only about 15 per cent between them. A. W. F. Edwards's 2003 reply, Lewontin's fallacy, pointed out that correlations across many loci nonetheless permit accurate classification into continental ancestry clusters, as Rosenberg and colleagues confirmed in 2002. Both are correct and answer different questions: population structure is detectable, continuous and clinal, and does not map onto folk racial categories.",
+      "The constructionist case rests on the categories themselves. The United States operated a one-drop rule making ancestry determinative; Brazil developed a continuum of colour terms in which siblings can be classified differently; the UK census had no ethnic-group question until 1991 and has revised its categories at every census since. Whether Irish and Italian migrants to America were white was a live question in 1900 and is not now — Noel Ignatiev called that deliberate racial repositioning, Thomas Guglielmo that those groups were always legally white and merely gained acceptance. If boundaries move by country and decade while the biology does not, the boundaries are doing social work."
+     ]
+    },
+    {
+     "h": "What is actually measured",
+     "p": [
+      "The strongest evidence on hiring discrimination comes from correspondence audit studies, which send matched fictitious applications differing only in a name or ethnic signal. Bertrand and Mullainathan's 2004 study found CVs with white-sounding names received about 50 per cent more callbacks than identical CVs with Black-sounding names. Quillian and colleagues' 2017 meta-analysis of 28 US field experiments run between 1989 and 2015 found no decline in discrimination against African American applicants over that quarter century, and some decline against Latino applicants. In Britain, Heath and Di Stasio found ethnic minority applicants had to send around 60 per cent more applications than white British applicants with identical CVs.",
+      "Three qualifications belong with those numbers. Heckman's critique is that audit studies capture a gap at a single stage and can be biased when the variance of unobserved applicant quality differs by group. Kline, Rose and Walters's 2022 study of 108 large US firms found discrimination highly concentrated — a minority of firms accounted for most of the measured gap and many showed none. And economists distinguish <em>taste-based</em> discrimination, in Becker's sense of a preference the employer pays for, from <em>statistical</em> discrimination, using group membership as a noisy signal; the two imply different policies and are hard to separate empirically."
+     ]
+    },
+    {
+     "h": "Segregation and competing explanatory frameworks",
+     "p": [
+      "Residential segregation is measured chiefly by the index of dissimilarity, the share of one group that would have to move for an even distribution. US Black-white dissimilarity in large metropolitan areas has fallen steadily from around 0.79 in 1970 to roughly 0.6 today — real decline from a very high base, with Hispanic segregation broadly flat. Britain's levels are much lower, and Ludi Simpson's work showed minority populations dispersing outward from initial settlement areas, contradicting Trevor Phillips's 2005 warning that Britain was sleepwalking to segregation.",
+      "Four frameworks compete over persistent gaps, and each deserves its strongest form. <em>Structural accounts</em>, from Bonilla-Silva's colour-blind racism to the evidence on redlining, hold that ostensibly neutral institutions reproduce disadvantage without prejudiced individuals. <em>Class and spatial accounts</em>, associated with William Julius Wilson, argue deindustrialisation and spatial mismatch now do more work than contemporary animus. <em>Family and cultural accounts</em>, from the 1965 Moynihan Report onward, emphasise family structure and neighbourhood norms, and remain the most politically fraught. <em>Selection and human capital accounts</em> point to variation inside the aggregate: Chinese and Indian pupils outperform white British pupils at GCSE while Black Caribbean boys underperform, and Black African immigrants in the US do markedly better than native-born African Americans. People who agree on that variation draw opposite conclusions from it, as the reception of the 2021 Commission on Race and Ethnic Disparities report showed."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Social construction of race",
+     "def": "The position that racial categories are historically variable classifications with real consequences, not natural kinds tracking discrete biological groups."
+    },
+    {
+     "term": "Correspondence audit study",
+     "def": "A field experiment sending matched fictitious applications that differ only in a group signal, isolating differential treatment."
+    },
+    {
+     "term": "Taste-based vs statistical discrimination",
+     "def": "Discrimination arising from a preference the discriminator pays for, versus from using group membership as a proxy for unobserved traits."
+    },
+    {
+     "term": "Index of dissimilarity",
+     "def": "The proportion of one group that would have to relocate for two groups to be evenly distributed across areas."
+    },
+    {
+     "term": "Spatial mismatch",
+     "def": "The gap between where low-income minority residents live and where suitable employment has relocated."
+    },
+    {
+     "term": "Ethnicity vs race",
+     "def": "Ethnicity conventionally denotes shared ancestry, language and culture claimed from within; race denotes categories imposed from outside on visible criteria."
+    },
+    {
+     "term": "Redlining",
+     "def": "The mid-century US practice of grading neighbourhoods for mortgage risk by racial composition, with documented long-run effects on wealth."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "W. E. B. Du Bois (1868–1963)",
+     "note": "The colour line and double consciousness, grounded in the first large-scale empirical survey of a Black urban community."
+    },
+    {
+     "name": "William Julius Wilson (1935– )",
+     "note": "The Declining Significance of Race and When Work Disappears — argued class and joblessness had overtaken racial animus as the binding constraint."
+    },
+    {
+     "name": "Douglas Massey (1952– )",
+     "note": "American Apartheid established segregation as a cause, not merely a symptom, of concentrated disadvantage."
+    },
+    {
+     "name": "Eduardo Bonilla-Silva (1962– )",
+     "note": "Racism without Racists: the argument that structural reproduction no longer requires avowed prejudice."
+    }
+   ],
+   "debate": {
+    "title": "How much of persistent racial inequality is current discrimination rather than accumulated disadvantage?",
+    "sides": [
+     {
+      "label": "Discrimination is ongoing and measurable",
+      "text": "Audit studies show callback gaps that have not shrunk in the US over thirty years, with comparable gaps in Britain. These are experiments with identical CVs, so they cannot be explained by skills, family structure or geography — differential treatment is happening now, not only in the past."
+     },
+     {
+      "label": "Accumulated disadvantage does more of the work",
+      "text": "Wealth gaps built by decades of housing and credit exclusion transmit through neighbourhoods and schools regardless of any current employer's conduct, and Kline and colleagues find discrimination concentrated in a minority of firms. On this account, ending present discrimination would leave most of the gap intact."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "American Apartheid (1993)",
+     "who": "Massey & Denton — the case that segregation is causally upstream of much else."
+    },
+    {
+     "title": "When Work Disappears (1996)",
+     "who": "William Julius Wilson — the strongest statement of the class-and-jobs account."
+    },
+    {
+     "title": "Meta-analysis of Field Experiments Shows No Change in Racial Discrimination in Hiring (2017)",
+     "who": "Quillian et al. — the best single summary of the audit literature."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why are correspondence audit studies more persuasive than regression estimates of a wage gap?",
+     "a": "Because they randomise the group signal across otherwise identical applications, so any callback difference cannot be attributed to unmeasured differences in qualifications. Their limitation is that they capture only the first stage of hiring."
+    },
+    {
+     "q": "What do Lewontin and Edwards each get right about human genetic variation?",
+     "a": "Lewontin is right that most variance is within rather than between conventional racial groups. Edwards is right that correlations across many loci still permit accurate ancestry classification. Both hold; neither implies that folk racial categories track biological boundaries."
+    }
+   ]
+  },
+  {
+   "id": "soc-5",
+   "title": "Gender and the Family",
+   "oneLine": "The pay gap decomposed honestly, the motherhood penalty, and why births are falling almost everywhere.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The family that changed",
+     "p": [
+      "The mid-century Western family — early marriage, near-universal, one earner, children within it — was historically unusual and lasted about thirty years. Since then median age at first marriage has risen by roughly a decade, cohabitation has moved from deviance to normal precursor, about half of births in England and Wales now occur outside marriage and around 40 per cent in the United States, and divorce peaked in the early 1980s and has fallen since. Lesthaeghe and van de Kaa's second demographic transition frames this as a shift from children as the point of partnership towards self-realisation.",
+      "Sara McLanahan's diverging destinies argument identified the sociologically important twist: family change has not been uniform across the class structure. Graduate women marry later, marry other graduates and have children within stable marriages, while women without degrees increasingly have children in cohabiting unions with high dissolution rates, so children's family stability has become stratified by parental education. What follows is contested. Melissa Kearney argues the effects on children are large and under-discussed; critics respond that sibling and fixed-effects designs attenuate the estimates substantially, and that family structure is partly a consequence of the economic conditions it is asked to explain."
+     ]
+    },
+    {
+     "h": "The pay gap, decomposed",
+     "p": [
+      "The raw and adjusted gaps answer different questions and are routinely swapped, which is the main source of public confusion. The ONS reports a UK gap of around 7 per cent for full-time employees and about 13 per cent across all employees, the difference driven almost entirely by women's higher part-time rates; US women's median full-time weekly earnings run at roughly 83 to 84 per cent of men's. Control for occupation, industry, hours and experience and the gap shrinks markedly. In Blau and Kahn's 2017 decomposition, human capital variables now explain little, since women's education exceeds men's, while occupation and industry are the largest measured contributors, leaving an unexplained residual of around 38 per cent.",
+      "The fight is over what the controls mean. Solomon Polachek's human capital tradition treats occupational sorting as revealed preference over hours, risk and flexibility — on that reading equal pay for equal work is largely achieved and the residual reflects unmeasured job characteristics. The opposing reading is that controlling for occupation controls away the phenomenon, since the question is why the sorting happens. Claudia Goldin's Nobel-winning work supplies the best-fitting mechanism: pay in many professions is convex in hours, so jobs demanding long and unpredictable availability pay disproportionately, and within couples it is usually the woman who takes the flexible role. Within-role, within-firm gaps exist but are small in most estimates."
+     ]
+    },
+    {
+     "h": "The motherhood penalty and the fertility decline",
+     "p": [
+      "Event-study designs have made the child penalty the best-measured object in the literature. Kleven, Landais and Søgaard, using Danish data, found men's and women's earnings tracking closely until a first birth and diverging sharply and permanently after it, with a long-run penalty around 20 per cent; by 2013 child-related inequality accounted for roughly 80 per cent of Denmark's remaining gender earnings gap. Long-run penalties elsewhere run from about 21 per cent in Denmark to 31 per cent in the US, 44 per cent in the UK and over 50 per cent in Germany — variation that parental leave generosity explains poorly and gender norms explain well. Correll, Benard and Paik found mothers called back about half as often as identical childless women, with no penalty for fathers.",
+      "Fertility is falling faster than demographers projected. South Korea's total fertility rate reached 0.72 in 2023; England and Wales fell to about 1.4, the lowest since records began in 1938; the US sits near 1.6 and the global figure around 2.2. The proximate driver in rich countries is less a fall in births per partnership than a fall in partnership itself, plus postponement, which depresses period measures more than completed cohort fertility. Explanations include housing and childcare costs, opportunity cost for high-earning women, and Peter McDonald's gender equity theory, which predicts collapse where public-sphere equality outruns equality at home and fits Korea, Italy and Spain. One inconvenient fact: the correlation between female employment and fertility flipped sign around 1990, so countries with most women in work now have the higher birth rates."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Raw vs adjusted pay gap",
+     "def": "The unconditional earnings difference, versus the difference remaining after controlling for occupation, hours and experience — a narrower question."
+    },
+    {
+     "term": "Child penalty",
+     "def": "The persistent fall in a mother's earnings relative to a father's, identified by comparing trajectories immediately before and after a first birth."
+    },
+    {
+     "term": "Greedy jobs",
+     "def": "Goldin's term for occupations paying disproportionately for long and unpredictable hours, generating gaps without unequal pay for equal work."
+    },
+    {
+     "term": "Second demographic transition",
+     "def": "The post-1960s shift towards later partnership, cohabitation, non-marital births and sub-replacement fertility in rich countries."
+    },
+    {
+     "term": "Diverging destinies",
+     "def": "McLanahan's finding that family stability has become stratified by maternal education, compounding class advantage across generations."
+    },
+    {
+     "term": "Gender equity theory",
+     "def": "McDonald's thesis that fertility falls furthest where public-sphere equality outpaces equality within the household."
+    },
+    {
+     "term": "Tempo effect",
+     "def": "The depression of period fertility measures caused by postponement of births, which overstates the fall in completed family size."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Claudia Goldin (1946– )",
+     "note": "Reconstructed two centuries of women's employment data and located the residual pay gap in the convex returns to long hours."
+    },
+    {
+     "name": "Sara McLanahan (1940–2021)",
+     "note": "Diverging destinies — showed family change was class-stratified rather than general, with compounding effects on children."
+    },
+    {
+     "name": "Arlie Hochschild (1940– )",
+     "note": "The Second Shift and emotional labour, which brought unpaid domestic work into the measurement of inequality."
+    },
+    {
+     "name": "Henrik Kleven (1976– )",
+     "note": "The event-study design that turned the motherhood penalty from an inference into a directly observed discontinuity."
+    }
+   ],
+   "debate": {
+    "title": "Is the residual gender pay gap mainly discrimination or mainly choice under constraint?",
+    "sides": [
+     {
+      "label": "Constraint and structure",
+      "text": "Sorting into lower-paid, flexible occupations is not a free preference when childcare is expensive, hours in high-paying roles are inflexible and norms assign the caring role by default. The child penalty appears at the same moment for women in every country studied, which is not what individual taste variation looks like."
+     },
+     {
+      "label": "Preference and compensating differentials",
+      "text": "Adjusted gaps within the same job at the same firm are small, and much of the raw gap reflects genuine trade-offs between pay and hours, risk and commuting that men and women make differently on average. Treating every difference in revealed preference as constraint makes the hypothesis unfalsifiable."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Career and Family (2021)",
+     "who": "Claudia Goldin — the accessible version of the hours-and-flexibility argument."
+    },
+    {
+     "title": "The Gender Wage Gap: Extent, Trends, and Explanations (2017)",
+     "who": "Blau & Kahn — the decomposition everyone else is arguing about."
+    },
+    {
+     "title": "Children and Gender Inequality: Evidence from Denmark (2019)",
+     "who": "Kleven, Landais & Søgaard — the cleanest identification in the field."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why do the raw and adjusted pay gaps differ so much, and which should be cited?",
+     "a": "Adjusted gaps control for occupation, hours and experience, removing most of the difference. Neither is simply right: the raw gap measures the earnings difference between men and women, the adjusted gap measures unequal pay within like roles, and conflating them makes the debate unresolvable."
+    },
+    {
+     "q": "What does the international pattern of child penalties suggest about policy?",
+     "a": "Long-run penalties range from about 21 per cent in Denmark to over 50 per cent in Germany, and the variation tracks measured gender norms far better than parental leave entitlement. That is evidence against expecting leave policy alone to close the gap."
+    }
+   ]
+  },
+  {
+   "id": "soc-6",
+   "title": "Networks, Community and Social Capital",
+   "oneLine": "How relational structure moves information and behaviour, and what the decline-of-community evidence really shows.",
+   "minutes": 9,
+   "body": [
+    {
+     "h": "Weak ties and structural holes",
+     "p": [
+      "Mark Granovetter's 1973 paper is among the most cited in social science and among the most misremembered. His argument was structural, not sentimental: strong ties are transitive, so your close friends know each other and their information overlaps with yours. Weak ties, being non-transitive, bridge otherwise disconnected clusters, and are therefore the channel through which genuinely new information arrives. His job-search evidence found most people who found work through a contact had found it through someone they saw rarely. Ronald Burt reframed the same geometry from the broker's side: advantage lies in occupying a structural hole between clusters, yielding early access to non-redundant information and control over what passes between them.",
+      "The causal test arrived only in 2022, when Karthik Rajkumar and colleagues analysed large-scale experiments in LinkedIn's People You May Know algorithm covering some twenty million users. Weak ties did increase job mobility, but the relationship was an inverted U: moderately weak ties were most useful, the very weakest were not, and strong ties helped least. That refines Granovetter rather than overturning him, and it is a rare case of a foundational sociological claim getting a genuinely experimental test at scale."
+     ]
+    },
+    {
+     "h": "Bowling alone, and its critics",
+     "p": [
+      "Putnam's argument, from a 1995 article and the 2000 book, was that American social capital had declined sharply since the 1960s: association membership, public meeting attendance, informal socialising and generalised trust all fell, with generational replacement and television the main suspects. His distinction between <em>bonding</em> capital, reinforcing homogeneous groups, and <em>bridging</em> capital, linking across them, has proved more durable than the trend claim. Claude Fischer's critique is that the indicators were not comparable across the period and that Putnam counted organisational forms which happened to be in decline; Robert Wuthnow argued the pattern was a shift towards looser, more fluid connection rather than net loss.",
+      "Putnam's own 2007 paper compounded the controversy by reporting that, in the short run, ethnic diversity in American communities was associated with lower trust in neighbours of all groups, including one's own — hunkering down. He published it reluctantly, paired with an argument that identities are reconstructible over the longer run. The subsequent literature is genuinely split: Abascal and Baldassarri's reanalysis argued the association is largely accounted for by disadvantage and by who lives in diverse places, while van der Meer and Tolsma's review of around ninety studies found the negative relationship reasonably robust in the United States but not replicated in most European contexts."
+     ]
+    },
+    {
+     "h": "Loneliness, contagion and what actually spreads",
+     "p": [
+      "The loneliness discourse outruns its data in two ways. The age pattern is inverted from the popular picture: ONS surveys consistently find 16 to 24 year olds reporting the highest rates of frequent loneliness in Britain, above the over-65s, with around 6 to 7 per cent of adults feeling lonely often or always. And the trend evidence is much weaker than the level evidence — careful studies of older US adults find little increase across recent decades, even as time-use data show falling hours spent with friends, particularly among teenagers since the early 2010s. On the smartphone explanation, Orben and Przybylski's specification-curve analysis found the average effect of screen time on adolescent wellbeing comparable in size to that of eating potatoes.",
+      "Behavioural spread has followed a similar arc from confident claim to careful qualification. Christakis and Fowler's Framingham analyses reported that obesity, smoking and happiness spread through ties up to three degrees of separation. Cohen-Cole and Fletcher showed the same method produced apparent contagion for acne and height, and Shalizi and Thomas demonstrated formally that homophily and contagion are generically confounded in observational network data: similar people befriend each other and share environments. What survives is largely experimental. Damon Centola's randomised network experiments established complex contagion — behaviours needing reinforcement from multiple contacts spread further in clustered networks than in networks full of long-range shortcuts, the opposite of what holds for simple information."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Strength of weak ties",
+     "def": "Granovetter's argument that non-redundant information travels through infrequent, non-transitive contacts rather than close friends."
+    },
+    {
+     "term": "Structural hole",
+     "def": "Burt's gap between two clusters that do not communicate, giving whoever bridges it informational and control advantages."
+    },
+    {
+     "term": "Bonding vs bridging capital",
+     "def": "Connections that thicken ties within a homogeneous group, versus connections that link across social divisions."
+    },
+    {
+     "term": "Homophily",
+     "def": "The tendency to associate with similar others, which confounds most observational attempts to identify social influence."
+    },
+    {
+     "term": "Complex contagion",
+     "def": "Behaviour requiring reinforcement from several contacts to spread, and so diffusing better in clustered than in far-flung networks."
+    },
+    {
+     "term": "Generalised trust",
+     "def": "Willingness to trust strangers, measured by standard survey items and the most-used single indicator of social capital."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Mark Granovetter (1943– )",
+     "note": "Made network structure explanatory: a tie's value comes from the topology it bridges, not from its emotional strength."
+    },
+    {
+     "name": "Robert Putnam (1941– )",
+     "note": "Put social capital on the political agenda, and published his own most inconvenient finding on diversity and trust."
+    },
+    {
+     "name": "Ronald Burt (1949– )",
+     "note": "Structural holes — reframed advantage as a property of position in a network rather than of the person occupying it."
+    },
+    {
+     "name": "Damon Centola (1975– )",
+     "note": "Built randomised online network experiments that separated complex from simple contagion under controlled conditions."
+    }
+   ],
+   "debate": {
+    "title": "Has community declined, or only changed form?",
+    "sides": [
+     {
+      "label": "Declined",
+      "text": "Association membership, public meeting attendance, union density and informal socialising all fell over decades on multiple independent indicators, and time-use data show the fall continuing. Thin online ties do not perform the functions dense local ones did — supervising children, staffing institutions, generating obligation."
+     },
+     {
+      "label": "Changed form",
+      "text": "The measures were built around mid-century organisational types that were themselves historically peculiar. People still sustain support networks, but through looser, more chosen and less place-bound arrangements, and counting Rotary clubs will register that as decline whether or not anyone is worse connected."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Strength of Weak Ties (1973)",
+     "who": "Mark Granovetter — twenty pages, and the foundation of network sociology."
+    },
+    {
+     "title": "Bowling Alone (2000)",
+     "who": "Robert Putnam — the argument, worth reading with Claude Fischer's critique to hand."
+    },
+    {
+     "title": "How Behavior Spreads (2018)",
+     "who": "Damon Centola — the experimental case for complex contagion."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Why are weak ties informationally valuable?",
+     "a": "Because strong ties are transitive: your close friends know each other and share your information pool. Weak ties bridge disconnected clusters and carry material you would not otherwise meet — though the LinkedIn experiments suggest moderately weak ties, not the weakest, are most useful."
+    },
+    {
+     "q": "Why is it hard to show that a behaviour spreads through a network?",
+     "a": "Because homophily and shared environment produce the same clustering contagion does. Shalizi and Thomas showed the two are generically confounded in observational data, which is why credible evidence now comes from randomised network experiments."
+    }
+   ]
+  },
+  {
+   "id": "soc-7",
+   "title": "Deviance, Crime and Punishment",
+   "oneLine": "Why defining crime is part of the subject, and what the evidence on the crime drop and on deterrence supports.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "Labelling and its rivals",
+     "p": [
+      "Howard Becker's formulation in <em>Outsiders</em> (1963) is deliberately provocative: deviance is not a quality of the act but a consequence of the application of rules and sanctions to an offender. Edwin Lemert's distinction gives it teeth. <em>Primary</em> deviance is the initial rule-breaking, common and usually inconsequential; <em>secondary</em> deviance is what follows from being publicly identified as deviant and reorganising one's identity around the label. Goffman's <em>Stigma</em> supplied the mechanism, and Stanley Cohen's <em>Folk Devils and Moral Panics</em> (1972) traced how a modest disturbance at Clacton became a national object of fear through amplification.",
+      "This is testable, and it has been tested. Aizer and Doyle exploited the random assignment of juveniles to Chicago judges of differing severity and found juvenile incarceration substantially reduced the probability of completing high school and raised the probability of adult imprisonment — the labelling prediction, identified causally. Rival frameworks are complementary rather than refuted. Merton's strain theory locates deviance in the gap between prescribed goals and legitimate means. Hirschi's control theory inverts the question and asks why most people conform. Cohen and Felson's routine activity theory dispenses with motivation: crime needs a motivated offender, a suitable target and no capable guardian, making it a problem of opportunity structure."
+     ]
+    },
+    {
+     "h": "The crime decline nobody fully explains",
+     "p": [
+      "Recorded and survey-measured crime fell dramatically across the rich world from the early-to-mid 1990s. US violent crime roughly halved from its 1991 peak; the Crime Survey for England and Wales peaked in 1995 and shows falls of 70 to 80 per cent for many acquisitive offences; comparable declines occurred in Canada, Australia and most of Western Europe. The synchrony is the hard fact. It happened under very different policing regimes, incarceration rates, drug policies and economic conditions, which is why single-country explanations struggle.",
+      "Each candidate has some support and each fails the synchrony test to some degree. Steven Levitt attributed roughly a third of the US 1990s decline to rising incarceration, with clearly diminishing returns — but Canada's crime fell as much with a flat prison population. Donohue and Levitt's legalised-abortion hypothesis remains a minority position after a coding error found by Foote and Goetz. The lead hypothesis of Nevin and Reyes looked strong until Higney, Hanley and Moretti's 2022 meta-analysis found substantial publication bias and a much smaller corrected effect. Graham Farrell's security hypothesis — immobilisers, better locks and alarms raising the effort required for high-volume property crime — does best on the cross-national pattern and worst on violence. The drop is real and international, and explained by candidate mechanisms rather than a settled account."
+     ]
+    },
+    {
+     "h": "Deterrence and incarceration",
+     "p": [
+      "Daniel Nagin's reviews give the field's most robust generalisation: certainty of apprehension deters, severity of punishment does very little. Evidence that police numbers reduce crime is reasonably strong — Chalfin and McCrary put the elasticity of violent crime with respect to officer numbers somewhere between minus 0.3 and minus 0.7 — and hot-spots policing performs well in meta-analysis with less displacement than intuition predicts. Focused deterrence, in the style of David Kennedy's Boston Ceasefire, has promising but heterogeneous results. By contrast, the National Research Council's 2012 review concluded that studies claiming to measure the deterrent effect of capital punishment are simply uninformative, and evaluations of three-strikes and mandatory minimums generally find weak deterrence for large costs.",
+      "Incarceration shows why context dominates. The US combined prison and jail rate peaked near 760 per 100,000 around 2008 and has since fallen to roughly 550, still several times the Western European norm; England and Wales sit near 140, the highest in Western Europe, with a capacity crisis that forced early release in 2024. Mueller-Smith's Texas study found incarceration increased subsequent offending. Bhuller, Dahl, Løken and Mogstad's Norwegian study, using random judge assignment, found the opposite: imprisonment reduced recidivism substantially, mediated by in-prison training and employment. Prison's effect on reoffending appears to depend on what happens inside it. Western and Pettit note that among American men born in the late 1970s without a high school diploma, imprisonment by their mid-thirties was the modal experience for Black men."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Primary and secondary deviance",
+     "def": "Lemert's distinction between initial rule-breaking and the behaviour that follows from being publicly labelled as a deviant."
+    },
+    {
+     "term": "Moral panic",
+     "def": "Cohen's cycle in which a condition is defined as a threat to societal values, amplified by media, and met with disproportionate response."
+    },
+    {
+     "term": "Strain theory",
+     "def": "Merton's account of deviance as an adaptation to the mismatch between prescribed goals and legitimate means of reaching them."
+    },
+    {
+     "term": "Routine activity theory",
+     "def": "Crime as the convergence of a motivated offender, suitable target and absent guardian — an opportunity account rather than a motivational one."
+    },
+    {
+     "term": "Certainty versus severity",
+     "def": "The finding that raising the probability of detection deters offending while lengthening sentences largely does not."
+    },
+    {
+     "term": "Security hypothesis",
+     "def": "Farrell's explanation of the international crime drop through improvements in physical and electronic security, especially vehicle immobilisers."
+    },
+    {
+     "term": "Criminogenic effect",
+     "def": "The tendency of punishment, especially custody, to increase later offending through stigma, network exposure and lost employment."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Howard Becker (1928–2023)",
+     "note": "Outsiders relocated deviance from the act to the social response, and made rule-creation part of the subject matter."
+    },
+    {
+     "name": "Robert K. Merton (1910–2003)",
+     "note": "Strain theory, plus the typology of conformity, innovation, ritualism, retreatism and rebellion still taught everywhere."
+    },
+    {
+     "name": "Robert Sampson (1955– )",
+     "note": "With John Laub, the life-course account of desistance; separately, collective efficacy as the neighbourhood mechanism behind crime rates."
+    },
+    {
+     "name": "Daniel Nagin (1948– )",
+     "note": "Synthesised the deterrence literature into its one durable conclusion: certainty deters, severity mostly does not."
+    }
+   ],
+   "debate": {
+    "title": "Does prison reduce crime?",
+    "sides": [
+     {
+      "label": "Yes, through incapacitation",
+      "text": "Someone in custody cannot offend against the public, and a small number of prolific offenders account for a large share of recorded crime. Levitt attributes a meaningful part of the US decline to rising incarceration, and the deterrent value of a credible custodial threat is not zero even if severity effects are modest."
+     },
+     {
+      "label": "No, on net",
+      "text": "Incapacitation gains diminish sharply as the prison population grows and reaches less prolific offenders, while custody damages employment, family ties and health in ways that raise later offending. Mueller-Smith finds a net criminogenic effect in Texas, and the Norwegian contrast suggests any benefit depends on rehabilitative content."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "Outsiders (1963)",
+     "who": "Howard Becker — the labelling argument in its original, still-bracing form."
+    },
+    {
+     "title": "The Great American Crime Decline (2007)",
+     "who": "Franklin Zimring — the most honest accounting of what the explanations can and cannot carry."
+    },
+    {
+     "title": "Punishment and Inequality in America (2006)",
+     "who": "Bruce Western — incarceration as a stratifying institution."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What is the most robust finding in the deterrence literature?",
+     "a": "That certainty of detection deters offending while severity of sentence has little marginal effect. This implies resources spent on detection and clear-up rates buy more crime reduction than equivalent resources spent on longer sentences."
+    },
+    {
+     "q": "Why does the international crime drop resist explanation?",
+     "a": "Because it occurred at roughly the same time across countries with very different policing, sentencing, drug policy and economic conditions. Any explanation resting on a national policy change has to account for falls in countries that did not make it."
+    }
+   ]
+  },
+  {
+   "id": "soc-8",
+   "title": "Cities, Migration and How Societies Change",
+   "oneLine": "Why cities produce both productivity and segregation, and what the migration evidence supports on wages, services and integration.",
+   "minutes": 10,
+   "body": [
+    {
+     "h": "The urban machine",
+     "p": [
+      "The world passed 50 per cent urban around 2007 and the UN projects roughly 68 per cent by 2050. The Chicago School — Park, Burgess, Wirth — treated the city as an ecology, with concentric zones of invasion and succession and an urbanism whose size, density and heterogeneity produce impersonality and tolerance in equal measure. The zonal model failed outside 1920s Chicago, and the Los Angeles School's counter-case was that decentralised polycentric sprawl is the more general form. What survived is the method — neighbourhoods studied as units with properties of their own — leading to Sampson's collective efficacy, the mix of cohesion and willingness to intervene that predicts neighbourhood crime better than poverty alone.",
+      "The economic case for cities is agglomeration. Doubling a city's population is associated with something in the order of a 2 to 5 per cent productivity gain, through labour market matching, input sharing and knowledge spillovers. The refinement that matters is that this is partly sorting, since more capable workers move to cities, and partly genuine causation: De la Roca and Puga, using worker mobility, found a substantial dynamic component in which workers accumulate skills faster in bigger cities and carry the gains away with them."
+     ]
+    },
+    {
+     "h": "Segregation: a model, and what actually caused it",
+     "p": [
+      "Schelling's 1971 model is the discipline's favourite demonstration of emergence. Agents on a grid move only if fewer than a third of their neighbours are like them — a mild preference nobody would call segregationist — and the grid nonetheless tips to near-total separation. The lesson is that aggregate patterns need not reflect individual intentions, and that inferring preferences from outcomes is unsafe. The lesson is <em>not</em> that actual segregation arose from mild preferences. Schelling built an existence proof, not a history.",
+      "The US record is heavily institutional: Home Owners Loan Corporation maps grading neighbourhoods by racial composition, restrictive covenants, blockbusting, discriminatory lending and the siting of public housing. Aaronson, Hartley and Mazumder's boundary-discontinuity design found causal effects of the 1930s redlining maps on later homeownership, house values and credit access. Preference evidence complicates rather than removes this: Card, Mas and Rothstein identified tipping points at minority shares of roughly 5 to 20 per cent, beyond which white population growth turns sharply negative. As to whether neighbourhoods themselves matter, Moving to Opportunity showed mental-health gains but little adult economic effect until Chetty, Hendren and Katz followed the children into adulthood: those who moved before age 13 earned around 31 per cent more as young adults, those who moved later did not. Exposure time, not the move, was doing the work."
+     ]
+    },
+    {
+     "h": "Migration: what the evidence supports, in both directions",
+     "p": [
+      "The wage question hosts the field's most public disagreement. David Card's 1990 study of the Mariel boatlift, in which Miami's labour force grew about 7 per cent in months, found no measurable effect on low-skilled natives' wages. Borjas's 2017 reanalysis, restricted to non-Hispanic men without high school education, found large negative effects; Peri and Yasenov replied that the restricted sample was very small and its composition shifted for unrelated survey reasons. His skill-cell approach finds losses of several per cent for high-school dropouts over 1980 to 2000, while Ottaviano and Peri counter that immigrants and natives of the same nominal education are imperfect substitutes, so incidence falls mainly on <em>earlier</em> immigrants. The 2016 National Academies review put effects on average native wages close to zero in the long run.",
+      "UK evidence points the same way with a distributional twist. Dustmann, Frattini and Preston found immigration shifted the native wage distribution rather than its average: small negative effects below roughly the 20th percentile, small positive effects above, while Wadsworth and colleagues found no significant aggregate effect. Fiscal estimates are period-dependent and contested — Dustmann and Frattini found EEA migrants made a positive net contribution over 1995 to 2011 while non-EEA migrants did not, with results sensitive to how public goods and children's costs are apportioned. Giuntella and colleagues found immigration raised NHS outpatient waiting times in deprived areas in the short run and nowhere else; the housing evidence is mixed. On integration, Alba and Nee describe boundary shifting over generations rather than one-way absorption, against Portes and Zhou's segmented assimilation, in which the second generation moves upward, downward or selectively according to the context of reception."
+     ]
+    }
+   ],
+   "concepts": [
+    {
+     "term": "Agglomeration economies",
+     "def": "The productivity gains from density through matching, sharing and knowledge spillovers, part sorting and part genuine learning."
+    },
+    {
+     "term": "Collective efficacy",
+     "def": "Sampson's combination of neighbourhood cohesion and willingness to intervene, which predicts crime rates better than poverty alone."
+    },
+    {
+     "term": "Schelling tipping",
+     "def": "The result that mild individual preferences over neighbours can aggregate into near-complete segregation without anyone intending it."
+    },
+    {
+     "term": "Skill-cell approach",
+     "def": "Borjas's method of estimating immigration's wage effects by grouping workers by education and experience across a national labour market."
+    },
+    {
+     "term": "Imperfect substitution",
+     "def": "The finding that immigrants and natives with the same formal education compete only partially, shifting wage incidence towards earlier immigrants."
+    },
+    {
+     "term": "Segmented assimilation",
+     "def": "Portes and Zhou's claim that second-generation trajectories diverge upward, downward or selectively according to the context of reception."
+    },
+    {
+     "term": "Contact hypothesis",
+     "def": "Allport's proposition that intergroup contact under appropriate conditions reduces prejudice, supported on average but unevenly evidenced."
+    }
+   ],
+   "thinkers": [
+    {
+     "name": "Thomas Schelling (1921–2016)",
+     "note": "Showed with a chessboard that segregation can emerge from preferences no individual would describe as segregationist."
+    },
+    {
+     "name": "Robert Sampson (1955– )",
+     "note": "Great American City — neighbourhood effects and collective efficacy established through decades of Chicago data."
+    },
+    {
+     "name": "David Card (1956– )",
+     "note": "The Mariel boatlift natural experiment, still the most argued-over data point in migration economics."
+    },
+    {
+     "name": "Alejandro Portes (1944– )",
+     "note": "Segmented assimilation — replaced the assumption of a single immigrant trajectory with divergent, context-dependent paths."
+    }
+   ],
+   "debate": {
+    "title": "Does immigration lower wages for native workers?",
+    "sides": [
+     {
+      "label": "For some workers, yes",
+      "text": "Where migrants are close substitutes for existing workers, standard supply logic applies, and skill-cell estimates find real losses among those without qualifications. UK evidence showing negative effects below the 20th percentile and positive effects above says the average conceals a distributional shift that matters politically."
+     },
+     {
+      "label": "In aggregate, essentially no",
+      "text": "Migrants consume, invest and create jobs as well as supplying labour, and they are imperfect substitutes for natives, so incidence falls largely on earlier migrants. The Mariel result and the National Academies review both find effects on average native wages close to zero over the long run."
+     }
+    ]
+   },
+   "reading": [
+    {
+     "title": "The Economic and Fiscal Consequences of Immigration (2016)",
+     "who": "National Academies — the most balanced synthesis available, and deliberately uncomfortable for both sides."
+    },
+    {
+     "title": "Great American City (2012)",
+     "who": "Robert Sampson — neighbourhood effects done with unusual empirical patience."
+    },
+    {
+     "title": "Triumph of the City (2011)",
+     "who": "Edward Glaeser — the agglomeration case, argued hard and worth arguing with."
+    }
+   ],
+   "quiz": [
+    {
+     "q": "What does the Schelling model prove, and what does it not?",
+     "a": "It proves severe segregation can emerge from mild preferences with no discriminatory intent, so outcomes are poor evidence of motives. It does not establish that actual segregation arose that way — the US record involves redlining, covenants and lending discrimination directly."
+    },
+    {
+     "q": "Why did Moving to Opportunity initially appear to show that neighbourhoods do not matter?",
+     "a": "Because the early evaluations measured adults and adolescents, who showed mental-health gains but little earnings change. Following the children into adulthood revealed large gains for those who moved before about age 13, indicating that exposure duration in childhood is the operative variable."
+    }
+   ]
+  }
+ ]
+}
