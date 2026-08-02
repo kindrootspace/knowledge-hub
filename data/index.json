@@ -1,0 +1,17 @@
+{
+ "hubStart": "2026-08-02",
+ "tracks": [
+  "politics",
+  "philosophy",
+  "economics",
+  "science",
+  "history",
+  "psychology",
+  "arts",
+  "health",
+  "religion",
+  "technology",
+  "sociology"
+ ],
+ "progress": []
+}

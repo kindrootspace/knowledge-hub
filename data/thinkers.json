@@ -1,0 +1,1053 @@
+{
+ "blurb": "Ideas are easier to hold on to when they are attached to the person who had to fight for them. These are thirty-nine figures whose work still structures how we argue — chosen for reach across the eleven tracks and across the world, not for the standard list. Every entry ends with the strongest standing objection, because a thinker you cannot criticise is one you have not understood.",
+ "eras": [
+  {
+   "id": "ancient",
+   "label": "Ancient & classical",
+   "range": "c. 600 BCE – 500 CE"
+  },
+  {
+   "id": "medieval",
+   "label": "Medieval & early modern",
+   "range": "500 – 1650"
+  },
+  {
+   "id": "enlightenment",
+   "label": "Enlightenment",
+   "range": "1650 – 1800"
+  },
+  {
+   "id": "long19",
+   "label": "The long nineteenth century",
+   "range": "1800 – 1914"
+  },
+  {
+   "id": "modern",
+   "label": "Modern",
+   "range": "1914 – 1990"
+  },
+  {
+   "id": "contemporary",
+   "label": "Contemporary",
+   "range": "1990 – "
+  }
+ ],
+ "people": [
+  {
+   "id": "confucius",
+   "name": "Confucius (Kongzi)",
+   "dates": "551–479 BCE",
+   "era": "ancient",
+   "fields": [
+    "Philosophy",
+    "Religion & Spirituality",
+    "Sociology"
+   ],
+   "oneLine": "Built an entire ethics out of relationships and ritual rather than rules or commandments.",
+   "bio": "Confucius lived through the disintegration of the Zhou order and concluded that the repair had to be moral before it could be political. His answer was not a code but a training: <em>ren</em>, the humaneness that grows from properly attending to the people actually in front of you, cultivated through <em>li</em> — ritual, propriety, the choreography of ordinary conduct. Ritual in this account is not empty formality but the way values are made habitual and legible to others, which is why he took table manners and mourning periods as seriously as government.\n\nThe political corollary was that a ruler governs by moral example rather than by punishment, and that the officials around him should be selected on cultivated merit rather than birth — a proposition that eventually produced the imperial examination system and, through it, roughly two millennia of Chinese administration. The Analects is not a treatise; it is a collection of remarks compiled by students, which is part of why it has proved so endlessly re-readable and so easy to co-opt.",
+   "ideas": [
+    "Ren — humaneness realised through concrete relationships, not abstract principle.",
+    "Li — ritual and propriety as the practical training of character.",
+    "The rectification of names — social disorder begins when words stop matching realities.",
+    "Government by moral example, with merit rather than birth as the qualification to serve."
+   ],
+   "quote": "What you do not wish for yourself, do not do to others.",
+   "quoteNote": "Analects 15:24 — the negative formulation of the golden rule, four centuries before its positive version.",
+   "criticism": "The framework is built on hierarchical relationships — ruler and subject, father and son, husband and wife — and later orthodoxy hardened those into rigid subordination, particularly of women. Whether that follows from Confucius or from his imperial editors is genuinely disputed, but the tradition has to answer for it either way.",
+   "modules": [
+    "rel-4",
+    "phi-4",
+    "pol-1"
+   ]
+  },
+  {
+   "id": "aristotle",
+   "name": "Aristotle",
+   "dates": "384–322 BCE",
+   "era": "ancient",
+   "fields": [
+    "Philosophy",
+    "Science",
+    "Politics"
+   ],
+   "oneLine": "Invented the practice of systematic empirical inquiry, then applied it to almost everything there was.",
+   "bio": "Aristotle spent twenty years in Plato's Academy and emerged rejecting its central move. Where Plato located reality in a realm of perfect forms, Aristotle insisted that the way to understand a thing is to examine <em>this</em> thing — to dissect the cuttlefish, catalogue the constitutions of 158 city-states, watch how a chick embryo develops. He was wrong about a great deal, sometimes embarrassingly, but the method of building theory upward from observation is his.\n\nHis logic — the syllogism, validity, the systematic study of what follows from what — dominated Western reasoning for two thousand years and was not substantially improved on until Frege. His ethics asked a different question from most of what followed: not what should I do, but what sort of person should I become, with virtue as a stable disposition sitting between excess and deficiency, and <strong>phronesis</strong>, practical wisdom, as the trained perception of what a situation actually calls for. That framework was pushed aside by rule-based and outcome-based ethics for three centuries and has been steadily returning since the 1950s.",
+   "ideas": [
+    "The four causes — material, formal, efficient and final — as a complete account of why a thing is as it is.",
+    "Virtue as a mean between excess and deficiency, learned by habituation rather than instruction.",
+    "Eudaimonia — flourishing as an activity of living well, not a feeling.",
+    "Formal logic: validity as a property of argument structure independent of content."
+   ],
+   "quote": "Man is by nature a political animal.",
+   "quoteNote": "Politics I.2 — the claim is that human beings are constituted by the polis, not merely gathered into it.",
+   "criticism": "His teleology — the idea that things have natural ends they are striving towards — was a genuine obstacle to physics and biology for centuries, and his defence of natural slavery is not a lapse but a load-bearing part of his political theory.",
+   "modules": [
+    "phi-4",
+    "pol-1",
+    "sci-2"
+   ]
+  },
+  {
+   "id": "thucydides",
+   "name": "Thucydides",
+   "dates": "c. 460–400 BCE",
+   "era": "ancient",
+   "fields": [
+    "History",
+    "Politics"
+   ],
+   "oneLine": "Wrote the first history that explains events by interest and power rather than by the will of gods.",
+   "bio": "Thucydides was an Athenian general who lost a command, was exiled, and spent the rest of the war writing about it. His History of the Peloponnesian War is the founding text of both critical history and international relations realism, and it is remarkable chiefly for what it refuses to do: no divine intervention, no omens, no moralising about fate. Athens and Sparta went to war because the growth of Athenian power made Spartan fear inevitable — a structural explanation, stated as such.\n\nThe Melian Dialogue, in which Athenian envoys tell a small neutral island that questions of justice arise only between equals in power, is the most-cited passage in the discipline. It is worth noting that Thucydides puts the argument in the Athenians' mouths and then narrates the massacre and enslavement that follow, and then the Sicilian catastrophe that destroys Athens. Whether he is endorsing realism or exhibiting where it leads is an argument that has run for two and a half thousand years.",
+   "ideas": [
+    "Structural causation — the deep causes of war lie in shifts of relative power, not in the incidents that trigger it.",
+    "The distinction between the alleged and the truest cause of a conflict.",
+    "Speeches as analytical device: reconstructing what the situation required each side to argue.",
+    "Political language degrades under civil conflict, as words lose their settled meanings."
+   ],
+   "quote": "The strong do what they can and the weak suffer what they must.",
+   "quoteNote": "The Melian Dialogue — spoken by Athenian envoys, and followed immediately by the destruction of Melos.",
+   "criticism": "The speeches he reports are, by his own admission, reconstructions of what he thought was appropriate to the occasion, which makes his most quoted material his least evidential. Graham Allison's Thucydides trap has also been criticised for a historical base rate assembled by selective case-picking.",
+   "modules": [
+    "his-1",
+    "pol-7"
+   ]
+  },
+  {
+   "id": "nagarjuna",
+   "name": "Nagarjuna",
+   "dates": "c. 150–250 CE",
+   "era": "ancient",
+   "fields": [
+    "Philosophy",
+    "Religion & Spirituality"
+   ],
+   "oneLine": "Argued that nothing whatsoever has independent existence, and made the argument rigorously enough that it still resists refutation.",
+   "bio": "Nagarjuna founded the Madhyamaka school and is the most philosophically formidable figure in the Buddhist tradition. His central claim is <em>sunyata</em>, emptiness: nothing possesses <em>svabhava</em>, intrinsic self-standing nature. Everything that exists does so dependently — on causes, on parts, on conceptual designation. His method is almost entirely negative. He takes each candidate for independent existence, including causation, motion, time and the self, and demonstrates that every available account of it collapses into contradiction.\n\nThe move that saves this from nihilism is the two truths distinction. Conventionally, chairs and persons and moral obligations are perfectly real and we should speak and act accordingly. Ultimately, none of them has the independent existence our language implies. Emptiness is itself empty — it is not a hidden substrate but the absence of one. Western philosophers have periodically discovered him with some surprise; the structural resemblance to certain arguments in Hume, Wittgenstein and contemporary metaphysics is real and not coincidental in the way the tradition's defenders sometimes claim.",
+   "ideas": [
+    "Sunyata — emptiness of intrinsic nature, applied without exception including to emptiness itself.",
+    "Dependent origination as the positive content of what emptiness denies.",
+    "The two truths — conventional and ultimate — as different levels of description, not competing claims.",
+    "The catuskoti, a four-cornered logic used to close off all positions rather than establish one."
+   ],
+   "quote": "Whatever is dependently arisen, that is explained as emptiness.",
+   "quoteNote": "Mulamadhyamakakarika 24:18 — the line that ties the two central concepts together.",
+   "criticism": "Critics from Nyaya onwards have pressed the charge that a position which refutes all positions cannot coherently be asserted, and that the two truths either collapse into one another or leave the ultimate truth unstatable. Madhyamaka has answers; whether they succeed is still argued.",
+   "modules": [
+    "rel-3",
+    "phi-7",
+    "rel-5"
+   ]
+  },
+  {
+   "id": "hypatia",
+   "name": "Hypatia of Alexandria",
+   "dates": "c. 350–415",
+   "era": "ancient",
+   "fields": [
+    "Science",
+    "Philosophy"
+   ],
+   "oneLine": "The last major mathematician of the Alexandrian tradition, and a case study in how knowledge is lost.",
+   "bio": "Hypatia taught mathematics, astronomy and Neoplatonic philosophy in Alexandria, edited her father Theon's commentary on Ptolemy's Almagest, and produced commentaries on Diophantus's Arithmetica and Apollonius's Conics. None of her own writing survives intact. What we know comes from letters written to her by her student Synesius, from the church historian Socrates Scholasticus, and from later accounts written with obvious agendas in every direction.\n\nShe was murdered by a Christian mob in 415, in the context of a violent factional struggle between the prefect Orestes and the bishop Cyril. The event has been used as a parable about religion destroying reason since at least Gibbon, which is a considerable simplification: her students included Christians, she was killed as a political ally of Orestes rather than as a pagan philosopher, and Alexandrian scholarship continued after her. She belongs on this list for the mathematics, and as a reminder that the historical record is a survivor's record.",
+   "ideas": [
+    "Commentary as a scholarly form — preserving, correcting and extending inherited technical texts.",
+    "Editorial work on Ptolemy's Almagest, the astronomical standard for the next 1,400 years.",
+    "Neoplatonic teaching that drew students across the religious divisions of her city.",
+    "A cautionary case in historiography: how a life becomes a symbol at the cost of its detail."
+   ],
+   "quote": "",
+   "quoteNote": "No words of her own survive. Everything attributed to her in popular sources is either from Synesius's letters to her, or invented.",
+   "criticism": "It is genuinely unclear how much original mathematics she produced as against skilled editorial and pedagogical work — and the honest answer is that we cannot know, which is itself the point of including her.",
+   "modules": [
+    "his-1",
+    "sci-1"
+   ]
+  },
+  {
+   "id": "al-khwarizmi",
+   "name": "Muhammad ibn Musa al-Khwarizmi",
+   "dates": "c. 780–850",
+   "era": "medieval",
+   "fields": [
+    "Science",
+    "Technology"
+   ],
+   "oneLine": "Turned algebra into a general method and gave his name to the algorithm.",
+   "bio": "Working at the House of Wisdom in Abbasid Baghdad, al-Khwarizmi wrote a treatise whose title contains the word <em>al-jabr</em> — the restoring, meaning the operation of moving a subtracted term to the other side of an equation. From that word we get algebra. What made the work new was not the individual techniques, some of which were known in Babylonia and India, but the systematic treatment: a general classification of equation types with a procedure for solving each, expressed in words and justified geometrically.\n\nHis second decisive contribution was a treatise on the Hindu numeral system, which transmitted positional notation and the zero westward. The Latin rendering of his name, Algoritmi, became <em>algorithm</em>. It is worth being precise about what this means: he did not invent the digits, and the House of Wisdom was a translation and research operation rather than the grand academy of popular accounts. What he did was to formalise calculation as a set of step-by-step procedures that could be taught and applied without insight — which is what makes him the intellectual ancestor of everything in the Technology track.",
+   "ideas": [
+    "Algebra as a general method: classify the equation, then apply the matching procedure.",
+    "Al-jabr and al-muqabala — restoring and balancing as formal operations on both sides.",
+    "Transmission of Hindu positional notation and zero into the Islamic and then Latin world.",
+    "The algorithm — a finite, mechanical, transferable procedure."
+   ],
+   "quote": "",
+   "quoteNote": "The surviving preface to al-Jabr is a dedication to the caliph al-Ma'mun; the widely circulated one-line quotations attributed to him online are not reliably sourced.",
+   "criticism": "His algebra is entirely rhetorical — no symbols — and restricted to positive coefficients and roots, so the generality is real but bounded. Historians also dispute how much he originated versus synthesised from Indian and late-Babylonian sources.",
+   "modules": [
+    "his-4",
+    "tec-1",
+    "sci-1"
+   ]
+  },
+  {
+   "id": "ibn-sina",
+   "name": "Ibn Sina (Avicenna)",
+   "dates": "c. 980–1037",
+   "era": "medieval",
+   "fields": [
+    "Philosophy",
+    "Health & Medicine"
+   ],
+   "oneLine": "Wrote the medical textbook Europe used for six centuries, and a metaphysics that reshaped three religions' theology.",
+   "bio": "The Canon of Medicine synthesised Galenic, Persian and Indian medicine into a single ordered system, and remained a standard teaching text in European universities into the seventeenth century. Its lasting merits are organisational and clinical rather than theoretical: careful symptom description, attention to the conditions under which a treatment can be said to work, an early statement of something like controlled comparison, and a materia medica of several hundred agents.\n\nHis philosophy has arguably outlasted his medicine. The distinction between essence and existence — what a thing is, versus the separate fact that it is — grounds his argument that everything contingent requires a necessary existent, an argument taken up by Aquinas and still defended in contemporary philosophy of religion. His floating man thought experiment, in which a person created suspended in the void with no sensory input would still be aware of themselves, is a self-awareness argument that anticipates Descartes by six hundred years and is still discussed in philosophy of mind.",
+   "ideas": [
+    "The essence–existence distinction: what something is does not entail that it is.",
+    "The argument from contingency to a necessary existent.",
+    "The floating man — self-awareness as prior to and independent of sensation.",
+    "The Canon's clinical method: systematic description, and conditions for inferring efficacy."
+   ],
+   "quote": "The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes.",
+   "quoteNote": "A statement of the causal account of understanding that runs through both his medicine and his metaphysics.",
+   "criticism": "The Canon's authority became an obstacle: its Galenic humoral framework was wrong, and its canonical status helped keep it in place long after anatomical evidence had undermined it. Al-Ghazali's attack on his necessitarian metaphysics also landed real blows that his defenders still have to answer.",
+   "modules": [
+    "hea-1",
+    "his-4",
+    "rel-6"
+   ]
+  },
+  {
+   "id": "zhu-xi",
+   "name": "Zhu Xi",
+   "dates": "1130–1200",
+   "era": "medieval",
+   "fields": [
+    "Philosophy",
+    "Religion & Spirituality"
+   ],
+   "oneLine": "Rebuilt Confucianism as a complete metaphysics, and set the curriculum of East Asia for seven hundred years.",
+   "bio": "Confucianism had been out-argued for centuries by Buddhist and Daoist systems that offered accounts of reality that it lacked. Zhu Xi's synthesis, now called Neo-Confucianism, supplied one. Everything consists of <em>li</em> — pattern or principle, the intelligible structure a thing has — and <em>qi</em>, the psychophysical stuff that instantiates it. Human nature is originally good because it participates in universal principle; moral failure comes from turbid qi obscuring it. Self-cultivation is therefore a matter of clearing the obstruction, pursued through <strong>gewu</strong>, the investigation of things.\n\nHis selection of the Four Books, with his commentaries, became the basis of the Chinese civil service examinations from 1313 until 1905, and travelled to Korea, Japan and Vietnam. Few individuals have had comparable influence over what a large fraction of humanity was formally taught. Note the ambiguity in gewu that his critics exploited: whether investigating things means empirical inquiry into the world or moral introspection was disputed within his own tradition, and Wang Yangming built a rival school on the second reading.",
+   "ideas": [
+    "Li and qi — universal principle and the material force that instantiates it.",
+    "The original goodness of human nature, obscured rather than absent in the morally deficient.",
+    "Gewu — the investigation of things as the route to moral clarity.",
+    "The Four Books as canon, and commentary as the vehicle of philosophical argument."
+   ],
+   "quote": "Today investigate one thing, tomorrow investigate another.",
+   "quoteNote": "His prescription for gewu — cumulative investigation, until understanding suddenly integrates.",
+   "criticism": "Fixing his commentaries as examination orthodoxy converted a live philosophy into a syllabus, and reformers from the seventeenth century onward blamed that ossification for China's intellectual conservatism. Wang Yangming's objection also stands: if principle is already complete in the mind, the outward investigation of things is beside the point.",
+   "modules": [
+    "rel-4",
+    "his-4",
+    "phi-2"
+   ]
+  },
+  {
+   "id": "ibn-khaldun",
+   "name": "Ibn Khaldun",
+   "dates": "1332–1406",
+   "era": "medieval",
+   "fields": [
+    "Sociology",
+    "History",
+    "Economics"
+   ],
+   "oneLine": "Founded the systematic study of society four hundred years before anyone in Europe attempted it.",
+   "bio": "A Tunisian jurist and diplomat who spent his career among collapsing North African dynasties, Ibn Khaldun wrote the Muqaddimah as the introduction to a universal history and produced something entirely new: an attempt to identify the general laws governing the rise and fall of societies. His organising concept is <em>asabiyyah</em>, group solidarity — the cohesion that lets a community act as one. It is strongest in harsh conditions, among nomadic and tribal peoples, and it is what allows them to overthrow settled dynasties.\n\nThe cycle follows. The conquerors settle, acquire luxury, and their solidarity dissolves over roughly three generations; taxation rises to fund the court, which suppresses the production being taxed; a new group with intact asabiyyah arrives. He also argued that excessive taxation reduces total revenue — a proposition rediscovered repeatedly since — and analysed the division of labour and the dependence of prosperity on secure property. He explicitly criticised historians who transmitted implausible reports without testing them against what is materially possible, which is source criticism stated as method.",
+   "ideas": [
+    "Asabiyyah — group solidarity as the engine of political power and its decay as the cause of collapse.",
+    "The dynastic cycle: roughly three generations from conquest to dissolution.",
+    "The tax curve — rates beyond a point suppress the activity being taxed and reduce revenue.",
+    "Source criticism: test reported events against material and social plausibility."
+   ],
+   "quote": "Injustice brings about the ruin of civilisation.",
+   "quoteNote": "Muqaddimah — by injustice he means chiefly expropriation and arbitrary taxation, which destroy the incentive to produce.",
+   "criticism": "The cyclical model is drawn almost entirely from the Maghreb and generalises poorly; it has little to say about societies that broke out of the cycle. Asabiyyah is also elastic enough to explain any outcome after the fact, which is a familiar problem with grand social theory.",
+   "modules": [
+    "soc-2",
+    "his-3",
+    "his-4"
+   ]
+  },
+  {
+   "id": "machiavelli",
+   "name": "Niccolo Machiavelli",
+   "dates": "1469–1527",
+   "era": "medieval",
+   "fields": [
+    "Politics",
+    "History"
+   ],
+   "oneLine": "Separated the question of how to hold power from the question of how to deserve it.",
+   "bio": "Machiavelli served the Florentine republic for fourteen years, was tortured and exiled when the Medici returned, and wrote The Prince from a farm outside the city as an unsuccessful job application. Its scandal was not that it recommended cruelty — medieval writers had discussed necessary severity — but that it evaluated actions purely by whether they worked, setting the question of the ruler's soul aside as a separate matter. A prince who is good in all circumstances among people who are not will be destroyed.\n\nThe Discourses on Livy, which he thought his serious work, is a republican text arguing that the healthiest state is one where classes openly contest power, that popular participation makes for better judgement than princely wisdom, and that liberty is maintained by institutionalised conflict rather than by harmony. The two books together are why calling someone Machiavellian is nearly always a misuse: the man who wrote the manual for princes also wrote the strongest early defence of republican self-government.",
+   "ideas": [
+    "Virtu and fortuna — the capacity to act decisively against the portion of events that is not under control.",
+    "The evaluation of political action by outcome rather than by conformity to virtue.",
+    "Institutionalised class conflict as the source of Roman liberty, not a defect in it.",
+    "The armed citizenry: a state that relies on mercenaries has outsourced its own survival."
+   ],
+   "quote": "It is much safer to be feared than loved, if one of the two must be lacking.",
+   "quoteNote": "The Prince, chapter 17 — the clause almost always dropped is that he adds one must nonetheless avoid being hated.",
+   "criticism": "Whether The Prince is sincere advice, republican satire, or a job application has never been settled, and the interpretation changes what the book means. His empirical method is also thin by modern standards: examples are selected to illustrate conclusions already reached.",
+   "modules": [
+    "pol-1",
+    "pol-5",
+    "his-6"
+   ]
+  },
+  {
+   "id": "galileo",
+   "name": "Galileo Galilei",
+   "dates": "1564–1642",
+   "era": "medieval",
+   "fields": [
+    "Science",
+    "Philosophy"
+   ],
+   "oneLine": "Made mathematics the language of physical law, and paid for the associated argument about authority.",
+   "bio": "Galileo's decisive contribution is methodological. Before him, mathematics described the heavens and qualitative reasoning described the earth. He collapsed the distinction by treating terrestrial motion as a mathematical subject: rolling balls down inclined planes, timing them, and extracting the law that distance travelled goes as the square of the time. Idealisation — reasoning about frictionless planes and perfect spheres that do not exist — was the essential and controversial move, and it is what modern physics does.\n\nHis telescopic observations from 1609 supplied the evidence that made the Copernican question urgent: mountains on a supposedly perfect moon, moons orbiting Jupiter, the phases of Venus. His trial in 1633 is regularly told as science against religion, which is too simple. The Church had accommodated Copernicanism as a calculating device; what could not be accommodated was Galileo's insistence that it was physically true and that scripture should be reinterpreted accordingly — a claim about who was entitled to settle such questions. His personal politics, and the decision to put the Pope's argument in the mouth of a character named Simplicio, did not help.",
+   "ideas": [
+    "The law of falling bodies: distance proportional to the square of elapsed time, independent of mass.",
+    "Idealisation — deriving laws from frictionless limiting cases that no experiment realises.",
+    "Galilean relativity: uniform motion is undetectable from within the moving system.",
+    "The book of nature is written in the language of mathematics."
+   ],
+   "quote": "I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use.",
+   "quoteNote": "Letter to the Grand Duchess Christina, 1615 — an argument about interpretive authority, not an argument against belief.",
+   "criticism": "He was wrong about comets, wrong to insist on circular planetary orbits after Kepler had shown they were elliptical, and his tidal theory — which he regarded as his strongest proof of the earth's motion — does not work. He also ignored Kepler's results while demanding others attend to his.",
+   "modules": [
+    "sci-2",
+    "phi-6",
+    "his-5"
+   ]
+  },
+  {
+   "id": "shakespeare",
+   "name": "William Shakespeare",
+   "dates": "1564–1616",
+   "era": "medieval",
+   "fields": [
+    "Arts & Creativity"
+   ],
+   "oneLine": "Made dramatic characters who appear to think on stage, and changed what fiction could do.",
+   "bio": "The specific technical achievement is worth separating from the reputation. Before Shakespeare, dramatic soliloquy largely announced intentions to the audience. In Hamlet, Macbeth and the late plays, a character speaks and arrives somewhere he had not intended to go — the speech performs the thinking rather than reporting it. Harold Bloom overstated this into a claim that Shakespeare invented human inwardness; the defensible version is that he found a way to represent a mind changing itself through language, and that subsequent fiction is built on it.\n\nThe second achievement is linguistic range. He wrote for a commercial theatre with a socially mixed audience and had to hold both the groundlings and the court, which produced a register that moves between obscenity and metaphysics within a scene. The count of words he coined is inflated by the Oxford English Dictionary's early reliance on him as a source, but the flexibility with which he treats grammar — verbing nouns, compressing clauses to the edge of sense — is real and is what makes the late plays difficult.",
+   "ideas": [
+    "Soliloquy as thinking-in-progress rather than announcement of intent.",
+    "Mixed register — comic and tragic, vulgar and sublime, within a single scene.",
+    "Blank verse loosened towards speech rhythm, with the metre audible but not mechanical.",
+    "Plot as inherited material: almost every story is borrowed, and the interest is entirely in the handling."
+   ],
+   "quote": "There is nothing either good or bad, but thinking makes it so.",
+   "quoteNote": "Hamlet II.ii — spoken by Hamlet to Rosencrantz, and characteristically not obviously endorsed by the play.",
+   "criticism": "The canonisation has costs: his centrality in Anglophone education crowds out other traditions, and the assumption that he speaks to all times can obscure how specifically Elizabethan his politics, his treatment of Jews and Moors, and his gender arrangements are.",
+   "modules": [
+    "art-2",
+    "art-8",
+    "art-1"
+   ]
+  },
+  {
+   "id": "hume",
+   "name": "David Hume",
+   "dates": "1711–1776",
+   "era": "enlightenment",
+   "fields": [
+    "Philosophy",
+    "Psychology"
+   ],
+   "oneLine": "Showed how little of what we claim to know can actually be justified, and stayed cheerful about it.",
+   "bio": "Hume's programme was to apply the experimental method to the mind and see what survived. Not much did. Causation, examined closely, turns out to be nothing we observe: we see one event followed by another, repeatedly, and the necessary connection between them is a habit of expectation we project onto the world. Induction cannot be justified without circularity, because any defence of reasoning from past to future assumes the very uniformity in question. The self, sought by introspection, is never found — only a bundle of perceptions in rapid succession.\n\nHis moral philosophy is equally deflationary and more constructive. You cannot derive an ought from an is; moral judgements originate in sentiment, specifically in sympathy, and reason serves them rather than governing them. He was refused academic posts for his religious scepticism and made his living as a historian and librarian. Kant said Hume woke him from his dogmatic slumber, which is the highest compliment one philosopher has paid another.",
+   "ideas": [
+    "The problem of induction — no non-circular justification for expecting the future to resemble the past.",
+    "Causation as constant conjunction plus habitual expectation, not observed necessity.",
+    "The is–ought gap: descriptive premises cannot yield a normative conclusion.",
+    "The bundle theory of the self — no persisting subject is found in experience."
+   ],
+   "quote": "Reason is, and ought only to be the slave of the passions.",
+   "quoteNote": "A Treatise of Human Nature — reason determines means, but the ends come from sentiment.",
+   "criticism": "His scepticism arguably proves too much: if his own arguments are accepted, the empirical psychology he wants to build is undermined by the same reasoning. His writings on race contain views that were contested even by contemporaries and are not separable from his account of sympathy.",
+   "modules": [
+    "phi-1",
+    "phi-2",
+    "phi-3"
+   ]
+  },
+  {
+   "id": "adam-smith",
+   "name": "Adam Smith",
+   "dates": "1723–1790",
+   "era": "enlightenment",
+   "fields": [
+    "Economics",
+    "Philosophy"
+   ],
+   "oneLine": "Explained how self-interested strangers can coordinate without anyone directing them.",
+   "bio": "The Wealth of Nations does two things. It explains productivity through the division of labour — the pin factory where ten specialised workers vastly outproduce ten generalists — and observes that specialisation is limited by the extent of the market, which makes trade and transport the constraints on prosperity. And it explains prices and allocation without a planner: individuals pursuing their own advantage are led, as if by an invisible hand, to outcomes none of them intended.\n\nReading him as an apostle of unregulated markets requires not reading him. He is scathing about businessmen, who seldom meet without conspiring against the public; he supports public education, infrastructure, and progressive taxation; he regards the division of labour as mentally deforming for those subjected to it. His other book, The Theory of Moral Sentiments, grounds morality in sympathy and the judgement of an impartial spectator we internalise, and he revised it until the year of his death. The two books are one project: a person is both self-interested and constitutively social, and neither fact cancels the other.",
+   "ideas": [
+    "The division of labour as the source of productivity growth, limited by market size.",
+    "The invisible hand — unintended social coordination from decentralised self-interest.",
+    "The impartial spectator — conscience as an internalised social viewpoint.",
+    "Markets require a legal and moral infrastructure they cannot themselves supply."
+   ],
+   "quote": "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.",
+   "quoteNote": "The Wealth of Nations — the point is about the mechanism of coordination, not a claim that benevolence is absent.",
+   "criticism": "His labour theory of value was superseded by marginalism, and he lacked any account of market failure, externalities or the concentration of market power — the gaps that most of modern economics exists to fill.",
+   "modules": [
+    "eco-1",
+    "eco-2",
+    "phi-4"
+   ]
+  },
+  {
+   "id": "kant",
+   "name": "Immanuel Kant",
+   "dates": "1724–1804",
+   "era": "enlightenment",
+   "fields": [
+    "Philosophy",
+    "Politics"
+   ],
+   "oneLine": "Argued that the mind's own structure shapes what can be experienced — and grounded morality in reason alone.",
+   "bio": "Kant's critical philosophy was an attempt to resolve the deadlock between rationalists, who thought reason could deliver substantive knowledge of reality, and empiricists like Hume, who had shown it could not. His answer inverts the question. We do not conform to objects; objects, as we experience them, conform to the structure of our cognition. Space, time and causality are not features we discover in a mind-independent world but the forms any possible experience must take. This secures necessary knowledge at the price of restricting it to appearances: the thing-in-itself remains inaccessible.\n\nHis ethics grounds moral obligation in rationality rather than consequence, sentiment or divine command. Act only on a principle you could will to be a universal law; treat humanity, in yourself and others, always as an end and never merely as a means. This second formulation is the philosophical backbone of modern human rights, informed consent and the prohibition on torture. His political writing, particularly Perpetual Peace, sketched an international federation of republics and is a direct ancestor of the United Nations.",
+   "ideas": [
+    "The Copernican turn — objects of experience conform to the mind's structure, not the reverse.",
+    "Synthetic a priori knowledge: substantive and necessary, secured by the conditions of experience.",
+    "The categorical imperative in its universal law and humanity-as-end formulations.",
+    "Perpetual peace through a federation of republics under international law."
+   ],
+   "quote": "Out of the crooked timber of humanity, no straight thing was ever made.",
+   "quoteNote": "Idea for a Universal History — a sharper limit on political perfectionism than his reputation suggests.",
+   "criticism": "The ethics is famously rigid — he held one may not lie even to a murderer seeking a victim — and gives no procedure for adjudicating conflicting duties. His anthropological writings also contain a racial hierarchy that scholars now argue is entangled with, not incidental to, his universalism.",
+   "modules": [
+    "phi-3",
+    "phi-2",
+    "pol-7"
+   ]
+  },
+  {
+   "id": "wollstonecraft",
+   "name": "Mary Wollstonecraft",
+   "dates": "1759–1797",
+   "era": "enlightenment",
+   "fields": [
+    "Politics",
+    "Sociology",
+    "Philosophy"
+   ],
+   "oneLine": "Turned Enlightenment arguments about rights on the people making them, and asked why women were excluded.",
+   "bio": "A Vindication of the Rights of Woman, published in 1792, takes the revolutionary generation's own premises seriously. If rights derive from rational capacity, and if virtue is achieved through the exercise of reason, then either women possess reason — in which case their exclusion is indefensible — or they do not, in which case the entire framework is arbitrary. Her opponents wanted to have it both ways, and she would not let them.\n\nHer most original move is the analysis of how the appearance of female inferiority is manufactured. Women are educated into triviality, rewarded for ornamental helplessness, denied any occupation requiring judgement, and then cited as evidence that they lack judgement. This is a structural argument about socialisation two centuries before the term existed, and it is why she belongs in the sociology track as much as the political one. She was also a working writer who supported herself by her pen, travelled alone through revolutionary France, and wrote an unsparing account of Scandinavia while carrying a child and a broken engagement.",
+   "ideas": [
+    "Rights follow from rational capacity, so any consistent rights theory must include women.",
+    "Apparent inferiority as the product of education and incentive, not nature.",
+    "Marriage reconceived as a friendship between equals rather than a relation of dependence.",
+    "National education, coeducational and publicly funded, as the mechanism of reform."
+   ],
+   "quote": "I do not wish them to have power over men; but over themselves.",
+   "quoteNote": "A Vindication of the Rights of Woman — the demand is autonomy, framed to disarm the charge of usurpation.",
+   "criticism": "Her argument is addressed almost entirely to middle-class women and is not much interested in the labouring poor. She also accepts a good deal of the period's suspicion of feeling and sexuality, which later feminists have found constricting.",
+   "modules": [
+    "soc-5",
+    "pol-4",
+    "phi-5"
+   ]
+  },
+  {
+   "id": "darwin",
+   "name": "Charles Darwin",
+   "dates": "1809–1882",
+   "era": "long19",
+   "fields": [
+    "Science"
+   ],
+   "oneLine": "Found the mechanism that explains the appearance of design without a designer.",
+   "bio": "Evolution was not Darwin's discovery; the idea that species change was in circulation, including in his grandfather's writing. What he supplied was the mechanism, and it is almost embarrassingly simple: individuals vary, variation is heritable, more offspring are produced than survive, and therefore the variants that reproduce more successfully become more common. Given time, this yields adaptation without foresight, purpose or design.\n\nHe assembled the evidence for twenty years before publishing, partly because he understood exactly what he was proposing and partly because he was a careful naturalist who wanted the barnacle taxonomy finished first. The Origin of Species is unusual among revolutionary books in devoting a long chapter to the strongest objections against itself. He was wrong about heredity — he had no theory of the gene, and blending inheritance would have destroyed variation faster than selection could use it — a gap not closed until Mendel's work was rediscovered and fused with selection in the 1930s.",
+   "ideas": [
+    "Natural selection — differential reproduction of heritable variants, requiring no foresight.",
+    "Common descent: all living things trace to shared ancestors, so the tree is one tree.",
+    "Sexual selection, which explains traits that reduce survival but increase mating success.",
+    "Deep time as the resource that makes gradual accumulation sufficient."
+   ],
+   "quote": "There is grandeur in this view of life.",
+   "quoteNote": "The closing paragraph of the Origin — his answer to the charge that the theory diminishes nature.",
+   "criticism": "Without genetics his mechanism was incomplete, and his account of heredity was simply wrong. The Descent of Man also applies the framework to human races and sexes in ways that reflect Victorian assumptions his own logic did not require.",
+   "modules": [
+    "sci-4",
+    "psy-4",
+    "rel-6"
+   ]
+  },
+  {
+   "id": "marx",
+   "name": "Karl Marx",
+   "dates": "1818–1883",
+   "era": "long19",
+   "fields": [
+    "Economics",
+    "Sociology",
+    "Politics"
+   ],
+   "oneLine": "Made the organisation of production the thing that explains everything else about a society.",
+   "bio": "Marx's analytical claim, separable from his politics, is that a society's mode of production — who owns the means of making things, and on what terms others get access to them — shapes its law, politics, religion and prevailing ideas, rather than the other way round. From this follow the concepts that even his opponents now use: <em>class</em> defined by relation to production rather than income; <em>alienation</em>, the estrangement of workers from the product, the process and each other; <em>ideology</em>, the tendency of the beliefs a society finds obvious to serve those who benefit from the arrangement.\n\nHis economics rests on a labour theory of value that mainstream economics abandoned after the marginal revolution, and the specific predictions — a falling rate of profit, immiseration, revolution in the most industrialised states — did not come out. What survived is the sociology of capitalism: its dynamism, its tendency to concentrate, its capacity to dissolve traditional forms of life, and the observation that a system can be simultaneously the most productive in history and systematically unjust to the people producing.",
+   "ideas": [
+    "Historical materialism — material production conditions the political and ideological superstructure.",
+    "Class as a relation to the means of production, not a level of income.",
+    "Alienation: the worker separated from the product, the act of production, and other workers.",
+    "Ideology as the naturalisation of arrangements that serve particular interests."
+   ],
+   "quote": "The philosophers have only interpreted the world, in various ways; the point is to change it.",
+   "quoteNote": "Theses on Feuerbach, XI — carved on his gravestone in Highgate.",
+   "criticism": "The labour theory of value does not survive scrutiny, and the central historical predictions failed. Twentieth-century states built in his name produced famine and repression on an enormous scale, and whether that indicts the theory or its implementers is the argument that will not end.",
+   "modules": [
+    "soc-2",
+    "eco-8",
+    "pol-4"
+   ]
+  },
+  {
+   "id": "lovelace",
+   "name": "Ada Lovelace",
+   "dates": "1815–1852",
+   "era": "long19",
+   "fields": [
+    "Technology",
+    "Science"
+   ],
+   "oneLine": "Saw that a calculating machine could manipulate any symbol, not just numbers — a century before one existed.",
+   "bio": "Lovelace translated an Italian account of Charles Babbage's proposed Analytical Engine and appended notes running to more than twice the length of the original. Note G contains a step-by-step sequence for computing Bernoulli numbers, structured with what would now be recognised as a loop — generally cited as the first published algorithm intended for a machine.\n\nHer more far-reaching contribution is conceptual and is in Note A. Babbage conceived his engine as a calculator. Lovelace saw that because it operated on symbols according to rules, the symbols need not represent quantities at all: if the relations between pitches could be encoded, the engine could compose music. That is general-purpose computation, glimpsed a century before Turing formalised it. She also stated, in the same notes, the objection that the machine can originate nothing and only does what we order it to perform — a claim Turing addressed by name in 1950 and which is still the pivot of arguments about machine creativity.",
+   "ideas": [
+    "Machines can operate on any symbol system, not only on numbers.",
+    "The first published algorithm written for a machine to execute.",
+    "The distinction between the engine's hardware and the operations it can be instructed to perform.",
+    "Lovelace's objection — a machine originates nothing; it does what it is ordered to do."
+   ],
+   "quote": "The Analytical Engine has no pretensions whatever to originate anything.",
+   "quoteNote": "Note G, 1843 — quoted and answered by Turing in Computing Machinery and Intelligence, 1950.",
+   "criticism": "How much of the notes is hers and how much Babbage's has been disputed for decades; the correspondence supports substantial originality on her part, but the machine was never built, so none of it was tested.",
+   "modules": [
+    "tec-5",
+    "sci-7",
+    "art-7"
+   ]
+  },
+  {
+   "id": "george-eliot",
+   "name": "George Eliot (Mary Ann Evans)",
+   "dates": "1819–1880",
+   "era": "long19",
+   "fields": [
+    "Arts & Creativity",
+    "Philosophy"
+   ],
+   "oneLine": "Made the novel an instrument for moral analysis rather than moral instruction.",
+   "bio": "Evans translated Strauss's Life of Jesus and Feuerbach's Essence of Christianity before writing fiction, and the philosophy is not incidental to the novels. Having lost her faith, she wanted to know whether the moral seriousness it had carried could survive without it, and her answer is worked out through characters rather than argument: sympathy, the imaginative extension into another person's interior, is the mechanism that makes ethics possible.\n\nMiddlemarch is the technical achievement. It holds four or five plots in simultaneous view, moves between consciousnesses without letting any one of them become authoritative, and uses free indirect style to let the narration take on a character's self-deception while quietly showing it as such. The famous passage about the roar on the other side of silence states the problem she is solving: full sympathy with everyone would be unbearable, so we live wadded in stupidity, and the novel's job is to open selected windows. She published as George Eliot because women novelists of the period were assumed to write romances, and because she was living openly with a married man.",
+   "ideas": [
+    "Sympathy as the foundation of ethics, and fiction as its training ground.",
+    "Free indirect style — narration that borrows a character's idiom without endorsing it.",
+    "Provincial life as a proper subject for serious analysis, not comic relief.",
+    "Consequences as the moral engine: small evasions compounding into constrained lives."
+   ],
+   "quote": "If we had a keen vision and feeling of all ordinary human life, it would be like hearing the grass grow and the squirrel's heart beat.",
+   "quoteNote": "Middlemarch, chapter 20 — the sentence continues that we would die of that roar which lies on the other side of silence.",
+   "criticism": "The narrator's moral authority can be heavy-handed, and readers from Leavis onward have found the endings — particularly Dorothea's — a retreat from the radicalism of the analysis. Her sympathy also has limits her admirers tend to skip past, notably in her handling of Jewish characters in Daniel Deronda.",
+   "modules": [
+    "art-2",
+    "phi-3",
+    "his-8"
+   ]
+  },
+  {
+   "id": "nightingale",
+   "name": "Florence Nightingale",
+   "dates": "1820–1910",
+   "era": "long19",
+   "fields": [
+    "Health & Medicine",
+    "Science"
+   ],
+   "oneLine": "Used statistics as an instrument of political persuasion and rebuilt hospital practice around the results.",
+   "bio": "The lamp is the least interesting thing about her. Nightingale arrived at the Scutari barracks hospital in 1854 and found a mortality rate that she and her collaborators eventually traced overwhelmingly to sanitation — contaminated water, defective drainage, overcrowding — rather than to battlefield wounds. What she did with that finding is the contribution: she collected mortality data systematically, and then designed the polar area diagram, a form of chart built specifically so that a Royal Commission and a hostile War Office could not look away from the seasonal pattern.\n\nShe was elected the first woman fellow of the Royal Statistical Society in 1858. Her subsequent work — Notes on Nursing, Notes on Hospitals, the training school at St Thomas's, decades of pressure on Indian sanitation policy — established nursing as a trained profession and hospital design as a public health question. She spent most of those decades bedridden with what was probably chronic brucellosis contracted in Crimea, conducting the campaign from her rooms.",
+   "ideas": [
+    "Systematic mortality statistics as the basis for hospital and military reform.",
+    "The polar area diagram — designing a visualisation for the argument it has to win.",
+    "Sanitation and ventilation as the dominant controllable causes of hospital death.",
+    "Nursing as a trained profession with its own standards, not domestic service."
+   ],
+   "quote": "The very first requirement in a hospital is that it should do the sick no harm.",
+   "quoteNote": "Notes on Hospitals, 1863 — a sentence that took another century to be taken seriously as policy.",
+   "criticism": "She rejected germ theory for most of her career, holding to a miasmatic account of disease; her sanitary reforms worked in spite of the wrong mechanism. Her own Scutari statistics have also been reanalysed to suggest mortality there was higher than at comparable hospitals for longer than her account implies.",
+   "modules": [
+    "hea-1",
+    "sci-1",
+    "hea-7"
+   ]
+  },
+  {
+   "id": "durkheim",
+   "name": "Emile Durkheim",
+   "dates": "1858–1917",
+   "era": "long19",
+   "fields": [
+    "Sociology"
+   ],
+   "oneLine": "Established that social facts are real things with their own causes, not the sum of individual choices.",
+   "bio": "Durkheim's founding move was to insist that sociology has a subject matter of its own. Social facts — ways of acting and thinking that are external to any individual and exercise constraint over them — cannot be explained by psychology, because they persist as individuals come and go. He proved the point with the least promising case he could find. Suicide looks like the most private act imaginable, yet its rate is stable within societies and varies systematically between them, tracking degrees of social integration and regulation rather than individual misery.\n\nHis other central concept is <em>anomie</em>: the normlessness that arises when a society's regulating framework weakens, particularly during rapid change, leaving desires unbounded and unsatisfiable. He also argued that religion's real object is society worshipping itself — the sacred marks the collectively binding — which is the most influential functionalist account of religion ever produced, and one that believers reasonably regard as an explanation of the wrong thing.",
+   "ideas": [
+    "Social facts as external, constraining and irreducible to individual psychology.",
+    "Mechanical and organic solidarity — cohesion through similarity versus through interdependence.",
+    "Anomie: normlessness under rapid social change, and its measurable consequences.",
+    "Collective effervescence and the sacred as society's representation of itself."
+   ],
+   "quote": "The first and most fundamental rule is: consider social facts as things.",
+   "quoteNote": "The Rules of Sociological Method, 1895 — a methodological declaration of independence.",
+   "criticism": "The suicide data he used was of poor and unevenly collected quality, and later analysts have shown the Protestant–Catholic pattern is partly an artefact of differential reporting. Functionalism more broadly struggles to explain conflict and change, since it tends to treat whatever exists as serving a purpose.",
+   "modules": [
+    "soc-1",
+    "soc-2",
+    "rel-1"
+   ]
+  },
+  {
+   "id": "weber",
+   "name": "Max Weber",
+   "dates": "1864–1920",
+   "era": "long19",
+   "fields": [
+    "Sociology",
+    "Politics",
+    "Economics"
+   ],
+   "oneLine": "Insisted that beliefs cause social outcomes, and gave us the vocabulary for talking about bureaucracy and power.",
+   "bio": "Weber's work is in large part an argument with Marx conducted at the highest level. Against the claim that material conditions determine ideas, he argued in The Protestant Ethic that a particular religious sensibility — the Calvinist need for worldly evidence of election, producing methodical labour, reinvestment and suspicion of enjoyment — supplied the disposition that early capitalism required. The thesis is not that Protestantism caused capitalism, a version he explicitly rejected, but that ideas can be independent causal factors.\n\nHis larger theme is <em>rationalisation</em>: the progressive replacement of tradition and charisma by calculation, rules and technical efficiency, which produces enormous capability and the iron cage — a world stripped of enchantment, in which means are perfected and ends go unexamined. He also gave us the definition of the state as the monopoly on legitimate violence, the threefold typology of authority, and the analytical separation of class, status and party as distinct dimensions of stratification. Almost every module in the Politics and Sociology tracks uses his terms.",
+   "ideas": [
+    "Ideas as independent causes — the Protestant ethic thesis, in its careful form.",
+    "Rationalisation and disenchantment, and the iron cage they produce.",
+    "The state as the monopoly on the legitimate use of physical force in a territory.",
+    "Traditional, charismatic and rational-legal authority as ideal types."
+   ],
+   "quote": "The fate of our times is characterised by rationalisation and intellectualisation, above all, by the disenchantment of the world.",
+   "quoteNote": "Science as a Vocation, 1917 — delivered to students in the middle of a war he thought proved the point.",
+   "criticism": "The Protestant ethic thesis has been attacked on the timing — Catholic Italian and Flemish commerce preceded it — and on the correlations, which weaken under better data. His account of non-Western religions relied on sources now regarded as thin and shaped by the conclusion he was reaching for.",
+   "modules": [
+    "soc-2",
+    "pol-1",
+    "pol-5"
+   ]
+  },
+  {
+   "id": "curie",
+   "name": "Marie Curie",
+   "dates": "1867–1934",
+   "era": "long19",
+   "fields": [
+    "Science",
+    "Health & Medicine"
+   ],
+   "oneLine": "Discovered that radioactivity is a property of atoms themselves, and opened the door to nuclear physics.",
+   "bio": "Curie's decisive insight came early and is often skipped over. Measuring uranium compounds with her husband's electrometer, she found that the intensity of the radiation depended only on the quantity of uranium present, not on its chemical form or physical state. That meant the radiation was not a chemical reaction but a property of the atom itself — which contradicted the prevailing assumption that atoms were indivisible and stable. She coined the term radioactivity for it.\n\nWorking through tonnes of pitchblende in a leaking shed, she and Pierre isolated polonium and radium, work for which she shared the 1903 Nobel in Physics. After Pierre's death she took his chair at the Sorbonne, the first woman to hold one, and won a second Nobel in 1911, in Chemistry, for isolating pure radium — still the only person to win in two different sciences. During the First World War she developed mobile radiography units and drove them to the front herself. She died of aplastic anaemia almost certainly caused by her exposure; her notebooks remain too radioactive to handle without protection.",
+   "ideas": [
+    "Radioactivity as an atomic property, implying that atoms are not immutable.",
+    "Radiation intensity as a quantitative measure, usable to detect unknown elements.",
+    "Isolation of polonium and radium from pitchblende by fractional crystallisation.",
+    "Mobile radiography for battlefield surgery — physics converted into clinical practice."
+   ],
+   "quote": "Nothing in life is to be feared, it is only to be understood.",
+   "quoteNote": "Widely reported from her lectures; the continuation is that we should understand more so that we may fear less.",
+   "criticism": "She resisted patenting the radium isolation process on principle, which is admirable and left her chronically underfunded. She and her circle also promoted radium's therapeutic use well beyond what the evidence supported, contributing to a commercial vogue that killed people.",
+   "modules": [
+    "sci-8",
+    "sci-2",
+    "hea-8"
+   ]
+  },
+  {
+   "id": "einstein",
+   "name": "Albert Einstein",
+   "dates": "1879–1955",
+   "era": "modern",
+   "fields": [
+    "Science"
+   ],
+   "oneLine": "Rebuilt space, time and gravity from two postulates, and spent his later life resisting where it led.",
+   "bio": "In 1905, working as a patent examiner, Einstein published four papers, any one of which would have made a career: the photoelectric effect, which established that light is quantised and won him the Nobel; Brownian motion, which settled that atoms are real; special relativity; and the mass–energy equivalence. Special relativity begins from two postulates — the laws of physics are the same for all inertial observers, and light travels at the same speed for all of them — and derives consequences that look absurd and are correct: moving clocks run slow, simultaneity is observer-dependent, mass and energy are one quantity.\n\nGeneral relativity, in 1915, is the greater achievement. Gravity is not a force but the curvature of spacetime by mass and energy, with objects following the straightest available paths through it. It predicted light bending around the sun, confirmed in 1919; gravitational time dilation, which GPS must correct for daily; black holes; and gravitational waves, detected exactly a century later. He then spent thirty years unsuccessfully seeking a unified field theory and rejecting quantum mechanics' irreducible randomness — the field moved on without him.",
+   "ideas": [
+    "Special relativity: the constancy of light speed forces relative simultaneity and time dilation.",
+    "General relativity: gravity as spacetime curvature rather than force.",
+    "Mass–energy equivalence, E = mc squared.",
+    "The photoelectric effect — light as quantised packets, a founding result of quantum theory."
+   ],
+   "quote": "The most incomprehensible thing about the world is that it is comprehensible.",
+   "quoteNote": "Physics and Reality, 1936 — a statement of the puzzle that mathematics should describe nature at all.",
+   "criticism": "His rejection of quantum indeterminacy was, on the current evidence, simply wrong, and the EPR paper he intended as a refutation instead identified entanglement, which experiment has confirmed. The last three decades of his work produced nothing that survived.",
+   "modules": [
+    "sci-2",
+    "sci-3",
+    "phi-6"
+   ]
+  },
+  {
+   "id": "noether",
+   "name": "Emmy Noether",
+   "dates": "1882–1935",
+   "era": "modern",
+   "fields": [
+    "Science"
+   ],
+   "oneLine": "Proved that every conservation law in physics follows from a symmetry — arguably the deepest structural result in the subject.",
+   "bio": "Noether's theorem, published in 1918, states that every continuous symmetry of a physical system corresponds to a conserved quantity. Because the laws of physics do not change if you run an experiment tomorrow, energy is conserved. Because they do not change if you move the apparatus across the room, momentum is conserved. Because they do not change if you rotate it, angular momentum is conserved. Conservation laws had been empirical regularities; after Noether they are consequences of symmetry, and the principle now organises the whole of theoretical physics including the Standard Model.\n\nShe was also, independently, one of the founders of modern abstract algebra — the axiomatic, structural approach to rings, fields and modules that reshaped twentieth-century mathematics. She lectured at Gottingen for years under Hilbert's name because the faculty would not appoint a woman; Hilbert reportedly asked the senate what her sex had to do with it, since the university was not a bathhouse. Dismissed by the Nazis in 1933 for being Jewish, she moved to Bryn Mawr and died two years later after surgery.",
+   "ideas": [
+    "Noether's theorem — continuous symmetries generate conserved quantities.",
+    "The axiomatic and structural approach that founded modern abstract algebra.",
+    "Noetherian rings, and the ascending chain condition that bears her name.",
+    "Abstraction as a working method: solve the general case and the particulars follow."
+   ],
+   "quote": "My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.",
+   "quoteNote": "Letter to Helmut Hasse, 1931 — an accurate description of why she is less famous than her influence warrants.",
+   "criticism": "There is little to object to in the mathematics. The fair criticism is of the discipline: her theorem circulated for decades before physicists fully absorbed it, in part because she published in a mathematics venue and held no proper post.",
+   "modules": [
+    "sci-2",
+    "sci-1"
+   ]
+  },
+  {
+   "id": "keynes",
+   "name": "John Maynard Keynes",
+   "dates": "1883–1946",
+   "era": "modern",
+   "fields": [
+    "Economics",
+    "Politics"
+   ],
+   "oneLine": "Showed that an economy can settle at high unemployment and stay there, which changed what governments thought they were for.",
+   "bio": "Classical economics held that markets clear: if there is unemployment, wages fall until labour is bought. Keynes, writing in the middle of a depression that would not end, argued that this is false. Output is determined by aggregate demand, demand can be persistently deficient, and the adjustments supposed to fix it — falling wages and prices — can make matters worse by increasing the real burden of debt and by confirming expectations of further falls. An economy has no reliable automatic mechanism returning it to full employment in a useful timeframe.\n\nThe policy conclusion is that government should sustain demand when the private sector will not. The deeper contribution is his treatment of expectations under genuine uncertainty: investment depends on judgements about a future that cannot be assigned probabilities, so it rests on convention, confidence and what he called animal spirits — which is why economies are unstable in ways that models of rational optimisation cannot capture. He also designed much of the Bretton Woods system, and had earlier predicted, correctly and unpopularly, that the Versailles reparations would produce catastrophe.",
+   "ideas": [
+    "Aggregate demand determines output and employment in the short run.",
+    "The paradox of thrift — individually prudent saving, collectively contractionary.",
+    "Fundamental uncertainty, distinct from measurable risk, and its effect on investment.",
+    "The multiplier: a unit of spending raises income by more than a unit."
+   ],
+   "quote": "The difficulty lies, not in the new ideas, but in escaping from the old ones.",
+   "quoteNote": "Preface to The General Theory, 1936 — addressed to fellow economists, whom he expected to resist.",
+   "criticism": "The framework had no adequate account of inflation, which is why the stagflation of the 1970s discredited crude Keynesianism and let monetarism in. Critics also argue that in practice deficits ran in booms as well as slumps, because the politics of stimulus are asymmetric.",
+   "modules": [
+    "eco-3",
+    "eco-5",
+    "eco-4"
+   ]
+  },
+  {
+   "id": "wittgenstein",
+   "name": "Ludwig Wittgenstein",
+   "dates": "1889–1951",
+   "era": "modern",
+   "fields": [
+    "Philosophy"
+   ],
+   "oneLine": "Produced two philosophies, the second of which refutes the first, and both of which changed the subject.",
+   "bio": "The Tractatus, written partly in the trenches, argues that language pictures facts, that the limits of language are the limits of the world, and that most philosophical problems are pseudo-problems generated by misunderstanding logical form. Having concluded he had solved philosophy, he gave away his fortune and became a village schoolteacher.\n\nHe returned to Cambridge and dismantled it. The later work, published posthumously as Philosophical Investigations, argues that meaning is not a relation between word and object but a matter of <em>use</em> within a form of life. Ask what all games have in common and you find no essence, only overlapping family resemblances. The private language argument holds that a language whose terms referred only to inner sensations could not have rules, because there would be no distinction between following one and merely believing you had. Philosophy on this account is not a body of theory but a therapy — untying knots that language has tied.",
+   "ideas": [
+    "The picture theory of meaning, and its later abandonment.",
+    "Meaning as use within a language game and a form of life.",
+    "Family resemblance — concepts held together by overlapping similarities, not shared essence.",
+    "The private language argument against purely inner, unshareable meaning."
+   ],
+   "quote": "Whereof one cannot speak, thereof one must be silent.",
+   "quoteNote": "Tractatus, proposition 7 — the closing line, and the boundary the later work reopened.",
+   "criticism": "The later work is aphoristic to the point of unfalsifiability, and rival readings of what he meant have sustained an industry. Critics also note that if philosophy is only therapy for confusion, it is unclear why his own arguments are not themselves theory.",
+   "modules": [
+    "phi-8",
+    "phi-2",
+    "phi-7"
+   ]
+  },
+  {
+   "id": "ambedkar",
+   "name": "B. R. Ambedkar",
+   "dates": "1891–1956",
+   "era": "modern",
+   "fields": [
+    "Politics",
+    "Sociology",
+    "Religion & Spirituality"
+   ],
+   "oneLine": "Drafted India's constitution while arguing that the social order it governed had to be dismantled, not reformed.",
+   "bio": "Born into an untouchable Mahar family, Ambedkar took doctorates at Columbia and the LSE and returned to a country where he could not drink from public wells. His analysis of caste is a piece of first-rate social theory: it is not merely a division of labour but a division of labourers, sustained by endogamy, and it cannot be abolished by goodwill because it is a graded hierarchy in which almost every group has someone below it to defend the system against.\n\nHe argued with Gandhi over separate electorates for depressed classes and over whether caste could be reformed from within Hinduism, and lost the first fight and left the second. As law minister he chaired the drafting committee of the Indian constitution, which abolished untouchability and instituted reservations. He also drafted the Hindu Code Bill on women's property and divorce rights, and resigned when it was blocked. Months before his death he converted to Buddhism with several hundred thousand followers — an exit from the system rather than a reform of it.",
+   "ideas": [
+    "Caste as a division of labourers, not of labour, held in place by endogamy.",
+    "Graded inequality — hierarchy is stable because almost everyone has an inferior to guard.",
+    "Constitutional guarantees and reservations as instruments against social, not just legal, exclusion.",
+    "Navayana Buddhism as a rationalist religious alternative to caste Hinduism."
+   ],
+   "quote": "Educate, agitate, organise.",
+   "quoteNote": "His standing instruction to the movement, in that order.",
+   "criticism": "His confidence in constitutional and legal remedy has been questioned by later Dalit thinkers, who point to how thoroughly formal equality has coexisted with continued exclusion. His readings of Hindu texts are also polemical rather than scholarly, as he largely acknowledged.",
+   "modules": [
+    "soc-4",
+    "pol-2",
+    "rel-3"
+   ]
+  },
+  {
+   "id": "arendt",
+   "name": "Hannah Arendt",
+   "dates": "1906–1975",
+   "era": "modern",
+   "fields": [
+    "Politics",
+    "Philosophy"
+   ],
+   "oneLine": "Explained totalitarianism as a genuinely new form of rule, and located its enabling condition in loneliness and thoughtlessness.",
+   "bio": "The Origins of Totalitarianism argues that Nazi and Stalinist rule were not extreme tyrannies but a new kind of regime, requiring atomised masses stripped of stable social ties, a fictional ideological world more coherent than reality, and terror applied to the innocent rather than the opposed. The precondition is loneliness — not solitude, but the condition of a person with no reliable common world, for whom an ideology's iron consistency becomes a substitute.\n\nCovering Eichmann's trial in 1961, she found not a monster but a careerist who spoke in clichés and had, she argued, given up thinking — the banality of evil. The phrase was widely misread as excusing him, which the book does not do; her claim is about the ordinariness of the mechanism, not the lightness of the crime. Her positive political theory, in The Human Condition, distinguishes labour, work and action, and locates freedom in action — appearing and speaking among equals in public, which she thought both moderns and the philosophical tradition had abandoned for private consumption.",
+   "ideas": [
+    "Totalitarianism as a novel regime type, requiring atomised masses and terror against the innocent.",
+    "The banality of evil — great crimes enabled by thoughtlessness rather than monstrous intent.",
+    "Labour, work and action as distinct human activities, with freedom residing in action.",
+    "The right to have rights: statelessness as exclusion from the political order that makes rights real."
+   ],
+   "quote": "The trouble with Eichmann was precisely that so many were like him, and that the many were neither perverted nor sadistic.",
+   "quoteNote": "Eichmann in Jerusalem, 1963 — the sentence that generated a decade of controversy.",
+   "criticism": "Later archival work, particularly Bettina Stangneth's, shows Eichmann was a far more committed and self-aware ideologue than his courtroom performance suggested, which damages her central case study. Her remarks on Jewish council complicity, and her essay on Little Rock, remain contested on their merits.",
+   "modules": [
+    "pol-6",
+    "pol-1",
+    "his-7"
+   ]
+  },
+  {
+   "id": "beauvoir",
+   "name": "Simone de Beauvoir",
+   "dates": "1908–1986",
+   "era": "modern",
+   "fields": [
+    "Philosophy",
+    "Sociology"
+   ],
+   "oneLine": "Applied existentialism to the situation of women and produced the founding analysis of gender as a construction.",
+   "bio": "The Second Sex begins from an existentialist premise — existence precedes essence, there is no fixed human nature — and asks why, on that view, half of humanity has been defined by a nature. Her answer is that woman has been constituted as the Other: man is the neutral, the default, the self; woman is what he is not, defined always in relation to him. This is not a complaint about attitudes but a structural claim about how the categories themselves are built.\n\nThe line about becoming a woman is the most quoted sentence in feminist theory and the hinge of the argument: femininity is a situation produced through upbringing, expectation and constrained possibility, not a biological given. She traces it through biology, psychoanalysis, historical materialism, myth and lived experience, and is critical of each. She was also a serious novelist and memoirist, and her posthumously published relationship with Sartre — intellectual partnership, professed transparency, and considerable damage to younger women in their circle — has complicated her standing in ways her work has to absorb.",
+   "ideas": [
+    "Woman as Other — defined relationally against man as the unmarked default.",
+    "One is not born but becomes a woman: gender as situation rather than essence.",
+    "Immanence and transcendence — the confinement of women to maintenance rather than projects.",
+    "Ethics of ambiguity: freedom is real but always situated, and depends on others' freedom."
+   ],
+   "quote": "One is not born, but rather becomes, a woman.",
+   "quoteNote": "The Second Sex, 1949 — the opening of Book II, and the origin of the sex–gender distinction.",
+   "criticism": "The book universalises from a bourgeois European vantage and has been criticised by Black and postcolonial feminists for treating that as the general case. Her framing of motherhood and of the female body as obstacles to transcendence has also been attacked as accepting the masculine terms it set out to question.",
+   "modules": [
+    "soc-5",
+    "phi-5",
+    "phi-4"
+   ]
+  },
+  {
+   "id": "turing",
+   "name": "Alan Turing",
+   "dates": "1912–1954",
+   "era": "modern",
+   "fields": [
+    "Technology",
+    "Science",
+    "Philosophy"
+   ],
+   "oneLine": "Defined what computation is, proved what it can never do, and asked whether machines could think.",
+   "bio": "Turing's 1936 paper answered a question in mathematical logic by inventing an abstract machine: a head reading and writing symbols on an infinite tape according to a finite table of rules. That definition is what computation means. He then proved the halting problem undecidable — no general procedure can determine whether an arbitrary program will terminate — establishing a hard limit that no engineering advance can cross. The same paper describes a universal machine that can simulate any other, which is the stored-program computer in principle.\n\nAt Bletchley Park he designed the bombe and the statistical methods that broke Enigma traffic, work credited with materially shortening the war. In 1950 he proposed the imitation game: rather than ask whether machines can think, a question he thought too ill-defined to settle, ask whether a machine's responses can be distinguished from a person's — and he anticipated and answered nine objections that are still the objections people make. In 1952 he was prosecuted for homosexual acts and accepted chemical castration in place of prison. He died two years later of cyanide poisoning.",
+   "ideas": [
+    "The Turing machine as the definition of effective computation.",
+    "The halting problem — a proof of what computation cannot do, not a challenge to overcome.",
+    "The universal machine: one device that can simulate any other, given the right program.",
+    "The imitation game as an operational reframing of the question about machine thought."
+   ],
+   "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+   "quoteNote": "The closing line of Computing Machinery and Intelligence, 1950.",
+   "criticism": "The imitation game measures conversational indistinguishability, which is not understanding — as Searle's Chinese Room argues, and as current language models make uncomfortably concrete. His prediction of timelines was also badly off in both directions.",
+   "modules": [
+    "sci-7",
+    "tec-5",
+    "phi-7"
+   ]
+  },
+  {
+   "id": "franklin",
+   "name": "Rosalind Franklin",
+   "dates": "1920–1958",
+   "era": "modern",
+   "fields": [
+    "Science",
+    "Health & Medicine"
+   ],
+   "oneLine": "Produced the X-ray data that made the structure of DNA determinable, and the virus work that would likely have won her a prize.",
+   "bio": "Franklin was an expert in X-ray crystallography, a technique demanding both experimental precision and heavy mathematical analysis. At King's College London she obtained Photograph 51, an image of the B form of DNA whose cross pattern indicates a helix, and from her own analysis had established the phosphate backbone on the outside, the helical form, and the unit cell dimensions. Watson was shown the photograph by Wilkins without her knowledge, and her unpublished report reached Crick through the Medical Research Council; the 1953 Nature paper acknowledged her data only obliquely.\n\nShe left King's for Birkbeck and did outstanding work on the structure of tobacco mosaic virus and poliovirus, establishing that TMV's RNA sits embedded in the protein rather than at the core. She died of ovarian cancer at 37, four years before the Nobel went to Watson, Crick and Wilkins; the prize is not awarded posthumously. The framing of her as a passive victim has itself been criticised by historians — she was a formidable scientist who was building towards the structure by her own route, and the injustice is better described as appropriation than as exclusion.",
+   "ideas": [
+    "X-ray diffraction analysis of the B form of DNA, establishing the helix and external backbone.",
+    "Photograph 51 and the unit cell measurements that constrained any viable model.",
+    "The structure of tobacco mosaic virus, with RNA embedded in the protein coat.",
+    "Early structural work on poliovirus, continued by her group after her death."
+   ],
+   "quote": "Science and everyday life cannot and should not be separated.",
+   "quoteNote": "From a letter to her father, 1940, written when she was nineteen and arguing with him about faith and science.",
+   "criticism": "The counterfactual is genuinely uncertain: she was working towards the structure by a more cautious inductive route and might have been beaten to it anyway. Reducing her to the DNA episode also obscures the virus work, which she herself regarded as her best.",
+   "modules": [
+    "sci-4",
+    "sci-1",
+    "hea-2"
+   ]
+  },
+  {
+   "id": "foucault",
+   "name": "Michel Foucault",
+   "dates": "1926–1984",
+   "era": "modern",
+   "fields": [
+    "Sociology",
+    "Philosophy",
+    "History"
+   ],
+   "oneLine": "Traced how modern power works by producing categories of person rather than by forbidding acts.",
+   "bio": "Foucault's histories of madness, medicine, punishment and sexuality share a method and a thesis. The method is genealogy: take a category that looks natural — the mentally ill, the delinquent, the homosexual — and show how and when it was constructed, by whom, and to what effect. The thesis is that modern power is not principally repressive. It is <em>productive</em>: it generates knowledge, categories and identities, and it works by making people into the kinds of subject that can be counted, treated and governed.\n\nDiscipline and Punish contrasts the public execution with the timetable. Punishment moved from spectacular violence on the body to continuous observation of the soul, and Bentham's panopticon — a prison where inmates cannot tell when they are watched, and so watch themselves — becomes his emblem for how modern institutions work. The related concepts of biopower, the administration of populations through health and demography, and power/knowledge, the claim that the two are mutually constituting, are now embedded in sociology, history and critical theory whether or not their users attribute them.",
+   "ideas": [
+    "Genealogy — historicising categories that present themselves as natural.",
+    "Power as productive rather than merely prohibitive: it makes subjects, not just rules.",
+    "Discipline and the panoptic model: visibility internalised as self-regulation.",
+    "Biopower — the government of populations through health, birth rates and normality."
+   ],
+   "quote": "Visibility is a trap.",
+   "quoteNote": "Discipline and Punish, 1975 — on the panopticon, and now read rather differently in a data-collecting age.",
+   "criticism": "Historians have found serious factual problems in his archival claims, particularly in the History of Madness. If power is everywhere and constitutes the subject, it is also unclear what resistance could consist in, or on what basis anything he describes counts as bad — an objection Habermas pressed and Foucault never satisfactorily answered.",
+   "modules": [
+    "soc-7",
+    "hea-8",
+    "his-8"
+   ]
+  },
+  {
+   "id": "morrison",
+   "name": "Toni Morrison",
+   "dates": "1931–2019",
+   "era": "modern",
+   "fields": [
+    "Arts & Creativity",
+    "History"
+   ],
+   "oneLine": "Wrote American history from inside the people it was done to, and refused to explain them to anyone else.",
+   "bio": "Morrison's central technical decision was to write without a white gaze — not to address, translate for, or justify her characters to an assumed outside reader. The result is fiction in which a community's idiom, its silences and its knowledge are simply the medium, and the reader has to enter rather than be admitted. Beloved, built around the historical case of Margaret Garner, takes the archival fact of a mother killing her child to prevent its return to slavery and makes the interior arithmetic of that decision available in a way historiography cannot.\n\nShe was an editor at Random House for nearly two decades before her own career took over, and published Angela Davis, Muhammad Ali and Toni Cade Bambara. Her criticism matters as much as the novels: Playing in the Dark argues that canonical American literature is structured throughout by an Africanist presence that criticism had trained itself not to see. She won the Nobel in 1993, the first Black woman to do so.",
+   "ideas": [
+    "Fiction written without a white gaze — no translation, no justification, no outside address.",
+    "Rememory — the past as a place that persists and can be re-entered, not a sequence left behind.",
+    "The Africanist presence structuring white American literature, in Playing in the Dark.",
+    "Community as narrator: choral, gossiping, collectively knowing."
+   ],
+   "quote": "If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+   "quoteNote": "From a 1981 address to the Ohio Arts Council, and the account she gave of why she started.",
+   "criticism": "The dense, elliptical construction of the later novels has been found mannered by some critics, and her insistence on being read as a Black woman writer rather than simply a writer was a position she chose and defended, but it has shaped her reception in ways that flatten the formal experimentation.",
+   "modules": [
+    "art-2",
+    "art-8",
+    "his-8"
+   ]
+  },
+  {
+   "id": "sen",
+   "name": "Amartya Sen",
+   "dates": "1933– ",
+   "era": "contemporary",
+   "fields": [
+    "Economics",
+    "Philosophy"
+   ],
+   "oneLine": "Redefined poverty and development around what people are actually able to do rather than what they own.",
+   "bio": "Sen's early work established that famines are rarely caused by an absolute shortage of food. The Bengal famine of 1943, which he witnessed as a child, occurred amid adequate supply; people died because their <em>entitlements</em> collapsed — wages, employment and prices moved such that they could no longer command food that was physically present. This reframed famine as a distributional and political failure rather than a natural disaster, with the corollary that no substantial famine has occurred in a functioning democracy with a free press, because governments that can be removed have to respond.\n\nHis capability approach asks a different question from income-based measures: not what resources does a person hold, but what are they actually able to do and to be. Two people with the same income differ enormously in real freedom if one is disabled, or illiterate, or barred from working. With Mahbub ul Haq he built the Human Development Index on this basis. He also produced foundational work in social choice theory, including the liberal paradox, and the missing women calculation that quantified sex-selective mortality across Asia.",
+   "ideas": [
+    "Entitlement failure — famines as collapses of command over food, not of food itself.",
+    "The capability approach: freedom measured as what people can actually do and be.",
+    "The Human Development Index as an alternative to income-only measurement.",
+    "Missing women — quantifying excess female mortality from sex ratios."
+   ],
+   "quote": "No famine has ever taken place in the history of the world in a functioning democracy.",
+   "quoteNote": "Development as Freedom, 1999 — the claim depends on how functioning is defined, and he specifies it carefully.",
+   "criticism": "The capability approach has been criticised for refusing to specify a definitive list of capabilities, which makes it hard to operationalise — Martha Nussbaum's attempt to supply one is itself contested. The famine-and-democracy claim also relies on definitions elastic enough that critics have proposed counterexamples.",
+   "modules": [
+    "eco-6",
+    "phi-5",
+    "hea-7"
+   ]
+  },
+  {
+   "id": "ostrom",
+   "name": "Elinor Ostrom",
+   "dates": "1933–2012",
+   "era": "contemporary",
+   "fields": [
+    "Economics",
+    "Politics",
+    "Sociology"
+   ],
+   "oneLine": "Demonstrated by fieldwork that communities govern shared resources successfully, against a theory that said they could not.",
+   "bio": "The tragedy of the commons, as Hardin stated it in 1968, held that a resource open to all will inevitably be destroyed, and that the only remedies are privatisation or state control. Ostrom went and looked. Across decades of fieldwork on Swiss alpine pastures, Japanese village forests, Spanish irrigation systems, Philippine water associations and Maine lobster fisheries, she found communities that had governed common-pool resources sustainably for centuries, sometimes for eight hundred years, using neither of Hardin's remedies.\n\nFrom these cases she extracted eight design principles that successful arrangements share: clearly defined boundaries, rules matched to local conditions, participation in rule-making by those affected, monitoring by accountable monitors, graduated sanctions, accessible conflict resolution, recognised rights to organise, and nested governance for larger systems. The theoretical point is that Hardin had modelled an open-access resource with no communication, which is not what a commons is. She was the first woman to win the Nobel in economics, in 2009, and was a political scientist by training.",
+   "ideas": [
+    "Common-pool resources are governable by their users without privatisation or state control.",
+    "Eight design principles distinguishing durable institutions from failing ones.",
+    "Polycentric governance — overlapping authorities at multiple scales outperform single hierarchies.",
+    "Fieldwork as theory-testing: the model must answer to the cases, not the reverse."
+   ],
+   "quote": "A resource arrangement that works in practice can work in theory.",
+   "quoteNote": "Her standing reply to economists who told her the arrangements she documented were impossible.",
+   "criticism": "Her successful cases are mostly small, stable, and bounded — the principles scale poorly to atmospheric carbon or ocean fisheries, where the users number in the billions and cannot monitor one another. Whether polycentricity is a solution or a description of the problem at global scale is unresolved.",
+   "modules": [
+    "pol-5",
+    "eco-2",
+    "soc-6"
+   ]
+  },
+  {
+   "id": "kahneman",
+   "name": "Daniel Kahneman",
+   "dates": "1934–2024",
+   "era": "contemporary",
+   "fields": [
+    "Psychology",
+    "Economics"
+   ],
+   "oneLine": "Showed that human error is systematic and predictable, and built a science out of the pattern.",
+   "bio": "Working with Amos Tversky from the late 1960s, Kahneman demonstrated that deviations from rational choice are not random noise but regular and reproducible. People judge probability by how easily an example comes to mind, anchor on irrelevant numbers, and evaluate outcomes as gains or losses from a reference point rather than as final states. Prospect theory, published in 1979, formalised this: losses weigh roughly twice as heavily as equivalent gains, and probabilities are transformed non-linearly, which explains behaviour that expected utility theory cannot.\n\nThe work founded behavioural economics and won the Nobel in 2002; Tversky had died in 1996. Thinking, Fast and Slow popularised the two-system framing — fast automatic judgement and slow effortful reasoning — which Kahneman himself described as a useful fiction rather than a claim about brain architecture. He is also a model of intellectual honesty about his own field: after the replication crisis exposed problems with priming research he had cited approvingly, he published a public statement saying he had placed too much faith in underpowered studies.",
+   "ideas": [
+    "Heuristics and biases — availability, anchoring, representativeness as systematic error sources.",
+    "Prospect theory: value assessed as change from a reference point, with losses weighted about twice gains.",
+    "System 1 and System 2 as a descriptive shorthand for automatic and effortful processing.",
+    "The focusing illusion — attention to any factor inflates its apparent importance to wellbeing."
+   ],
+   "quote": "Nothing in life is as important as you think it is, while you are thinking about it.",
+   "quoteNote": "His statement of the focusing illusion, and the reason predictions about what will make us happy go wrong.",
+   "criticism": "Several findings in Thinking, Fast and Slow, particularly the social priming chapter, did not replicate, and he said so himself. Gerd Gigerenzer's standing objection is also serious: heuristics judged against artificial laboratory norms look like errors, but in real environments with limited time and information they frequently outperform formal optimisation.",
+   "modules": [
+    "psy-1",
+    "eco-8",
+    "phi-1"
+   ]
+  },
+  {
+   "id": "maathai",
+   "name": "Wangari Maathai",
+   "dates": "1940–2011",
+   "era": "contemporary",
+   "fields": [
+    "Science",
+    "Politics",
+    "Sociology"
+   ],
+   "oneLine": "Connected deforestation, poverty and authoritarian rule, and organised rural women to act on all three at once.",
+   "bio": "The first woman in East and Central Africa to earn a doctorate, Maathai was a veterinary anatomist at the University of Nairobi before founding the Green Belt Movement in 1977. Its method was deliberately unglamorous: pay rural women a small sum for each seedling they raised to survival, which supplied income, restored watersheds, secured fuel and reduced the walking distance for firewood. More than fifty million trees have been planted through it.\n\nHer larger argument was that environmental degradation was not a technical problem but a governance one. Land was being cleared because the Moi government was allocating public forest to political allies, and the women bearing the consequences had no standing to object. Tree planting therefore became civic organisation, and she was beaten, imprisoned repeatedly and denounced in parliament for it. She was elected to parliament in 2002, served as an assistant minister, and received the Nobel Peace Prize in 2004 — the first awarded substantially for environmental work, and a deliberate statement that ecology and peace are the same subject.",
+   "ideas": [
+    "Community reforestation paid at the seedling, tying ecological repair to household income.",
+    "Environmental degradation as a symptom of unaccountable governance, not a technical failure.",
+    "Women's labour as the point where deforestation is actually felt, and therefore where organising starts.",
+    "Environmental security as a precondition of peace rather than a competing priority."
+   ],
+   "quote": "It's the little things citizens do. That's what will make the difference. My little thing is planting trees.",
+   "quoteNote": "A formulation she used repeatedly, and the organising principle of the Green Belt Movement.",
+   "criticism": "Critics have questioned survival rates for planted seedlings and the emphasis on planting over protecting existing forest, which is ecologically more valuable. Some of her public statements on the origins of HIV were also unsupported and she later distanced herself from them.",
+   "modules": [
+    "sci-6",
+    "pol-5",
+    "soc-8"
+   ]
+  }
+ ]
+}

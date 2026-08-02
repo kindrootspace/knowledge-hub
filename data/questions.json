@@ -1,0 +1,655 @@
+{
+ "blurb": "Every track in this hub eventually reaches a question it cannot close. This section collects sixteen of them: the disputes that run underneath politics, science, religion, art and economics alike, where the honest answer is that careful, well-informed people still disagree. Each entry sets out what is actually being asked, the strongest form of each competing answer along with what that answer costs, and — just as important — what has genuinely been established, so that open does not get mistaken for anything goes.",
+ "themes": [
+  {
+   "id": "mind",
+   "label": "Mind & knowledge"
+  },
+  {
+   "id": "ethics",
+   "label": "How to live"
+  },
+  {
+   "id": "society",
+   "label": "How to live together"
+  },
+  {
+   "id": "cosmos",
+   "label": "Reality & the universe"
+  },
+  {
+   "id": "future",
+   "label": "Where we are going"
+  }
+ ],
+ "questions": [
+  {
+   "id": "is-consciousness-physical",
+   "theme": "mind",
+   "question": "Is consciousness a physical process, or something that physics leaves out?",
+   "hook": "Every other biological function has yielded to physical explanation; subjective experience is the one case where explaining the mechanism seems to leave the phenomenon untouched.",
+   "framing": "The question is not whether the brain produces consciousness — it plainly does — but whether a complete physical description of a brain would <em>be</em> a complete description of the experience. David Chalmers separated the easy problems (how attention selects, how a system reports its own states, how memory is laid down) from the hard problem: why any of that machinery should be accompanied by there being something it is like to undergo it. Neuroscience has made real progress on the easy problems and on the correlates of the hard one. Binocular rivalry, anaesthesia and lesion studies show which structures matter and which do not. What none of it yet does is explain why the correlate is accompanied by experience rather than proceeding in the dark.\n\nThree thought experiments carry most of the weight. Thomas Nagel asked what it is like to be a bat, arguing that no amount of third-person description delivers the answer. Frank Jackson imagined Mary, who knows all the physics of colour but has never seen red, and asked whether she learns something on leaving her black-and-white room. And philosophers ask whether a physical duplicate of you with no inner life is conceivable, and if so what that shows. A great deal turns on the answer: whether machines could be moral patients, how to treat animals and patients with disorders of consciousness, and what death is. Progress would mean a theory that predicts from a physical description whether experience is present — and can be checked.",
+   "positions": [
+    {
+     "label": "Physicalism",
+     "holds": "Consciousness is nothing over and above physical and computational processes in the brain.",
+     "case": "Every phenomenon previously declared irreducible — life, heat, heredity — turned out to be physical once the mechanism was found. Consciousness depends on the brain with startling precision: particular lesions delete particular contents, and anaesthetics abolish experience at identified molecular targets. The sense of an explanatory gap is itself predicted, since introspective concepts and theoretical concepts pick out the same states in incompatible formats.",
+     "cost": "It has to insist the hard problem is a confusion while conceding it has not yet produced the theory that would dissolve it; the promissory note has been outstanding for a long time."
+    },
+    {
+     "label": "Property dualism",
+     "holds": "Experience is a further fundamental feature of the world, not entailed by physical facts.",
+     "case": "No physical description entails what red looks like, which is why Mary seems to learn something. Conceiving of a physical duplicate without experience involves no contradiction, unlike conceiving of water that is not H2O. If a fact can be missing from a complete physical account, it is not a physical fact, however lawfully it correlates with one.",
+     "cost": "It cannot give experience a causal job. Either consciousness does nothing, in which case it is inexplicable that we talk about it, or it pushes neurons around, which contradicts the causal closure of physics."
+    },
+    {
+     "label": "Panpsychism and Russellian monism",
+     "holds": "Experience, or something proto-experiential, is the intrinsic nature of matter itself.",
+     "case": "Physics describes structure and relations and is silent about what the relata intrinsically are, so the gap is a hole in physics that consciousness could occupy. This avoids brute emergence of experience from wholly non-experiential ingredients, and it avoids making consciousness causally idle, since intrinsic natures are what the structure is a structure of.",
+     "cost": "The combination problem is unsolved: nobody can say how vast numbers of micro-experiences would fuse into one unified subject, and the view generates no distinctive prediction anyone could test."
+    },
+    {
+     "label": "Illusionism",
+     "holds": "There is no phenomenal property to explain; introspection systematically misrepresents our own processing.",
+     "case": "Introspection is demonstrably unreliable — change blindness, confabulated reasons, false memories — so its report that experience has ineffable intrinsic qualities is not authoritative. The tractable scientific project is explaining why brains represent themselves as having such properties, and that project needs no new physics.",
+     "cost": "It must deny the one thing most people take themselves to know beyond doubt: that pain hurts. A theory that explains away the datum rather than the phenomenon strikes many as changing the subject."
+    }
+   ],
+   "settled": "Consciousness depends on the brain in fine-grained, reproducible ways: specific lesions remove specific contents, anaesthetics abolish experience at known receptor targets, and direct stimulation can create it. Any surviving position must accommodate that dependence, which rules out a free-floating mind untethered from neural detail.",
+   "modules": [
+    "phi-7",
+    "sci-5",
+    "psy-2",
+    "sci-7"
+   ]
+  },
+  {
+   "id": "do-we-have-free-will",
+   "theme": "mind",
+   "question": "Do we have free will, and does it matter whether the universe is deterministic?",
+   "hook": "The dispute is no longer mainly about physics; it is about whether the freedom worth having was ever the kind that determinism threatens.",
+   "framing": "Two questions travel together and should be prised apart. The metaphysical one asks whether your action was fixed by prior states of the world plus the laws. The practical one asks whether you are responsible for it. Much popular writing assumes the first settles the second, and that neuroscience has settled the first. Neither assumption survives contact with the literature. Benjamin Libet's finding that a readiness potential precedes reported intention has been widely over-read; Aaron Schurger and colleagues reinterpreted the signal as ongoing stochastic drift crossing a threshold rather than a decision being made, and the paradigm concerns arbitrary finger movements, not deliberated choices. Quantum indeterminism offers no rescue either: an undetermined event is not thereby an event you control.\n\nWhat turns on the answer is substantial. Retributive punishment presupposes that offenders deserve suffering, not merely that deterring them is useful; so does a great deal of self-blame, gratitude and resentment. Meritocratic justifications of reward assume that effort is something a person contributes rather than something their genes and upbringing supplied. Progress here looks less like a decisive experiment and more like sharper analysis of the control condition — specifying what makes an agent responsive to reasons, and when that responsiveness is impaired by addiction, coercion, psychosis or manipulation. Courts have been doing a rough version of this for centuries. The empirical work on whether <em>believing</em> in free will changes behaviour was once cited confidently in both directions; most of those priming studies have not replicated well, and should be treated with caution.",
+   "positions": [
+    {
+     "label": "Compatibilism",
+     "holds": "Freedom is acting on your own reasons without coercion or compulsion, and determinism is beside the point.",
+     "case": "What we actually care about when we hold someone responsible is whether they could have been reached by reasons — which is why duress, insanity and addiction excuse. The incompatibilist demand for a choice with no prior cause describes nothing coherent; a choice that sprang from nothing about you would be less yours, not more. This is the majority view among professional philosophers.",
+     "cost": "It concedes that in the exact circumstances you could not have done otherwise, which is precisely what most people mean by free will — so many hear it as answering a different question."
+    },
+    {
+     "label": "Libertarian free will",
+     "holds": "Some choices are genuinely undetermined and are settled by the agent rather than by prior states.",
+     "case": "The phenomenology of deliberation is not obviously an illusion, and the claim that human action is determined at the level of persons is an empirical assumption that has never been demonstrated. Agent causation treats persons as an irreducible kind of cause rather than a link in a chain, which is how the law, and everyday life, already treat them.",
+     "cost": "The luck objection has no agreed answer: if the outcome was undetermined right up to the moment of choice, it is unclear why that makes it more under your control than a determined outcome would be."
+    },
+    {
+     "label": "Free will scepticism",
+     "holds": "Nobody is ultimately responsible, because nobody chose the constitution from which their choices flow.",
+     "case": "You did not choose your genes, your childhood, or the brain state that produced this decision, and any further capacity you might invoke was itself unchosen. The regress of constitutive luck has no natural stopping point. A quarantine model of criminal justice can incapacitate dangerous people and repair harm without claiming anyone deserves to suffer.",
+     "cost": "It has to give up desert on the pleasant side too — pride in achievement, gratitude, admiration — and no one has yet shown that the resulting stance is one human beings can actually inhabit."
+    }
+   ],
+   "settled": "Libet-style experiments do not show that decisions are made before we are aware of them; the readiness potential is now widely read as ongoing background fluctuation, and the task involved arbitrary movements rather than reasoned choice. It is also settled that conscious deliberation does affect behaviour: the sceptical positions deny ultimate desert, not the causal efficacy of thinking things through.",
+   "modules": [
+    "phi-7",
+    "sci-5",
+    "psy-3",
+    "soc-7"
+   ]
+  },
+  {
+   "id": "can-we-know-with-certainty",
+   "theme": "mind",
+   "question": "Can we know anything with certainty, and does knowledge need foundations?",
+   "hook": "Scepticism has never been refuted on its own terms, yet science, courts and daily life proceed regardless — which suggests the live question is what standard knowledge actually requires.",
+   "framing": "Ask why you believe something, then ask why you believe the answer, and you generate a regress. It can terminate in beliefs that need no support, circle back into a web of mutual support, or run on forever; those three options are foundationalism, coherentism and infinitism, and the choice between them is still open after four centuries. Two twentieth-century results narrowed the field without closing it. Edmund Gettier showed in three pages in 1963 that justified true belief is not sufficient for knowledge, and no repair has won consensus. Pierre Duhem and W. V. Quine showed that hypotheses face evidence only in bundles, so a failed prediction never tells you which assumption to abandon. Behind both sits David Hume's point that induction cannot be justified without assuming induction.\n\nWhat turns on this is not academic. Standards of proof in courts, the weight to give expert consensus, how to respond to someone who says they are just asking questions, and what to do when peers you respect disagree — all depend on how demanding knowledge is. If certainty is the standard, almost nothing qualifies and the conspiracist and the epidemiologist stand closer together than they should. If the standard is too loose, we lose the ability to say anyone is wrong. Progress has come from three directions: fallibilism, which treats all knowledge as revisable without treating it as worthless; formal and Bayesian epistemology, which model degrees of belief rather than binary knowing; and social epistemology, which takes seriously that nearly everything you know you were <strong>told</strong>, and asks what makes testimony trustworthy.",
+   "positions": [
+    {
+     "label": "Fallibilism",
+     "holds": "Knowledge does not require certainty; we know a great deal, and all of it is in principle revisable.",
+     "case": "Science has produced reliable, cumulative results while explicitly disclaiming certainty, which shows the two come apart. Standards of evidence can be calibrated to stakes, as they are in medicine and law. The sceptical scenarios that motivate the demand for certainty have no consequences for any actual enquiry, which is a reason to suspect the demand rather than the enquiry.",
+     "cost": "It cannot draw a principled line between healthy revision and motivated doubt, so it offers no answer to someone who declares that a well-supported finding is merely provisional and behaves accordingly."
+    },
+    {
+     "label": "Foundationalism",
+     "holds": "Some beliefs justify themselves — basic logic, immediate experience — and everything else rests on them.",
+     "case": "The regress has to stop somewhere or nothing is justified at all. That I am now having some experience, and that a contradiction cannot be true, are not conclusions from anything and are not seriously deniable. Without a floor, an internally consistent delusion is as well justified as an accurate picture of the world.",
+     "cost": "The candidate foundations are either too thin to build anything on or less indubitable than advertised — even reports of one's own current experience are demonstrably subject to error."
+    },
+    {
+     "label": "Coherentism and pragmatism",
+     "holds": "Justification comes from a belief system hanging together and working, not from a privileged base.",
+     "case": "There are no theory-neutral observations to serve as foundations; what counts as evidence is already shaped by the framework. Otto Neurath's image is right: we rebuild the ship plank by plank while at sea. What makes a system creditable is its predictive success and its capacity to absorb correction, and that is testable.",
+     "cost": "Two rival systems can each be internally coherent, and the view has no clean way of adjudicating between them or of guaranteeing that coherence has any connection to truth."
+    },
+    {
+     "label": "Radical scepticism",
+     "holds": "We do not know; we hold beliefs that work, which is a different thing.",
+     "case": "No argument has yet excluded the dreaming and simulation hypotheses without assuming what it needs to prove. Induction cannot be defended non-circularly. The history of confident science is a history of overturned confidence, which is inductive evidence — such as it is — that current confidence is also misplaced.",
+     "cost": "It is unlivable, and it saws off its own branch: the arguments for scepticism rely on logic and inference, the very instruments it declares untrustworthy."
+    }
+   ],
+   "settled": "Several things are genuinely closed. Justified true belief is not sufficient for knowledge; induction has no non-circular justification; and no finite body of evidence uniquely determines one theory. Equally beyond dispute is that well-tested science reliably predicts and controls the world, whatever philosophical account we give of that success.",
+   "modules": [
+    "phi-2",
+    "phi-6",
+    "sci-1",
+    "his-1"
+   ]
+  },
+  {
+   "id": "do-machines-understand",
+   "theme": "mind",
+   "question": "Do machines that use language understand it, or only model it?",
+   "hook": "Systems now in daily use pass most of the behavioural tests once proposed for understanding, which has turned a thought experiment into a practical question about liability and trust.",
+   "framing": "John Searle's Chinese Room was designed to show that manipulating symbols by rule, however well, never amounts to understanding them: the man in the room passes the test and understands nothing. The argument was long treated as decisive by one camp and question-begging by the other, and for decades nothing hung on it. Now something does. Large language models trained to predict the next token produce output that is fluent, contextually apt and frequently correct, and the question of whether anything in there grasps meaning determines how much weight their outputs can bear.\n\nThe evidence points in both directions, which is why the question is live rather than merely rhetorical. On one side, models trained only on move sequences have been shown by probing to carry internal representations of board state, which is hard to square with pure surface statistics; capabilities appear that were not trained for; and performance generalises to inputs no human wrote. On the other, models assert falsehoods with exactly the confidence they bring to truths, because the training objective rewards plausibility rather than accuracy; and performance often degrades sharply on counterfactual variants of familiar tasks, which is what you would expect of sophisticated pattern completion. Emily Bender and colleagues pressed the point that form is not meaning and that a system with no referential contact with the world cannot mean anything by its words. Progress is now partly empirical: mechanistic interpretability lets researchers look inside and ask what the internal states track. It is also conceptual, since <em>understanding</em> is plainly not one thing.",
+   "positions": [
+    {
+     "label": "Modelling, not understanding",
+     "holds": "These systems capture the statistical structure of text without any grasp of what it is about.",
+     "case": "Meaning involves reference to a world, and a system trained purely on token sequences has no contact with one. The Chinese Room point stands: passing a test designed by humans for humans shows the test was weak. Sharp degradation on unfamiliar reformulations of familiar problems is the signature of pattern matching rather than comprehension.",
+     "cost": "It has to specify what more is required without covertly making biology the criterion, and a great deal of human cognition is itself pattern completion over learned regularities."
+    },
+    {
+     "label": "Functional understanding",
+     "holds": "Understanding is a matter of what a system represents and what it can do with those representations, and these systems qualify.",
+     "case": "Probing studies find structured internal models of domains, not lookup tables, and those models support generalisation to genuinely novel cases. If no behavioural or internal evidence could ever count as understanding, the criterion being used is not empirical. We attribute understanding to other people on exactly this kind of evidence.",
+     "cost": "It has to accept that a system might understand while having no experience whatsoever of doing so, which strains ordinary usage badly and leaves the notion of grasping meaning oddly hollow."
+    },
+    {
+     "label": "Partial and different in kind",
+     "holds": "There is real semantic competence, but it lacks grounding, embodiment and any stake in outcomes.",
+     "case": "Internal representations are demonstrably real, so blanket denial is untenable; but failures cluster exactly where sensorimotor or social grounding would do the work, such as physical reasoning and tracking who knows what. The honest description is a genuinely new kind of competence rather than a partial version of ours.",
+     "cost": "It owes a principled account of which components are present and which absent, and that boundary has moved with every model release, which suggests it is being drawn by current limitations rather than by principle."
+    }
+   ],
+   "settled": "It is no longer defensible to say these systems merely retrieve stored text: they generalise to inputs that appear nowhere in training, and interpretability work has found internal structures that track features of a domain rather than surface word frequencies. It is equally clear that fluency is not evidence of truthfulness, since the training objective rewards plausibility and nothing in it rewards accuracy directly.",
+   "modules": [
+    "sci-7",
+    "tec-5",
+    "phi-8",
+    "phi-7"
+   ]
+  },
+  {
+   "id": "is-morality-objective",
+   "theme": "ethics",
+   "question": "Are moral claims true or false in the way that factual claims are?",
+   "hook": "Widespread moral disagreement is compatible with both objectivity and its absence, so the quick arguments most people reach for do not work in either direction.",
+   "framing": "The question is not whether people disagree about morality — they obviously do — but whether there is anything for them to be right or wrong about. Two distinctions do most of the work. The first is between cognitivism, on which moral sentences state something capable of truth, and non-cognitivism, on which they express attitudes in the grammatical clothing of statements. The second is between objectivity and universality: a moral fact could be objective without everyone recognising it, exactly as physical facts were before anyone measured them. J. L. Mackie pressed two objections that still frame the debate — that objective moral properties would be metaphysically peculiar, unlike anything else we accept, and that variation in moral codes is better explained by their being social products than by our having imperfect access to a moral reality.\n\nNewer pressure comes from evolutionary debunking. If our moral intuitions were shaped by selection for reproductive success rather than for tracking moral truth, then their reliability requires an explanation the realist has not supplied. What turns on the answer includes whether human rights claims are discoveries or commitments, whether the abolition of slavery was moral progress or merely moral change, and whether criticising another society's practices is arrogance or accuracy. One useful piece of progress is negative: meta-ethics underdetermines first-order ethics. Realists and expressivists condemn the same atrocities and support the same reforms, so the practical stakes are lower than the rhetoric suggests — though <strong>how</strong> we argue, and what we think we are doing when we argue, does change.",
+   "positions": [
+    {
+     "label": "Moral realism",
+     "holds": "Some moral claims are true independently of anyone's attitudes, beliefs or conventions.",
+     "case": "The intuition that torturing a child for entertainment would be wrong even if every society approved is as firm as any intuition in philosophy, and firmer than the theoretical premises used to overturn it. Moral reasoning behaves like enquiry: we change our minds under argument, discover implications we did not want, and treat past consensus as mistaken. Mathematics shows that abstract, non-causal truths are not uniquely suspicious.",
+     "cost": "It owes an account of how creatures shaped by selection for fitness came to have reliable access to non-natural facts, and no realist has produced one that satisfies critics."
+    },
+    {
+     "label": "Divine command and natural law",
+     "holds": "Moral facts are grounded in God's nature or in the ends proper to created things.",
+     "case": "It supplies precisely what secular realism struggles to provide: a source for moral authority and an explanation of why obligation binds rather than merely applies. It makes sense of the categorical, personal character of moral demand — the sense of being answerable to someone. Natural law versions also generate determinate content from human nature rather than from bare intuition.",
+     "cost": "The Euthyphro dilemma bites: either the commands are arbitrary, or they answer to a standard independent of God, in which case God is not the ground. It also makes moral knowledge hostage to contested revelation."
+    },
+    {
+     "label": "Constructivism",
+     "holds": "Moral truths are genuine but constituted by what suitably situated rational agents would agree to.",
+     "case": "It explains bindingness without positing strange objects: the authority of morality comes from the standpoint of agents who must justify themselves to each other. Kantian and contractualist versions deliver determinate verdicts on real cases, and the model matches how moral argument actually proceeds — by offering reasons another could not reasonably reject.",
+     "cost": "Everything depends on the specification of the procedure and the starting position, different specifications yield different moralities, and there is no neutral standpoint from which to choose between them."
+    },
+    {
+     "label": "Anti-realism",
+     "holds": "Moral claims express attitudes, or purport to describe facts that do not exist.",
+     "case": "There is no plausible causal story linking moral facts to moral beliefs, and no observation anyone could make to check one. Moral judgement is bound up with emotion and motivation in a way that pure belief is not, which expressivism explains and cognitivism must patch. The distribution of moral codes tracks material conditions and group interests with suspicious precision.",
+     "cost": "It must reconstruct the difference between moral progress and mere moral change, and explain why sophisticated moral argument feels like — and functions like — the discovery of something one did not already accept."
+    }
+   ],
+   "settled": "Cross-cultural variation in moral codes is real but much shallower than the standard relativist case assumes: prohibitions on in-group killing, theft and betrayal, together with norms of reciprocity, fairness in exchange and care for kin, recur in every documented society. It is also settled logic that the descriptive fact of variation cannot by itself establish the normative conclusion that no code is better than another.",
+   "modules": [
+    "phi-3",
+    "phi-4",
+    "rel-6",
+    "psy-6"
+   ]
+  },
+  {
+   "id": "what-we-owe-strangers",
+   "theme": "ethics",
+   "question": "How much do we owe people we will never meet?",
+   "hook": "Almost everyone accepts some duty to distant strangers, and almost nobody accepts the duty their own stated principles appear to imply.",
+   "framing": "Peter Singer's 1972 argument is short and hard to escape. If you can prevent something very bad at small cost to yourself, you ought to; a child drowning in a shallow pond obliges you to ruin your shoes; and neither physical distance nor the presence of other bystanders seems morally relevant. From there it follows that a comfortable person who spends on luxuries while preventable deaths continue is doing something seriously wrong. Most readers accept each premise and reject the conclusion, which is the sign of a genuinely open problem rather than a solved one. The standard replies are that morality cannot be that demanding without ceasing to function, that relationships generate real obligations that impartiality ignores, and that individual giving is the wrong instrument for a structural problem.\n\nPsychology explains why we feel otherwise without justifying it: the identifiable victim effect means one named child moves us more than a thousand counted ones. Economics complicates it in a more serious way. The evidence on what actually helps has improved enormously — direct cash transfers, insecticide-treated bednets and vaccination programmes have well-documented effects, while other interventions once promoted confidently have not held up. Real money rides on the answer: the United Kingdom cut aid from 0.7 to 0.5 per cent of national income in 2021, and climate finance commitments to poorer countries remain contested at every summit. A useful clarification is the distinction between assistance and justice. If the wealth of rich countries is causally connected to the poverty of poor ones, the demand is not generosity at all but <em>repayment</em>, which changes both its force and its scale.",
+   "positions": [
+    {
+     "label": "Strong impartialism",
+     "holds": "Distance is morally irrelevant, so we should give until further giving costs something comparably significant.",
+     "case": "Nobody has produced a principled line between the drowning child in front of you and the child dying of malaria elsewhere; every proposed difference — distance, certainty, other bystanders, the absence of eye contact — fails on inspection. The arithmetic is stark: a few thousand pounds routed well averts a death, which is a price most people would pay without hesitation if the child were visible.",
+     "cost": "It is so demanding that essentially nobody meets it, and a standard that no one satisfies loses its grip on conduct; it can also crowd out the particular loyalties that make a life a life."
+    },
+    {
+     "label": "Associative duties",
+     "holds": "Obligations are stronger to family, neighbours and fellow citizens than to humanity in general.",
+     "case": "Relationships are not sentimental add-ons to a life but partly constitutive of it, and they generate obligations that are real rather than merely felt — a parent who treated their own child as one claimant among billions would be failing, not transcending, morality. Political community depends on reciprocity within bounds, and every functioning welfare state rests on solidarity that stops at a border.",
+     "cost": "It has to explain why an accident as morally arbitrary as birthplace generates duties, and the argument is readily available to rationalise indifference to catastrophe elsewhere."
+    },
+    {
+     "label": "Justice, not charity",
+     "holds": "The obligation is to correct an unjust global order, not to give generously within it.",
+     "case": "Trade rules, tax havens, arms sales, historic extraction and the distribution of cumulative carbon emissions are not natural facts but arrangements maintained by powerful states. Framing the response as charity flatters the giver, casts recipients as supplicants and leaves the structure producing the need untouched.",
+     "cost": "Causal attribution across centuries is genuinely contestable, and institutional remedies are slow while the deaths are immediate — the position risks becoming a reason to do nothing in particular."
+    },
+    {
+     "label": "Limited and collective duties",
+     "holds": "Duties to distant strangers are real but weak, and belong to states rather than individuals.",
+     "case": "No individual's failure to donate causes any identifiable death, and obligations of this magnitude are properly institutional. Sustained private transfers can also undercut the domestic tax bargain and the state capacity that lifted every rich country out of poverty, substituting external provision for accountable government.",
+     "cost": "Spreading responsibility across everyone reliably means it lands on nobody, which is precisely the failure the drowning-child case was constructed to expose."
+    }
+   ],
+   "settled": "The empirical part is not seriously disputed. Transfers to the very poor produce large, measurable gains: unconditional cash, bednets and childhood vaccination all have effects documented in randomised trials and replicated across settings. The blanket claim that aid simply disappears into corruption is false as a generalisation, though it is accurate about some programmes and some periods.",
+   "modules": [
+    "phi-3",
+    "eco-6",
+    "eco-7",
+    "rel-2"
+   ]
+  },
+  {
+   "id": "is-a-good-life-a-happy-life",
+   "theme": "ethics",
+   "question": "Is a good life the same thing as a happy one?",
+   "hook": "Governments and researchers now measure wellbeing directly and act on the numbers, which means they have already committed to an answer that is not agreed.",
+   "framing": "Four families of theory compete. Hedonism says a life goes well to the extent it feels good from the inside. Desire-satisfaction theories say it goes well to the extent your informed preferences are met, whether or not you enjoy the result. Objective-list and eudaimonic theories say certain things — friendship, achievement, knowledge, autonomy, virtue — make a life good whether or not they are wanted or enjoyed. Religious accounts locate the good of a life in its relation to something beyond it. Robert Nozick's experience machine was designed to test the first: offered a lifetime of perfectly convincing simulated experience, most people decline, which suggests they want to <em>do</em> things and not merely to have the experience of doing them.\n\nThe empirical picture has improved and complicated matters. Measured wellbeing splits into components that come apart: moment-to-moment affect, overall life satisfaction, and sense of meaning. Parents typically report lower affect and higher meaning than non-parents. The claim that happiness plateaus above about seventy-five thousand dollars a year, widely repeated for a decade, did not survive re-analysis; an adversarial collaboration between the original researchers found that satisfaction continues rising with income for most people, while an unhappy minority does plateau. Real decisions ride on this. The Treasury's Green Book now values policies partly in wellbeing units, the Office for National Statistics has asked the population about life satisfaction since 2011, and medicine increasingly weighs quality of life against length of it. Which measure you choose quietly encodes a philosophical position.",
+   "positions": [
+    {
+     "label": "Hedonism and subjective wellbeing",
+     "holds": "How a life feels from the inside is what makes it go well or badly.",
+     "case": "It is difficult to see how something could be good <em>for you</em> if it never registers in your experience at any point. Subjective measures are tractable, comparable and have already redirected policy towards mental health and unemployment, where the returns turned out to be much larger than income effects. Alternatives license telling people their lives are worse than they report, which is an unattractive power to hand anyone.",
+     "cost": "Most people refuse the experience machine, which suggests they value more than experience; and adaptation means the contented oppressed can score well on exactly the measures being used."
+    },
+    {
+     "label": "Eudaimonic and objective-list views",
+     "holds": "Flourishing consists in exercising human capacities well, whatever the accompanying mood.",
+     "case": "We praise and regret lives, not moods, which suggests the object of evaluation is what someone did and became. Amartya Sen and Martha Nussbaum's capability approach explains the widely shared judgement that a satisfied person with no options is nevertheless badly off. Empirically, meaning and satisfaction dissociate, so at least two things are being measured.",
+     "cost": "Somebody has to write the list, and every list produced so far bears the marks of its author's culture, class and temperament."
+    },
+    {
+     "label": "Desire satisfaction",
+     "holds": "A life goes well to the extent that a person's informed preferences are fulfilled.",
+     "case": "It respects that people genuinely differ, and it imposes no template on anyone. It underpins the whole apparatus of consent, contract and revealed preference on which economics and liberal ethics rest. And it explains why we think it matters whether a promise to the dying is kept, even though they will never experience the keeping.",
+     "cost": "Preferences are adaptive, manipulable and sometimes self-destructive, and it is hard to see how satisfying a desire you have long forgotten improves your life at all."
+    },
+    {
+     "label": "Transcendent and religious accounts",
+     "holds": "A life is good in relation to something beyond it — God, dharma, duty to the dead and unborn.",
+     "case": "These traditions take seriously that suffering may be inhabited and transformed rather than merely minimised, which is what people actually face in illness, grief and old age. They explain the persistent intuition that a comfortable, pleasant, purposeless life is missing something. And they offer detailed, transmitted practices rather than conclusions alone.",
+     "cost": "The account depends on metaphysical claims that are not shared and cannot be adjudicated, and the same framing has repeatedly been used to sanctify suffering that was avoidable."
+    }
+   ],
+   "settled": "Some findings hold across every measure and theory. Involuntary unemployment, chronic pain and loneliness make lives worse; social connection makes them better; and the effect of unemployment is far larger than the loss of income alone can explain. Money matters and keeps mattering as incomes rise, though at a diminishing rate — the flat ceiling reported in 2010 did not survive scrutiny.",
+   "modules": [
+    "phi-4",
+    "psy-5",
+    "hea-5",
+    "rel-8"
+   ]
+  },
+  {
+   "id": "is-democracy-the-best-system",
+   "theme": "society",
+   "question": "Is democracy the best way to govern, or the best we have found so far?",
+   "hook": "The sharpest challenges to democracy now come less from admirers of dictatorship than from evidence about how voters actually decide.",
+   "framing": "Two defences of democracy are usually run together and should not be. The instrumental case says democracies govern better — they avoid famines, generate growth, and correct their own mistakes. The intrinsic case says that being ruled without a say is a wrong to your standing as an adult, whatever the outcomes. They can come apart, and they fail in different ways. If the instrumental case is what you rely on, a competent autocracy that outperforms is a real problem for you; if the intrinsic case is what you rely on, you must accept democratically chosen catastrophes.\n\nThe evidence is genuinely mixed. Amartya Sen's observation that no substantial famine has occurred in a country with competitive elections and a free press has held up. Daron Acemoglu and colleagues found democratisation raises national income by roughly a fifth over twenty-five years. Consolidated democracies have not gone to war with one another. Against that: Philip Converse's finding that most voters lack stable, structured political opinions has been replicated for sixty years, and Christopher Achen and Larry Bartels document electorates punishing incumbents for droughts and shark attacks. China's poverty reduction is the largest in recorded history and did not require elections. What would count as progress is better evidence on mechanisms rather than more argument about averages — and there is some, from V-Dem's measurement work and from deliberative assemblies such as the Irish citizens' assembly on abortion, which suggest publics reason quite differently under different conditions.",
+   "positions": [
+    {
+     "label": "Instrumentally best",
+     "holds": "Democracies produce better government than the alternatives, on average and over time.",
+     "case": "Free press plus competitive elections make catastrophic information failures much harder, which is why famines do not happen in them. Regular peaceful transfer solves the succession problem that eventually wrecks personalist regimes. The panel evidence on democratisation and growth points the same way, and the effect runs through investment, schooling and health provision.",
+     "cost": "Staking the case on outcomes means any autocracy that outperforms counts against it — and several have, for decades at a stretch."
+    },
+    {
+     "label": "Intrinsically required",
+     "holds": "Equal political standing is owed to citizens regardless of what it produces.",
+     "case": "To be governed without a say is a standing injury, not merely a risk of bad policy; even benevolent rule by others is a form of tutelage that treats adults as wards. Only equal political rights express the judgement that no one's interests count for more, and that judgement is not hostage to whether it happens to raise GDP.",
+     "cost": "It obliges you to accept the results when a majority votes to oppress a minority, and provides no principled basis for the constitutional constraints most of its defenders also want."
+    },
+    {
+     "label": "Epistocratic critique",
+     "holds": "Political power should be weighted towards competence, because voters demonstrably lack it.",
+     "case": "Voter ignorance of basic political facts is among the best-replicated findings in political science, and electorates punish governments for events entirely outside their control. We already insulate monetary policy, drug approval and food safety from direct majority control, with results almost nobody wants to reverse — the principle is accepted, only the extent is disputed.",
+     "cost": "Every competence test proposed so far functions as a proxy for class, education and ethnicity, and handing power to a defined group creates a group with interests and no mechanism for removing it."
+    },
+    {
+     "label": "Performance legitimacy",
+     "holds": "Legitimacy can rest on delivery, consultation and continuity rather than on elections.",
+     "case": "Several states claim authority from what they provide rather than from how they were chosen, and the largest reduction in absolute poverty in history occurred under one of them. Electoral institutions transplanted into low-capacity states have repeatedly produced patronage, ethnic mobilisation and coups rather than accountable government; capacity may need to come first.",
+     "cost": "Without a mechanism for removing rulers, good performance depends entirely on the ruler, and there is no non-catastrophic exit when the ruler turns out badly — which, eventually, is the normal case."
+    }
+   ],
+   "settled": "Two findings are not seriously contested: substantial famines do not occur in states with competitive elections and a free press, and consolidated democracies have not fought wars against one another. A third is established but often missed — the feature of democracy that most reliably improves governance is not the wisdom of voters but the ability to remove a government without violence.",
+   "modules": [
+    "pol-1",
+    "pol-6",
+    "eco-6",
+    "his-6"
+   ]
+  },
+  {
+   "id": "how-much-inequality",
+   "theme": "society",
+   "question": "How much inequality can a society justify?",
+   "hook": "The disagreement is not mainly about the numbers, which are reasonably well established, but about which numbers are the morally relevant ones.",
+   "framing": "Before you can say how much is too much, you have to say inequality of what. Income before tax, income after tax and transfers, consumption, wealth, opportunity and social status give different pictures, and the political argument routinely switches between them. Wealth is far more concentrated than income everywhere; consumption is much less unequal than income; and post-tax inequality in most European countries has moved far less than pre-tax inequality. Even the headline numbers have live technical disputes: Thomas Piketty and Emmanuel Saez find sharply rising American top income shares, while Gerald Auten and David Splinter, using different treatments of retained corporate earnings and transfers, find a much flatter series. That is a real methodological argument, not a partisan one.\n\nThree philosophical positions frame the normative question. John Rawls argued that inequalities are permissible only if they work to the advantage of the worst-off, on the grounds that nobody choosing behind a veil of ignorance would gamble otherwise. Robert Nozick replied that any pattern can be maintained only by continuously interfering with voluntary exchanges people are entitled to make. Harry Frankfurt argued that what matters morally is that everyone has enough, and that focusing on gaps confuses envy with justice. The stakes are concrete: inheritance tax, property taxation, housing supply, and whether health gradients that persist among the well-fed are caused by dispersion itself or by something correlated with it. That last question — whether inequality harms independently of poverty — remains the most contested empirical claim in the field.",
+   "positions": [
+    {
+     "label": "Egalitarian",
+     "holds": "Large inequalities are unjust in themselves and corrode the equal standing democracy requires.",
+     "case": "Money converts into political influence through donations, lobbying, media ownership and agenda-setting, so economic inequality becomes inequality of citizenship. Rawls's argument that unchosen advantages need justification to those who lack them has never been answered on its own terms. The social gradient in health persists well above the level of material deprivation.",
+     "cost": "The strongest evidence concerns poverty and relative status rather than dispersion as such, and equalising measures carry efficiency and liberty costs that egalitarians habitually understate."
+    },
+    {
+     "label": "Sufficientarian",
+     "holds": "What matters is that everyone has enough, not the size of the gap above that threshold.",
+     "case": "A society where the poorest live decently is not made unjust by the existence of a billionaire, and treating it as unjust invites levelling down, which helps nobody. Thresholds also give clearer and more actionable policy guidance than ratios, and they direct attention to housing, health and income floors rather than to the top of the distribution.",
+     "cost": "It has no answer to the political-power problem, and any threshold is arbitrary and drifts upwards with the surrounding society, which quietly reintroduces relativity."
+    },
+    {
+     "label": "Entitlement and libertarian",
+     "holds": "A distribution is just if the transactions that produced it were just, whatever shape it takes.",
+     "case": "Nozick's Wilt Chamberlain case is genuinely awkward: if a distribution is just and people then voluntarily pay to watch someone play, the resulting inequality arose from nothing but consented transfers. Confiscating returns to effort and risk treats people as instruments for others' patterns. The systems that lifted billions out of poverty all tolerated wide dispersion.",
+     "cost": "On its own historical terms, most existing holdings descend from conquest, slavery, enclosure and expropriation, and the theory has never produced a workable principle for rectifying that."
+    },
+    {
+     "label": "Desert and meritocratic",
+     "holds": "Inequality is acceptable to the extent it tracks contribution and effort.",
+     "case": "It matches a strong and cross-culturally robust intuition that those who work harder or produce more should receive more, and children hold it from an early age. Incentive effects are real: compressing returns to scarce skills reduces investment in acquiring them, as the evidence on returns to education and occupational choice shows.",
+     "cost": "Contribution cannot in practice be separated from luck of birth, timing, inherited capital and market fashion, and the evidence on intergenerational mobility indicates that existing inequalities are largely transmitted rather than earned."
+    }
+   ],
+   "settled": "The measurement disputes are narrower than the rhetoric. Wealth is much more unequally held than income in every country measured; top income shares in the Anglosphere rose from around 1980, even if the size of the rise is contested; and intergenerational mobility is systematically lower in more unequal countries. It is also established that absolute poverty worldwide fell dramatically over the same decades in which within-country inequality rose.",
+   "modules": [
+    "eco-8",
+    "phi-5",
+    "soc-3",
+    "pol-8"
+   ]
+  },
+  {
+   "id": "is-progress-real",
+   "theme": "society",
+   "question": "Is there such a thing as progress, or only change?",
+   "hook": "The material record and the moral record point the same way more often than either optimists or pessimists concede, and the real argument is about what those records leave out.",
+   "framing": "The claim at issue is that history has a direction that counts as improvement by a standard not simply borrowed from the present. The case for it rests on series that are hard to wave away: global child mortality has fallen from roughly one child in three to under one in twenty-five, literacy from a small minority to most of humanity, and chattel slavery from legal nearly everywhere to legal nowhere. The case against is not that these numbers are wrong but that the same two centuries produced industrial slavery, colonial famines that killed tens of millions, two world wars, the Holocaust, and an ecological bill that has not been paid.\n\nHerbert Butterfield's critique of Whig history sharpened the methodological worry: it is very easy to read the past as a corridor leading to us, judging each era by how much it resembles the present. There is also a measurement point that cuts both ways — global poverty figures over recent decades are dominated by China and India, so a global claim can rest on two national stories. What turns on the answer is temperament translated into policy: whether the sensible posture is to conserve institutions that took centuries to build, or to transform arrangements that are producing avoidable harm now. Genuine progress in the argument has come from long-run quantitative series that did not exist a generation ago, and from the recognition that catastrophe and improvement are frequently produced by the <em>same</em> capacities: a state that can vaccinate a population can also conscript it.",
+   "positions": [
+    {
+     "label": "Progress is real and measurable",
+     "holds": "On the things human beings say they want, the long-run trend is strongly and genuinely positive.",
+     "case": "Take any list people would sign up to across cultures — surviving childhood, eating reliably, being literate, not being enslaved, not dying of infection — and the two-century trend is dramatic and not a statistical artefact. Life expectancy at birth has roughly doubled globally. These are not our values projected backwards; they are the things every society has tried and failed to secure.",
+     "cost": "The aggregate curves rose during colonial extraction and the world wars, so they can conceal who paid for whose improvement, and choosing the metrics is itself a value judgement."
+    },
+    {
+     "label": "Real but conditional and reversible",
+     "holds": "The gains are genuine but rest on institutions and cheap energy that could fail.",
+     "case": "Advanced, literate, scientific societies collapsed into industrialised mass murder within living memory, which shows that accumulated gains are not ratcheted. Much of the improvement was financed by drawing down fossil reserves and ecological capacity, so part of what looks like income may turn out to have been borrowing.",
+     "cost": "The thesis is close to unfalsifiable: any good period is provisional and any bad one confirms it, which makes it more a stance than a claim."
+    },
+    {
+     "label": "Sceptical about the standard",
+     "holds": "What looks like progress is our own values projected onto the past.",
+     "case": "Butterfield's point stands: we grade previous societies on a scale they did not use. Foraging societies had shorter working hours and denser kin networks; medieval Europe had a coherent cosmology and a place for everyone in it. Measured life satisfaction in rich countries has barely moved in fifty years despite enormous income growth, which is awkward for the improvement story.",
+     "cost": "It has to maintain that a parent in 1850 would not have preferred their child to live, which is not credible; some goods are not culturally relative, and people vote with their feet towards places offering them."
+    },
+    {
+     "label": "Declinist",
+     "holds": "Modernity has traded depth, belonging and meaning for comfort.",
+     "case": "Institutional trust, religious participation, civic membership and fertility have fallen together across the developed world, and recorded anxiety and loneliness have risen. The technologies that solved material problems created dependencies and attention markets that no one chose. None of this appears in GDP, which is exactly the point.",
+     "cost": "Its comparisons rely on a past that was measured badly or not at all, and it consistently understates how physically brutal, coercive and short ordinary life was in the societies it admires."
+    }
+   ],
+   "settled": "Some things are not in dispute. Extreme poverty, child mortality, illiteracy and famine deaths have all fallen enormously since 1900, and chattel slavery has gone from legal in most of the world to legal in none of it. Equally undisputed: atmospheric greenhouse gas concentrations, biodiversity loss and the destructive ceiling of available weapons have all risen across the same period.",
+   "modules": [
+    "his-5",
+    "his-8",
+    "eco-6",
+    "sci-6"
+   ]
+  },
+  {
+   "id": "why-something-rather-than-nothing",
+   "theme": "cosmos",
+   "question": "Why is there something rather than nothing?",
+   "hook": "Every candidate answer either stops at a brute fact or appeals to something that itself needs explaining, and nobody has shown that either move is illegitimate.",
+   "framing": "Leibniz put the question in its sharpest form by way of the principle of sufficient reason: for everything that is the case, there is a reason why it is so rather than otherwise. The universe appears contingent — it could, seemingly, have been otherwise or not been at all — so it invites the question. Two clarifications matter. First, the question is not only why <em>this</em> universe exists but why there is anything at all, laws included. Second, physical accounts of cosmic origins, including quantum vacuum accounts, explain how a state with certain properties gave rise to another. A quantum vacuum with laws and fields is a something, and a rich one; calling it nothing changes the subject.\n\nThe sceptical response is equally serious. Hume denied that the principle of sufficient reason is anything more than a habit of expectation. Russell suggested the universe is just there, and that demanding a reason for the totality commits the fallacy of composition — every human has a mother, but humanity does not. On this reading the question borrows grammar from questions about particular things and applies it where it does not fit. What makes this worth a section rather than a shrug is that it is the cleanest test case available for whether explanation has limits, and whether we can tell a deep question from a malformed one. Progress would mean either showing that nothingness is not a genuine possibility, or showing that the question dissolves under analysis — and the twentieth century's most confident attempt at the latter, logical positivism, collapsed under its own criterion.",
+   "positions": [
+    {
+     "label": "A necessary being",
+     "holds": "Contingent things exist because something exists that could not have failed to.",
+     "case": "It is the only proposal that terminates the explanatory regress without arbitrariness, since a necessary being does not itself invite the question why it exists rather than not. The principle of sufficient reason is not an optional extra but a presupposition of all enquiry, including scientific enquiry; suspending it selectively at the one point where it produces an unwelcome conclusion is not principled.",
+     "cost": "It must show that the notion of a being whose non-existence is impossible is coherent rather than merely stipulated, and Kant's objection that existence is not a property has never been fully disposed of."
+    },
+    {
+     "label": "Brute fact",
+     "holds": "The universe exists and there is no further explanation to be had.",
+     "case": "Explanation has to stop somewhere, and positing a necessary being only relocates the stopping point while adding a new entity. The principle of sufficient reason is an assumption, not a discovery, and quantum mechanics already presents us with events that have causes but no sufficient reason for their particular outcome.",
+     "cost": "We accept brute facts nowhere else in serious enquiry, and the position gives no account of why the stopping point falls here rather than one step earlier or later."
+    },
+    {
+     "label": "Necessity of the physical",
+     "holds": "The laws or mathematical structures could not have been otherwise, so no selection is required.",
+     "case": "On the strongest version, every logically consistent mathematical structure exists, which means existence requires no explanation and nothingness was never an available option. It also explains the applicability of mathematics to physics without treating it as a miracle, and it requires no agent, purpose or brute stipulation.",
+     "cost": "There is no independent evidence for it, and it never explains the difference between a structure being consistent and its being concretely instantiated — which is exactly the difference at issue."
+    },
+    {
+     "label": "The question is malformed",
+     "holds": "Nothingness is not a possible state that could have obtained and then been ruled out.",
+     "case": "Explanation is a relation between things, states or events. Asking why there is anything at all treats absolute nothing as a rival option waiting to be explained away, but there is no coherent description of it and nothing it would be like. Some questions are grammatically well-formed and semantically empty, and this looks like one.",
+     "cost": "Demonstrating that a question is meaningless rather than merely very hard is notoriously difficult, and the philosophical programme built to do exactly that failed by its own standards."
+    }
+   ],
+   "settled": "Cosmology has genuinely narrowed the field. The observable universe has a finite past of about 13.8 billion years, and standard inflationary models cannot be extended infinitely backwards. What cosmology has not done is answer the question, because every physical account begins from laws, fields or a quantum state — none of which is nothing.",
+   "modules": [
+    "sci-3",
+    "rel-6",
+    "sci-2",
+    "phi-2"
+   ]
+  },
+  {
+   "id": "is-the-universe-fine-tuned",
+   "theme": "cosmos",
+   "question": "Is the universe fine-tuned for life, and what would that show?",
+   "hook": "The physics behind the claim is largely accepted by people who draw flatly opposite conclusions from it.",
+   "framing": "The observation is this: several parameters in our best physical theories, if shifted slightly, yield universes with no chemistry, no stars and no structure. The cosmological constant is the most striking case, being smaller than naive quantum field theory estimates by many tens of orders of magnitude while remaining non-zero. Fred Hoyle famously inferred an unexpected carbon resonance from the fact that carbon exists at all. The ratio of electromagnetic to gravitational strength, the neutron-proton mass difference and the strength of the strong force are cited similarly. None of this is fringe physics.\n\nThe interpretation is where it comes apart, and there are legitimate technical caveats before any metaphysics. We cannot vary constants independently and know what happens; some analyses, notably Fred Adams's work on stellar structure, find the life-permitting windows wider than the popular versions claim. We have no idea what range of values was possible, or what probability measure to place on that range, and probabilities without a measure are not probabilities. And <em>life</em> in the argument usually means something like our chemistry, which may be parochial. What makes this question worth serious attention beyond its own subject matter is that it is the strongest live route from physics to metaphysics, and it forces an argument about anthropic reasoning, observer selection and how to reason probabilistically about a sample of one — an argument whose consequences reach into cosmology, risk analysis and the philosophy of science.",
+   "positions": [
+    {
+     "label": "Design",
+     "holds": "Fine-tuning is evidence for a purposive cause behind the physical constants.",
+     "case": "By ordinary standards of inference, an outcome in a narrow window is better explained by a process that aimed at it than by chance. Steven Weinberg's own anthropic prediction of the cosmological constant's magnitude concedes that the coincidence needs explaining. The multiverse response requires positing an enormous unobservable ontology specifically to avoid a conclusion, which is not obviously more economical than positing one cause.",
+     "cost": "It requires a probability distribution over possible constants that nobody can specify, and it immediately invites the question of why the designer has the character it has."
+    },
+    {
+     "label": "Multiverse",
+     "holds": "Many domains with different constants exist, and observers necessarily find themselves in a hospitable one.",
+     "case": "Eternal inflation and the string theory landscape both generate multiple domains as consequences of theories developed for other reasons, not as an ad hoc rescue. Weinberg used anthropic reasoning within this framework to predict the order of magnitude of the cosmological constant before it was measured, which is the kind of thing successful theories do.",
+     "cost": "On most versions the other domains are unobservable in principle, and the framework can accommodate almost any observation — which is precisely what its critics mean when they call it unfalsifiable."
+    },
+    {
+     "label": "Brute or derivable",
+     "holds": "The constants are simply what they are, and may yet turn out to follow from a deeper theory.",
+     "case": "The history of physics is largely a history of apparently arbitrary numbers becoming derived quantities: planetary distances, spectral lines, the proton mass. Treating the current parameter list as fundamental and free has been a mistake at every previous stage, and there is no reason to think we have reached the bottom now.",
+     "cost": "It is a promissory note with nothing behind it yet — no candidate theory derives the constants — and if a deeper theory did fix them, the question would simply move up to why those laws hold."
+    },
+    {
+     "label": "The probabilities are meaningless",
+     "holds": "With one universe and no known distribution over possibilities, the argument's key quantities are undefined.",
+     "case": "Every version of the argument requires a probability that the constants would fall in the life-permitting range, and that requires a space of alternatives and a measure over it. We have neither. Observer selection also means we could not have observed anything else, so the observation carries less information than it appears to.",
+     "cost": "Scientists who reject these probabilities use structurally similar reasoning elsewhere without complaint, and simply refusing to engage leaves the narrowness of some of the windows unaddressed."
+    }
+   ],
+   "settled": "The physics is not in dispute: modest changes to several parameters in the standard models would yield universes without stars, chemistry or complex structure of any kind. What is genuinely disputed is whether that fact is surprising, whether surprise licenses inference, and if so which explanation the evidence favours.",
+   "modules": [
+    "sci-3",
+    "sci-2",
+    "rel-6",
+    "phi-6"
+   ]
+  },
+  {
+   "id": "is-mathematics-discovered",
+   "theme": "cosmos",
+   "question": "Is mathematics discovered or invented?",
+   "hook": "Working mathematicians overwhelmingly report discovering things they did not choose, and the same mathematicians cannot say where the discovered objects are.",
+   "framing": "Eugene Wigner called the applicability of mathematics to physics unreasonably effective, and the phrase stuck because the phenomenon is genuinely odd. Conic sections were studied for centuries before Kepler found the planets moving along them. Riemann developed the geometry of curved spaces with no physical application in view; Einstein needed exactly it. Group theory was pure abstraction before it turned out to organise particle physics. If mathematics is a human invention, this is a run of luck requiring explanation. If it is a description of something real, the question is what that something is and how brains without any causal contact with it come to know its properties.\n\nThat last problem, sharpened by Paul Benacerraf, is the strongest pressure on the realist side: the best account of mathematical truth makes mathematical objects abstract and causally inert, and the best account of knowledge requires some causal or explanatory link between knower and known. You can have a plausible semantics or a plausible epistemology, not obviously both. On the other side, invention struggles with constraint. Nobody chose that there is no largest prime, and communities cannot make theorems come out the way they would like. Progress has come from Gödel's incompleteness results, which show mathematical truth outruns provability in any single formal system; from reverse mathematics, which asks precisely which axioms a theorem requires; and from machine-checked proof, which has forced a more exact account of what a proof <strong>is</strong>.",
+   "positions": [
+    {
+     "label": "Platonism",
+     "holds": "Mathematical objects and structures exist independently, and mathematicians find out about them.",
+     "case": "Mathematicians repeatedly obtain results they did not want, cannot avoid and did not anticipate, and independent discovery of the same theorem by unconnected people is common. Gödel showed that truth outstrips provability in any chosen system, which fits a subject matter better than it fits a game with rules. And mathematics keeps describing physical reality decades before anyone looks.",
+     "cost": "It has no account of epistemic access: abstract objects cause nothing, so it is unclear how any physical process in a brain could come to track them."
+    },
+    {
+     "label": "Nominalism and fictionalism",
+     "holds": "Mathematical statements are useful fictions; no abstract objects exist.",
+     "case": "Parsimony favours a world of concrete things. Hartry Field showed that Newtonian gravitational theory can be reformulated without quantifying over numbers, which undercuts the claim that mathematics is indispensable to science. And effectiveness is less mysterious once you notice we invented the tools for the jobs we had, and forget the vast quantity of mathematics that describes nothing.",
+     "cost": "It must explain the objectivity and sheer resistance of mathematical practice, and the nominalist reconstruction of modern physics remains incomplete after fifty years."
+    },
+    {
+     "label": "Structuralism",
+     "holds": "Mathematics is about structures and the positions within them, not about objects.",
+     "case": "It explains why questions about what the number two is, beyond its place in the sequence, never arise in practice and have no answer. It matches how mathematicians actually work, moving freely between models of the same structure. And it preserves objectivity without committing to a warehouse of particular abstract objects.",
+     "cost": "It still has to say whether the structures themselves exist independently, and whichever answer it gives, it inherits either Platonism's epistemology problem or nominalism's objectivity problem."
+    },
+    {
+     "label": "Cognitive constructivism",
+     "holds": "Mathematics is a human construction built on perceptual, linguistic and cultural capacities.",
+     "case": "There is a documented developmental path from infant number sense and subitising to counting to arithmetic, and animals share the earliest stages. Notation, concepts and even standards of proof are historically contingent, and intuitionists reject the law of excluded middle for infinite domains on principled grounds, showing the rules are not simply given.",
+     "cost": "It struggles badly with mathematics that had no empirical or cognitive origin and later turned out to describe nature exactly, and with the fact that no community can make a theorem false by deciding to."
+    }
+   ],
+   "settled": "Two results constrain every position. Gödel proved that any consistent formal system rich enough for arithmetic contains true statements it cannot prove, so mathematics is not reducible to any chosen set of rules. And mathematics developed with no application in view has repeatedly turned out to describe physical reality decades later — conic sections, Riemannian geometry, group theory — which any account must explain rather than dismiss.",
+   "modules": [
+    "phi-6",
+    "sci-2",
+    "phi-2",
+    "sci-7"
+   ]
+  },
+  {
+   "id": "will-technology-improve-lives",
+   "theme": "future",
+   "question": "Will the next wave of technology leave most people better off?",
+   "hook": "The historical record supplies the strongest argument for optimism and the strongest argument against it, drawn from the same episode.",
+   "framing": "The useful version of this question is not whether output will rise, which it almost certainly will, but whether the gains reach most people and over what timescale. The industrial revolution is the key case and it cuts both ways. British output per head began rising in the late eighteenth century; real wages for most workers did not follow for something like fifty years, a period economic historians call the Engels pause. Living standards eventually rose enormously, which is the optimist's case. They rose two generations after the disruption began, which is the pessimist's.\n\nRecent evidence has sharpened the mechanism. Daron Acemoglu and Pascual Restrepo distinguish automation that displaces workers from tasks from automation that raises their productivity within tasks, and find the recent balance has tilted towards displacement, with losses concentrated among exposed workers who mostly did not recover their earnings. Against this sits the standard counter-example: cash machines did not eliminate bank tellers for decades, because cheaper branches meant more branches. Where artificial intelligence lands is genuinely unknown; aggregate productivity statistics do not yet show a large effect, which is either evidence that the effect is small or a repeat of Robert Solow's observation that computers showed up everywhere except the productivity figures. What has become clear is that the question is at least as institutional as technological: identical machines produced different wage outcomes in different bargaining regimes.",
+   "positions": [
+    {
+     "label": "Optimist",
+     "holds": "Technological change has raised living standards every time, and there is no reason this wave differs.",
+     "case": "Two centuries of rising real incomes, falling working hours and longer lives followed every previous wave, and each wave created categories of work nobody could have named in advance. The assumption that there is a fixed quantity of work to be done has been made and refuted repeatedly since the Luddites. Cheaper goods raise real incomes even for those whose wages stagnate.",
+     "cost": "It treats transitions as noise when they lasted a working lifetime for those who lived through them, and it extrapolates from an era in which machines complemented human judgement rather than substituting for it."
+    },
+    {
+     "label": "Displacement pessimist",
+     "holds": "This wave substitutes for cognitive work, and may not generate offsetting demand for human labour.",
+     "case": "The historical escape route ran through humans moving to tasks machines could not do. If a technology can also do the new tasks, that route closes. Task-level evidence already shows recent automation has been more displacing than augmenting, with wage declines concentrated in exposed occupations and little re-employment at comparable pay.",
+     "cost": "This argument has been made and been wrong at every previous inflection point, and the aggregate productivity data that its mechanism requires have not so far appeared."
+    },
+    {
+     "label": "Institutionalist",
+     "holds": "Outcomes depend on policy, bargaining power and institutions, not on the technology itself.",
+     "case": "The same technologies produced markedly different wage and employment outcomes in Germany and the United States over the same decades. Nineteenth-century gains arrived alongside factory acts, mass schooling, unions and franchise extension, not automatically from the machines. That means the outcome is a choice rather than a forecast.",
+     "cost": "It can rationalise any outcome after the fact, and it assumes states retain leverage over firms and capital that are considerably more mobile than they were when those institutions were built."
+    },
+    {
+     "label": "The harms are not economic",
+     "holds": "The important effects run through attention, autonomy and social fabric, which no output measure captures.",
+     "case": "Attention markets are engineered against the user's stated interests; a handful of firms now own infrastructure that societies depend on and cannot inspect; and adolescent mental health indicators in several countries turned sharply at the point of mass smartphone adoption. None of this appears in GDP, which measures activity rather than benefit.",
+     "cost": "The causal evidence on adolescent mental health is genuinely contested, and the position discounts enormous benefits — access to information, medicine, distance from isolation — that are equally invisible in the statistics."
+    }
+   ],
+   "settled": "The long-run record is clear on two points. Technological change has raised output per person enormously and has not produced permanent mass unemployment in any industrialised economy. It is equally clear that adjustment is neither automatic nor quick: British real wages took roughly half a century to reflect industrialisation, and workers displaced by recent automation have mostly not regained their previous earnings.",
+   "modules": [
+    "tec-8",
+    "eco-6",
+    "his-5",
+    "sci-7"
+   ]
+  },
+  {
+   "id": "is-human-nature-fixed",
+   "theme": "future",
+   "question": "How much of human nature is fixed?",
+   "hook": "Both the claim that we are infinitely malleable and the claim that we are hard-wired have been used to justify programmes that their evidence never supported.",
+   "framing": "Behaviour genetics has produced findings that replicate as reliably as anything in social science: nearly every psychological trait shows substantial heritability, typically in the range of forty to sixty per cent, and shared family environment explains much less of adult variation than intuition suggests. Those results are frequently misread. Heritability is a statement about the sources of variation in a particular population at a particular time, not a measure of how changeable a trait is. Height is highly heritable and rose by several inches in a few generations through nutrition; measured intelligence is highly heritable and rose by roughly a standard deviation across the twentieth century.\n\nOn the other side, the universals are real too. Donald Brown's catalogue of features present in every documented society includes language with grammar, kinship terms, status hierarchies, in-group preference, reciprocity, romantic jealousy, and prohibitions on murder within the group. But cross-cultural psychology has also shown that many findings once treated as human were findings about Western, educated, industrialised, rich and democratic samples, which are unrepresentative even on basic perceptual tasks. And norms change extremely fast when they change: attitudes to homosexuality in Britain moved from majority disapproval to majority acceptance within about twenty-five years. What turns on the answer is the scope of education, criminal justice and social reform — and, more uncomfortably, whether persistent differences between groups should be treated as given or as artefacts of circumstance.",
+   "positions": [
+    {
+     "label": "Substantial fixity",
+     "holds": "A species-typical architecture constrains what human societies can be.",
+     "case": "Universals recur everywhere they have been looked for, and heritability estimates for personality, cognitive ability and psychiatric risk are consistent across populations and methods, including adoption designs that break the usual confounds. Projects premised on human malleability — the reconstruction of persons under twentieth-century revolutionary regimes — required escalating coercion and still failed.",
+     "cost": "Heritability describes variance within a population and says nothing directly about what is modifiable, and adaptive explanations for specific behaviours are usually underdetermined by the available evidence."
+    },
+    {
+     "label": "Substantial plasticity",
+     "holds": "Most of what is taken for nature is developmental, cultural and historically recent.",
+     "case": "Measured intelligence moved by around a standard deviation in decades, which no genetic change can explain. Homicide rates vary by two orders of magnitude across societies and fell by a similar factor within Europe over five centuries. Practices once assumed rooted in human nature — duelling, foot-binding, public execution as entertainment — vanished within a generation or two.",
+     "cost": "The limits of plasticity show up as reliably as its successes, and confidence in reshaping people has an ugly record of licensing coercion when persuasion failed."
+    },
+    {
+     "label": "Gene-culture coevolution",
+     "holds": "Culture is itself an inheritance system, and it has reshaped human biology.",
+     "case": "Lactase persistence, alcohol metabolism variants and starch digestion all evolved in response to cultural practices, on timescales of a few thousand years. Joseph Henrich's case is that our distinctive adaptation is cultural learning itself, which means the dichotomy between nature and culture misdescribes the system rather than dividing it.",
+     "cost": "It makes prediction very hard: if biology and culture continuously reconstitute each other, knowing a trait's heritability tells you almost nothing about whether it can be changed."
+    },
+    {
+     "label": "Philosophical and religious anthropology",
+     "holds": "There is a normatively fixed human nature — reason, love, conscience, the capacity for self-betrayal — that trait statistics cannot capture.",
+     "case": "It accounts for the fact that people across radically different societies recognise each other's moral claims, and that every culture produces something like conscience and something like the idea of a life going wrong. The empirical literature measures variation between people, and never addresses what a human being is <em>for</em>, which is the question that governs how we should treat one.",
+     "cost": "The claim is not testable, and the same framework has repeatedly been used to declare contingent social arrangements natural and therefore beyond challenge."
+    }
+   ],
+   "settled": "Heritability of psychological traits is substantial and consistently replicated, and no trait is anywhere near fully heritable. It is equally established that high heritability does not imply fixity: height and measured intelligence are both highly heritable and both changed dramatically within a few generations through environmental change alone.",
+   "modules": [
+    "psy-4",
+    "sci-4",
+    "soc-1",
+    "rel-1"
+   ]
+  },
+  {
+   "id": "what-we-owe-future-generations",
+   "theme": "future",
+   "question": "What do we owe people who do not exist yet?",
+   "hook": "Both the standard economic tool for evaluating the future and the standard democratic mechanism systematically discount people who cannot vote, buy or complain.",
+   "framing": "Derek Parfit set out the central puzzle. Large-scale policies affect who meets whom and when children are conceived, so a policy pursued for two centuries changes the identity of everyone born afterwards. A person born into a depleted world cannot complain of being made worse off by the depletion, because without it they would not exist at all. That is the non-identity problem, and it resists every straightforward repair: either obligations are owed to people rather than to no one in particular, in which case they seem to vanish, or they are owed to nobody in particular, which requires a different theory of wrongdoing altogether.\n\nThe economic version is more tractable and just as consequential. Cost-benefit analysis discounts future costs and benefits, and the rate chosen dominates the result. Nicholas Stern used a rate of roughly 1.4 per cent and concluded that immediate, large climate action was justified; William Nordhaus used something closer to 4.5 per cent and concluded that gradual action was optimal. The entire policy disagreement sits in that gap, and it is a moral disagreement wearing technical clothes. Useful progress has come from separating the two components of a discount rate: the growth component, defensible because future people are likely to be richer, and pure time preference — counting a person for less simply because they are later — which almost nobody defends once it is stated plainly. Institutional experiments exist too: Wales has a Future Generations Commissioner and Finland a parliamentary Committee for the Future, though neither has yet been tested against a serious conflict with present interests.",
+   "positions": [
+    {
+     "label": "Strong intergenerational duty",
+     "holds": "Future people count fully; their welfare should not be discounted for being later.",
+     "case": "A person's date of birth is as morally arbitrary as their place of birth, and we long ago stopped treating the latter as a reason to count someone for less. Sidgwick, Ramsey and Parfit all rejected pure time preference as indefensible rather than merely unfashionable. Given how many people may yet live, even modest effects on them outweigh large effects on us.",
+     "cost": "It can license substantial sacrifices by people who are actually poor now for the benefit of hypothetical people who may be much richer, and aggregating over vast numbers produces conclusions almost everyone finds intolerable."
+    },
+    {
+     "label": "Defenders of discounting",
+     "holds": "Discounting future costs and benefits is legitimate and unavoidable.",
+     "case": "Future generations will very probably be richer, so a pound delivers less welfare to them than to someone poor today, which is a straightforwardly egalitarian reason to discount. Uncertainty compounds with distance, and our record of predicting what descendants will need is poor. Investing in growth and capacity may serve them better than transferring resources forward directly.",
+     "cost": "At conventional rates a catastrophe a century out shrinks to near-nothing in present value, which is a conclusion its own defenders decline to endorse when it is stated in those terms."
+    },
+    {
+     "label": "Stewardship",
+     "holds": "We hold what we have in trust, and the relationship is inheritance rather than calculation.",
+     "case": "Burke described society as a partnership between the dead, the living and the unborn, which captures how people actually experience obligations to descendants — as trusteeship, not as an optimisation. Traditions with explicit stewardship duties, from the sabbatical year to the seventh-generation principle, have in practice sustained commons for centuries where formal calculation did not.",
+     "cost": "It offers no procedure for trade-offs when present and future interests genuinely conflict, and the same appeal to inheritance has been used to defend unjust arrangements simply because they were inherited."
+    },
+    {
+     "label": "Presentist scepticism",
+     "holds": "Obligations require identifiable bearers, and distant future people are not identifiable in the required way.",
+     "case": "The non-identity problem means the specific people who exist in a hundred years are not wronged by the policies that determined their existence. Our knowledge of what they will need is poor: a Victorian trying to provision us would have stockpiled coal and horse fodder. Making the present poorer for speculative future benefit has a bad track record.",
+     "cost": "It implies that almost nothing is owed to people a century hence, which very few are willing to accept, and it treats uncertainty as symmetrical when several of the harms in question are irreversible."
+    }
+   ],
+   "settled": "Two points command wide agreement across the divide. Pure time preference — discounting people simply for being later — has almost no explicit defenders; the real dispute concerns growth and uncertainty. And several of the harms under discussion, including species extinction and long-lived radioactive waste, are irreversible on any human timescale, which removes the usual reassurance that later generations can correct our mistakes.",
+   "modules": [
+    "phi-3",
+    "sci-6",
+    "eco-5",
+    "pol-5"
+   ]
+  }
+ ]
+}
