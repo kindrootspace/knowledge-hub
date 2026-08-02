@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-02 20:26 UTC",
+ "updated": "2026-08-02 22:10 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-     "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 16:45:03 GMT"
+     "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+     "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 20:36:37 GMT"
     },
     {
-     "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-     "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 17:53:09 GMT"
+     "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+     "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 21:18:26 GMT"
+    },
+    {
+     "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+     "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 21:02:29 GMT"
     },
     {
      "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
@@ -20,29 +25,24 @@
      "date": "Sun, 02 Aug 2026 14:15:07 GMT"
     },
     {
+     "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+     "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 17:53:09 GMT"
+    },
+    {
      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
      "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 02 Aug 2026 15:48:00 GMT"
     },
     {
+     "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
+     "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 21:45:22 GMT"
+    },
+    {
      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 02 Aug 2026 11:12:00 GMT"
-    },
-    {
-     "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-     "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 15:50:59 GMT"
-    },
-    {
-     "title": "Massive Attack respond after Singapore ban over Palestine display",
-     "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 17:40:02 GMT"
-    },
-    {
-     "title": "Three in hospital after fire and crush at festival in London",
-     "link": "https://www.bbc.co.uk/news/articles/c05q964n4llo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 13:36:15 GMT"
     }
    ]
   },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Wildfires force mass evacuations across the Pacific Northwest",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 21:47:18 +0000"
+    },
+    {
+     "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 21:18:03 +0000"
+    },
+    {
+     "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 20:45:01 +0000"
+    },
+    {
+     "title": "Venezuela and the Dominican Republic say they will work to restore ties",
+     "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 20:29:32 +0000"
+    },
+    {
      "title": "Is Washington dictating the agenda for talks in Venezuela?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
      "date": "Sun, 02 Aug 2026 20:01:21 +0000"
@@ -203,26 +223,6 @@
      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
      "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
      "date": "Sun, 02 Aug 2026 19:30:25 +0000"
-    },
-    {
-     "title": "Most Americans say Trump has gone too far on US immigration: Poll",
-     "link": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 19:26:05 +0000"
-    },
-    {
-     "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-     "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 19:08:06 +0000"
-    },
-    {
-     "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 18:38:47 +0000"
-    },
-    {
-     "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
-     "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 18:37:23 +0000"
     }
    ]
   },
