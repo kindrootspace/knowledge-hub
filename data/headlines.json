@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03 15:16 UTC",
+ "updated": "2026-08-03 17:21 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,32 +12,32 @@
     {
      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 14:18:30 GMT"
+     "date": "Mon, 03 Aug 2026 15:59:48 GMT"
     },
     {
-     "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
-     "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 03:32:21 GMT"
+     "title": "France hits out at Reform UK plan to return migrants using Navy",
+     "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 16:48:58 GMT"
+    },
+    {
+     "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
+     "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 15:29:13 GMT"
+    },
+    {
+     "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+     "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 16:27:43 GMT"
+    },
+    {
+     "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
+     "link": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 16:34:36 GMT"
     },
     {
      "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
      "link": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 13:35:45 GMT"
-    },
-    {
-     "title": "Reform UK insists using Navy to stop migrant boats would be legal",
-     "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 14:57:19 GMT"
-    },
-    {
-     "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
-     "link": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 11:14:33 GMT"
-    },
-    {
-     "title": "Mother has pioneering womb surgery to fix baby's intestines - before he's even born",
-     "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 05:02:25 GMT"
     },
     {
      "title": "X Factor finalist denies murdering influencer by running her over with car",
@@ -49,6 +49,11 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+     "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 15:57:27 GMT"
+    },
     {
      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
      "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
@@ -83,17 +88,22 @@
      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
      "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 31 Jul 2026 21:57:59 GMT"
-    },
-    {
-     "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-     "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 31 Jul 2026 12:19:20 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+     "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+     "date": "Mon, 03 Aug 2026 16:26:45 GMT"
+    },
+    {
+     "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+     "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+     "date": "Mon, 03 Aug 2026 16:05:20 GMT"
+    },
     {
      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
      "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
@@ -108,16 +118,6 @@
      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
      "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
      "date": "Sun, 02 Aug 2026 04:00:11 GMT"
-    },
-    {
-     "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-     "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-     "date": "Sat, 01 Aug 2026 19:03:39 GMT"
-    },
-    {
-     "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
-     "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-     "date": "Fri, 31 Jul 2026 17:52:11 GMT"
     },
     {
      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
-     "link": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:47:20 +0000"
+     "title": "New illegal Israeli outpost spotted in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 17:07:37 +0000"
     },
     {
-     "title": "Trump slams Chevron CEO, demands immediate reduction in US fuel prices",
-     "link": "https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:33:33 +0000"
+     "title": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
+     "link": "https://www.aljazeera.com/news/2026/8/3/uncertainty-on-iranians-minds-as-trump-fluctuates-on-war-and-talk?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 16:33:08 +0000"
     },
     {
-     "title": "Pochettino agrees to new manager contract with US Soccer",
-     "link": "https://www.aljazeera.com/sports/2026/8/3/pochettino-agrees-to-new-us-coach-soccer-contract-through-to-2030-world-cup?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:24:24 +0000"
+     "title": "Inside the Palestine Action protests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 16:30:56 +0000"
     },
     {
-     "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
-     "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:23:07 +0000"
+     "title": "Iraqi Kurdish regional leader meets Syrian president in Damascus",
+     "link": "https://www.aljazeera.com/news/2026/8/3/iraqi-kurdish-regional-leader-meets-syrian-president-in-damascus?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 16:12:55 +0000"
     },
     {
-     "title": "FIFA’s Infantino sought Trump backing after World Cup selloff plan: Report",
-     "link": "https://www.aljazeera.com/sports/2026/8/3/fifas-infantino-sought-trump-backing-after-failed-world-cup-stakes-sell-off-plan?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:18:48 +0000"
+     "title": "Romanian navy blasts riverbed to protect nuclear plant",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 16:01:43 +0000"
     },
     {
-     "title": "Hilltop Youth: A group intent on taking over the West Bank by violence",
-     "link": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:15:43 +0000"
+     "title": "Indian court acquits ex-wrestling chief in sexual harassment case",
+     "link": "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 15:56:01 +0000"
     },
     {
-     "title": "Why does Spain have ‘enclaves’ in North Africa?",
-     "link": "https://www.aljazeera.com/news/2026/8/3/why-does-spain-have-enclaves-in-north-africa?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 14:02:43 +0000"
+     "title": "How Israel and the European far right tried to exploit Ceuta",
+     "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 15:41:20 +0000"
     },
     {
-     "title": "Families search for loved ones after deadly Ceuta crossings",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/families-search-for-loved-ones-after-deadly-ceuta-crossings?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 13:35:25 +0000"
+     "title": "Australia’s under-16 social media ban failing, study shows: What it means",
+     "link": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 15:21:55 +0000"
     }
    ]
   },
@@ -255,6 +255,11 @@
      "date": ""
     },
     {
+     "title": "Cancer-fighting antibodies with a one-two punch take aim at tumours",
+     "link": "https://www.nature.com/articles/d41586-026-02398-4",
+     "date": ""
+    },
+    {
      "title": "Science-backed tips on how to avoid distractions",
      "link": "https://www.nature.com/articles/d41586-026-01850-9",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "‘A waste of time for all of us’: caught in the crossfire of the peer-review wars",
      "link": "https://www.nature.com/articles/d41586-026-01360-8",
-     "date": ""
-    },
-    {
-     "title": "The secret relationships that govern life on Earth",
-     "link": "https://www.nature.com/articles/d41586-026-02387-7",
      "date": ""
     }
    ]
