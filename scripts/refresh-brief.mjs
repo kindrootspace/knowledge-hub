@@ -1,8 +1,7 @@
-/* Optional companion to .github/workflows/refresh-brief.yml.
-   Asks Claude, with web search, to research the day and emit a brief.json
-   matching the shape the site expects. Validates before writing, so a bad
-   response leaves yesterday's brief in place rather than breaking the site. */
-import { writeFileSync } from "node:fs";
+/* Writes data/brief.json. Runs on a GitHub runner, so it needs no browser and
+   no Cowork session — only an ANTHROPIC_API_KEY repository secret.
+   Validates hard before writing: a bad response leaves yesterday's brief alone. */
+import { writeFileSync, readFileSync } from "node:fs";
 
 const KEY = process.env.ANTHROPIC_API_KEY;
 if (!KEY) { console.log("No ANTHROPIC_API_KEY — skipping."); process.exit(0); }
@@ -10,12 +9,33 @@ if (!KEY) { console.log("No ANTHROPIC_API_KEY — skipping."); process.exit(0); 
 const today = new Date().toLocaleDateString("en-GB",
   { weekday:"long", day:"numeric", month:"long", year:"numeric", timeZone:"Europe/London" });
 
-const PROMPT = `Today is ${today}. Research the most important news of the last 24-48 hours
-across five beats: UK domestic, US, world/geopolitics, economics and markets, and
-science/technology. Use web search. Fetch real sources; never invent a story, a figure or a
-quotation, and omit anything you cannot verify.
+let previous = null;
+try { previous = JSON.parse(readFileSync("data/brief.json", "utf8")); } catch {}
+const carry = previous && previous.indicators
+  ? "\n\nYesterday's indicator values, to carry forward where nothing has moved:\n" +
+    JSON.stringify(previous.indicators)
+  : "";
 
-Reply with ONE JSON object and nothing else — no prose, no code fences:
+const PROMPT = `Today is ${today}. Research the most important news of the last 24-48 hours and
+return it as a single JSON object. Use web search properly — open actual articles, do not work
+from search-result snippets.
+
+Five beats, in this order of effort:
+1. UK domestic — politics, the economy, public services. This beat matters most; the reader is
+   in London. Search specifically and separately for: UK politics, the Prime Minister, the
+   Treasury and Bank of England, the NHS, and any by-election or vote this week. Use BBC News,
+   the Guardian, Sky News, the FT, the Times, Politico Europe, the Independent, plus gov.uk,
+   ONS and Bank of England releases. Do not fill this beat with departmental press notices if
+   real reporting exists; date-check everything and prefer the last 48 hours.
+2. US — politics, courts, policy.
+3. World and geopolitics.
+4. Economics and markets — central banks, inflation and jobs data, major moves, trade.
+5. Science and technology — research findings, health, climate, space, AI.
+
+NEVER invent a story, a quotation or a figure. Omit anything you cannot verify against a real
+source you actually opened. A shorter honest brief beats a padded one.${carry}
+
+Reply with ONE JSON object and nothing else — no prose, no markdown fences:
 
 {
  "date": "${today}",
@@ -25,9 +45,9 @@ Reply with ONE JSON object and nothing else — no prose, no code fences:
  "indicators": [{"label":"BoE Bank Rate","value":"3.75%","note":"held 30 Jul"}],
  "items": [{
    "headline": "short factual headline",
-   "cat": "uk|us|world|econ|sci",
+   "cat": "uk",
    "summary": "3-5 sentences of verified fact with names, numbers and dates",
-   "why": "2-3 sentences of structural analysis for an informed generalist, not a restatement",
+   "why": "2-3 sentences of structural analysis for an informed generalist, never a restatement",
    "source": "outlet name",
    "url": "https://..."
  }],
@@ -35,41 +55,59 @@ Reply with ONE JSON object and nothing else — no prose, no code fences:
  "sources": [{"name":"Reuters World","url":"https://www.reuters.com/world/"}]
 }
 
-18-24 items. British English, no hype, no emoji. Keep fact and analysis separate.`;
+18-24 items, of which at least 6 must be UK. "cat" is one of uk, us, world, econ, sci.
+British English, no hype, no emoji, fact and analysis kept strictly separate.`;
 
-const res = await fetch("https://api.anthropic.com/v1/messages", {
-  method: "POST",
-  headers: {
-    "x-api-key": KEY,
-    "anthropic-version": "2023-06-01",
-    "content-type": "application/json"
-  },
-  body: JSON.stringify({
-    model: "claude-opus-4-5",
-    max_tokens: 16000,
-    tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 20 }],
-    messages: [{ role: "user", content: PROMPT }]
-  })
-});
+async function ask(){
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: { "x-api-key": KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+    body: JSON.stringify({
+      model: "claude-opus-4-5",
+      max_tokens: 20000,
+      tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 40 }],
+      messages: [{ role: "user", content: PROMPT }]
+    })
+  });
+  if (!res.ok) throw new Error("API " + res.status + " " + (await res.text()).slice(0, 300));
+  const data = await res.json();
+  const text = (data.content || []).filter(b => b.type === "text").map(b => b.text).join("");
+  const m = text.match(/\{[\s\S]*\}/);
+  if (!m) throw new Error("no JSON in reply");
+  return JSON.parse(m[0]);
+}
 
-if (!res.ok) { console.error("API error", res.status, (await res.text()).slice(0, 500)); process.exit(1); }
+function validate(b){
+  const cats = ["uk","us","world","econ","sci"];
+  if (!b || typeof b.lede !== "string" || b.lede.length < 60) return "lede missing or too short";
+  if (!Array.isArray(b.items) || b.items.length < 12) return "fewer than 12 items";
+  for (const i of b.items) {
+    if (!i.headline || !i.summary || !i.why || !i.url) return "an item is missing fields";
+    if (!cats.includes(i.cat)) return "bad cat: " + i.cat;
+    if (!/^https?:\/\//.test(i.url)) return "bad url: " + i.url;
+    if (i.summary.length < 80) return "a summary is too thin";
+  }
+  if (b.items.filter(i => i.cat === "uk").length < 3) return "fewer than 3 UK items";
+  if (!Array.isArray(b.threeThings) || b.threeThings.length !== 3) return "threeThings must be 3";
+  return null;
+}
 
-const data = await res.json();
-const text = (data.content || []).filter(b => b.type === "text").map(b => b.text).join("");
-const match = text.match(/\{[\s\S]*\}/);
-if (!match) { console.error("No JSON found in the reply."); process.exit(1); }
+let brief = null, err = null;
+for (let attempt = 1; attempt <= 2 && !brief; attempt++) {
+  try {
+    const b = await ask();
+    const bad = validate(b);
+    if (bad) { err = bad; console.log(`Attempt ${attempt} failed validation: ${bad}`); continue; }
+    brief = b;
+  } catch (e) { err = e.message; console.log(`Attempt ${attempt} errored: ${e.message}`); }
+}
 
-let brief;
-try { brief = JSON.parse(match[0]); }
-catch (e) { console.error("Reply was not valid JSON:", e.message); process.exit(1); }
+if (!brief) { console.error("Giving up; keeping the existing brief. Last problem: " + err); process.exit(1); }
 
-const ok = brief && typeof brief.lede === "string"
-  && Array.isArray(brief.items) && brief.items.length >= 8
-  && brief.items.every(i => i.headline && i.summary && i.why && i.url
-       && ["uk","us","world","econ","sci"].includes(i.cat));
-if (!ok) { console.error("Brief failed validation — keeping the existing one."); process.exit(1); }
-
-for (const k of ["threeThings","indicators","watch","sources"]) if (!Array.isArray(brief[k])) brief[k] = [];
+for (const k of ["indicators","watch","sources"]) if (!Array.isArray(brief[k])) brief[k] = [];
+if (!brief.indicators.length && previous) brief.indicators = previous.indicators || [];
+if (!brief.sources.length && previous) brief.sources = previous.sources || [];
 
 writeFileSync("data/brief.json", JSON.stringify(brief, null, 1));
-console.log(`Wrote ${brief.items.length} stories.`);
+const n = brief.items.length, uk = brief.items.filter(i => i.cat === "uk").length;
+console.log(`Wrote ${n} stories (${uk} UK).`);
