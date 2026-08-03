@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-03 21:30 UTC",
+ "updated": "2026-08-03 23:19 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Rapists and child sex offenders to be barred from early release scheme",
+     "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 21:35:15 GMT"
+    },
     {
      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
@@ -20,14 +25,14 @@
      "date": "Mon, 03 Aug 2026 19:42:55 GMT"
     },
     {
-     "title": "France hits out at Reform UK plan to return migrants using Navy",
-     "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 16:48:58 GMT"
-    },
-    {
      "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
      "link": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 20:09:46 GMT"
+    },
+    {
+     "title": "There's a reason child vaccination rates are falling - and it's not social media",
+     "link": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:10:05 GMT"
     },
     {
      "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
@@ -35,14 +40,9 @@
      "date": "Mon, 03 Aug 2026 15:29:13 GMT"
     },
     {
-     "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-     "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 16:27:43 GMT"
-    },
-    {
-     "title": "Son who kept mum's body in freezer for years collected £78k of her benefits",
-     "link": "https://www.bbc.co.uk/news/articles/c0rd0r5zez9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 16:34:36 GMT"
+     "title": "France hits out at Reform UK plan to return migrants using Navy",
+     "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 16:48:58 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
+     "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
+     "date": "Mon, 03 Aug 2026 18:53:15 -0400"
+    },
+    {
      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
      "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
      "date": "Mon, 03 Aug 2026 17:17:49 -0400"
@@ -173,17 +178,37 @@
      "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
      "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
      "date": "Mon, 03 Aug 2026 10:05:24 -0400"
-    },
-    {
-     "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-     "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-     "date": "Mon, 03 Aug 2026 07:57:06 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
+     "link": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 23:02:07 +0000"
+    },
+    {
+     "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
+     "link": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 22:35:47 +0000"
+    },
+    {
+     "title": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
+     "link": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 22:31:08 +0000"
+    },
+    {
+     "title": "Migrants await asylum in Ceuta amid hunger and thirst",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 21:17:21 +0000"
+    },
+    {
+     "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 21:05:11 +0000"
+    },
     {
      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Survivors reach port after deadly Indonesia ferry fire",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
      "date": "Mon, 03 Aug 2026 19:55:36 +0000"
-    },
-    {
-     "title": "Clergy members arrested while protesting at Senate office",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 19:53:59 +0000"
-    },
-    {
-     "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 19:45:30 +0000"
-    },
-    {
-     "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 18:55:25 +0000"
-    },
-    {
-     "title": "US announces first two deaths from cyclospora outbreak",
-     "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 18:35:09 +0000"
-    },
-    {
-     "title": "Can Netanyahu survive Israel’s most consequential election?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 18:16:00 +0000"
     }
    ]
   },
