@@ -1,5 +1,5 @@
 /* ============ app ============ */
-let TRACKS, DONE, GREAT_THINKERS, BIG_QUESTIONS, BRIEF, PROGRESS, HEADLINES;
+let TRACKS, GREAT_THINKERS, BIG_QUESTIONS, BRIEF, PROGRESS, HEADLINES;
 let ROTATION, DAY, HUB_START;
 let state = {view:"today", track:null, mod:null, person:null, filter:"all",
              era:"all", field:"all", pq:"", thTab:"curated", qTheme:"all"};
@@ -33,7 +33,6 @@ async function loadData(){
     return Math.max(0, Math.round((d0 - s0) / 86400000));
   })();
   pick = (arr, offset) => arr[(DAY + (offset || 0)) % arr.length];
-  DONE = new Set([...PROGRESS, ...ROTATION.slice(0, DAY % (ROTATION.length + 1))]);
   TRACKS.forEach(t => t.modules.forEach(m => { MODMAP[m.id] = {t: t, m: m}; }));
 }
 
@@ -43,7 +42,6 @@ async function loadData(){
    subject: pol-1, phi-1, eco-1 … soc-1, pol-2, phi-2 … Everything below is derived
    from today's date, so the hub advances on its own between refreshes. */
 
-/* auto-advance: everything earlier in the rotation counts as covered */
 
 
 const $ = s => document.querySelector(s);
@@ -56,6 +54,320 @@ const MODMAP = {};
 
 const accentOf = id => (MODMAP[id] ? MODMAP[id].t.accent : "#94a3b8");
 
+/* ==========================================================================
+   LEARNING ENGINE — persistence, spaced repetition, streaks, mastery.
+
+   Everything a library does not do: track what you have actually read, turn it
+   into recall cards, schedule them so you meet each one again just before you
+   would forget it, and keep score. State lives in localStorage on this device;
+   there is an export/import in Progress so it is not trapped in one browser.
+   ========================================================================== */
+
+const KEY = "kh:v2";
+const DAY_MS = 86400000;
+const todayNum = () => Math.floor(Date.now() / DAY_MS);
+
+/* interval ladder in days; Again drops you back, Easy jumps ahead */
+const LADDER = [0, 1, 2, 4, 8, 16, 32, 64, 120, 240];
+
+const Store = (function(){
+  let s = null, ok = true;
+  const blank = () => ({
+    v: 2, started: todayNum(),
+    read: {},            // moduleId -> day number first completed
+    cards: {},           // cardId -> {s: ladder step, due: day, reps, lapses}
+    log: {},             // day -> {reviews, again}
+    streak: {last: null, count: 0, best: 0}
+  });
+  function load(){
+    if (s) return s;
+    try {
+      const raw = localStorage.getItem(KEY);
+      s = raw ? JSON.parse(raw) : blank();
+      if (!s || s.v !== 2) s = blank();
+    } catch(e) { ok = false; s = blank(); }
+    return s;
+  }
+  function save(){
+    if (!ok) return;
+    try { localStorage.setItem(KEY, JSON.stringify(s)); }
+    catch(e) { ok = false; }
+  }
+  return {
+    get available(){ return ok; },
+    get state(){ return load(); },
+    save: save,
+    reset: function(){ s = blank(); save(); },
+    replace: function(obj){ s = obj; save(); }
+  };
+})();
+
+/* ---------- cards ---------- */
+function cardsFor(modId){
+  const rec = MODMAP[modId];
+  if (!rec) return [];
+  const out = [];
+  rec.m.quiz.forEach(function(q, i){
+    out.push({id: "q:" + modId + ":" + i, kind: "recall", front: q.q, back: q.a, mod: modId});
+  });
+  rec.m.concepts.forEach(function(c, i){
+    out.push({id: "c:" + modId + ":" + i, kind: "concept", front: "What does <em>" + esc(c.term) + "</em> mean?", back: c.def, mod: modId, term: c.term});
+  });
+  return out;
+}
+function allCards(){
+  const out = [];
+  Object.keys(Store.state.read).forEach(function(mid){ out.push.apply(out, cardsFor(mid)); });
+  return out;
+}
+function dueCards(){
+  const t = todayNum(), st = Store.state;
+  return allCards().filter(function(c){
+    const rec = st.cards[c.id];
+    return !rec || rec.due <= t;
+  });
+}
+function scheduleCard(id, rating){
+  const st = Store.state, t = todayNum();
+  const rec = st.cards[id] || {s: 0, due: t, reps: 0, lapses: 0};
+  if (rating === "again")      { rec.s = 0; rec.lapses++; }
+  else if (rating === "hard")  { rec.s = Math.max(1, rec.s); }
+  else if (rating === "good")  { rec.s = Math.min(LADDER.length - 1, rec.s + 1); }
+  else                         { rec.s = Math.min(LADDER.length - 1, rec.s + 2); }
+  rec.reps++;
+  rec.due = t + Math.max(rating === "again" ? 0 : 1, LADDER[rec.s]);
+  st.cards[id] = rec;
+
+  const d = st.log[t] || {reviews: 0, again: 0};
+  d.reviews++; if (rating === "again") d.again++;
+  st.log[t] = d;
+  touchStreak();
+  Store.save();
+}
+
+/* ---------- reading & streak ---------- */
+function markRead(modId){
+  const st = Store.state;
+  if (!st.read[modId]) { st.read[modId] = todayNum(); touchStreak(); Store.save(); }
+}
+function unmarkRead(modId){
+  const st = Store.state;
+  delete st.read[modId];
+  cardsFor(modId).forEach(function(c){ delete st.cards[c.id]; });
+  Store.save();
+}
+function touchStreak(){
+  const st = Store.state, t = todayNum();
+  if (st.streak.last === t) return;
+  st.streak.count = (st.streak.last === t - 1) ? st.streak.count + 1 : 1;
+  st.streak.last = t;
+  if (st.streak.count > st.streak.best) st.streak.best = st.streak.count;
+}
+function streakNow(){
+  const st = Store.state, t = todayNum();
+  if (st.streak.last === t || st.streak.last === t - 1) return st.streak.count;
+  return 0;
+}
+function activeToday(){ return Store.state.streak.last === todayNum(); }
+
+/* DONE keeps the old call sites working, now backed by real storage */
+const DONE = {
+  has: function(id){ return !!Store.state.read[id]; },
+  add: function(id){ markRead(id); },
+  delete: function(id){ unmarkRead(id); }
+};
+
+/* ---------- mastery ---------- */
+function masteryOf(track){
+  const st = Store.state;
+  let total = 0, sum = 0;
+  track.modules.forEach(function(m){
+    total += 1;
+    if (!st.read[m.id]) return;
+    const cs = cardsFor(m.id);
+    if (!cs.length) { sum += 1; return; }
+    let strength = 0;
+    cs.forEach(function(c){
+      const r = st.cards[c.id];
+      strength += r ? Math.min(1, r.s / 5) : 0;
+    });
+    /* half for having read it, half for how well the cards are holding */
+    sum += 0.5 + 0.5 * (strength / cs.length);
+  });
+  return total ? sum / total : 0;
+}
+function hubStats(){
+  const st = Store.state, t = todayNum();
+  const cards = allCards();
+  let strong = 0;
+  cards.forEach(function(c){ const r = st.cards[c.id]; if (r && r.s >= 5) strong++; });
+  let reviews = 0, again = 0;
+  Object.keys(st.log).forEach(function(k){ reviews += st.log[k].reviews; again += st.log[k].again; });
+  return {
+    read: Object.keys(st.read).length,
+    totalModules: TRACKS.reduce(function(a,x){ return a + x.modules.length; }, 0),
+    cards: cards.length,
+    strong: strong,
+    due: dueCards().length,
+    reviews: reviews,
+    recall: reviews ? Math.round(100 * (reviews - again) / reviews) : null,
+    streak: streakNow(),
+    best: st.streak.best,
+    daysActive: Object.keys(st.log).length
+  };
+}
+
+/* ---------- review session ---------- */
+let session = null;
+function startSession(pool){
+  const cards = (pool || dueCards());
+  /* stable shuffle from the day number so a refresh does not reorder mid-session */
+  let seed = todayNum() * 7919 + cards.length;
+  const rnd = function(){ seed = (seed * 1103515245 + 12345) & 0x7fffffff; return seed / 0x7fffffff; };
+  const arr = cards.slice();
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(rnd() * (i + 1));
+    const tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
+  }
+  session = {queue: arr, i: 0, shown: false, done: 0, again: 0, total: arr.length};
+}
+
+function viewReview(){
+  if (!Store.available) {
+    return '<p class="eyebrow">Recall</p><h2 class="title">Recall practice</h2>' +
+      '<div class="note">This browser is blocking local storage, so progress cannot be saved. ' +
+      'Private or incognito windows usually do this. Everything else in the hub still works.</div>';
+  }
+  const st = hubStats();
+
+  if (!st.cards) {
+    return '<p class="eyebrow">Recall</p><h2 class="title">Recall practice</h2>' +
+      '<p class="sub">Cards are made from the modules you finish — two recall questions and each key concept. ' +
+      'Read a module and mark it done, and it starts feeding this.</p>' +
+      '<div class="empty"><p>Nothing to practise yet.</p>' +
+      '<button class="go" data-jump="today" style="--ac:#fbbf24">Start today\'s module</button></div>';
+  }
+
+  if (!session) {
+    const due = st.due;
+    return '<p class="eyebrow">Recall</p><h2 class="title">Recall practice</h2>' +
+      '<p class="sub">The testing effect is the most robust finding in the study of learning: retrieving something is far more durable than re-reading it. Each card comes back just before you would have forgotten it.</p>' +
+      '<div class="revstats">' +
+        '<div><span class="v">' + due + '</span><span class="k">due now</span></div>' +
+        '<div><span class="v">' + st.cards + '</span><span class="k">cards in rotation</span></div>' +
+        '<div><span class="v">' + st.strong + '</span><span class="k">well established</span></div>' +
+        '<div><span class="v">' + (st.recall === null ? "&mdash;" : st.recall + "%") + '</span><span class="k">recalled first try</span></div>' +
+      '</div>' +
+      (due
+        ? '<div class="startrow"><button class="go" data-startrev="1" style="--ac:#4ade80">Start &mdash; ' + due + ' card' + (due===1?'':'s') + '</button>' +
+          '<span class="meta">about ' + Math.max(1, Math.round(due * 0.25)) + ' min</span></div>'
+        : '<div class="empty"><p>Nothing due. Come back tomorrow &mdash; spacing is doing the work.</p>' +
+          '<button class="pill" data-startall="1" style="cursor:pointer">Practise anyway</button></div>');
+  }
+
+  if (session.i >= session.queue.length) {
+    const got = session.total - session.again;
+    const pct = session.total ? Math.round(100 * got / session.total) : 0;
+    const s2 = hubStats();
+    return '<p class="eyebrow">Recall</p><h2 class="title">Done for now</h2>' +
+      '<div class="revstats">' +
+        '<div><span class="v">' + session.total + '</span><span class="k">reviewed</span></div>' +
+        '<div><span class="v">' + pct + '%</span><span class="k">first try</span></div>' +
+        '<div><span class="v">' + s2.streak + '</span><span class="k">day streak</span></div>' +
+        '<div><span class="v">' + s2.due + '</span><span class="k">still due</span></div>' +
+      '</div>' +
+      '<p class="sub" style="margin-top:20px">Anything you rated <em>Again</em> comes back tomorrow. The rest moves further out each time you get it.</p>' +
+      '<div class="startrow">' +
+        (s2.due ? '<button class="go" data-startrev="1" style="--ac:#4ade80">Keep going</button>' : '') +
+        '<button class="pill" data-endrev="1" style="cursor:pointer">Back to today</button></div>';
+  }
+
+  const c = session.queue[session.i];
+  const rec = MODMAP[c.mod];
+  const ac = rec ? rec.t.accent : "#4ade80";
+  return '<p class="eyebrow">Recall &middot; ' + (session.i + 1) + ' of ' + session.queue.length + '</p>' +
+    '<div class="revbar"><i style="width:' + Math.round(100 * session.i / session.queue.length) + '%"></i></div>' +
+    '<div class="rcard" style="--ac:' + ac + '">' +
+      '<span class="src">' + esc(rec ? rec.t.name : "") + ' &middot; ' + esc(rec ? rec.m.title : "") + '</span>' +
+      '<h3>' + c.front + '</h3>' +
+      (session.shown
+        ? '<div class="answer"><p>' + esc(c.back) + '</p></div>' +
+          '<p class="rateq">How did that go?</p>' +
+          '<div class="rates">' +
+            '<button data-rate="again" class="r-again">Again<small>tomorrow</small></button>' +
+            '<button data-rate="hard" class="r-hard">Hard<small>soon</small></button>' +
+            '<button data-rate="good" class="r-good">Good<small>' + nextGap(c.id,"good") + '</small></button>' +
+            '<button data-rate="easy" class="r-easy">Easy<small>' + nextGap(c.id,"easy") + '</small></button>' +
+          '</div>' +
+          '<button class="opensrc" data-goto="' + (rec?rec.t.id:"") + '|' + c.mod + '">Re-read the module &rarr;</button>'
+        : '<button class="reveal" data-reveal="1">Show answer</button>' +
+          '<p class="hint">Try to answer out loud first. The effort is what makes it stick &mdash; recognising the answer when you see it does almost nothing.</p>') +
+    '</div>';
+}
+function nextGap(id, rating){
+  const rec = Store.state.cards[id] || {s: 0};
+  const step = rating === "good" ? Math.min(LADDER.length-1, rec.s+1) : Math.min(LADDER.length-1, rec.s+2);
+  const d = Math.max(1, LADDER[step]);
+  return d === 1 ? "1 day" : (d < 30 ? d + " days" : Math.round(d/30) + " months");
+}
+
+/* ---------- progress ---------- */
+function viewProgress(){
+  const s = hubStats();
+  const st = Store.state;
+  const t = todayNum();
+
+  /* last 12 weeks of activity */
+  const weeks = 12, cells = [];
+  for (let i = weeks * 7 - 1; i >= 0; i--) {
+    const d = t - i;
+    const rec = st.log[d];
+    const readThatDay = Object.keys(st.read).filter(function(k){ return st.read[k] === d; }).length;
+    const n = (rec ? rec.reviews : 0) + readThatDay * 5;
+    cells.push({d: d, n: n});
+  }
+  const maxN = Math.max(1, ...cells.map(function(c){ return c.n; }));
+
+  return '<p class="eyebrow">Your learning</p><h2 class="title">Progress</h2>' +
+    '<p class="sub">Everything here is measured, not assumed &mdash; modules you actually finished and cards you actually recalled. It lives in this browser.</p>' +
+
+    '<div class="revstats big">' +
+      '<div><span class="v">' + s.streak + '</span><span class="k">day streak' + (s.best > s.streak ? ' &middot; best ' + s.best : '') + '</span></div>' +
+      '<div><span class="v">' + s.read + '<small>/' + s.totalModules + '</small></span><span class="k">modules finished</span></div>' +
+      '<div><span class="v">' + s.strong + '<small>/' + s.cards + '</small></span><span class="k">facts holding</span></div>' +
+      '<div><span class="v">' + (s.recall === null ? "&mdash;" : s.recall + "%") + '</span><span class="k">recalled first try</span></div>' +
+    '</div>' +
+
+    '<h3 class="sec">Activity</h3>' +
+    '<div class="heat">' + cells.map(function(c){
+      const lvl = c.n === 0 ? 0 : Math.min(4, Math.ceil(4 * c.n / maxN));
+      return '<i class="l' + lvl + '"></i>';
+    }).join("") + '</div>' +
+    '<p class="eralab" style="margin-top:8px">Last twelve weeks. Reading a module and recalling cards both count.</p>' +
+
+    '<h3 class="sec">Mastery by subject</h3>' +
+    '<p class="sub" style="font-size:14.5px">Half the bar is for finishing a module; the other half fills as its cards survive longer and longer gaps. It goes down if you stop practising, which is the point.</p>' +
+    '<div class="mast">' + TRACKS.map(function(tr){
+      const m = masteryOf(tr);
+      const done = tr.modules.filter(function(x){ return DONE.has(x.id); }).length;
+      return '<div class="mrow"><span class="nm">' + esc(tr.name) + '</span>' +
+        '<span class="bar"><i style="width:' + Math.round(m*100) + '%;background:' + tr.accent + '"></i></span>' +
+        '<span class="pc">' + Math.round(m*100) + '%</span>' +
+        '<span class="ct">' + done + '/' + tr.modules.length + '</span></div>';
+    }).join("") + '</div>' +
+
+    '<h3 class="sec">Keep it safe</h3>' +
+    '<p class="sub" style="font-size:14.5px">Progress is stored in this browser only. Export it before clearing site data, or to move to another device.</p>' +
+    '<div class="startrow">' +
+      '<button class="pill" data-export="1" style="cursor:pointer">Export progress</button>' +
+      '<button class="pill" data-import="1" style="cursor:pointer">Import</button>' +
+      '<button class="pill" data-wipe="1" style="cursor:pointer;border-color:#5a2a2a;color:#e08a8a">Reset everything</button>' +
+    '</div>' +
+    '<textarea id="iobox" class="iobox" hidden placeholder="Paste exported progress here, then press Import again."></textarea>' +
+    (Store.available ? '' : '<div class="note" style="margin-top:18px">This browser is blocking local storage, so nothing can be saved. Private windows usually do this.</div>');
+}
+
+
 /* ---------- nav ---------- */
 function buildNav(){
   $("#trackNav").innerHTML = TRACKS.map(t =>
@@ -64,6 +376,7 @@ function buildNav(){
     </button>`).join("");
   $("#newsCount").textContent = BRIEF.items.length;
   $("#dayNo").textContent = "Day " + (DAY + 1);
+  refreshBadges();
   $("#thCount").textContent = GREAT_THINKERS.people.length;
   $("#bqCount").textContent = BIG_QUESTIONS.questions.length;
   $("#brandDate").textContent = new Date().toLocaleDateString("en-GB", {weekday:"long", day:"numeric", month:"long", year:"numeric"});
@@ -245,10 +558,11 @@ function liveSection(){
 
 /* ---------- today ---------- */
 function viewToday(){
-  const todayId = ROTATION[DAY % ROTATION.length];
+  const nextUnread = ROTATION.find(function(id){ return !DONE.has(id); });
+  const todayId = nextUnread || ROTATION[DAY % ROTATION.length];
   const tm = MODMAP[todayId];
   const cycle = Math.floor(DAY / ROTATION.length);
-  const covered = Math.min(DAY, ROTATION.length);
+  const covered = Object.keys(Store.state.read).length;
   const person = pick(GREAT_THINKERS.people);
   const q = pick(BIG_QUESTIONS.questions);
   const pAc = (TRACKS.find(t => t.name === person.fields[0]) || {accent:"#e8e0c8"}).accent;
@@ -262,18 +576,34 @@ function viewToday(){
     return {t: t, c: h.c, m: h.m};
   });
 
+  const S = hubStats();
   return `
   <div class="dayhead">
     <span class="daynum">Day ${DAY + 1}</span>
-    <span class="streak">${esc(dstr)} &middot; ${covered} of ${ROTATION.length} modules covered${cycle > 0 ? " &middot; round " + (cycle + 1) : ""}</span>
+    <span class="streak">${esc(dstr)} &middot; ${covered} of ${ROTATION.length} modules finished${cycle > 0 ? " &middot; round " + (cycle + 1) : ""}</span>
   </div>
-  <p class="sub">A bit of every subject, every day, plus one module in full. Nothing to decide — it advances on its own.</p>
+  <p class="sub">A bit of every subject, every day, plus one module in full and whatever recall is due. Nothing to decide.</p>
+
+  <div class="daystrip">
+    <div class="ds ${S.streak ? "on" : ""}"><span class="v">${S.streak}</span><span class="k">day streak</span></div>
+    <div class="ds ${S.due ? "hot" : ""}"><span class="v">${S.due}</span><span class="k">cards due</span></div>
+    <div class="ds"><span class="v">${S.read}<small>/${S.totalModules}</small></span><span class="k">modules done</span></div>
+    <div class="ds"><span class="v">${S.recall === null ? "&mdash;" : S.recall + "%"}</span><span class="k">recall rate</span></div>
+  </div>
+
+  ${S.due ? `<div class="duebar">
+    <div><strong>${S.due} card${S.due === 1 ? "" : "s"} ready to practise.</strong> Retrieving beats re-reading — about ${Math.max(1, Math.round(S.due * 0.25))} minutes.</div>
+    <button class="go" data-jump="review" style="--ac:#4ade80">Practise now</button>
+  </div>` : (S.cards ? `<div class="duebar quiet">
+    <div>Nothing due today. The spacing is doing its work — ${S.strong} of ${S.cards} facts are holding at long intervals.</div>
+    <button class="pill" data-jump="progress" style="cursor:pointer">See progress</button>
+  </div>` : "")}
 
   <div class="lesson-card" style="--ac:${tm.t.accent}">
-    <p class="lbl">Today's module &middot; ${esc(tm.t.name)}</p>
+    <p class="lbl">${DONE.has(todayId) ? "Revisit" : (nextUnread ? "Next up" : "Today's module")} &middot; ${esc(tm.t.name)}</p>
     <h3>${esc(tm.m.title)}</h3>
     <p>${esc(tm.m.oneLine)}</p>
-    <button class="go" data-goto="${tm.t.id}|${tm.m.id}">Read it now</button>
+    <button class="go" data-goto="${tm.t.id}|${tm.m.id}">${DONE.has(todayId) ? "Read it again" : "Read it now"}</button>
     <span class="meta">${tm.m.minutes} min &middot; module ${tm.t.modules.findIndex(x => x.id === tm.m.id) + 1} of ${tm.t.modules.length}</span>
   </div>
 
@@ -471,6 +801,9 @@ function viewLesson(){
     <p class="sub" style="font-size:15px">${esc(m.debate.title)}</p>
     <div class="deb">${m.debate.sides.map(s => `<div><h6>${esc(s.label)}</h6><p>${esc(s.text)}</p></div>`).join("")}</div>
 
+    ${DONE.has(m.id) ? `<div class="addedbox">This module's ${m.quiz.length + m.concepts.length} cards are in your recall rotation. They will come back tomorrow, then at widening gaps.
+      <button class="pill" data-practise="${m.id}" style="cursor:pointer;margin-left:8px">Practise them now</button></div>` : ""}
+
     <h3 class="sec">Check yourself</h3>
     ${m.quiz.map(q => `<details class="qa"><summary>${esc(q.q)}</summary><p>${esc(q.a)}</p></details>`).join("")}
 
@@ -489,7 +822,7 @@ function viewLesson(){
 
     <div class="navbtns">
       <button data-nav="prev" ${prev?"":"disabled"}>&larr; ${prev?cut(prev.title):"Start of track"}</button>
-      <button class="mark" data-toggle="${m.id}">${DONE.has(m.id)?"&#10003; Completed":"Mark complete"}</button>
+      <button class="mark" data-toggle="${m.id}">${DONE.has(m.id)?"&#10003; Done \u2014 undo":"Mark complete"}</button>
       <button data-nav="next" ${next?"":"disabled"}>${next?cut(next.title):"End of track"} &rarr;</button>
     </div>
   </div>`;
@@ -689,6 +1022,8 @@ function render(){
   const v = state.view;
   $("#main").innerHTML =
     v === "today" ? viewToday() :
+    v === "review" ? viewReview() :
+    v === "progress" ? viewProgress() :
     v === "news" ? viewNews() :
     v === "track" ? viewTrack() :
     v === "lesson" ? viewLesson() :
@@ -701,7 +1036,51 @@ function render(){
   wire();
 }
 
+function refreshBadges(){
+  const el = document.getElementById("dueNo");
+  if (!el) return;
+  const n = dueCards().length;
+  el.textContent = n || "";
+  el.className = "navmeta" + (n ? " hot" : "");
+}
+
 function wire(){
+  document.querySelectorAll("[data-reveal]").forEach(b => b.onclick = () => { session.shown = true; render(); });
+  document.querySelectorAll("[data-rate]").forEach(b => b.onclick = () => {
+    const c = session.queue[session.i];
+    const r = b.dataset.rate;
+    scheduleCard(c.id, r);
+    if (r === "again") { session.again++; session.queue.push(c); }
+    session.i++; session.shown = false;
+    render(); refreshBadges();
+  });
+  document.querySelectorAll("[data-startrev]").forEach(b => b.onclick = () => { startSession(); render(); });
+  document.querySelectorAll("[data-startall]").forEach(b => b.onclick = () => { startSession(allCards()); render(); });
+  document.querySelectorAll("[data-endrev]").forEach(b => b.onclick = () => { session = null; go("today"); });
+  document.querySelectorAll("[data-practise]").forEach(b => b.onclick = () => {
+    startSession(cardsFor(b.dataset.practise)); go("review");
+  });
+  document.querySelectorAll("[data-export]").forEach(b => b.onclick = () => {
+    const box = $("#iobox");
+    box.hidden = false;
+    box.value = JSON.stringify(Store.state);
+    box.select();
+  });
+  document.querySelectorAll("[data-import]").forEach(b => b.onclick = () => {
+    const box = $("#iobox");
+    if (box.hidden || !box.value.trim()) { box.hidden = false; box.value = ""; box.focus(); return; }
+    try {
+      const obj = JSON.parse(box.value);
+      if (!obj || obj.v !== 2 || !obj.read) throw new Error("not a Knowledge Hub export");
+      Store.replace(obj); box.hidden = true; render(); refreshBadges();
+    } catch(e) { box.value = "That did not look like an export. " + e.message; }
+  });
+  document.querySelectorAll("[data-wipe]").forEach(b => b.onclick = () => {
+    if (b.dataset.armed) { Store.reset(); session = null; render(); refreshBadges(); return; }
+    b.dataset.armed = "1"; b.textContent = "Press again to erase everything";
+    setTimeout(() => { if (b.isConnected) { delete b.dataset.armed; b.textContent = "Reset everything"; } }, 4000);
+  });
+
   document.querySelectorAll("button.tcard[data-track]").forEach(b => b.onclick = () => go_track(b.dataset.track));
   document.querySelectorAll("[data-jump]").forEach(b => b.onclick = () => go(b.dataset.jump));
   document.querySelectorAll("[data-mod]").forEach(b => b.onclick = () => go_mod(state.track, b.dataset.mod));
@@ -726,7 +1105,7 @@ function wire(){
   document.querySelectorAll("[data-toggle]").forEach(b => b.onclick = () => {
     const id = b.dataset.toggle;
     if (DONE.has(id)) DONE.delete(id); else DONE.add(id);
-    render();
+    render(); refreshBadges();
   });
   document.querySelectorAll("[data-wiki]").forEach(b => b.onclick = () => {
     const box = $("#wikibox");
