@@ -1,0 +1,40 @@
+name: Write weekly module
+
+# Adds one new module to the hub each Sunday. Picks whichever of the eleven tracks
+# has the fewest modules, so the subjects stay level. Validates the result hard and
+# leaves the repo untouched if anything is off. Needs only ANTHROPIC_API_KEY.
+
+on:
+  schedule:
+    - cron: "20 7 * * 0"      # Sunday 07:20 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: write-module
+  cancel-in-progress: false
+
+jobs:
+  module:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write the module
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/write-module.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/tracks; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name  "knowledge-hub-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tracks
+          git commit -m "Weekly module"
+          git push

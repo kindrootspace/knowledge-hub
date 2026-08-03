@@ -1,0 +1,40 @@
+name: Refresh brief
+
+# Writes the analysed daily news brief. Runs entirely on GitHub's runners, so it
+# needs no browser and no Claude session — only the ANTHROPIC_API_KEY secret.
+# If the secret is absent the job exits quietly and yesterday's brief stays put.
+
+on:
+  schedule:
+    - cron: "10 6 * * *"      # 06:10 UTC, just before the London morning
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-brief
+  cancel-in-progress: true
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write data/brief.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/refresh-brief.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/brief.json; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name  "knowledge-hub-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/brief.json
+          git commit -m "Daily brief"
+          git push
