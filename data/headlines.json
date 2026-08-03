@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03 03:56 UTC",
+ "updated": "2026-08-03 07:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,24 +10,9 @@
      "date": "Mon, 03 Aug 2026 00:11:18 GMT"
     },
     {
-     "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-     "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 03:32:21 GMT"
-    },
-    {
-     "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-     "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 23:15:14 GMT"
-    },
-    {
-     "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-     "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 01:04:23 GMT"
-    },
-    {
-     "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-     "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 21:18:26 GMT"
+     "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+     "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 05:02:25 GMT"
     },
     {
      "title": "Heat health alerts in England as temperatures set to reach 34C",
@@ -35,14 +20,29 @@
      "date": "Mon, 03 Aug 2026 02:06:27 GMT"
     },
     {
-     "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
-     "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 21:45:22 GMT"
+     "title": "Wales first nation to withdraw support for Infantino",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 06:54:07 GMT"
     },
     {
-     "title": "What are the 'luteal uglies'? And how they're affecting women",
-     "link": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 00:57:22 GMT"
+     "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+     "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 03:32:21 GMT"
+    },
+    {
+     "title": "Glasgow praised for saving Commonwealth Games as baton passes to Amdavad",
+     "link": "https://www.bbc.co.uk/news/articles/cgk4rjz8dxlo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 06:59:38 GMT"
+    },
+    {
+     "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
+     "link": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 05:01:18 GMT"
+    },
+    {
+     "title": "Ariana Grande to take a break from public life citing 'endless, ongoing scrutiny'",
+     "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 07:31:21 GMT"
     }
    ]
   },
@@ -55,9 +55,9 @@
      "date": "Mon, 03 Aug 2026 01:04:23 GMT"
     },
     {
-     "title": "US and Japan jointly intervene to prop up yen in rare move",
+     "title": "US and Japan take action to prop up yen in rare joint move",
      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 02:43:06 GMT"
+     "date": "Mon, 03 Aug 2026 07:30:52 GMT"
     },
     {
      "title": "The change that may help you get a mortgage as a first-time buyer",
@@ -67,7 +67,7 @@
     {
      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
      "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 02:27:30 GMT"
+     "date": "Mon, 03 Aug 2026 04:10:16 GMT"
     },
     {
      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
@@ -140,6 +140,31 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Israel says it has serious concerns with Hamas disarmament deal",
+     "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+     "date": "Mon, 03 Aug 2026 03:03:52 -0400"
+    },
+    {
+     "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
+     "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
+     "date": "Mon, 03 Aug 2026 02:49:13 -0400"
+    },
+    {
+     "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
+     "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
+     "date": "Mon, 03 Aug 2026 01:41:31 -0400"
+    },
+    {
+     "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+     "link": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
+     "date": "Mon, 03 Aug 2026 01:04:19 -0400"
+    },
+    {
+     "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
+     "link": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
+     "date": "Mon, 03 Aug 2026 00:06:11 -0400"
+    },
+    {
      "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
      "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
      "date": "Sun, 02 Aug 2026 19:38:05 -0400"
@@ -153,37 +178,22 @@
      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
      "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
      "date": "Sun, 02 Aug 2026 09:35:43 -0400"
-    },
-    {
-     "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
-     "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
-     "date": "Sun, 02 Aug 2026 08:00:00 -0400"
-    },
-    {
-     "title": "Why is the rate of premature births so high in this community?",
-     "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-     "date": "Sun, 02 Aug 2026 07:03:47 -0400"
-    },
-    {
-     "title": "We asked a first grader to interview his hero: A bird scientist",
-     "link": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
-     "date": "Sun, 02 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "What Cyclospora does inside the gut and how it gets there",
-     "link": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
-     "date": "Sun, 02 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
-     "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
-     "date": "Sun, 02 Aug 2026 04:01:27 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+     "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 06:09:00 +0000"
+    },
+    {
+     "title": "Grid failure plunges Cuba into nationwide blackout",
+     "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 04:35:39 +0000"
+    },
     {
      "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
      "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
      "date": "Mon, 03 Aug 2026 00:18:50 +0000"
-    },
-    {
-     "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 00:00:15 +0000"
-    },
-    {
-     "title": "Trump says new round of Iran talks will begin Monday",
-     "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 23:48:08 +0000"
     }
    ]
   },
