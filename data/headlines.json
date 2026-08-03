@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03 19:58 UTC",
+ "updated": "2026-08-03 21:30 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,14 +25,14 @@
      "date": "Mon, 03 Aug 2026 16:48:58 GMT"
     },
     {
+     "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
+     "link": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 20:09:46 GMT"
+    },
+    {
      "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
      "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 15:29:13 GMT"
-    },
-    {
-     "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
-     "link": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 18:21:53 GMT"
     },
     {
      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+     "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
+     "date": "Mon, 03 Aug 2026 17:17:49 -0400"
+    },
+    {
      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
      "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
      "date": "Mon, 03 Aug 2026 15:33:05 -0400"
@@ -173,17 +178,37 @@
      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
      "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
      "date": "Mon, 03 Aug 2026 07:57:06 -0400"
-    },
-    {
-     "title": "What would it take to get peptides on the shelf?",
-     "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
-     "date": "Mon, 03 Aug 2026 07:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 20:58:19 +0000"
+    },
+    {
+     "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+     "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 20:24:02 +0000"
+    },
+    {
+     "title": "Survivors reach port after deadly Indonesia ferry fire",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 19:55:36 +0000"
+    },
+    {
+     "title": "Clergy members arrested while protesting at Senate office",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 19:53:59 +0000"
+    },
+    {
+     "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 19:45:30 +0000"
+    },
     {
      "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Can Netanyahu survive Israel’s most consequential election?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
      "date": "Mon, 03 Aug 2026 18:16:00 +0000"
-    },
-    {
-     "title": "Israel top court hears challenge to UNRWA ban",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 18:13:43 +0000"
-    },
-    {
-     "title": "Drone slams into Russian beach, killing at least 7 people",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 18:05:23 +0000"
-    },
-    {
-     "title": "Republicans say they will back Blanche after US Justice Department order",
-     "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 17:39:38 +0000"
-    },
-    {
-     "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
-     "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 17:38:01 +0000"
-    },
-    {
-     "title": "New illegal Israeli outpost spotted in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 17:07:37 +0000"
     }
    ]
   },
