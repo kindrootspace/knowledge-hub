@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02 23:12 UTC",
+ "updated": "2026-08-03 00:13 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,9 +15,9 @@
      "date": "Sun, 02 Aug 2026 21:18:26 GMT"
     },
     {
-     "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+     "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 21:02:29 GMT"
+     "date": "Sun, 02 Aug 2026 23:15:14 GMT"
     },
     {
      "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
@@ -49,6 +49,11 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "The change that may help you get a mortgage as a first-time buyer",
+     "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 23:16:32 GMT"
+    },
     {
      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
      "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
@@ -83,11 +88,6 @@
      "title": "UK petrol prices hit highest level since Iran war began",
      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 31 Jul 2026 11:19:23 GMT"
-    },
-    {
-     "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
-     "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 30 Jul 2026 23:05:41 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+     "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+     "date": "Sun, 02 Aug 2026 19:38:05 -0400"
+    },
+    {
      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
      "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
      "date": "Sun, 02 Aug 2026 14:31:34 -0400"
@@ -173,17 +178,17 @@
      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
      "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
      "date": "Sun, 02 Aug 2026 04:01:27 -0400"
-    },
-    {
-     "title": "Trump says he's cancelling Iran strikes, deal pending",
-     "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-     "date": "Sun, 02 Aug 2026 03:34:27 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
+     "link": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 23:37:16 +0000"
+    },
     {
      "title": "Sudan army drone attack on Darfur kills 35, rights group says",
      "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
@@ -218,11 +223,51 @@
      "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
      "link": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
      "date": "Sun, 02 Aug 2026 20:00:45 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+     "link": "https://www.nature.com/articles/s41586-026-10921-w",
+     "date": ""
     },
     {
-     "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 19:39:32 +0000"
+     "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+     "link": "https://www.nature.com/articles/d41586-026-02419-2",
+     "date": ""
+    },
+    {
+     "title": "The physics of fizz: why some bubbles are louder than others",
+     "link": "https://www.nature.com/articles/d41586-026-02334-6",
+     "date": ""
+    },
+    {
+     "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02371-1",
+     "date": ""
+    },
+    {
+     "title": "Meat allergy is on the rise — what scientists want to know",
+     "link": "https://www.nature.com/articles/d41586-026-02362-2",
+     "date": ""
+    },
+    {
+     "title": "The forensic traces that can help catch poachers — July’s best science images",
+     "link": "https://www.nature.com/articles/d41586-026-02274-1",
+     "date": ""
+    },
+    {
+     "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+     "link": "https://www.nature.com/articles/d41586-026-02366-y",
+     "date": ""
+    },
+    {
+     "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
+     "link": "https://www.nature.com/articles/d41586-026-02397-5",
+     "date": ""
     }
    ]
   }
