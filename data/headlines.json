@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-03 00:13 UTC",
+ "updated": "2026-08-03 03:56 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-     "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 20:36:37 GMT"
+     "title": "Trump suggests new talks with Iran to begin on Monday",
+     "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 00:11:18 GMT"
     },
     {
-     "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-     "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 21:18:26 GMT"
+     "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+     "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 03:32:21 GMT"
     },
     {
      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
@@ -20,19 +20,19 @@
      "date": "Sun, 02 Aug 2026 23:15:14 GMT"
     },
     {
-     "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
-     "link": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 14:15:07 GMT"
+     "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+     "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 01:04:23 GMT"
     },
     {
-     "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-     "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 17:53:09 GMT"
+     "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+     "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 02 Aug 2026 21:18:26 GMT"
     },
     {
-     "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-     "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 15:48:00 GMT"
+     "title": "Heat health alerts in England as temperatures set to reach 34C",
+     "link": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 02:06:27 GMT"
     },
     {
      "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
@@ -40,9 +40,9 @@
      "date": "Sun, 02 Aug 2026 21:45:22 GMT"
     },
     {
-     "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 02 Aug 2026 11:12:00 GMT"
+     "title": "What are the 'luteal uglies'? And how they're affecting women",
+     "link": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 00:57:22 GMT"
     }
    ]
   },
@@ -50,9 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+     "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 01:04:23 GMT"
+    },
+    {
+     "title": "US and Japan jointly intervene to prop up yen in rare move",
+     "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 02:43:06 GMT"
+    },
+    {
      "title": "The change that may help you get a mortgage as a first-time buyer",
      "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 02 Aug 2026 23:16:32 GMT"
+    },
+    {
+     "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+     "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 02:27:30 GMT"
     },
     {
      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
@@ -73,21 +88,6 @@
      "title": "AI firms must answer for rogue bots, says boss of hacked company",
      "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 31 Jul 2026 18:10:28 GMT"
-    },
-    {
-     "title": "Sainsbury's agrees to sell Argos for £120m",
-     "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 31 Jul 2026 12:42:22 GMT"
-    },
-    {
-     "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
-     "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 01 Aug 2026 07:48:01 GMT"
-    },
-    {
-     "title": "UK petrol prices hit highest level since Iran war began",
-     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 31 Jul 2026 11:19:23 GMT"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
-     "link": "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 23:37:16 +0000"
+     "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+     "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 03:26:08 +0000"
     },
     {
-     "title": "Sudan army drone attack on Darfur kills 35, rights group says",
-     "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 22:51:09 +0000"
+     "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 03:17:33 +0000"
     },
     {
-     "title": "Wildfires force mass evacuations across the Pacific Northwest",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 21:47:18 +0000"
+     "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 02:54:25 +0000"
     },
     {
-     "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 21:18:03 +0000"
+     "title": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
+     "link": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 01:57:58 +0000"
     },
     {
-     "title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 20:45:01 +0000"
+     "title": "Japan and US confirm rare joint intervention to prop up yen",
+     "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 01:34:19 +0000"
     },
     {
-     "title": "Venezuela and the Dominican Republic say they will work to restore ties",
-     "link": "https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 20:29:32 +0000"
+     "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 00:18:50 +0000"
     },
     {
-     "title": "Is Washington dictating the agenda for talks in Venezuela?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 20:01:21 +0000"
+     "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 00:00:15 +0000"
     },
     {
-     "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
-     "link": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
-     "date": "Sun, 02 Aug 2026 20:00:45 +0000"
+     "title": "Trump says new round of Iran talks will begin Monday",
+     "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+     "date": "Sun, 02 Aug 2026 23:48:08 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
+     "link": "https://www.nature.com/articles/d41586-026-02339-1",
+     "date": ""
+    },
     {
      "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
      "link": "https://www.nature.com/articles/s41586-026-10921-w",
@@ -262,11 +267,6 @@
     {
      "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
      "link": "https://www.nature.com/articles/d41586-026-02366-y",
-     "date": ""
-    },
-    {
-     "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
-     "link": "https://www.nature.com/articles/d41586-026-02397-5",
      "date": ""
     }
    ]
