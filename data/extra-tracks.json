@@ -1,1 +1,921 @@
-[]
+[
+ {
+  "id": "systems",
+  "name": "Political Systems",
+  "tagline": "how the big ideologies actually worked in power, and who ran them",
+  "accent": "#ef7d6a",
+  "blurb": "Ideologies are usually taught as arguments and judged as arguments. That is half the job: every major political doctrine of the last two centuries has also been implemented by named people in named places, and the gap between what was claimed and what was produced is the most informative thing about it. This track takes eight traditions in turn, states each one in the form its best advocates would recognise, then sets out what happened when it held power, with the current scholarly ranges for the contested numbers and an account of why they are contested. It is sequenced so that the theory comes before the practice and the anti-state traditions come last, because they are best understood as replies to everything before them.",
+  "modules": [
+   {
+    "id": "sys-1",
+    "title": "Marxism and Communism in Theory",
+    "oneLine": "What Marx and Engels actually argued, what they deliberately declined to specify, and why that silence shaped everything that followed.",
+    "minutes": 9,
+    "body": [
+     {
+      "h": "The analytical core",
+      "p": [
+       "Historical materialism is not the claim that ideas do not matter. It is the claim that the way a society organises production sets the terms on which its ideas, laws and politics develop. Productive forces improve; the existing property relations eventually become, in Marx's word, <em>fetters</em> on them; the contradiction is resolved through class conflict and a new set of relations. Capitalism on this account is the most productive system yet devised, and Marx says so in terms no defender has improved upon: the bourgeoisie, in barely a century, has created more massive and colossal productive forces than all preceding generations together.",
+       "The economic engine is the theory of surplus value. The labour theory of value was inherited from Ricardo, not invented by Marx; what Marx added was the distinction between labour and <em>labour-power</em>. The worker sells the latter at its value, roughly the cost of reproducing it, and in the working day produces more value than that. The difference is appropriated by the owner. The point worth holding onto is that exploitation here is a structural relation, not an accusation about anyone's character: a conspicuously generous employer still appropriates surplus value, because the relation and not the person does the work."
+      ]
+     },
+     {
+      "h": "What he left blank",
+      "p": [
+       "Marx wrote several thousand pages on how capitalism functions and a few dozen on what would replace it. This was deliberate. In the afterword to the second German edition of Capital in 1873 he refused to write recipes for the cook-shops of the future. The fullest sketch is the Critique of the Gotha Programme, written in 1875 and published by Engels in 1891: a lower phase in which people draw from the common store in proportion to labour contributed, and a higher phase in which the rule is from each according to his ability, to each according to his needs. There is no account of how investment is allocated, how prices are formed, or how labour is directed between sectors.",
+       "Two much-abused phrases belong here. <strong>Dictatorship of the proletariat</strong> appears rarely in Marx, in an 1852 letter to Weydemeyer and in the Gotha critique, and means class rule as the counterpart of what he called the dictatorship of the bourgeoisie; it does not mean one-party rule by a committee. <strong>Withering away of the state</strong> is Engels, in Anti-Duhring in 1878: the state is not abolished, it dies out. Marx and Engels also used socialism and communism more or less interchangeably; the modern party-label distinction dates only from 1918, when Lenin renamed the Bolsheviks the Communist Party."
+      ]
+     },
+     {
+      "h": "Why the silence mattered",
+      "p": [
+       "A movement that takes power holding a theory of critique and no theory of administration will improvise its administration, under emergency conditions, from whatever the existing state apparatus provides. That does much of the explanatory work in the modules that follow, and it is why the communist states of the twentieth century resemble each other far more closely than any of them resembles anything written by Marx.",
+       "The theoretical hole was identified in advance and from the outside. Ludwig von Mises argued in 1920 that without markets in producer goods there are no prices for them, and therefore no common measure by which a planner can compare rival production plans; Hayek later recast this as a knowledge problem rather than an arithmetic one, since the relevant information is dispersed, tacit and constantly changing. Oskar Lange's market-socialist reply, that a planning board could simulate the market by adjusting prices through trial and error, was widely thought decisive in the 1930s. It reads less well now that we know what actual planning boards did."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Historical materialism",
+      "def": "The claim that the organisation of material production conditions a society's legal, political and ideological forms and drives their transformation."
+     },
+     {
+      "term": "Surplus value",
+      "def": "The value produced by a worker in excess of the value of the labour-power sold, appropriated by the owner of the means of production."
+     },
+     {
+      "term": "Base and superstructure",
+      "def": "The metaphor for the relation between productive relations and the legal, political and cultural forms that rest on them."
+     },
+     {
+      "term": "Dictatorship of the proletariat",
+      "def": "Marx's term for rule by the working class as a class, used as the counterpart of what he called bourgeois class rule."
+     },
+     {
+      "term": "Lower and higher phases",
+      "def": "The Gotha Programme distinction between distribution by labour contribution and distribution according to need."
+     },
+     {
+      "term": "Economic calculation problem",
+      "def": "Mises' argument that abolishing markets in capital goods removes the prices needed to compare alternative production plans."
+     },
+     {
+      "term": "Alienation",
+      "def": "The early Marx's account of the worker's estrangement from the product, the act of production, other people and human nature itself."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Karl Marx (1818-1883)",
+      "note": "Built a theory of how capitalism works, not a plan for what follows it, and was explicit that he was refusing to write one."
+     },
+     {
+      "name": "Friedrich Engels (1820-1895)",
+      "note": "Systematised the doctrine after Marx's death and supplied most of the phrases people quote, including the withering away of the state."
+     },
+     {
+      "name": "Karl Kautsky (1854-1938)",
+      "note": "The pope of orthodox Marxism before 1914, who then condemned Bolshevik rule as the dictatorship of a party over the proletariat."
+     },
+     {
+      "name": "Leszek Kolakowski (1927-2009)",
+      "note": "Main Currents of Marxism, written by a former communist, remains the most formidable internal critique of the whole tradition."
+     }
+    ],
+    "debate": {
+     "title": "Was Leninism the logical outcome of Marxism or a departure from it?",
+     "sides": [
+      {
+       "label": "Outcome",
+       "text": "Kolakowski's case: a doctrine that identifies one class with the universal interest of humanity, treats constitutional guarantees as bourgeois formalities and specifies no institutional check on those acting in that class's name leaves nothing standing in the way of a party that claims the mandate. The absence of a theory of the post-revolutionary state was not an oversight to be filled innocently."
+      },
+      {
+       "label": "Departure",
+       "text": "Marx admired the Paris Commune precisely for recallable delegates, the abolition of a standing army and universal suffrage, and never held a vanguard theory. Leninism grafted a specifically Russian conspiratorial tradition onto Marxism. On this reading, social democracy is the more faithful descendant and the Bolsheviks the heretics."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "The Communist Manifesto",
+      "who": "Marx and Engels - short, and the source of most of what people think they know."
+     },
+     {
+      "title": "Main Currents of Marxism",
+      "who": "Leszek Kolakowski - three volumes, hostile, and unmatched on the internal logic."
+     },
+     {
+      "title": "Karl Marx: Greatness and Illusion",
+      "who": "Gareth Stedman Jones - places Marx back in his own century rather than in the one he is blamed for."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "Why is exploitation in Marx not a claim about employers being greedy?",
+      "a": "Because it is defined by a structural relation, not a motive. The worker sells labour-power at its value and produces more value than that during the working day; the surplus goes to the owner regardless of how the owner behaves. A generous employer who pays above the going rate still appropriates surplus value."
+     },
+     {
+      "q": "What did Mises say was impossible under full socialism, and why do faster computers not solve it?",
+      "a": "Without markets in capital goods there are no prices for them, so a planner has no common measure for ranking alternative production plans. Hayek's version sharpens the point: the relevant knowledge is dispersed among millions of people, largely tacit, and changes continuously, so it cannot be gathered and fed into any calculation, however fast."
+     }
+    ]
+   },
+   {
+    "id": "sys-2",
+    "title": "Communism in Power: Lenin, Stalin and the Soviet Model",
+    "oneLine": "How the vanguard party, the plan and the terror actually operated, and what the archives will and will not settle.",
+    "minutes": 10,
+    "body": [
+     {
+      "h": "Lenin's innovations",
+      "p": [
+       "What Is To Be Done? in 1902 made the argument that mattered most: workers left to themselves develop only trade union consciousness, so revolutionary consciousness must be brought from outside by a party of professional revolutionaries. This converted a theory of class self-emancipation into a theory of rule by a party acting on the class's behalf. The corollary came fast: the Constituent Assembly elected in November 1917, in which the Bolsheviks took under a quarter of the vote, met for one day in January 1918 and was dispersed.",
+       "War Communism, from 1918 to 1921, combined forced grain requisitioning, wholesale nationalisation and the near-collapse of monetary exchange with civil war and blockade; the Russian famine of 1921-22 followed. The Kronstadt rising of March 1921, by sailors who had been among the regime's staunchest supporters, triggered the retreat. The New Economic Policy restored private trade and replaced requisitioning with a tax in kind, and output recovered towards pre-war levels by the mid-1920s. The Soviet model was not one fixed thing arriving fully formed in 1917."
+      ]
+     },
+     {
+      "h": "Stalin's revolution from above",
+      "p": [
+       "The First Five-Year Plan began in 1928 and collectivisation in earnest in 1929. Dekulakisation deported between 2.1 and 2.3 million people to special settlements between 1930 and 1933; Manfred Hildermeier estimates 530,000 to 600,000 deaths among them through 1953. The famine of 1932-33 followed from procurement quotas set against harvests that were not there. Across the Soviet Union current estimates cluster between roughly 5.7 and 8.7 million excess deaths. For Ukraine, recent scholarship gives 3.5 to 5 million; Stanislav Kulchytsky puts direct losses near 3.2 million and Timothy Snyder around 3.3 million. For Kazakhstan, Sarah Cameron's figure is about 1.5 million deaths, roughly a third of all Kazakhs.",
+       "The Great Terror of 1937-38 is documented in the NKVD's own statistics: 681,692 executions recorded across the two years. The largest component was the kulak operation under Order 00447, which specified 10,000 executions and produced 669,929 arrests and 376,202 executions. Robert Conquest, writing before the archives opened, put the total nearer a million; J. Arch Getty and Oleg Naumov argued from the archives that it ran to hundreds of thousands rather than millions. For the camps, Viktor Zemskov's compilation of NKVD death certificates gives 1,606,748 deaths in camps and colonies between 1930 and 1953, out of roughly 18 million who passed through."
+      ]
+     },
+     {
+      "h": "Why the numbers are disputed, and what the plan could and could not do",
+      "p": [
+       "The disagreements are mostly methodological. Record-based counts depend on NKVD bookkeeping, and Applebaum and Ellman note that prisoners released while dying vanish from camp mortality figures. Demographic counts are reconstructed from censuses - the 1937 count was suppressed and its organisers shot, the 1939 count inflated - and rest on assumptions about counterfactual birth rates, which is where most of the spread comes from. A separate and unresolved question is intent: whether the famine was genocide directed at Ukrainians as a nation, Ukraine's position since 2006 and the European Parliament's and Bundestag's since 2022, or the by-product of extraction aimed at peasants generally, closer to Davies and Wheatcroft.",
+       "The planned economy was not incompetent at everything. Gosplan's material balances built heavy industry, moved whole factories east of the Urals in 1941 and put Sputnik in orbit. What it could not do was raise productivity: Easterly and Fischer's 1995 analysis found Soviet growth driven overwhelmingly by factor accumulation, with strikingly low total factor productivity growth and sharply diminishing returns to capital, so a system that grew by adding inputs stopped when the inputs ran out. Under Kornai's <em>soft budget constraint</em> a firm that overspends is bailed out rather than closed, so it hoards inputs and labour and chronic shortage becomes systemic rather than a run of bad management."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Vanguard party",
+      "def": "Lenin's disciplined organisation of professional revolutionaries, holding that revolutionary consciousness must be brought to workers from outside."
+     },
+     {
+      "term": "War Communism",
+      "def": "The 1918-21 emergency regime of grain requisitioning, nationalisation and the near-elimination of market exchange."
+     },
+     {
+      "term": "New Economic Policy",
+      "def": "The 1921 retreat that restored private trade and small enterprise and replaced requisitioning with a tax in kind."
+     },
+     {
+      "term": "Nomenklatura",
+      "def": "The schedule of posts filled only with party approval, and by extension the ruling stratum that filled them."
+     },
+     {
+      "term": "Soft budget constraint",
+      "def": "Kornai's term for the expectation of rescue that makes state firms insensitive to loss and produces permanent shortage."
+     },
+     {
+      "term": "Material balances",
+      "def": "The planning method of matching physical supplies of each input to planned physical uses, in place of prices."
+     },
+     {
+      "term": "Special settlements",
+      "def": "The remote exile colonies to which deported kulaks and, later, whole deported nationalities were consigned."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Vladimir Lenin (1870-1924)",
+      "note": "Supplied the party form, the seizure of power and the doctrine that a minority acting for the class is the class acting."
+     },
+     {
+      "name": "Leon Trotsky (1879-1940)",
+      "note": "Built the Red Army and later argued the USSR was a degenerated workers' state ruled by a bureaucratic caste - a critique from inside the tradition."
+     },
+     {
+      "name": "Janos Kornai (1928-2021)",
+      "note": "The Hungarian economist who explained shortage as structural rather than incidental, using the soft budget constraint."
+     },
+     {
+      "name": "Sheila Fitzpatrick",
+      "note": "Led the revisionist turn towards social history, showing the terror had willing participants far below the leadership."
+     }
+    ],
+    "debate": {
+     "title": "Did Stalinism follow from Leninism?",
+     "sides": [
+      {
+       "label": "Continuity",
+       "text": "One-party rule, the Cheka, the dispersal of the Constituent Assembly and the 1921 ban on party factions all predate Stalin. Lenin bequeathed an apparatus with no mechanism for removing its own leadership except by force and no legitimate opposition of any kind. Given that, the identity of the successor changes the scale of the violence, not its possibility."
+      },
+      {
+       "label": "Contingency",
+       "text": "The NEP was pursued for seven years and had serious support; Bukharin's gradualist path was a live alternative with a plausible constituency. Nothing in 1917 required collectivisation at that speed or the specific decisions of 1937, which were taken by identifiable people responding to identifiable circumstances. Reading the outcome back into the origin flattens a real set of choices."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "The Years of Hunger",
+      "who": "R. W. Davies and Stephen Wheatcroft - the granular archival account of 1931-33 and the source of the mainstream figures."
+     },
+     {
+      "title": "Stalin: Paradoxes of Power / Waiting for Hitler",
+      "who": "Stephen Kotkin - long, and the best current account of how decisions were actually taken."
+     },
+     {
+      "title": "The Socialist System",
+      "who": "Janos Kornai - the definitive analysis of how a planned economy behaves rather than how it was supposed to."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "Why do archival execution counts and demographic famine estimates diverge so widely?",
+      "a": "They measure different things by different methods. Execution counts rest on NKVD paperwork, which is precise where it exists but omits deaths the system had no interest in recording. Famine estimates are reconstructed from censuses and require assumptions about what births and deaths would have been without the famine, and small changes in those assumptions move the total by millions."
+     },
+     {
+      "q": "What does the soft budget constraint explain that mismanagement does not?",
+      "a": "It explains why shortage was permanent and universal rather than sporadic. If a firm is always rescued, it faces no penalty for hoarding inputs and labour, so its demand for resources is effectively unlimited. Shortage then follows from the incentive structure and reappears under any management."
+     }
+    ]
+   },
+   {
+    "id": "sys-3",
+    "title": "Maoism and the Chinese Road",
+    "oneLine": "Peasant revolution, the largest famine in recorded history, the Cultural Revolution, and the reversal that followed.",
+    "minutes": 10,
+    "body": [
+     {
+      "h": "Peasants instead of proletarians",
+      "p": [
+       "Mao's 1927 report on the peasant movement in Hunan located revolutionary energy in the countryside rather than the factory - a substantial revision of a doctrine built on the industrial working class. Out of it came protracted people's war from rural base areas, the Long March of 1934-35 and the People's Republic on 1 October 1949. Land reform in 1950-52 redistributed holdings through struggle sessions and public executions of landlords; death estimates range between one and two million and rest on thin evidence.",
+       "The defining pattern appeared early. The Hundred Flowers campaign of 1956-57 invited criticism of the party; the Anti-Rightist campaign of 1957 then labelled some 550,000 people as rightists. Whether the invitation was a trap from the outset is still argued; its effect on officials' willingness to report bad news upward was permanent, and it mattered two years later."
+      ]
+     },
+     {
+      "h": "The Great Leap and the famine",
+      "p": [
+       "Between 1958 and 1962 the countryside was reorganised into people's communes, peasants diverted into backyard steel furnaces, and doctrines such as close planting and deep ploughing imposed from above. The mechanism that turned failure into catastrophe was informational: cadres reported inflated harvests, the state set procurement against those figures, and grain was removed from villages that had none. When Peng Dehuai raised the alarm at Lushan in 1959 he was purged, and the incentive to report honestly disappeared entirely.",
+       "The death toll is the most disputed number in modern history. The Chinese Academy of Sciences put it at a minimum of 15 million; Peng Xizhe at 23 million; Ansley Coale at 27 million; Ashton and colleagues and Judith Banister at 30 million; Yang Jisheng at 36 million; Frank Dikotter at 45 million or more. Cormac O Grada faults Dikotter's method - taking Cao Shuji's 32.5 million and adding half again, on an implausibly low assumed baseline death rate of 10 per 1,000 - and puts the defensible specialist range at 18 to 32.5 million. Sen's claim that famine on this scale does not occur where there are competitive elections and a free press is at its sharpest here."
+      ]
+     },
+     {
+      "h": "Cultural Revolution, reversal, and the wider Maoist world",
+      "p": [
+       "The Cultural Revolution, from 1966 to 1976, began as Mao's mobilisation of students against his own party and ended as a state purge. Andrew Walder and Yang Su's study of 1,520 county annals estimates 750,000 to 1.5 million deaths in the countryside, a comparable number permanently injured, and some 36 million persecuted. Their key finding is the timing: most of the killing occurred between 1968 and 1971, after local state power had been restored, so it was inflicted by the restored authorities rather than by rampaging Red Guards.",
+       "Deng Xiaoping's reversal dates from the Third Plenum of December 1978. The household responsibility system returned land to family management, township and village enterprises were tolerated, special economic zones opened from 1980, and the party's own 1981 resolution declared the Cultural Revolution a catastrophe. Political monopoly was retained throughout. The World Bank's assessment is that around 800 million people were lifted out of extreme poverty in China between 1978 and 2019, about three-quarters of the global total.",
+       "The wider Maoist world varied enormously. North Vietnam's land reform of 1953-56 produced execution estimates from Balazs Szalontai's Hungarian-archive figure of 1,337 to Edwin Moise's revised 13,500, with larger numbers circulating on weak evidence. Cuba's literacy campaign of 1961 involved around a million participants and is credited with raising literacy to about 96%, alongside six decades without a competitive election. Democratic Kampuchea, from 17 April 1975 to 7 January 1979, is the extreme: Ben Kiernan estimates 1.671 to 1.871 million deaths, some 21 to 24% of the population; Patrick Heuveline's range is 1.2 to 2.8 million."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Mass line",
+      "def": "Mao's doctrine that policy should be gathered from the masses and returned to them as instruction, in practice a licence for mobilisation from above."
+     },
+     {
+      "term": "People's commune",
+      "def": "The amalgamated rural unit of the Great Leap, combining agriculture, industry, administration and militia, with communal dining and no private plots."
+     },
+     {
+      "term": "Struggle session",
+      "def": "The public denunciation and humiliation of a designated class enemy by an assembled crowd, used from land reform through the Cultural Revolution."
+     },
+     {
+      "term": "Household responsibility system",
+      "def": "The post-1978 arrangement under which farming households contracted land and kept output above a quota, restoring the incentive to produce."
+     },
+     {
+      "term": "Special economic zone",
+      "def": "A designated coastal area, beginning with Shenzhen in 1980, given tax and regulatory terms designed to attract foreign investment."
+     },
+     {
+      "term": "Year Zero",
+      "def": "The Khmer Rouge doctrine that the past should be erased entirely and society rebuilt from an agrarian starting point."
+     },
+     {
+      "term": "Sent-down youth",
+      "def": "The roughly seventeen million urban young people dispatched to the countryside during and after the Cultural Revolution."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Mao Zedong (1893-1976)",
+      "note": "Relocated the revolutionary subject from the proletariat to the peasantry, and treated permanent upheaval as a method of rule."
+     },
+     {
+      "name": "Deng Xiaoping (1904-1997)",
+      "note": "Purged twice, returned twice, and dismantled the economic model while keeping the political one intact."
+     },
+     {
+      "name": "Yang Jisheng",
+      "note": "A Xinhua journalist whose Tombstone used provincial archives to establish the famine as a documented event inside China's own records."
+     },
+     {
+      "name": "Andrew Walder",
+      "note": "Reconstructed Cultural Revolution violence from county annals, showing most of it came after the state reasserted control."
+     }
+    ],
+    "debate": {
+     "title": "Was Deng's China a repudiation of Mao's or a continuation of it?",
+     "sides": [
+      {
+       "label": "Repudiation",
+       "text": "Collectivisation was reversed, material incentives restored, foreign capital invited in, and the party's own 1981 resolution condemned the Cultural Revolution outright. On every economic question that Maoism answered one way, Deng answered the other, and the results followed immediately in agricultural output."
+      },
+      {
+       "label": "Continuation",
+       "text": "The political monopoly, the security apparatus and the personnel were the same, and Deng himself authorised the suppression in 1989. The state that produced the growth is institutionally continuous with the one that produced the famine, and the party's own account is that its unbroken control is precisely what made the growth possible."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "Tombstone",
+      "who": "Yang Jisheng - the famine documented from inside the Chinese archives by a Chinese journalist."
+     },
+     {
+      "title": "Deng Xiaoping and the Transformation of China",
+      "who": "Ezra Vogel - long and sympathetic, and the standard account of the reversal."
+     },
+     {
+      "title": "The Pol Pot Regime",
+      "who": "Ben Kiernan - the source of the most widely used Cambodian figures and the reasoning behind them."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "Why does the estimated death toll of the Great Leap famine range from 15 to 45 million?",
+      "a": "Because it is reconstructed from disputed census and registration data using assumptions about what mortality would have been otherwise. O Grada's critique of Dikotter's 45 million turns on the assumed normal death rate: set the baseline implausibly low and the excess deaths rise sharply. The specialist range he defends is 18 to 32.5 million."
+     },
+     {
+      "q": "What did Mao change in Marxism, and why did it matter for governing?",
+      "a": "He made the peasantry rather than the industrial proletariat the revolutionary class, which let a communist movement take power in an agrarian society. It also meant the regime's central project became the transformation of the countryside, which is where both its land reform and its famine happened."
+     }
+    ]
+   },
+   {
+    "id": "sys-4",
+    "title": "Fascism and Nazism",
+    "oneLine": "What fascism actually claims, how it differs from conservatism and from communism, and what the Nazi state did.",
+    "minutes": 10,
+    "body": [
+     {
+      "h": "What fascism claims",
+      "p": [
+       "Fascism has no founding text comparable to Capital: the Doctrine of Fascism appeared in 1932, a decade after the movement took power, substantially written by the philosopher Giovanni Gentile - a movement that acted first and theorised later. Two definitions do most of the work. Roger Griffin's: fascism is populist ultranationalism whose mythic core is national rebirth, <em>palingenesis</em>, out of decadence. Robert Paxton's declines to define by doctrine and works from what he calls mobilising passions: the primacy of the group over individual rights, victimhood that licenses any action against enemies, the need for a purified community, the authority of a natural leader, and the beauty of violence.",
+       "The fascist claim, in its strongest form: liberalism produces atomisation and parliamentary paralysis; Marxism dissolves the nation into warring classes; only a nation mobilised under unified leadership can act decisively among competing nations. Mussolini's formula of 1925 - everything in the state, nothing outside the state, nothing against the state - is not merely a boast about power but a claim, drawn from Gentile's idealism, that the state is where a people's ethical life becomes real."
+      ]
+     },
+     {
+      "h": "How it differs from conservatism and from communism",
+      "p": [
+       "Conservatism defends existing institutions and hierarchies and distrusts mass enthusiasm. Fascism is revolutionary, contemptuous of the old elites even while allied with them, and depends on permanent mobilisation, a party militia and a cult of youth and violence. This is no scholastic distinction: it is why the conservatives who brought fascists into government - the Italian liberals in 1922, Franz von Papen's circle in January 1933 - believed they could contain them, and why they were catastrophically wrong.",
+       "The differences from communism are structural. Fascism retains private property but subordinates the owner to national purpose; it rejects class as the fundamental category and substitutes nation or race; it is anti-egalitarian and anti-universalist, where communism is universalist and egalitarian in doctrine however murderous in practice. Grouping the two as <em>totalitarianism</em> captures real shared features - single party, secret police, terror as an instrument of rule - and conceals real differences in aim. Orwell complained in Tribune in 1944 that the word fascism had become almost entirely meaningless, a way of saying something not desirable. Using it so costs you the ability to recognise the thing."
+      ]
+     },
+     {
+      "h": "Power, and the Holocaust",
+      "p": [
+       "Neither man seized power. The March on Rome was on 28 October 1922 and the king appointed Mussolini prime minister three days later, constitutionally. The Acerbo Law of 1923 awarded the leading list two-thirds of seats; the socialist deputy Giacomo Matteotti was murdered on 10 June 1924; Mussolini accepted responsibility on 3 January 1925. Hitler was appointed chancellor by Hindenburg on 30 January 1933, heading a cabinet containing three Nazis. The Reichstag fire decree of 28 February suspended civil liberties, the Enabling Act of 23 March transferred legislative power to the cabinet, and the Nuremberg Laws of 1935 stripped Jewish citizenship.",
+       "The Holocaust requires precision. The United States Holocaust Memorial Museum documents six million Jewish men, women and children murdered. Approximately 2.7 million died in the killing centres: around one million at Auschwitz-Birkenau, 925,000 at Treblinka II, 435,000 at Belzec, at least 167,000 at Sobibor and at least 152,000 at Chelmno. About two million were shot in more than 1,500 towns and villages by Einsatzgruppen, Order Police battalions and local auxiliaries. Between 800,000 and one million died of imposed starvation and disease in ghettos and camps. The Wannsee conference of 20 January 1942 coordinated a programme already running. Nazi killing policy also took some 3.3 million Soviet prisoners of war, 1.8 million non-Jewish Polish civilians, at least 250,000 and possibly 500,000 Roma and Sinti, and 250,000 to 300,000 disabled people under T4."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Palingenetic ultranationalism",
+      "def": "Griffin's definition of the fascist minimum: ultranationalism organised around a myth of national rebirth from decay."
+     },
+     {
+      "term": "Corporatism",
+      "def": "The organisation of the economy into state-supervised bodies of employers and workers by sector, presented as an alternative to both markets and class war."
+     },
+     {
+      "term": "Fuehrerprinzip",
+      "def": "The leader principle: authority flows downward from the leader and responsibility upward to him, displacing law and office."
+     },
+     {
+      "term": "Totalitarianism",
+      "def": "The comparative category grouping regimes that seek total control through a single party, an official ideology and terror - useful and contested in equal measure."
+     },
+     {
+      "term": "Squadrismo",
+      "def": "The organised political violence of Italian blackshirt squads against socialists and unions, which preceded and enabled the seizure of office."
+     },
+     {
+      "term": "Einsatzgruppen",
+      "def": "The mobile SS and police killing units that shot Jews, communist officials and others behind the German lines in the occupied Soviet territories."
+     },
+     {
+      "term": "Working towards the Fuehrer",
+      "def": "Ian Kershaw's term for subordinates anticipating and radicalising what they believed Hitler wanted, without waiting for explicit orders."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Giovanni Gentile (1875-1944)",
+      "note": "The regime philosopher who supplied Italian fascism with its idealist theory of the ethical state, and ghost-wrote much of the Doctrine of Fascism."
+     },
+     {
+      "name": "Robert O. Paxton",
+      "note": "The Anatomy of Fascism argues that fascism must be judged by what it did in successive stages, not by what it said it believed."
+     },
+     {
+      "name": "Roger Griffin",
+      "note": "Reduced fascism to a definable ideological core - the rebirth myth - making comparative study possible without flattening cases."
+     },
+     {
+      "name": "Ian Kershaw (b. 1943)",
+      "note": "Showed that the Nazi state radicalised through subordinates anticipating Hitler's wishes, not through a tidy chain of command."
+     }
+    ],
+    "debate": {
+     "title": "Is fascism a general category or only two national cases?",
+     "sides": [
+      {
+       "label": "General",
+       "text": "The family resemblance across Italy, Germany, the Romanian Iron Guard, the Hungarian Arrow Cross and Spanish Falangism is strong enough to support systematic comparison, and a definable core lets analysts identify new instances rather than being permanently surprised. Refusing to generalise leaves you with no vocabulary at all."
+      },
+      {
+       "label": "Particular",
+       "text": "Gilbert Allardyce's objection stands: the category is stretched until it covers regimes with almost nothing in common, and Italian fascism and Nazism differ so fundamentally on race and biology that treating them as species of one genus quietly imports Nazi content into cases that lacked it."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "The Anatomy of Fascism",
+      "who": "Robert O. Paxton - the best single book, and the one that changed how the question is posed."
+     },
+     {
+      "title": "Hitler, 1889-1936: Hubris",
+      "who": "Ian Kershaw - on how an unremarkable man was empowered by other people's calculations."
+     },
+     {
+      "title": "Nazi Germany and the Jews",
+      "who": "Saul Friedlaender - integrates the perpetrators' documents with the victims' own words."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "Why does the Wannsee conference matter if the killing had already begun?",
+      "a": "Because it marks the point at which the murder of European Jews became a coordinated programme across ministries rather than a set of regional operations. Mass shooting in the occupied Soviet territories had been under way since mid-1941 and Chelmno was already operating; Wannsee organised the bureaucracy around what was already happening."
+     },
+     {
+      "q": "What is the sharpest difference between fascism and conservatism?",
+      "a": "Conservatism seeks to preserve existing institutions and is wary of mobilising crowds; fascism seeks national rebirth through mobilisation and holds existing elites in contempt even when allied with them. The practical consequence is that conservatives who thought they could harness fascist movements consistently found the relationship running the other way."
+     }
+    ]
+   },
+   {
+    "id": "sys-5",
+    "title": "Liberal Democracy",
+    "oneLine": "The separable components of the system, the settlement built after 1945, and what the evidence says about how it performs.",
+    "minutes": 9,
+    "body": [
+     {
+      "h": "The components, and why they come apart",
+      "p": [
+       "Liberal democracy is a conjunction of things that are often treated as one. It requires elections competitive enough that incumbents genuinely lose - Adam Przeworski's deliberately minimal definition is that democracy is a system in which parties lose elections - together with near-universal adult suffrage, rights that hold against majorities, courts willing to apply law to the government, and a press the government does not control. Robert Dahl's Polyarchy reduced the institutional requirements to two dimensions along which real regimes vary: contestation and inclusiveness.",
+       "These components come apart, which is the most useful thing to know about them. Fareed Zakaria's <em>illiberal democracy</em> names elected governments that dismantle the constraints once in office; the reverse case, liberal but unelected, describes late colonial Hong Kong reasonably well. Here the common misconception is worth correcting directly: democracy is not majority rule simpliciter. The counter-majoritarian components - entrenched rights, independent courts, federalism, fixed electoral calendars - are constitutive rather than decorative, because a majority that can abolish them can also abolish the conditions of its own replacement, and after that there is no majority rule either."
+      ]
+     },
+     {
+      "h": "The post-1945 settlement and who built it",
+      "p": [
+       "The settlement was designed by people who had watched the interwar version fail. Karl Loewenstein's 1937 argument for <em>militant democracy</em> - that a democracy may legitimately deny its own procedures to movements committed to abolishing them - is written into the German Basic Law of 1949, which permits the banning of parties and places the core of the constitution beyond amendment. Around it sit Bretton Woods in 1944, the UN Charter in 1945, the Universal Declaration of Human Rights adopted on 10 December 1948 by a drafting process involving Eleanor Roosevelt, Rene Cassin, Charles Malik, P. C. Chang and John Humphrey, the European Convention on Human Rights in 1950, and the Schuman Declaration of 9 May 1950. All of these are devices for binding future governments, including one's own.",
+       "The domestic builders matter as much as the treaties: Konrad Adenauer in West Germany, Alcide De Gasperi in Italy, Clement Attlee in Britain, and in Japan a constitution drafted in 1946 under American occupation and in force from 1947. That last point produces an awkwardness worth sitting with. Several of the most durable democracies of the twentieth century were founded undemocratically, by occupying powers, on populations that had not asked for them. Any confident general theory about democracy requiring indigenous demand has to account for West Germany and Japan."
+      ]
+     },
+     {
+      "h": "The evidence, and the current pressure",
+      "p": [
+       "Does it perform? Daron Acemoglu, Suresh Naidu, Pascual Restrepo and James Robinson, working with 175 countries over 1960 to 2010, find that democratisations raise GDP per capita by about 20% in the long run, with most of the gain realised 25 to 30 years after transition, operating through investment, schooling and health provision. Amartya Sen's claim in Development as Freedom is narrower and sharper: no substantial famine has occurred in an independent country with competitive elections and a free press, because a government that can be removed must act on information it cannot suppress.",
+       "The pressure on the system is real and measurable rather than atmospheric. V-Dem's 2026 report counts 92 autocracies against 87 democracies, of which only 31 are liberal democracies, down from 45 in 2009; 74% of the world's population now lives under autocracies, and for the average global citizen the level of democracy has fallen back to roughly where it stood in 1978. The mechanism of decline has also changed. Backsliding now runs overwhelmingly through elected incumbents using legal instruments - court appointments, media ownership, electoral administration, emergency powers - rather than through coups, which makes each individual step defensible and the cumulative direction unmistakable."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Polyarchy",
+      "def": "Dahl's term for actually existing large-scale democracy, defined by degrees of contestation and inclusiveness rather than by an ideal."
+     },
+     {
+      "term": "Militant democracy",
+      "def": "Loewenstein's principle that a democracy may deny its procedures to those who would use them to destroy it, embodied in the German Basic Law."
+     },
+     {
+      "term": "Illiberal democracy",
+      "def": "Zakaria's label for governments that are genuinely elected and then systematically remove the constraints on their own power."
+     },
+     {
+      "term": "Horizontal accountability",
+      "def": "Constraint of the executive by other state institutions - courts, auditors, legislatures - as opposed to constraint by voters."
+     },
+     {
+      "term": "Entrenchment",
+      "def": "Making certain constitutional provisions harder or impossible to amend, so that today's majority cannot bind tomorrow's out of existence."
+     },
+     {
+      "term": "Democratic backsliding",
+      "def": "Incremental, usually legal, erosion of electoral fairness and constraints on the executive by an elected incumbent."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Robert Dahl (1915-2014)",
+      "note": "Replaced arguments about whether a country is really democratic with a measurable two-dimensional account of how far it is."
+     },
+     {
+      "name": "Adam Przeworski",
+      "note": "Defended a deliberately minimal definition - a democracy is a system in which parties lose elections - precisely because it can be applied without dispute."
+     },
+     {
+      "name": "Judith Shklar (1928-1992)",
+      "note": "The liberalism of fear: liberal institutions are justified less by any theory of the good than by the historical record of cruelty by governments."
+     },
+     {
+      "name": "Jean Monnet (1888-1979)",
+      "note": "Designed European integration as a series of small binding commitments rather than a constitutional moment, on the view that institutions outlast intentions."
+     }
+    ],
+    "debate": {
+     "title": "Is democratic backsliding driven mainly by economics or by culture?",
+     "sides": [
+      {
+       "label": "Economic",
+       "text": "Support for anti-system parties tracks measurable shocks: regions exposed to import competition and long-run wage stagnation swung hardest, and the timing follows the financial crisis closely. Institutions lose legitimacy when they visibly fail to deliver for large groups over decades, and no amount of procedural virtue substitutes for that."
+      },
+      {
+       "label": "Cultural",
+       "text": "The strongest predictors at the individual level are attitudes to immigration, national identity and social change rather than personal economic circumstances, and support is often strongest among voters who are not the worst off. On this account the driver is a backlash against value change, and economic remedies alone will not touch it."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "Polyarchy",
+      "who": "Robert Dahl - short, analytical, and the origin of the framework everyone still uses."
+     },
+     {
+      "title": "How Democracies Die",
+      "who": "Steven Levitsky and Daniel Ziblatt - on unwritten norms as the load-bearing part of the structure."
+     },
+     {
+      "title": "Development as Freedom",
+      "who": "Amartya Sen - the case that political freedom is instrumentally as well as intrinsically valuable."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "What does Przeworski's minimal definition buy you?",
+      "a": "Testability. Defining democracy as a system in which parties lose elections avoids arguments about how substantively free or equal a society is and produces a criterion that can be applied to any country from the record. It deliberately says nothing about whether the outcome is good."
+     },
+     {
+      "q": "Why does Sen think a free press prevents famine?",
+      "a": "Because famine is nearly always a failure of distribution and response rather than an absolute shortage of food. A government facing removal at the next election cannot ignore reporting of starvation, so relief moves early. Where the press is controlled, the information reaches decision-makers late or not at all."
+     }
+    ]
+   },
+   {
+    "id": "sys-6",
+    "title": "Social Democracy and the Welfare State",
+    "oneLine": "Bernstein's break with Marx, the institutions Beveridge and Attlee built, the Nordic route, and why none of it is socialism.",
+    "minutes": 9,
+    "body": [
+     {
+      "h": "Bernstein's revision",
+      "p": [
+       "Eduard Bernstein's Die Voraussetzungen des Sozialismus of 1899, published in English as Evolutionary Socialism, made an empirical argument rather than a moral one. Capital was not concentrating at the predicted rate; the middle strata were expanding rather than disappearing; real wages were rising; crises were not deepening towards collapse. If the collapse was not coming, socialism had to be built rather than awaited, through unions, cooperatives and the ballot. Kautsky defended orthodoxy against him, and Rosa Luxemburg's Reform or Revolution of 1900 made the objection that has never gone away: reforms won inside capitalism are reversible, because they leave untouched the question of who owns what.",
+       "The dispute was settled institutionally rather than intellectually. The split between social democrats and communists after 1917 hardened the two camps, and the German SPD formally abandoned Marxism at Bad Godesberg in 1959. It is worth registering that Bernstein's empirical bet was substantially vindicated by the twentieth century, and that Luxemburg's warning about reversibility reads considerably better after 1980 than it did in 1970."
+      ]
+     },
+     {
+      "h": "Building it",
+      "p": [
+       "William Beveridge's Social Insurance and Allied Services, published as Cmd 6404 in December 1942, named five giants on the road to reconstruction - Want, Disease, Ignorance, Squalor and Idleness - and proposed universal flat-rate contributory insurance. More than 600,000 copies of the report and its summaries had sold by February 1944. Attlee's government implemented most of it: the National Insurance Act and National Health Service Act of 1946, the NHS opening on 5 July 1948, alongside nationalisation of the Bank of England, coal, the railways and steel. Two details are usually lost: Beveridge was a Liberal, not a socialist, and his scheme was contributory and flat-rate by design, so the heavy redistribution associated with the welfare state came later and by other means.",
+       "The Nordic route was built differently. Sweden's <em>folkhem</em> rhetoric of the late 1920s, the Saltsjobaden agreement of 1938 between the union and employer federations, and the Rehn-Meidner model adopted from 1951 combined solidaristic wage-setting - equal pay for equal work across firms regardless of the firm's profitability - with active labour market policy. The design was deliberate: uniform wages would squeeze unproductive firms out of existence, and the state would retrain and relocate their workers rather than protect the jobs. Danish flexicurity is the direct descendant: weak employment protection, generous unemployment insurance, and heavy conditional activation."
+      ]
+     },
+     {
+      "h": "Why it is not socialism, and who actually pays",
+      "p": [
+       "The distinction turns on ownership. Socialism proper changes who owns the means of production; social democracy leaves ownership private and works on the distribution of the results through taxation, transfers, regulation and public provision of services. The Meidner wage-earner funds proposed in Sweden in 1976, which would have used a levy on profits to transfer ownership of large firms to union-controlled funds over a couple of decades, are the exception that establishes the rule: they were the one mainstream social-democratic proposal that crossed the ownership line, and they were defeated and abandoned.",
+       "The misconception worth killing is that Nordic welfare states are financed by taxing the rich. Denmark's total tax take was 45.2% of GDP in 2024 and Sweden's 41.4%, against 25.6% in the United States, but the revenue comes disproportionately from broad-based taxes on ordinary earners and from consumption: Denmark, Norway and Sweden all levy VAT at 25%, which is regressive in incidence. Denmark also has no statutory minimum wage, pay floors being set by collective agreement. Esping-Andersen classifies welfare systems by <em>decommodification</em>, how far a person can live decently without selling their labour, and it is there rather than in tax progressivity that the Nordic cluster is distinctive."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Revisionism",
+      "def": "Bernstein's argument that Marx's predictions about capitalist collapse had failed empirically and that socialism must therefore come by reform."
+     },
+     {
+      "term": "Decommodification",
+      "def": "Esping-Andersen's measure of how far welfare provision lets a person maintain a living standard without depending on the labour market."
+     },
+     {
+      "term": "Flat-rate contributory insurance",
+      "def": "Beveridge's design principle: everyone pays the same contribution and receives the same benefit, as a right rather than a favour."
+     },
+     {
+      "term": "Rehn-Meidner model",
+      "def": "The Swedish combination of equal pay across firms with active retraining, designed to force low-productivity firms out while protecting workers."
+     },
+     {
+      "term": "Flexicurity",
+      "def": "The Danish package of easy dismissal, generous unemployment benefit and intensive activation, which protects the worker rather than the job."
+     },
+     {
+      "term": "Wage-earner funds",
+      "def": "Meidner's 1976 proposal to transfer ownership of Swedish firms gradually to union-run funds financed from profits; proposed, diluted and abandoned."
+     },
+     {
+      "term": "Universalism",
+      "def": "Providing benefits and services to everyone rather than only to the poor, on the argument that services for the poor become poor services."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Eduard Bernstein (1850-1932)",
+      "note": "Engels' literary executor, who then argued from the data that the predicted collapse of capitalism was not coming."
+     },
+     {
+      "name": "William Beveridge (1879-1963)",
+      "note": "A Liberal economist whose 1942 report set the architecture of the British welfare state and sold over 600,000 copies."
+     },
+     {
+      "name": "Rudolf Meidner (1914-2005)",
+      "note": "Co-author of Sweden's wage policy model, and later of the one proposal that would have made social democracy socialist."
+     },
+     {
+      "name": "Gosta Esping-Andersen",
+      "note": "Showed that welfare states fall into three distinct regime types rather than sitting on a single spectrum of generosity."
+     }
+    ],
+    "debate": {
+     "title": "Is the Nordic model exportable, or does it depend on preconditions?",
+     "sides": [
+      {
+       "label": "Exportable",
+       "text": "The distinctive features are policy choices, not national characteristics: encompassing collective bargaining, broad-based taxation, universal services and active labour market policy were all built deliberately within living memory, in countries that were poor and emigrant-sending a century ago. Treating them as cultural inheritance is a way of declining to try."
+      },
+      {
+       "label": "Precondition-bound",
+       "text": "The model rests on very high institutional trust, small and historically homogeneous populations, disciplined union federations that internalise macroeconomic consequences, and a willingness to accept heavy taxation of median earners. Import the policies without those and you get the costs without the compliance."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "Evolutionary Socialism",
+      "who": "Eduard Bernstein - the founding document of reformist socialism, and still an argument rather than a slogan."
+     },
+     {
+      "title": "Reform or Revolution",
+      "who": "Rosa Luxemburg - the sharpest reply, and better than its reputation on the reversibility of reform."
+     },
+     {
+      "title": "The Three Worlds of Welfare Capitalism",
+      "who": "Gosta Esping-Andersen - the classification that structures the whole field."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "Was Bernstein's argument moral or empirical, and why does the distinction matter?",
+      "a": "Empirical. He claimed that capital was not concentrating, the middle strata were growing and crises were not deepening, so the predicted collapse would not arrive. That matters because it makes the argument answerable by evidence rather than by accusations of betrayal, which is how his opponents preferred to answer it."
+     },
+     {
+      "q": "Who actually pays for the Nordic welfare state?",
+      "a": "Ordinary earners and consumers. Denmark's tax take was 45.2% of GDP in 2024, and the revenue rests on broad income taxes and a 25% VAT rather than on steeply progressive taxation of the rich. The model earns consent through universal services received, not through progressivity in collection."
+     }
+    ]
+   },
+   {
+    "id": "sys-7",
+    "title": "Authoritarianism, Personalist Rule and Military Government",
+    "oneLine": "The working mechanics of modern autocracy, three regimes examined closely, and the strongest form of the case that dictatorship develops.",
+    "minutes": 10,
+    "body": [
+     {
+      "h": "The mechanics",
+      "p": [
+       "Juan Linz's 1964 distinction between authoritarian and totalitarian regimes remains the useful one. Authoritarian regimes have limited, not responsible, political pluralism; no elaborate guiding ideology but distinctive mentalities; little mobilisation; and a leader or small group exercising power within ill-defined but fairly predictable limits. That last clause matters: a totalitarian regime demands your participation and your belief, an authoritarian one wants you out of politics altogether.",
+       "Two mechanisms explain most autocratic behaviour. Bueno de Mesquita's selectorate theory holds that a ruler needing only a small winning coalition buys it with private goods - jobs, contracts, licences - while one needing a large coalition must supply public goods. The second is the dictator's dilemma: repression works by suppressing criticism, which is also the channel through which a ruler learns that policy is failing. <em>Coup-proofing</em> follows the same logic - parallel praetorian units, ethnic stacking of the officer corps, rotation of commands - buying protection against the army at the cost of its effectiveness."
+      ]
+     },
+     {
+      "h": "Three cases",
+      "p": [
+       "Franco's Spain is where Linz's category came from: after 1945 it demoted the Falange, dropped the fascist trappings and settled into unmobilised rule by army, church and business. Estimates of Nationalist wartime executions from 1936 to 1939 run from Hugh Thomas's 75,000 through Julian Casanova's 100,000 to Gabriel Jackson's 200,000; postwar executions to 1947 are put at 25,000 by Josep Fontana, 30,000 by Stanley Payne and 50,000 by Casanova; the range cited overall is 160,000 to 400,000. From 1957 technocrats linked to Opus Dei ran the Stabilisation Plan of 1959 and the growth that followed.",
+       "Pinochet took power by coup on 11 September 1973. Chile's official reckoning, after the Rettig Commission of 1991, the Valech Commission of 2004 and the 2011 expansion, recognises 40,018 victims, of whom 3,065 were killed or forcibly disappeared and the rest survived imprisonment and torture. The economic record is two-sided and usually reported as one: liberalisation from 1975 was followed by a severe banking collapse in 1982, then sustained growth from the mid-1980s. The regime lost its own plebiscite in October 1988 and handed over in 1990.",
+       "Lee Kuan Yew's Singapore is the strongest case for the developmental argument. From a resource-less port at separation from Malaysia in 1965 it reached one of the world's highest incomes per head, through the Economic Development Board's courting of multinationals, compulsory saving via the Central Provident Fund, a well-paid meritocratic civil service and public housing holding eighty per cent of residents. The other column: detention without trial under the Internal Security Act, defamation suits that bankrupted opponents, and a ruling party that has never lost an election."
+      ]
+     },
+     {
+      "h": "Competitive authoritarianism and the developmental state",
+      "p": [
+       "Levitsky and Way's Competitive Authoritarianism, in 2010, named the dominant contemporary form: regimes with real elections, opposition parties and a working parliament, in which the field is tilted so far by media ownership, state resources, selective prosecution and electoral administration that turnover is very unlikely without being impossible. The important claim is that this is a stable regime type, not a way-station towards democracy, and it is what most autocratisation now produces. Hungary since 2010 is the textbook European instance.",
+       "Chalmers Johnson on Japan's MITI and Alice Amsden on South Korea argued that late industrialisation required a bureaucracy insulated from distributive politics, able to discipline firms by tying subsidised credit to export performance and to sustain horizons no electoral cycle rewards. The rebuttal is not that this never happened but that it selects on survivors. The variance of authoritarian performance is enormous - the same regime type produced Park Chung-hee and Mobutu - while Acemoglu and colleagues find democratisation raises income by about a fifth over a generation."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Winning coalition",
+      "def": "The subset of the elite whose support a ruler actually needs; its size determines whether the ruler buys loyalty with private goods or public ones."
+     },
+     {
+      "term": "Coup-proofing",
+      "def": "Structuring the armed forces against internal seizure through parallel units, ethnic stacking and rotation, at a cost to military effectiveness."
+     },
+     {
+      "term": "Competitive authoritarianism",
+      "def": "Levitsky and Way's regime type: genuine multiparty competition on a field tilted so far that the incumbent's defeat is very improbable."
+     },
+     {
+      "term": "Personalist regime",
+      "def": "One in which access to office, policy and the security services runs through a single individual rather than a party or the officer corps."
+     },
+     {
+      "term": "Preference falsification",
+      "def": "Kuran's mechanism whereby people publicly misstate their views under repression, leaving regimes and observers blind to how much support is real."
+     },
+     {
+      "term": "Developmental state",
+      "def": "A bureaucratic apparatus that directs industrialisation by conditioning credit and protection on measurable performance, usually export performance."
+     },
+     {
+      "term": "Bureaucratic authoritarianism",
+      "def": "O'Donnell's term for the technocratic military regimes of 1960s and 1970s Latin America, justified by the need to impose economic discipline."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Juan Linz (1926-2013)",
+      "note": "Separated authoritarian from totalitarian rule, using Franco's Spain as the case that would not fit either existing box."
+     },
+     {
+      "name": "Barbara Geddes",
+      "note": "Classified autocracies as personalist, military, party or monarchy, and showed each type fails in a characteristic way."
+     },
+     {
+      "name": "Steven Levitsky",
+      "note": "With Lucan Way, established that regimes holding real but unfair elections are a stable type rather than an incomplete transition."
+     },
+     {
+      "name": "Chalmers Johnson (1931-2010)",
+      "note": "MITI and the Japanese Miracle put the developmental state on the agenda and forced economists to take industrial policy seriously."
+     }
+    ],
+    "debate": {
+     "title": "Does authoritarian rule deliver development?",
+     "sides": [
+      {
+       "label": "It can",
+       "text": "Insulation from distributive politics permits twenty- and thirty-year horizons, credible commitment to exporters and the imposition of short-term costs that no elected government survives. Korea, Taiwan and Singapore industrialised at speeds no democracy of comparable income has matched, and China's post-1978 record is the largest poverty reduction ever recorded."
+      },
+      {
+       "label": "It mostly does not",
+       "text": "This is selection on the winners. The same regime type that produced Park Chung-hee produced Mobutu, Ceausescu and Mugabe, and the variance of outcomes is far wider than under democracy while the mean is lower. Acemoglu and colleagues find democratisation raises income by around 20% over a generation, and the East Asian ingredients - land reform, mass schooling, export discipline - are not authoritarian in themselves."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "Totalitarian and Authoritarian Regimes",
+      "who": "Juan Linz - the source of the distinction everything else in the field builds on."
+     },
+     {
+      "title": "Competitive Authoritarianism",
+      "who": "Levitsky and Way - the best account of how modern autocracies win elections they have not rigged outright."
+     },
+     {
+      "title": "The Dictator's Handbook",
+      "who": "Bueno de Mesquita and Smith - selectorate theory made readable, and cynical in a productive way."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "What distinguishes competitive authoritarianism from a merely flawed democracy?",
+      "a": "Not the presence of irregularities but the systematic tilt of the field: control of broadcast media, use of state resources for the incumbent, selective prosecution of opponents and capture of electoral administration. Opposition parties compete genuinely, and genuinely cannot win under normal conditions, which is different from losing."
+     },
+     {
+      "q": "Why does coup-proofing weaken an army?",
+      "a": "Because the measures that stop officers organising against the ruler are the same ones that stop them organising effectively at all: parallel loyalist formations, promotion by loyalty rather than competence, rotation of commands, and restrictions on communication between units. The result is a force structured against its own general staff."
+     }
+    ]
+   },
+   {
+    "id": "sys-8",
+    "title": "Anarchism, Libertarianism and the Anti-State Traditions",
+    "oneLine": "Why opposing the state is not one position, and what separates Kropotkin from Rothbard almost entirely.",
+    "minutes": 9,
+    "body": [
+     {
+      "h": "Anarchism is a socialist tradition",
+      "p": [
+       "Pierre-Joseph Proudhon's What Is Property? of 1840 supplied the slogan that property is theft and, in the same book, the claim that property is freedom. The contradiction is deliberate: he attacked property as a claim on the labour of others through rent, interest and profit, while defending possession of what one uses. He was the first person to call himself an anarchist, and his mutualism proposed free credit and federated producers' associations rather than expropriation by a state.",
+       "Bakunin's quarrel with Marx, which ended in his expulsion from the First International at The Hague in September 1872, produced the tradition's best prediction. In Statism and Anarchy he argued that a workers' state would be rule by former workers who, on becoming rulers, would cease to be workers and would look down at the plain working masses from the governing heights of the state. Kropotkin supplied the positive science: Mutual Aid, in 1902, argued from field observation against the reading of Darwin that made competition the sole engine of evolution, while The Conquest of Bread sketched distribution by need through federated communes. The one large-scale trial came in Spain in 1936-37, when the CNT collectivised much of Catalan industry and rural Aragon."
+      ]
+     },
+     {
+      "h": "The libertarian right",
+      "p": [
+       "Murray Rothbard's For a New Liberty, published in 1973, takes self-ownership and the non-aggression principle to their conclusion. Taxation is compulsory extraction and therefore theft; no state can be legitimate; courts, police and defence should be supplied by competing private firms under private law. This is anarcho-capitalism, a radical position rather than a demand for smaller government. Robert Nozick's Anarchy, State, and Utopia, in 1974, is best read as a book against it: protective associations in a state of nature would evolve, through an invisible-hand process violating nobody's rights, into a dominant agency that is in effect the minimal state.",
+       "The rest argues that anything more extensive is unjustified, and its engine is the entitlement theory: a distribution is just if it arose by just acquisition and just transfer, whatever its shape. The Wilt Chamberlain argument makes this vivid. Begin from any pattern you prefer; let a million people each freely pay a small sum to watch one man play basketball; the pattern is gone, and restoring it requires continuous interference with holdings that were justly theirs. Nozick later wrote in The Examined Life in 1989 that the libertarian position he once propounded now seemed to him seriously inadequate, though he told an interviewer in 2001 that reports of his apostasy had been exaggerated."
+      ]
+     },
+     {
+      "h": "Why these are not one tradition",
+      "p": [
+       "The classical anarchists and the anarcho-capitalists share one conclusion and almost no premises. Kropotkin opposed the state because it existed to enforce property; Rothbard opposes it because it violates property. Anarchism is anti-capitalist by construction, treating concentrated private economic power as domination, which is why anarchists fought employers and landlords as hard as governments. Nozick is not an anarchist at all - his conclusion is a state - and Rothbard's reply to him demolished the invisible-hand derivation at length. Placing all of these on one line from more state to less produces nonsense.",
+       "Each tradition has a genuine empirical case. Elinor Ostrom's Governing the Commons documented long-lived, self-organised institutions managing irrigation, fisheries and alpine pasture for centuries without state ownership or privatisation - direct evidence that durable order does not require a monopoly on force. Against it stands Tilly's account of state formation as protection rackets that succeeded, and Nozick's own argument, converging from opposite directions: competing protection agencies face steep returns to scale and tend towards monopoly. If that is right, stateless orders do not replace states so much as manufacture them."
+      ]
+     }
+    ],
+    "concepts": [
+     {
+      "term": "Mutualism",
+      "def": "Proudhon's system of free credit, possession based on use, and exchange between federated producers' associations."
+     },
+     {
+      "term": "Anarcho-communism",
+      "def": "Kropotkin's version: common ownership plus distribution according to need, organised through voluntary federation from the commune upward."
+     },
+     {
+      "term": "Propaganda by the deed",
+      "def": "The late nineteenth-century tactic of spectacular political violence intended to inspire imitation; it mainly produced repression and the modern police."
+     },
+     {
+      "term": "Non-aggression principle",
+      "def": "The libertarian axiom that initiating force against person or justly held property is impermissible, from which Rothbard derives the illegitimacy of the state."
+     },
+     {
+      "term": "Anarcho-capitalism",
+      "def": "Rothbard's position that law, courts and defence should be produced by competing private firms rather than by any state."
+     },
+     {
+      "term": "Entitlement theory",
+      "def": "Nozick's account of justice in holdings as a matter of history - just acquisition, just transfer, rectification - rather than of the resulting pattern."
+     },
+     {
+      "term": "Polycentric governance",
+      "def": "Ostrom's finding that overlapping, self-organised authorities can manage shared resources durably without central control or private ownership."
+     }
+    ],
+    "thinkers": [
+     {
+      "name": "Pierre-Joseph Proudhon (1809-1865)",
+      "note": "The first self-declared anarchist, whose target was property as a claim on others' labour rather than possession as such."
+     },
+     {
+      "name": "Peter Kropotkin (1842-1921)",
+      "note": "A prince turned geographer who argued from natural history that cooperation is an evolutionary strategy, not a sentimental hope."
+     },
+     {
+      "name": "Murray Rothbard (1926-1995)",
+      "note": "Pushed self-ownership to anarcho-capitalism, insisting that even courts and defence should be sold rather than provided."
+     },
+     {
+      "name": "Robert Nozick (1938-2002)",
+      "note": "Wrote the most rigorous defence of the minimal state, aimed as much at anarchists as at egalitarians, and later called his own position inadequate."
+     }
+    ],
+    "debate": {
+     "title": "Can social order be supplied without a monopoly on force?",
+     "sides": [
+      {
+       "label": "Yes",
+       "text": "Ostrom's cases show communities sustaining complex rule systems over centuries without either state or market ownership, and medieval commercial law developed largely through merchant courts rather than sovereigns. Order is a product of repeated interaction, reputation and locally designed sanctions; the state monopolises what already existed and claims credit for it."
+      },
+      {
+       "label": "No",
+       "text": "Protection has steep returns to scale, and agencies that can enforce against each other will merge or conquer until one dominates - which is Tilly's history and Nozick's argument reaching the same place. Ostrom's successful commons are typically small, stable, and operating inside a state that supplies the background enforcement they do not have to build."
+      }
+     ]
+    },
+    "reading": [
+     {
+      "title": "The Conquest of Bread",
+      "who": "Peter Kropotkin - the clearest statement of what anarchist communism actually proposed."
+     },
+     {
+      "title": "Anarchy, State, and Utopia",
+      "who": "Robert Nozick - argumentatively the strongest book on the libertarian side, and a book against anarchism."
+     },
+     {
+      "title": "Governing the Commons",
+      "who": "Elinor Ostrom - the empirical work that made self-governance a serious subject rather than a slogan."
+     }
+    ],
+    "quiz": [
+     {
+      "q": "Why is it a mistake to place anarchism and libertarianism on the same spectrum?",
+      "a": "Because they oppose the state for opposite reasons. Kropotkin objected that the state exists to enforce property claims; Rothbard objects that it violates them. Classical anarchism is a branch of socialism and treats concentrated private economic power as domination, so the two traditions agree only on the conclusion."
+     },
+     {
+      "q": "What is the Wilt Chamberlain argument meant to show?",
+      "a": "That any principle requiring holdings to match a particular pattern is incompatible with letting people do as they like with what is theirs. Starting from a pattern you approve of, voluntary transfers immediately destroy it, so maintaining the pattern requires continuous intervention. Whether that is decisive depends on whether the initial holdings were justly acquired, which is where most replies begin."
+     }
+    ]
+   }
+  ]
+ }
+]

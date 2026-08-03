@@ -1,5 +1,5 @@
 {
- "blurb": "Ideas are easier to hold on to when they are attached to the person who had to fight for them. These are thirty-nine figures whose work still structures how we argue — chosen for reach across the eleven tracks and across the world, not for the standard list. Every entry ends with the strongest standing objection, because a thinker you cannot criticise is one you have not understood.",
+ "blurb": "Ideas are easier to hold on to when they are attached to the person who had to fight for them. These are fifty-five figures whose work still structures how we argue — chosen for reach across the eleven tracks and across the world, not for the standard list. Every entry ends with the strongest standing objection, because a thinker you cannot criticise is one you have not understood.",
  "eras": [
   {
    "id": "ancient",
@@ -1047,6 +1047,418 @@
     "sci-6",
     "pol-5",
     "soc-8"
+   ]
+  },
+  {
+   "id": "socrates",
+   "name": "Socrates",
+   "dates": "c. 470–399 BCE",
+   "era": "ancient",
+   "fields": [
+    "Philosophy"
+   ],
+   "oneLine": "Made questioning rather than assertion the characteristic activity of philosophy, and died for it.",
+   "bio": "Socrates wrote nothing. What we have is Plato's dramatisations, Xenophon's more pedestrian memoirs and Aristophanes's hostile caricature, which leaves the historical man permanently out of reach — the problem is old enough to have its own name, the Socratic problem. What does survive is a method: relentless questioning of people who claimed to know what courage or justice or piety was, pressed until the definition collapsed under its own commitments. He advanced no doctrine of his own, only an awareness of how little he knew, which the Delphic oracle had apparently called wisdom.\n\nThe <em>elenchus</em> — cross-examination that exposes contradiction inside a person's own beliefs rather than importing an outside standard — is the ancestor of the seminar, the tutorial and the legal cross-examination. Its ethical content is severe: virtue is a kind of knowledge, nobody does wrong willingly, and it is worse to commit injustice than to suffer it. He was tried in 399 BCE for impiety and corrupting the young, in an Athens still raw from military defeat and an oligarchic coup led partly by men he had taught. Offered exile or silence, he took the hemlock. The trial is the founding scene of the quarrel between the philosopher and the city, and it has never been settled.",
+   "ideas": [
+    "The elenchus — refutation drawn from a person's own admissions rather than an external standard.",
+    "Professed ignorance as the honest starting point of inquiry.",
+    "Virtue is knowledge, and wrongdoing is therefore a form of error.",
+    "It is better to suffer injustice than to commit it."
+   ],
+   "quote": "The unexamined life is not worth living.",
+   "quoteNote": "Plato, Apology 38a, spoken at his trial — the fuller sense is that a life without self-scrutiny is not worth living for a human being.",
+   "criticism": "We cannot separate him from Plato, who plainly used him as a mouthpiece for views the historical Socrates may never have held, so every claim about his thought is an inference from an interested source. The method also has a real defect his own students noticed: it is far better at demolishing definitions than at producing one, and most of the early dialogues simply end in deadlock.",
+   "modules": [
+    "phi-1",
+    "phi-2",
+    "phi-4"
+   ]
+  },
+  {
+   "id": "plato",
+   "name": "Plato",
+   "dates": "c. 428–348 BCE",
+   "era": "ancient",
+   "fields": [
+    "Philosophy",
+    "Politics"
+   ],
+   "oneLine": "Set the agenda for Western philosophy by asking whether the world we perceive is the real one.",
+   "bio": "Plato's central move is to distinguish what changes from what does not. Particular beautiful things come and go, disagree with each other and look different from different angles; beauty itself does not. He concluded that there is a realm of Forms — stable, non-physical, graspable by reason rather than sense — and that ordinary objects are real only in the derivative way a shadow is real. The allegory of the cave, in which prisoners take shadows on a wall for the whole of reality and resist the one who returns to tell them otherwise, is the image that has carried the doctrine for two and a half millennia.\n\nHe wrote in dialogue, which lets him argue positions he does not obviously hold and makes his own view genuinely difficult to pin down. The Republic ties epistemology to politics: if there is objective knowledge of the good, then rule should belong to those who have it, and the just city mirrors the just soul, with reason governing spirit and appetite. He founded the Academy, which ran in some form for nearly three centuries. Whitehead's remark that European philosophy is a series of footnotes to Plato is an exaggeration that survives because the topics he opened — knowledge, forms, the soul, justice, love, art's relation to truth — are still the topics.",
+   "ideas": [
+    "The Theory of Forms — abstract, unchanging entities as the objects of real knowledge.",
+    "The allegory of the cave: education as painful reorientation, not the transfer of information.",
+    "The tripartite soul — reason, spirit and appetite — mirrored in the three classes of the city.",
+    "The dialogue as philosophical form, staging arguments rather than asserting conclusions."
+   ],
+   "quote": "Until philosophers rule as kings, cities will have no rest from evils.",
+   "quoteNote": "Republic 473c–d, compressed; the passage adds that political power and philosophy must coincide in the same persons.",
+   "criticism": "The Forms face an objection Plato himself raises in the Parmenides and never satisfactorily answers: if a Form is what particulars share, a further Form seems needed to explain what the Form and its particulars share, and so on without end. The politics is worse — Karl Popper's charge that the Republic is a blueprint for a censorious, caste-bound and deceptive authoritarianism overstates the case but does not invent it.",
+   "modules": [
+    "phi-2",
+    "phi-5",
+    "phi-4"
+   ]
+  },
+  {
+   "id": "epictetus",
+   "name": "Epictetus",
+   "dates": "c. 50–135 CE",
+   "era": "ancient",
+   "fields": [
+    "Philosophy",
+    "Psychology"
+   ],
+   "oneLine": "Reduced Stoic ethics to a single practical distinction that psychotherapy would rediscover eighteen centuries later.",
+   "bio": "Epictetus was born a slave in Phrygia, was owned by a freedman of Nero's court, studied Stoicism while still enslaved, and taught at Nicopolis after Domitian expelled the philosophers from Rome. He wrote nothing; the Discourses and the compressed Enchiridion were taken down by his student Arrian, which puts him in the same evidential position as Socrates, though the transcription is closer to the source.\n\nHis whole teaching turns on one division. Some things are up to us — judgement, intention, desire, assent — and some are not: body, reputation, office, other people, outcomes. Suffering comes from treating the second category as though it were the first. The practical consequence is not passivity but a redirection of effort: act vigorously in the world, and hold the result loosely, because the result was never yours. He treats emotions as consequences of judgements rather than as brute feelings, which is why he is quoted in the founding literature of cognitive therapy and why <strong>Stoicism</strong> keeps returning as a self-help idiom. The Roman emperor Marcus Aurelius read him closely; so did the American pilot James Stockdale, who credited the Enchiridion with getting him through seven years in a Hanoi prison, four of them in solitary confinement.",
+   "ideas": [
+    "The dichotomy of control — distinguish what is genuinely in your power from what is not.",
+    "Emotions follow from judgements, and judgements can be examined and revised.",
+    "Role ethics: play well the part you have been given rather than the one you wanted.",
+    "Philosophy as daily training, not doctrine — the Enchiridion is a handbook, not a treatise."
+   ],
+   "quote": "Men are disturbed not by things, but by the views which they take of things.",
+   "quoteNote": "Enchiridion 5, in Higginson's translation; wordings vary because the Greek is terse, but the claim is constant across versions.",
+   "criticism": "The dichotomy of control is cleaner in the handbook than in life: almost everything that matters is partly up to us and partly not, and the doctrine gives no guidance on the mixed cases that make up most of experience. Critics from Martha Nussbaum onwards have also argued that the price of Stoic tranquillity is a thinning of attachment — if you hold your child as loosely as your reputation, something has gone wrong.",
+   "modules": [
+    "phi-4",
+    "psy-8",
+    "rel-8"
+   ]
+  },
+  {
+   "id": "descartes",
+   "name": "Rene Descartes",
+   "dates": "1596–1650",
+   "era": "enlightenment",
+   "fields": [
+    "Philosophy",
+    "Science"
+   ],
+   "oneLine": "Rebuilt knowledge from a single indubitable starting point, and left philosophy with a mind–body problem it still has.",
+   "bio": "Descartes wanted certainty of the kind mathematics has, and he pursued it by demolition. Suppose the senses deceive; suppose you are dreaming; suppose an all-powerful deceiver is manipulating every thought. What survives? That there is a thinking thing doing the doubting. <em>I think, therefore I am</em> is not offered as a syllogism but as the one item that cannot be doubted in the act of doubting it. From that foundation he attempted, far less convincingly, to argue outwards to God and then to the reliability of clear and distinct perception.\n\nHis working science mattered as much as his epistemology. He co-invented analytic geometry, which lets curves be handled as equations and is the mathematical basis of everything Newton later did; he gave a mechanical account of the body as a system of pipes and levers, including a recognisable model of the reflex. That is also where his notorious difficulty lies. If mind is an unextended thinking substance and body an extended unthinking one, they have no common property by which to interact — and his proposal that they meet at the pineal gland was already regarded as feeble by Princess Elisabeth of Bohemia, whose letters press him on exactly this point and receive no adequate reply.",
+   "ideas": [
+    "Methodical doubt — reject anything that admits of the slightest uncertainty, then see what remains.",
+    "The cogito as the one proposition that cannot be doubted while being thought.",
+    "Substance dualism: mind and body as fundamentally different kinds of thing.",
+    "Analytic geometry — algebraic treatment of curves, and the coordinate system that bears his name."
+   ],
+   "quote": "I think, therefore I am.",
+   "quoteNote": "Discourse on the Method, Part IV, in French as 'je pense, donc je suis'; the Latin 'cogito ergo sum' appears later in the Principles of Philosophy.",
+   "criticism": "The move from the cogito to the external world runs through a proof of God that most readers find question-begging — the Cartesian circle, where clear and distinct ideas guarantee God and God guarantees clear and distinct ideas. And dualism has not survived: it cannot say how an immaterial mind moves a physical arm, which is why most philosophy of mind since has been an attempt to do without it.",
+   "modules": [
+    "phi-2",
+    "phi-7",
+    "phi-6"
+   ]
+  },
+  {
+   "id": "spinoza",
+   "name": "Baruch Spinoza",
+   "dates": "1632–1677",
+   "era": "enlightenment",
+   "fields": [
+    "Philosophy",
+    "Religion & Spirituality",
+    "Politics"
+   ],
+   "oneLine": "Identified God with nature, removed free will from the picture, and was excommunicated for far less than he actually thought.",
+   "bio": "Spinoza was expelled from Amsterdam's Portuguese Jewish community in 1656, at twenty-three, with a writ of unusual severity, and spent the rest of his life grinding optical lenses and refusing academic posts that would have constrained him. The Ethics, published only after his death, is written in the form of Euclid: definitions, axioms, propositions, proofs. The conclusion it grinds towards is that there is exactly one substance, which may be called God or Nature, and that everything else — minds, bodies, thoughts, stones — is a mode of it. Nothing stands outside the causal order, including us.\n\nThat costs him free will, which he regards as an illusion arising from our awareness of our desires and ignorance of their causes. It does not cost him ethics. Freedom is redefined as understanding: to be passive is to be pushed about by inadequate ideas of what is happening to you, and to grasp the causes of your own emotions is to be less at their mercy. His Theological-Political Treatise argued that scripture must be read historically like any other text, that miracles are not evidence, and that a state should permit its citizens to think and say what they like — one of the earliest fully worked arguments for freedom of expression, published anonymously and promptly banned.",
+   "ideas": [
+    "Deus sive Natura — one infinite substance, of which everything else is a mode.",
+    "Strict determinism, with freedom redefined as adequate understanding of one's own causes.",
+    "The emotions treated as natural phenomena to be analysed, not sins to be condemned.",
+    "Historical-critical reading of scripture, and toleration as a condition of a stable state."
+   ],
+   "quote": "I have laboured carefully, not to mock, lament, or execrate, but to understand human actions.",
+   "quoteNote": "Political Treatise I.4, Elwes's translation — his statement of method, and the sentence Freud and the social sciences later kept returning to.",
+   "criticism": "The geometrical presentation gives an appearance of proof that the arguments do not always earn: much of the Ethics depends on definitions of substance and attribute that a reader can simply decline to accept, and once declined, nothing follows. His determinism also strains ordinary moral practice — if no one could have acted otherwise, it is unclear what remains of blame beyond a useful social habit.",
+   "modules": [
+    "phi-7",
+    "rel-6",
+    "phi-2"
+   ]
+  },
+  {
+   "id": "john-stuart-mill",
+   "name": "John Stuart Mill",
+   "dates": "1806–1873",
+   "era": "long19",
+   "fields": [
+    "Philosophy",
+    "Politics",
+    "Economics"
+   ],
+   "oneLine": "Gave liberalism its sharpest statement of where society's authority over the individual stops.",
+   "bio": "Mill was raised as an experiment. His father taught him Greek at three and political economy at thirteen, on Benthamite principles, and at twenty he suffered a collapse he described as the loss of any capacity to care whether his own reforming projects succeeded. The recovery came through Wordsworth and through an argument he never abandoned afterwards: that utilitarianism as he had inherited it could not account for what makes a life worth living. His revision distinguishes higher from lower pleasures on the testimony of those who have experienced both, which is why he says it is better to be Socrates dissatisfied than a fool satisfied.\n\nOn Liberty states the harm principle — the only warrant for coercing an adult against their will is to prevent harm to others; their own good is not sufficient warrant. He extends this to opinion with an argument that does not depend on tolerance being pleasant: a silenced opinion may be true, or partly true, and even a wholly false one keeps the true one from decaying into dead dogma. The Subjection of Women, written with Harriet Taylor Mill's collaboration, argued in 1869 that the legal subordination of women was both unjust and a straightforward waste of half the available human capacity. As an MP he introduced the first parliamentary amendment for women's suffrage.",
+   "ideas": [
+    "The harm principle — self-regarding conduct is not the state's business.",
+    "Higher and lower pleasures: utility revised to account for quality as well as quantity.",
+    "Free expression defended on grounds of fallibility, not of comfort.",
+    "The subjection of women as an injustice and an economic and intellectual loss."
+   ],
+   "quote": "Over himself, over his own body and mind, the individual is sovereign.",
+   "quoteNote": "On Liberty, chapter 1 — the sentence that completes his statement of the harm principle.",
+   "criticism": "The line between self-regarding and other-regarding conduct will not hold: almost any sustained private action has effects on dependants, communities and public provision, which is where most modern arguments about liberty actually take place. His endorsement of despotism as legitimate for 'barbarians' — written while he worked for the East India Company — is not a stray remark but a stated exception inside the very chapter that announces the principle.",
+   "modules": [
+    "phi-3",
+    "phi-5",
+    "pol-4"
+   ]
+  },
+  {
+   "id": "nietzsche",
+   "name": "Friedrich Nietzsche",
+   "dates": "1844–1900",
+   "era": "long19",
+   "fields": [
+    "Philosophy",
+    "Arts & Creativity"
+   ],
+   "oneLine": "Asked where our moral values came from, and argued that the answer discredits them.",
+   "bio": "Nietzsche held a chair in classical philology at Basel at twenty-four and resigned ten years later, wrecked by migraine and eye trouble; he wrote almost everything he is known for in the following decade, and collapsed into insanity in Turin at forty-four. His method is genealogical rather than argumentative in the usual sense. Rather than asking whether a moral claim is true, he asks who benefited from its becoming believed — and answers, in On the Genealogy of Morality, that the values of humility, meekness and pity were a revaluation devised by the weak against an aristocratic ethic of strength, and then successfully universalised.\n\nThe announcement that God is dead is a diagnosis, not a boast. He thought European culture had lost the belief that had underwritten its morality and had not noticed, and that the plausible sequels were nihilism or a hard reconstruction of values from nothing. Eternal recurrence — would you will this same life again, unchanged, endlessly? — is offered as a test of whether you can affirm your existence without a metaphysical guarantee. He is also one of the great German prose stylists, working in aphorism because he distrusted systems, which is precisely what has made him so easy to quote in support of things he did not hold.",
+   "ideas": [
+    "Genealogy — evaluate a moral system by tracing the interests that produced it.",
+    "Master and slave morality, and the revaluation of values driven by ressentiment.",
+    "The death of God as a cultural fact with unmet consequences.",
+    "Eternal recurrence as a test of whether a life can be affirmed without external justification."
+   ],
+   "quote": "God is dead. God remains dead. And we have killed him.",
+   "quoteNote": "The Gay Science, section 125, the parable of the madman — who is not celebrating, and whom the crowd does not understand.",
+   "criticism": "The genealogical move risks the genetic fallacy: showing that a value arose from resentment does not show that it is false or that we should abandon it. His posthumous reputation is also inseparable from his sister Elisabeth, an antisemite who edited his notebooks into the fabricated Will to Power and handed the result to the Nazis — a distortion, but one his own rhetoric about hierarchy and strength made possible.",
+   "modules": [
+    "phi-4",
+    "rel-7",
+    "phi-8"
+   ]
+  },
+  {
+   "id": "simone-weil",
+   "name": "Simone Weil",
+   "dates": "1909–1943",
+   "era": "modern",
+   "fields": [
+    "Philosophy",
+    "Religion & Spirituality",
+    "Politics"
+   ],
+   "oneLine": "Made attention to the suffering of a particular person the central act of both ethics and thought.",
+   "bio": "Weil placed first in the entrance examination to the Ecole Normale Superieure the year Simone de Beauvoir placed second, taught philosophy in provincial lycees, and then took a year's leave to work on the production lines at Alsthom and Renault because she did not think she could write about factory labour without doing it. The experience did not produce a theory of exploitation so much as a description of what repetitive industrial work does to the capacity to think at all. She went to Spain in 1936, fought badly and briefly, and joined the Free French in London, where she refused to eat more than she believed those in occupied France received. She died at thirty-four in a sanatorium in Kent.\n\nHer philosophical contribution is a concept of <em>attention</em>: not effort or concentration but a suspension of the self, a waiting, that makes it possible to see another person as they actually are rather than as a case or a means. Affliction — <em>malheur</em>, a compound of physical pain, social degradation and self-loathing — destroys precisely this capacity, in the sufferer and in those who look away. The Need for Roots, written for the postwar reconstruction of France, argues that obligations are prior to rights and that rootedness is a human need as basic as food.",
+   "ideas": [
+    "Attention as the moral faculty — seeing a particular person without the self getting in the way.",
+    "Affliction as distinct from suffering: pain compounded by degradation and self-contempt.",
+    "Obligations are prior to rights, and rights derive from them rather than the reverse.",
+    "Rootedness — belonging to a place, a past and a community — as a basic human need."
+   ],
+   "quote": "Attention is the rarest and purest form of generosity.",
+   "quoteNote": "From a letter to the poet Joe Bousquet, 13 April 1942 — one of the few of her famous lines with a firm, datable source.",
+   "criticism": "Her asceticism shades into a self-destruction that is difficult to separate from the doctrine: a philosophy of decreation advanced by someone who starved herself to death invites the question of whether it is a moral insight or a symptom. Her writing on Judaism and on the Old Testament is also, by any reading, hostile in a way her admirers have never managed to explain away.",
+   "modules": [
+    "rel-5",
+    "phi-4",
+    "soc-3"
+   ]
+  },
+  {
+   "id": "freud",
+   "name": "Sigmund Freud",
+   "dates": "1856–1939",
+   "era": "long19",
+   "fields": [
+    "Psychology"
+   ],
+   "oneLine": "Invented the idea that most of what drives us is not available to introspection, and built a discipline on it that the evidence has not sustained.",
+   "bio": "Freud trained as a neurologist and spent his early career on the histology of nerve cells before turning to what was then called hysteria. His claim was that symptoms with no organic cause could be produced by ideas the patient could not consciously access, and that these could be reached by talking — free association, dreams, slips, the transference of feeling onto the analyst. Whatever one thinks of the theory, the practice of sitting with a patient and treating what they say as evidence about mental life was genuinely new, and it is the ancestor of every talking therapy now in use.\n\nThe structural theory of id, ego and superego, the account of repression, defence and infantile sexuality, and the argument in Civilization and Its Discontents that culture is bought at the price of instinctual renunciation, gave the twentieth century much of its vocabulary for the self. His influence on literature, criticism, film and ordinary self-description is close to total; his influence on scientific psychology is now marginal. Both facts are true at once, and neither should be used to explain away the other. He fled Vienna for London in 1938 after the Anschluss, having had his books burned, and died there of an assisted morphine overdose the following year.",
+   "ideas": [
+    "Unconscious mental processes with causal power over conscious thought and behaviour.",
+    "Repression and the defence mechanisms as ways the mind manages unacceptable material.",
+    "The id, ego and superego as a functional map of internal conflict.",
+    "Transference — the analytic relationship itself as material for interpretation."
+   ],
+   "quote": "Where id was, there ego shall be.",
+   "quoteNote": "New Introductory Lectures on Psycho-Analysis, Lecture 31, 1933; 'Wo Es war, soll Ich werden' — his statement of the aim of analysis. The cigar remark universally attributed to him has no source in anything he wrote.",
+   "criticism": "The evidential base is the core problem. The theory was built from a small number of paying Viennese patients, written up by the therapist who had an interest in the outcome, with no controls and no independent measures; Adolf Grunbaum's Foundations of Psychoanalysis showed that even the clinical data cannot do the confirmatory work Freud asked of it, since suggestion by the analyst cannot be ruled out. Several signature cases do not hold up — Anna O. was not cured, and Freud knew it — and central claims such as repression of trauma and the Oedipus complex have no replicated experimental support. The lasting contributions are the general idea of unconscious influence and the practice of psychotherapy, not the system.",
+   "modules": [
+    "psy-1",
+    "psy-8",
+    "psy-5"
+   ]
+  },
+  {
+   "id": "pavlov",
+   "name": "Ivan Pavlov",
+   "dates": "1849–1936",
+   "era": "long19",
+   "fields": [
+    "Psychology",
+    "Science",
+    "Health & Medicine"
+   ],
+   "oneLine": "Showed that an association between two stimuli can be studied with the precision of physiology.",
+   "bio": "Pavlov won the 1904 Nobel Prize for work on the physiology of digestion, not for conditioning. The conditioning came out of it: his surgically prepared dogs, fitted with fistulas that allowed salivary and gastric secretions to be collected and measured, began to salivate before food arrived, in response to the attendant's footsteps. Most physiologists would have treated this as contamination. Pavlov treated it as the phenomenon and spent the next three decades measuring it.\n\nWhat he built was a method rather than a doctrine: pair a neutral stimulus with one that reliably produces a reflex, and the neutral stimulus comes to produce it too, with acquisition, extinction, spontaneous recovery, generalisation and discrimination all quantifiable in drops of saliva per unit time. That gave psychology its first genuinely repeatable laboratory paradigm, and it remains the workhorse of learning research — fear conditioning in rodents is still the main experimental route into the amygdala. Clinically the line runs directly to exposure therapy for phobia and PTSD, to cue-based accounts of drug relapse, and to the conditioned nausea that oncology patients develop towards the room in which they receive chemotherapy. He was also, unusually, an open critic of the Bolshevik government who was nonetheless left alone and funded.",
+   "ideas": [
+    "Classical conditioning — a neutral stimulus acquires a response by pairing with one that already elicits it.",
+    "Extinction, spontaneous recovery, generalisation and discrimination as measurable properties of learning.",
+    "Objective measurement of a psychological process without any appeal to introspection.",
+    "Experimental neurosis: conditioning arrangements that reliably disorganise an animal's behaviour."
+   ],
+   "quote": "Perfect as is the wing of a bird, it never could raise the bird up without resting on air. Facts are the air of a scientist.",
+   "quoteNote": "From his Bequest to the Academic Youth of His Country, published in Science in 1936, months before his death.",
+   "criticism": "His own explanation was wrong: he thought conditioning was simple temporal contiguity between stimuli, and Robert Rescorla's work from 1968 onwards showed that what animals actually learn is predictiveness — a stimulus paired just as often with food teaches nothing if it carries no extra information. The dog-and-bell of the textbooks is also largely invention; his laboratory used metronomes, buzzers, tones and rotating discs, and the tidy story has done real damage to how the phenomenon is taught.",
+   "modules": [
+    "psy-3",
+    "sci-5"
+   ]
+  },
+  {
+   "id": "bf-skinner",
+   "name": "B. F. Skinner",
+   "dates": "1904–1990",
+   "era": "modern",
+   "fields": [
+    "Psychology"
+   ],
+   "oneLine": "Established that behaviour is shaped by its consequences, then claimed more territory for the finding than it could hold.",
+   "bio": "Skinner's experimental contribution is solid and still in use. Where Pavlov studied reflexes elicited by a stimulus, Skinner studied behaviour emitted by the organism and then selected by what follows it — operant conditioning. The apparatus he built allowed a rat or pigeon's responses to be recorded automatically and continuously, which let him map schedules of reinforcement with unusual precision. The finding that variable-ratio schedules, where reward arrives unpredictably, produce the highest and most extinction-resistant response rates is among the most robust in psychology, and it is the design principle of the slot machine and of the infinite scroll.\n\nThe applications are substantial: shaping by successive approximation underpins applied behaviour analysis, token economies, animal training and much of what works in behavioural treatment for phobia and habit change. The overreach is equally real. Skinner held that talk of beliefs, intentions and mental representations was not merely unnecessary but obstructive, that verbal behaviour was learned by the same reinforcement contingencies as bar-pressing, and in Beyond Freedom and Dignity that autonomy is a pre-scientific illusion society should get past. Walden Two, his novel of a community run on reinforcement schedules, was meant as a proposal and was widely read as a warning.",
+   "ideas": [
+    "Operant conditioning — behaviour is selected by its consequences rather than triggered by a stimulus.",
+    "Schedules of reinforcement, with intermittent and variable schedules producing the most persistent behaviour.",
+    "Shaping — building complex behaviour by reinforcing successive approximations to it.",
+    "Radical behaviourism: private events are behaviour too, not causes standing behind it."
+   ],
+   "quote": "The real question is not whether machines think but whether men do.",
+   "quoteNote": "Contingencies of Reinforcement, 1969 — a characteristic move, turning an argument about machine minds back on the assumption that human thought is well understood.",
+   "criticism": "Chomsky's 1959 review of Verbal Behavior is the standard citation and it landed: children produce sentences they have never heard and could not have been reinforced for, and the terms 'stimulus', 'response' and 'reinforcement' become vacuous when stretched to cover language. Later work on preparedness and instinctive drift showed that what an animal can learn is constrained by its biology, contrary to Skinner's assumption of general laws of learning. The laboratory results stand; the claim that they explain thought, language and culture does not.",
+   "modules": [
+    "psy-3",
+    "psy-1",
+    "phi-7"
+   ]
+  },
+  {
+   "id": "piaget",
+   "name": "Jean Piaget",
+   "dates": "1896–1980",
+   "era": "modern",
+   "fields": [
+    "Psychology"
+   ],
+   "oneLine": "Established that children are not miniature adults but reason by structures of their own.",
+   "bio": "Piaget began as a biologist — his first paper, on molluscs, was published when he was ten — and came to children through work standardising intelligence tests, where he found the wrong answers more interesting than the right ones. Children of a given age were making the same errors as each other, which suggested the errors were systematic rather than random, and that the child's reasoning had a structure worth describing in its own terms. That reframing is his central achievement, and it changed education more than almost any other single idea in psychology.\n\nHis account is constructivist: knowledge is built by the child acting on the world, through assimilation of new material into existing schemas and accommodation of the schemas when they fail. He proposed four stages — sensorimotor, preoperational, concrete operational, formal operational — with characteristic achievements at each, of which object permanence and the conservation of quantity are the best known. The clinical method he used, following a child's reasoning with improvised questions rather than a fixed protocol, was criticised as unrigorous at the time and is now recognised as having got at things standardised testing could not. Child-centred and discovery-based teaching descends fairly directly from him.",
+   "ideas": [
+    "Cognitive development as qualitative restructuring rather than accumulation of facts.",
+    "Assimilation and accommodation — the two-way adjustment between schema and world.",
+    "The four stages, from sensorimotor action through to formal abstract operations.",
+    "Children's errors as evidence of a coherent underlying logic, not of deficient adults."
+   ],
+   "quote": "",
+   "quoteNote": "The line about education creating people capable of doing new things is attributed to him everywhere online, but the wording drifts between sources and no reliable citation to a specific text has been established, so it is left out here.",
+   "criticism": "He substantially underestimated infants: looking-time studies from Renee Baillargeon onwards show something like object permanence months before he said it appears, and Margaret Donaldson's work showed that children pass conservation-style tasks when the question is made to make human sense to them. The stages are also far less discrete and less domain-general than the model implies, and the evidence base was three of his own children plus small unstandardised samples in Geneva.",
+   "modules": [
+    "psy-7",
+    "psy-2"
+   ]
+  },
+  {
+   "id": "bowlby",
+   "name": "John Bowlby",
+   "dates": "1907–1990",
+   "era": "modern",
+   "fields": [
+    "Psychology",
+    "Health & Medicine"
+   ],
+   "oneLine": "Established that the bond between infant and caregiver is a biological system, not sentiment or learned dependence.",
+   "bio": "Bowlby, a psychoanalyst by training, broke with the prevailing view that an infant's attachment to its mother was a by-product of her supplying food. Drawing on ethology — Konrad Lorenz's imprinting, and Harry Harlow's rhesus infants who chose a cloth surrogate over a wire one that fed them — he argued that attachment is an evolved behavioural system with its own function: keeping a helpless young primate close to protection. Crying, clinging and following are not manipulation but the system operating.\n\nHis 1951 report for the World Health Organization on homeless children in postwar Europe carried the argument into policy, and his 1952 film with James Robertson, A Two-Year-Old Goes to Hospital, changed British hospital practice by showing what happened to small children on wards that admitted parents for an hour a week. Mary Ainsworth, who worked with him before developing the Strange Situation procedure in Baltimore, supplied the measurement his theory lacked, distinguishing secure, avoidant and ambivalent patterns; Mary Main later added the disorganised category. The concept of the internal working model — an early template for what relationships are like, carried forward into later ones — is the part of his theory that adult clinical work still leans on most.",
+   "ideas": [
+    "Attachment as an evolved behavioural system for proximity and protection, not a secondary drive.",
+    "The caregiver as a secure base from which exploration becomes possible.",
+    "Internal working models — early relationships as templates for later expectations.",
+    "Separation and loss as causes with specifiable developmental consequences."
+   ],
+   "quote": "The infant and young child should experience a warm, intimate and continuous relationship with his mother in which both find satisfaction and enjoyment.",
+   "quoteNote": "Maternal Care and Mental Health, his 1951 report for the World Health Organization — the sentence that carried attachment theory into public policy, and the one that has been most criticised since.",
+   "criticism": "The maternal deprivation thesis in its original form was overstated and did political work he did not disown: it was used to argue against nursery provision and mothers' employment through the 1950s. Michael Rutter showed that the damage came from disrupted and distorted relationships rather than from separation from the mother as such, and that infants form multiple attachments, which undercuts monotropy. The Strange Situation classifications also travel imperfectly across cultures, with German and Japanese samples producing distributions that the American norms mislabel as insecure.",
+   "modules": [
+    "psy-7",
+    "psy-5",
+    "soc-5"
+   ]
+  },
+  {
+   "id": "maslow",
+   "name": "Abraham Maslow",
+   "dates": "1908–1970",
+   "era": "modern",
+   "fields": [
+    "Psychology"
+   ],
+   "oneLine": "Insisted that psychology should study flourishing rather than only pathology, and produced its most famous unsupported diagram.",
+   "bio": "Maslow trained in the behaviourist mainstream — his early work was on dominance in monkeys — and turned against it on the grounds that a discipline built from rats, neurotics and patients could say nothing about people functioning well. Humanistic psychology, the third force he named alongside behaviourism and psychoanalysis, took the healthy and the exceptional as its subject matter. His method was to select people he considered self-actualising, including historical figures he could not interview, and describe what they had in common: autonomy, a tolerance for ambiguity, deep but few relationships, and what he called peak experiences.\n\nThe hierarchy of needs, set out in a 1943 paper, orders motivation from physiological requirements through safety, belonging and esteem to self-actualisation, with lower needs said to dominate until adequately met. Its reach outside psychology has been extraordinary — management training, marketing, nursing curricula, design — and it is worth being clear that the reach is not evidence. Maslow's later work complicated the scheme considerably, and he became uneasy about how confidently his students were teaching it. The durable contribution is the reorientation towards positive functioning, which runs through Carl Rogers's client-centred therapy and, decades later, into positive psychology and most of what is now taught about motivation at work.",
+   "ideas": [
+    "The hierarchy of needs, from physiological through safety, belonging and esteem to self-actualisation.",
+    "Deficiency needs, which quieten when met, versus growth needs, which do not.",
+    "Peak experiences — moments of absorption and self-transcendence as ordinary psychological data.",
+    "Psychology should study flourishing, not extrapolate the healthy from the ill."
+   ],
+   "quote": "What a man can be, he must be.",
+   "quoteNote": "A Theory of Human Motivation, Psychological Review, 1943 — his definition of the need for self-actualisation, in the paper that introduced the hierarchy.",
+   "criticism": "The hierarchy has never been empirically supported in the form it is taught. Wahba and Bridwell's 1976 review of the accumulated research found no consistent evidence for the five-level ordering, for the claim that satisfying a need reduces its potency, or for the deficiency-growth split; later cross-cultural work has found the ordering varies by society. The pyramid itself is not Maslow's — it was drawn by management consultants in the 1960s, and its neat stacking asserts a strictness he never claimed. The self-actualisation research also rests on a sample he chose by his own criteria, which is circular.",
+   "modules": [
+    "psy-5",
+    "psy-4",
+    "psy-1"
+   ]
+  },
+  {
+   "id": "loftus",
+   "name": "Elizabeth Loftus",
+   "dates": "1944–",
+   "era": "contemporary",
+   "fields": [
+    "Psychology"
+   ],
+   "oneLine": "Demonstrated experimentally that memory is reconstructed, and that confident recollections can be wholly false.",
+   "bio": "Loftus's early experiments were deceptively simple. Show people film of a car accident, then ask how fast the cars were going when they smashed into each other, or hit each other, or contacted each other. The verb changes the speed estimate — and a week later, those given 'smashed' are more likely to report broken glass that was never in the film. The misinformation effect, established across hundreds of studies since 1974, shows that information encountered after an event becomes incorporated into the memory of it, without the person being able to tell which part came from where.\n\nShe then went further, showing that entire events could be implanted. In the 'lost in the mall' studies and their successors, a substantial minority of participants came to report detailed childhood memories of things that had not happened, supplied by a trusted family member or a plausible suggestion. The work arrived in the middle of the recovered-memory therapy wave of the 1980s and 1990s, in which people were being convicted on the basis of memories retrieved in treatment, and it did more than anything else to end it. Her research also underpins the reform of police line-ups and the standard judicial warnings now given about eyewitness identification, which remains the leading cause of wrongful conviction later overturned by DNA.",
+   "ideas": [
+    "The misinformation effect — post-event information alters what is later recalled as memory.",
+    "Leading questions shape testimony, and the change persists after the question is forgotten.",
+    "Rich false memories of whole events can be implanted by suggestion in a minority of people.",
+    "Confidence and vividness are poor guides to whether a memory is accurate."
+   ],
+   "quote": "Memory works like a Wikipedia page: you can go in there and change it, but so can other people.",
+   "quoteNote": "From her 2013 TEDGlobal talk, The Fiction of Memory — her standard image for reconstructive memory.",
+   "criticism": "The generalisation from laboratory materials to memory for personal trauma is contested: critics argue that implanting a plausible mall episode in a student is a weaker demonstration than the courtroom use of the findings implies, and that the early studies had small samples. Her expert testimony for defendants in high-profile abuse cases has drawn sustained criticism from clinicians who work with survivors, on the grounds that the fallibility of memory is a real finding being deployed selectively. The core misinformation effect itself, unusually for social psychology, has replicated well.",
+   "modules": [
+    "psy-2",
+    "psy-1",
+    "soc-7"
+   ]
+  },
+  {
+   "id": "aaron-beck",
+   "name": "Aaron T. Beck",
+   "dates": "1921–2021",
+   "era": "modern",
+   "fields": [
+    "Psychology",
+    "Health & Medicine"
+   ],
+   "oneLine": "Turned a failed attempt to validate psychoanalysis into the most tested psychotherapy there is.",
+   "bio": "Beck trained as a psychoanalyst and set out in the late 1950s to demonstrate empirically that depression was anger turned against the self. The data would not support it. What he found instead, listening to depressed patients, were rapid, unbidden, negative appraisals — automatic thoughts — running alongside their reported feelings: I am worthless, nothing will work, everyone can see it. He grouped these into the cognitive triad of negative views of self, world and future, and proposed that they maintain the depression rather than merely reflecting it.\n\nThe therapy that followed is short, structured and explicitly falsifiable in a way its predecessors were not. Patients are trained to catch a thought, examine the evidence for and against it, and test it against reality — behavioural experiments as well as argument. Beck also built the measurement instruments the field needed, including the Beck Depression Inventory and the Beck Hopelessness Scale, which made outcomes comparable across studies and is a large part of why cognitive therapy accumulated evidence faster than its rivals. He later extended the model to anxiety, personality disorders, substance use and, in his nineties, to recovery-oriented work with people with schizophrenia. He acknowledged the Stoics as ancestors, which is accurate.",
+   "ideas": [
+    "Automatic thoughts — fast, plausible-seeming appraisals available to introspection once looked for.",
+    "The cognitive triad: negative views of the self, the world and the future in depression.",
+    "Schemas and core beliefs as the durable structures beneath situational thoughts.",
+    "Structured, time-limited therapy with measurable outcomes and explicit homework."
+   ],
+   "quote": "The philosophical origins of cognitive therapy can be traced back to the Stoic philosophers.",
+   "quoteNote": "Cognitive Therapy of Depression, 1979, written with Rush, Shaw and Emery — an unusually candid acknowledgement by a founder that his method was not new.",
+   "criticism": "The effect sizes have shrunk as the trials have improved: Johnsen and Friborg's 2015 meta-analysis found the benefit of cognitive therapy for depression roughly halving over five decades of studies, consistent with early trials being run by enthusiastic developers on selected patients. The proposed mechanism is also weakly supported — component analyses, notably Jacobson's in 1996, found behavioural activation alone worked about as well as the full package, which is awkward for a theory whose whole claim is that changing cognitions is what does the work.",
+   "modules": [
+    "psy-8",
+    "psy-3",
+    "hea-1"
    ]
   }
  ]
