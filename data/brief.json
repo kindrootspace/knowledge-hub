@@ -1,11 +1,11 @@
 {
- "date": "Monday, 3 August 2026",
- "updated": "Monday, 3 August 2026",
- "lede": "The new Prime Minister settles into Downing Street with a cabinet that marks a decisive break from the Starmer era, while the NHS reports early success in its meningitis vaccination catch-up campaign for university-bound students. Globally, markets opened the week buoyed by President Trump's decision to halt a planned strike on Iran ahead of Monday's resumption of talks, though the US-Iran conflict continues to keep energy prices elevated after six months of disruption to the Strait of Hormuz. On the regulatory front, the EU's AI Act transparency requirements came into force on Sunday, mandating disclosure when users interact with AI systems.",
+ "date": "Tuesday, 4 August 2026",
+ "updated": "Tuesday, 4 August 2026",
+ "lede": "Markets rallied sharply on Monday as President Trump paused planned military strikes against Iran and announced the resumption of peace talks, sending oil prices tumbling and propelling Amazon to a $3 trillion market capitalisation. In Britain, the Clacton by-election campaign enters its final nine days with Nigel Farage facing a record 33 opponents, while Prime Minister Andy Burnham's two-week-old government works to establish its domestic agenda after a wholesale cabinet reshuffle that installed John Healey at the Treasury and Yvette Cooper at Health.",
  "threeThings": [
-  "Trump calls off planned Iran strikes, announcing US-Iran negotiations will resume Monday; oil briefly rose to $90 before easing on de-escalation hopes",
-  "The EU AI Act's transparency obligations became enforceable on 2 August, requiring AI systems to identify themselves to users and deepfakes to be labelled",
-  "NHS reports 89,261 first-dose meningitis B vaccinations in two weeks as its catch-up campaign targets students heading to university in September"
+  "Trump pauses Iran strikes after Saudi intercession, announces resumed peace talks; oil falls 5%",
+  "Amazon becomes fifth company to reach $3 trillion market cap on strong cloud earnings",
+  "Clacton by-election on 13 August: 34 candidates as Labour, Tories and Lib Dems boycott"
  ],
  "indicators": [
   {
@@ -40,13 +40,13 @@
   },
   {
    "label": "Brent crude",
-   "value": "$87.93",
-   "note": "31 Jul — July range $72–102"
+   "value": "$83.82",
+   "note": "3 Aug, down 5% on Trump pause"
   },
   {
    "label": "S&P 500",
-   "value": "7,489.72",
-   "note": "31 Jul, +0.7% on the day"
+   "value": "7,600.50",
+   "note": "3 Aug, +1.48% on the day"
   },
   {
    "label": "US 10-year",
@@ -55,180 +55,176 @@
   },
   {
    "label": "UK house prices",
-   "value": "+1.8%",
-   "note": "y/y, July — Nationwide"
+   "value": "+2.7%",
+   "note": "y/y, May — ONS"
   }
  ],
  "items": [
   {
-   "headline": "Burnham cabinet takes shape with Healey as Chancellor, Reeves out",
+   "headline": "Andy Burnham completes cabinet: Healey at Treasury, Cooper at Health",
    "cat": "uk",
-   "summary": "Prime Minister Andy Burnham completed his cabinet appointments on 23 July after taking office on 20 July. John Healey was appointed Chancellor in a surprise move, while Ed Miliband became Foreign Secretary and Shabana Mahmood remains Home Secretary. Rachel Reeves, David Lammy and Peter Kyle all left government. On his first day Burnham announced plans to scrap VAT on domestic electricity bills from 1 October.",
-   "why": "The clearout of Starmer allies signals Burnham intends a genuine policy reset rather than continuity. The VAT move on energy bills is designed to demonstrate immediate cost-of-living relief while the new team develops its longer-term 10-year plan.",
-   "source": "ITV News",
-   "url": "https://www.itv.com/news/2026-07-21/andy-burnhams-cabinet-whos-in-and-whos-out"
+   "summary": "Prime Minister Andy Burnham completed his ministerial appointments on 23 July, two weeks after taking office. John Healey, 66, the former Defence Secretary, was named Chancellor of the Exchequer in a surprise appointment that confounded media expectations. Yvette Cooper moved from Foreign Secretary to Health and Social Care, while Shabana Mahmood retained Home Secretary. Rachel Reeves was removed as Chancellor after reportedly declining an alternative role.",
+   "why": "Burnham's cabinet signals a decisive break with the Starmer era: the wholesale removal of close Starmer allies rewards those who contributed to his downfall. Healey's background in defence rather than economics may indicate a more security-focused spending approach, aligning with elevated threats from the Iran conflict.",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-20/john-healey-named-chancellor-by-new-uk-pm-andy-burnham"
   },
   {
-   "headline": "Yvette Cooper appointed Health Secretary in cabinet reshuffle",
+   "headline": "Clacton by-election: 34 candidates set new UK record",
    "cat": "uk",
-   "summary": "Yvette Cooper was appointed Secretary of State for Health and Social Care as part of Burnham's cabinet appointments on 21 July. Stephen Kinnock moved to become Secretary of State for Wales. Louise Haigh was appointed Chancellor of the Duchy of Lancaster and will oversee a new Office for the Prime Minister and Cabinet.",
-   "why": "Cooper's move to Health suggests the new administration is prioritising NHS reform. Her background on home affairs may bring a different approach to the department's challenges around waiting lists and workforce planning.",
-   "source": "NHS Confederation",
-   "url": "https://www.nhsconfed.org/articles/health-care-sector-latest-developments"
+   "summary": "The Clacton by-election on 13 August will feature 34 candidates, the largest field in UK parliamentary election history, after Nigel Farage resigned his seat to trigger a contest amid scrutiny of his personal finances. Labour, the Conservatives, the Liberal Democrats and the Greens are not fielding candidates, leaving novelty candidate Count Binface as Farage's main challenger. The writ was moved on 9 July.",
+   "why": "The major parties' boycott frames the contest as a referendum on Farage personally rather than a partisan fight. Their decision to deny him the legitimacy of a traditional contest may backfire if turnout is low and he wins easily, allowing him to claim vindication. The August timing is unusual and may depress participation.",
+   "source": "Wikipedia / Al Jazeera",
+   "url": "https://en.wikipedia.org/wiki/2026_Clacton_by-election"
   },
   {
-   "headline": "Bank of England holds rate at 3.75% as MPC split deepens",
+   "headline": "Bank of England holds at 3.75% as Middle East energy shock persists",
    "cat": "uk",
-   "summary": "The Monetary Policy Committee voted 6-3 on 30 July to maintain Bank Rate at 3.75%, with three members voting for a 0.25 percentage point increase to 4.00%. The Bank's central projection shows CPI inflation peaking at around 3.2% in Q4 2026. The MPC noted that risks to the inflation outlook are tilted to the upside amid the ongoing Middle East conflict's impact on energy prices.",
-   "why": "The hawkish minority reflects genuine uncertainty about whether inflation will return to target given energy volatility. With no cuts priced in for 2026, the Bank is effectively on hold until clarity emerges on the geopolitical situation.",
+   "summary": "The MPC voted 6–3 on 29 July to maintain Bank Rate at 3.75%, with three members favouring a quarter-point rise to 4.00%. The Bank's August projection shows CPI inflation peaking at around 3.2% in Q4 2026, above the 2% target, with risks tilted to the upside. Energy prices remain volatile following the Iran conflict.",
+   "why": "The three dissents for a hike reflect genuine uncertainty about the inflation path given persistent energy pressures from the Middle East conflict. The Bank is effectively on hold until it can assess whether the Hormuz negotiations stabilise oil prices, leaving the next move dependent on geopolitical developments rather than domestic data.",
    "source": "Bank of England",
-   "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026"
   },
   {
-   "headline": "NHS vaccinates 89,000 young people in MenB catch-up campaign",
+   "headline": "NHS meningitis B catch-up campaign vaccinations near 90,000 in first two weeks",
    "cat": "uk",
-   "summary": "Nearly 90,000 young people received their first dose of the meningitis B vaccine within two weeks of the NHS launching its catch-up campaign on 20 July. The NHS National Booking Service has received more than 135,000 bookings. The one-off programme targets all Year 13 pupils and those under 25 starting university for the first time in autumn 2026.",
-   "why": "The programme responds to meningitis outbreaks earlier in 2026, including a cluster in Kent. Students heading to university halls are at elevated risk, and the timing ensures both doses can be administered before the autumn term when cases typically rise.",
+   "summary": "NHS England reported that 89,261 first doses of the meningitis B vaccine have been administered to young people since the catch-up campaign launched on 20 July 2026. The programme targets university students ahead of the autumn term. The NHS described it as its biggest ever catch-up campaign for the virus.",
+   "why": "Meningitis B outbreaks in university settings have historically caused deaths among freshers; the timing ahead of September term aims to build immunity before congregate living. The rapid uptake suggests strong public health messaging and parental awareness, though second-dose compliance will be critical.",
    "source": "NHS England",
-   "url": "https://www.england.nhs.uk/2026/08/tens-of-thousands-of-young-people-get-vital-protection-from-menb-in-just-a-fortnight/"
+   "url": "https://www.england.nhs.uk/"
   },
   {
-   "headline": "UK house prices edge up 0.1% in July but annual growth slows",
+   "headline": "Yvette Cooper pledges focus on maternity and social care",
    "cat": "uk",
-   "summary": "UK house prices rose 0.1% month-on-month in July to an average of £277,542 according to Nationwide, the first gain in three months. However, annual growth slowed to 1.8% from 2.2% in June, a 20-month low. Mortgage rates have edged back up to around 4.75% in July as global uncertainty pushed up borrowing costs.",
-   "why": "The market is caught between resilient demand and affordability pressures from higher rates linked to the Iran war's energy shock. The slowdown suggests buyers are becoming more cautious, though the absence of forced selling indicates no imminent crash.",
-   "source": "Nationwide via Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-07-31/uk-house-prices-edge-higher-in-july-nationwide-says"
+   "summary": "New Health Secretary Yvette Cooper, appointed on 20 July, stated she is 'looking forward to working urgently to improve maternity services, to take forward plans for social care'. She returns to the department 27 years after working on the first NHS Cancer Plan as a junior minister. The government is advancing the NHS Modernisation Bill through Parliament.",
+   "why": "Burnham made social care reform central to his leadership pitch, explicitly calling for it to operate on an 'NHS principle'. Cooper's appointment signals that delivery on this commitment is the test of the new government's credibility after Starmer's perceived failure to translate promises into action.",
+   "source": "Pulse Today",
+   "url": "https://www.pulsetoday.co.uk/news/breaking-news/yvette-cooper-appointed-as-new-health-secretary/"
   },
   {
-   "headline": "UK GDP growth forecast at 1% for 2026 as IMF downgrades outlook",
+   "headline": "UK economy subdued; ONS reports rising business uncertainty",
    "cat": "uk",
-   "summary": "Independent forecasters surveyed by HM Treasury in July expect UK GDP growth of 1% in 2026, up slightly from 0.9% in June. The OBR's March forecast was for 1.1% growth. The OECD has noted the UK is particularly vulnerable to the global energy shock, with larger downgrades than other rich countries.",
-   "why": "The UK's exposure stems less from energy imports than from inflation persistence and the knock-on effects on household spending and business confidence. The modest growth forecasts constrain fiscal space for the new government's reform agenda.",
-   "source": "HM Treasury / BCIS",
-   "url": "https://www.gov.uk/government/statistics/forecasts-for-the-uk-economy-july-2026"
+   "summary": "ONS business survey data for July 2026 showed economic uncertainty remained the most-reported challenge affecting turnover for trading businesses at 32%. Public sector net debt stood at 95.9% of GDP at end-June. The UK had a trade deficit of £18.6 billion in the three months to May 2026. Consumer confidence improved to -17 in July, up six points from June.",
+   "why": "The persistent uncertainty figure reflects businesses absorbing multiple shocks: the Middle East energy crisis, the political transition at Westminster, and continued tariff uncertainty. The fiscal headroom is narrow, constraining Healey's options as the new Chancellor prepares his first Autumn Budget.",
+   "source": "House of Commons Library",
+   "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9040/"
   },
   {
-   "headline": "Trump halts Iran strikes, announces Monday negotiations",
+   "headline": "Trump halts planned Iran strikes, announces renewed peace talks",
    "cat": "us",
-   "summary": "President Trump announced he had called off planned strikes on Iran over the weekend, citing requests from Tehran and other Middle Eastern countries and progress in talks. US-Iran negotiations are set to resume on Monday. The US has imposed a naval blockade on Iran, and more than 50,000 American troops remain deployed in the Middle East as the conflict enters its sixth month.",
-   "why": "Trump's pattern of threatened escalation followed by pullback makes it difficult to assess genuine progress versus tactical positioning. Any deal would likely require Iran to reopen the Strait of Hormuz in exchange for sanctions relief, but neither side has shown willingness to move first.",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/"
+   "summary": "President Trump announced on 1 August that he had cancelled a planned military strike against Iran following requests from Saudi Arabia and other regional allies. He said the US is 'locked and loaded' but agreed to prioritise negotiations to reopen the Strait of Hormuz. Peace talks resumed on Monday. The US-Iran conflict, which began on 28 February 2026, is now in its sixth month.",
+   "why": "This is the second major de-escalation cycle since the April ceasefire collapsed in July. Trump's pattern of announcing strikes then pulling back creates uncertainty that roils energy markets but may reflect genuine diplomatic progress behind the scenes. The Hormuz chokepoint remains the key economic lever.",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump"
   },
   {
-   "headline": "Hamas agrees to disarmament framework, but implementation uncertain",
-   "cat": "world",
-   "summary": "Hamas and other Palestinian factions agreed on 30 July to a document setting out a plan for their disarmament in Gaza, brokered by Trump's Board of Peace. The demilitarisation process is expected to take 200-250 days. However, Israel has not officially agreed to the deal, and Hamas says it will not implement any part unless Israeli forces withdraw from Gaza.",
-   "why": "The agreement creates a framework but not yet a functioning peace. Hamas's willingness to disarm is conditional on a Palestinian state, which Israel's government rejects. Israeli strikes continued the day after the announcement, underscoring the gap between declaration and implementation.",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace"
-  },
-  {
-   "headline": "Federal Reserve holds rates at 3.50-3.75% with three dissents",
-   "cat": "econ",
-   "summary": "The Federal Reserve kept its benchmark rate unchanged at 3.50-3.75% on 29 July, with Chair Kevin Warsh presiding over his first decision since taking office in May. Three FOMC members dissented, voting for a rate hike to combat above-target inflation. Warsh said the next major event would be his keynote at Jackson Hole from 27-29 August.",
-   "why": "Warsh has emphasised changing how the Fed communicates, creating five task forces to examine monetary policy. The three dissents reflect concerns that inflation persistence from the Iran war may require tighter policy despite slowing growth.",
+   "headline": "Fed holds at 3.50–3.75% in divided 9–3 vote",
+   "cat": "us",
+   "summary": "The Federal Reserve voted 9–3 on 29 July to hold its key interest rate at 3.50–3.75%, Chair Kevin Warsh's second meeting at the helm. Three regional presidents—Beth Hammack (Cleveland), Neel Kashkari (Minneapolis) and Lorie Logan (Dallas)—dissented, favouring a quarter-point hike. Core PCE inflation stood at 3.4% in May. Warsh reiterated the Fed's commitment to its 2% inflation target.",
+   "why": "Warsh is remaking the Fed's communication style with shorter statements and less forward guidance, increasing market uncertainty about the rate path. The three dissents signal the committee is closer to a hike than a cut, but Warsh noted tighter market-based financial conditions effectively doing some of the Fed's work for it.",
    "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html"
+   "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html"
   },
   {
-   "headline": "S&P 500 flat for July as tech volatility continues",
+   "headline": "Oil prices tumble 5% as Trump suspends Iran strikes",
    "cat": "econ",
-   "summary": "The S&P 500 closed at 7,489.72 on 31 July, up 0.7% on the day but down 0.1% for the month. The Nasdaq declined 3.2% in July while the Dow edged up 0.3%. Amazon jumped 15.3% on strong cloud growth, while Apple fell 7.3% after chip shortages raised costs. Markets are expected to open higher on Monday following Trump's Iran de-escalation.",
-   "why": "August and September are historically weak months for equities, and 2026 is a midterm election year when volatility tends to be elevated. The Iran war has created inflationary pressure that now has markets pricing potential rate hikes rather than cuts.",
-   "source": "Trading Economics",
-   "url": "https://tradingeconomics.com/united-states/stock-market"
-  },
-  {
-   "headline": "Brent crude at $87.93 after volatile July; monthly gain over 20%",
-   "cat": "econ",
-   "summary": "Brent crude finished July at $87.93 per barrel, up over 20% for the month as renewed hostilities between the US and Iran disrupted shipping through the Strait of Hormuz. The conflict has intensified as the temporary ceasefire collapsed, Yemen's Houthis expanded their attacks, and Saudi forces joined US operations. Oil briefly touched $100 in late July.",
-   "why": "Five months of a mostly closed Strait of Hormuz have not sent prices to $150 as some feared, partly because demand has softened and alternative supply routes exist. But sustained closure or further escalation could still trigger the severe shock the World Bank warned of in April.",
+   "summary": "Brent crude fell to $83.82 per barrel on 3 August, down approximately 5% from the previous session, after Trump announced peace talks would resume. Oil had surged over 20% in July after renewed US-Iran hostilities shattered the interim peace agreement. Brent reached a 52-week intraday high of $120.88 on 30 April 2026.",
+   "why": "The oil market remains hostage to Hormuz developments. The July spike and Monday's plunge illustrate extreme volatility that is feeding through to headline inflation worldwide. OPEC+ completing its planned output restoration creates some buffer, but sustained supply normalisation requires a durable ceasefire.",
    "source": "Trading Economics",
    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
   },
   {
-   "headline": "EU AI Act transparency rules come into force",
-   "cat": "sci",
-   "summary": "On 2 August 2026, the EU AI Act's transparency requirements became enforceable. AI systems that interact with people must now disclose that the user is dealing with a machine. Deepfakes and AI-generated content must be labelled. Providers of generative AI models must mark outputs in a machine-readable way. The European Commission's AI Office begins enforcement alongside national authorities.",
-   "why": "The deadline marks a significant but partial milestone. A late amendment pushed high-risk system requirements into 2027, so August 2026 primarily affects disclosure obligations rather than the full regulatory framework. Fines can reach €35 million or 7% of turnover.",
-   "source": "European Commission",
-   "url": "https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en"
+   "headline": "Amazon crosses $3 trillion market cap on cloud surge",
+   "cat": "econ",
+   "summary": "Amazon surpassed $3 trillion in market capitalisation on 3 August, becoming the fifth company to reach the milestone after Nvidia, Alphabet, Microsoft and Apple. Shares rose 4–5% following Q2 earnings showing AWS revenue of $42.2 billion, beating estimates of $40.54 billion. Total revenue was $200.61 billion. CEO Andy Jassy raised the 2026 capex forecast to $220 billion.",
+   "why": "Amazon's milestone is driven by AI infrastructure demand rather than retail. Jassy's statement that even $220 billion in capex won't meet 2026 demand illustrates how the major cloud providers are locked in a capital-intensive arms race. The 'Magnificent Seven' tech rally is increasingly a bet on AI monetisation.",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html"
   },
   {
-   "headline": "OpenAI's Astra model solves ten open mathematics problems",
-   "cat": "sci",
-   "summary": "OpenAI announced on 1 August that an internal version of its next major model, Astra, solved ten previously open problems in mathematics and theoretical computer science, publishing formal Lean proofs on GitHub. The problems include establishing the existence of non-sofic groups and new sphere-packing bounds. The compute cost was approximately $2,000.",
-   "why": "This represents a qualitative shift from AI performing well on tests to contributing genuine discoveries in the most rigorous field. The verification via formal proofs distinguishes this from benchmark performance, but raises questions about how such capability will be governed.",
-   "source": "Build Fast with AI",
-   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-2-2026"
+   "headline": "S&P 500 rallies 1.5% as tech rebounds on Iran pause",
+   "cat": "econ",
+   "summary": "The S&P 500 rose 1.48% to close at 7,600.50 on 3 August, with the Nasdaq surging 2.13%. Amazon gained 4.6%, Meta 6%, Microsoft 4.9% and Alphabet 4.9%. The rally reversed July's technology-led selloff as investors regained confidence in AI spending returns. The Dow recorded a record closing high to start August.",
+   "why": "Monday's rally shows how intertwined geopolitics and equity markets have become: falling oil immediately boosts growth expectations and rotation into risk assets. The S&P had declined 0.1% in July, snapping an 11-year winning streak for the month—a statistic historically associated with weak years.",
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/united-states/stock-market"
   },
   {
-   "headline": "Three killed in Idaho In-N-Out shooting; gunman dead",
-   "cat": "us",
-   "summary": "Three people were killed and seven injured when a gunman opened fire at an In-N-Out Burger restaurant in Twin Falls, Idaho on Saturday. The suspected shooter, 24-year-old Chad Williams, died from a self-inflicted gunshot wound after being confronted by an armed off-duty state trooper and a civilian. An In-N-Out employee was among the dead. The restaurant had opened just eight days earlier.",
-   "why": "The incident is the latest in a series of US mass shootings and immediately reignited the gun control debate. The armed civilian response is being cited by both sides of the argument—as evidence that armed citizens save lives and that the prevalence of weapons creates the conditions for such attacks.",
-   "source": "ABC News",
-   "url": "https://abcnews.com/US/police-respond-active-shooter-idaho-burger/story?id=135296367"
-  },
-  {
-   "headline": "Ukraine drones strike Russian oil refinery in Bashkortostan",
+   "headline": "US-Iran conflict enters sixth month; Hormuz talks key",
    "cat": "world",
-   "summary": "Ukrainian drones struck the Ufaneftekhim oil refinery in Bashkortostan on 1 August, according to Ukrainian military sources. Separately, drone attacks killed five people in Russia and set fire to a Wildberries warehouse. Russian forces launched 31 missiles, 66 air strikes with 201 guided bombs, and 6,659 kamikaze drones against Ukraine on the same day.",
-   "why": "Ukraine continues to target Russian energy infrastructure as a way to impose economic costs while receiving diminished Western military aid. The deep strikes demonstrate retained capability but have not fundamentally altered the battlefield situation.",
-   "source": "Militarnyi via Wikipedia",
-   "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_(1_June_2026_%E2%80%93_present)"
+   "summary": "The US-Israeli war with Iran, which began on 28 February 2026, is now in its sixth month. The conflict has paralysed much of commercial traffic through the Strait of Hormuz and dragged Gulf Arab states into the fray. A June 14 memorandum of understanding collapsed when fighting resumed in July. Qatar, Pakistan and Oman are mediating efforts to reopen the strait.",
+   "why": "The conflict has merged with other regional tensions, creating what Crisis Group calls 'metastasising' violence. The immediate prize is Hormuz reopening—critical to Asian energy supply—but a lasting settlement would require addressing Iran's nuclear programme and regime survival, objectives that remain far apart.",
+   "source": "International Crisis Group",
+   "url": "https://www.crisisgroup.org/qna/middle-east-north-africa/east-mediterranean-mena/middle-easts-metastasising-conflicts"
   },
   {
-   "headline": "US begins process of handing Ukraine military lead to Europe",
+   "headline": "Russia-Ukraine: July sees record missile strikes but minimal territorial gains",
    "cat": "world",
-   "summary": "The US military has begun the process of transferring the lead role in Ukraine military assistance to European allies. The 2026 NDAA allocated $400 million for Ukraine through the Ukraine Security Assistance Initiative but the decision on spending lies with the administration. Parts of the Republican caucus in Congress oppose reducing support for Ukraine.",
-   "why": "The shift reflects the Trump administration's strategy of using aid as leverage for negotiations while pressing European allies to bear more of the burden. Ukraine has estimated its 2026 defence needs at $120 billion, with half required from foreign partners.",
-   "source": "OSW Centre for Eastern Studies",
-   "url": "https://www.osw.waw.pl/en/publikacje/analyses/2025-12-19/us-defence-budget-2026-congress-approves-continued-support-ukraine"
+   "summary": "Russian forces launched a record number of missiles against Ukraine in July 2026, exploiting Ukraine's shortage of Patriot interceptor missiles. The Institute for the Study of War reported that the Russian spring-summer 2026 offensive has failed to make operationally significant gains despite Russia suffering its highest casualty rate of the year. At least 27 people died in cross-border attacks over the weekend.",
+   "why": "The mismatch between Russian casualty rates and territorial progress suggests an attritional stalemate where both sides are grinding down resources. Ukraine's Patriot shortage is a critical vulnerability that has allowed ballistic missile strikes on Kyiv, raising the stakes for Western resupply decisions.",
+   "source": "Kyiv Post / ISW",
+   "url": "https://www.kyivpost.com/post/81549"
   },
   {
-   "headline": "James Hansen warns 2026 likely to be warmest year on record",
+   "headline": "Stanford AI Index: generative AI reached 53% population adoption within three years",
    "cat": "sci",
-   "summary": "Former NASA climate scientist James Hansen wrote in an update that 2026 is likely to be the planet's warmest year on record, despite starting cooler than 2024. He argues many scientists are still underestimating how sensitive Earth's climate system is to greenhouse gases. Climate Central has warned of summer heat spikes as global warming edges toward 2°C.",
-   "why": "The forecast reflects both the underlying warming trend and the potential for short-term temperature spikes from changing ocean circulation patterns. The prediction adds urgency to COP 31 negotiations in Türkiye later this year.",
-   "source": "Inside Climate News",
-   "url": "https://insideclimatenews.org/news/17062026/summer-heat-spike-as-global-warming-surges/"
+   "summary": "Stanford University's 2026 AI Index found that generative AI reached 53% population-level adoption within three years of ChatGPT's debut, faster than the personal computer or internet. US private investment in AI hit $285.9 billion in 2025. On the SWE-bench Verified coding benchmark, performance rose from 60% to near 100% in a single year.",
+   "why": "The adoption curve validates that AI is a genuine general-purpose technology, not a niche application. The coding benchmark improvement is particularly striking as it suggests AI can now handle substantial real-world software engineering tasks, with implications for developer productivity and labour markets.",
+   "source": "Stanford HAI",
+   "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report"
   },
   {
-   "headline": "Trump administration targets 702 regulations for elimination",
-   "cat": "us",
-   "summary": "The Trump administration's July 2026 Unified Agenda identified 702 existing rules for elimination, nearly double the number cut in Trump's first term. This is in addition to 752 regulatory cuts already finalised since October 2025. The EEOC has proposed rescinding EEO-1 reporting obligations, with review expected through mid-August.",
-   "why": "The deregulatory push represents the administration's most aggressive effort to reshape the federal regulatory state. The scale of proposed cuts will face legal challenges and congressional scrutiny as the midterm elections approach.",
-   "source": "Ogletree Deakins",
-   "url": "https://ogletree.com/insights-resources/blog-posts/trump-administration-aims-to-eliminate-a-record-number-of-regulations/"
+   "headline": "OpenAI releases GPT-5.5 with native 'System 2' reasoning",
+   "cat": "sci",
+   "summary": "OpenAI rolled out GPT-5.5 in early August 2026. The upgrade introduces native 'System 2' architecture, allowing the model to pause and engage in deliberate reasoning on complex problems rather than fast intuitive responses. Industry observers describe 2026 as the year of 'agentic reasoning' as models gain the ability to plan and execute multi-step tasks.",
+   "why": "The shift from reactive to deliberative AI changes the range of tasks models can reliably perform. System 2 reasoning enables applications like autonomous coding, research synthesis and business analysis that require sustained logical coherence—expanding AI from assistant to agent.",
+   "source": "TechDG",
+   "url": "https://techdg.in/stay-ahead-of-the-curve-with-our-august-2026-ai-news-report-explore-the-latest-ai-model-updates-robotics-and-how-to-adapt-your-business-strategy-today/"
+  },
+  {
+   "headline": "UK financial regulators begin oversight of major cloud providers",
+   "cat": "uk",
+   "summary": "The Bank of England, PRA and FCA began overseeing the first Critical Third Parties on 13 July 2026 following HM Treasury's designation of Amazon Web Services, Google Cloud, Microsoft and Oracle. The regime recognises that disruption to these providers could affect UK financial stability by impacting multiple firms simultaneously.",
+   "why": "This is a significant extension of prudential supervision beyond traditional financial institutions into technology infrastructure. It acknowledges that systemic risk now resides in cloud concentration, though how regulators will enforce standards on global tech giants remains untested.",
+   "source": "Bank of England",
+   "url": "https://www.bankofengland.co.uk/news/2026/july/uk-financial-regulators-to-begin-overseeing-critical-third-parties-announced-by-hmt"
+  },
+  {
+   "headline": "NASA awards $600 million for four commercial Moon landings",
+   "cat": "sci",
+   "summary": "NASA awarded nearly $600 million for four commercial Moon landings planned for late 2028. Each mission will carry the same trio of science instruments to improve lunar navigation and study dust kicked up by landings. The awards are part of NASA's expanded lunar ambitions.",
+   "why": "The standardised instrument package across missions signals NASA is building systematic lunar infrastructure rather than one-off demonstrations. The 2028 timeline keeps pressure on ahead of any potential crewed return, while commercial partnerships spread costs and risk.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/"
+  },
+  {
+   "headline": "WHO launches $30 million flash appeal for Middle East health crisis",
+   "cat": "world",
+   "summary": "WHO released a flash appeal seeking $30.3 million to respond to escalating health crises across the Middle East from March to August 2026. The organisation has issued ten situation reports since the conflict escalation began in March. Conflict-related displacement has overwhelmed health services in Lebanon, Iraq and Syria.",
+   "why": "The humanitarian dimension of the Iran conflict is often overshadowed by the geopolitical narrative. Displaced populations and degraded health infrastructure create conditions for disease outbreaks and long-term public health deficits that will persist well beyond any ceasefire.",
+   "source": "WHO EMRO",
+   "url": "https://www.emro.who.int/emergencies/middle-east-conflict/"
   }
  ],
  "watch": [
   {
-   "when": "3 August (today)",
-   "what": "US-Iran negotiations resume"
-  },
-  {
-   "when": "5 August",
-   "what": "FOMC minutes from July meeting released"
-  },
-  {
    "when": "13 August",
-   "what": "ONS GDP first quarterly estimate for Q2 2026"
+   "what": "Clacton by-election (34 candidates; Farage seeks re-election)"
   },
   {
-   "when": "14 August",
-   "what": "US CPI data for July"
-  },
-  {
-   "when": "27-29 August",
-   "what": "Fed Jackson Hole symposium; Warsh keynote speech"
+   "when": "12 August",
+   "what": "Partial solar eclipse visible from UK"
   },
   {
    "when": "17 September",
-   "what": "Next Bank of England MPC decision and Monetary Policy Report"
+   "what": "Next BoE MPC announcement"
+  },
+  {
+   "when": "September 2026",
+   "what": "Next Fed FOMC meeting"
+  },
+  {
+   "when": "October-November",
+   "what": "NHS England 45-day collective consultation on DHSC merger"
   }
  ],
  "sources": [
@@ -237,36 +233,48 @@
    "url": "https://www.bankofengland.co.uk/"
   },
   {
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/"
+  },
+  {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/"
+  },
+  {
+   "name": "CNN",
+   "url": "https://www.cnn.com/"
+  },
+  {
+   "name": "House of Commons Library",
+   "url": "https://commonslibrary.parliament.uk/"
+  },
+  {
+   "name": "International Crisis Group",
+   "url": "https://www.crisisgroup.org/"
+  },
+  {
+   "name": "Kyiv Post / ISW",
+   "url": "https://www.kyivpost.com/"
+  },
+  {
    "name": "NHS England",
    "url": "https://www.england.nhs.uk/"
   },
   {
-   "name": "HM Treasury",
-   "url": "https://www.gov.uk/government/collections/data-forecasts"
+   "name": "ONS",
+   "url": "https://www.ons.gov.uk/"
   },
   {
-   "name": "Federal Reserve",
-   "url": "https://www.federalreserve.gov/"
-  },
-  {
-   "name": "European Commission AI",
-   "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+   "name": "Stanford HAI",
+   "url": "https://hai.stanford.edu/"
   },
   {
    "name": "Trading Economics",
    "url": "https://tradingeconomics.com/"
   },
   {
-   "name": "Al Jazeera",
-   "url": "https://www.aljazeera.com/"
-  },
-  {
-   "name": "CBS News",
-   "url": "https://www.cbsnews.com/"
-  },
-  {
-   "name": "Reuters World",
-   "url": "https://www.reuters.com/world/"
+   "name": "WHO EMRO",
+   "url": "https://www.emro.who.int/"
   }
  ]
 }
