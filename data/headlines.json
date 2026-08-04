@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04 19:56 UTC",
+ "updated": "2026-08-04 21:36 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,14 +25,9 @@
      "date": "Tue, 04 Aug 2026 19:00:43 GMT"
     },
     {
-     "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+     "title": "Infantino calls executive meeting as criticism mounts",
      "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 19:56:20 GMT"
-    },
-    {
-     "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-     "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 15:07:52 GMT"
+     "date": "Tue, 04 Aug 2026 20:13:03 GMT"
     },
     {
      "title": "Princess Eugenie gives birth to baby girl in Portugal",
@@ -40,9 +35,14 @@
      "date": "Tue, 04 Aug 2026 17:44:10 GMT"
     },
     {
-     "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
-     "link": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 17:01:19 GMT"
+     "title": "Major search under way for boy, 13, missing at sea",
+     "link": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 20:52:43 GMT"
+    },
+    {
+     "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+     "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 15:07:52 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
+     "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
+     "date": "Tue, 04 Aug 2026 16:16:43 -0400"
+    },
+    {
+     "title": "One Maine community's fight to save a birthing center",
+     "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
+     "date": "Tue, 04 Aug 2026 16:16:26 -0400"
+    },
+    {
      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
      "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
      "date": "Tue, 04 Aug 2026 14:01:04 -0400"
@@ -168,16 +178,6 @@
      "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
      "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
      "date": "Tue, 04 Aug 2026 07:05:10 -0400"
-    },
-    {
-     "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
-     "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
-     "date": "Tue, 04 Aug 2026 06:56:56 -0400"
-    },
-    {
-     "title": "The sneaky economics of healthwashing",
-     "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-     "date": "Tue, 04 Aug 2026 06:30:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Evacuations ordered as Guatemala volcano erupts",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 19:41:17 +0000"
+     "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 21:11:50 +0000"
     },
     {
-     "title": "Red Cross urges international aid as Sudan crisis deepens",
-     "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 19:39:58 +0000"
+     "title": "Death toll rises to 87 in India’s flood-stricken Assam",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 21:03:17 +0000"
     },
     {
-     "title": "Telegram says Apple suspension followed content norms violation by one user",
-     "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 19:35:12 +0000"
+     "title": "Six years on, Beirut blast families still await justice",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 21:03:15 +0000"
     },
     {
-     "title": "Kazakhstan releases first tiger to restore extinct species",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 19:21:16 +0000"
+     "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+     "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 20:59:33 +0000"
     },
     {
-     "title": "White House to meet AI firms on advanced model safety",
-     "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 19:04:18 +0000"
+     "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+     "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 20:59:32 +0000"
     },
     {
-     "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
-     "link": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 18:50:29 +0000"
+     "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+     "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 20:35:56 +0000"
     },
     {
-     "title": "Mass funeral held for 112 members of two Palestinian families",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 18:35:35 +0000"
+     "title": "How much of a challenge are wildfires to Europe?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 20:34:38 +0000"
     },
     {
-     "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
-     "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 18:34:48 +0000"
+     "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+     "link": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 20:32:51 +0000"
     }
    ]
   },
