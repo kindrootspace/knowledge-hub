@@ -1,33 +1,23 @@
 {
- "updated": "2026-08-03 23:19 UTC",
+ "updated": "2026-08-04 03:37 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Rapists and child sex offenders to be barred from early release scheme",
+     "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
      "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 21:35:15 GMT"
+     "date": "Tue, 04 Aug 2026 00:50:33 GMT"
     },
     {
-     "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-     "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 18:04:30 GMT"
+     "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+     "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 01:08:13 GMT"
     },
     {
-     "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 07:49:33 GMT"
-    },
-    {
-     "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-     "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 19:42:55 GMT"
-    },
-    {
-     "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
-     "link": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 20:09:46 GMT"
+     "title": "EU calls for stronger borders after Ceuta migrant crossings",
+     "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 21:43:10 GMT"
     },
     {
      "title": "There's a reason child vaccination rates are falling - and it's not social media",
@@ -35,14 +25,24 @@
      "date": "Mon, 03 Aug 2026 23:10:05 GMT"
     },
     {
-     "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
-     "link": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 15:29:13 GMT"
+     "title": "US states sue to block Trump tariffs impacting dozens of countries",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 02:53:00 GMT"
     },
     {
-     "title": "France hits out at Reform UK plan to return migrants using Navy",
-     "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 16:48:58 GMT"
+     "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
+     "link": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:28:34 GMT"
+    },
+    {
+     "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
+     "link": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 20:09:46 GMT"
+    },
+    {
+     "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+     "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 03:36:36 GMT"
     }
    ]
   },
@@ -50,9 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Half price rail travel extended to 18-year-olds",
+     "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:34:13 GMT"
+    },
+    {
+     "title": "US states sue to block Trump tariffs impacting dozens of countries",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 02:53:00 GMT"
+    },
+    {
+     "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+     "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 00:17:48 GMT"
+    },
+    {
      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 15:57:27 GMT"
+    },
+    {
+     "title": "Tokenomics: Why making AI pay is tricky",
+     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:21:10 GMT"
+    },
+    {
+     "title": "What heatwaves mean for summer weddings – and how to plan for one",
+     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:20:15 GMT"
     },
     {
      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
@@ -63,31 +88,6 @@
      "title": "It may be easier to get your first mortgage than you think - here's why",
      "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 09:55:36 GMT"
-    },
-    {
-     "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
-     "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 11:18:10 GMT"
-    },
-    {
-     "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-     "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 04:10:16 GMT"
-    },
-    {
-     "title": "US and Japan take action to prop up yen in rare joint move",
-     "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 07:30:52 GMT"
-    },
-    {
-     "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-     "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 01 Aug 2026 12:41:17 GMT"
-    },
-    {
-     "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-     "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 31 Jul 2026 21:57:59 GMT"
     }
    ]
   },
@@ -150,7 +150,7 @@
      "date": "Mon, 03 Aug 2026 17:17:49 -0400"
     },
     {
-     "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+     "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
      "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
      "date": "Mon, 03 Aug 2026 15:33:05 -0400"
     },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-     "link": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 23:02:07 +0000"
+     "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+     "link": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 03:14:29 +0000"
     },
     {
-     "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
-     "link": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 22:35:47 +0000"
+     "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+     "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 02:56:26 +0000"
     },
     {
-     "title": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
-     "link": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 22:31:08 +0000"
+     "title": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
+     "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 02:15:32 +0000"
     },
     {
-     "title": "Migrants await asylum in Ceuta amid hunger and thirst",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 21:17:21 +0000"
+     "title": "Does the US blockade on Cuba make America safer?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 01:58:17 +0000"
     },
     {
-     "title": "Will Israel withdraw from Gaza if Hamas disarms?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 21:05:11 +0000"
+     "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+     "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 01:43:51 +0000"
     },
     {
-     "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 20:58:19 +0000"
+     "title": "Trump administration sued by 25 states over new tariffs on trading partners",
+     "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 00:29:48 +0000"
     },
     {
-     "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
-     "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 20:24:02 +0000"
+     "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 00:00:00 +0000"
     },
     {
-     "title": "Survivors reach port after deadly Indonesia ferry fire",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 19:55:36 +0000"
+     "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
+     "date": "Mon, 03 Aug 2026 23:52:02 +0000"
     }
    ]
   },
