@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04 12:19 UTC",
+ "updated": "2026-08-04 15:35 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,17 +7,17 @@
     {
      "title": "More than 150 migrants rescued after boat catches fire in Channel",
      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 11:19:08 GMT"
+     "date": "Tue, 04 Aug 2026 14:37:42 GMT"
     },
     {
      "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
      "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 12:12:02 GMT"
+     "date": "Tue, 04 Aug 2026 12:19:50 GMT"
     },
     {
-     "title": "Analysis: Trump challenged by cold reality from top allies",
-     "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 09:11:39 GMT"
+     "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 15:33:03 GMT"
     },
     {
      "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
@@ -25,24 +25,24 @@
      "date": "Tue, 04 Aug 2026 10:45:14 GMT"
     },
     {
-     "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-     "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 10:07:05 GMT"
+     "title": "Prison early release scheme comes 'at the expense of victims', families complain",
+     "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 15:27:55 GMT"
     },
     {
-     "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
-     "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 01:08:13 GMT"
+     "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+     "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 15:07:52 GMT"
     },
     {
-     "title": "'Rape list' part of misogyny girls face at school",
-     "link": "https://www.bbc.co.uk/news/articles/c2lqjjwvw2xo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 10:34:17 GMT"
+     "title": "Fan adds 'just joking' to England World Cup win tattoo",
+     "link": "https://www.bbc.co.uk/news/articles/cy5dq9qy6xvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 12:52:50 GMT"
     },
     {
-     "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
-     "link": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 23:28:34 GMT"
+     "title": "Scottish exam pass rates rise as students find out results",
+     "link": "https://www.bbc.co.uk/news/articles/c8xn11nv12do?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 13:51:26 GMT"
     }
    ]
   },
@@ -50,9 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 15:33:03 GMT"
+    },
+    {
+     "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+     "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 13:53:41 GMT"
+    },
+    {
      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
      "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 10:07:05 GMT"
+    },
+    {
+     "title": "Campaigners denied appeal over Gatwick expansion",
+     "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 12:25:34 GMT"
     },
     {
      "title": "Apple issues new challenge against UK order for access to private user data",
@@ -60,14 +75,9 @@
      "date": "Tue, 04 Aug 2026 10:22:40 GMT"
     },
     {
-     "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-     "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 10:34:45 GMT"
-    },
-    {
-     "title": "Half-price rail travel extended to 18-year-olds",
-     "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 23:34:13 GMT"
+     "title": "Zinc dresses and ice creams - how to survive a heatwave wedding",
+     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:20:15 GMT"
     },
     {
      "title": "US states sue to block Trump tariffs impacting dozens of countries",
@@ -75,19 +85,9 @@
      "date": "Tue, 04 Aug 2026 09:08:40 GMT"
     },
     {
-     "title": "Zinc dresses and ice creams - how to survive a heatwave wedding",
-     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 23:20:15 GMT"
-    },
-    {
-     "title": "Could heatwaves make your food shop more expensive?",
-     "link": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 05:46:25 GMT"
-    },
-    {
-     "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-     "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 15:57:27 GMT"
+     "title": "Half-price rail travel extended to 18-year-olds",
+     "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 13:09:19 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "13 new books in August will get you through the dog days of summer",
+     "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
+     "date": "Tue, 04 Aug 2026 09:34:45 -0400"
+    },
+    {
      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
      "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
      "date": "Tue, 04 Aug 2026 07:29:23 -0400"
@@ -160,6 +165,11 @@
      "date": "Tue, 04 Aug 2026 06:30:00 -0400"
     },
     {
+     "title": "5 states have primary elections on Tuesday. These are the races to watch",
+     "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+     "date": "Tue, 04 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
      "date": "Tue, 04 Aug 2026 05:00:00 -0400"
@@ -168,16 +178,6 @@
      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
      "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
      "date": "Tue, 04 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Medicaid work rule leaves homeless people in the cold",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
-     "date": "Tue, 04 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "A veteran was detained by the National Guard in her front yard. Now she's suing",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
-     "date": "Tue, 04 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials",
-     "link": "https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 11:47:45 +0000"
+     "title": "Drone appears to stalk man before exploding",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 15:11:51 +0000"
     },
     {
-     "title": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
-     "link": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 11:30:30 +0000"
+     "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
+     "link": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 14:51:51 +0000"
     },
     {
-     "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 11:26:28 +0000"
+     "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
+     "link": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 14:23:33 +0000"
     },
     {
-     "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
-     "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 11:21:01 +0000"
+     "title": "FIFA denies Infantino sought Trump backing after failed World Cup selloff",
+     "link": "https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 14:11:20 +0000"
     },
     {
-     "title": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
-     "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 11:05:58 +0000"
+     "title": "Why are oil companies posting record profits amid Iran war disruption?",
+     "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 14:04:28 +0000"
     },
     {
-     "title": "Who is behind settler violence in the occupied West Bank?",
-     "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 11:04:03 +0000"
+     "title": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
+     "link": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 13:52:45 +0000"
     },
     {
-     "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
-     "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 10:53:33 +0000"
+     "title": "Top Africa football leaders back Infantino after FIFA selloff scandal",
+     "link": "https://www.aljazeera.com/sports/2026/8/4/top-africa-football-leaders-back-infantino-after-fifa-selloff-scandal?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 13:37:19 +0000"
     },
     {
-     "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
-     "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 10:40:08 +0000"
+     "title": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 13:34:43 +0000"
     }
    ]
   },
@@ -230,8 +230,18 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
+     "link": "https://www.nature.com/articles/s41586-026-10958-x",
+     "date": ""
+    },
+    {
      "title": "Put health systems at the centre of European heatwave plans",
      "link": "https://www.nature.com/articles/d41586-026-02426-3",
+     "date": ""
+    },
+    {
+     "title": "‘Television’? The word will never catch on!",
+     "link": "https://www.nature.com/articles/d41586-026-02379-7",
      "date": ""
     },
     {
@@ -250,23 +260,13 @@
      "date": ""
     },
     {
-     "title": "Why the need for the WHO has never been greater",
-     "link": "https://www.nature.com/articles/d41586-026-02358-y",
+     "title": "Engineered yeast that make cancer drugs could spare a rare flower",
+     "link": "https://www.nature.com/articles/d41586-026-02428-1",
      "date": ""
     },
     {
-     "title": "Europe can become a bioengineering powerhouse with these three changes",
-     "link": "https://www.nature.com/articles/d41586-026-02389-5",
-     "date": ""
-    },
-    {
-     "title": "How I explore trauma through ‘cinematic neuroscience’",
-     "link": "https://www.nature.com/articles/d41586-026-02022-5",
-     "date": ""
-    },
-    {
-     "title": "Could mending damaged DNA prolong life?",
-     "link": "https://www.nature.com/articles/d41586-026-02385-9",
+     "title": "Tiny patch of Amazon likely holds 40,000 insect species — many new to science",
+     "link": "https://www.nature.com/articles/d41586-026-02350-6",
      "date": ""
     }
    ]
