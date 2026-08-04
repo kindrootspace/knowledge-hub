@@ -1,14 +1,9 @@
 {
- "updated": "2026-08-04 03:37 UTC",
+ "updated": "2026-08-04 06:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-     "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 00:50:33 GMT"
-    },
     {
      "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
      "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
@@ -25,9 +20,9 @@
      "date": "Mon, 03 Aug 2026 23:10:05 GMT"
     },
     {
-     "title": "US states sue to block Trump tariffs impacting dozens of countries",
-     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 02:53:00 GMT"
+     "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+     "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 00:02:40 GMT"
     },
     {
      "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
@@ -42,7 +37,12 @@
     {
      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 03:36:36 GMT"
+     "date": "Tue, 04 Aug 2026 03:37:14 GMT"
+    },
+    {
+     "title": "US states sue to block Trump tariffs impacting dozens of countries",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 02:53:00 GMT"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Half price rail travel extended to 18-year-olds",
+     "title": "Half-price rail travel extended to 18-year-olds",
      "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 23:34:13 GMT"
     },
@@ -75,7 +75,7 @@
      "date": "Mon, 03 Aug 2026 23:21:10 GMT"
     },
     {
-     "title": "What heatwaves mean for summer weddings – and how to plan for one",
+     "title": "How heatwaves are changing summer weddings - here's how to plan for one",
      "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 23:20:15 GMT"
     },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+     "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 06:00:10 +0000"
+    },
+    {
+     "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+     "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 05:03:44 +0000"
+    },
+    {
+     "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 04:22:28 +0000"
+    },
+    {
+     "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+     "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 03:58:09 +0000"
+    },
+    {
+     "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 03:32:48 +0000"
+    },
+    {
      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
      "link": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
      "date": "Tue, 04 Aug 2026 03:14:29 +0000"
@@ -198,31 +223,6 @@
      "title": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
      "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss",
      "date": "Tue, 04 Aug 2026 02:15:32 +0000"
-    },
-    {
-     "title": "Does the US blockade on Cuba make America safer?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 01:58:17 +0000"
-    },
-    {
-     "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-     "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 01:43:51 +0000"
-    },
-    {
-     "title": "Trump administration sued by 25 states over new tariffs on trading partners",
-     "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 00:29:48 +0000"
-    },
-    {
-     "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
-     "date": "Mon, 03 Aug 2026 23:52:02 +0000"
     }
    ]
   },
