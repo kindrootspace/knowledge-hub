@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-04 09:58 UTC",
+ "updated": "2026-08-04 12:19 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
-     "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 01:08:13 GMT"
+     "title": "More than 150 migrants rescued after boat catches fire in Channel",
+     "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 11:19:08 GMT"
+    },
+    {
+     "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+     "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 12:12:02 GMT"
     },
     {
      "title": "Analysis: Trump challenged by cold reality from top allies",
@@ -15,34 +20,29 @@
      "date": "Tue, 04 Aug 2026 09:11:39 GMT"
     },
     {
-     "title": "There's a reason child vaccination rates are falling - and it's not social media",
-     "link": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 23:10:05 GMT"
+     "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 10:45:14 GMT"
     },
     {
-     "title": "BP profits highest in four years as Iran war pushes up oil price",
+     "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
      "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 09:04:46 GMT"
+     "date": "Tue, 04 Aug 2026 10:07:05 GMT"
+    },
+    {
+     "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+     "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 01:08:13 GMT"
+    },
+    {
+     "title": "'Rape list' part of misogyny girls face at school",
+     "link": "https://www.bbc.co.uk/news/articles/c2lqjjwvw2xo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 10:34:17 GMT"
     },
     {
      "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
      "link": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 23:28:34 GMT"
-    },
-    {
-     "title": "Ariana Grande says 'boundaries need to be set' after announcing break",
-     "link": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 06:36:18 GMT"
-    },
-    {
-     "title": "EU calls for stronger borders after Ceuta migrant crossings",
-     "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 21:43:10 GMT"
-    },
-    {
-     "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-     "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 09:35:06 GMT"
     }
    ]
   },
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "BP profits highest in four years as Iran war pushes up oil price",
+     "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
      "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 09:04:46 GMT"
+     "date": "Tue, 04 Aug 2026 10:07:05 GMT"
     },
     {
-     "title": "What is Trump Media's Truth API and why is it controversial?",
+     "title": "Apple issues new challenge against UK order for access to private user data",
+     "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 10:22:40 GMT"
+    },
+    {
+     "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 09:40:47 GMT"
+     "date": "Tue, 04 Aug 2026 10:34:45 GMT"
     },
     {
      "title": "Half-price rail travel extended to 18-year-olds",
@@ -70,24 +75,19 @@
      "date": "Tue, 04 Aug 2026 09:08:40 GMT"
     },
     {
+     "title": "Zinc dresses and ice creams - how to survive a heatwave wedding",
+     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:20:15 GMT"
+    },
+    {
      "title": "Could heatwaves make your food shop more expensive?",
      "link": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 05:46:25 GMT"
     },
     {
-     "title": "Heatwaves are changing summer weddings - here's how to plan for one",
-     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 23:20:15 GMT"
-    },
-    {
      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 03 Aug 2026 15:57:27 GMT"
-    },
-    {
-     "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-     "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 00:17:48 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Sun, 02 Aug 2026 04:00:11 GMT"
     },
     {
+     "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
+     "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
+     "date": "Tue, 04 Aug 2026 10:00:47 GMT"
+    },
+    {
      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
      "link": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
      "date": "Mon, 03 Aug 2026 08:16:38 GMT"
@@ -128,17 +133,32 @@
      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
      "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
      "date": "Sat, 01 Aug 2026 22:31:13 GMT"
-    },
-    {
-     "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-     "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-     "date": "Fri, 31 Jul 2026 16:29:14 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+     "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+     "date": "Tue, 04 Aug 2026 07:29:23 -0400"
+    },
+    {
+     "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
+     "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
+     "date": "Tue, 04 Aug 2026 07:05:10 -0400"
+    },
+    {
+     "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+     "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+     "date": "Tue, 04 Aug 2026 06:56:56 -0400"
+    },
+    {
+     "title": "The sneaky economics of healthwashing",
+     "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+     "date": "Tue, 04 Aug 2026 06:30:00 -0400"
+    },
     {
      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
@@ -158,26 +178,6 @@
      "title": "A veteran was detained by the National Guard in her front yard. Now she's suing",
      "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
      "date": "Tue, 04 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Five states hold polls on Tuesday. Here's what to know.",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
-     "date": "Tue, 04 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
-     "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
-     "date": "Tue, 04 Aug 2026 02:59:01 -0400"
-    },
-    {
-     "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
-     "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
-     "date": "Mon, 03 Aug 2026 18:53:15 -0400"
-    },
-    {
-     "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-     "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-     "date": "Mon, 03 Aug 2026 17:17:49 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Cars burn in reported settler attack in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 08:51:47 +0000"
+     "title": "DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials",
+     "link": "https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 11:47:45 +0000"
     },
     {
-     "title": "We demand accountability for the Beirut blast",
-     "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 08:51:46 +0000"
+     "title": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
+     "link": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 11:30:30 +0000"
     },
     {
-     "title": "UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan",
-     "link": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 08:37:44 +0000"
+     "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 11:26:28 +0000"
     },
     {
-     "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
-     "link": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 08:32:49 +0000"
+     "title": "Why Israel’s economy hasn’t collapsed during a multi-front war",
+     "link": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 11:21:01 +0000"
     },
     {
-     "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-     "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 07:19:29 +0000"
+     "title": "Misread as passive, the Gulf is quietly ending fifty years of dependence",
+     "link": "https://www.aljazeera.com/opinions/2026/8/4/the-gulf-can-no-longer-outsource-its-security?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 11:05:58 +0000"
     },
     {
-     "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-     "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 06:00:10 +0000"
+     "title": "Who is behind settler violence in the occupied West Bank?",
+     "link": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 11:04:03 +0000"
     },
     {
-     "title": "Why are the Washington wildfires so severe? Spokane fires explained",
-     "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 05:03:44 +0000"
+     "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+     "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 10:53:33 +0000"
     },
     {
-     "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 04:22:28 +0000"
+     "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+     "link": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 10:40:08 +0000"
     }
    ]
   },
@@ -250,23 +250,23 @@
      "date": ""
     },
     {
+     "title": "Why the need for the WHO has never been greater",
+     "link": "https://www.nature.com/articles/d41586-026-02358-y",
+     "date": ""
+    },
+    {
      "title": "Europe can become a bioengineering powerhouse with these three changes",
      "link": "https://www.nature.com/articles/d41586-026-02389-5",
      "date": ""
     },
     {
-     "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
-     "link": "https://www.nature.com/articles/s41586-026-10957-y",
+     "title": "How I explore trauma through ‘cinematic neuroscience’",
+     "link": "https://www.nature.com/articles/d41586-026-02022-5",
      "date": ""
     },
     {
-     "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
-     "link": "https://www.nature.com/articles/s41586-026-10943-4",
-     "date": ""
-    },
-    {
-     "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
-     "link": "https://www.nature.com/articles/d41586-026-02339-1",
+     "title": "Could mending damaged DNA prolong life?",
+     "link": "https://www.nature.com/articles/d41586-026-02385-9",
      "date": ""
     }
    ]
