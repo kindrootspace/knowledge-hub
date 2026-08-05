@@ -1,38 +1,38 @@
 {
- "updated": "2026-08-05 14:38 UTC",
+ "updated": "2026-08-05 16:53 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
-     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 14:26:44 GMT"
+     "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 16:40:41 GMT"
     },
     {
-     "title": "Anthropic AI used fake profiles to target people in hack - then hid the evidence",
+     "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 14:50:09 GMT"
+    },
+    {
+     "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 09:24:18 GMT"
     },
     {
-     "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
-     "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 13:37:55 GMT"
-    },
-    {
      "title": "Police chief considers joining legal action over PC Harper killers' early release",
      "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 14:05:33 GMT"
-    },
-    {
-     "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-     "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 11:19:24 GMT"
+     "date": "Wed, 05 Aug 2026 15:36:37 GMT"
     },
     {
      "title": "Drone carrying explosives found at German airport, police say",
      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 14:32:27 GMT"
+     "date": "Wed, 05 Aug 2026 16:06:30 GMT"
+    },
+    {
+     "title": "See the Sun like never before with most detailed images yet",
+     "link": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 15:01:33 GMT"
     },
     {
      "title": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
@@ -40,9 +40,9 @@
      "date": "Wed, 05 Aug 2026 12:14:41 GMT"
     },
     {
-     "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 12:26:26 GMT"
+     "title": "El-Sayed's victory sends tremors through Democratic Party",
+     "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 16:04:16 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+     "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+     "date": "Wed, 05 Aug 2026 12:06:06 -0400"
+    },
+    {
+     "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+     "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+     "date": "Wed, 05 Aug 2026 11:26:43 -0400"
+    },
+    {
      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
      "date": "Wed, 05 Aug 2026 09:54:31 -0400"
@@ -168,16 +178,6 @@
      "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
      "date": "Wed, 05 Aug 2026 04:45:42 -0400"
-    },
-    {
-     "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
-     "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-     "date": "Wed, 05 Aug 2026 04:01:00 -0400"
-    },
-    {
-     "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
-     "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-     "date": "Wed, 05 Aug 2026 00:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 14:08:46 +0000"
+     "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 16:42:24 +0000"
     },
     {
-     "title": "Boxer Chapman recovering after emergency surgery for brain bleed",
-     "link": "https://www.aljazeera.com/sports/2026/8/5/boxer-chapman-recovering-after-emergency-surgery-for-brain-bleed?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 13:58:31 +0000"
+     "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
+     "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 16:05:58 +0000"
     },
     {
-     "title": "Ex-PM Sheikh Hasina announces her plan to return to Bangladesh",
-     "link": "https://www.aljazeera.com/news/2026/8/5/ex-pm-sheikh-hasina-announces-her-plan-to-return-to-bangladesh?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 13:54:03 +0000"
+     "title": "Puerto Rican cities hit with water rationing measures during record drought",
+     "link": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 16:02:58 +0000"
     },
     {
-     "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
-     "link": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 13:48:22 +0000"
+     "title": "Arab officials call for action over Jerusalem tensions",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 15:59:52 +0000"
     },
     {
-     "title": "Iraq faces crisis as Shia armed groups defy disarmament",
-     "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 13:24:01 +0000"
+     "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
+     "link": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 15:50:06 +0000"
     },
     {
-     "title": "Former heavyweight champ ⁠Parker cleared to fight again after doping ban",
-     "link": "https://www.aljazeera.com/sports/2026/8/5/former-heavyweight-champ-%e2%81%a0parker-cleared-to-fight-again-after-doping-ban?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 13:21:53 +0000"
+     "title": "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
+     "link": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 15:22:39 +0000"
     },
     {
-     "title": "UN rights chief says Iran executed at least 56 people since March",
-     "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 12:58:22 +0000"
+     "title": "War on Iran: US-Iran deal edges closer",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 15:12:34 +0000"
     },
     {
-     "title": "Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’",
-     "link": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 12:58:16 +0000"
+     "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+     "link": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 14:40:32 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+     "link": "https://www.nature.com/articles/s41586-026-10970-1",
+     "date": ""
+    },
+    {
      "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
      "link": "https://www.nature.com/articles/s41586-026-10963-0",
      "date": ""
     },
     {
-     "title": "James Bond, not Bond James: why scientific publishing must respect name order",
-     "link": "https://www.nature.com/articles/d41586-026-01772-6",
+     "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+     "link": "https://www.nature.com/articles/s41586-026-10977-8",
      "date": ""
     },
     {
-     "title": "Exclusive: the science papers that patents cite the most",
-     "link": "https://www.nature.com/articles/d41586-026-02386-8",
+     "title": "Junk plastic turns into high-value commodity with chemistry trick",
+     "link": "https://www.nature.com/articles/d41586-026-02445-0",
      "date": ""
     },
     {
-     "title": "The recovered notes of Professor Alborough",
-     "link": "https://www.nature.com/articles/d41586-026-02252-7",
+     "title": "An expanded codebook of human transcription factor DNA-binding specificity",
+     "link": "https://www.nature.com/articles/s41586-026-10798-9",
      "date": ""
     },
     {
-     "title": "Why science must reinforce its social contract",
-     "link": "https://www.nature.com/articles/d41586-026-02444-1",
+     "title": "Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun",
+     "link": "https://www.nature.com/articles/s41586-026-10871-3",
      "date": ""
     },
     {
-     "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
-     "link": "https://www.nature.com/articles/s41586-026-10958-x",
+     "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
+     "link": "https://www.nature.com/articles/s41586-026-10890-0",
      "date": ""
     },
     {
-     "title": "Put health systems at the centre of European heatwave plans",
-     "link": "https://www.nature.com/articles/d41586-026-02426-3",
-     "date": ""
-    },
-    {
-     "title": "‘Television’? The word will never catch on!",
-     "link": "https://www.nature.com/articles/d41586-026-02379-7",
+     "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
+     "link": "https://www.nature.com/articles/s41586-026-10883-z",
      "date": ""
     }
    ]
