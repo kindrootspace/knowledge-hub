@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05 20:39 UTC",
+ "updated": "2026-08-05 22:21 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,6 +10,11 @@
      "date": "Wed, 05 Aug 2026 20:12:17 GMT"
     },
     {
+     "title": "Fifa admits mistakes but Infantino remains president",
+     "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 21:37:08 GMT"
+    },
+    {
      "title": "Woman arrested after four stabbed in central London",
      "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 16:34:52 GMT"
@@ -17,17 +22,12 @@
     {
      "title": "University of Cambridge professor at centre of plagiarism row resigns",
      "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 19:45:56 GMT"
+     "date": "Wed, 05 Aug 2026 21:18:04 GMT"
     },
     {
-     "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
-     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 14:50:09 GMT"
-    },
-    {
-     "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-     "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 09:24:18 GMT"
+     "title": "Walk-in mental health centres to open in banks and libraries across England",
+     "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 21:30:46 GMT"
     },
     {
      "title": "See the Sun like never before with most detailed images yet",
@@ -40,15 +40,20 @@
      "date": "Wed, 05 Aug 2026 20:01:51 GMT"
     },
     {
-     "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
-     "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 18:38:45 GMT"
+     "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+     "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 21:21:51 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+     "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 21:21:51 GMT"
+    },
     {
      "title": "Prioritise new jobs over green targets to win public contracts, firms told",
      "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Wed, 05 Aug 2026 18:38:45 GMT"
     },
     {
-     "title": "The cost of being single – and how friends are teaming up to beat it",
-     "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:21:08 GMT"
-    },
-    {
      "title": "How tech is helping in the battle against wildfires",
      "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 23:21:47 GMT"
     },
     {
+     "title": "The cost of being single – and how friends are teaming up to beat it",
+     "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:21:08 GMT"
+    },
+    {
      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 14:04:43 GMT"
-    },
-    {
-     "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-     "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 22:10:00 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+     "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+     "date": "Wed, 05 Aug 2026 16:43:29 -0400"
+    },
+    {
      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
      "date": "Wed, 05 Aug 2026 16:00:24 -0400"
@@ -173,11 +178,6 @@
      "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
      "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
      "date": "Wed, 05 Aug 2026 07:54:57 -0400"
-    },
-    {
-     "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
-     "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-     "date": "Wed, 05 Aug 2026 06:15:44 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "SpaceX shares slide on the heels of first quarterly report",
-     "link": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 20:06:08 +0000"
+     "title": "Israeli occupation destroys farmland and lives in southern Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 22:01:33 +0000"
     },
     {
-     "title": "Sheikh Hasina says she will return to Bangladesh in December",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 20:03:10 +0000"
+     "title": "US officials push back on reports of dangerously low munitions supplies",
+     "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 22:00:00 +0000"
     },
     {
-     "title": "New Mexico sues US Justice Department for impeding Epstein probe",
-     "link": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 19:51:12 +0000"
+     "title": "US man arrested at Trump’s golf course charged with multiple felonies",
+     "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 21:35:13 +0000"
     },
     {
-     "title": "Young pilot makes daring emergency landing on Florida interstate",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/aje-onl-nf_young-pilot-makes-emergency-landing-on-florida-i10-050826?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 19:46:33 +0000"
+     "title": "Israeli forces raid camp in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 21:31:55 +0000"
     },
     {
-     "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
-     "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 19:22:06 +0000"
+     "title": "Clashes on anniversary of Imran Khan imprisonment",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 21:28:14 +0000"
     },
     {
-     "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
-     "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 18:40:06 +0000"
+     "title": "El-Sayed wins Michigan Democratic Senate primary",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 21:15:35 +0000"
     },
     {
-     "title": "US authorities say 3 killed in shooting in Prospect Hill, North Carolina",
-     "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 18:25:07 +0000"
+     "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
+     "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 21:07:03 +0000"
     },
     {
-     "title": "Is the conflict between Russia and Ukraine deepening?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 18:16:03 +0000"
+     "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
+     "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 20:55:52 +0000"
     }
    ]
   },
