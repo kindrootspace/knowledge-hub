@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-05 06:42 UTC",
+ "updated": "2026-08-05 09:49 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-     "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 02:19:30 GMT"
+     "title": "Police chief considers joining legal action over PC Harper killers' early release",
+     "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 09:02:25 GMT"
+    },
+    {
+     "title": "Peer urges Tories to block council candidate jailed for antisemitic abuse against her",
+     "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 08:56:55 GMT"
     },
     {
      "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
@@ -15,34 +20,29 @@
      "date": "Wed, 05 Aug 2026 05:07:27 GMT"
     },
     {
-     "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+     "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 05:08:43 GMT"
-    },
-    {
-     "title": "Temperatures to drop briefly ahead of next UK heatwave",
-     "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:14:49 GMT"
-    },
-    {
-     "title": "How an avalanche killed a climbing legend - and a generation of record-setting guides",
-     "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 22:09:50 GMT"
-    },
-    {
-     "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
-     "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 02:03:42 GMT"
-    },
-    {
-     "title": "The city closing down streets so children can play",
-     "link": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:43:00 GMT"
+     "date": "Wed, 05 Aug 2026 09:39:50 GMT"
     },
     {
      "title": "Couple woke to find shirtless intruder in Travelodge room",
      "link": "https://www.bbc.co.uk/news/articles/czdm0l8l1pmo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 04:59:59 GMT"
+    },
+    {
+     "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
+     "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 08:53:01 GMT"
+    },
+    {
+     "title": "EA FC and The Sims maker Electronic Arts sells for $55bn to Saudi-led group",
+     "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:09:44 GMT"
+    },
+    {
+     "title": "New guidance on single-sex spaces comes into force",
+     "link": "https://www.bbc.co.uk/news/articles/c9983lv4dlno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:47:26 GMT"
     }
    ]
   },
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
+     "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 08:53:01 GMT"
+    },
+    {
      "title": "The cost of being single – and how friends are teaming up to beat it",
      "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 23:21:08 GMT"
     },
     {
-     "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+     "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 06:35:48 GMT"
+     "date": "Wed, 05 Aug 2026 08:53:40 GMT"
     },
     {
      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
@@ -65,9 +70,14 @@
      "date": "Tue, 04 Aug 2026 22:10:00 GMT"
     },
     {
-     "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+     "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
      "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 23:20:12 GMT"
+    },
+    {
+     "title": "How tech is helping in the battle against wildfires",
+     "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:21:47 GMT"
     },
     {
      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
@@ -75,25 +85,20 @@
      "date": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
-     "title": "How tech is helping firefighters in the battle against wildfires",
-     "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:21:47 GMT"
-    },
-    {
-     "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-     "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 00:02:18 GMT"
-    },
-    {
-     "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
-     "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:09:44 GMT"
+     "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+     "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 07:04:45 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "El Niño could push 50m people into acute hunger before end of next year",
+     "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+     "date": "Wed, 05 Aug 2026 08:00:13 GMT"
+    },
     {
      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
      "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
@@ -115,9 +120,9 @@
      "date": "Mon, 03 Aug 2026 16:05:20 GMT"
     },
     {
-     "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-     "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-     "date": "Mon, 03 Aug 2026 14:13:01 GMT"
+     "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
+     "link": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
+     "date": "Wed, 05 Aug 2026 09:00:15 GMT"
     },
     {
      "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
@@ -128,17 +133,22 @@
      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
      "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
      "date": "Tue, 04 Aug 2026 17:31:37 GMT"
-    },
-    {
-     "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
-     "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
-     "date": "Tue, 04 Aug 2026 10:00:47 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
+     "date": "Wed, 05 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+     "date": "Wed, 05 Aug 2026 04:01:00 -0400"
+    },
     {
      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
@@ -168,16 +178,6 @@
      "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
      "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
      "date": "Tue, 04 Aug 2026 15:40:02 -0400"
-    },
-    {
-     "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-     "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-     "date": "Tue, 04 Aug 2026 14:01:04 -0400"
-    },
-    {
-     "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-     "date": "Tue, 04 Aug 2026 13:43:06 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
-     "link": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 06:10:20 +0000"
+     "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+     "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 09:16:39 +0000"
     },
     {
-     "title": "The yearly mild weather spell that brings Yemen’s coast back to life",
-     "link": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 05:48:42 +0000"
+     "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+     "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 09:16:06 +0000"
     },
     {
-     "title": "Return of goods to markets in Gaza doesn’t mean people can afford them",
-     "link": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 05:46:13 +0000"
+     "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
+     "link": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 09:14:41 +0000"
     },
     {
-     "title": "Egypt’s Mohamed Salah looks set to swap Liverpool for Turkiye’s Trabzonspor",
-     "link": "https://www.aljazeera.com/sports/2026/8/5/salah-in-with-trabzonspor-as-egypt-forward-set-for-turkiye-move?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 05:40:27 +0000"
+     "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 09:05:46 +0000"
     },
     {
-     "title": "Bangladesh Truth Seeker",
-     "link": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 05:00:00 +0000"
+     "title": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
+     "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 09:03:42 +0000"
     },
     {
-     "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 04:38:00 +0000"
+     "title": "Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/inside-the-air-india-phuket-delhi-flight-that-dropped-300-feet-mid-air?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 08:41:36 +0000"
     },
     {
-     "title": "Has a US court just set the grounds for another January 6 insurrection?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 04:37:43 +0000"
+     "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 08:37:04 +0000"
     },
     {
-     "title": "Bolivia sends troops to stop Brazilian gang violence along border",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 03:58:12 +0000"
+     "title": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
+     "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 08:35:22 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Exclusive: the science papers that patents cite the most",
+     "link": "https://www.nature.com/articles/d41586-026-02386-8",
+     "date": ""
+    },
     {
      "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
      "link": "https://www.nature.com/articles/s41586-026-10958-x",
@@ -262,11 +267,6 @@
     {
      "title": "Engineered yeast that make cancer drugs could spare a rare flower",
      "link": "https://www.nature.com/articles/d41586-026-02428-1",
-     "date": ""
-    },
-    {
-     "title": "Tiny patch of Amazon probably holds 40,000 insect species — many new to science",
-     "link": "https://www.nature.com/articles/d41586-026-02350-6",
      "date": ""
     }
    ]
