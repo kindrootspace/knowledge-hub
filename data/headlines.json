@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05 09:49 UTC",
+ "updated": "2026-08-05 12:17 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,29 @@
      "date": "Wed, 05 Aug 2026 09:02:25 GMT"
     },
     {
-     "title": "Peer urges Tories to block council candidate jailed for antisemitic abuse against her",
+     "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
      "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 08:56:55 GMT"
+     "date": "Wed, 05 Aug 2026 11:07:53 GMT"
+    },
+    {
+     "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 09:24:18 GMT"
+    },
+    {
+     "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 11:19:37 GMT"
+    },
+    {
+     "title": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
+     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 12:05:13 GMT"
+    },
+    {
+     "title": "Waste workers help find binned €1m lottery ticket in Italy",
+     "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 11:43:09 GMT"
     },
     {
      "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
@@ -20,29 +40,9 @@
      "date": "Wed, 05 Aug 2026 05:07:27 GMT"
     },
     {
-     "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-     "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 09:39:50 GMT"
-    },
-    {
-     "title": "Couple woke to find shirtless intruder in Travelodge room",
-     "link": "https://www.bbc.co.uk/news/articles/czdm0l8l1pmo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 04:59:59 GMT"
-    },
-    {
-     "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
+     "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
      "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 08:53:01 GMT"
-    },
-    {
-     "title": "EA FC and The Sims maker Electronic Arts sells for $55bn to Saudi-led group",
-     "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:09:44 GMT"
-    },
-    {
-     "title": "New guidance on single-sex spaces comes into force",
-     "link": "https://www.bbc.co.uk/news/articles/c9983lv4dlno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:47:26 GMT"
     }
    ]
   },
@@ -50,7 +50,12 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
+     "title": "Government to prioritise job creation in awarding public contracts under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 10:10:02 GMT"
+    },
+    {
+     "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
      "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 08:53:01 GMT"
     },
@@ -70,24 +75,19 @@
      "date": "Tue, 04 Aug 2026 22:10:00 GMT"
     },
     {
-     "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-     "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:20:12 GMT"
-    },
-    {
      "title": "How tech is helping in the battle against wildfires",
      "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 23:21:47 GMT"
     },
     {
+     "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
+     "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:20:12 GMT"
+    },
+    {
      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 03:44:30 GMT"
-    },
-    {
-     "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-     "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 07:04:45 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 03 Aug 2026 16:05:20 GMT"
     },
     {
+     "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
+     "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+     "date": "Wed, 05 Aug 2026 10:40:03 GMT"
+    },
+    {
      "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
      "date": "Wed, 05 Aug 2026 09:00:15 GMT"
@@ -128,11 +133,6 @@
      "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
      "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
      "date": "Wed, 05 Aug 2026 01:41:07 GMT"
-    },
-    {
-     "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-     "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-     "date": "Tue, 04 Aug 2026 17:31:37 GMT"
     }
    ]
   },
@@ -140,9 +140,29 @@
    "name": "NPR",
    "items": [
     {
+     "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
+     "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
+     "date": "Wed, 05 Aug 2026 07:54:57 -0400"
+    },
+    {
+     "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+     "date": "Wed, 05 Aug 2026 06:15:44 -0400"
+    },
+    {
+     "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+     "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
+     "date": "Wed, 05 Aug 2026 06:08:28 -0400"
+    },
+    {
      "title": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
      "date": "Wed, 05 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
+     "date": "Wed, 05 Aug 2026 04:45:42 -0400"
     },
     {
      "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
@@ -158,26 +178,6 @@
      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
      "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
      "date": "Tue, 04 Aug 2026 20:30:48 -0400"
-    },
-    {
-     "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-     "date": "Tue, 04 Aug 2026 18:02:03 -0400"
-    },
-    {
-     "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
-     "date": "Tue, 04 Aug 2026 16:16:43 -0400"
-    },
-    {
-     "title": "One Maine community's fight to save a birthing center",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
-     "date": "Tue, 04 Aug 2026 16:16:26 -0400"
-    },
-    {
-     "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
-     "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-     "date": "Tue, 04 Aug 2026 15:40:02 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-     "link": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 09:16:39 +0000"
+     "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 11:49:25 +0000"
     },
     {
-     "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
-     "link": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 09:16:06 +0000"
+     "title": "How a social media campaign triggered huge migrant surge on Ceuta",
+     "link": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 11:48:55 +0000"
     },
     {
-     "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
-     "link": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 09:14:41 +0000"
+     "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+     "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 11:38:51 +0000"
     },
     {
-     "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 09:05:46 +0000"
+     "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
+     "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 11:31:32 +0000"
     },
     {
-     "title": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
-     "link": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 09:03:42 +0000"
+     "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+     "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 11:01:32 +0000"
     },
     {
-     "title": "Inside the Air India Phuket-Delhi flight that dropped 300 feet mid-air",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/inside-the-air-india-phuket-delhi-flight-that-dropped-300-feet-mid-air?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 08:41:36 +0000"
+     "title": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 10:50:34 +0000"
     },
     {
-     "title": "Japan tests US-Tomahawk missile as it moves away from Post-WWII status",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/japan-tests-us-tomahawk-missile-as-it-moves-away-from-post-wwii-status?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 08:37:04 +0000"
+     "title": "Israeli raid deepens fears across West Bank refugee camps",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 10:30:17 +0000"
     },
     {
-     "title": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
-     "link": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 08:35:22 +0000"
+     "title": "India’s severe monsoon season causes more than 100 deaths since July",
+     "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 10:10:07 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
+     "link": "https://www.nature.com/articles/s41586-026-10963-0",
+     "date": ""
+    },
     {
      "title": "Exclusive: the science papers that patents cite the most",
      "link": "https://www.nature.com/articles/d41586-026-02386-8",
@@ -262,11 +267,6 @@
     {
      "title": "How scientists can tackle the paradox of political polarization",
      "link": "https://www.nature.com/articles/d41586-026-02425-4",
-     "date": ""
-    },
-    {
-     "title": "Engineered yeast that make cancer drugs could spare a rare flower",
-     "link": "https://www.nature.com/articles/d41586-026-02428-1",
      "date": ""
     }
    ]
