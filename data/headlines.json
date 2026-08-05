@@ -1,48 +1,48 @@
 {
- "updated": "2026-08-05 12:17 UTC",
+ "updated": "2026-08-05 14:38 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Police chief considers joining legal action over PC Harper killers' early release",
-     "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 09:02:25 GMT"
+     "title": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
+     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 14:26:44 GMT"
     },
     {
-     "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
-     "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 11:07:53 GMT"
-    },
-    {
-     "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+     "title": "Anthropic AI used fake profiles to target people in hack - then hid the evidence",
      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 09:24:18 GMT"
     },
     {
-     "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+     "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+     "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 13:37:55 GMT"
+    },
+    {
+     "title": "Police chief considers joining legal action over PC Harper killers' early release",
+     "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 14:05:33 GMT"
+    },
+    {
+     "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+     "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 11:19:24 GMT"
+    },
+    {
+     "title": "Drone carrying explosives found at German airport, police say",
+     "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 14:32:27 GMT"
+    },
+    {
+     "title": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
+     "link": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 12:14:41 GMT"
+    },
+    {
+     "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 11:19:37 GMT"
-    },
-    {
-     "title": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
-     "link": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 12:05:13 GMT"
-    },
-    {
-     "title": "Waste workers help find binned €1m lottery ticket in Italy",
-     "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 11:43:09 GMT"
-    },
-    {
-     "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-     "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 05:07:27 GMT"
-    },
-    {
-     "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
-     "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 08:53:01 GMT"
+     "date": "Wed, 05 Aug 2026 12:26:26 GMT"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Government to prioritise job creation in awarding public contracts under new rules",
+     "title": "Prioritise new jobs over green targets to win public contracts, firms told",
      "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 10:10:02 GMT"
     },
@@ -67,7 +67,7 @@
     {
      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
      "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 08:53:40 GMT"
+     "date": "Wed, 05 Aug 2026 14:04:43 GMT"
     },
     {
      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+     "date": "Wed, 05 Aug 2026 09:54:31 -0400"
+    },
+    {
      "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
      "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
      "date": "Wed, 05 Aug 2026 07:54:57 -0400"
@@ -150,7 +155,7 @@
      "date": "Wed, 05 Aug 2026 06:15:44 -0400"
     },
     {
-     "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+     "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
      "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
      "date": "Wed, 05 Aug 2026 06:08:28 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
      "date": "Wed, 05 Aug 2026 00:00:00 -0400"
-    },
-    {
-     "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-     "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-     "date": "Tue, 04 Aug 2026 20:30:48 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 11:49:25 +0000"
+     "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 14:08:46 +0000"
     },
     {
-     "title": "How a social media campaign triggered huge migrant surge on Ceuta",
-     "link": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 11:48:55 +0000"
+     "title": "Boxer Chapman recovering after emergency surgery for brain bleed",
+     "link": "https://www.aljazeera.com/sports/2026/8/5/boxer-chapman-recovering-after-emergency-surgery-for-brain-bleed?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 13:58:31 +0000"
     },
     {
-     "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
-     "link": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 11:38:51 +0000"
+     "title": "Ex-PM Sheikh Hasina announces her plan to return to Bangladesh",
+     "link": "https://www.aljazeera.com/news/2026/8/5/ex-pm-sheikh-hasina-announces-her-plan-to-return-to-bangladesh?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 13:54:03 +0000"
     },
     {
-     "title": "Israeli forces detain Palestinians during raid in occupied West Bank",
-     "link": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 11:31:32 +0000"
+     "title": "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
+     "link": "https://www.aljazeera.com/news/2026/8/5/why-are-us-republicans-losing-faith-in-war-secretary-pete-hegseth?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 13:48:22 +0000"
     },
     {
-     "title": "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-     "link": "https://www.aljazeera.com/news/2026/8/5/lebanon-and-israel-still-split-over-disarming-hezbollah-at-rome-talks?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 11:01:32 +0000"
+     "title": "Iraq faces crisis as Shia armed groups defy disarmament",
+     "link": "https://www.aljazeera.com/news/2026/8/5/iraq-faces-crisis-as-shia-armed-groups-defy-disarmament?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 13:24:01 +0000"
     },
     {
-     "title": "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/vozinha-moves-on-from-world-cup-says-colo-colo-is-the-best?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 10:50:34 +0000"
+     "title": "Former heavyweight champ ⁠Parker cleared to fight again after doping ban",
+     "link": "https://www.aljazeera.com/sports/2026/8/5/former-heavyweight-champ-%e2%81%a0parker-cleared-to-fight-again-after-doping-ban?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 13:21:53 +0000"
     },
     {
-     "title": "Israeli raid deepens fears across West Bank refugee camps",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 10:30:17 +0000"
+     "title": "UN rights chief says Iran executed at least 56 people since March",
+     "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 12:58:22 +0000"
     },
     {
-     "title": "India’s severe monsoon season causes more than 100 deaths since July",
-     "link": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 10:10:07 +0000"
+     "title": "Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’",
+     "link": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 12:58:16 +0000"
     }
    ]
   },
@@ -235,8 +235,23 @@
      "date": ""
     },
     {
+     "title": "James Bond, not Bond James: why scientific publishing must respect name order",
+     "link": "https://www.nature.com/articles/d41586-026-01772-6",
+     "date": ""
+    },
+    {
      "title": "Exclusive: the science papers that patents cite the most",
      "link": "https://www.nature.com/articles/d41586-026-02386-8",
+     "date": ""
+    },
+    {
+     "title": "The recovered notes of Professor Alborough",
+     "link": "https://www.nature.com/articles/d41586-026-02252-7",
+     "date": ""
+    },
+    {
+     "title": "Why science must reinforce its social contract",
+     "link": "https://www.nature.com/articles/d41586-026-02444-1",
      "date": ""
     },
     {
@@ -252,21 +267,6 @@
     {
      "title": "‘Television’? The word will never catch on!",
      "link": "https://www.nature.com/articles/d41586-026-02379-7",
-     "date": ""
-    },
-    {
-     "title": "Scientists don’t need more trust, they need public allies",
-     "link": "https://www.nature.com/articles/d41586-026-02424-5",
-     "date": ""
-    },
-    {
-     "title": "Lab leaders should follow football’s lead and have coaching qualifications",
-     "link": "https://www.nature.com/articles/d41586-026-02427-2",
-     "date": ""
-    },
-    {
-     "title": "How scientists can tackle the paradox of political polarization",
-     "link": "https://www.nature.com/articles/d41586-026-02425-4",
      "date": ""
     }
    ]
