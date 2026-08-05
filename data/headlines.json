@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05 18:53 UTC",
+ "updated": "2026-08-05 20:39 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,17 @@
     {
      "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
      "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 17:24:26 GMT"
+     "date": "Wed, 05 Aug 2026 20:12:17 GMT"
     },
     {
      "title": "Woman arrested after four stabbed in central London",
      "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 16:34:52 GMT"
+    },
+    {
+     "title": "University of Cambridge professor at centre of plagiarism row resigns",
+     "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 19:45:56 GMT"
     },
     {
      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
@@ -32,17 +37,12 @@
     {
      "title": "Drone carrying explosives found at German airport, police say",
      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 16:06:30 GMT"
+     "date": "Wed, 05 Aug 2026 20:01:51 GMT"
     },
     {
      "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
      "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 18:38:45 GMT"
-    },
-    {
-     "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-     "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 18:19:51 GMT"
     }
    ]
   },
@@ -55,9 +55,9 @@
      "date": "Wed, 05 Aug 2026 10:10:02 GMT"
     },
     {
-     "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+     "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 18:08:22 GMT"
+     "date": "Wed, 05 Aug 2026 19:39:48 GMT"
     },
     {
      "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
@@ -65,14 +65,14 @@
      "date": "Wed, 05 Aug 2026 08:53:01 GMT"
     },
     {
+     "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
+     "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 18:38:45 GMT"
+    },
+    {
      "title": "The cost of being single – and how friends are teaming up to beat it",
      "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 23:21:08 GMT"
-    },
-    {
-     "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-     "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 14:04:43 GMT"
     },
     {
      "title": "How tech is helping in the battle against wildfires",
@@ -80,20 +80,25 @@
      "date": "Tue, 04 Aug 2026 23:21:47 GMT"
     },
     {
+     "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+     "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 14:04:43 GMT"
+    },
+    {
      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
      "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 22:10:00 GMT"
-    },
-    {
-     "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-     "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:20:12 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+     "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+     "date": "Wed, 05 Aug 2026 19:20:28 GMT"
+    },
     {
      "title": "El Niño could push 50m people into acute hunger before end of next year",
      "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
@@ -115,11 +120,6 @@
      "date": "Mon, 03 Aug 2026 17:44:01 GMT"
     },
     {
-     "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-     "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-     "date": "Mon, 03 Aug 2026 16:05:20 GMT"
-    },
-    {
      "title": "Mexican influencer shot dead while streaming live on social media",
      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
      "date": "Wed, 05 Aug 2026 17:31:27 GMT"
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+     "date": "Wed, 05 Aug 2026 16:00:24 -0400"
+    },
     {
      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
@@ -173,11 +178,6 @@
      "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
      "date": "Wed, 05 Aug 2026 06:15:44 -0400"
-    },
-    {
-     "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-     "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
-     "date": "Wed, 05 Aug 2026 06:08:28 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "SpaceX shares slide on the heels of first quarterly report",
+     "link": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 20:06:08 +0000"
+    },
+    {
+     "title": "Sheikh Hasina says she will return to Bangladesh in December",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 20:03:10 +0000"
+    },
+    {
+     "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+     "link": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 19:51:12 +0000"
+    },
+    {
+     "title": "Young pilot makes daring emergency landing on Florida interstate",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/aje-onl-nf_young-pilot-makes-emergency-landing-on-florida-i10-050826?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 19:46:33 +0000"
+    },
+    {
+     "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+     "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 19:22:06 +0000"
+    },
+    {
+     "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+     "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 18:40:06 +0000"
+    },
+    {
+     "title": "US authorities say 3 killed in shooting in Prospect Hill, North Carolina",
+     "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 18:25:07 +0000"
+    },
+    {
      "title": "Is the conflict between Russia and Ukraine deepening?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
      "date": "Wed, 05 Aug 2026 18:16:03 +0000"
-    },
-    {
-     "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
-     "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 17:41:24 +0000"
-    },
-    {
-     "title": "El-Sayed wins Michigan Democratic Senate primary",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 17:40:03 +0000"
-    },
-    {
-     "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
-     "link": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 17:38:33 +0000"
-    },
-    {
-     "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-     "link": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 17:12:34 +0000"
-    },
-    {
-     "title": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
-     "link": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 17:06:04 +0000"
-    },
-    {
-     "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 16:42:24 +0000"
-    },
-    {
-     "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
-     "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 16:05:58 +0000"
     }
    ]
   },
