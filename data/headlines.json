@@ -1,28 +1,38 @@
 {
- "updated": "2026-08-04 23:18 UTC",
+ "updated": "2026-08-05 03:33 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+     "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 02:19:30 GMT"
+    },
+    {
+     "title": "Temperatures to drop briefly ahead of next UK heatwave",
+     "link": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:14:49 GMT"
+    },
+    {
+     "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+     "link": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 21:55:17 GMT"
+    },
+    {
+     "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+     "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 22:09:50 GMT"
+    },
+    {
+     "title": "Closing down streets so children can play",
+     "link": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:43:00 GMT"
+    },
+    {
      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 17:26:06 GMT"
-    },
-    {
-     "title": "More than 170 migrants rescued after boat catches fire in Channel",
-     "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 19:45:58 GMT"
-    },
-    {
-     "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-     "link": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 19:31:26 GMT"
-    },
-    {
-     "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-     "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 19:00:43 GMT"
     },
     {
      "title": "Infantino calls executive meeting as criticism mounts",
@@ -30,19 +40,9 @@
      "date": "Tue, 04 Aug 2026 20:13:03 GMT"
     },
     {
-     "title": "Princess Eugenie gives birth to baby girl in Portugal",
-     "link": "https://www.bbc.co.uk/news/articles/cpq81pxw5gro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 17:44:10 GMT"
-    },
-    {
-     "title": "Major search under way for boy, 13, missing at sea",
-     "link": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 20:52:43 GMT"
-    },
-    {
-     "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-     "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 15:07:52 GMT"
+     "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+     "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 00:19:04 GMT"
     }
    ]
   },
@@ -50,44 +50,44 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+     "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:20:12 GMT"
+    },
+    {
+     "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 00:02:18 GMT"
+    },
+    {
+     "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+     "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:09:44 GMT"
+    },
+    {
+     "title": "The cost of being single – and how friends are teaming up to beat it",
+     "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:21:08 GMT"
+    },
+    {
+     "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+     "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 22:10:00 GMT"
+    },
+    {
+     "title": "Could tech replace firefighters in the battle against wildfires?",
+     "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 04 Aug 2026 23:21:47 GMT"
+    },
+    {
      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 19:00:43 GMT"
+     "date": "Wed, 05 Aug 2026 01:05:21 GMT"
     },
     {
      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 04 Aug 2026 13:53:41 GMT"
-    },
-    {
-     "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
-     "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 10:07:05 GMT"
-    },
-    {
-     "title": "Campaigners denied appeal over Gatwick expansion",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 12:25:34 GMT"
-    },
-    {
-     "title": "Apple issues new challenge against UK order for access to private user data",
-     "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 10:22:40 GMT"
-    },
-    {
-     "title": "Zinc dresses and ice creams - how to survive a heatwave wedding",
-     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 03 Aug 2026 23:20:15 GMT"
-    },
-    {
-     "title": "US states sue to block Trump tariffs impacting dozens of countries",
-     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 09:08:40 GMT"
-    },
-    {
-     "title": "Half-price rail travel extended to 18-year-olds",
-     "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 13:09:19 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Sun, 02 Aug 2026 04:00:11 GMT"
     },
     {
+     "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+     "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+     "date": "Wed, 05 Aug 2026 01:41:07 GMT"
+    },
+    {
      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
      "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
      "date": "Tue, 04 Aug 2026 17:31:37 GMT"
@@ -128,17 +133,17 @@
      "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
      "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
      "date": "Tue, 04 Aug 2026 10:00:47 GMT"
-    },
-    {
-     "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-     "link": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-     "date": "Mon, 03 Aug 2026 08:16:38 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+     "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
+     "date": "Tue, 04 Aug 2026 20:30:48 -0400"
+    },
     {
      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
      "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
@@ -173,11 +178,6 @@
      "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
      "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
      "date": "Tue, 04 Aug 2026 12:37:38 -0400"
-    },
-    {
-     "title": "13 new books in August will get you through the dog days of summer",
-     "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
-     "date": "Tue, 04 Aug 2026 09:34:45 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Elon Musk’s SpaceX reports losses but less than expected",
-     "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 22:02:09 +0000"
+     "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+     "link": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 02:09:06 +0000"
     },
     {
-     "title": "How the far right weaponised the Ceuta crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 21:32:41 +0000"
+     "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+     "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 01:29:01 +0000"
     },
     {
-     "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 21:11:50 +0000"
+     "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+     "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 01:21:16 +0000"
     },
     {
-     "title": "Death toll rises to 87 in India’s flood-stricken Assam",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 21:03:17 +0000"
+     "title": "Ukrainian man chased by exploding drone recounts his terror",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 00:56:23 +0000"
     },
     {
-     "title": "Six years on, Beirut blast families still await justice",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 21:03:15 +0000"
+     "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 00:00:00 +0000"
     },
     {
-     "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-     "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 20:59:33 +0000"
+     "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+     "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 23:41:27 +0000"
     },
     {
-     "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-     "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 20:59:32 +0000"
+     "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+     "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 23:27:13 +0000"
     },
     {
-     "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
-     "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
-     "date": "Tue, 04 Aug 2026 20:35:56 +0000"
+     "title": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
+     "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
+     "date": "Tue, 04 Aug 2026 23:24:43 +0000"
     }
    ]
   },
