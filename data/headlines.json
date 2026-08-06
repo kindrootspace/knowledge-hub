@@ -1,13 +1,33 @@
 {
- "updated": "2026-08-06 12:19 UTC",
+ "updated": "2026-08-06 15:29 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-     "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 05:00:09 GMT"
+     "title": "Burnham orders review of grooming gang early releases",
+     "link": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 13:56:53 GMT"
+    },
+    {
+     "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 12:51:39 GMT"
+    },
+    {
+     "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
+     "link": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 15:17:14 GMT"
+    },
+    {
+     "title": "All of England's rivers and lakes polluted with chemicals, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 10:00:06 GMT"
+    },
+    {
+     "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+     "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 14:30:43 GMT"
     },
     {
      "title": "Cambridge professor at centre of plagiarism row resigns",
@@ -15,34 +35,14 @@
      "date": "Thu, 06 Aug 2026 06:28:03 GMT"
     },
     {
-     "title": "Majority of England's rivers and lakes fail new environmental review",
-     "link": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 10:00:06 GMT"
+     "title": "Why is Amanda Knox's upcoming Edinburgh Fringe comedy show causing controversy?",
+     "link": "https://www.bbc.co.uk/news/videos/cn4ndp12epro?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 11:08:10 GMT"
     },
     {
-     "title": "Farmer jailed for lodger's 'body in barrel' murder",
-     "link": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 11:29:53 GMT"
-    },
-    {
-     "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
-     "link": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 10:19:39 GMT"
-    },
-    {
-     "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-     "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 11:06:26 GMT"
-    },
-    {
-     "title": "Man charged with killing Scottish aid worker in Greece",
-     "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 11:22:55 GMT"
-    },
-    {
-     "title": "Nadia Sawalha threatens ITV with legal action over Loose Women removal",
-     "link": "https://www.bbc.co.uk/news/articles/cqx7ql4xqg3o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 11:57:13 GMT"
+     "title": "Ukraine hits two oil refineries deep in Russian territory",
+     "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 12:18:48 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "EasyJet agrees to £5.7bn takeover by US firm",
+     "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 15:28:16 GMT"
+    },
+    {
      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
      "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 09:40:18 GMT"
+     "date": "Thu, 06 Aug 2026 14:50:54 GMT"
     },
     {
      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -62,7 +67,12 @@
     {
      "title": "Shorts, strappy tops and sandals: What is acceptable to wear to work?",
      "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 23:22:17 GMT"
+     "date": "Thu, 06 Aug 2026 12:45:22 GMT"
+    },
+    {
+     "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+     "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 11:06:26 GMT"
     },
     {
      "title": "Meta becomes latest firm to say its AI hacked another company",
@@ -70,30 +80,30 @@
      "date": "Thu, 06 Aug 2026 05:53:58 GMT"
     },
     {
-     "title": "Raleigh owner starts insolvency proceedings",
+     "title": "Owner of bike maker Raleigh files for insolvency",
      "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 08:38:58 GMT"
+     "date": "Thu, 06 Aug 2026 12:34:42 GMT"
     },
     {
      "title": "US beef prices have soared but farmers aren't making more money",
      "link": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 23:23:05 GMT"
-    },
-    {
-     "title": "Winemakers prosper but veg farms wilt in the drought",
-     "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 05:19:40 GMT"
-    },
-    {
-     "title": "Thousands of young people missing out on money they don't know about",
-     "link": "https://www.bbc.co.uk/news/articles/c1d1z376k4ko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 09:10:03 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Top Ugandan footballer killed by robbers armed with paving stones",
+     "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+     "date": "Thu, 06 Aug 2026 14:30:32 GMT"
+    },
+    {
+     "title": "Nigerian security forces free more than 300 hostages abducted by militants",
+     "link": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
+     "date": "Thu, 06 Aug 2026 12:40:32 GMT"
+    },
     {
      "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
      "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
@@ -108,16 +118,6 @@
      "title": "El Niño could push 50m people into acute hunger before end of next year",
      "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
      "date": "Wed, 05 Aug 2026 08:00:13 GMT"
-    },
-    {
-     "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
-     "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
-     "date": "Wed, 05 Aug 2026 05:54:54 GMT"
-    },
-    {
-     "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
-     "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
-     "date": "Wed, 05 Aug 2026 04:00:08 GMT"
     },
     {
      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
@@ -139,6 +139,21 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
+     "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
+     "date": "Thu, 06 Aug 2026 10:19:27 -0400"
+    },
+    {
+     "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
+     "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
+     "date": "Thu, 06 Aug 2026 09:30:00 -0400"
+    },
+    {
+     "title": "How Cambodia became the first Asian country to hit an elusive HIV target",
+     "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
+     "date": "Thu, 06 Aug 2026 09:13:28 -0400"
+    },
     {
      "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
      "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
@@ -163,21 +178,6 @@
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
      "date": "Thu, 06 Aug 2026 04:43:07 -0400"
-    },
-    {
-     "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
-     "date": "Thu, 06 Aug 2026 03:16:22 -0400"
-    },
-    {
-     "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
-     "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
-     "date": "Thu, 06 Aug 2026 01:23:08 -0400"
-    },
-    {
-     "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-     "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-     "date": "Wed, 05 Aug 2026 16:43:29 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Myanmar leader visits Thailand in bid to bolster international legitimacy",
-     "link": "https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 12:04:36 +0000"
+     "title": "Trump vows to find ‘leakers’ after reports of depleted Iran war munitions",
+     "link": "https://www.aljazeera.com/news/2026/8/6/trump-vows-to-find-leakers-after-reports-of-depleted-iran-war-munitions?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 15:13:37 +0000"
     },
     {
-     "title": "Video: Wildfires in Washington state force thousands to evacuate homes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 11:59:30 +0000"
+     "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
+     "link": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 15:00:54 +0000"
     },
     {
-     "title": "Can the US slow China’s robotics and tech rise?",
-     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 11:35:47 +0000"
+     "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 14:57:04 +0000"
     },
     {
-     "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 11:20:41 +0000"
+     "title": "Real Madrid sign Ivory Coast’s Yan Diomande from RB Leipzig",
+     "link": "https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 14:47:40 +0000"
     },
     {
-     "title": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
-     "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 11:00:07 +0000"
+     "title": "UEFA says FIFA boycott remains despite Infantino World Cup selloff U-turn",
+     "link": "https://www.aljazeera.com/sports/2026/8/6/uefa-say-fifa-boycott-remains-after-infantino-world-cup-plan-fallout?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 14:40:55 +0000"
     },
     {
-     "title": "What the CJP protests reveal about India’s next generation",
-     "link": "https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 10:55:54 +0000"
+     "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+     "link": "https://www.aljazeera.com/news/2026/8/6/rights-groups-call-israels-killing-of-journalist-amal-khalil-a-war-crime?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 14:28:33 +0000"
     },
     {
-     "title": "Cambridge professor Jason Arday quits amid plagiarism allegations",
-     "link": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 10:24:59 +0000"
+     "title": "Why $370bn tech group Palantir pays 1.4 percent tax rate: Report",
+     "link": "https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 14:11:15 +0000"
     },
     {
-     "title": "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
-     "link": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 10:20:57 +0000"
+     "title": "FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark",
+     "link": "https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 14:08:11 +0000"
     }
    ]
   },
@@ -230,8 +230,23 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
+    },
+    {
      "title": "Pumas are drivers’ guardian angels",
      "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
+    },
+    {
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
+    },
+    {
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
      "date": ""
     },
     {
@@ -252,21 +267,6 @@
     {
      "title": "Junk plastic turns into high-value commodity with chemistry trick",
      "link": "https://www.nature.com/articles/d41586-026-02445-0",
-     "date": ""
-    },
-    {
-     "title": "An expanded codebook of human transcription factor DNA-binding specificity",
-     "link": "https://www.nature.com/articles/s41586-026-10798-9",
-     "date": ""
-    },
-    {
-     "title": "Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun",
-     "link": "https://www.nature.com/articles/s41586-026-10871-3",
-     "date": ""
-    },
-    {
-     "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
-     "link": "https://www.nature.com/articles/s41586-026-10890-0",
      "date": ""
     }
    ]
