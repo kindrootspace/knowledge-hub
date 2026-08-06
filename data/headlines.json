@@ -1,33 +1,33 @@
 {
- "updated": "2026-08-06 03:38 UTC",
+ "updated": "2026-08-06 06:46 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+     "link": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 05:00:09 GMT"
+    },
     {
      "title": "Infantino sorry for errors but stays Fifa president",
      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 21:37:08 GMT"
     },
     {
-     "title": "University of Cambridge professor at centre of plagiarism row resigns",
+     "title": "Cambridge professor at centre of plagiarism row resigns",
      "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 00:36:23 GMT"
+     "date": "Thu, 06 Aug 2026 06:28:03 GMT"
     },
     {
-     "title": "Jailed funeral boss angers families with 'apology'",
-     "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 23:02:10 GMT"
+     "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+     "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 05:00:13 GMT"
     },
     {
      "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
      "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 23:14:22 GMT"
-    },
-    {
-     "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-     "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 20:12:17 GMT"
     },
     {
      "title": "Why phones on loudspeaker may become just another noise",
@@ -42,13 +42,18 @@
     {
      "title": "Meta says AI model accessed the internet and hacked another firm",
      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 02:33:33 GMT"
+     "date": "Thu, 06 Aug 2026 05:53:58 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 05:00:54 GMT"
+    },
     {
      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
@@ -62,17 +67,12 @@
     {
      "title": "Meta says AI model accessed the internet and hacked another firm",
      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 02:33:33 GMT"
+     "date": "Thu, 06 Aug 2026 05:53:58 GMT"
     },
     {
-     "title": "Infantino sorry for errors but stays Fifa president",
-     "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 21:37:08 GMT"
-    },
-    {
-     "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-     "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 13:06:43 GMT"
+     "title": "Winemakers prosper but veg farms wilt in the drought",
+     "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 05:19:40 GMT"
     },
     {
      "title": "What's causing record high US beef prices?",
@@ -80,14 +80,14 @@
      "date": "Wed, 05 Aug 2026 23:23:05 GMT"
     },
     {
-     "title": "Prioritise new jobs over green targets to win public contracts, firms told",
-     "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 10:10:02 GMT"
-    },
-    {
      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 19:39:48 GMT"
+    },
+    {
+     "title": "Infantino sorry for errors but stays Fifa president",
+     "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 21:37:08 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+     "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+     "date": "Thu, 06 Aug 2026 01:23:08 -0400"
+    },
+    {
      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
      "date": "Wed, 05 Aug 2026 16:43:29 -0400"
@@ -173,17 +178,42 @@
      "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
      "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
      "date": "Wed, 05 Aug 2026 11:26:43 -0400"
-    },
-    {
-     "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-     "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
-     "date": "Wed, 05 Aug 2026 09:54:31 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "US military families face deportation after immigration protection ends",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 06:09:50 +0000"
+    },
+    {
+     "title": "Carney curses Infantino as FIFA backs its president",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 05:05:42 +0000"
+    },
+    {
+     "title": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+     "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 05:05:06 +0000"
+    },
+    {
+     "title": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 04:02:29 +0000"
+    },
+    {
+     "title": "Could the Iran war derail Donald Trump’s legacy?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 03:43:14 +0000"
+    },
+    {
+     "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+     "link": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 03:34:09 +0000"
+    },
     {
      "title": "Lightning strike kills Thai footballer during match",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "How Gambian women are restoring the mangroves protecting Banjul",
      "link": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
      "date": "Thu, 06 Aug 2026 02:34:00 +0000"
-    },
-    {
-     "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 02:28:56 +0000"
-    },
-    {
-     "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-     "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 02:06:03 +0000"
-    },
-    {
-     "title": "Mexican influencer shot dead during livestream",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 01:28:53 +0000"
-    },
-    {
-     "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
-     "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 00:40:28 +0000"
-    },
-    {
-     "title": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
-     "link": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 00:31:07 +0000"
-    },
-    {
-     "title": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
-     "date": "Thu, 06 Aug 2026 00:01:24 +0000"
     }
    ]
   },
