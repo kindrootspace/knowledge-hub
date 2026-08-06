@@ -1,23 +1,18 @@
 {
- "updated": "2026-08-05 22:21 UTC",
+ "updated": "2026-08-06 00:10 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-     "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 20:12:17 GMT"
-    },
-    {
-     "title": "Fifa admits mistakes but Infantino remains president",
+     "title": "Infantino sorry for errors but stays Fifa president",
      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 21:37:08 GMT"
     },
     {
-     "title": "Woman arrested after four stabbed in central London",
-     "link": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 16:34:52 GMT"
+     "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 20:12:17 GMT"
     },
     {
      "title": "University of Cambridge professor at centre of plagiarism row resigns",
@@ -25,24 +20,29 @@
      "date": "Wed, 05 Aug 2026 21:18:04 GMT"
     },
     {
+     "title": "Jailed funeral boss angers families with 'apology'",
+     "link": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 23:02:10 GMT"
+    },
+    {
+     "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
+     "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 23:14:22 GMT"
+    },
+    {
+     "title": "Why phones on loudspeaker may become just another noise",
+     "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 23:43:03 GMT"
+    },
+    {
+     "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+     "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 23:28:06 GMT"
+    },
+    {
      "title": "Walk-in mental health centres to open in banks and libraries across England",
      "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 21:30:46 GMT"
-    },
-    {
-     "title": "See the Sun like never before with most detailed images yet",
-     "link": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 15:01:33 GMT"
-    },
-    {
-     "title": "Drone carrying explosives found at German airport, police say",
-     "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 20:01:51 GMT"
-    },
-    {
-     "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-     "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 21:21:51 GMT"
     }
    ]
   },
@@ -55,9 +55,29 @@
      "date": "Wed, 05 Aug 2026 21:21:51 GMT"
     },
     {
+     "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
+     "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 23:22:17 GMT"
+    },
+    {
+     "title": "Infantino sorry for errors but stays Fifa president",
+     "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 21:37:08 GMT"
+    },
+    {
+     "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+     "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 13:06:43 GMT"
+    },
+    {
      "title": "Prioritise new jobs over green targets to win public contracts, firms told",
      "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 10:10:02 GMT"
+    },
+    {
+     "title": "What's causing record high US beef prices?",
+     "link": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 23:23:05 GMT"
     },
     {
      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
@@ -68,26 +88,6 @@
      "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
      "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 08:53:01 GMT"
-    },
-    {
-     "title": "Student loan repayment rates an 'unsustainable burden', chancellor told",
-     "link": "https://www.bbc.co.uk/news/articles/c5yed780epqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 18:38:45 GMT"
-    },
-    {
-     "title": "How tech is helping in the battle against wildfires",
-     "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:21:47 GMT"
-    },
-    {
-     "title": "The cost of being single – and how friends are teaming up to beat it",
-     "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 04 Aug 2026 23:21:08 GMT"
-    },
-    {
-     "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-     "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 14:04:43 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 03 Aug 2026 17:44:01 GMT"
     },
     {
+     "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+     "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+     "date": "Wed, 05 Aug 2026 22:16:20 GMT"
+    },
+    {
      "title": "Mexican influencer shot dead while streaming live on social media",
      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
      "date": "Wed, 05 Aug 2026 17:31:27 GMT"
@@ -128,11 +133,6 @@
      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
      "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
      "date": "Wed, 05 Aug 2026 10:40:03 GMT"
-    },
-    {
-     "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
-     "link": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
-     "date": "Wed, 05 Aug 2026 09:00:15 GMT"
     }
    ]
   },
@@ -143,6 +143,11 @@
      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
      "date": "Wed, 05 Aug 2026 16:43:29 -0400"
+    },
+    {
+     "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
+     "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
+     "date": "Wed, 05 Aug 2026 16:23:02 -0400"
     },
     {
      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
@@ -173,17 +178,27 @@
      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
      "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
      "date": "Wed, 05 Aug 2026 09:54:31 -0400"
-    },
-    {
-     "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
-     "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
-     "date": "Wed, 05 Aug 2026 07:54:57 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Nigeria announces rescue of 308 kidnapped citizens",
+     "link": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 23:34:47 +0000"
+    },
+    {
+     "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+     "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 22:59:28 +0000"
+    },
+    {
+     "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+     "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+     "date": "Wed, 05 Aug 2026 22:46:03 +0000"
+    },
     {
      "title": "Israeli occupation destroys farmland and lives in southern Syria",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Clashes on anniversary of Imran Khan imprisonment",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
      "date": "Wed, 05 Aug 2026 21:28:14 +0000"
-    },
-    {
-     "title": "El-Sayed wins Michigan Democratic Senate primary",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 21:15:35 +0000"
-    },
-    {
-     "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
-     "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 21:07:03 +0000"
-    },
-    {
-     "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-     "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 20:55:52 +0000"
     }
    ]
   },
