@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06 00:10 UTC",
+ "updated": "2026-08-06 03:38 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,9 @@
      "date": "Wed, 05 Aug 2026 21:37:08 GMT"
     },
     {
-     "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-     "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 20:12:17 GMT"
-    },
-    {
      "title": "University of Cambridge professor at centre of plagiarism row resigns",
      "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 21:18:04 GMT"
+     "date": "Thu, 06 Aug 2026 00:36:23 GMT"
     },
     {
      "title": "Jailed funeral boss angers families with 'apology'",
@@ -30,6 +25,11 @@
      "date": "Wed, 05 Aug 2026 23:14:22 GMT"
     },
     {
+     "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 20:12:17 GMT"
+    },
+    {
      "title": "Why phones on loudspeaker may become just another noise",
      "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 23:43:03 GMT"
@@ -40,9 +40,9 @@
      "date": "Wed, 05 Aug 2026 23:28:06 GMT"
     },
     {
-     "title": "Walk-in mental health centres to open in banks and libraries across England",
-     "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 21:30:46 GMT"
+     "title": "Meta says AI model accessed the internet and hacked another firm",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 02:33:33 GMT"
     }
    ]
   },
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+     "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 21:21:51 GMT"
+     "date": "Thu, 06 Aug 2026 01:19:59 GMT"
     },
     {
      "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
      "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 23:22:17 GMT"
+    },
+    {
+     "title": "Meta says AI model accessed the internet and hacked another firm",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 02:33:33 GMT"
     },
     {
      "title": "Infantino sorry for errors but stays Fifa president",
@@ -70,24 +75,19 @@
      "date": "Wed, 05 Aug 2026 13:06:43 GMT"
     },
     {
-     "title": "Prioritise new jobs over green targets to win public contracts, firms told",
-     "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 10:10:02 GMT"
-    },
-    {
      "title": "What's causing record high US beef prices?",
      "link": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 23:23:05 GMT"
     },
     {
+     "title": "Prioritise new jobs over green targets to win public contracts, firms told",
+     "link": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 05 Aug 2026 10:10:02 GMT"
+    },
+    {
      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
      "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 05 Aug 2026 19:39:48 GMT"
-    },
-    {
-     "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
-     "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 05 Aug 2026 08:53:01 GMT"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Nigeria announces rescue of 308 kidnapped citizens",
-     "link": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 23:34:47 +0000"
+     "title": "Lightning strike kills Thai footballer during match",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 02:39:39 +0000"
     },
     {
-     "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
-     "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 22:59:28 +0000"
+     "title": "How Gambian women are restoring the mangroves protecting Banjul",
+     "link": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 02:34:00 +0000"
     },
     {
-     "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
-     "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 22:46:03 +0000"
+     "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 02:28:56 +0000"
     },
     {
-     "title": "Israeli occupation destroys farmland and lives in southern Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 22:01:33 +0000"
+     "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
+     "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 02:06:03 +0000"
     },
     {
-     "title": "US officials push back on reports of dangerously low munitions supplies",
-     "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 22:00:00 +0000"
+     "title": "Mexican influencer shot dead during livestream",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 01:28:53 +0000"
     },
     {
-     "title": "US man arrested at Trump’s golf course charged with multiple felonies",
-     "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 21:35:13 +0000"
+     "title": "Meta’s AI model follows rivals in revealing hacks of outside systems",
+     "link": "https://www.aljazeera.com/news/2026/8/6/metas-ai-model-follows-rivals-in-revealing-hacks-of-outside-systems?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 00:40:28 +0000"
     },
     {
-     "title": "Israeli forces raid camp in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 21:31:55 +0000"
+     "title": "FAA says Trump’s Marine One briefly flew too close to passenger jet",
+     "link": "https://www.aljazeera.com/news/2026/8/6/faa-says-trumps-marine-one-briefly-flew-too-close-to-passenger-jet?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 00:31:07 +0000"
     },
     {
-     "title": "Clashes on anniversary of Imran Khan imprisonment",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
-     "date": "Wed, 05 Aug 2026 21:28:14 +0000"
+     "title": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
+     "date": "Thu, 06 Aug 2026 00:01:24 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
+    },
     {
      "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
      "link": "https://www.nature.com/articles/s41586-026-10970-1",
@@ -262,11 +267,6 @@
     {
      "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
      "link": "https://www.nature.com/articles/s41586-026-10890-0",
-     "date": ""
-    },
-    {
-     "title": "In situ particle-to-fibre transformation of hydrogels for 3D printing",
-     "link": "https://www.nature.com/articles/s41586-026-10883-z",
      "date": ""
     }
    ]
