@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-07 20:59 UTC",
+ "updated": "2026-08-07 21:56 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "How police left a registered sex offender free to murder and attack women",
+     "title": "Police failings revealed as sex offender left free to murder and attack women",
      "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 17:12:27 GMT"
+     "date": "Fri, 07 Aug 2026 21:10:48 GMT"
     },
     {
      "title": "Serial sex offender guilty of murdering two women and raping third",
@@ -17,7 +17,7 @@
     {
      "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 20:44:44 GMT"
+     "date": "Fri, 07 Aug 2026 20:58:58 GMT"
     },
     {
      "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -30,19 +30,19 @@
      "date": "Fri, 07 Aug 2026 20:33:23 GMT"
     },
     {
-     "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-     "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 17:41:30 GMT"
-    },
-    {
-     "title": "Politicians, private jets and power - the life of a Fifa president",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 17:45:06 GMT"
-    },
-    {
-     "title": "Watch: BBC questions Infantino over backing as Fifa president",
+     "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 20:12:26 GMT"
+     "date": "Fri, 07 Aug 2026 21:24:17 GMT"
+    },
+    {
+     "title": "Obesity rates have doubled in England since 1993 - what's going on?",
+     "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 18:38:46 GMT"
+    },
+    {
+     "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+     "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 21:19:27 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "US appeals court halts White House ballroom construction",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 21:18:20 +0000"
+    },
+    {
+     "title": "South Koreans beat the heat with ‘silent disco’ pool party",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 21:12:45 +0000"
+    },
+    {
+     "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+     "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 21:02:31 +0000"
+    },
+    {
      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
      "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 20:41:46 +0000"
@@ -208,21 +223,6 @@
      "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
      "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 19:21:01 +0000"
-    },
-    {
-     "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-     "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 18:54:55 +0000"
-    },
-    {
-     "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-     "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 18:00:05 +0000"
-    },
-    {
-     "title": "New Delhi on red alert as heavy rains pound the city",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 17:19:06 +0000"
     }
    ]
   },
