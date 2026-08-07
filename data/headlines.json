@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 15:09 UTC",
+ "updated": "2026-08-07 16:09 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Serial sex offender guilty of murdering two women and raping third",
      "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 14:43:09 GMT"
+     "date": "Fri, 07 Aug 2026 15:42:52 GMT"
     },
     {
      "title": "How police let a registered sex offender murder and attack women",
@@ -20,9 +20,9 @@
      "date": "Fri, 07 Aug 2026 14:48:00 GMT"
     },
     {
-     "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
-     "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 14:44:35 GMT"
+     "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+     "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 16:08:53 GMT"
     },
     {
      "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -30,19 +30,19 @@
      "date": "Fri, 07 Aug 2026 14:34:29 GMT"
     },
     {
-     "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
-     "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 09:30:30 GMT"
+     "title": "Seven killed after Thai student opens fire at home and school",
+     "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 15:51:16 GMT"
     },
     {
-     "title": "How a 90-second power outage sparked chaos for rail commuters",
-     "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 12:30:07 GMT"
+     "title": "Six-hour train services between London and Stirling running with no toilets",
+     "link": "https://www.bbc.co.uk/news/articles/cd7lzy85ywdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 15:21:49 GMT"
     },
     {
-     "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
-     "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 13:12:46 GMT"
+     "title": "Record spells with no rain across parts of central and south-east England",
+     "link": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 23:06:41 GMT"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "How a 90-second power outage sparked chaos for rail commuters",
+     "title": "How 90-second power outage sparked chaos for rail commuters",
      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 12:30:07 GMT"
     },
@@ -140,7 +140,12 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Murkowski will oppose Blanche nomination, narrowing his path to confirmation",
+     "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+     "date": "Fri, 07 Aug 2026 11:41:45 -0400"
+    },
+    {
+     "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
      "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
      "date": "Fri, 07 Aug 2026 10:12:59 -0400"
     },
@@ -173,17 +178,17 @@
      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
      "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+     "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 15:10:22 +0000"
+    },
     {
      "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
      "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 12:44:41 +0000"
-    },
-    {
-     "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 12:34:13 +0000"
     }
    ]
   },
