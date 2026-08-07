@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 20:01 UTC",
+ "updated": "2026-08-07 20:59 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,9 @@
      "date": "Fri, 07 Aug 2026 19:52:52 GMT"
     },
     {
-     "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
-     "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 17:09:32 GMT"
-    },
-    {
-     "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-     "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 17:41:30 GMT"
+     "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+     "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 20:44:44 GMT"
     },
     {
      "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -30,9 +25,14 @@
      "date": "Fri, 07 Aug 2026 16:53:25 GMT"
     },
     {
-     "title": "Seven killed after Thai student opens fire at home and school",
-     "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 15:51:16 GMT"
+     "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 20:33:23 GMT"
+    },
+    {
+     "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+     "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 17:41:30 GMT"
     },
     {
      "title": "Politicians, private jets and power - the life of a Fifa president",
@@ -40,9 +40,9 @@
      "date": "Fri, 07 Aug 2026 17:45:06 GMT"
     },
     {
-     "title": "Obesity rates have doubled in England since 1993 - what's going on?",
-     "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 18:38:46 GMT"
+     "title": "Watch: BBC questions Infantino over backing as Fifa president",
+     "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 20:12:26 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 06 Aug 2026 12:40:32 GMT"
     },
     {
+     "title": "US police officer accused of killing three people in Mexico arrested at border",
+     "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+     "date": "Fri, 07 Aug 2026 20:49:24 GMT"
+    },
+    {
      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
      "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
      "date": "Fri, 07 Aug 2026 14:00:32 GMT"
@@ -128,11 +133,6 @@
      "title": "Haitians face arrest and deportation after US removes TPS protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
      "date": "Fri, 07 Aug 2026 11:00:16 GMT"
-    },
-    {
-     "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
-     "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
-     "date": "Wed, 05 Aug 2026 22:16:20 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+     "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 20:41:46 +0000"
+    },
+    {
+     "title": "Can diplomacy end the conflict in Libya?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 20:39:26 +0000"
+    },
+    {
+     "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+     "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 20:27:56 +0000"
+    },
+    {
      "title": "Contaminated water putting Gaza families at risk",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 19:47:42 +0000"
@@ -208,21 +223,6 @@
      "title": "New Delhi on red alert as heavy rains pound the city",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 17:19:06 +0000"
-    },
-    {
-     "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
-     "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 17:07:29 +0000"
-    },
-    {
-     "title": "Hun Manet is refining Cambodia’s authoritarian model",
-     "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 16:47:33 +0000"
-    },
-    {
-     "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 16:42:35 +0000"
     }
    ]
   },
