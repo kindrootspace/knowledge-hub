@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 07:42 UTC",
+ "updated": "2026-08-07 09:15 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,17 +7,22 @@
     {
      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
      "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 05:00:23 GMT"
+     "date": "Fri, 07 Aug 2026 08:35:00 GMT"
     },
     {
      "title": "Arrests in Norfolk town as disorder continues for third night",
      "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 07:39:00 GMT"
+     "date": "Fri, 07 Aug 2026 08:27:52 GMT"
     },
     {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 00:54:03 GMT"
+     "date": "Fri, 07 Aug 2026 08:06:40 GMT"
+    },
+    {
+     "title": "How a diary entry solved the murder of a missing man",
+     "link": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 23:13:11 GMT"
     },
     {
      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
@@ -25,24 +30,19 @@
      "date": "Fri, 07 Aug 2026 00:34:14 GMT"
     },
     {
-     "title": "Artificial Intelligence used to design brand new viruses",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 18:01:52 GMT"
+     "title": "Could Russia be involved in German airport drone-bomb?",
+     "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 08:48:16 GMT"
     },
     {
-     "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
-     "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 01:10:58 GMT"
+     "title": "Wildfire-ravaged habitats in Wales could take centuries to recover, environmentalists say",
+     "link": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 05:15:56 GMT"
     },
     {
-     "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 01:57:02 GMT"
-    },
-    {
-     "title": "Serious questions for Cambridge after professor at centre of plagiarism row resigns",
-     "link": "https://www.bbc.co.uk/news/articles/cpvwd30we17o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 15:08:05 GMT"
+     "title": "Conservatives pledge to ban foreign nationals from social housing",
+     "link": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 07:43:31 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 00:54:03 GMT"
+     "date": "Fri, 07 Aug 2026 08:06:40 GMT"
     },
     {
      "title": "Argos is getting a makeover - but can it attract new shoppers?",
@@ -140,7 +140,32 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+     "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+     "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
+     "date": "Fri, 07 Aug 2026 04:41:55 -0400"
+    },
+    {
+     "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
      "date": "Fri, 07 Aug 2026 01:34:15 -0400"
     },
@@ -153,37 +178,27 @@
      "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
      "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
      "date": "Thu, 06 Aug 2026 18:06:35 -0400"
-    },
-    {
-     "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-     "date": "Thu, 06 Aug 2026 16:58:56 -0400"
-    },
-    {
-     "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
-     "date": "Thu, 06 Aug 2026 16:40:52 -0400"
-    },
-    {
-     "title": "Sticky or slippery? Snails can change their slime to meet the moment",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
-     "date": "Thu, 06 Aug 2026 14:26:45 -0400"
-    },
-    {
-     "title": "The park service says Trump's arch would obstruct historic sites. Could it be moved?",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5919628/trump-arch-location-historic-sites-nps",
-     "date": "Thu, 06 Aug 2026 14:19:47 -0400"
-    },
-    {
-     "title": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
-     "date": "Thu, 06 Aug 2026 13:11:42 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "The other classroom: Returning to sacred knowledge",
+     "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 08:41:06 +0000"
+    },
+    {
+     "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+     "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 07:44:06 +0000"
+    },
+    {
+     "title": "Earthquake strikes as doctors perform surgery",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 07:43:05 +0000"
+    },
     {
      "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
      "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
      "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 04:43:43 +0000"
-    },
-    {
-     "title": "At least six killed, 15 wounded in Thailand school shooting, police say",
-     "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 04:23:52 +0000"
-    },
-    {
-     "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
-     "link": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 04:04:45 +0000"
-    },
-    {
-     "title": "AI used to create viruses not found in nature for first time",
-     "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 03:48:22 +0000"
     }
    ]
   },
