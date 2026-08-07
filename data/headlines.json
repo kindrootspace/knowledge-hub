@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 22:55 UTC",
+ "updated": "2026-08-07 23:48 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,14 +20,14 @@
      "date": "Fri, 07 Aug 2026 22:42:43 GMT"
     },
     {
-     "title": "Streeting 'sickened' by sex abuse claims at Army college",
-     "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 16:53:25 GMT"
-    },
-    {
      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 22:13:55 GMT"
+    },
+    {
+     "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 22:50:58 GMT"
     },
     {
      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
@@ -40,9 +40,9 @@
      "date": "Fri, 07 Aug 2026 18:38:46 GMT"
     },
     {
-     "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-     "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 21:19:27 GMT"
+     "title": "Streeting 'sickened' by sex abuse claims at Army college",
+     "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 16:53:25 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
+     "link": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 23:18:14 +0000"
+    },
+    {
+     "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+     "link": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 23:15:01 +0000"
+    },
+    {
      "title": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
      "link": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 22:08:49 +0000"
@@ -213,16 +223,6 @@
      "title": "Can diplomacy end the conflict in Libya?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 20:39:26 +0000"
-    },
-    {
-     "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-     "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 20:27:56 +0000"
-    },
-    {
-     "title": "Contaminated water putting Gaza families at risk",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 19:47:42 +0000"
     }
    ]
   },
