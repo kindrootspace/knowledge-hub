@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 05:50 UTC",
+ "updated": "2026-08-07 07:42 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Arrests in Norfolk town as disorder continues for third night",
      "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 00:15:52 GMT"
+     "date": "Fri, 07 Aug 2026 07:39:00 GMT"
     },
     {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -20,9 +20,9 @@
      "date": "Fri, 07 Aug 2026 00:54:03 GMT"
     },
     {
-     "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-     "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 18:53:51 GMT"
+     "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+     "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 00:34:14 GMT"
     },
     {
      "title": "Artificial Intelligence used to design brand new viruses",
@@ -30,9 +30,9 @@
      "date": "Thu, 06 Aug 2026 18:01:52 GMT"
     },
     {
-     "title": "Village sees 50 days without rain during summer heatwave",
-     "link": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 23:06:41 GMT"
+     "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
+     "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 01:10:58 GMT"
     },
     {
      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
@@ -120,6 +120,11 @@
      "date": "Thu, 06 Aug 2026 09:45:54 GMT"
     },
     {
+     "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+     "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+     "date": "Fri, 07 Aug 2026 07:00:11 GMT"
+    },
+    {
      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
      "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
      "date": "Wed, 05 Aug 2026 22:16:20 GMT"
@@ -128,11 +133,6 @@
      "title": "Mexican influencer shot dead while streaming live on social media",
      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
      "date": "Wed, 05 Aug 2026 17:31:27 GMT"
-    },
-    {
-     "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
-     "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
-     "date": "Wed, 05 Aug 2026 10:40:03 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+     "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 06:29:40 +0000"
+    },
+    {
+     "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 05:49:22 +0000"
+    },
+    {
      "title": "Mexico deploys troops to secure avocado region after US halts imports",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 05:25:56 +0000"
@@ -200,7 +210,7 @@
      "date": "Fri, 07 Aug 2026 04:43:43 +0000"
     },
     {
-     "title": "One killed, four injured in Thailand school shooting, officials say",
+     "title": "At least six killed, 15 wounded in Thailand school shooting, police say",
      "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 04:23:52 +0000"
     },
@@ -213,16 +223,6 @@
      "title": "AI used to create viruses not found in nature for first time",
      "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 03:48:22 +0000"
-    },
-    {
-     "title": "More than one million affected by floods in India’s Assam state",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 02:53:19 +0000"
-    },
-    {
-     "title": "Exclusive report with the 308 people rescued by Nigerian forces",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 02:30:23 +0000"
     }
    ]
   },
