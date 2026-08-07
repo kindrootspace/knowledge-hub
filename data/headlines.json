@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 18:02 UTC",
+ "updated": "2026-08-07 19:15 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Serial sex offender guilty of murdering two women and raping third",
      "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 16:46:50 GMT"
+     "date": "Fri, 07 Aug 2026 19:04:45 GMT"
     },
     {
      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
@@ -40,9 +40,9 @@
      "date": "Fri, 07 Aug 2026 17:45:06 GMT"
     },
     {
-     "title": "Record spells with no rain across parts of central and south-east England",
-     "link": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 23:06:41 GMT"
+     "title": "Obesity rates have doubled in England since 1993 - what's going on?",
+     "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 18:38:46 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "How a 90-second power outage sparked chaos for rail commuters",
      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 16:11:32 GMT"
+    },
+    {
+     "title": "Goodwin considers selling part of defence business",
+     "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 15:22:51 GMT"
     },
     {
      "title": "Surprise fall in US jobs last month as slow summer continues",
@@ -70,30 +75,30 @@
      "date": "Thu, 06 Aug 2026 23:03:48 GMT"
     },
     {
-     "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-     "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 13:32:41 GMT"
-    },
-    {
      "title": "Why airlines are warning over lithium-ion batteries",
      "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 06 Aug 2026 23:04:40 GMT"
     },
     {
+     "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+     "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 13:32:41 GMT"
+    },
+    {
      "title": "Trump imposes 15% tariff on key chip material to counter China",
      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 01:03:35 GMT"
-    },
-    {
-     "title": "EasyJet agrees to £5.7bn takeover by US firm",
-     "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 16:35:32 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Judge approves Trump effort to end South Sudan TPS protections",
+     "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+     "date": "Fri, 07 Aug 2026 18:34:34 GMT"
+    },
     {
      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
      "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
@@ -115,11 +120,6 @@
      "date": "Thu, 06 Aug 2026 12:40:32 GMT"
     },
     {
-     "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
-     "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
-     "date": "Thu, 06 Aug 2026 09:45:54 GMT"
-    },
-    {
      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
      "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
      "date": "Fri, 07 Aug 2026 14:00:32 GMT"
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
+     "date": "Fri, 07 Aug 2026 14:10:37 -0400"
+    },
     {
      "title": "Monty Roberts, who trained horses through trust, dies at 91",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
@@ -173,17 +178,22 @@
      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
      "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
      "date": "Fri, 07 Aug 2026 06:56:19 -0400"
-    },
-    {
-     "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-     "date": "Fri, 07 Aug 2026 06:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+     "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 18:54:55 +0000"
+    },
+    {
+     "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
+     "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 18:00:05 +0000"
+    },
     {
      "title": "New Delhi on red alert as heavy rains pound the city",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 16:23:33 +0000"
-    },
-    {
-     "title": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
-     "link": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 16:10:51 +0000"
-    },
-    {
-     "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
-     "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 15:10:22 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
      "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
+    },
+    {
+     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-02462-z",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Scientists up in arms about cuts to UK physics and astronomy",
      "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
-    },
-    {
-     "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
-     "link": "https://www.nature.com/articles/d41586-026-02458-9",
      "date": ""
     }
    ]
