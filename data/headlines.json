@@ -1,23 +1,38 @@
 {
- "updated": "2026-08-07 11:57 UTC",
+ "updated": "2026-08-07 13:39 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+     "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 11:03:57 GMT"
+     "date": "Fri, 07 Aug 2026 13:33:22 GMT"
     },
     {
      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
      "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 08:35:00 GMT"
+     "date": "Fri, 07 Aug 2026 13:12:46 GMT"
     },
     {
      "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
      "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 09:30:30 GMT"
+    },
+    {
+     "title": "How a 90-second power outage sparked chaos for rail commuters",
+     "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 12:30:07 GMT"
+    },
+    {
+     "title": "Data breach investigation into Minnie Merriman's medical records",
+     "link": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 09:59:23 GMT"
+    },
+    {
+     "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 12:04:25 GMT"
     },
     {
      "title": "Arrests in Norfolk town as disorder continues for third night",
@@ -28,27 +43,22 @@
      "title": "How a diary entry solved the murder of a missing man",
      "link": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 06 Aug 2026 23:13:11 GMT"
-    },
-    {
-     "title": "Meta fined $567m in largest child safety ruling against social media giant",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 09:22:03 GMT"
-    },
-    {
-     "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 10:29:38 GMT"
-    },
-    {
-     "title": "Divers find 162-year-old Guinness in shipwreck off the English coast",
-     "link": "https://www.bbc.co.uk/news/articles/cy4kx9zkd90o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 05:59:49 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "How a 90-second power outage sparked chaos for rail commuters",
+     "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 12:30:07 GMT"
+    },
+    {
+     "title": "Surprise fall in US jobs last month as slow summer continues",
+     "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 13:26:22 GMT"
+    },
     {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
@@ -62,7 +72,12 @@
     {
      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 09:50:54 GMT"
+     "date": "Fri, 07 Aug 2026 13:32:41 GMT"
+    },
+    {
+     "title": "Why airlines are warning over lithium-ion batteries",
+     "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 23:04:40 GMT"
     },
     {
      "title": "Trump imposes 15% tariff on key chip material to counter China",
@@ -73,21 +88,6 @@
      "title": "EasyJet agrees to £5.7bn takeover by US firm",
      "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 06 Aug 2026 16:35:32 GMT"
-    },
-    {
-     "title": "Why airlines are warning over lithium-ion batteries",
-     "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 23:04:40 GMT"
-    },
-    {
-     "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-     "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 15:59:34 GMT"
-    },
-    {
-     "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-     "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 01:19:59 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+     "date": "Fri, 07 Aug 2026 09:10:10 -0400"
+    },
+    {
      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
      "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
      "date": "Fri, 07 Aug 2026 07:36:33 -0400"
@@ -160,23 +165,18 @@
      "date": "Fri, 07 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
-     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
      "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+     "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+     "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,31 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
+     "link": "https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 13:03:54 +0000"
+    },
+    {
+     "title": "Saudi Arabia, Turkiye and Pakistan sign joint defence pact",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 12:44:41 +0000"
+    },
+    {
+     "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 12:34:13 +0000"
+    },
+    {
+     "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
+     "link": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 12:28:52 +0000"
+    },
+    {
+     "title": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know",
+     "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 12:23:03 +0000"
+    },
     {
      "title": "First school for robots opens in China",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
@@ -198,76 +223,6 @@
      "title": "Northern Ethiopia’s shifting alliances explained",
      "link": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 11:19:01 +0000"
-    },
-    {
-     "title": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
-     "link": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:15:44 +0000"
-    },
-    {
-     "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
-     "link": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:11:10 +0000"
-    },
-    {
-     "title": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
-     "link": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:03:07 +0000"
-    },
-    {
-     "title": "Why Trump is caught in an ‘escalation trap’ with Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:03:01 +0000"
-    },
-    {
-     "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-     "link": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 10:52:34 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
-    },
-    {
-     "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
-     "link": "https://www.nature.com/articles/d41586-026-02458-9",
-     "date": ""
-    },
-    {
-     "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
-     "link": "https://www.nature.com/articles/s41586-026-10970-1",
-     "date": ""
     }
    ]
   }
