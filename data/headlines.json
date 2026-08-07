@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-07 17:07 UTC",
+ "updated": "2026-08-07 18:02 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "How police let a registered sex offender murder and attack women",
+     "title": "How police left a registered sex offender free to murder and attack women",
      "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 14:03:39 GMT"
+     "date": "Fri, 07 Aug 2026 17:12:27 GMT"
     },
     {
      "title": "Serial sex offender guilty of murdering two women and raping third",
@@ -17,12 +17,12 @@
     {
      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 14:48:00 GMT"
+     "date": "Fri, 07 Aug 2026 17:09:32 GMT"
     },
     {
      "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
      "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 17:03:34 GMT"
+     "date": "Fri, 07 Aug 2026 17:41:30 GMT"
     },
     {
      "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -35,14 +35,14 @@
      "date": "Fri, 07 Aug 2026 15:51:16 GMT"
     },
     {
+     "title": "Politicians, private jets and power - the life of a Fifa president",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 17:45:06 GMT"
+    },
+    {
      "title": "Record spells with no rain across parts of central and south-east England",
      "link": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 06 Aug 2026 23:06:41 GMT"
-    },
-    {
-     "title": "Six-hour train services between London and Stirling running with no toilets after fault",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lzy85ywdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 16:42:43 GMT"
     }
    ]
   },
@@ -140,7 +140,17 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Colombia's new president vows to remake the country — and challenge its fragile peace",
+     "title": "Monty Roberts, who trained horses through trust, dies at 91",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
+     "date": "Fri, 07 Aug 2026 13:48:17 -0400"
+    },
+    {
+     "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
+     "date": "Fri, 07 Aug 2026 13:33:40 -0400"
+    },
+    {
+     "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
      "date": "Fri, 07 Aug 2026 11:41:45 -0400"
     },
@@ -168,22 +178,22 @@
      "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
      "date": "Fri, 07 Aug 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-     "date": "Fri, 07 Aug 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
-     "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
-     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "New Delhi on red alert as heavy rains pound the city",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 17:19:06 +0000"
+    },
+    {
+     "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+     "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 17:07:29 +0000"
+    },
     {
      "title": "Hun Manet is refining Cambodia’s authoritarian model",
      "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
      "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 15:10:22 +0000"
-    },
-    {
-     "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-     "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 14:22:24 +0000"
-    },
-    {
-     "title": "Imade",
-     "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 14:18:53 +0000"
     }
    ]
   },
