@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-07 09:15 UTC",
+ "updated": "2026-08-07 10:13 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+     "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 09:21:52 GMT"
+    },
     {
      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
      "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 08:35:00 GMT"
     },
     {
-     "title": "Arrests in Norfolk town as disorder continues for third night",
-     "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 08:27:52 GMT"
+     "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 09:30:30 GMT"
     },
     {
-     "title": "Meta fined $567m in largest child safety ruling against social media giant",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 08:06:40 GMT"
+     "title": "Arrests in Norfolk town as disorder continues for third night",
+     "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 10:10:38 GMT"
     },
     {
      "title": "How a diary entry solved the murder of a missing man",
@@ -25,24 +30,19 @@
      "date": "Thu, 06 Aug 2026 23:13:11 GMT"
     },
     {
-     "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-     "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 00:34:14 GMT"
+     "title": "Meta fined $567m in largest child safety ruling against social media giant",
+     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 09:22:03 GMT"
     },
     {
-     "title": "Could Russia be involved in German airport drone-bomb?",
-     "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 08:48:16 GMT"
+     "title": "Mexico break ranks to join Argentina in backing Infantino",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 08:42:12 GMT"
     },
     {
-     "title": "Wildfire-ravaged habitats in Wales could take centuries to recover, environmentalists say",
-     "link": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 05:15:56 GMT"
-    },
-    {
-     "title": "Conservatives pledge to ban foreign nationals from social housing",
-     "link": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 07:43:31 GMT"
+     "title": "Divers find 162-year-old Guinness in shipwreck off the English coast",
+     "link": "https://www.bbc.co.uk/news/articles/cy4kx9zkd90o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 05:59:49 GMT"
     }
    ]
   },
@@ -52,12 +52,17 @@
     {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 08:06:40 GMT"
+     "date": "Fri, 07 Aug 2026 09:22:03 GMT"
     },
     {
      "title": "Argos is getting a makeover - but can it attract new shoppers?",
      "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 06 Aug 2026 23:03:48 GMT"
+    },
+    {
+     "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+     "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 09:50:54 GMT"
     },
     {
      "title": "Trump imposes 15% tariff on key chip material to counter China",
@@ -70,19 +75,14 @@
      "date": "Thu, 06 Aug 2026 16:35:32 GMT"
     },
     {
-     "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-     "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 15:59:34 GMT"
-    },
-    {
      "title": "Why airlines are warning over lithium-ion batteries",
      "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 06 Aug 2026 23:04:40 GMT"
     },
     {
-     "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-     "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 14:50:54 GMT"
+     "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+     "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 15:59:34 GMT"
     },
     {
      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -140,13 +140,18 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
-     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
+     "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+     "date": "Fri, 07 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
-     "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+     "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+     "date": "Fri, 07 Aug 2026 06:00:00 -0400"
+    },
+    {
+     "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
@@ -155,8 +160,13 @@
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+     "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+     "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
@@ -168,22 +178,17 @@
      "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
      "date": "Fri, 07 Aug 2026 01:34:15 -0400"
-    },
-    {
-     "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
-     "date": "Fri, 07 Aug 2026 01:26:31 -0400"
-    },
-    {
-     "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
-     "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
-     "date": "Thu, 06 Aug 2026 18:06:35 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Several killed after student opens fire inside Thailand school",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 09:13:48 +0000"
+    },
     {
      "title": "The other classroom: Returning to sacred knowledge",
      "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "Record-high heat soars through South Korea",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 05:00:48 +0000"
-    },
-    {
-     "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-     "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 04:43:43 +0000"
     }
    ]
   },
@@ -250,7 +250,7 @@
      "date": ""
     },
     {
-     "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
      "link": "https://www.nature.com/articles/d41586-026-02430-7",
      "date": ""
     },
