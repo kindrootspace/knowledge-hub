@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 19:15 UTC",
+ "updated": "2026-08-07 20:01 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Serial sex offender guilty of murdering two women and raping third",
      "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 19:04:45 GMT"
+     "date": "Fri, 07 Aug 2026 19:52:52 GMT"
     },
     {
      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump renews push to fire Fed Governor Lisa Cook",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+     "date": "Fri, 07 Aug 2026 15:35:35 -0400"
+    },
+    {
      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
      "date": "Fri, 07 Aug 2026 14:10:37 -0400"
@@ -173,17 +178,22 @@
      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
      "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
      "date": "Fri, 07 Aug 2026 07:36:33 -0400"
-    },
-    {
-     "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-     "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-     "date": "Fri, 07 Aug 2026 06:56:19 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Contaminated water putting Gaza families at risk",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 19:47:42 +0000"
+    },
+    {
+     "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
+     "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 19:21:01 +0000"
+    },
     {
      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
      "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 16:42:35 +0000"
-    },
-    {
-     "title": "US labour market sheds jobs in July as labour force participation slumps",
-     "link": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 16:25:35 +0000"
-    },
-    {
-     "title": "Saudi Arabia, Pakistan, Turkiye defence pact challenges US role",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 16:23:33 +0000"
     }
    ]
   },
