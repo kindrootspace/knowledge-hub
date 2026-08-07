@@ -1,23 +1,13 @@
 {
- "updated": "2026-08-07 03:19 UTC",
+ "updated": "2026-08-07 05:50 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Meta fined $567m in largest child safety ruling against social media giant",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 00:54:03 GMT"
-    },
-    {
-     "title": "Thousands of rail passengers hit by power failure disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 22:35:54 GMT"
-    },
-    {
-     "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-     "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 18:53:51 GMT"
+     "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+     "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 05:00:23 GMT"
     },
     {
      "title": "Arrests in Norfolk town as disorder continues for third night",
@@ -25,9 +15,14 @@
      "date": "Fri, 07 Aug 2026 00:15:52 GMT"
     },
     {
-     "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 01:57:02 GMT"
+     "title": "Meta fined $567m in largest child safety ruling against social media giant",
+     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 00:54:03 GMT"
+    },
+    {
+     "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+     "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 18:53:51 GMT"
     },
     {
      "title": "Artificial Intelligence used to design brand new viruses",
@@ -40,9 +35,14 @@
      "date": "Thu, 06 Aug 2026 23:06:41 GMT"
     },
     {
-     "title": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
-     "link": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 19:39:43 GMT"
+     "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 01:57:02 GMT"
+    },
+    {
+     "title": "Serious questions for Cambridge after professor at centre of plagiarism row resigns",
+     "link": "https://www.bbc.co.uk/news/articles/cpvwd30we17o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 06 Aug 2026 15:08:05 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+     "date": "Fri, 07 Aug 2026 01:34:15 -0400"
+    },
+    {
+     "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
+     "date": "Fri, 07 Aug 2026 01:26:31 -0400"
+    },
+    {
      "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
      "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
      "date": "Thu, 06 Aug 2026 18:06:35 -0400"
@@ -148,6 +158,11 @@
      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
      "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
      "date": "Thu, 06 Aug 2026 16:58:56 -0400"
+    },
+    {
+     "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
+     "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+     "date": "Thu, 06 Aug 2026 16:40:52 -0400"
     },
     {
      "title": "Sticky or slippery? Snails can change their slime to meet the moment",
@@ -163,27 +178,42 @@
      "title": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo",
      "link": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
      "date": "Thu, 06 Aug 2026 13:11:42 -0400"
-    },
-    {
-     "title": "A new flu vaccine geared to older people is coming soon",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
-     "date": "Thu, 06 Aug 2026 13:06:41 -0400"
-    },
-    {
-     "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
-     "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
-     "date": "Thu, 06 Aug 2026 10:19:27 -0400"
-    },
-    {
-     "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
-     "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
-     "date": "Thu, 06 Aug 2026 09:30:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Mexico deploys troops to secure avocado region after US halts imports",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 05:25:56 +0000"
+    },
+    {
+     "title": "Record-high heat soars through South Korea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 05:00:48 +0000"
+    },
+    {
+     "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+     "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 04:43:43 +0000"
+    },
+    {
+     "title": "One killed, four injured in Thailand school shooting, officials say",
+     "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 04:23:52 +0000"
+    },
+    {
+     "title": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+     "link": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 04:04:45 +0000"
+    },
+    {
+     "title": "AI used to create viruses not found in nature for first time",
+     "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 03:48:22 +0000"
+    },
     {
      "title": "More than one million affected by floods in India’s Assam state",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Exclusive report with the 308 people rescued by Nigerian forces",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 02:30:23 +0000"
-    },
-    {
-     "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-     "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 01:51:50 +0000"
-    },
-    {
-     "title": "New Mexico court orders Meta to pay $567m over harm to youths",
-     "link": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 01:51:03 +0000"
-    },
-    {
-     "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
-     "link": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 01:17:13 +0000"
-    },
-    {
-     "title": "Police in Argentina use tear gas to stop protesters",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 01:02:56 +0000"
-    },
-    {
-     "title": "Do you know who owns the media you watch?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/do-you-know-who-owns-the-media-you-watch?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 00:28:50 +0000"
-    },
-    {
-     "title": "After the floods, hunger: Mozambique’s second disaster",
-     "link": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 00:12:16 +0000"
     }
    ]
   },
