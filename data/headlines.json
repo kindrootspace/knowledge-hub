@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 21:56 UTC",
+ "updated": "2026-08-07 22:55 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,7 +17,7 @@
     {
      "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 20:58:58 GMT"
+     "date": "Fri, 07 Aug 2026 22:42:43 GMT"
     },
     {
      "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -25,9 +25,9 @@
      "date": "Fri, 07 Aug 2026 16:53:25 GMT"
     },
     {
-     "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+     "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 20:33:23 GMT"
+     "date": "Fri, 07 Aug 2026 22:13:55 GMT"
     },
     {
      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Spain to introduce temporary border checks on visitors from Italy",
+     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+     "date": "Fri, 07 Aug 2026 21:44:38 GMT"
+    },
+    {
      "title": "Judge approves Trump effort to end South Sudan TPS protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
      "date": "Fri, 07 Aug 2026 18:34:34 GMT"
@@ -113,11 +118,6 @@
      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
      "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
-    },
-    {
-     "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
-     "link": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
-     "date": "Thu, 06 Aug 2026 12:40:32 GMT"
     },
     {
      "title": "US police officer accused of killing three people in Mexico arrested at border",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
+     "link": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 22:08:49 +0000"
+    },
+    {
      "title": "US appeals court halts White House ballroom construction",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 21:18:20 +0000"
@@ -218,11 +223,6 @@
      "title": "Contaminated water putting Gaza families at risk",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 19:47:42 +0000"
-    },
-    {
-     "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-     "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 19:21:01 +0000"
     }
    ]
   },
