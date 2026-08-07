@@ -1,18 +1,33 @@
 {
- "updated": "2026-08-07 13:39 UTC",
+ "updated": "2026-08-07 15:09 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
-     "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 13:33:22 GMT"
+     "title": "Serial sex offender guilty of murdering two women and raping third",
+     "link": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 14:43:09 GMT"
     },
     {
-     "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
-     "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 13:12:46 GMT"
+     "title": "How police let a registered sex offender murder and attack women",
+     "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 14:03:39 GMT"
+    },
+    {
+     "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+     "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 14:48:00 GMT"
+    },
+    {
+     "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+     "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 14:44:35 GMT"
+    },
+    {
+     "title": "Streeting 'sickened' by sex abuse claims at Army college",
+     "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 14:34:29 GMT"
     },
     {
      "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
@@ -25,24 +40,9 @@
      "date": "Fri, 07 Aug 2026 12:30:07 GMT"
     },
     {
-     "title": "Data breach investigation into Minnie Merriman's medical records",
-     "link": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 09:59:23 GMT"
-    },
-    {
-     "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 12:04:25 GMT"
-    },
-    {
-     "title": "Arrests in Norfolk town as disorder continues for third night",
-     "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 10:31:41 GMT"
-    },
-    {
-     "title": "How a diary entry solved the murder of a missing man",
-     "link": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 23:13:11 GMT"
+     "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+     "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 13:12:46 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Surprise fall in US jobs last month as slow summer continues",
      "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 13:26:22 GMT"
+     "date": "Fri, 07 Aug 2026 14:03:55 GMT"
     },
     {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -70,7 +70,7 @@
      "date": "Thu, 06 Aug 2026 23:03:48 GMT"
     },
     {
-     "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+     "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 13:32:41 GMT"
     },
@@ -120,14 +120,14 @@
      "date": "Thu, 06 Aug 2026 09:45:54 GMT"
     },
     {
+     "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+     "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+     "date": "Fri, 07 Aug 2026 14:00:32 GMT"
+    },
+    {
      "title": "Haitians face arrest and deportation after US removes TPS protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
      "date": "Fri, 07 Aug 2026 11:00:16 GMT"
-    },
-    {
-     "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-     "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-     "date": "Fri, 07 Aug 2026 07:00:11 GMT"
     },
     {
      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Murkowski will oppose Blanche nomination, narrowing his path to confirmation",
+     "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
+     "date": "Fri, 07 Aug 2026 10:12:59 -0400"
+    },
     {
      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
@@ -173,17 +178,37 @@
      "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
      "date": "Fri, 07 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
-     "date": "Fri, 07 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+     "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 14:22:24 +0000"
+    },
+    {
+     "title": "Imade",
+     "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 14:18:53 +0000"
+    },
+    {
+     "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+     "link": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 13:30:43 +0000"
+    },
+    {
+     "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
+     "link": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 13:28:40 +0000"
+    },
+    {
+     "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
+     "link": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+     "date": "Fri, 07 Aug 2026 13:12:52 +0000"
+    },
     {
      "title": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
      "link": "https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss",
@@ -198,31 +223,51 @@
      "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
      "date": "Fri, 07 Aug 2026 12:34:13 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+     "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
     },
     {
-     "title": "Iran’s grip on trade is a potent weapon, but it has an expiry date",
-     "link": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 12:28:52 +0000"
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
     },
     {
-     "title": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know",
-     "link": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 12:23:03 +0000"
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
     },
     {
-     "title": "First school for robots opens in China",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:33:28 +0000"
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
     },
     {
-     "title": "Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure",
-     "link": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:27:54 +0000"
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+     "link": "https://www.nature.com/articles/d41586-026-02430-7",
+     "date": ""
     },
     {
-     "title": "Northern Ethiopia’s shifting alliances explained",
-     "link": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
-     "date": "Fri, 07 Aug 2026 11:19:01 +0000"
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
+     "date": ""
+    },
+    {
+     "title": "Scientists up in arms about cuts to UK physics and astronomy",
+     "link": "https://www.nature.com/articles/d41586-026-02460-1",
+     "date": ""
+    },
+    {
+     "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+     "link": "https://www.nature.com/articles/d41586-026-02458-9",
+     "date": ""
     }
    ]
   }
