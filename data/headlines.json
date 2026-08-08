@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 19:45 UTC",
+ "updated": "2026-08-08 20:48 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
     {
-     "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-     "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 15:56:39 GMT"
+     "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+     "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 19:18:57 GMT"
     },
     {
      "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
@@ -223,51 +223,6 @@
      "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
      "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 17:14:09 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-     "link": "https://www.nature.com/articles/d41586-026-02488-3",
-     "date": ""
-    },
-    {
-     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-02462-z",
-     "date": ""
-    },
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
     }
    ]
   }
