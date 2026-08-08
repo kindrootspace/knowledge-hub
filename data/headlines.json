@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 21:46 UTC",
+ "updated": "2026-08-08 22:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Tanker sailors still face danger in the Strait of Hormuz",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+     "date": "Sat, 08 Aug 2026 17:19:54 -0400"
+    },
+    {
      "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
      "date": "Sat, 08 Aug 2026 13:46:05 -0400"
@@ -173,17 +178,22 @@
      "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
      "date": "Sat, 08 Aug 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
-     "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-     "date": "Sat, 08 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+     "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 22:22:36 +0000"
+    },
+    {
+     "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+     "link": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 21:28:12 +0000"
+    },
     {
      "title": "Trump’s Former Lawyer Is Now Attorney General",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
@@ -213,61 +223,6 @@
      "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
      "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 18:55:20 +0000"
-    },
-    {
-     "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-     "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 18:43:20 +0000"
-    },
-    {
-     "title": "The influencers taking on far-right leader Nigel Farage",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 18:05:44 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-     "link": "https://www.nature.com/articles/d41586-026-02488-3",
-     "date": ""
-    },
-    {
-     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-02462-z",
-     "date": ""
-    },
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
     }
    ]
   }
