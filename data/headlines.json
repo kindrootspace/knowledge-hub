@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 07:15 UTC",
+ "updated": "2026-08-08 08:02 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -30,9 +30,9 @@
      "date": "Fri, 07 Aug 2026 22:07:00 GMT"
     },
     {
-     "title": "Police officers investigated over handling of sex offender who murdered two women",
-     "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 23:56:11 GMT"
+     "title": "I went for a full body MOT and the results came as a shock",
+     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 00:49:48 GMT"
     },
     {
      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
@@ -40,9 +40,9 @@
      "date": "Sat, 08 Aug 2026 00:37:42 GMT"
     },
     {
-     "title": "I went for a full body MOT and the results came as a shock",
-     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 00:49:48 GMT"
+     "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+     "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 00:29:27 GMT"
     }
    ]
   },
@@ -223,6 +223,51 @@
      "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
      "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 04:29:46 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+     "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
+    },
+    {
+     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-02462-z",
+     "date": ""
+    },
+    {
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
+    },
+    {
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
+    },
+    {
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
+    },
+    {
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+     "link": "https://www.nature.com/articles/d41586-026-02430-7",
+     "date": ""
+    },
+    {
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
+     "date": ""
+    },
+    {
+     "title": "Scientists up in arms about cuts to UK physics and astronomy",
+     "link": "https://www.nature.com/articles/d41586-026-02460-1",
+     "date": ""
     }
    ]
   }
