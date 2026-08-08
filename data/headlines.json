@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-08 05:56 UTC",
+ "updated": "2026-08-08 07:15 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Police officers investigated over handling of sex offender who murdered two women",
-     "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 23:56:11 GMT"
-    },
-    {
-     "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+     "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 22:42:43 GMT"
+     "date": "Sat, 08 Aug 2026 06:16:44 GMT"
     },
     {
-     "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+     "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 22:50:58 GMT"
+    },
+    {
+     "title": "The phone book that led us to Assad's spy chief in hiding",
+     "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
     {
      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -25,24 +25,24 @@
      "date": "Fri, 07 Aug 2026 22:13:55 GMT"
     },
     {
-     "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-     "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 21:24:17 GMT"
-    },
-    {
      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 22:07:00 GMT"
     },
     {
-     "title": "Child among three killed in Russian missile attacks near Kyiv",
-     "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 05:15:51 GMT"
+     "title": "Police officers investigated over handling of sex offender who murdered two women",
+     "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 23:56:11 GMT"
     },
     {
-     "title": "Obesity rates have doubled in England since 1993 - what's going on?",
-     "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 18:38:46 GMT"
+     "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
+     "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 00:37:42 GMT"
+    },
+    {
+     "title": "I went for a full body MOT and the results came as a shock",
+     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 00:49:48 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 06:03:42 +0000"
+    },
+    {
      "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
      "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 05:45:58 +0000"
@@ -218,56 +223,6 @@
      "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
      "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 04:29:46 +0000"
-    },
-    {
-     "title": "Russian strikes near Ukrainian capital kill three, including child",
-     "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 04:18:45 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-     "link": "https://www.nature.com/articles/d41586-026-02488-3",
-     "date": ""
-    },
-    {
-     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-02462-z",
-     "date": ""
-    },
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
     }
    ]
   }
