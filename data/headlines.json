@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 10:51 UTC",
+ "updated": "2026-08-08 11:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,7 +15,7 @@
      "date": "Fri, 07 Aug 2026 22:50:58 GMT"
     },
     {
-     "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
+     "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
@@ -140,18 +140,23 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+     "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+     "date": "Sat, 08 Aug 2026 07:01:00 -0400"
+    },
+    {
      "title": "The Women's Professional Baseball League makes its historic debut",
      "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
      "date": "Sat, 08 Aug 2026 06:30:00 -0400"
     },
     {
-     "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+     "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
      "date": "Sat, 08 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+     "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
      "date": "Sat, 08 Aug 2026 06:00:00 -0400"
     },
     {
@@ -173,17 +178,27 @@
      "title": "Trump renews push to fire Fed Governor Lisa Cook",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
      "date": "Fri, 07 Aug 2026 15:35:35 -0400"
-    },
-    {
-     "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
-     "date": "Fri, 07 Aug 2026 14:10:37 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+     "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 11:31:57 +0000"
+    },
+    {
+     "title": "Woman screams for her man as Ukraine war recruiters pounce",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 11:29:44 +0000"
+    },
+    {
+     "title": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
+     "link": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 10:58:46 +0000"
+    },
     {
      "title": "How Israel’s occupation fuels resistance",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
      "link": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 09:38:58 +0000"
-    },
-    {
-     "title": "US announces $400m investment in Australian rare earth mine",
-     "link": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 09:30:12 +0000"
-    },
-    {
-     "title": "Messi will decide when he retires, says Argentina FA chief",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 08:59:28 +0000"
-    },
-    {
-     "title": "Typhoon Dolphin hits Japan, heads towards China",
-     "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 08:50:49 +0000"
     }
    ]
   },
