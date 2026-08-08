@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 09:54 UTC",
+ "updated": "2026-08-08 10:51 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -30,9 +30,9 @@
      "date": "Fri, 07 Aug 2026 22:07:00 GMT"
     },
     {
-     "title": "I went for a full body MOT and the results came as a shock",
-     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 00:49:48 GMT"
+     "title": "Police officers investigated over handling of sex offender who murdered two women",
+     "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 08:50:16 GMT"
     },
     {
      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
@@ -40,9 +40,9 @@
      "date": "Sat, 08 Aug 2026 00:37:42 GMT"
     },
     {
-     "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-     "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 00:29:27 GMT"
+     "title": "I went for a full body MOT and the results came as a shock",
+     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 00:49:48 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The Women's Professional Baseball League makes its historic debut",
+     "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+     "date": "Sat, 08 Aug 2026 06:30:00 -0400"
+    },
+    {
+     "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+     "date": "Sat, 08 Aug 2026 06:00:00 -0400"
+    },
+    {
+     "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+     "date": "Sat, 08 Aug 2026 06:00:00 -0400"
+    },
+    {
      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
      "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
      "date": "Sat, 08 Aug 2026 05:00:00 -0400"
@@ -163,27 +178,32 @@
      "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
      "date": "Fri, 07 Aug 2026 14:10:37 -0400"
-    },
-    {
-     "title": "Monty Roberts, who trained horses through trust, dies at 91",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
-     "date": "Fri, 07 Aug 2026 13:48:17 -0400"
-    },
-    {
-     "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-     "date": "Fri, 07 Aug 2026 13:33:40 -0400"
-    },
-    {
-     "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-     "date": "Fri, 07 Aug 2026 11:41:45 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "How Israel’s occupation fuels resistance",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 10:40:11 +0000"
+    },
+    {
+     "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
+     "link": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 10:36:10 +0000"
+    },
+    {
+     "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 10:13:30 +0000"
+    },
+    {
+     "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
+     "link": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 10:10:13 +0000"
+    },
     {
      "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
      "link": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Typhoon Dolphin hits Japan, heads towards China",
      "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 08:50:49 +0000"
-    },
-    {
-     "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 08:06:35 +0000"
-    },
-    {
-     "title": "South Korea FA apologises over ‘sexual services’ allegations",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 07:49:21 +0000"
-    },
-    {
-     "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 06:03:42 +0000"
-    },
-    {
-     "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-     "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 05:45:58 +0000"
     }
    ]
   },
