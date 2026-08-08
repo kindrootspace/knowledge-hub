@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 18:58 UTC",
+ "updated": "2026-08-08 19:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 19:13:03 +0000"
+    },
+    {
+     "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+     "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 19:00:43 +0000"
+    },
+    {
+     "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+     "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 18:57:53 +0000"
+    },
+    {
+     "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+     "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 18:55:20 +0000"
+    },
+    {
+     "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+     "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 18:43:20 +0000"
+    },
+    {
      "title": "The influencers taking on far-right leader Nigel Farage",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 18:05:44 +0000"
@@ -198,31 +223,6 @@
      "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
      "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 17:14:09 +0000"
-    },
-    {
-     "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-     "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 17:05:17 +0000"
-    },
-    {
-     "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-     "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 16:52:11 +0000"
-    },
-    {
-     "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 16:26:36 +0000"
-    },
-    {
-     "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 16:09:06 +0000"
-    },
-    {
-     "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
-     "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 15:52:49 +0000"
     }
    ]
   },
