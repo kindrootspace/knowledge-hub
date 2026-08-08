@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 08:02 UTC",
+ "updated": "2026-08-08 09:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,7 +15,7 @@
      "date": "Fri, 07 Aug 2026 22:50:58 GMT"
     },
     {
-     "title": "The phone book that led us to Assad's spy chief in hiding",
+     "title": "Inside our hunt for Syria’s fugitive spy chief - and where he’s hiding",
      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Senate votes to confirm Todd Blanche as attorney general",
+     "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+     "date": "Sat, 08 Aug 2026 04:46:39 -0400"
+    },
+    {
      "title": "Women in Maine may choose the victor in this year's Senate race",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
      "date": "Fri, 07 Aug 2026 16:24:38 -0400"
@@ -173,17 +178,27 @@
      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
      "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
      "date": "Fri, 07 Aug 2026 10:12:59 -0400"
-    },
-    {
-     "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-     "date": "Fri, 07 Aug 2026 09:10:10 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Typhoon Dolphin hits Japan, heads towards China",
+     "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 08:50:49 +0000"
+    },
+    {
+     "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 08:06:35 +0000"
+    },
+    {
+     "title": "South Korea FA apologises over ‘sexual services’ allegations",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 07:49:21 +0000"
+    },
     {
      "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
      "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "FIFA’s Infantino backed in Colombia where he attends president inauguration",
      "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 05:10:27 +0000"
-    },
-    {
-     "title": "Norway Football Federation calls for FIFA president to resign",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 04:37:56 +0000"
-    },
-    {
-     "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 04:31:42 +0000"
-    },
-    {
-     "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
-     "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 04:29:46 +0000"
     }
    ]
   },
