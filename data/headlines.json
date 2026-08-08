@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 16:52 UTC",
+ "updated": "2026-08-08 17:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,9 +25,9 @@
      "date": "Sat, 08 Aug 2026 15:56:39 GMT"
     },
     {
-     "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
-     "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 00:37:42 GMT"
+     "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
+     "link": "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 16:46:23 GMT"
     },
     {
      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
@@ -37,7 +37,7 @@
     {
      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 15:44:08 GMT"
+     "date": "Sat, 08 Aug 2026 17:23:31 GMT"
     },
     {
      "title": "I went for a full body MOT and the results came as a shock",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+     "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 17:26:59 +0000"
+    },
+    {
+     "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+     "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 17:14:09 +0000"
+    },
+    {
+     "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+     "link": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 17:05:17 +0000"
+    },
+    {
+     "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+     "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 16:52:11 +0000"
+    },
+    {
+     "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 16:26:36 +0000"
+    },
+    {
      "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 16:09:06 +0000"
@@ -198,31 +223,6 @@
      "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
      "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 15:42:03 +0000"
-    },
-    {
-     "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-     "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 15:01:29 +0000"
-    },
-    {
-     "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-     "link": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 14:58:42 +0000"
-    },
-    {
-     "title": "Lionel Messi’s father dies aged 68 after a long illness",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 14:25:38 +0000"
-    },
-    {
-     "title": "War on Iran: Phase II: Day 28",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 14:09:02 +0000"
-    },
-    {
-     "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 13:59:21 +0000"
     }
    ]
   },
