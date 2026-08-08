@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 11:43 UTC",
+ "updated": "2026-08-08 13:12 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Sat, 08 Aug 2026 06:16:44 GMT"
     },
     {
-     "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 22:50:58 GMT"
+     "title": "Sex offender victims urged to come forward as police accused of 'litany of failures'",
+     "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 11:55:30 GMT"
     },
     {
      "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
@@ -20,19 +20,19 @@
      "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
     {
-     "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 22:13:55 GMT"
+     "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 22:50:58 GMT"
     },
     {
-     "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+     "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 22:07:00 GMT"
     },
     {
-     "title": "Police officers investigated over handling of sex offender who murdered two women",
-     "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 08:50:16 GMT"
+     "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 22:13:55 GMT"
     },
     {
      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
@@ -49,6 +49,11 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+     "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 12:36:29 GMT"
+    },
     {
      "title": "How a 90-second power outage sparked chaos for rail commuters",
      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
@@ -83,11 +88,6 @@
      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 13:32:41 GMT"
-    },
-    {
-     "title": "Trump imposes 15% tariff on key chip material to counter China",
-     "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 01:03:35 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Opinion: Europe's summer of heat",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
+     "date": "Sat, 08 Aug 2026 08:00:00 -0400"
+    },
+    {
      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
      "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
      "date": "Sat, 08 Aug 2026 07:01:00 -0400"
@@ -150,13 +155,13 @@
      "date": "Sat, 08 Aug 2026 06:30:00 -0400"
     },
     {
-     "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+     "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
      "date": "Sat, 08 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+     "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
      "date": "Sat, 08 Aug 2026 06:00:00 -0400"
     },
     {
@@ -173,11 +178,6 @@
      "title": "Women in Maine may choose the victor in this year's Senate race",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
      "date": "Fri, 07 Aug 2026 16:24:38 -0400"
-    },
-    {
-     "title": "Trump renews push to fire Fed Governor Lisa Cook",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-     "date": "Fri, 07 Aug 2026 15:35:35 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 12:52:04 +0000"
+    },
+    {
+     "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+     "link": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 12:30:52 +0000"
+    },
+    {
+     "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 12:07:23 +0000"
+    },
+    {
+     "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 12:01:17 +0000"
+    },
+    {
+     "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 11:49:27 +0000"
+    },
+    {
+     "title": "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 11:46:53 +0000"
+    },
+    {
+     "title": "The post-American Middle East is beginning to take shape",
+     "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 11:34:38 +0000"
+    },
+    {
      "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
      "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 11:31:57 +0000"
-    },
-    {
-     "title": "Woman screams for her man as Ukraine war recruiters pounce",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 11:29:44 +0000"
-    },
-    {
-     "title": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
-     "link": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 10:58:46 +0000"
-    },
-    {
-     "title": "How Israel’s occupation fuels resistance",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 10:40:11 +0000"
-    },
-    {
-     "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
-     "link": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 10:36:10 +0000"
-    },
-    {
-     "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 10:13:30 +0000"
-    },
-    {
-     "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
-     "link": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 10:10:13 +0000"
-    },
-    {
-     "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 09:38:58 +0000"
     }
    ]
   },
