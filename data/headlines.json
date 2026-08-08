@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 02:21 UTC",
+ "updated": "2026-08-08 04:28 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -120,6 +120,11 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
+     "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+     "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+     "date": "Sat, 08 Aug 2026 04:08:18 GMT"
+    },
+    {
      "title": "US police officer accused of killing three people in Mexico arrested at border",
      "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
      "date": "Fri, 07 Aug 2026 20:49:24 GMT"
@@ -128,17 +133,17 @@
      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
      "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
      "date": "Fri, 07 Aug 2026 14:00:32 GMT"
-    },
-    {
-     "title": "Haitians face arrest and deportation after US removes TPS protections",
-     "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-     "date": "Fri, 07 Aug 2026 11:00:16 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Women in Maine may choose the victor in this year's Senate race",
+     "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+     "date": "Fri, 07 Aug 2026 16:24:38 -0400"
+    },
     {
      "title": "Trump renews push to fire Fed Governor Lisa Cook",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
@@ -173,17 +178,32 @@
      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
      "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
      "date": "Fri, 07 Aug 2026 09:10:10 -0400"
-    },
-    {
-     "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-     "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-     "date": "Fri, 07 Aug 2026 07:36:33 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+     "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 03:42:43 +0000"
+    },
+    {
+     "title": "US Senate passes Russia sanctions that could hurt India and China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 03:20:41 +0000"
+    },
+    {
+     "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 02:54:02 +0000"
+    },
+    {
+     "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+     "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 02:08:28 +0000"
+    },
     {
      "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
      "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
      "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 00:31:52 +0000"
-    },
-    {
-     "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-     "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 00:24:42 +0000"
-    },
-    {
-     "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 00:13:53 +0000"
-    },
-    {
-     "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-     "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 00:06:22 +0000"
-    },
-    {
-     "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 00:00:00 +0000"
     }
    ]
   },
