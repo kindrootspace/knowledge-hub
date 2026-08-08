@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 17:46 UTC",
+ "updated": "2026-08-08 18:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,7 +15,7 @@
      "date": "Sat, 08 Aug 2026 06:16:44 GMT"
     },
     {
-     "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+     "title": "Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt",
      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+     "date": "Sat, 08 Aug 2026 13:46:05 -0400"
+    },
+    {
      "title": "K-pop's global wave inspires Chile's next pop stars",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
      "date": "Sat, 08 Aug 2026 09:34:45 -0400"
@@ -173,17 +178,17 @@
      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
      "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
      "date": "Sat, 08 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Senate votes to confirm Todd Blanche as attorney general",
-     "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-     "date": "Sat, 08 Aug 2026 04:46:39 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "The influencers taking on far-right leader Nigel Farage",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 18:05:44 +0000"
+    },
     {
      "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
      "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
      "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 15:52:49 +0000"
-    },
-    {
-     "title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-     "link": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 15:42:03 +0000"
     }
    ]
   },
