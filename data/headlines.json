@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 20:48 UTC",
+ "updated": "2026-08-08 21:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump’s Former Lawyer Is Now Attorney General",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 21:04:54 +0000"
+    },
+    {
+     "title": "What are the challenges facing the Mecca agreement?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 20:25:43 +0000"
+    },
+    {
      "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 19:13:03 +0000"
@@ -213,16 +223,51 @@
      "title": "The influencers taking on far-right leader Nigel Farage",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 18:05:44 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+     "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
     },
     {
-     "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-     "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 17:26:59 +0000"
+     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-02462-z",
+     "date": ""
     },
     {
-     "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-     "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 17:14:09 +0000"
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
+    },
+    {
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
+    },
+    {
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
+    },
+    {
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+     "link": "https://www.nature.com/articles/d41586-026-02430-7",
+     "date": ""
+    },
+    {
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
+     "date": ""
+    },
+    {
+     "title": "Scientists up in arms about cuts to UK physics and astronomy",
+     "link": "https://www.nature.com/articles/d41586-026-02460-1",
+     "date": ""
     }
    ]
   }
