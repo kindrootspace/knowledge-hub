@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 13:57 UTC",
+ "updated": "2026-08-08 14:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "War on Iran: Phase II: Day 28",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 14:09:02 +0000"
+    },
+    {
+     "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+     "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 13:59:21 +0000"
+    },
+    {
+     "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+     "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 13:52:40 +0000"
+    },
+    {
      "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
      "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 13:42:06 +0000"
@@ -208,21 +223,6 @@
      "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
      "link": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 12:01:17 +0000"
-    },
-    {
-     "title": "Arsenal complete signing of Newcastle midfielder Bruno Guimaraes",
-     "link": "https://www.aljazeera.com/sports/2026/8/8/arsenal-complete-signing-of-newcastle-midfielder-bruno-guimaraes?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 11:49:27 +0000"
-    },
-    {
-     "title": "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/hi-friends-modis-curious-campaign-to-win-over-gen-z?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 11:46:53 +0000"
-    },
-    {
-     "title": "The post-American Middle East is beginning to take shape",
-     "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 11:34:38 +0000"
     }
    ]
   },
