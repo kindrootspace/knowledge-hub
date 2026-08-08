@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-08 22:47 UTC",
+ "updated": "2026-08-08 23:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Andy Burnham to embark on cost of living tour through the UK",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:10:50 GMT"
+    },
+    {
+     "title": "Fifa criticises campaign to oust president Infantino",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 22:06:44 GMT"
+    },
+    {
+     "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+     "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:13:35 GMT"
+    },
+    {
      "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
      "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 11:55:30 GMT"
-    },
-    {
-     "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
-     "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 06:16:44 GMT"
-    },
-    {
-     "title": "Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt",
-     "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 23:23:12 GMT"
     },
     {
      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -30,19 +35,14 @@
      "date": "Sat, 08 Aug 2026 16:46:23 GMT"
     },
     {
-     "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-     "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 15:59:37 GMT"
-    },
-    {
      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 17:23:31 GMT"
     },
     {
-     "title": "I went for a full body MOT and the results came as a shock",
-     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 00:49:48 GMT"
+     "title": "How weight-loss medication is changing relationships with alcohol",
+     "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:30:06 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
+     "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 23:09:30 +0000"
+    },
+    {
      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
      "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 22:22:36 +0000"
@@ -218,11 +223,51 @@
      "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
      "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 18:57:53 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+     "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
     },
     {
-     "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
-     "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 18:55:20 +0000"
+     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-02462-z",
+     "date": ""
+    },
+    {
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
+    },
+    {
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
+    },
+    {
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
+    },
+    {
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+     "link": "https://www.nature.com/articles/d41586-026-02430-7",
+     "date": ""
+    },
+    {
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
+     "date": ""
+    },
+    {
+     "title": "Scientists up in arms about cuts to UK physics and astronomy",
+     "link": "https://www.nature.com/articles/d41586-026-02460-1",
+     "date": ""
     }
    ]
   }
