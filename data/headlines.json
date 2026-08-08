@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 13:12 UTC",
+ "updated": "2026-08-08 13:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,7 +10,7 @@
      "date": "Sat, 08 Aug 2026 06:16:44 GMT"
     },
     {
-     "title": "Sex offender victims urged to come forward as police accused of 'litany of failures'",
+     "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
      "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 11:55:30 GMT"
     },
@@ -25,19 +25,19 @@
      "date": "Fri, 07 Aug 2026 22:50:58 GMT"
     },
     {
-     "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
-     "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 22:07:00 GMT"
-    },
-    {
-     "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 22:13:55 GMT"
+     "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+     "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 13:23:16 GMT"
     },
     {
      "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
      "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 00:37:42 GMT"
+    },
+    {
+     "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
+     "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 22:07:00 GMT"
     },
     {
      "title": "I went for a full body MOT and the results came as a shock",
@@ -52,7 +52,7 @@
     {
      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
      "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 12:36:29 GMT"
+     "date": "Sat, 08 Aug 2026 13:41:32 GMT"
     },
     {
      "title": "How a 90-second power outage sparked chaos for rail commuters",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "K-pop's global wave inspires Chile's next pop stars",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+     "date": "Sat, 08 Aug 2026 09:34:45 -0400"
+    },
+    {
      "title": "Opinion: Europe's summer of heat",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
      "date": "Sat, 08 Aug 2026 08:00:00 -0400"
@@ -173,17 +178,17 @@
      "title": "Senate votes to confirm Todd Blanche as attorney general",
      "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
      "date": "Sat, 08 Aug 2026 04:46:39 -0400"
-    },
-    {
-     "title": "Women in Maine may choose the victor in this year's Senate race",
-     "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
-     "date": "Fri, 07 Aug 2026 16:24:38 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+     "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 13:42:06 +0000"
+    },
     {
      "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "The post-American Middle East is beginning to take shape",
      "link": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 11:34:38 +0000"
-    },
-    {
-     "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
-     "link": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 11:31:57 +0000"
     }
    ]
   },
