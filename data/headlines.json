@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 21:48 UTC",
+ "updated": "2026-08-09 22:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -8,6 +8,11 @@
      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 09 Aug 2026 20:58:18 GMT"
+    },
+    {
+     "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+     "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 21:26:56 GMT"
     },
     {
      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -20,14 +25,14 @@
      "date": "Sun, 09 Aug 2026 12:27:26 GMT"
     },
     {
-     "title": "How weight-loss medication is changing relationships with alcohol",
-     "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 23:30:06 GMT"
-    },
-    {
      "title": "Banksy works cost public almost £150,000",
      "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 23:52:43 GMT"
+    },
+    {
+     "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
+     "link": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 22:29:18 GMT"
     },
     {
      "title": "Hundreds arrested over French wildfires, but who is to blame?",
@@ -38,11 +43,6 @@
      "title": "Drones spotted over German base days after Leipzig bomb incident",
      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 09 Aug 2026 16:18:10 GMT"
-    },
-    {
-     "title": "Harry Potter fans force diversion of UK-Ireland power link to avoid 'Dobby's grave'",
-     "link": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 16:45:23 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Crews battle wildfires in western U.S. and Canada",
+     "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
+     "date": "Sun, 09 Aug 2026 18:03:09 -0400"
+    },
+    {
+     "title": "Demi Vollering wins Tour de France for the 2nd time",
+     "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
+     "date": "Sun, 09 Aug 2026 18:00:52 -0400"
+    },
+    {
      "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
      "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
      "date": "Sun, 09 Aug 2026 14:21:45 -0400"
@@ -168,22 +178,17 @@
      "title": "Solar eclipse to occur next week. Here is what to know",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
      "date": "Sat, 08 Aug 2026 20:56:21 -0400"
-    },
-    {
-     "title": "Meet the man circumnavigating the Arctic Ocean, alone",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
-     "date": "Sat, 08 Aug 2026 17:30:56 -0400"
-    },
-    {
-     "title": "Tanker sailors still face danger in the Strait of Hormuz",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-     "date": "Sat, 08 Aug 2026 17:19:54 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 22:37:11 +0000"
+    },
     {
      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
      "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
      "link": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 16:53:53 +0000"
-    },
-    {
-     "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
-     "link": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 16:53:45 +0000"
     }
    ]
   },
