@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 16:54 UTC",
+ "updated": "2026-08-09 17:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
+     "link": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:53:53 +0000"
+    },
+    {
+     "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
+     "link": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:53:45 +0000"
+    },
+    {
+     "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:41:00 +0000"
+    },
+    {
      "title": "How Israel’s occupation fuels resistance",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 16:19:34 +0000"
@@ -208,21 +223,6 @@
      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
      "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 16:00:50 +0000"
-    },
-    {
-     "title": "War on Iran: Phase II: Day 29",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 15:46:09 +0000"
-    },
-    {
-     "title": "Pentagon urges faster US weapons production amid stockpile concerns",
-     "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 15:38:56 +0000"
-    },
-    {
-     "title": "Concerns mount over integrity of Israel’s upcoming October elections",
-     "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 15:20:18 +0000"
     }
    ]
   },
