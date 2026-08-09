@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 02:29 UTC",
+ "updated": "2026-08-09 04:37 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,14 +25,14 @@
      "date": "Sat, 08 Aug 2026 23:43:44 GMT"
     },
     {
-     "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-     "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 19:18:57 GMT"
-    },
-    {
      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 19:00:22 GMT"
+    },
+    {
+     "title": "Perez Hilton faces long recovery after self-harm livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 04:32:06 GMT"
     },
     {
      "title": "Kellie Bright to leave EastEnders after 13 years",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 04:12:39 +0000"
+    },
+    {
+     "title": "Ghana’s cashew apples get a second life",
+     "link": "https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 04:07:39 +0000"
+    },
+    {
+     "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+     "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 03:09:27 +0000"
+    },
+    {
      "title": "Israeli settler attacks rise as West Bank residents lose land",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 01:43:04 +0000"
@@ -195,7 +210,7 @@
      "date": "Sun, 09 Aug 2026 00:41:01 +0000"
     },
     {
-     "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+     "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 00:00:00 +0000"
     },
@@ -208,21 +223,6 @@
      "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 23:27:55 +0000"
-    },
-    {
-     "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-     "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 23:19:28 +0000"
-    },
-    {
-     "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-     "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 23:09:30 +0000"
-    },
-    {
-     "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
-     "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 22:22:36 +0000"
     }
    ]
   },
