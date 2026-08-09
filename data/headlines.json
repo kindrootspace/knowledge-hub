@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 15:47 UTC",
+ "updated": "2026-08-09 16:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,29 +10,9 @@
      "date": "Sun, 09 Aug 2026 14:18:10 GMT"
     },
     {
-     "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 12:39:18 GMT"
-    },
-    {
-     "title": "More areas of UK likely to move into drought as fifth heatwave builds",
-     "link": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 03:10:56 GMT"
-    },
-    {
      "title": "Ancient Roman shipwreck discovered off Sicily coast",
      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 09 Aug 2026 12:27:26 GMT"
-    },
-    {
-     "title": "Banksy works cost public almost £150,000",
-     "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 23:52:43 GMT"
-    },
-    {
-     "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
-     "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 23:13:35 GMT"
     },
     {
      "title": "How weight-loss medication is changing relationships with alcohol",
@@ -40,9 +20,29 @@
      "date": "Sat, 08 Aug 2026 23:30:06 GMT"
     },
     {
-     "title": "Andy Burnham to embark on cost of living tour through the UK",
-     "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 23:10:50 GMT"
+     "title": "Banksy works cost public almost £150,000",
+     "link": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:52:43 GMT"
+    },
+    {
+     "title": "Hundreds arrested over French wildfires, but who is to blame?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:59:23 GMT"
+    },
+    {
+     "title": "Drones spotted over German base days after Leipzig bomb incident",
+     "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 16:18:10 GMT"
+    },
+    {
+     "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 04:32:06 GMT"
+    },
+    {
+     "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+     "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 16:46:18 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "How Israel’s occupation fuels resistance",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:19:34 +0000"
+    },
+    {
+     "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+     "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:08:19 +0000"
+    },
+    {
+     "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+     "link": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:07:23 +0000"
+    },
+    {
+     "title": "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
+     "link": "https://www.aljazeera.com/sports/2026/8/9/omar-marmoush-scores-two-goals-as-man-city-defeat-atletico-madrid-in-seoul?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:05:10 +0000"
+    },
+    {
+     "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+     "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 16:00:50 +0000"
+    },
+    {
+     "title": "War on Iran: Phase II: Day 29",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 15:46:09 +0000"
+    },
+    {
+     "title": "Pentagon urges faster US weapons production amid stockpile concerns",
+     "link": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 15:38:56 +0000"
+    },
+    {
      "title": "Concerns mount over integrity of Israel’s upcoming October elections",
      "link": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 15:20:18 +0000"
-    },
-    {
-     "title": "Gaza’s children still struggling with hunger as another famine threatens",
-     "link": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 14:47:29 +0000"
-    },
-    {
-     "title": "Gaza engineer builds animal shelters out of empty cans",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 14:28:34 +0000"
-    },
-    {
-     "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
-     "link": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 14:26:30 +0000"
-    },
-    {
-     "title": "The Mecca pact is not just another regional alliance",
-     "link": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 14:23:13 +0000"
-    },
-    {
-     "title": "Syria says it reached deal with Moscow on future of Russian bases",
-     "link": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 14:20:51 +0000"
-    },
-    {
-     "title": "Trump targets birthright citizenship again",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 14:20:31 +0000"
-    },
-    {
-     "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
-     "link": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 13:54:41 +0000"
     }
    ]
   },
