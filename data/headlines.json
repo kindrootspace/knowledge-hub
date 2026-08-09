@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 10:52 UTC",
+ "updated": "2026-08-09 11:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,14 +20,9 @@
      "date": "Sat, 08 Aug 2026 23:13:35 GMT"
     },
     {
-     "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-     "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 19:00:22 GMT"
-    },
-    {
-     "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-     "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 04:32:06 GMT"
+     "title": "How weight-loss medication is changing relationships with alcohol",
+     "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:30:06 GMT"
     },
     {
      "title": "Fifa criticises campaign to oust president Infantino",
@@ -35,14 +30,19 @@
      "date": "Sat, 08 Aug 2026 22:06:44 GMT"
     },
     {
-     "title": "Kellie Bright to leave EastEnders after 13 years",
-     "link": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 00:53:54 GMT"
+     "title": "Hundreds arrested over French wildfires, but who is to blame?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:59:23 GMT"
     },
     {
-     "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
-     "link": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 00:39:27 GMT"
+     "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 04:32:06 GMT"
+    },
+    {
+     "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+     "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 19:00:22 GMT"
     }
    ]
   },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 11:31:54 +0000"
+    },
+    {
+     "title": "Israel rejects Trump’s 15-point plan for Gaza",
+     "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 11:31:18 +0000"
+    },
+    {
+     "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+     "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 10:55:06 +0000"
+    },
+    {
+     "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 10:45:57 +0000"
+    },
+    {
+     "title": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
+     "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 10:35:00 +0000"
+    },
+    {
      "title": "FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens",
      "link": "https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 10:30:11 +0000"
@@ -198,31 +223,51 @@
      "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
      "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 10:02:59 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+     "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
     },
     {
-     "title": "It won’t be Trump who kills the ICC",
-     "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 09:05:47 +0000"
+     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-02462-z",
+     "date": ""
     },
     {
-     "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
-     "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 08:37:39 +0000"
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
     },
     {
-     "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
-     "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 08:37:37 +0000"
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
     },
     {
-     "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
-     "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 07:58:00 +0000"
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
     },
     {
-     "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 07:56:47 +0000"
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+     "link": "https://www.nature.com/articles/d41586-026-02430-7",
+     "date": ""
+    },
+    {
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
+     "date": ""
+    },
+    {
+     "title": "Scientists up in arms about cuts to UK physics and astronomy",
+     "link": "https://www.nature.com/articles/d41586-026-02460-1",
+     "date": ""
     }
    ]
   }
