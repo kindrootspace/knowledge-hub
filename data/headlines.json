@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 04:37 UTC",
+ "updated": "2026-08-09 05:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,14 +25,14 @@
      "date": "Sat, 08 Aug 2026 23:43:44 GMT"
     },
     {
+     "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 04:32:06 GMT"
+    },
+    {
      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 19:00:22 GMT"
-    },
-    {
-     "title": "Perez Hilton faces long recovery after self-harm livestream",
-     "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 04:32:06 GMT"
     },
     {
      "title": "Kellie Bright to leave EastEnders after 13 years",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 05:18:37 +0000"
+    },
+    {
+     "title": "Iran issues new demands as Pezeshkian seeks deal",
+     "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 05:06:02 +0000"
+    },
+    {
+     "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 05:01:54 +0000"
+    },
+    {
+     "title": "Car bomb hits Colombia highway day after new president sworn in",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 04:32:32 +0000"
+    },
+    {
      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 04:12:39 +0000"
@@ -203,71 +223,6 @@
      "title": "Israeli settler attacks rise as West Bank residents lose land",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 01:43:04 +0000"
-    },
-    {
-     "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-     "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 00:41:01 +0000"
-    },
-    {
-     "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Turkiye says Mecca defence pact not aimed at Iran",
-     "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 23:59:15 +0000"
-    },
-    {
-     "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 23:27:55 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-     "link": "https://www.nature.com/articles/d41586-026-02488-3",
-     "date": ""
-    },
-    {
-     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-02462-z",
-     "date": ""
-    },
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
     }
    ]
   }
