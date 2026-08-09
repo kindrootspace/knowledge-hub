@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 17:47 UTC",
+ "updated": "2026-08-09 19:01 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -120,6 +120,11 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
+     "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+     "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+     "date": "Sun, 09 Aug 2026 18:20:25 GMT"
+    },
+    {
      "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
      "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
      "date": "Sun, 09 Aug 2026 07:00:08 GMT"
@@ -128,17 +133,17 @@
      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
      "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
      "date": "Sat, 08 Aug 2026 05:00:37 GMT"
-    },
-    {
-     "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
-     "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-     "date": "Sat, 08 Aug 2026 04:08:18 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
+     "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+     "date": "Sun, 09 Aug 2026 14:21:45 -0400"
+    },
     {
      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
      "link": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
@@ -173,11 +178,6 @@
      "title": "Tanker sailors still face danger in the Strait of Hormuz",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
      "date": "Sat, 08 Aug 2026 17:19:54 -0400"
-    },
-    {
-     "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
-     "date": "Sat, 08 Aug 2026 13:46:05 -0400"
     }
    ]
   },
@@ -223,51 +223,6 @@
      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
      "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 16:00:50 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-     "link": "https://www.nature.com/articles/d41586-026-02488-3",
-     "date": ""
-    },
-    {
-     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-02462-z",
-     "date": ""
-    },
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
     }
    ]
   }
