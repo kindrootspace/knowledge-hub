@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-09 09:57 UTC",
+ "updated": "2026-08-09 10:52 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+     "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 08:50:14 GMT"
+     "date": "Sun, 09 Aug 2026 10:02:52 GMT"
     },
     {
      "title": "Andy Burnham to embark on cost of living tour through the UK",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens",
+     "link": "https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 10:30:11 +0000"
+    },
+    {
+     "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 10:15:10 +0000"
+    },
+    {
+     "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+     "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 10:02:59 +0000"
+    },
+    {
      "title": "It won’t be Trump who kills the ICC",
      "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 09:05:47 +0000"
@@ -208,66 +223,6 @@
      "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 07:56:47 +0000"
-    },
-    {
-     "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
-     "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 07:10:56 +0000"
-    },
-    {
-     "title": "Israel announces tender for 627 settler units in occupied West Bank",
-     "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 06:57:56 +0000"
-    },
-    {
-     "title": "Wildfire forces thousands of evacuations in Western Canada",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 06:10:08 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
-     "link": "https://www.nature.com/articles/d41586-026-02488-3",
-     "date": ""
-    },
-    {
-     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-02462-z",
-     "date": ""
-    },
-    {
-     "title": "Operational Tropical Cyclone Forecasting with AI",
-     "link": "https://www.nature.com/articles/s41586-026-10953-2",
-     "date": ""
-    },
-    {
-     "title": "Pumas are drivers’ guardian angels",
-     "link": "https://www.nature.com/articles/d41586-026-02429-0",
-     "date": ""
-    },
-    {
-     "title": "How a steady drip-drip can erode the hardest stone",
-     "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
-     "date": ""
     }
    ]
   }
