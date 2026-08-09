@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-09 20:51 UTC",
+ "updated": "2026-08-09 21:48 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 20:58:18 GMT"
+    },
+    {
      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 14:18:10 GMT"
+     "date": "Sun, 09 Aug 2026 21:25:04 GMT"
     },
     {
      "title": "Ancient Roman shipwreck discovered off Sicily coast",
@@ -38,11 +43,6 @@
      "title": "Harry Potter fans force diversion of UK-Ireland power link to avoid 'Dobby's grave'",
      "link": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 09 Aug 2026 16:45:23 GMT"
-    },
-    {
-     "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-     "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 19:40:09 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+     "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 20:40:25 +0000"
+    },
+    {
      "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 20:02:57 +0000"
@@ -218,11 +223,51 @@
      "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
      "link": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 16:53:45 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+     "link": "https://www.nature.com/articles/d41586-026-02488-3",
+     "date": ""
     },
     {
-     "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 16:41:00 +0000"
+     "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-02462-z",
+     "date": ""
+    },
+    {
+     "title": "Operational Tropical Cyclone Forecasting with AI",
+     "link": "https://www.nature.com/articles/s41586-026-10953-2",
+     "date": ""
+    },
+    {
+     "title": "Pumas are drivers’ guardian angels",
+     "link": "https://www.nature.com/articles/d41586-026-02429-0",
+     "date": ""
+    },
+    {
+     "title": "How a steady drip-drip can erode the hardest stone",
+     "link": "https://www.nature.com/articles/d41586-026-02360-4",
+     "date": ""
+    },
+    {
+     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+     "link": "https://www.nature.com/articles/d41586-026-02430-7",
+     "date": ""
+    },
+    {
+     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+     "link": "https://www.nature.com/articles/d41586-026-02235-8",
+     "date": ""
+    },
+    {
+     "title": "Scientists up in arms about cuts to UK physics and astronomy",
+     "link": "https://www.nature.com/articles/d41586-026-02460-1",
+     "date": ""
     }
    ]
   }
