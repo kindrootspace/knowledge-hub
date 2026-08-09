@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09 09:02 UTC",
+ "updated": "2026-08-09 09:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,14 @@
      "date": "Sat, 08 Aug 2026 23:10:50 GMT"
     },
     {
-     "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+     "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
      "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 08 Aug 2026 23:13:35 GMT"
     },
     {
-     "title": "Fifa criticises campaign to oust president Infantino",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 22:06:44 GMT"
+     "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+     "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 19:00:22 GMT"
     },
     {
      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
@@ -30,9 +30,9 @@
      "date": "Sun, 09 Aug 2026 04:32:06 GMT"
     },
     {
-     "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-     "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 19:00:22 GMT"
+     "title": "Fifa criticises campaign to oust president Infantino",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 22:06:44 GMT"
     },
     {
      "title": "Kellie Bright to leave EastEnders after 13 years",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+     "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+     "date": "Sun, 09 Aug 2026 05:44:02 -0400"
+    },
+    {
      "title": "Solar eclipse to occur next week. Here is what to know",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
      "date": "Sat, 08 Aug 2026 20:56:21 -0400"
@@ -173,17 +178,17 @@
      "title": "The Women's Professional Baseball League makes its historic debut",
      "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
      "date": "Sat, 08 Aug 2026 06:30:00 -0400"
-    },
-    {
-     "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-     "date": "Sat, 08 Aug 2026 06:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "It won’t be Trump who kills the ICC",
+     "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 09:05:47 +0000"
+    },
     {
      "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
      "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "Wildfire forces thousands of evacuations in Western Canada",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
      "date": "Sun, 09 Aug 2026 06:10:08 +0000"
-    },
-    {
-     "title": "Lionel Messi returns to Argentina after father Jorge’s death",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
-     "date": "Sun, 09 Aug 2026 05:18:37 +0000"
     }
    ]
   },
