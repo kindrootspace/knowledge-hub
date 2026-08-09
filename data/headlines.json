@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 23:45 UTC",
+ "updated": "2026-08-09 02:29 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Sat, 08 Aug 2026 23:13:35 GMT"
     },
     {
-     "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
-     "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 11:55:30 GMT"
+     "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+     "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 23:43:44 GMT"
     },
     {
      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -30,19 +30,19 @@
      "date": "Sat, 08 Aug 2026 19:18:57 GMT"
     },
     {
-     "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
-     "link": "https://www.bbc.co.uk/news/articles/cdx8jxqxyw0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 16:46:23 GMT"
+     "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+     "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 19:00:22 GMT"
     },
     {
-     "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-     "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 17:23:31 GMT"
+     "title": "Kellie Bright to leave EastEnders after 13 years",
+     "link": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 00:53:54 GMT"
     },
     {
-     "title": "How weight-loss medication is changing relationships with alcohol",
-     "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 23:30:06 GMT"
+     "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
+     "link": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 00:39:27 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Solar eclipse to occur next week. Here is what to know",
+     "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+     "date": "Sat, 08 Aug 2026 20:56:21 -0400"
+    },
+    {
      "title": "Tanker sailors still face danger in the Strait of Hormuz",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
      "date": "Sat, 08 Aug 2026 17:19:54 -0400"
@@ -173,17 +178,42 @@
      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
      "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
      "date": "Sat, 08 Aug 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-     "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
-     "date": "Sat, 08 Aug 2026 06:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Israeli settler attacks rise as West Bank residents lose land",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 01:43:04 +0000"
+    },
+    {
+     "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+     "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 00:41:01 +0000"
+    },
+    {
+     "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+     "date": "Sun, 09 Aug 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Turkiye says Mecca defence pact not aimed at Iran",
+     "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 23:59:15 +0000"
+    },
+    {
+     "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 23:27:55 +0000"
+    },
+    {
+     "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+     "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+     "date": "Sat, 08 Aug 2026 23:19:28 +0000"
+    },
     {
      "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
      "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
      "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
      "date": "Sat, 08 Aug 2026 22:22:36 +0000"
-    },
-    {
-     "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
-     "link": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 21:28:12 +0000"
-    },
-    {
-     "title": "Trump’s Former Lawyer Is Now Attorney General",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 21:04:54 +0000"
-    },
-    {
-     "title": "What are the challenges facing the Mecca agreement?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 20:25:43 +0000"
-    },
-    {
-     "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 19:13:03 +0000"
-    },
-    {
-     "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-     "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 19:00:43 +0000"
-    },
-    {
-     "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
-     "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
-     "date": "Sat, 08 Aug 2026 18:57:53 +0000"
     }
    ]
   },
