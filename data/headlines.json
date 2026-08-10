@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-10 17:09 UTC",
+ "updated": "2026-08-10 18:03 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "More than two-thirds of England now in drought",
+     "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 17:41:39 GMT"
+    },
     {
      "title": "Record 230 people cross Channel in one small boat",
      "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 14:51:06 GMT"
     },
     {
-     "title": "Travelodge staff gave domestic abuser key to his victim's room",
-     "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 05:00:07 GMT"
+     "title": "30 years later, a former rival will stand trial for Tupac's murder",
+     "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 16:52:47 GMT"
     },
     {
      "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
@@ -20,9 +25,9 @@
      "date": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
-     "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 14:58:24 GMT"
+     "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+     "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 17:50:29 GMT"
     },
     {
      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -38,11 +43,6 @@
      "title": "New weight loss pill approved for use in UK",
      "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 15:25:07 GMT"
-    },
-    {
-     "title": "MSP apologises for hurt caused by rape 'demonisation' comments",
-     "link": "https://www.bbc.co.uk/news/articles/c89n5v5djpgo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 16:19:54 GMT"
     }
    ]
   },
@@ -120,14 +120,14 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
-     "title": "At least 47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia – latest news",
+     "title": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 16:47:19 GMT"
+     "date": "Mon, 10 Aug 2026 17:44:43 GMT"
     },
     {
-     "title": "At least 47 dead as powerful earthquake strikes western Colombia",
+     "title": "More than 70 dead after powerful earthquake strikes western Colombia",
      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-     "date": "Mon, 10 Aug 2026 16:40:12 GMT"
+     "date": "Mon, 10 Aug 2026 17:10:54 GMT"
     },
     {
      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+     "date": "Mon, 10 Aug 2026 13:38:12 -0400"
+    },
     {
      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
      "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
@@ -173,17 +178,37 @@
      "title": "In a competitive Maine Senate race, women voters could be the deciders",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
      "date": "Mon, 10 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
+     "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 17:51:18 +0000"
+    },
+    {
+     "title": "Palestinian club football to restart in September after Gaza war suspension",
+     "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 17:30:36 +0000"
+    },
+    {
+     "title": "Iran’s president says Khamenei is in ‘perfect health’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 17:05:01 +0000"
+    },
+    {
+     "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 17:00:41 +0000"
+    },
+    {
+     "title": "Photos: 7.4-magnitude earthquake rocks western Colombia",
+     "link": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 16:48:50 +0000"
+    },
     {
      "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
      "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
@@ -198,31 +223,51 @@
      "title": "Sudan’s army chief holds unannounced talks on national dialogue",
      "link": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 16:03:43 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+     "link": "https://www.nature.com/articles/s41586-026-10984-9",
+     "date": ""
     },
     {
-     "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
-     "link": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 16:01:06 +0000"
+     "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+     "link": "https://www.nature.com/articles/s41586-026-10973-y",
+     "date": ""
     },
     {
-     "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 15:51:26 +0000"
+     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+     "link": "https://www.nature.com/articles/s41586-026-10989-4",
+     "date": ""
     },
     {
-     "title": "Oil prices, stocks surge as Hormuz closure drags on",
-     "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 15:45:39 +0000"
+     "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+     "link": "https://www.nature.com/articles/s41586-026-10978-7",
+     "date": ""
     },
     {
-     "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
-     "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:57:08 +0000"
+     "title": "How and when to use artificial intelligence in your science job application",
+     "link": "https://www.nature.com/articles/d41586-026-02435-2",
+     "date": ""
     },
     {
-     "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:52:32 +0000"
+     "title": "Where are you ticklish? Researchers map the sensation across cultures",
+     "link": "https://www.nature.com/articles/d41586-026-02493-6",
+     "date": ""
+    },
+    {
+     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+     "link": "https://www.nature.com/articles/d41586-026-02447-y",
+     "date": ""
+    },
+    {
+     "title": "What to do when you have too many PhD projects on the go",
+     "link": "https://www.nature.com/articles/d41586-026-01681-8",
+     "date": ""
     }
    ]
   }
