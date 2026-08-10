@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 22:56 UTC",
+ "updated": "2026-08-10 23:51 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -27,7 +27,7 @@
     {
      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 21:33:25 GMT"
+     "date": "Mon, 10 Aug 2026 23:03:52 GMT"
     },
     {
      "title": "Canada flight cancelled after child refuses to wear seat belt",
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+     "title": "Nvidia gets $500bn from major investors to develop AI data centres",
      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 22:31:42 GMT"
     },
@@ -75,9 +75,9 @@
      "date": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
-     "title": "'You could smell someone' who worked at Raleigh",
-     "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 05:10:15 GMT"
+     "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+     "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 23:32:10 GMT"
     },
     {
      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
@@ -122,7 +122,7 @@
     {
      "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 22:19:59 GMT"
+     "date": "Mon, 10 Aug 2026 23:29:25 GMT"
     },
     {
      "title": "Scores dead after powerful earthquake strikes western Colombia",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 22:46:32 +0000"
+    },
+    {
      "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
      "link": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 22:41:03 +0000"
@@ -218,11 +223,51 @@
      "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
      "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 21:03:53 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+     "link": "https://www.nature.com/articles/s41586-026-10984-9",
+     "date": ""
     },
     {
-     "title": "US appeals court says social media addiction lawsuits can proceed",
-     "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 21:02:06 +0000"
+     "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+     "link": "https://www.nature.com/articles/s41586-026-10973-y",
+     "date": ""
+    },
+    {
+     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+     "link": "https://www.nature.com/articles/s41586-026-10989-4",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+     "link": "https://www.nature.com/articles/s41586-026-10978-7",
+     "date": ""
+    },
+    {
+     "title": "How and when to use artificial intelligence in your science job application",
+     "link": "https://www.nature.com/articles/d41586-026-02435-2",
+     "date": ""
+    },
+    {
+     "title": "Where are you ticklish? Researchers map the sensation across cultures",
+     "link": "https://www.nature.com/articles/d41586-026-02493-6",
+     "date": ""
+    },
+    {
+     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+     "link": "https://www.nature.com/articles/d41586-026-02447-y",
+     "date": ""
+    },
+    {
+     "title": "What to do when you have too many PhD projects on the go",
+     "link": "https://www.nature.com/articles/d41586-026-01681-8",
+     "date": ""
     }
    ]
   }
