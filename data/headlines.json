@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-10 04:54 UTC",
+ "updated": "2026-08-10 06:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 20:58:18 GMT"
+     "title": "Travelodge staff gave domestic abuser key to his victim's room",
+     "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 05:00:07 GMT"
     },
     {
      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 09 Aug 2026 23:01:39 GMT"
+    },
+    {
+     "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 20:58:18 GMT"
     },
     {
      "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -22,7 +27,7 @@
     {
      "title": "China evacuates one million from homes as massive storm arrives",
      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 03:15:21 GMT"
+     "date": "Mon, 10 Aug 2026 06:15:13 GMT"
     },
     {
      "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
@@ -30,19 +35,14 @@
      "date": "Mon, 10 Aug 2026 01:36:10 GMT"
     },
     {
-     "title": "Ocasio-Cortez freezing her eggs and says she hasn't ruled out presidential run",
-     "link": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 01:59:23 GMT"
-    },
-    {
      "title": "How much parents could save from September's new school uniform rules",
      "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 00:44:11 GMT"
     },
     {
-     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 21:25:04 GMT"
+     "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
+     "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 05:01:50 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-     "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 13:41:32 GMT"
+     "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+     "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 23:01:39 GMT"
+    },
+    {
+     "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+     "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 05:00:32 GMT"
     },
     {
      "title": "You could be missing out on £150 off your energy bill - here's how to check",
@@ -60,9 +65,19 @@
      "date": "Sun, 09 Aug 2026 23:47:30 GMT"
     },
     {
+     "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+     "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 08 Aug 2026 13:41:32 GMT"
+    },
+    {
      "title": "How a 90-second power outage sparked chaos for rail commuters",
      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 16:11:32 GMT"
+    },
+    {
+     "title": "Could your tattoo stop you from getting a job?",
+     "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 00:40:48 GMT"
     },
     {
      "title": "Goodwin considers selling part of defence business",
@@ -70,24 +85,9 @@
      "date": "Fri, 07 Aug 2026 15:22:51 GMT"
     },
     {
-     "title": "Surprise fall in US jobs last month as slow summer continues",
-     "link": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 14:03:55 GMT"
-    },
-    {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 09:22:03 GMT"
-    },
-    {
-     "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-     "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 00:04:20 GMT"
-    },
-    {
-     "title": "Why airlines are warning over lithium-ion batteries",
-     "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 06 Aug 2026 23:04:40 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 06:26:04 +0000"
+    },
+    {
+     "title": "Wildfires bear down on homes in Canada’s Okanagan region",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 04:49:42 +0000"
+    },
+    {
      "title": "Trump names Will Scharf as White House counsel ahead of midterms",
      "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 04:00:21 +0000"
@@ -213,16 +223,6 @@
      "title": "Israel confirms death of Palestinian detainee, nearly two years late",
      "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 02:59:45 +0000"
-    },
-    {
-     "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
-     "link": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 02:48:51 +0000"
-    },
-    {
-     "title": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 01:43:37 +0000"
     }
    ]
   },
