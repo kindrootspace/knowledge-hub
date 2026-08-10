@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 19:17 UTC",
+ "updated": "2026-08-10 21:02 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Mon, 10 Aug 2026 17:41:39 GMT"
     },
     {
-     "title": "30 years later, a former rival will stand trial for Tupac's murder",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 16:52:47 GMT"
+     "title": "New Forest firefighting to continue overnight as cars abandoned",
+     "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 20:24:05 GMT"
     },
     {
      "title": "Record 230 people cross Channel in one small boat",
@@ -20,14 +20,19 @@
      "date": "Mon, 10 Aug 2026 14:51:06 GMT"
     },
     {
-     "title": "New weight loss pill approved for use in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 15:25:07 GMT"
+     "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+     "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 20:16:34 GMT"
     },
     {
-     "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 13:16:51 GMT"
+     "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+     "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 16:52:47 GMT"
+    },
+    {
+     "title": "New weight-loss pill approved for use in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 15:25:07 GMT"
     },
     {
      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
@@ -38,11 +43,6 @@
      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 18:19:41 GMT"
-    },
-    {
-     "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-     "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 14:34:25 GMT"
     }
    ]
   },
@@ -122,7 +122,7 @@
     {
      "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 19:03:29 GMT"
+     "date": "Mon, 10 Aug 2026 20:52:18 GMT"
     },
     {
      "title": "Scores dead after powerful earthquake strikes western Colombia",
@@ -139,6 +139,16 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
+     "date": "Mon, 10 Aug 2026 16:49:00 -0400"
+    },
+    {
+     "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+     "date": "Mon, 10 Aug 2026 16:25:02 -0400"
+    },
     {
      "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
@@ -168,22 +178,32 @@
      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
      "date": "Mon, 10 Aug 2026 07:00:00 -0400"
-    },
-    {
-     "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "In a competitive Maine Senate race, women voters could be the deciders",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
-     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+     "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 19:47:13 +0000"
+    },
+    {
+     "title": "Trump administration has revoked over 175,000 visas: US State Department",
+     "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 19:46:34 +0000"
+    },
+    {
+     "title": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 19:30:29 +0000"
+    },
+    {
+     "title": "Migrant children go days without food in Ceuta amid asylum crisis",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 19:08:08 +0000"
+    },
     {
      "title": "111 dead after Colombia quakes leave trail of destruction",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
      "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 18:34:25 +0000"
-    },
-    {
-     "title": "Oman trying to contain extensive oil spill from stricken tanker",
-     "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 18:15:23 +0000"
-    },
-    {
-     "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
-     "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 17:51:18 +0000"
-    },
-    {
-     "title": "Palestinian club football to restart in September after Gaza war suspension",
-     "link": "https://www.aljazeera.com/sports/2026/8/10/palestinian-club-football-to-restart-in-september-after-gaza-war-suspension?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 17:30:36 +0000"
-    },
-    {
-     "title": "Iran’s president says Khamenei is in ‘perfect health’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 17:05:01 +0000"
     }
    ]
   },
