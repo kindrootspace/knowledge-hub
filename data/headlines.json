@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 16:12 UTC",
+ "updated": "2026-08-10 17:09 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -42,7 +42,7 @@
     {
      "title": "MSP apologises for hurt caused by rape 'demonisation' comments",
      "link": "https://www.bbc.co.uk/news/articles/c89n5v5djpgo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 15:59:54 GMT"
+     "date": "Mon, 10 Aug 2026 16:19:54 GMT"
     }
    ]
   },
@@ -65,14 +65,14 @@
      "date": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
+     "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
+     "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 15:10:33 GMT"
+    },
+    {
      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
      "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 05:00:32 GMT"
-    },
-    {
-     "title": "You could be missing out on £150 off your energy bill - here's how to check",
-     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 23:47:30 GMT"
     },
     {
      "title": "'You could smell someone' who worked at Raleigh",
@@ -80,14 +80,14 @@
      "date": "Mon, 10 Aug 2026 05:10:15 GMT"
     },
     {
+     "title": "You could be missing out on £150 off your energy bill - here's how to check",
+     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 23:47:30 GMT"
+    },
+    {
      "title": "Water outage forces Chessington theme park to close",
      "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 14:24:53 GMT"
-    },
-    {
-     "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-     "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 08 Aug 2026 13:41:32 GMT"
     }
    ]
   },
@@ -120,14 +120,14 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
-     "title": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
+     "title": "At least 47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia – latest news",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 15:49:47 GMT"
+     "date": "Mon, 10 Aug 2026 16:47:19 GMT"
     },
     {
-     "title": "At least 20 dead as powerful earthquake strikes western Colombia",
+     "title": "At least 47 dead as powerful earthquake strikes western Colombia",
      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-     "date": "Mon, 10 Aug 2026 15:38:43 GMT"
+     "date": "Mon, 10 Aug 2026 16:40:12 GMT"
     },
     {
      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
+     "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 16:28:34 +0000"
+    },
+    {
+     "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
+     "link": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 16:24:13 +0000"
+    },
+    {
+     "title": "Sudan’s army chief holds unannounced talks on national dialogue",
+     "link": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 16:03:43 +0000"
+    },
+    {
+     "title": "‘They need each other’: What’s behind the new Syria-Russia accord?",
+     "link": "https://www.aljazeera.com/news/2026/8/10/they-need-each-other-whats-behind-the-new-syria-russia-accord?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 16:01:06 +0000"
+    },
+    {
      "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 15:51:26 +0000"
@@ -195,7 +215,7 @@
      "date": "Mon, 10 Aug 2026 15:45:39 +0000"
     },
     {
-     "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+     "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
      "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 14:57:08 +0000"
     },
@@ -203,71 +223,6 @@
      "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 14:52:32 +0000"
-    },
-    {
-     "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:18:52 +0000"
-    },
-    {
-     "title": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
-     "link": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:13:00 +0000"
-    },
-    {
-     "title": "War on Iran: Phase II: Day 30",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:07:04 +0000"
-    },
-    {
-     "title": "Record 230 people reach UK on single boat after crossing English Channel",
-     "link": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:02:38 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
-     "link": "https://www.nature.com/articles/s41586-026-10984-9",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
-     "link": "https://www.nature.com/articles/s41586-026-10973-y",
-     "date": ""
-    },
-    {
-     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
-     "link": "https://www.nature.com/articles/s41586-026-10989-4",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
-     "link": "https://www.nature.com/articles/s41586-026-10978-7",
-     "date": ""
-    },
-    {
-     "title": "How and when to use artificial intelligence in your science job application",
-     "link": "https://www.nature.com/articles/d41586-026-02435-2",
-     "date": ""
-    },
-    {
-     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
-     "link": "https://www.nature.com/articles/d41586-026-02447-y",
-     "date": ""
-    },
-    {
-     "title": "What to do when you have too many PhD projects on the go",
-     "link": "https://www.nature.com/articles/d41586-026-01681-8",
-     "date": ""
-    },
-    {
-     "title": "Why environmental treaties must also address mental health",
-     "link": "https://www.nature.com/articles/d41586-026-02450-3",
-     "date": ""
     }
    ]
   }
