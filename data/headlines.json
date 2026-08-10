@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-10 08:51 UTC",
+ "updated": "2026-08-10 10:36 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Record 230 people cross Channel in one small boat",
+     "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 10:20:13 GMT"
+    },
     {
      "title": "Travelodge staff gave domestic abuser key to his victim's room",
      "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 05:00:07 GMT"
     },
     {
-     "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
-     "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 07:16:12 GMT"
+     "title": "Thames Water gave finance boss a £1m signing-on fee",
+     "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 10:35:47 GMT"
     },
     {
-     "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 20:58:18 GMT"
+     "title": "Ban on 'subscription traps' brought forward by three months",
+     "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 09:57:54 GMT"
     },
     {
      "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -25,24 +30,19 @@
      "date": "Sun, 09 Aug 2026 23:05:29 GMT"
     },
     {
-     "title": "China evacuates one million from homes as massive storm arrives",
-     "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 07:23:54 GMT"
-    },
-    {
-     "title": "How much parents could save from September's new school uniform rules",
+     "title": "Schools in England have new rules on branded uniforms - will the changes save you money?",
      "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 00:44:11 GMT"
     },
     {
-     "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
-     "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 05:01:50 GMT"
+     "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 09:33:25 GMT"
     },
     {
-     "title": "You could be missing out on £150 off your energy bill - here's how to check",
-     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 23:47:30 GMT"
+     "title": "Fifa and Infantino accused of 'deception' in open letter from football confederations",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 08:46:54 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+     "title": "Thames Water gave finance boss a £1m signing-on fee",
+     "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 10:35:47 GMT"
+    },
+    {
+     "title": "Ban on 'subscription traps' brought forward by three months",
      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 07:16:12 GMT"
+     "date": "Mon, 10 Aug 2026 09:57:54 GMT"
     },
     {
      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
@@ -70,24 +75,19 @@
      "date": "Sat, 08 Aug 2026 13:41:32 GMT"
     },
     {
-     "title": "How a 90-second power outage sparked chaos for rail commuters",
-     "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 16:11:32 GMT"
-    },
-    {
      "title": "Could your tattoo stop you from getting a job?",
      "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 00:40:48 GMT"
     },
     {
+     "title": "How a 90-second power outage sparked chaos for rail commuters",
+     "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 07 Aug 2026 16:11:32 GMT"
+    },
+    {
      "title": "Goodwin considers selling part of defence business",
      "link": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 07 Aug 2026 15:22:51 GMT"
-    },
-    {
-     "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-     "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 00:04:20 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
+     "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
+     "link": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+     "date": "Mon, 10 Aug 2026 10:00:43 GMT"
+    },
+    {
+     "title": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
+     "link": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
+     "date": "Mon, 10 Aug 2026 10:00:40 GMT"
+    },
+    {
      "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
      "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
      "date": "Sun, 09 Aug 2026 18:20:25 GMT"
-    },
-    {
-     "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
-     "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-     "date": "Sun, 09 Aug 2026 07:00:08 GMT"
-    },
-    {
-     "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-     "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-     "date": "Sat, 08 Aug 2026 05:00:37 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
+     "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
+     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
+     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "In a competitive Maine Senate race, women voters could be the deciders",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Who really needs testosterone?",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
+     "date": "Mon, 10 Aug 2026 04:58:22 -0400"
+    },
+    {
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
      "date": "Mon, 10 Aug 2026 04:41:46 -0400"
-    },
-    {
-     "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
-     "date": "Mon, 10 Aug 2026 00:01:00 -0400"
-    },
-    {
-     "title": "Crews battle wildfires in western U.S. and Canada",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
-     "date": "Sun, 09 Aug 2026 18:03:09 -0400"
-    },
-    {
-     "title": "Demi Vollering wins Tour de France for the 2nd time",
-     "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
-     "date": "Sun, 09 Aug 2026 18:00:52 -0400"
-    },
-    {
-     "title": "Nearly 30 years after Tupac's death, the trial over his murder will finally begin",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5924034/nearly-30-years-after-tupacs-death-the-trial-over-his-murder-will-finally-begin",
-     "date": "Sun, 09 Aug 2026 17:27:16 -0400"
-    },
-    {
-     "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-     "date": "Sun, 09 Aug 2026 14:21:45 -0400"
-    },
-    {
-     "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
-     "date": "Sun, 09 Aug 2026 08:39:47 -0400"
-    },
-    {
-     "title": "There's a birth control backlash online. Can it explain the rise in abortions?",
-     "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
-     "date": "Sun, 09 Aug 2026 08:12:15 -0400"
     }
    ]
   },
@@ -185,50 +185,65 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
-     "link": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 08:39:25 +0000"
+     "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan",
+     "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 10:15:02 +0000"
     },
     {
-     "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
-     "link": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 08:05:05 +0000"
+     "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+     "link": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 10:13:31 +0000"
     },
     {
-     "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
-     "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 07:59:04 +0000"
+     "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+     "link": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 10:11:48 +0000"
     },
     {
-     "title": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
-     "link": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 07:47:11 +0000"
+     "title": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+     "link": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 09:35:55 +0000"
     },
     {
-     "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
-     "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 07:43:01 +0000"
+     "title": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
+     "link": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 09:25:13 +0000"
     },
     {
-     "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
-     "link": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 07:10:32 +0000"
+     "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 09:20:12 +0000"
     },
     {
-     "title": "What’s driving unrest in Pakistan-administered Kashmir?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 06:26:04 +0000"
+     "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+     "link": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 09:09:08 +0000"
     },
     {
-     "title": "Wildfires bear down on homes in Canada’s Okanagan region",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 04:49:42 +0000"
+     "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 08:44:34 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+     "link": "https://www.nature.com/articles/s41586-026-10984-9",
+     "date": ""
+    },
+    {
+     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+     "link": "https://www.nature.com/articles/d41586-026-02447-y",
+     "date": ""
+    },
+    {
+     "title": "What to do when you have too many PhD projects on the go",
+     "link": "https://www.nature.com/articles/d41586-026-01681-8",
+     "date": ""
+    },
     {
      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
      "link": "https://www.nature.com/articles/d41586-026-02488-3",
@@ -252,21 +267,6 @@
     {
      "title": "How a steady drip-drip can erode the hardest stone",
      "link": "https://www.nature.com/articles/d41586-026-02360-4",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-     "link": "https://www.nature.com/articles/d41586-026-02430-7",
-     "date": ""
-    },
-    {
-     "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-     "link": "https://www.nature.com/articles/d41586-026-02235-8",
-     "date": ""
-    },
-    {
-     "title": "Scientists up in arms about cuts to UK physics and astronomy",
-     "link": "https://www.nature.com/articles/d41586-026-02460-1",
      "date": ""
     }
    ]
