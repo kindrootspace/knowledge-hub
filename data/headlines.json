@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 15:16 UTC",
+ "updated": "2026-08-10 16:12 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -35,14 +35,14 @@
      "date": "Mon, 10 Aug 2026 12:39:48 GMT"
     },
     {
-     "title": "Evidence that South African special forces murdered top detective shared with BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 23:05:29 GMT"
+     "title": "New weight loss pill approved for use in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 15:25:07 GMT"
     },
     {
-     "title": "Asylum seeker who groomed and raped girl, 13, jailed",
-     "link": "https://www.bbc.co.uk/news/articles/cm2g97nv36go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 12:56:41 GMT"
+     "title": "MSP apologises for hurt caused by rape 'demonisation' comments",
+     "link": "https://www.bbc.co.uk/news/articles/c89n5v5djpgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 15:59:54 GMT"
     }
    ]
   },
@@ -122,12 +122,12 @@
     {
      "title": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 14:59:15 GMT"
+     "date": "Mon, 10 Aug 2026 15:49:47 GMT"
     },
     {
-     "title": "Powerful 7.4 magnitude earthquake strikes western Colombia",
+     "title": "At least 20 dead as powerful earthquake strikes western Colombia",
      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-     "date": "Mon, 10 Aug 2026 14:28:36 GMT"
+     "date": "Mon, 10 Aug 2026 15:38:43 GMT"
     },
     {
      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+     "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+     "date": "Mon, 10 Aug 2026 12:08:06 -0400"
+    },
     {
      "title": "Does spending money make you feel bad? Read this comic",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
@@ -170,11 +175,6 @@
      "date": "Mon, 10 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-     "date": "Mon, 10 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
      "date": "Mon, 10 Aug 2026 05:00:00 -0400"
@@ -185,7 +185,17 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "7.4-magnitude earthquake hits Colombia killing at least 20",
+     "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 15:51:26 +0000"
+    },
+    {
+     "title": "Oil prices, stocks surge as Hormuz closure drags on",
+     "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 15:45:39 +0000"
+    },
+    {
+     "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
      "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 14:57:08 +0000"
     },
@@ -213,16 +223,6 @@
      "title": "Record 230 people reach UK on single boat after crossing English Channel",
      "link": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 14:02:38 +0000"
-    },
-    {
-     "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-     "link": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 14:00:02 +0000"
-    },
-    {
-     "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-     "link": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 13:59:58 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
      "link": "https://www.nature.com/articles/s41586-026-10973-y",
+     "date": ""
+    },
+    {
+     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+     "link": "https://www.nature.com/articles/s41586-026-10989-4",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Why environmental treaties must also address mental health",
      "link": "https://www.nature.com/articles/d41586-026-02450-3",
-     "date": ""
-    },
-    {
-     "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
-     "link": "https://www.nature.com/articles/d41586-026-02276-z",
      "date": ""
     }
    ]
