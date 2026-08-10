@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 21:58 UTC",
+ "updated": "2026-08-10 22:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Mon, 10 Aug 2026 21:33:51 GMT"
     },
     {
-     "title": "Record 230 people cross Channel in one small boat",
-     "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 14:51:06 GMT"
+     "title": "At least 111 killed in Colombia's largest earthquake in years",
+     "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 21:24:29 GMT"
     },
     {
      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
@@ -30,25 +30,35 @@
      "date": "Mon, 10 Aug 2026 21:33:25 GMT"
     },
     {
-     "title": "GB's Hunt wins European 100m gold",
+     "title": "Canada flight cancelled after child refuses to wear seat belt",
+     "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 21:06:27 GMT"
+    },
+    {
+     "title": "GB's Amy Hunt wins European 100m gold",
      "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 21:47:29 GMT"
+     "date": "Mon, 10 Aug 2026 22:51:36 GMT"
     },
     {
-     "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 16:52:47 GMT"
-    },
-    {
-     "title": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says",
-     "link": "https://www.bbc.co.uk/news/articles/c4gwl3n7ne7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 21:50:37 GMT"
+     "title": "Record 230 people cross Channel in one small boat",
+     "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 14:51:06 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Nvidia gets $500bn from major banks to develop AI data centres",
+     "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 22:31:42 GMT"
+    },
+    {
+     "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+     "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 21:33:51 GMT"
+    },
     {
      "title": "Thames Water gave finance boss a £1m signing-on fee",
      "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
@@ -65,6 +75,11 @@
      "date": "Mon, 10 Aug 2026 13:16:51 GMT"
     },
     {
+     "title": "'You could smell someone' who worked at Raleigh",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 05:10:15 GMT"
+    },
+    {
      "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
      "link": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 15:10:33 GMT"
@@ -73,21 +88,6 @@
      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
      "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 05:00:32 GMT"
-    },
-    {
-     "title": "'You could smell someone' who worked at Raleigh",
-     "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 05:10:15 GMT"
-    },
-    {
-     "title": "You could be missing out on £150 off your energy bill - here's how to check",
-     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 23:47:30 GMT"
-    },
-    {
-     "title": "Water outage forces Chessington theme park to close",
-     "link": "https://www.bbc.co.uk/news/articles/c3ekx90jww9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 14:24:53 GMT"
     }
    ]
   },
@@ -120,9 +120,9 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
-     "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
+     "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 21:27:13 GMT"
+     "date": "Mon, 10 Aug 2026 22:19:59 GMT"
     },
     {
      "title": "Scores dead after powerful earthquake strikes western Colombia",
@@ -175,7 +175,7 @@
      "date": "Mon, 10 Aug 2026 07:42:58 -0400"
     },
     {
-     "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+     "title": "People with disabilities say Medicaid income limits can stifle career advancement",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
      "date": "Mon, 10 Aug 2026 07:00:00 -0400"
     }
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+     "link": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 22:41:03 +0000"
+    },
+    {
+     "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 22:35:48 +0000"
+    },
+    {
+     "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 21:48:23 +0000"
+    },
     {
      "title": "Europe braces for another heatwave after record-breaking temperatures",
      "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
@@ -208,66 +223,6 @@
      "title": "US appeals court says social media addiction lawsuits can proceed",
      "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 21:02:06 +0000"
-    },
-    {
-     "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 20:55:21 +0000"
-    },
-    {
-     "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-     "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 19:47:13 +0000"
-    },
-    {
-     "title": "Trump administration has revoked over 175,000 visas: US State Department",
-     "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 19:46:34 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
-     "link": "https://www.nature.com/articles/s41586-026-10984-9",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
-     "link": "https://www.nature.com/articles/s41586-026-10973-y",
-     "date": ""
-    },
-    {
-     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
-     "link": "https://www.nature.com/articles/s41586-026-10989-4",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
-     "link": "https://www.nature.com/articles/s41586-026-10978-7",
-     "date": ""
-    },
-    {
-     "title": "How and when to use artificial intelligence in your science job application",
-     "link": "https://www.nature.com/articles/d41586-026-02435-2",
-     "date": ""
-    },
-    {
-     "title": "Where are you ticklish? Researchers map the sensation across cultures",
-     "link": "https://www.nature.com/articles/d41586-026-02493-6",
-     "date": ""
-    },
-    {
-     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
-     "link": "https://www.nature.com/articles/d41586-026-02447-y",
-     "date": ""
-    },
-    {
-     "title": "What to do when you have too many PhD projects on the go",
-     "link": "https://www.nature.com/articles/d41586-026-01681-8",
-     "date": ""
     }
    ]
   }
