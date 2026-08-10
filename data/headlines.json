@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 18:03 UTC",
+ "updated": "2026-08-10 19:17 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,19 @@
      "date": "Mon, 10 Aug 2026 17:41:39 GMT"
     },
     {
+     "title": "30 years later, a former rival will stand trial for Tupac's murder",
+     "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 16:52:47 GMT"
+    },
+    {
      "title": "Record 230 people cross Channel in one small boat",
      "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 14:51:06 GMT"
     },
     {
-     "title": "30 years later, a former rival will stand trial for Tupac's murder",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 16:52:47 GMT"
+     "title": "New weight loss pill approved for use in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 15:25:07 GMT"
     },
     {
      "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
@@ -30,19 +35,14 @@
      "date": "Mon, 10 Aug 2026 17:50:29 GMT"
     },
     {
+     "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+     "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 18:19:41 GMT"
+    },
+    {
      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 14:34:25 GMT"
-    },
-    {
-     "title": "Nigel Farage says incident at his home 'directly linked' to Ann Widdecombe murder",
-     "link": "https://www.bbc.co.uk/news/articles/c3v06k2qk1qo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 12:39:48 GMT"
-    },
-    {
-     "title": "New weight loss pill approved for use in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 15:25:07 GMT"
     }
    ]
   },
@@ -120,14 +120,14 @@
      "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
-     "title": "More than 70 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
+     "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 17:44:43 GMT"
+     "date": "Mon, 10 Aug 2026 19:03:29 GMT"
     },
     {
-     "title": "More than 70 dead after powerful earthquake strikes western Colombia",
+     "title": "Scores dead after powerful earthquake strikes western Colombia",
      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-     "date": "Mon, 10 Aug 2026 17:10:54 GMT"
+     "date": "Mon, 10 Aug 2026 18:11:06 GMT"
     },
     {
      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "111 dead after Colombia quakes leave trail of destruction",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 18:51:02 +0000"
+    },
+    {
+     "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+     "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 18:37:07 +0000"
+    },
+    {
+     "title": "Netanyahu’s veto and the limits of American power",
+     "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 18:35:31 +0000"
+    },
+    {
+     "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+     "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 18:34:25 +0000"
+    },
+    {
+     "title": "Oman trying to contain extensive oil spill from stricken tanker",
+     "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 18:15:23 +0000"
+    },
+    {
      "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
      "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 17:51:18 +0000"
@@ -198,31 +223,6 @@
      "title": "Iran’s president says Khamenei is in ‘perfect health’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 17:05:01 +0000"
-    },
-    {
-     "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 17:00:41 +0000"
-    },
-    {
-     "title": "Photos: 7.4-magnitude earthquake rocks western Colombia",
-     "link": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 16:48:50 +0000"
-    },
-    {
-     "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
-     "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 16:28:34 +0000"
-    },
-    {
-     "title": "‘We have no one’: Palestinians react to Israel’s rejection of Gaza plan",
-     "link": "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 16:24:13 +0000"
-    },
-    {
-     "title": "Sudan’s army chief holds unannounced talks on national dialogue",
-     "link": "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 16:03:43 +0000"
     }
    ]
   },
