@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 06:42 UTC",
+ "updated": "2026-08-10 08:51 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 23:01:39 GMT"
+     "date": "Mon, 10 Aug 2026 07:16:12 GMT"
     },
     {
      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
@@ -27,12 +27,7 @@
     {
      "title": "China evacuates one million from homes as massive storm arrives",
      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 06:15:13 GMT"
-    },
-    {
-     "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
-     "link": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 01:36:10 GMT"
+     "date": "Mon, 10 Aug 2026 07:23:54 GMT"
     },
     {
      "title": "How much parents could save from September's new school uniform rules",
@@ -43,6 +38,11 @@
      "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
      "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 05:01:50 GMT"
+    },
+    {
+     "title": "You could be missing out on £150 off your energy bill - here's how to check",
+     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 23:47:30 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 09 Aug 2026 23:01:39 GMT"
+     "date": "Mon, 10 Aug 2026 07:16:12 GMT"
     },
     {
      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
@@ -85,9 +85,9 @@
      "date": "Fri, 07 Aug 2026 15:22:51 GMT"
     },
     {
-     "title": "Meta fined $567m in largest child safety ruling against social media giant",
-     "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 07 Aug 2026 09:22:03 GMT"
+     "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
+     "link": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 09 Aug 2026 00:04:20 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
+     "date": "Mon, 10 Aug 2026 04:41:46 -0400"
+    },
+    {
      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
      "date": "Mon, 10 Aug 2026 00:01:00 -0400"
@@ -173,17 +178,42 @@
      "title": "There's a birth control backlash online. Can it explain the rise in abortions?",
      "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
      "date": "Sun, 09 Aug 2026 08:12:15 -0400"
-    },
-    {
-     "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
-     "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
-     "date": "Sun, 09 Aug 2026 07:58:02 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 08:39:25 +0000"
+    },
+    {
+     "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
+     "link": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 08:05:05 +0000"
+    },
+    {
+     "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+     "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 07:59:04 +0000"
+    },
+    {
+     "title": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
+     "link": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 07:47:11 +0000"
+    },
+    {
+     "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+     "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 07:43:01 +0000"
+    },
+    {
+     "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
+     "link": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 07:10:32 +0000"
+    },
     {
      "title": "What’s driving unrest in Pakistan-administered Kashmir?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 04:49:42 +0000"
-    },
-    {
-     "title": "Trump names Will Scharf as White House counsel ahead of midterms",
-     "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 04:00:21 +0000"
-    },
-    {
-     "title": "Brazilian player falls into tunnel celebrating goal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 03:51:00 +0000"
-    },
-    {
-     "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-     "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 03:48:19 +0000"
-    },
-    {
-     "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-     "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 03:24:38 +0000"
-    },
-    {
-     "title": "Clashes in Iraq’s Kut city during protests over power shortages",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 03:03:59 +0000"
-    },
-    {
-     "title": "Israel confirms death of Palestinian detainee, nearly two years late",
-     "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 02:59:45 +0000"
     }
    ]
   },
