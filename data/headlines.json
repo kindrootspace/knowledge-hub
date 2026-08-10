@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 21:02 UTC",
+ "updated": "2026-08-10 21:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,6 +15,11 @@
      "date": "Mon, 10 Aug 2026 20:24:05 GMT"
     },
     {
+     "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+     "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 21:33:51 GMT"
+    },
+    {
      "title": "Record 230 people cross Channel in one small boat",
      "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 14:51:06 GMT"
@@ -22,7 +27,12 @@
     {
      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 20:16:34 GMT"
+     "date": "Mon, 10 Aug 2026 21:33:25 GMT"
+    },
+    {
+     "title": "GB's Hunt wins European 100m gold",
+     "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 21:47:29 GMT"
     },
     {
      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
@@ -30,19 +40,9 @@
      "date": "Mon, 10 Aug 2026 16:52:47 GMT"
     },
     {
-     "title": "New weight-loss pill approved for use in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 15:25:07 GMT"
-    },
-    {
-     "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-     "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 17:50:29 GMT"
-    },
-    {
-     "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-     "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 18:19:41 GMT"
+     "title": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says",
+     "link": "https://www.bbc.co.uk/news/articles/c4gwl3n7ne7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 21:50:37 GMT"
     }
    ]
   },
@@ -122,7 +122,7 @@
     {
      "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Mon, 10 Aug 2026 20:52:18 GMT"
+     "date": "Mon, 10 Aug 2026 21:27:13 GMT"
     },
     {
      "title": "Scores dead after powerful earthquake strikes western Colombia",
@@ -185,6 +185,36 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Europe braces for another heatwave after record-breaking temperatures",
+     "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 21:29:32 +0000"
+    },
+    {
+     "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
+     "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 21:15:41 +0000"
+    },
+    {
+     "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
+     "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 21:14:16 +0000"
+    },
+    {
+     "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
+     "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 21:03:53 +0000"
+    },
+    {
+     "title": "US appeals court says social media addiction lawsuits can proceed",
+     "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 21:02:06 +0000"
+    },
+    {
+     "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+     "date": "Mon, 10 Aug 2026 20:55:21 +0000"
+    },
+    {
      "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
      "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 19:47:13 +0000"
@@ -193,36 +223,6 @@
      "title": "Trump administration has revoked over 175,000 visas: US State Department",
      "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
      "date": "Mon, 10 Aug 2026 19:46:34 +0000"
-    },
-    {
-     "title": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 19:30:29 +0000"
-    },
-    {
-     "title": "Migrant children go days without food in Ceuta amid asylum crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 19:08:08 +0000"
-    },
-    {
-     "title": "111 dead after Colombia quakes leave trail of destruction",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 18:51:02 +0000"
-    },
-    {
-     "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
-     "link": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 18:37:07 +0000"
-    },
-    {
-     "title": "Netanyahu’s veto and the limits of American power",
-     "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 18:35:31 +0000"
-    },
-    {
-     "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-     "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 18:34:25 +0000"
     }
    ]
   },
