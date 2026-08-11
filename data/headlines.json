@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 11:06 UTC",
+ "updated": "2026-08-11 11:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,7 +25,7 @@
      "date": "Tue, 11 Aug 2026 09:39:58 GMT"
     },
     {
-     "title": "Watch: Family escapes home during Colombia earthquake",
+     "title": "Watch: Family narrowly escapes home during Colombia earthquake",
      "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 10:12:21 GMT"
     },
@@ -65,7 +65,7 @@
      "date": "Tue, 11 Aug 2026 08:44:52 GMT"
     },
     {
-     "title": "Mars Bar from 1991 found - and it's 56% bigger than today's",
+     "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
      "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 09:08:46 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+     "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+     "date": "Tue, 11 Aug 2026 07:11:14 -0400"
+    },
+    {
      "title": "The secret economics inside the new Planet Money board game",
      "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
      "date": "Tue, 11 Aug 2026 06:30:00 -0400"
@@ -173,17 +178,37 @@
      "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
      "date": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
-     "date": "Tue, 11 Aug 2026 04:32:41 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+     "link": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 11:30:48 +0000"
+    },
+    {
+     "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
+     "link": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 11:28:53 +0000"
+    },
+    {
+     "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+     "link": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 11:28:05 +0000"
+    },
+    {
+     "title": "Baby among those rescued as hundreds feared missing after Colombia quake",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 11:26:18 +0000"
+    },
+    {
+     "title": "What to know about South Carolina’s election to replace Lindsey Graham",
+     "link": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 10:55:03 +0000"
+    },
     {
      "title": "DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record",
      "link": "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
      "link": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
      "date": "Tue, 11 Aug 2026 10:03:25 +0000"
-    },
-    {
-     "title": "Bangladesh and India battle to save cricket series after political turmoil",
-     "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 10:02:35 +0000"
-    },
-    {
-     "title": "The Global South’s digital future must not belong to Bezos and Musk",
-     "link": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 09:52:01 +0000"
-    },
-    {
-     "title": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-     "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 09:47:53 +0000"
-    },
-    {
-     "title": "Vietnam’s VinSpace announces deal with SpaceX to launch first satellite",
-     "link": "https://www.aljazeera.com/economy/2026/8/11/vietnams-vinspace-announces-deal-with-spacex-to-launch-first-satellite?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 09:43:11 +0000"
-    },
-    {
-     "title": "Colombia quake: Frantic search for survivors as over 2,700 reported missing",
-     "link": "https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 09:41:26 +0000"
     }
    ]
   },
@@ -255,18 +255,18 @@
      "date": ""
     },
     {
+     "title": "Seven tips for a graceful lab exit",
+     "link": "https://www.nature.com/articles/d41586-026-02452-1",
+     "date": ""
+    },
+    {
      "title": "When the best decision is no decision: the rise of randomization in grant funding",
      "link": "https://www.nature.com/articles/d41586-026-02082-7",
      "date": ""
     },
     {
-     "title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
-     "link": "https://www.nature.com/articles/d41586-026-02449-w",
-     "date": ""
-    },
-    {
-     "title": "Why scientists should lead the shift away from AI mega data centres",
-     "link": "https://www.nature.com/articles/d41586-026-02451-2",
+     "title": "Solar eclipse offers rare chance to solve Sun’s magnetic-field mysteries",
+     "link": "https://www.nature.com/articles/d41586-026-02142-y",
      "date": ""
     }
    ]
