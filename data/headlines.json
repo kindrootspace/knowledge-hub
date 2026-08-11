@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-11 19:20 UTC",
+ "updated": "2026-08-11 21:04 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+     "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 21:00:46 GMT"
+    },
     {
      "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
@@ -12,7 +17,7 @@
     {
      "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
      "link": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 16:19:38 GMT"
+     "date": "Tue, 11 Aug 2026 20:09:52 GMT"
     },
     {
      "title": "Eclipse chasers scramble for glasses as stocks run low",
@@ -38,11 +43,6 @@
      "title": "The Office actress Lucy Davis says she has 'incurable' cancer",
      "link": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 17:01:39 GMT"
-    },
-    {
-     "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
-     "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 19:12:54 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 23:32:10 GMT"
+    },
+    {
+     "title": "Tributes to co-founder of John Pye auction house",
+     "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 20:22:40 GMT"
     },
     {
      "title": "AI agent hacks gym to get its user a spot in pilates class",
@@ -70,24 +75,19 @@
      "date": "Tue, 11 Aug 2026 08:08:30 GMT"
     },
     {
-     "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-     "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 08:44:52 GMT"
-    },
-    {
      "title": "Eclipse chasers scramble for glasses as stocks run low",
      "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 16:31:43 GMT"
     },
     {
+     "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+     "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 08:44:52 GMT"
+    },
+    {
      "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
      "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 09:08:46 GMT"
-    },
-    {
-     "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-     "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 15:32:27 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
+     "date": "Tue, 11 Aug 2026 16:23:07 -0400"
+    },
+    {
+     "title": "5 questions parents may have after Trump's latest vaccine move",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
+     "date": "Tue, 11 Aug 2026 16:20:25 -0400"
+    },
+    {
      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
      "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
      "date": "Tue, 11 Aug 2026 07:11:14 -0400"
@@ -160,16 +170,6 @@
      "date": "Tue, 11 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "The school year begins in LA with one big change: limited screen time",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
      "date": "Tue, 11 Aug 2026 05:00:00 -0400"
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
-     "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:59:42 +0000"
+     "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:35:50 +0000"
     },
     {
-     "title": "Venezuela and Israel restore consular ties as relations warm",
-     "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:58:33 +0000"
+     "title": "In Gaza’s tents, widows face war’s harshest realities alone",
+     "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:30:11 +0000"
     },
     {
-     "title": "Tightened blockade on Gaza causes prices to soar",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:45:26 +0000"
+     "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+     "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:29:34 +0000"
     },
     {
-     "title": "Paramount CEO may remove operations from California over stalled merger",
-     "link": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:34:31 +0000"
+     "title": "Israel demolishes home of Palestinian killed during settler attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:18:51 +0000"
     },
     {
-     "title": "‘Justice at last’: Syrians react to Assad death sentence",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:32:42 +0000"
+     "title": "DR Congo Ebola death toll surpasses 2,000",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:15:26 +0000"
     },
     {
-     "title": "South Africa mine collapse kills 14 suspected illegal miners",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:31:54 +0000"
+     "title": "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
+     "link": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:11:53 +0000"
     },
     {
-     "title": "Tourists rush to Iceland to witness rare total solar eclipse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:22:14 +0000"
+     "title": "Search for survivors underway in Colombia’s earthquake aftermath",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/search-for-survivors-underway-in-colombias-earthquake-aftermath?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:06:54 +0000"
     },
     {
-     "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
-     "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 18:18:44 +0000"
+     "title": "US military fires on cargo vessel it said sought to break Iran blockade",
+     "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 19:58:12 +0000"
     }
    ]
   },
