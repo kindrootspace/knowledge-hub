@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 18:08 UTC",
+ "updated": "2026-08-11 19:20 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,19 @@
      "date": "Tue, 11 Aug 2026 16:19:38 GMT"
     },
     {
+     "title": "Eclipse chasers scramble for glasses as stocks run low",
+     "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 16:31:43 GMT"
+    },
+    {
      "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
      "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 15:53:53 GMT"
     },
     {
-     "title": "Eclipse chasers scramble for glasses as stocks run low",
-     "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 16:31:43 GMT"
+     "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+     "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 19:09:52 GMT"
     },
     {
      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -30,19 +35,14 @@
      "date": "Tue, 11 Aug 2026 16:19:44 GMT"
     },
     {
-     "title": "Watch: Family narrowly escapes home during Colombia earthquake",
-     "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 10:12:21 GMT"
-    },
-    {
      "title": "The Office actress Lucy Davis says she has 'incurable' cancer",
      "link": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 17:01:39 GMT"
     },
     {
-     "title": "Russia releases former US Marine reported in poor health",
-     "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 17:02:22 GMT"
+     "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+     "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 19:12:54 GMT"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US jury in Luigi Mangione murder trial to remain anonymous",
-     "link": "https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 17:36:57 +0000"
+     "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
+     "link": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:59:42 +0000"
     },
     {
-     "title": "Russia frees ex-US Marine Robert Gilman from detention",
-     "link": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 17:09:31 +0000"
+     "title": "Venezuela and Israel restore consular ties as relations warm",
+     "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:58:33 +0000"
     },
     {
-     "title": "Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA",
-     "link": "https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 17:04:52 +0000"
+     "title": "Tightened blockade on Gaza causes prices to soar",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:45:26 +0000"
     },
     {
-     "title": "PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams",
-     "link": "https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 16:55:34 +0000"
+     "title": "Paramount CEO may remove operations from California over stalled merger",
+     "link": "https://www.aljazeera.com/economy/2026/8/11/paramount-ceo-may-remove-operations-from-california-over-stalled-merger?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:34:31 +0000"
     },
     {
-     "title": "Trump faces lawsuit over push to limit birthright citizenship",
-     "link": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 16:53:39 +0000"
+     "title": "‘Justice at last’: Syrians react to Assad death sentence",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/justice-at-last-syrians-react-to-assad-death-sentence?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:32:42 +0000"
     },
     {
-     "title": "Hungary elects supreme court judge ousted by Orban as new president",
-     "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 15:50:51 +0000"
+     "title": "South Africa mine collapse kills 14 suspected illegal miners",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:31:54 +0000"
     },
     {
-     "title": "Rwanda: The genocide against the Tutsi",
-     "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 15:49:09 +0000"
+     "title": "Tourists rush to Iceland to witness rare total solar eclipse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tourists-rush-to-iceland-to-witness-rare-total-solar-eclipse?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:22:14 +0000"
     },
     {
-     "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
-     "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 15:20:38 +0000"
+     "title": "Rights groups launch new legal challenge to Trump campaign against ICC",
+     "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 18:18:44 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+     "link": "https://www.nature.com/articles/s41586-026-10991-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+     "link": "https://www.nature.com/articles/s41586-026-10947-0",
+     "date": ""
+    },
+    {
+     "title": "Funders should look beyond strict age criteria",
+     "link": "https://www.nature.com/articles/d41586-026-02492-7",
+     "date": ""
+    },
+    {
+     "title": "The case for responsible scientific activism",
+     "link": "https://www.nature.com/articles/d41586-026-02464-x",
+     "date": ""
+    },
+    {
+     "title": "Shipping on rivers packs a surprisingly large climate punch",
+     "link": "https://www.nature.com/articles/d41586-026-02431-6",
+     "date": ""
+    },
+    {
+     "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+     "link": "https://www.nature.com/articles/d41586-026-02490-9",
+     "date": ""
+    },
+    {
+     "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
+     "link": "https://www.nature.com/articles/d41586-026-02380-0",
+     "date": ""
+    },
+    {
+     "title": "Will AI make our dreams all look the same?",
+     "link": "https://www.nature.com/articles/d41586-026-02491-8",
+     "date": ""
     }
    ]
   }
