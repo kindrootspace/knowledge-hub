@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 15:16 UTC",
+ "updated": "2026-08-11 16:13 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -32,17 +32,17 @@
     {
      "title": "Anne Hathaway pokes fun at 'fake baby bump' theories",
      "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 10:43:08 GMT"
+     "date": "Tue, 11 Aug 2026 16:07:08 GMT"
+    },
+    {
+     "title": "Russia releases former US Marine reported in poor health",
+     "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 15:47:53 GMT"
     },
     {
      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 12:06:55 GMT"
-    },
-    {
-     "title": "Call with No 10 gives us hope, PC Harper's mother says",
-     "link": "https://www.bbc.co.uk/news/articles/cy8m1pjg4k3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 09:33:52 GMT"
+     "date": "Tue, 11 Aug 2026 15:32:27 GMT"
     }
    ]
   },
@@ -55,7 +55,7 @@
      "date": "Mon, 10 Aug 2026 23:32:10 GMT"
     },
     {
-     "title": "AI agent hacks gym to get its owner spot in pilates class",
+     "title": "AI agent hacks gym to get its user a spot in pilates class",
      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 12:09:26 GMT"
     },
@@ -87,7 +87,7 @@
     {
      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 12:06:55 GMT"
+     "date": "Tue, 11 Aug 2026 15:32:27 GMT"
     }
    ]
   },
@@ -160,11 +160,6 @@
      "date": "Tue, 11 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "The school year begins in LA with one big change: limited screen time",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
      "date": "Tue, 11 Aug 2026 05:00:00 -0400"
@@ -178,12 +173,42 @@
      "title": "Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
      "date": "Tue, 11 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Hungary elects supreme court judge ousted by Orban as new president",
+     "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 15:50:51 +0000"
+    },
+    {
+     "title": "Rwanda: The genocide against the Tutsi",
+     "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 15:49:09 +0000"
+    },
+    {
+     "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+     "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 15:20:38 +0000"
+    },
+    {
+     "title": "DC residents debate safety gains a year into Trump’s Guard deployment",
+     "link": "https://www.aljazeera.com/news/2026/8/11/dc-residents-debate-safety-gains-a-year-into-trumps-guard-deployment?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 15:07:50 +0000"
+    },
+    {
+     "title": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
+     "link": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 14:56:06 +0000"
+    },
     {
      "title": "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
      "link": "https://www.aljazeera.com/news/2026/8/11/dozens-killed-in-firefight-between-nigerian-armed-group-and-police?traffic_source=rss",
@@ -198,37 +223,17 @@
      "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
      "link": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
      "date": "Tue, 11 Aug 2026 14:06:09 +0000"
-    },
-    {
-     "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-     "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 13:47:50 +0000"
-    },
-    {
-     "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-     "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 13:46:44 +0000"
-    },
-    {
-     "title": "Liverpool fans seek clarity on Bezos bid to buy stake",
-     "link": "https://www.aljazeera.com/sports/2026/8/11/liverpool-fans-seek-clarity-on-bezos-bid-to-buy-stake?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 13:36:26 +0000"
-    },
-    {
-     "title": "What’s behind Iran’s new military appointments and what do they indicate?",
-     "link": "https://www.aljazeera.com/news/2026/8/11/whats-behind-irans-new-military-appointments-and-what-do-they-indicate?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 13:28:53 +0000"
-    },
-    {
-     "title": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 13:10:49 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+     "link": "https://www.nature.com/articles/s41586-026-10991-w",
+     "date": ""
+    },
     {
      "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
      "link": "https://www.nature.com/articles/s41586-026-10947-0",
@@ -262,11 +267,6 @@
     {
      "title": "The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?",
      "link": "https://www.nature.com/articles/d41586-026-02454-z",
-     "date": ""
-    },
-    {
-     "title": "Seven tips for a graceful lab exit",
-     "link": "https://www.nature.com/articles/d41586-026-02452-1",
      "date": ""
     }
    ]
