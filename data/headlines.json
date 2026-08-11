@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-11 02:28 UTC",
+ "updated": "2026-08-11 04:40 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+     "link": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 04:25:55 GMT"
+    },
     {
      "title": "Amber heat health alerts for almost all of England as next heatwave begins",
      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
@@ -15,14 +20,9 @@
      "date": "Mon, 10 Aug 2026 21:33:51 GMT"
     },
     {
-     "title": "New Forest firefighting to continue overnight as cars abandoned",
-     "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 02:25:31 GMT"
-    },
-    {
      "title": "At least 132 killed in Colombia's largest earthquake in years",
      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 01:59:40 GMT"
+     "date": "Tue, 11 Aug 2026 04:06:07 GMT"
     },
     {
      "title": "England set to eliminate hepatitis C",
@@ -35,14 +35,14 @@
      "date": "Mon, 10 Aug 2026 23:32:10 GMT"
     },
     {
-     "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
-     "link": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 01:59:24 GMT"
-    },
-    {
      "title": "The lonely Chinese men being conned by fake brides",
      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 22:02:21 GMT"
+    },
+    {
+     "title": "Firefighting in New Forest to continue for several days",
+     "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 03:51:06 GMT"
     }
    ]
   },
@@ -122,12 +122,12 @@
     {
      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Tue, 11 Aug 2026 02:05:57 GMT"
+     "date": "Tue, 11 Aug 2026 04:19:05 GMT"
     },
     {
      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-     "date": "Mon, 10 Aug 2026 18:11:06 GMT"
+     "date": "Tue, 11 Aug 2026 02:14:32 GMT"
     },
     {
      "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+     "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+     "date": "Mon, 10 Aug 2026 23:39:40 -0400"
+    },
     {
      "title": "Alabama heads into a second primary election after redistricting",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
@@ -173,17 +178,32 @@
      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
      "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
      "date": "Mon, 10 Aug 2026 08:39:05 -0400"
-    },
-    {
-     "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-     "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-     "date": "Mon, 10 Aug 2026 07:42:58 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 04:09:10 +0000"
+    },
+    {
+     "title": "Where did all the money go if the US is running out of weapons?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 03:32:57 +0000"
+    },
+    {
+     "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+     "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 02:44:39 +0000"
+    },
+    {
+     "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+     "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 02:32:47 +0000"
+    },
     {
      "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
      "link": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
      "date": "Tue, 11 Aug 2026 00:26:02 +0000"
-    },
-    {
-     "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 00:00:19 +0000"
-    },
-    {
-     "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 23:18:53 +0000"
-    },
-    {
-     "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
-     "date": "Mon, 10 Aug 2026 22:46:32 +0000"
     }
    ]
   },
