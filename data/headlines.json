@@ -1,14 +1,9 @@
 {
- "updated": "2026-08-11 06:04 UTC",
+ "updated": "2026-08-11 07:37 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
-     "link": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 04:25:55 GMT"
-    },
     {
      "title": "Amber heat health alerts for almost all of England as next heatwave begins",
      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
@@ -30,6 +25,11 @@
      "date": "Tue, 11 Aug 2026 05:30:03 GMT"
     },
     {
+     "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+     "link": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 01:59:24 GMT"
+    },
+    {
      "title": "Jewish school heads spend more time on security than education, review finds",
      "link": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 05:01:28 GMT"
@@ -40,9 +40,9 @@
      "date": "Mon, 10 Aug 2026 23:32:10 GMT"
     },
     {
-     "title": "The lonely Chinese men being conned by fake brides",
-     "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 22:02:21 GMT"
+     "title": "England set to eliminate hepatitis C",
+     "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 10 Aug 2026 23:40:58 GMT"
     }
    ]
   },
@@ -52,10 +52,10 @@
     {
      "title": "Trump Media reports $238m loss as crypto falls",
      "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 02:21:31 GMT"
+     "date": "Tue, 11 Aug 2026 06:55:32 GMT"
     },
     {
-     "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+     "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 22:31:42 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+     "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+     "date": "Tue, 11 Aug 2026 02:03:49 -0400"
+    },
+    {
      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
      "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
      "date": "Tue, 11 Aug 2026 01:48:27 -0400"
@@ -173,17 +178,27 @@
      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
      "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
      "date": "Mon, 10 Aug 2026 12:08:06 -0400"
-    },
-    {
-     "title": "Does spending money make you feel bad? Read this comic",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
-     "date": "Mon, 10 Aug 2026 10:20:35 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+     "link": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 07:13:29 +0000"
+    },
+    {
+     "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+     "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 07:07:51 +0000"
+    },
+    {
+     "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+     "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 06:05:07 +0000"
+    },
     {
      "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
@@ -208,66 +223,6 @@
      "title": "China’s Long March 7A rocket explodes after lift-off",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
      "date": "Tue, 11 Aug 2026 04:34:50 +0000"
-    },
-    {
-     "title": "Fire rages after drone strikes Libya’s largest oil refinery",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 04:09:10 +0000"
-    },
-    {
-     "title": "Where did all the money go if the US is running out of weapons?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 03:32:57 +0000"
-    },
-    {
-     "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
-     "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 02:44:39 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
-     "link": "https://www.nature.com/articles/s41586-026-10984-9",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
-     "link": "https://www.nature.com/articles/s41586-026-10973-y",
-     "date": ""
-    },
-    {
-     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
-     "link": "https://www.nature.com/articles/s41586-026-10989-4",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
-     "link": "https://www.nature.com/articles/s41586-026-10978-7",
-     "date": ""
-    },
-    {
-     "title": "How and when to use artificial intelligence in your science job application",
-     "link": "https://www.nature.com/articles/d41586-026-02435-2",
-     "date": ""
-    },
-    {
-     "title": "Where are you ticklish? Researchers map the sensation across cultures",
-     "link": "https://www.nature.com/articles/d41586-026-02493-6",
-     "date": ""
-    },
-    {
-     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
-     "link": "https://www.nature.com/articles/d41586-026-02447-y",
-     "date": ""
-    },
-    {
-     "title": "What to do when you have too many PhD projects on the go",
-     "link": "https://www.nature.com/articles/d41586-026-01681-8",
-     "date": ""
     }
    ]
   }
