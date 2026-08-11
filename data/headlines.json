@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 21:04 UTC",
+ "updated": "2026-08-11 22:05 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,9 +15,9 @@
      "date": "Tue, 11 Aug 2026 14:23:52 GMT"
     },
     {
-     "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
-     "link": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 20:09:52 GMT"
+     "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+     "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 21:21:44 GMT"
     },
     {
      "title": "Eclipse chasers scramble for glasses as stocks run low",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+     "date": "Tue, 11 Aug 2026 17:11:09 -0400"
+    },
+    {
      "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
      "date": "Tue, 11 Aug 2026 16:23:07 -0400"
@@ -173,17 +178,22 @@
      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
      "date": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Father and sons forced to manually clear rubble in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 21:24:34 +0000"
+    },
+    {
+     "title": "Relatives mourn victims of Pakistan avalanche",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 20:56:30 +0000"
+    },
     {
      "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
      "link": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
      "date": "Tue, 11 Aug 2026 20:11:53 +0000"
-    },
-    {
-     "title": "Search for survivors underway in Colombia’s earthquake aftermath",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/search-for-survivors-underway-in-colombias-earthquake-aftermath?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:06:54 +0000"
-    },
-    {
-     "title": "US military fires on cargo vessel it said sought to break Iran blockade",
-     "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 19:58:12 +0000"
     }
    ]
   },
