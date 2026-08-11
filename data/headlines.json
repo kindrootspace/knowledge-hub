@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 22:05 UTC",
+ "updated": "2026-08-11 23:03 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -42,13 +42,18 @@
     {
      "title": "The Office actress Lucy Davis says she has 'incurable' cancer",
      "link": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 17:01:39 GMT"
+     "date": "Tue, 11 Aug 2026 22:51:24 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+     "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 23:00:26 GMT"
+    },
     {
      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Tue, 11 Aug 2026 14:19:45 GMT"
     },
     {
+     "title": "Tokenomics: Why making AI pay is tricky",
+     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 03 Aug 2026 23:21:10 GMT"
+    },
+    {
      "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
      "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 08:08:30 GMT"
     },
     {
-     "title": "Eclipse chasers scramble for glasses as stocks run low",
-     "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 16:31:43 GMT"
-    },
-    {
      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 08:44:52 GMT"
-    },
-    {
-     "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
-     "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 09:08:46 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+     "date": "Tue, 11 Aug 2026 18:39:22 -0400"
+    },
+    {
      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
      "date": "Tue, 11 Aug 2026 17:11:09 -0400"
@@ -173,11 +178,6 @@
      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
      "date": "Tue, 11 Aug 2026 06:00:00 -0400"
-    },
-    {
-     "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
     }
    ]
   },
