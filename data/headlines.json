@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-11 07:37 UTC",
+ "updated": "2026-08-11 09:14 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+     "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 08:57:26 GMT"
+    },
+    {
+     "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 01:38:14 GMT"
+     "date": "Tue, 11 Aug 2026 08:00:06 GMT"
     },
     {
      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
@@ -38,11 +43,6 @@
      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 23:32:10 GMT"
-    },
-    {
-     "title": "England set to eliminate hepatitis C",
-     "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 23:40:58 GMT"
     }
    ]
   },
@@ -50,14 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Trump Media reports $238m loss as crypto falls",
+     "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
      "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 06:55:32 GMT"
+     "date": "Tue, 11 Aug 2026 08:08:30 GMT"
     },
     {
      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 22:31:42 GMT"
+     "date": "Tue, 11 Aug 2026 08:44:52 GMT"
     },
     {
      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
@@ -80,14 +80,14 @@
      "date": "Mon, 10 Aug 2026 23:32:10 GMT"
     },
     {
+     "title": "Mars Bar from 1991 found - and it's 56% bigger than today's",
+     "link": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 09:08:46 GMT"
+    },
+    {
      "title": "Consortium advances talks for stake in Liverpool",
      "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 10 Aug 2026 13:16:51 GMT"
-    },
-    {
-     "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-     "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 10 Aug 2026 05:00:32 GMT"
     }
    ]
   },
@@ -140,6 +140,31 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The school year begins in LA with one big change: limited screen time",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+     "date": "Tue, 11 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
+     "date": "Tue, 11 Aug 2026 04:32:41 -0400"
+    },
+    {
      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
      "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
      "date": "Tue, 11 Aug 2026 02:03:49 -0400"
@@ -153,31 +178,6 @@
      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
      "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
      "date": "Mon, 10 Aug 2026 23:39:40 -0400"
-    },
-    {
-     "title": "Alabama heads into a second primary election after redistricting",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
-     "date": "Mon, 10 Aug 2026 18:43:05 -0400"
-    },
-    {
-     "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
-     "date": "Mon, 10 Aug 2026 16:49:00 -0400"
-    },
-    {
-     "title": "Trump and RFK Jr. try again to upend vaccines for kids",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
-     "date": "Mon, 10 Aug 2026 16:25:02 -0400"
-    },
-    {
-     "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-     "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-     "date": "Mon, 10 Aug 2026 13:38:12 -0400"
-    },
-    {
-     "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-     "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-     "date": "Mon, 10 Aug 2026 12:08:06 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
-     "link": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 07:13:29 +0000"
+     "title": "Rescue efforts intensify as quake devastates western Colombia towns",
+     "link": "https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:47:34 +0000"
     },
     {
-     "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
-     "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 07:07:51 +0000"
+     "title": "Swiatek to face Svitolina in Canadian Open semifinal",
+     "link": "https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:47:07 +0000"
     },
     {
-     "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-     "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 06:05:07 +0000"
+     "title": "What to know about the US primaries in Connecticut, Vermont, and Alabama",
+     "link": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:39:14 +0000"
     },
     {
-     "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 05:12:05 +0000"
+     "title": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
+     "link": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:34:26 +0000"
     },
     {
-     "title": "Family watches helplessly as Colombia quake destroys home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 05:02:58 +0000"
+     "title": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial",
+     "link": "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:27:57 +0000"
     },
     {
-     "title": "Trump’s media company reports $238m loss",
-     "link": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 04:52:07 +0000"
+     "title": "Trump sends conflicting signals on Iran strategy",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:26:28 +0000"
     },
     {
-     "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
-     "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 04:37:27 +0000"
+     "title": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+     "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:18:08 +0000"
     },
     {
-     "title": "China’s Long March 7A rocket explodes after lift-off",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 04:34:50 +0000"
+     "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+     "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 08:13:31 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "When the best decision is no decision: the rise of randomization in grant funding",
+     "link": "https://www.nature.com/articles/d41586-026-02082-7",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+     "link": "https://www.nature.com/articles/s41586-026-10984-9",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+     "link": "https://www.nature.com/articles/s41586-026-10973-y",
+     "date": ""
+    },
+    {
+     "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+     "link": "https://www.nature.com/articles/s41586-026-10989-4",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+     "link": "https://www.nature.com/articles/s41586-026-10978-7",
+     "date": ""
+    },
+    {
+     "title": "How and when to use artificial intelligence in your science job application",
+     "link": "https://www.nature.com/articles/d41586-026-02435-2",
+     "date": ""
+    },
+    {
+     "title": "Where are you ticklish? Researchers map the sensation across cultures",
+     "link": "https://www.nature.com/articles/d41586-026-02493-6",
+     "date": ""
+    },
+    {
+     "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+     "link": "https://www.nature.com/articles/d41586-026-02447-y",
+     "date": ""
     }
    ]
   }
