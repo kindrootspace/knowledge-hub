@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 00:00 UTC",
+ "updated": "2026-08-12 02:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -140,9 +140,14 @@
    "name": "NPR",
    "items": [
     {
-     "title": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+     "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
      "date": "Tue, 11 Aug 2026 18:39:22 -0400"
+    },
+    {
+     "title": "The death toll climbs from Monday's 7.4 magnitude earthquake in Colombia",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
+     "date": "Tue, 11 Aug 2026 17:12:05 -0400"
     },
     {
      "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
@@ -173,11 +178,6 @@
      "title": "Former Syrian President Assad sentenced to death in absentia",
      "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
      "date": "Tue, 11 Aug 2026 06:07:14 -0400"
-    },
-    {
-     "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
-     "date": "Tue, 11 Aug 2026 06:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
+     "link": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 02:29:30 +0000"
+    },
+    {
+     "title": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 02:21:20 +0000"
+    },
+    {
+     "title": "On the ground in Cali, Colombia’s worst-hit city after the quake",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 01:40:33 +0000"
+    },
+    {
+     "title": "Zambia to vote as economic hardship tests government reforms",
+     "link": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 01:18:29 +0000"
+    },
+    {
+     "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+     "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 00:39:53 +0000"
+    },
+    {
+     "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
+     "date": "Tue, 11 Aug 2026 23:57:55 +0000"
+    },
+    {
      "title": "Colombia scrambles to find survivors after deadly earthquake",
      "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
      "date": "Tue, 11 Aug 2026 23:39:05 +0000"
-    },
-    {
-     "title": "Father and sons forced to manually clear rubble in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 21:24:34 +0000"
-    },
-    {
-     "title": "Relatives mourn victims of Pakistan avalanche",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:56:30 +0000"
-    },
-    {
-     "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:35:50 +0000"
-    },
-    {
-     "title": "In Gaza’s tents, widows face war’s harshest realities alone",
-     "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:30:11 +0000"
-    },
-    {
-     "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
-     "link": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:29:34 +0000"
-    },
-    {
-     "title": "Israel demolishes home of Palestinian killed during settler attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:18:51 +0000"
-    },
-    {
-     "title": "DR Congo Ebola death toll surpasses 2,000",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/dr-congo-ebola-death-toll-surpasses-2000?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 20:15:26 +0000"
     }
    ]
   },
