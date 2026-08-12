@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 10:20 UTC",
+ "updated": "2026-08-12 11:59 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,9 @@
      "date": "Tue, 11 Aug 2026 16:29:28 GMT"
     },
     {
-     "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
-     "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 21:00:46 GMT"
-    },
-    {
-     "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
-     "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 08:08:43 GMT"
+     "title": "Burnham says disposable BBQ ban under consideration",
+     "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 11:48:58 GMT"
     },
     {
      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
@@ -40,9 +35,14 @@
      "date": "Wed, 12 Aug 2026 07:30:16 GMT"
     },
     {
-     "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-     "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 04:29:02 GMT"
+     "title": "X-Men star Nicholas Hoult joins cast of Harry Potter TV show",
+     "link": "https://www.bbc.co.uk/news/articles/cy742kl562ko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 10:03:56 GMT"
+    },
+    {
+     "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
+     "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 10:53:54 GMT"
     }
    ]
   },
@@ -55,9 +55,9 @@
      "date": "Wed, 12 Aug 2026 04:13:45 GMT"
     },
     {
-     "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-     "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 07:30:16 GMT"
+     "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
+     "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 10:53:54 GMT"
     },
     {
      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
@@ -70,9 +70,9 @@
      "date": "Wed, 12 Aug 2026 08:50:52 GMT"
     },
     {
-     "title": "Tributes to co-founder of John Pye auction house",
-     "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 20:22:40 GMT"
+     "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+     "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 07:30:16 GMT"
     },
     {
      "title": "Tokenomics: Why making AI pay is tricky",
@@ -85,15 +85,25 @@
      "date": "Tue, 11 Aug 2026 08:48:58 GMT"
     },
     {
-     "title": "How affordable are Edinburgh's festivals?",
-     "link": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 05:04:59 GMT"
+     "title": "Tributes to co-founder of John Pye auction house",
+     "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 20:22:40 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+     "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+     "date": "Wed, 12 Aug 2026 11:00:27 GMT"
+    },
+    {
+     "title": "At least 15 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+     "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+     "date": "Wed, 12 Aug 2026 10:34:40 GMT"
+    },
     {
      "title": "Spain to introduce temporary border checks on visitors from Italy",
      "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
@@ -108,16 +118,6 @@
      "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
      "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
      "date": "Thu, 06 Aug 2026 16:18:46 GMT"
-    },
-    {
-     "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-     "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-     "date": "Thu, 06 Aug 2026 15:41:29 GMT"
-    },
-    {
-     "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-     "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-     "date": "Thu, 06 Aug 2026 14:30:32 GMT"
     },
     {
      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+     "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+     "date": "Wed, 12 Aug 2026 07:25:11 -0400"
+    },
+    {
+     "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+     "date": "Wed, 12 Aug 2026 06:47:30 -0400"
+    },
+    {
      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
      "date": "Wed, 12 Aug 2026 05:02:00 -0400"
@@ -150,13 +160,13 @@
      "date": "Wed, 12 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
+     "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
      "date": "Wed, 12 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+     "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
      "date": "Wed, 12 Aug 2026 05:00:00 -0400"
     },
     {
@@ -168,22 +178,37 @@
      "title": "AI chatbots are offering financial advice. Should you trust them?",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
      "date": "Wed, 12 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief",
-     "date": "Wed, 12 Aug 2026 04:47:50 -0400"
-    },
-    {
-     "title": "Four takeaways from Tuesday's primaries in six states",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5928112/four-takeaways-primaries-six-states",
-     "date": "Wed, 12 Aug 2026 04:35:50 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Putin warns of tit-for-tat seizures of European vessels",
+     "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 11:11:26 +0000"
+    },
+    {
+     "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
+     "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 10:40:57 +0000"
+    },
+    {
+     "title": "Woman rescued after 36 hours under rubble in Colombia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 10:37:42 +0000"
+    },
+    {
+     "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+     "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 10:27:22 +0000"
+    },
+    {
+     "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
+     "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 10:02:16 +0000"
+    },
     {
      "title": "More than 100 passengers rescued after Indonesia ferry fire",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
@@ -198,76 +223,6 @@
      "title": "Zambia’s president rallies for second term ahead of election",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 09:16:22 +0000"
-    },
-    {
-     "title": "A hydrogen-powered vehicle sets new land speed record",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 09:10:40 +0000"
-    },
-    {
-     "title": "Rybakina defeats Osaka, advances to Canadian Open semifinals to play Gauff",
-     "link": "https://www.aljazeera.com/sports/2026/8/12/rybakina-defeats-osaka-advances-to-canadian-open-semifinals-to-play-gauff?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 08:45:46 +0000"
-    },
-    {
-     "title": "Wisconsin race tight: Key takeaways from US primary election results",
-     "link": "https://www.aljazeera.com/news/2026/8/12/wisconsin-race-tight-key-takeaways-from-us-primary-election-results?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 08:45:00 +0000"
-    },
-    {
-     "title": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
-     "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 08:19:05 +0000"
-    },
-    {
-     "title": "Clacton by-election: Farage may win the town, but can he win the country?",
-     "link": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 08:14:07 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
-     "link": "https://www.nature.com/articles/d41586-026-02448-x",
-     "date": ""
-    },
-    {
-     "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
-     "link": "https://www.nature.com/articles/s41586-026-10991-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
-     "link": "https://www.nature.com/articles/s41586-026-10947-0",
-     "date": ""
-    },
-    {
-     "title": "Funders should look beyond strict age criteria",
-     "link": "https://www.nature.com/articles/d41586-026-02492-7",
-     "date": ""
-    },
-    {
-     "title": "The case for responsible scientific activism",
-     "link": "https://www.nature.com/articles/d41586-026-02464-x",
-     "date": ""
-    },
-    {
-     "title": "Shipping on rivers packs a surprisingly large climate punch",
-     "link": "https://www.nature.com/articles/d41586-026-02431-6",
-     "date": ""
-    },
-    {
-     "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
-     "link": "https://www.nature.com/articles/d41586-026-02490-9",
-     "date": ""
-    },
-    {
-     "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
-     "link": "https://www.nature.com/articles/d41586-026-02380-0",
-     "date": ""
     }
    ]
   }
