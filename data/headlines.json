@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 02:45 UTC",
+ "updated": "2026-08-12 05:03 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,7 +10,7 @@
      "date": "Tue, 11 Aug 2026 21:00:46 GMT"
     },
     {
-     "title": "More weather records as UK heat set to spike again",
+     "title": "More weather records broken as UK heat set to spike again",
      "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 23:37:43 GMT"
     },
@@ -25,14 +25,9 @@
      "date": "Tue, 11 Aug 2026 23:17:15 GMT"
     },
     {
-     "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-     "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 15:53:53 GMT"
-    },
-    {
-     "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-     "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 19:09:52 GMT"
+     "title": "Trump says he switched planes after Nato summit because of possible threat",
+     "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 03:44:55 GMT"
     },
     {
      "title": "Children as young as nine hurt in growing number of e-scooter crashes",
@@ -40,9 +35,14 @@
      "date": "Tue, 11 Aug 2026 23:31:02 GMT"
     },
     {
-     "title": "The Office actress Lucy Davis says she has 'incurable' cancer",
-     "link": "https://www.bbc.co.uk/news/articles/crk51vk37d6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 22:51:24 GMT"
+     "title": "PM admits cost of living help is not enough and hints at further support",
+     "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 04:13:45 GMT"
+    },
+    {
+     "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+     "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 19:09:52 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan",
+     "date": "Tue, 11 Aug 2026 23:34:54 -0400"
+    },
+    {
+     "title": "Trump-backed Mike Lindell loses primary for Minnesota governor to Lisa Demuth",
+     "link": "https://www.npr.org/2026/08/11/nx-s1-5928394/2026-minnesota-governor-primary-election-lisa-demuth-mike-lindell",
+     "date": "Tue, 11 Aug 2026 23:28:31 -0400"
+    },
+    {
      "title": "In South Carolina, Sen. Darline Graham advances to a GOP special primary runoff for U.S. Senate",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
      "date": "Tue, 11 Aug 2026 18:39:22 -0400"
@@ -168,22 +178,42 @@
      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
      "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
      "date": "Tue, 11 Aug 2026 07:11:14 -0400"
-    },
-    {
-     "title": "The secret economics inside the new Planet Money board game",
-     "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-     "date": "Tue, 11 Aug 2026 06:30:00 -0400"
-    },
-    {
-     "title": "Former Syrian President Assad sentenced to death in absentia",
-     "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-     "date": "Tue, 11 Aug 2026 06:07:14 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Trump says secret plane switch ‘up to the Secret Service’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 04:15:51 +0000"
+    },
+    {
+     "title": "Drone strikes power station near Libya’s largest oil refinery",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 04:13:34 +0000"
+    },
+    {
+     "title": "Russia frees ex-US marine Gilman jailed since 2022",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 03:57:01 +0000"
+    },
+    {
+     "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+     "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 03:41:42 +0000"
+    },
+    {
+     "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+     "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 03:09:06 +0000"
+    },
+    {
+     "title": "Dozens dead and missing after ferry capsizes in Zimbabwe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 02:47:36 +0000"
+    },
     {
      "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
      "link": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 02:21:20 +0000"
-    },
-    {
-     "title": "On the ground in Cali, Colombia’s worst-hit city after the quake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 01:40:33 +0000"
-    },
-    {
-     "title": "Zambia to vote as economic hardship tests government reforms",
-     "link": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 01:18:29 +0000"
-    },
-    {
-     "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
-     "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 00:39:53 +0000"
-    },
-    {
-     "title": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 23:57:55 +0000"
-    },
-    {
-     "title": "Colombia scrambles to find survivors after deadly earthquake",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
-     "date": "Tue, 11 Aug 2026 23:39:05 +0000"
     }
    ]
   },
