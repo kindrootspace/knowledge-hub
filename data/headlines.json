@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-12 13:47 UTC",
+ "updated": "2026-08-12 15:14 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Double killer and rapist given whole life sentence",
+     "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 14:25:00 GMT"
+    },
     {
      "title": "Three ways to watch the solar eclipse safely without glasses",
      "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
@@ -20,29 +25,24 @@
      "date": "Wed, 12 Aug 2026 12:32:24 GMT"
     },
     {
-     "title": "Cambridge review into Jason Arday post will be independent, university says",
-     "link": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 12:14:24 GMT"
+     "title": "Messi unsure he will play 'much longer' after father's death",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 13:48:23 GMT"
     },
     {
-     "title": "Burnham warned of Iran war impact on UK growth next year",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 13:33:58 GMT"
-    },
-    {
-     "title": "Israeli settlers besieging Palestinian families in West Bank village",
-     "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 12:16:22 GMT"
-    },
-    {
-     "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+     "title": "River Danube's low water levels reveal remains of WWII soldiers and motorcycle",
      "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 11:28:05 GMT"
     },
     {
-     "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-     "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 12:09:48 GMT"
+     "title": "Burnham warned Iran war could hit UK growth next year",
+     "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 14:17:26 GMT"
+    },
+    {
+     "title": "Members of cabinet remained on decoy plane, after Trump's quiet exit",
+     "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 14:44:48 GMT"
     }
    ]
   },
@@ -50,14 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Burnham warned of Iran war impact on UK growth next year",
+     "title": "Burnham warned Iran war could hit UK growth next year",
      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 13:33:58 GMT"
+     "date": "Wed, 12 Aug 2026 14:17:26 GMT"
     },
     {
-     "title": "US inflation eases as food costs cool",
+     "title": "US inflation eases as food and fuel costs cool",
      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 13:40:51 GMT"
+     "date": "Wed, 12 Aug 2026 14:09:48 GMT"
     },
     {
      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
@@ -70,14 +70,14 @@
      "date": "Wed, 12 Aug 2026 12:46:31 GMT"
     },
     {
-     "title": "Tokenomics: Why making AI pay is tricky",
-     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 23:03:52 GMT"
-    },
-    {
      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
      "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 07:30:16 GMT"
+    },
+    {
+     "title": "Tokenomics: Why making AI pay is tricky",
+     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 23:03:52 GMT"
     },
     {
      "title": "PM admits cost of living help is not enough and hints at further support",
@@ -100,7 +100,7 @@
      "date": "Wed, 12 Aug 2026 12:21:08 GMT"
     },
     {
-     "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+     "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
      "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
      "date": "Wed, 12 Aug 2026 11:00:27 GMT"
     },
@@ -120,6 +120,11 @@
      "date": "Thu, 06 Aug 2026 16:18:46 GMT"
     },
     {
+     "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
+     "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+     "date": "Wed, 12 Aug 2026 14:40:36 GMT"
+    },
+    {
      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
      "link": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
      "date": "Tue, 11 Aug 2026 14:03:28 GMT"
@@ -128,17 +133,17 @@
      "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
      "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
      "date": "Tue, 11 Aug 2026 10:14:01 GMT"
-    },
-    {
-     "title": "Colombia quake leaves more than 110 dead – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-     "date": "Tue, 11 Aug 2026 05:32:08 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Inflation eases in July as gasoline and grocery prices fall",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+     "date": "Wed, 12 Aug 2026 10:00:29 -0400"
+    },
     {
      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
      "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
@@ -173,17 +178,37 @@
      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
      "date": "Wed, 12 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-     "date": "Wed, 12 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+     "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 14:26:45 +0000"
+    },
+    {
+     "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
+     "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 14:23:34 +0000"
+    },
+    {
+     "title": "Iran is not anti-imperialist. It is a state calculating survival",
+     "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 14:23:13 +0000"
+    },
+    {
+     "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death",
+     "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 13:59:34 +0000"
+    },
+    {
+     "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
+     "link": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 13:58:02 +0000"
+    },
     {
      "title": "Sudanese army intercepts RSF drones over el-Obeid",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Egyptian student livestreams his kidnapping",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 12:36:01 +0000"
-    },
-    {
-     "title": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
-     "link": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 12:34:50 +0000"
-    },
-    {
-     "title": "Rare solar eclipse to sweep across Europe and the Arctic",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/rare-solar-eclipse-to-sweep-across-europe-and-the-arctic?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 12:33:09 +0000"
-    },
-    {
-     "title": "Putin warns of tit-for-tat seizures of European vessels",
-     "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 11:11:26 +0000"
-    },
-    {
-     "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
-     "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 10:40:57 +0000"
-    },
-    {
-     "title": "Woman rescued after 36 hours under rubble in Colombia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 10:37:42 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
-     "title": "A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know",
-     "link": "https://www.nature.com/articles/d41586-026-02448-x",
+     "title": "Model-free multiparametric analysis of SHG images reveals collagen signatures in breast cancer",
+     "link": "https://www.nature.com/articles/s41598-026-62801-y",
      "date": ""
     },
     {
-     "title": "System lag",
-     "link": "https://www.nature.com/articles/d41586-026-02408-5",
+     "title": "Development of samarium-153 oxide loaded polystyrene radiotracer particles for gamma scintigraphy of whole gastrointestinal transit study",
+     "link": "https://www.nature.com/articles/s41598-026-66901-7",
      "date": ""
     },
     {
-     "title": "A particle made of force: physicists say they’ve found mysterious ‘glueball’",
-     "link": "https://www.nature.com/articles/d41586-026-02498-1",
+     "title": "AlzheiNN: a convolutional neural network-based model for Alzheimer’s disease classification",
+     "link": "https://www.nature.com/articles/s41598-026-64954-2",
      "date": ""
     },
     {
-     "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
-     "link": "https://www.nature.com/articles/s41586-026-10991-w",
+     "title": "Service trade liberalization and manufacturing value chain upgrading: a quasi-natural experiment from China",
+     "link": "https://www.nature.com/articles/s41599-026-08691-x",
      "date": ""
     },
     {
-     "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
-     "link": "https://www.nature.com/articles/s41586-026-10947-0",
+     "title": "The impact of CEOs’ multidisciplinary backgrounds on corporate financing and investment maturity mismatch",
+     "link": "https://www.nature.com/articles/s41599-026-08677-9",
      "date": ""
     },
     {
-     "title": "Funders should look beyond strict age criteria",
-     "link": "https://www.nature.com/articles/d41586-026-02492-7",
+     "title": "Experiences of kinesiophobia in patients with chronic obstructive pulmonary disease: a qualitative phenomenological study",
+     "link": "https://www.nature.com/articles/s41598-026-66659-y",
      "date": ""
     },
     {
-     "title": "The case for responsible scientific activism",
-     "link": "https://www.nature.com/articles/d41586-026-02464-x",
+     "title": "Multi-level violence recognition via hybrid convolutional-attention and recurrent architectures",
+     "link": "https://www.nature.com/articles/s41598-026-66068-1",
      "date": ""
     },
     {
-     "title": "Shipping on rivers packs a surprisingly large climate punch",
-     "link": "https://www.nature.com/articles/d41586-026-02431-6",
+     "title": "Correction: A five-dimensional classical framework for gravitational and quantum phenomena",
+     "link": "https://www.nature.com/articles/s41598-026-63846-9",
      "date": ""
     }
    ]
