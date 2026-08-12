@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 16:11 UTC",
+ "updated": "2026-08-12 17:12 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,6 +10,11 @@
      "date": "Tue, 11 Aug 2026 16:29:28 GMT"
     },
     {
+     "title": "Ann Widdecombe's loved ones gather for her funeral",
+     "link": "https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 16:31:07 GMT"
+    },
+    {
      "title": "Double killer and rapist given whole life sentence",
      "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 14:25:00 GMT"
@@ -17,7 +22,7 @@
     {
      "title": "Burnham considers disposable BBQ ban over wildfire risks",
      "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 13:31:51 GMT"
+     "date": "Wed, 12 Aug 2026 16:38:02 GMT"
     },
     {
      "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
@@ -25,9 +30,9 @@
      "date": "Wed, 12 Aug 2026 12:32:24 GMT"
     },
     {
-     "title": "Messi unsure he will play 'much longer' after father's death",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 13:48:23 GMT"
+     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+     "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 16:34:01 GMT"
     },
     {
      "title": "River Danube's low water levels reveal remains of WWII soldiers and motorcycle",
@@ -38,17 +43,22 @@
      "title": "PM warned of Iran war impact on UK growth next year",
      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 14:17:26 GMT"
-    },
-    {
-     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-     "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 15:57:18 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Trump sued over Truth Social's $100,000 early access service",
+     "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 16:53:35 GMT"
+    },
+    {
+     "title": "Discord ordered to suspend livestreams in Brazil",
+     "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 17:10:31 GMT"
+    },
     {
      "title": "Burnham warned Iran war could hit UK growth next year",
      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
@@ -57,12 +67,17 @@
     {
      "title": "US inflation eases as food and fuel costs cool",
      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 14:09:48 GMT"
+     "date": "Wed, 12 Aug 2026 17:03:05 GMT"
     },
     {
      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
      "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 23:00:26 GMT"
+    },
+    {
+     "title": "Tokenomics: Why making AI pay is tricky",
+     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 11 Aug 2026 23:03:52 GMT"
     },
     {
      "title": "Bakery buys comedian's former sites after closure",
@@ -73,21 +88,6 @@
      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
      "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 07:30:16 GMT"
-    },
-    {
-     "title": "Tokenomics: Why making AI pay is tricky",
-     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 23:03:52 GMT"
-    },
-    {
-     "title": "PM admits cost of living help is not enough and hints at further support",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 04:13:45 GMT"
-    },
-    {
-     "title": "Jaguar Land Rover owner Tata Group's chairman to step down",
-     "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 08:50:52 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+     "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 16:23:28 +0000"
+    },
+    {
+     "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 16:00:46 +0000"
+    },
+    {
      "title": "Europe prepares for first total solar eclipse in 27 years",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 15:40:24 +0000"
@@ -213,16 +223,6 @@
      "title": "US consumer inflation slows in July as energy prices briefly retreat",
      "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 15:08:31 +0000"
-    },
-    {
-     "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-     "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:07:41 +0000"
-    },
-    {
-     "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-     "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 14:26:45 +0000"
     }
    ]
   },
