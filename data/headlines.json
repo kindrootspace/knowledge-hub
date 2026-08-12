@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-12 22:02 UTC",
+ "updated": "2026-08-12 23:02 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: Solar eclipse seen over UK skies",
-     "link": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 21:46:21 GMT"
+     "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+     "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 21:53:45 GMT"
+    },
+    {
+     "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+     "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 22:45:52 GMT"
     },
     {
      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
@@ -35,14 +40,9 @@
      "date": "Wed, 12 Aug 2026 21:53:26 GMT"
     },
     {
-     "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
-     "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 12:32:24 GMT"
-    },
-    {
-     "title": "Eurovision Song Contest changes rules for countries at war",
-     "link": "https://www.bbc.co.uk/news/articles/cdx7pv300vwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 15:49:37 GMT"
+     "title": "GB's Hudson-Smith wins historic 400m gold on home track",
+     "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 22:41:22 GMT"
     }
    ]
   },
@@ -75,9 +75,9 @@
      "date": "Tue, 11 Aug 2026 23:00:26 GMT"
     },
     {
-     "title": "Tokenomics: Why making AI pay is tricky",
-     "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 23:03:52 GMT"
+     "title": "Why Japanese firms are being so slow to use AI",
+     "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 23:00:47 GMT"
     },
     {
      "title": "Bakery buys comedian's former sites after closure",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "ICE plans to outfit officers with electric shock gloves",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
+     "date": "Wed, 12 Aug 2026 18:13:57 -0400"
+    },
+    {
      "title": "Trump sued over service selling faster access to Truth Social posts",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
      "date": "Wed, 12 Aug 2026 16:33:10 -0400"
@@ -173,17 +178,32 @@
      "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
      "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
      "date": "Wed, 12 Aug 2026 09:00:19 -0400"
-    },
-    {
-     "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
-     "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
-     "date": "Wed, 12 Aug 2026 08:36:30 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Trump administration plans to give ICE officers electric-shock gloves",
+     "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 22:22:57 +0000"
+    },
+    {
+     "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+     "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 21:53:17 +0000"
+    },
+    {
+     "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+     "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 21:52:18 +0000"
+    },
+    {
+     "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
+     "link": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 21:50:27 +0000"
+    },
     {
      "title": "Thousands missing after Colombia quake as rescue continues",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 20:59:52 +0000"
-    },
-    {
-     "title": "Israeli air strike kills one in northern Gaza",
-     "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 20:58:42 +0000"
-    },
-    {
-     "title": "Deadly India landslide kills at least seven in Mumbai",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 20:58:24 +0000"
-    },
-    {
-     "title": "Can Syria deliver transitional justice?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 20:53:26 +0000"
-    },
-    {
-     "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 20:26:07 +0000"
     }
    ]
   },
