@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 06:42 UTC",
+ "updated": "2026-08-12 08:39 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,17 +7,12 @@
     {
      "title": "Early release scheme risks more serious crimes, probation chief warns",
      "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 05:00:23 GMT"
+     "date": "Wed, 12 Aug 2026 06:52:15 GMT"
     },
     {
      "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
      "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 21:00:46 GMT"
-    },
-    {
-     "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-     "link": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 23:17:15 GMT"
     },
     {
      "title": "Three ways to watch the solar eclipse safely without glasses",
@@ -27,10 +22,10 @@
     {
      "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
      "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 05:49:39 GMT"
+     "date": "Wed, 12 Aug 2026 08:08:43 GMT"
     },
     {
-     "title": "Military still risks failing victims, leaked report says",
+     "title": "Serious failings found in new military crimes unit, leaked report finds",
      "link": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 06:32:52 GMT"
     },
@@ -40,9 +35,14 @@
      "date": "Wed, 12 Aug 2026 03:44:55 GMT"
     },
     {
-     "title": "PM admits cost of living help is not enough and hints at further support",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 04:13:45 GMT"
+     "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+     "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 07:30:16 GMT"
+    },
+    {
+     "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+     "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 04:29:02 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
      "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 05:04:31 GMT"
+     "date": "Wed, 12 Aug 2026 07:30:16 GMT"
     },
     {
      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Four takeaways from Tuesday's primaries in six states",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5928112/four-takeaways-primaries-six-states",
+     "date": "Wed, 12 Aug 2026 04:35:50 -0400"
+    },
+    {
+     "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
+     "date": "Wed, 12 Aug 2026 04:06:55 -0400"
+    },
+    {
      "title": "Former U.S. Marine held in Russia on disputed charges has been released",
      "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
      "date": "Wed, 12 Aug 2026 01:27:13 -0400"
@@ -168,16 +178,6 @@
      "title": "The death toll climbs from Monday's 7.4 magnitude earthquake in Colombia",
      "link": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
      "date": "Tue, 11 Aug 2026 17:12:05 -0400"
-    },
-    {
-     "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
-     "date": "Tue, 11 Aug 2026 17:11:09 -0400"
-    },
-    {
-     "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
-     "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
-     "date": "Tue, 11 Aug 2026 16:23:07 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Why have several nations raised red flags over Indian farm exports?",
-     "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 05:34:14 +0000"
+     "title": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’",
+     "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 08:19:05 +0000"
     },
     {
-     "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-     "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 05:26:26 +0000"
+     "title": "Clacton by-election: Farage may win the town, but can he win the country?",
+     "link": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 08:14:07 +0000"
     },
     {
-     "title": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 05:01:43 +0000"
+     "title": "Taiwan’s Foxconn reports 35 percent rise in profit on AI demand",
+     "link": "https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 07:58:04 +0000"
     },
     {
-     "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
-     "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 04:59:19 +0000"
+     "title": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+     "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 07:49:22 +0000"
     },
     {
-     "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 04:52:26 +0000"
+     "title": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
+     "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 07:31:15 +0000"
     },
     {
-     "title": "Trump says secret plane switch ‘up to the Secret Service’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 04:15:51 +0000"
+     "title": "Israeli government accused of complicity as settlers demolish Jericho homes",
+     "link": "https://www.aljazeera.com/news/2026/8/12/israeli-government-accused-of-complicity-as-settlers-demolish-jericho-homes?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 07:28:48 +0000"
     },
     {
-     "title": "Drone strikes power station near Libya’s largest oil refinery",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 04:13:34 +0000"
+     "title": "Autism and war: Gaza families grapple with destruction and loss",
+     "link": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 07:27:42 +0000"
     },
     {
-     "title": "Russia frees ex-US marine Gilman jailed since 2022",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 03:57:01 +0000"
+     "title": "Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal",
+     "link": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 07:11:19 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+     "link": "https://www.nature.com/articles/s41586-026-10991-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+     "link": "https://www.nature.com/articles/s41586-026-10947-0",
+     "date": ""
+    },
+    {
+     "title": "Funders should look beyond strict age criteria",
+     "link": "https://www.nature.com/articles/d41586-026-02492-7",
+     "date": ""
+    },
+    {
+     "title": "The case for responsible scientific activism",
+     "link": "https://www.nature.com/articles/d41586-026-02464-x",
+     "date": ""
+    },
+    {
+     "title": "Shipping on rivers packs a surprisingly large climate punch",
+     "link": "https://www.nature.com/articles/d41586-026-02431-6",
+     "date": ""
+    },
+    {
+     "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+     "link": "https://www.nature.com/articles/d41586-026-02490-9",
+     "date": ""
+    },
+    {
+     "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
+     "link": "https://www.nature.com/articles/d41586-026-02380-0",
+     "date": ""
+    },
+    {
+     "title": "Will AI make our dreams all look the same?",
+     "link": "https://www.nature.com/articles/d41586-026-02491-8",
+     "date": ""
     }
    ]
   }
