@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 23:02 UTC",
+ "updated": "2026-08-12 23:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+     "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 23:23:14 +0000"
+    },
+    {
+     "title": "Media groups sue Trump over paid access to public social media posts",
+     "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 23:23:00 +0000"
+    },
+    {
      "title": "Trump administration plans to give ICE officers electric-shock gloves",
      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 22:22:57 +0000"
@@ -213,16 +223,6 @@
      "title": "Morocco says working to prevent potential new Ceuta crossings surge",
      "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 21:07:12 +0000"
-    },
-    {
-     "title": "11-year-old boy shot by Israeli forces in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 21:06:12 +0000"
-    },
-    {
-     "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 20:59:52 +0000"
     }
    ]
   },
