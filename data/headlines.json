@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-12 18:07 UTC",
+ "updated": "2026-08-12 19:23 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Three ways to watch the solar eclipse safely without glasses",
-     "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 16:29:28 GMT"
+     "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+     "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 17:47:01 GMT"
     },
     {
      "title": "Ann Widdecombe's loved ones gather for her funeral",
@@ -22,7 +22,7 @@
     {
      "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
      "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 17:26:08 GMT"
+     "date": "Wed, 12 Aug 2026 19:05:38 GMT"
     },
     {
      "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
@@ -30,14 +30,14 @@
      "date": "Wed, 12 Aug 2026 12:32:24 GMT"
     },
     {
-     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-     "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 16:34:01 GMT"
-    },
-    {
      "title": "River Danube's low water levels reveal remains of WWII soldiers and motorcycle",
      "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 11:28:05 GMT"
+    },
+    {
+     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+     "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 16:34:01 GMT"
     },
     {
      "title": "PM warned of Iran war impact on UK growth next year",
@@ -120,6 +120,11 @@
      "date": "Thu, 06 Aug 2026 16:18:46 GMT"
     },
     {
+     "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+     "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+     "date": "Wed, 12 Aug 2026 18:46:30 GMT"
+    },
+    {
      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
      "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
      "date": "Wed, 12 Aug 2026 14:40:36 GMT"
@@ -128,17 +133,17 @@
      "title": "Canadian airline cancels flight after child refuses to wear seatbelt",
      "link": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
      "date": "Tue, 11 Aug 2026 14:03:28 GMT"
-    },
-    {
-     "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
-     "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-     "date": "Tue, 11 Aug 2026 10:14:01 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Has the U.S. lost its dominance to China?",
+     "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+     "date": "Wed, 12 Aug 2026 14:24:48 -0400"
+    },
     {
      "title": "Inflation eases in July as gasoline and grocery prices fall",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
@@ -173,17 +178,42 @@
      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
      "date": "Wed, 12 Aug 2026 05:02:00 -0400"
-    },
-    {
-     "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
-     "date": "Wed, 12 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
+     "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 19:11:03 +0000"
+    },
+    {
+     "title": "Thousands flee drought in Somalia amid sharp aid decline",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 19:06:23 +0000"
+    },
+    {
+     "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+     "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 18:23:59 +0000"
+    },
+    {
+     "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+     "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 18:23:25 +0000"
+    },
+    {
+     "title": "Lebanese families demand release of detainees held by Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 18:15:03 +0000"
+    },
+    {
+     "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 18:13:00 +0000"
+    },
     {
      "title": "White House construction project to cost almost $1bn",
      "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 16:58:16 +0000"
-    },
-    {
-     "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
-     "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 16:23:28 +0000"
-    },
-    {
-     "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 16:00:46 +0000"
-    },
-    {
-     "title": "Europe prepares for first total solar eclipse in 27 years",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:40:24 +0000"
-    },
-    {
-     "title": "Colombia declares three days of mourning after deadly earthquake",
-     "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:39:37 +0000"
-    },
-    {
-     "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:36:33 +0000"
-    },
-    {
-     "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
-     "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:30:18 +0000"
     }
    ]
   },
@@ -245,6 +245,16 @@
      "date": ""
     },
     {
+     "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+     "link": "https://www.nature.com/articles/d41586-026-02463-y",
+     "date": ""
+    },
+    {
+     "title": "Rattlesnakes’ own anti-venom could protect humans too",
+     "link": "https://www.nature.com/articles/d41586-026-02461-0",
+     "date": ""
+    },
+    {
      "title": "The probiotic bacteria engineered to treat diabetes",
      "link": "https://www.nature.com/articles/d41586-026-02521-5",
      "date": ""
@@ -257,16 +267,6 @@
     {
      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
      "link": "https://www.nature.com/articles/s41586-026-10788-x",
-     "date": ""
-    },
-    {
-     "title": "Agentic profiles for effective AI governance",
-     "link": "https://www.nature.com/articles/s41586-026-10805-z",
-     "date": ""
-    },
-    {
-     "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
-     "link": "https://www.nature.com/articles/s41586-026-10909-6",
      "date": ""
     }
    ]
