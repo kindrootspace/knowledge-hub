@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 17:12 UTC",
+ "updated": "2026-08-12 18:07 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Wed, 12 Aug 2026 14:25:00 GMT"
     },
     {
-     "title": "Burnham considers disposable BBQ ban over wildfire risks",
+     "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
      "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 16:38:02 GMT"
+     "date": "Wed, 12 Aug 2026 17:26:08 GMT"
     },
     {
      "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
@@ -52,7 +52,7 @@
     {
      "title": "Trump sued over Truth Social's $100,000 early access service",
      "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 16:53:35 GMT"
+     "date": "Wed, 12 Aug 2026 17:48:56 GMT"
     },
     {
      "title": "Discord ordered to suspend livestreams in Brazil",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "White House construction project to cost almost $1bn",
+     "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 17:23:45 +0000"
+    },
+    {
+     "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 16:58:16 +0000"
+    },
+    {
      "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
      "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 16:23:28 +0000"
@@ -213,16 +223,6 @@
      "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
      "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 15:30:18 +0000"
-    },
-    {
-     "title": "Iran remains defiant as it vows to fight US until demands met",
-     "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:29:20 +0000"
-    },
-    {
-     "title": "US consumer inflation slows in July as energy prices briefly retreat",
-     "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 15:08:31 +0000"
     }
    ]
   },
