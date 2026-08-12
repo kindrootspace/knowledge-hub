@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-12 15:14 UTC",
+ "updated": "2026-08-12 16:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Double killer and rapist given whole life sentence",
-     "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 14:25:00 GMT"
-    },
-    {
      "title": "Three ways to watch the solar eclipse safely without glasses",
      "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 11 Aug 2026 16:29:28 GMT"
+    },
+    {
+     "title": "Double killer and rapist given whole life sentence",
+     "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 14:25:00 GMT"
     },
     {
      "title": "Burnham considers disposable BBQ ban over wildfire risks",
@@ -35,14 +35,14 @@
      "date": "Wed, 12 Aug 2026 11:28:05 GMT"
     },
     {
-     "title": "Burnham warned Iran war could hit UK growth next year",
+     "title": "PM warned of Iran war impact on UK growth next year",
      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 14:17:26 GMT"
     },
     {
-     "title": "Members of cabinet remained on decoy plane, after Trump's quiet exit",
+     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 14:44:48 GMT"
+     "date": "Wed, 12 Aug 2026 15:57:18 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Europe prepares for first total solar eclipse in 27 years",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:40:24 +0000"
+    },
+    {
+     "title": "Colombia declares three days of mourning after deadly earthquake",
+     "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:39:37 +0000"
+    },
+    {
+     "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:36:33 +0000"
+    },
+    {
+     "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
+     "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:30:18 +0000"
+    },
+    {
+     "title": "Iran remains defiant as it vows to fight US until demands met",
+     "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:29:20 +0000"
+    },
+    {
+     "title": "US consumer inflation slows in July as energy prices briefly retreat",
+     "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:08:31 +0000"
+    },
+    {
+     "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
+     "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
+     "date": "Wed, 12 Aug 2026 15:07:41 +0000"
+    },
+    {
      "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
      "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 14:26:45 +0000"
-    },
-    {
-     "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
-     "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 14:23:34 +0000"
-    },
-    {
-     "title": "Iran is not anti-imperialist. It is a state calculating survival",
-     "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 14:23:13 +0000"
-    },
-    {
-     "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death",
-     "link": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 13:59:34 +0000"
-    },
-    {
-     "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
-     "link": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 13:58:02 +0000"
-    },
-    {
-     "title": "Sudanese army intercepts RSF drones over el-Obeid",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 13:29:29 +0000"
-    },
-    {
-     "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-     "link": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 13:10:14 +0000"
-    },
-    {
-     "title": "Egyptian student livestreams his kidnapping",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 12:36:01 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
-     "title": "Model-free multiparametric analysis of SHG images reveals collagen signatures in breast cancer",
-     "link": "https://www.nature.com/articles/s41598-026-62801-y",
+     "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+     "link": "https://www.nature.com/articles/s41586-026-10994-7",
      "date": ""
     },
     {
-     "title": "Development of samarium-153 oxide loaded polystyrene radiotracer particles for gamma scintigraphy of whole gastrointestinal transit study",
-     "link": "https://www.nature.com/articles/s41598-026-66901-7",
+     "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+     "link": "https://www.nature.com/articles/s41586-026-10773-4",
      "date": ""
     },
     {
-     "title": "AlzheiNN: a convolutional neural network-based model for Alzheimer’s disease classification",
-     "link": "https://www.nature.com/articles/s41598-026-64954-2",
+     "title": "Pre-clinical data interpretation requires clinical context",
+     "link": "https://www.nature.com/articles/s41586-026-10774-3",
      "date": ""
     },
     {
-     "title": "Service trade liberalization and manufacturing value chain upgrading: a quasi-natural experiment from China",
-     "link": "https://www.nature.com/articles/s41599-026-08691-x",
+     "title": "The probiotic bacteria engineered to treat diabetes",
+     "link": "https://www.nature.com/articles/d41586-026-02521-5",
      "date": ""
     },
     {
-     "title": "The impact of CEOs’ multidisciplinary backgrounds on corporate financing and investment maturity mismatch",
-     "link": "https://www.nature.com/articles/s41599-026-08677-9",
+     "title": "Dataset artefacts can partially drive the measured decline in disruption",
+     "link": "https://www.nature.com/articles/s41586-026-10787-y",
      "date": ""
     },
     {
-     "title": "Experiences of kinesiophobia in patients with chronic obstructive pulmonary disease: a qualitative phenomenological study",
-     "link": "https://www.nature.com/articles/s41598-026-66659-y",
+     "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+     "link": "https://www.nature.com/articles/s41586-026-10788-x",
      "date": ""
     },
     {
-     "title": "Multi-level violence recognition via hybrid convolutional-attention and recurrent architectures",
-     "link": "https://www.nature.com/articles/s41598-026-66068-1",
+     "title": "Agentic profiles for effective AI governance",
+     "link": "https://www.nature.com/articles/s41586-026-10805-z",
      "date": ""
     },
     {
-     "title": "Correction: A five-dimensional classical framework for gravitational and quantum phenomena",
-     "link": "https://www.nature.com/articles/s41598-026-63846-9",
+     "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
+     "link": "https://www.nature.com/articles/s41586-026-10909-6",
      "date": ""
     }
    ]
