@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-13 02:47 UTC",
+ "updated": "2026-08-13 05:05 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Results day dawns for A-level, T-level and BTec students",
+     "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 19:26:55 GMT"
+    },
     {
      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
      "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
@@ -15,14 +20,9 @@
      "date": "Thu, 13 Aug 2026 02:31:39 GMT"
     },
     {
-     "title": "Students wait for A-level, T-level and BTec results",
-     "link": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 19:26:55 GMT"
-    },
-    {
-     "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-     "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 17:47:01 GMT"
+     "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 04:55:58 GMT"
     },
     {
      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
@@ -30,19 +30,19 @@
      "date": "Thu, 13 Aug 2026 01:19:23 GMT"
     },
     {
+     "title": "Leading doctor rebukes NHS chiefs over transplants",
+     "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 01:03:15 GMT"
+    },
+    {
      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 21:53:26 GMT"
     },
     {
-     "title": "GB's Hudson-Smith wins historic 400m gold on home track",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 22:41:22 GMT"
-    },
-    {
-     "title": "Leading doctor rebukes NHS chiefs over transplants",
-     "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 01:03:15 GMT"
+     "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+     "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 03:28:56 GMT"
     }
    ]
   },
@@ -65,6 +65,11 @@
      "date": "Wed, 12 Aug 2026 14:17:26 GMT"
     },
     {
+     "title": "Twitch users can now block Amazon from using their content to train AI",
+     "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 02:46:04 GMT"
+    },
+    {
      "title": "US inflation eases as food and fuel costs cool",
      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 17:03:05 GMT"
@@ -80,11 +85,6 @@
      "date": "Wed, 12 Aug 2026 23:00:47 GMT"
     },
     {
-     "title": "Bakery buys comedian's former sites after closure",
-     "link": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 12:46:31 GMT"
-    },
-    {
      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
      "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 07:30:16 GMT"
@@ -94,6 +94,11 @@
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+     "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+     "date": "Thu, 13 Aug 2026 04:00:49 GMT"
+    },
     {
      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
      "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
@@ -113,11 +118,6 @@
      "title": "Judge approves Trump effort to end South Sudan TPS protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
      "date": "Fri, 07 Aug 2026 18:34:34 GMT"
-    },
-    {
-     "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-     "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-     "date": "Thu, 06 Aug 2026 16:18:46 GMT"
     },
     {
      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Three Palestinian families besieged in their homes by Israeli settlers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 04:34:46 +0000"
+    },
+    {
+     "title": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
+     "link": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 04:26:46 +0000"
+    },
+    {
+     "title": "Oman says oil spill from stricken tanker has reached its coast",
+     "link": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 04:26:11 +0000"
+    },
+    {
+     "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+     "link": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 03:54:09 +0000"
+    },
+    {
      "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 02:42:24 +0000"
@@ -203,26 +223,6 @@
      "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 00:05:28 +0000"
-    },
-    {
-     "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
-     "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 23:23:14 +0000"
-    },
-    {
-     "title": "Media groups sue Trump over paid access to public social media posts",
-     "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 23:23:00 +0000"
-    },
-    {
-     "title": "Trump administration plans to give ICE officers electric-shock gloves",
-     "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 22:22:57 +0000"
     }
    ]
   },
