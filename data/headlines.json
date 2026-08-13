@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 15:15 UTC",
+ "updated": "2026-08-13 16:11 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,12 +22,12 @@
     {
      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 14:58:09 GMT"
+     "date": "Thu, 13 Aug 2026 15:40:31 GMT"
     },
     {
      "title": "Honeytrap thieves jailed for killing men they had drugged",
      "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 15:08:28 GMT"
+     "date": "Thu, 13 Aug 2026 16:00:13 GMT"
     },
     {
      "title": "Busiest ever period for England's A&Es as extreme heat hits",
@@ -35,14 +35,14 @@
      "date": "Thu, 13 Aug 2026 11:56:32 GMT"
     },
     {
-     "title": "Harvey Nichols bought by owner of Sports Direct",
-     "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 14:27:43 GMT"
-    },
-    {
      "title": "UK defends seizing shadow fleet tanker after Putin threat",
      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 15:05:12 GMT"
+    },
+    {
+     "title": "Voting under way in Clacton by-election",
+     "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 12:07:20 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+     "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+     "date": "Thu, 13 Aug 2026 15:17:13 GMT"
+    },
+    {
      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
      "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
      "date": "Thu, 13 Aug 2026 14:21:52 GMT"
@@ -113,11 +118,6 @@
      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
      "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
      "date": "Wed, 12 Aug 2026 11:00:27 GMT"
-    },
-    {
-     "title": "Spain to introduce temporary border checks on visitors from Italy",
-     "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-     "date": "Fri, 07 Aug 2026 21:44:38 GMT"
     },
     {
      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+     "date": "Thu, 13 Aug 2026 11:18:27 -0400"
+    },
     {
      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
      "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
@@ -173,17 +178,27 @@
      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
      "date": "Thu, 13 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-     "date": "Thu, 13 Aug 2026 04:44:44 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Zambian president Hichilema votes as he seeks second term",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 15:51:52 +0000"
+    },
+    {
+     "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+     "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 15:27:52 +0000"
+    },
+    {
+     "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
+     "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 15:07:42 +0000"
+    },
     {
      "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
      "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
@@ -208,27 +223,17 @@
      "title": "Ebola outbreak caused by new ‘animal transmission’: What that means",
      "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 14:16:44 +0000"
-    },
-    {
-     "title": "Report from scene of Palestinian homes besieged by settlers",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/report-from-scene-of-palestinian-homes-besieged-by-settlers?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:08:14 +0000"
-    },
-    {
-     "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
-     "link": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:02:14 +0000"
-    },
-    {
-     "title": "Spanish Super Cup will be held in Turkiye in 2027",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 13:06:56 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
     {
      "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
      "link": "https://www.nature.com/articles/s41586-026-10960-3",
@@ -240,7 +245,7 @@
      "date": ""
     },
     {
-     "title": "Can Anthropic's invsibile watermarks curb ‘AI slop’? Researchers remain sceptical",
+     "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
      "link": "https://www.nature.com/articles/d41586-026-02503-7",
      "date": ""
     },
@@ -255,18 +260,13 @@
      "date": ""
     },
     {
+     "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+     "link": "https://www.nature.com/articles/d41586-026-02502-8",
+     "date": ""
+    },
+    {
      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
      "link": "https://www.nature.com/articles/s41586-026-10994-7",
-     "date": ""
-    },
-    {
-     "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-     "link": "https://www.nature.com/articles/s41586-026-10773-4",
-     "date": ""
-    },
-    {
-     "title": "Pre-clinical data interpretation requires clinical context",
-     "link": "https://www.nature.com/articles/s41586-026-10774-3",
      "date": ""
     }
    ]
