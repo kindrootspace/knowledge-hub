@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-13 08:43 UTC",
+ "updated": "2026-08-13 10:28 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
+     "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 10:19:08 GMT"
+    },
     {
      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
      "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
@@ -15,34 +20,29 @@
      "date": "Wed, 12 Aug 2026 22:45:52 GMT"
     },
     {
-     "title": "UK economy grows between April and June but experts warn of challenges in coming months",
-     "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 08:21:42 GMT"
+     "title": "UK defends seizing shadow fleet tanker after Putin threat",
+     "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 09:52:30 GMT"
     },
     {
-     "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 04:55:58 GMT"
-    },
-    {
-     "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+     "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 01:19:23 GMT"
     },
     {
-     "title": "Polls open in Clacton by-election",
-     "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 06:28:40 GMT"
+     "title": "UK economy grows but experts warn of challenging months ahead",
+     "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 10:17:56 GMT"
     },
     {
-     "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 22:58:45 GMT"
+     "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 08:12:53 GMT"
     },
     {
-     "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-     "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 21:53:26 GMT"
+     "title": "Leading doctor rebukes NHS chiefs over transplant failings",
+     "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 01:03:15 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "UK economy grows between April and June but experts warn of challenges in coming months",
+     "title": "UK economy grows but experts warn of challenging months ahead",
      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 08:21:42 GMT"
+     "date": "Thu, 13 Aug 2026 10:17:56 GMT"
     },
     {
      "title": "Trump sued over Truth Social's $100,000 early access service",
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+     "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+     "date": "Thu, 13 Aug 2026 05:58:40 -0400"
+    },
+    {
+     "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+     "date": "Thu, 13 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+     "date": "Thu, 13 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
+     "date": "Thu, 13 Aug 2026 04:44:44 -0400"
+    },
+    {
      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
      "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
      "date": "Thu, 13 Aug 2026 02:21:25 -0400"
@@ -158,26 +178,6 @@
      "title": "Photos: See the best photos from the solar eclipse",
      "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
      "date": "Wed, 12 Aug 2026 21:38:01 -0400"
-    },
-    {
-     "title": "ICE plans to outfit officers with electric shock gloves",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
-     "date": "Wed, 12 Aug 2026 18:13:57 -0400"
-    },
-    {
-     "title": "Trump sued over service selling faster access to Truth Social posts",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-     "date": "Wed, 12 Aug 2026 16:33:10 -0400"
-    },
-    {
-     "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
-     "date": "Wed, 12 Aug 2026 16:19:40 -0400"
-    },
-    {
-     "title": "White House press secretary leaving",
-     "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-     "date": "Wed, 12 Aug 2026 16:05:54 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "How to stay safe during an earthquake: A visual guide",
-     "link": "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 08:28:02 +0000"
+     "title": "Life and loss as a first responder in southern Lebanon",
+     "link": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:51:30 +0000"
     },
     {
-     "title": "Part of children’s hospital collapses in Colombia earthquake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 08:23:23 +0000"
+     "title": "What postcolonialism looks like in Southeast Asia",
+     "link": "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:46:22 +0000"
     },
     {
-     "title": "As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers",
-     "link": "https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 08:15:17 +0000"
+     "title": "Japan protests as Russia’s Putin visits disputed Kuril Islands",
+     "link": "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:43:38 +0000"
     },
     {
-     "title": "Three US states to hold executions on same day for first time since 2010",
-     "link": "https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 08:13:08 +0000"
+     "title": "Singapore-flagged container ship crashes into riverbank in India",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:42:18 +0000"
     },
     {
-     "title": "Swiatek sinks Svitolina to set up Rybakina title clash in Toronto",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-in-toronto?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 08:06:51 +0000"
+     "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
+     "link": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:30:24 +0000"
     },
     {
-     "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 07:58:31 +0000"
+     "title": "La Liga: What to know ahead of new 2026-27 football season",
+     "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:29:46 +0000"
     },
     {
-     "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 07:41:12 +0000"
+     "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
+     "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:18:44 +0000"
     },
     {
-     "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 07:17:55 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
-     "link": "https://www.nature.com/articles/s41586-026-10994-7",
-     "date": ""
-    },
-    {
-     "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-     "link": "https://www.nature.com/articles/s41586-026-10773-4",
-     "date": ""
-    },
-    {
-     "title": "Pre-clinical data interpretation requires clinical context",
-     "link": "https://www.nature.com/articles/s41586-026-10774-3",
-     "date": ""
-    },
-    {
-     "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-     "link": "https://www.nature.com/articles/d41586-026-02463-y",
-     "date": ""
-    },
-    {
-     "title": "Rattlesnakes’ own anti-venom could protect humans too",
-     "link": "https://www.nature.com/articles/d41586-026-02461-0",
-     "date": ""
-    },
-    {
-     "title": "The probiotic bacteria engineered to treat diabetes",
-     "link": "https://www.nature.com/articles/d41586-026-02521-5",
-     "date": ""
-    },
-    {
-     "title": "Dataset artefacts can partially drive the measured decline in disruption",
-     "link": "https://www.nature.com/articles/s41586-026-10787-y",
-     "date": ""
-    },
-    {
-     "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
-     "link": "https://www.nature.com/articles/s41586-026-10788-x",
-     "date": ""
+     "title": "Pro-Palestine activists smear red paint on Danish defence company",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 09:18:11 +0000"
     }
    ]
   }
