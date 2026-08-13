@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-13 17:13 UTC",
+ "updated": "2026-08-13 18:08 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Aerial footage shows derailed train",
+     "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 17:09:23 GMT"
+    },
+    {
      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
      "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 16:53:28 GMT"
+     "date": "Thu, 13 Aug 2026 17:22:42 GMT"
     },
     {
      "title": "Five key takeaways from results day 2026",
@@ -33,11 +38,6 @@
      "title": "Honeytrap thieves jailed for killing men they had drugged",
      "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 16:47:42 GMT"
-    },
-    {
-     "title": "Water bills set to rise for many after firms permitted extra funding",
-     "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 13:38:30 GMT"
     },
     {
      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Mangione could plead guilty in federal case ahead of NY murder trial",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+     "date": "Thu, 13 Aug 2026 13:29:15 -0400"
+    },
+    {
      "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
      "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
      "date": "Thu, 13 Aug 2026 12:40:26 -0400"
@@ -173,17 +178,27 @@
      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
      "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
      "date": "Thu, 13 Aug 2026 05:58:40 -0400"
-    },
-    {
-     "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-     "date": "Thu, 13 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 17:57:21 +0000"
+    },
+    {
+     "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
+     "link": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 17:46:18 +0000"
+    },
+    {
+     "title": "DR Congo Ebola outbreak spreads to a sixth province",
+     "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 17:18:01 +0000"
+    },
     {
      "title": "China and Indonesia’s joint naval drills anger Taiwan",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
      "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 15:27:52 +0000"
-    },
-    {
-     "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
-     "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 15:07:42 +0000"
-    },
-    {
-     "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-     "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:59:42 +0000"
-    },
-    {
-     "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
-     "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:41:58 +0000"
     }
    ]
   },
