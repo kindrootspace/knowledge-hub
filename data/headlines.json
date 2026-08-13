@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-13 16:11 UTC",
+ "updated": "2026-08-13 17:13 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Water bills set to rise for many after firms permitted extra funding",
-     "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 13:38:30 GMT"
+     "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+     "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 16:53:28 GMT"
+    },
+    {
+     "title": "Five key takeaways from results day 2026",
+     "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 16:49:28 GMT"
     },
     {
      "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
@@ -22,27 +27,22 @@
     {
      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 15:40:31 GMT"
+     "date": "Thu, 13 Aug 2026 16:20:41 GMT"
     },
     {
      "title": "Honeytrap thieves jailed for killing men they had drugged",
      "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 16:00:13 GMT"
+     "date": "Thu, 13 Aug 2026 16:47:42 GMT"
     },
     {
-     "title": "Busiest ever period for England's A&Es as extreme heat hits",
-     "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 11:56:32 GMT"
+     "title": "Water bills set to rise for many after firms permitted extra funding",
+     "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 13:38:30 GMT"
     },
     {
-     "title": "UK defends seizing shadow fleet tanker after Putin threat",
-     "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 15:05:12 GMT"
-    },
-    {
-     "title": "Voting under way in Clacton by-election",
-     "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 12:07:20 GMT"
+     "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+     "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 16:45:06 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+     "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+     "date": "Thu, 13 Aug 2026 12:40:26 -0400"
+    },
+    {
      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
      "date": "Thu, 13 Aug 2026 11:18:27 -0400"
@@ -173,17 +178,27 @@
      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
      "date": "Thu, 13 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-     "date": "Thu, 13 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "China and Indonesia’s joint naval drills anger Taiwan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 16:44:27 +0000"
+    },
+    {
+     "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+     "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 16:44:15 +0000"
+    },
+    {
+     "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 16:40:42 +0000"
+    },
     {
      "title": "Zambian president Hichilema votes as he seeks second term",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
      "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 14:41:58 +0000"
-    },
-    {
-     "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
-     "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:29:58 +0000"
-    },
-    {
-     "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:29:20 +0000"
-    },
-    {
-     "title": "Ebola outbreak caused by new ‘animal transmission’: What that means",
-     "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 14:16:44 +0000"
     }
    ]
   },
