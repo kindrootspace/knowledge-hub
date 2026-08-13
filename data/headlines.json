@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 18:08 UTC",
+ "updated": "2026-08-13 19:21 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
      "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 17:22:42 GMT"
+     "date": "Thu, 13 Aug 2026 18:54:25 GMT"
     },
     {
      "title": "Five key takeaways from results day 2026",
@@ -20,9 +20,9 @@
      "date": "Thu, 13 Aug 2026 16:49:28 GMT"
     },
     {
-     "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+     "title": "Son of 102-year-old says father died after being 'pushed off stage'",
      "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 14:58:14 GMT"
+     "date": "Thu, 13 Aug 2026 18:28:17 GMT"
     },
     {
      "title": "The key signs you may have damaged your eyes by looking at the eclipse",
@@ -42,7 +42,7 @@
     {
      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 16:45:06 GMT"
+     "date": "Thu, 13 Aug 2026 18:45:51 GMT"
     }
    ]
   },
@@ -140,7 +140,12 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Mangione could plead guilty in federal case ahead of NY murder trial",
+     "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+     "date": "Thu, 13 Aug 2026 14:55:30 -0400"
+    },
+    {
+     "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
      "date": "Thu, 13 Aug 2026 13:29:15 -0400"
     },
@@ -173,17 +178,32 @@
      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
      "date": "Thu, 13 Aug 2026 06:59:33 -0400"
-    },
-    {
-     "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-     "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-     "date": "Thu, 13 Aug 2026 05:58:40 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Europe swelters in latest wave of extreme heat",
+     "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 18:34:51 +0000"
+    },
+    {
+     "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
+     "link": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 18:33:28 +0000"
+    },
+    {
+     "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+     "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 18:28:14 +0000"
+    },
+    {
+     "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+     "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 18:04:43 +0000"
+    },
     {
      "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "China and Indonesia’s joint naval drills anger Taiwan",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 16:44:27 +0000"
-    },
-    {
-     "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-     "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 16:44:15 +0000"
-    },
-    {
-     "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 16:40:42 +0000"
-    },
-    {
-     "title": "Zambian president Hichilema votes as he seeks second term",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 15:51:52 +0000"
-    },
-    {
-     "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-     "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 15:27:52 +0000"
     }
    ]
   },
