@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 13:48 UTC",
+ "updated": "2026-08-13 15:15 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Thu, 13 Aug 2026 13:38:30 GMT"
     },
     {
-     "title": "Man, 102, dies after alleged pub assault",
+     "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
      "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 12:27:41 GMT"
+     "date": "Thu, 13 Aug 2026 14:58:14 GMT"
     },
     {
      "title": "The key signs you may have damaged your eyes by looking at the eclipse",
@@ -20,29 +20,29 @@
      "date": "Thu, 13 Aug 2026 11:57:28 GMT"
     },
     {
-     "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
-     "link": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 22:56:32 GMT"
+     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 14:58:09 GMT"
     },
     {
-     "title": "Harvey Nichols bought by owner of Sports Direct",
-     "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 13:32:40 GMT"
+     "title": "Honeytrap thieves jailed for killing men they had drugged",
+     "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 15:08:28 GMT"
     },
     {
-     "title": "Heatwaves drive A&E attendances up to record high",
+     "title": "Busiest ever period for England's A&Es as extreme heat hits",
      "link": "https://www.bbc.co.uk/news/articles/crrvp45gxzpo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 11:56:32 GMT"
     },
     {
-     "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
-     "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 12:23:12 GMT"
+     "title": "Harvey Nichols bought by owner of Sports Direct",
+     "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 14:27:43 GMT"
     },
     {
      "title": "UK defends seizing shadow fleet tanker after Putin threat",
      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 11:05:03 GMT"
+     "date": "Thu, 13 Aug 2026 15:05:12 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Harvey Nichols bought by owner of Sports Direct",
      "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 13:32:40 GMT"
+     "date": "Thu, 13 Aug 2026 14:27:43 GMT"
     },
     {
      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
@@ -80,20 +80,25 @@
      "date": "Wed, 12 Aug 2026 23:00:47 GMT"
     },
     {
+     "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+     "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 14:09:05 GMT"
+    },
+    {
      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 10:39:02 GMT"
-    },
-    {
-     "title": "Trump sued over Truth Social's $100,000 early access service",
-     "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 17:48:56 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+     "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+     "date": "Thu, 13 Aug 2026 14:21:52 GMT"
+    },
     {
      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
      "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
@@ -113,11 +118,6 @@
      "title": "Spain to introduce temporary border checks on visitors from Italy",
      "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
      "date": "Fri, 07 Aug 2026 21:44:38 GMT"
-    },
-    {
-     "title": "Judge approves Trump effort to end South Sudan TPS protections",
-     "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-     "date": "Fri, 07 Aug 2026 18:34:34 GMT"
     },
     {
      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+     "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:59:42 +0000"
+    },
+    {
+     "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
+     "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:41:58 +0000"
+    },
+    {
+     "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+     "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:29:58 +0000"
+    },
+    {
+     "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:29:20 +0000"
+    },
+    {
+     "title": "Ebola outbreak caused by new ‘animal transmission’: What that means",
+     "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:16:44 +0000"
+    },
+    {
+     "title": "Report from scene of Palestinian homes besieged by settlers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/report-from-scene-of-palestinian-homes-besieged-by-settlers?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:08:14 +0000"
+    },
+    {
+     "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+     "link": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 14:02:14 +0000"
+    },
+    {
      "title": "Spanish Super Cup will be held in Turkiye in 2027",
      "link": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 13:06:56 +0000"
-    },
-    {
-     "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-     "link": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 12:42:28 +0000"
-    },
-    {
-     "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
-     "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 12:30:08 +0000"
-    },
-    {
-     "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 12:19:02 +0000"
-    },
-    {
-     "title": "Five charts that explain the high cost of living in the UK",
-     "link": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 11:57:23 +0000"
-    },
-    {
-     "title": "US-Iran talks in deadlock – what’s the latest?",
-     "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 11:56:40 +0000"
-    },
-    {
-     "title": "Colombia earthquake response tests new far-right government",
-     "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 11:39:46 +0000"
-    },
-    {
-     "title": "More than 135 million people in Europe face temperatures over 35C",
-     "link": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 11:38:39 +0000"
     }
    ]
   },
@@ -240,8 +240,18 @@
      "date": ""
     },
     {
+     "title": "Can Anthropic's invsibile watermarks curb ‘AI slop’? Researchers remain sceptical",
+     "link": "https://www.nature.com/articles/d41586-026-02503-7",
+     "date": ""
+    },
+    {
      "title": "AI isn’t ready to research itself",
      "link": "https://www.nature.com/articles/d41586-026-02494-5",
+     "date": ""
+    },
+    {
+     "title": "Why China should reassess how it rewards young scientists",
+     "link": "https://www.nature.com/articles/d41586-026-02525-1",
      "date": ""
     },
     {
@@ -257,16 +267,6 @@
     {
      "title": "Pre-clinical data interpretation requires clinical context",
      "link": "https://www.nature.com/articles/s41586-026-10774-3",
-     "date": ""
-    },
-    {
-     "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-     "link": "https://www.nature.com/articles/d41586-026-02463-y",
-     "date": ""
-    },
-    {
-     "title": "Rattlesnakes’ own anti-venom could protect humans too",
-     "link": "https://www.nature.com/articles/d41586-026-02461-0",
      "date": ""
     }
    ]
