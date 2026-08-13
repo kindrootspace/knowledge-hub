@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 10:28 UTC",
+ "updated": "2026-08-13 12:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
      "link": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 10:19:08 GMT"
+     "date": "Thu, 13 Aug 2026 11:16:27 GMT"
+    },
+    {
+     "title": "UK defends seizing shadow fleet tanker after Putin threat",
+     "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 11:05:03 GMT"
     },
     {
      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
@@ -15,24 +20,14 @@
      "date": "Wed, 12 Aug 2026 21:53:45 GMT"
     },
     {
-     "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
-     "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 22:45:52 GMT"
+     "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
+     "link": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 22:56:32 GMT"
     },
     {
-     "title": "UK defends seizing shadow fleet tanker after Putin threat",
-     "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 09:52:30 GMT"
-    },
-    {
-     "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-     "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 01:19:23 GMT"
-    },
-    {
-     "title": "UK economy grows but experts warn of challenging months ahead",
-     "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 10:17:56 GMT"
+     "title": "Scientists invent 'world's greenest party balloon'",
+     "link": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 05:05:56 GMT"
     },
     {
      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
@@ -40,15 +35,30 @@
      "date": "Thu, 13 Aug 2026 08:12:53 GMT"
     },
     {
-     "title": "Leading doctor rebukes NHS chiefs over transplant failings",
-     "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 01:03:15 GMT"
+     "title": "UK economy grows but experts warn of challenging months ahead",
+     "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 10:17:56 GMT"
+    },
+    {
+     "title": "Polls open in Clacton by-election",
+     "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 06:28:40 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Water bills set to rise for many after firms permitted extra funding",
+     "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 11:49:27 GMT"
+    },
+    {
+     "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
+     "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 11:12:33 GMT"
+    },
     {
      "title": "UK economy grows but experts warn of challenging months ahead",
      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
@@ -60,19 +70,9 @@
      "date": "Wed, 12 Aug 2026 17:48:56 GMT"
     },
     {
-     "title": "Twitch faces backlash over Amazon using content to train AI",
+     "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 07:32:07 GMT"
-    },
-    {
-     "title": "Discord ordered to suspend livestreams in Brazil",
-     "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 17:10:31 GMT"
-    },
-    {
-     "title": "Burnham warned Iran war could hit UK growth next year",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 14:17:26 GMT"
+     "date": "Thu, 13 Aug 2026 10:39:02 GMT"
     },
     {
      "title": "Why Japanese firms are being so slow to use AI",
@@ -80,14 +80,14 @@
      "date": "Wed, 12 Aug 2026 23:00:47 GMT"
     },
     {
+     "title": "Discord ordered to suspend livestreams in Brazil",
+     "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 17:10:31 GMT"
+    },
+    {
      "title": "US inflation eases as food and fuel costs cool",
      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 17:03:05 GMT"
-    },
-    {
-     "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-     "link": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 11 Aug 2026 23:00:26 GMT"
     }
    ]
   },
@@ -140,18 +140,28 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+     "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+     "date": "Thu, 13 Aug 2026 07:31:18 -0400"
+    },
+    {
+     "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
+     "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
+     "date": "Thu, 13 Aug 2026 07:18:53 -0400"
+    },
+    {
      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
      "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
      "date": "Thu, 13 Aug 2026 05:58:40 -0400"
     },
     {
-     "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+     "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
      "date": "Thu, 13 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+     "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
      "date": "Thu, 13 Aug 2026 05:00:00 -0400"
     },
     {
@@ -168,16 +178,6 @@
      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
      "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
      "date": "Thu, 13 Aug 2026 02:04:38 -0400"
-    },
-    {
-     "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
-     "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
-     "date": "Thu, 13 Aug 2026 01:43:43 -0400"
-    },
-    {
-     "title": "Photos: See the best photos from the solar eclipse",
-     "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-     "date": "Wed, 12 Aug 2026 21:38:01 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Colombia earthquake response tests new far-right government",
+     "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 11:39:46 +0000"
+    },
+    {
+     "title": "More than 135 million people in Europe set for temperatures over 35C",
+     "link": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 11:38:39 +0000"
+    },
+    {
+     "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+     "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 11:29:32 +0000"
+    },
+    {
+     "title": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
+     "link": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 11:16:29 +0000"
+    },
+    {
+     "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+     "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 11:14:35 +0000"
+    },
+    {
+     "title": "Eurovision to bar countries at war from hosting: What that means",
+     "link": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 10:41:47 +0000"
+    },
+    {
+     "title": "Russell Westbrook announces NBA retirement after 18 seasons",
+     "link": "https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 10:25:39 +0000"
+    },
+    {
      "title": "Life and loss as a first responder in southern Lebanon",
      "link": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 09:51:30 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
     },
     {
-     "title": "What postcolonialism looks like in Southeast Asia",
-     "link": "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:46:22 +0000"
+     "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+     "link": "https://www.nature.com/articles/s41586-026-10994-7",
+     "date": ""
     },
     {
-     "title": "Japan protests as Russia’s Putin visits disputed Kuril Islands",
-     "link": "https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:43:38 +0000"
+     "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+     "link": "https://www.nature.com/articles/s41586-026-10773-4",
+     "date": ""
     },
     {
-     "title": "Singapore-flagged container ship crashes into riverbank in India",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-singapore-ship-crashes-kolkatta-in?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:42:18 +0000"
+     "title": "Pre-clinical data interpretation requires clinical context",
+     "link": "https://www.nature.com/articles/s41586-026-10774-3",
+     "date": ""
     },
     {
-     "title": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-     "link": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:30:24 +0000"
+     "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+     "link": "https://www.nature.com/articles/d41586-026-02463-y",
+     "date": ""
     },
     {
-     "title": "La Liga: What to know ahead of new 2026-27 football season",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/la-liga-what-to-know-ahead-of-new-2026-27-football-season?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:29:46 +0000"
+     "title": "Rattlesnakes’ own anti-venom could protect humans too",
+     "link": "https://www.nature.com/articles/d41586-026-02461-0",
+     "date": ""
     },
     {
-     "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
-     "link": "https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:18:44 +0000"
+     "title": "The probiotic bacteria engineered to treat diabetes",
+     "link": "https://www.nature.com/articles/d41586-026-02521-5",
+     "date": ""
     },
     {
-     "title": "Pro-Palestine activists smear red paint on Danish defence company",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 09:18:11 +0000"
+     "title": "Dataset artefacts can partially drive the measured decline in disruption",
+     "link": "https://www.nature.com/articles/s41586-026-10787-y",
+     "date": ""
     }
    ]
   }
