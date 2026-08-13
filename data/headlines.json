@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-13 23:03 UTC",
+ "updated": "2026-08-13 23:58 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Two seriously hurt as passenger train derails in East Sussex",
-     "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 21:36:39 GMT"
+     "title": "Multiple fires destroy homes and cause devastation in West Midlands",
+     "link": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 22:29:57 GMT"
     },
     {
      "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
      "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 20:26:25 GMT"
+    },
+    {
+     "title": "Two seriously hurt as passenger train derails in East Sussex",
+     "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 21:36:39 GMT"
     },
     {
      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
@@ -38,17 +43,17 @@
      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 20:12:17 GMT"
-    },
-    {
-     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 21:43:47 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
+     "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 23:03:07 GMT"
+    },
     {
      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Thu, 13 Aug 2026 13:02:24 GMT"
     },
     {
-     "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
-     "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 11:12:33 GMT"
-    },
-    {
      "title": "Why Japanese firms are being so slow to use AI",
      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 23:00:47 GMT"
     },
     {
+     "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
+     "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 11:12:33 GMT"
+    },
+    {
      "title": "UK economy grows but experts warn of challenging months ahead",
      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 10:17:56 GMT"
-    },
-    {
-     "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
-     "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 14:09:05 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+     "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 23:09:15 +0000"
+    },
+    {
      "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 21:17:45 +0000"
@@ -218,11 +223,6 @@
      "title": "Huge explosion rocks Italian munitions factory south of Rome",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
      "date": "Thu, 13 Aug 2026 20:52:48 +0000"
-    },
-    {
-     "title": "Photos: Cuba marks Fidel Castro’s 100th birthday",
-     "link": "https://www.aljazeera.com/gallery/2026/8/13/photos-cuba-marks-fidel-castros-100th-birthday?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 20:48:18 +0000"
     }
    ]
   },
