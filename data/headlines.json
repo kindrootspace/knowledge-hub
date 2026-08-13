@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 23:58 UTC",
+ "updated": "2026-08-13 02:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,9 @@
      "date": "Wed, 12 Aug 2026 21:53:45 GMT"
     },
     {
-     "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
-     "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 22:45:52 GMT"
-    },
-    {
-     "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-     "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 17:47:01 GMT"
+     "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+     "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 02:31:39 GMT"
     },
     {
      "title": "Students wait for A-level, T-level and BTec results",
@@ -25,14 +20,14 @@
      "date": "Wed, 12 Aug 2026 19:26:55 GMT"
     },
     {
-     "title": "Double killer and rapist given whole life sentence",
-     "link": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 14:25:00 GMT"
+     "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+     "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 12 Aug 2026 17:47:01 GMT"
     },
     {
-     "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
-     "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 19:05:38 GMT"
+     "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+     "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 01:19:23 GMT"
     },
     {
      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
@@ -43,6 +38,11 @@
      "title": "GB's Hudson-Smith wins historic 400m gold on home track",
      "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 22:41:22 GMT"
+    },
+    {
+     "title": "Leading doctor rebukes NHS chiefs over transplants",
+     "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 01:03:15 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Photos: See the best photos from the solar eclipse",
+     "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
+     "date": "Wed, 12 Aug 2026 21:38:01 -0400"
+    },
+    {
      "title": "ICE plans to outfit officers with electric shock gloves",
      "link": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
      "date": "Wed, 12 Aug 2026 18:13:57 -0400"
@@ -173,17 +178,37 @@
      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
      "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
      "date": "Wed, 12 Aug 2026 09:38:58 -0400"
-    },
-    {
-     "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
-     "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
-     "date": "Wed, 12 Aug 2026 09:00:19 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 02:42:24 +0000"
+    },
+    {
+     "title": "Olympic skateboarder times epic stunt with solar eclipse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 01:56:11 +0000"
+    },
+    {
+     "title": "Zimbabwe’s land reform enters a new chapter",
+     "link": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 01:48:39 +0000"
+    },
+    {
+     "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 00:05:28 +0000"
+    },
+    {
+     "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss",
+     "date": "Thu, 13 Aug 2026 00:00:00 +0000"
+    },
     {
      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Trump administration plans to give ICE officers electric-shock gloves",
      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
      "date": "Wed, 12 Aug 2026 22:22:57 +0000"
-    },
-    {
-     "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
-     "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 21:53:17 +0000"
-    },
-    {
-     "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
-     "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 21:52:18 +0000"
-    },
-    {
-     "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
-     "link": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 21:50:27 +0000"
-    },
-    {
-     "title": "Thousands missing after Colombia quake as rescue continues",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 21:25:08 +0000"
-    },
-    {
-     "title": "Morocco says working to prevent potential new Ceuta crossings surge",
-     "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
-     "date": "Wed, 12 Aug 2026 21:07:12 +0000"
     }
    ]
   },
