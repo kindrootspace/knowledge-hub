@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 02:46 UTC",
+ "updated": "2026-08-14 05:02 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -55,6 +55,11 @@
      "date": "Thu, 13 Aug 2026 23:03:07 GMT"
     },
     {
+     "title": "US says dozens of countries helped China dodge Trump's tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 03:09:48 GMT"
+    },
+    {
      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 22:00:10 GMT"
@@ -78,11 +83,6 @@
      "title": "Why Japanese firms are being so slow to use AI",
      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 12 Aug 2026 23:00:47 GMT"
-    },
-    {
-     "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
-     "link": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 11:12:33 GMT"
     },
     {
      "title": "UK economy grows but experts warn of challenging months ahead",
@@ -145,6 +145,11 @@
      "date": "Thu, 13 Aug 2026 22:06:10 -0400"
     },
     {
+     "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
+     "date": "Thu, 13 Aug 2026 17:39:19 -0400"
+    },
+    {
      "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
      "date": "Thu, 13 Aug 2026 14:55:30 -0400"
@@ -173,17 +178,42 @@
      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
      "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
      "date": "Thu, 13 Aug 2026 07:31:18 -0400"
-    },
-    {
-     "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
-     "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
-     "date": "Thu, 13 Aug 2026 07:18:53 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 04:38:50 +0000"
+    },
+    {
+     "title": "Water supply for three US states drips down, Lake Mead at record low",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 04:26:09 +0000"
+    },
+    {
+     "title": "Brazil begins exploring retaliatory options to new US tariffs",
+     "link": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 04:00:20 +0000"
+    },
+    {
+     "title": "Mali says 82 soldiers captured by armed groups have been freed",
+     "link": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 03:24:54 +0000"
+    },
+    {
+     "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 03:20:09 +0000"
+    },
+    {
+     "title": "Why Osun’s election matters for Nigeria’s 2027 vote",
+     "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 02:54:55 +0000"
+    },
     {
      "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
      "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
@@ -193,81 +223,6 @@
      "title": "Could Trump actually run for a third term as president?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 02:12:23 +0000"
-    },
-    {
-     "title": "Bodycam captures lightning striking metres from US police officers",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 02:09:18 +0000"
-    },
-    {
-     "title": "Talks between government and opposition mark a new chapter for Venezuela",
-     "link": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 02:07:03 +0000"
-    },
-    {
-     "title": "AI escapes confinement",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 01:56:45 +0000"
-    },
-    {
-     "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
-     "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 01:43:08 +0000"
-    },
-    {
-     "title": "Colombia’s rescuers search rubble as hope fades on finding survivors",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 01:21:02 +0000"
-    },
-    {
-     "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 01:09:44 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
-    },
-    {
-     "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
-     "link": "https://www.nature.com/articles/d41586-026-02503-7",
-     "date": ""
-    },
-    {
-     "title": "AI isn’t ready to research itself",
-     "link": "https://www.nature.com/articles/d41586-026-02494-5",
-     "date": ""
-    },
-    {
-     "title": "Why China should reassess how it rewards young scientists",
-     "link": "https://www.nature.com/articles/d41586-026-02525-1",
-     "date": ""
-    },
-    {
-     "title": "Ancient rise in CO2 was catastrophic for forests: what that means for today’s plants",
-     "link": "https://www.nature.com/articles/d41586-026-02544-y",
-     "date": ""
-    },
-    {
-     "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
-     "link": "https://www.nature.com/articles/d41586-026-02502-8",
-     "date": ""
     }
    ]
   }
