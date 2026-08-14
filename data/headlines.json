@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 06:42 UTC",
+ "updated": "2026-08-14 08:37 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,12 @@
     {
      "title": "Farage's by-election victory won't stop questions about finances",
      "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 05:22:27 GMT"
+     "date": "Fri, 14 Aug 2026 08:18:02 GMT"
     },
     {
-     "title": "NHS service admits data breach due to pager use",
-     "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 05:12:44 GMT"
+     "title": "Watch: Video shows scale of devastation in Stourbridge",
+     "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 07:26:53 GMT"
     },
     {
      "title": "Final day of heatwave for many before weekend cooldown",
@@ -20,9 +20,19 @@
      "date": "Fri, 14 Aug 2026 00:08:16 GMT"
     },
     {
-     "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 22:40:50 GMT"
+     "title": "'Unprecedented' rains in Japan kill six people",
+     "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 07:00:56 GMT"
+    },
+    {
+     "title": "NHS service admits data breach due to pager use",
+     "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 05:12:44 GMT"
+    },
+    {
+     "title": "Watch: What happens if Luigi Mangione pleads guilty?",
+     "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 01:19:19 GMT"
     },
     {
      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
@@ -30,19 +40,9 @@
      "date": "Thu, 13 Aug 2026 21:43:47 GMT"
     },
     {
-     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 20:12:17 GMT"
-    },
-    {
-     "title": "How a major oil slick started washing up on Iran's beaches",
-     "link": "https://www.bbc.co.uk/news/articles/cr7kpdkg13zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 05:01:00 GMT"
-    },
-    {
-     "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 18:45:51 GMT"
+     "title": "New Zealand breaks ranks and withdraws Infantino support",
+     "link": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 06:19:11 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
      "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 23:03:07 GMT"
+     "date": "Fri, 14 Aug 2026 07:45:51 GMT"
     },
     {
      "title": "US says dozens of countries helped China dodge Trump's tariffs",
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Wildfires force thousands to flee as blazes spread across Europe",
+     "link": "https://www.aljazeera.com/news/2026/8/14/wildfires-force-thousands-to-flee-as-blazes-spread-across-europe?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 08:23:27 +0000"
+    },
+    {
+     "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
+     "link": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 08:15:17 +0000"
+    },
+    {
+     "title": "The Gambian women turning grief into song",
+     "link": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 08:09:59 +0000"
+    },
+    {
+     "title": "Stolen Matisse art found in Brazil",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 07:47:05 +0000"
+    },
+    {
+     "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 07:44:25 +0000"
+    },
+    {
+     "title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 07:11:26 +0000"
+    },
+    {
+     "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
+     "link": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 07:07:42 +0000"
+    },
+    {
      "title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
      "link": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 06:22:41 +0000"
-    },
-    {
-     "title": "North Korea fumes over upcoming US-South Korea military drills",
-     "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 05:40:45 +0000"
-    },
-    {
-     "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-     "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 05:08:32 +0000"
-    },
-    {
-     "title": "Record rainfall leaves four dead, thousands stranded in Japan",
-     "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 05:02:19 +0000"
-    },
-    {
-     "title": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
-     "link": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 04:52:45 +0000"
-    },
-    {
-     "title": "How much power does the US hold in Venezuela?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_venezuela_-how-much-power-does-the-us-really-hold-140826?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 04:51:45 +0000"
-    },
-    {
-     "title": "Al Jazeera speaks to Count Binface as Farage claims Clacton victory",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 04:38:50 +0000"
-    },
-    {
-     "title": "Water supply for three US states drips down, Lake Mead at record low",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 04:26:09 +0000"
     }
    ]
   },
