@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 17:11 UTC",
+ "updated": "2026-08-14 18:06 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 16:49:23 GMT"
+     "date": "Fri, 14 Aug 2026 17:42:00 GMT"
     },
     {
      "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
@@ -20,9 +20,9 @@
      "date": "Fri, 14 Aug 2026 16:47:21 GMT"
     },
     {
-     "title": "Trump asks Supreme Court to allow ballroom work to continue",
-     "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 15:10:41 GMT"
+     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 17:03:17 GMT"
     },
     {
      "title": "Bezos-backed consortium buys a third of Liverpool FC",
@@ -57,7 +57,7 @@
     {
      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 16:49:23 GMT"
+     "date": "Fri, 14 Aug 2026 17:42:00 GMT"
     },
     {
      "title": "Selena Gomez sued for alleged fraud over mental health company",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 16:59:41 +0000"
+    },
+    {
      "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
      "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 16:46:30 +0000"
@@ -218,17 +223,17 @@
      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
      "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 15:36:58 +0000"
-    },
-    {
-     "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
-     "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 15:25:11 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
+    },
     {
      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
      "link": "https://www.nature.com/articles/s41586-026-11022-4",
@@ -262,11 +267,6 @@
     {
      "title": "How to make your science business succeed when you’re a female founder",
      "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
-    },
-    {
-     "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
-     "link": "https://www.nature.com/articles/d41586-026-02503-7",
      "date": ""
     }
    ]
