@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 21:41 UTC",
+ "updated": "2026-08-14 22:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
      "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 21:41:04 GMT"
+     "date": "Fri, 14 Aug 2026 22:05:27 GMT"
     },
     {
      "title": "Fires prompt national alert as 19 homes destroyed",
@@ -35,14 +35,14 @@
      "date": "Fri, 14 Aug 2026 18:25:38 GMT"
     },
     {
+     "title": "Hodgkinson beaten to European gold by rival Werro",
+     "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 22:14:41 GMT"
+    },
+    {
      "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
      "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 14:50:02 GMT"
-    },
-    {
-     "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-     "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 19:43:03 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+     "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 21:50:46 +0000"
+    },
+    {
+     "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 21:50:35 +0000"
+    },
+    {
+     "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 21:45:20 +0000"
+    },
+    {
      "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
      "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 21:17:15 +0000"
@@ -208,21 +223,51 @@
      "title": "New aerial video reveals huge scale of oil spill off Oman",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 19:36:45 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-     "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 19:02:49 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
-     "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 18:55:24 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
-     "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 18:43:36 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
+    },
+    {
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
