@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 08:37 UTC",
+ "updated": "2026-08-14 10:17 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,14 @@
      "date": "Fri, 14 Aug 2026 07:26:53 GMT"
     },
     {
-     "title": "Final day of heatwave for many before weekend cooldown",
-     "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 00:08:16 GMT"
-    },
-    {
-     "title": "'Unprecedented' rains in Japan kill six people",
+     "title": "'Unprecedented' rain in Japan kills six people",
      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 07:00:56 GMT"
+    },
+    {
+     "title": "Mother jailed for killing baby by burning her with a hairdryer",
+     "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 10:14:03 GMT"
     },
     {
      "title": "NHS service admits data breach due to pager use",
@@ -35,14 +35,14 @@
      "date": "Fri, 14 Aug 2026 01:19:19 GMT"
     },
     {
-     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 21:43:47 GMT"
+     "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+     "link": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 09:15:51 GMT"
     },
     {
-     "title": "New Zealand breaks ranks and withdraws Infantino support",
-     "link": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 06:19:11 GMT"
+     "title": "Final day of heatwave for many before weekend cooldown",
+     "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 00:08:16 GMT"
     }
    ]
   },
@@ -57,7 +57,12 @@
     {
      "title": "US says dozens of countries helped China dodge Trump's tariffs",
      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 03:09:48 GMT"
+     "date": "Fri, 14 Aug 2026 08:39:46 GMT"
+    },
+    {
+     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 21:43:47 GMT"
     },
     {
      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
@@ -80,11 +85,6 @@
      "date": "Thu, 13 Aug 2026 13:02:24 GMT"
     },
     {
-     "title": "Why Japanese firms are being so slow to use AI",
-     "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 12 Aug 2026 23:00:47 GMT"
-    },
-    {
      "title": "UK economy grows but experts warn of challenging months ahead",
      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 10:17:56 GMT"
@@ -94,6 +94,11 @@
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "American missionary kidnapped in Niger freed after nine months",
+     "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+     "date": "Fri, 14 Aug 2026 09:48:11 GMT"
+    },
     {
      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
@@ -115,11 +120,6 @@
      "date": "Wed, 12 Aug 2026 12:21:08 GMT"
     },
     {
-     "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
-     "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-     "date": "Wed, 12 Aug 2026 11:00:27 GMT"
-    },
-    {
      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
      "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
      "date": "Wed, 12 Aug 2026 18:46:30 GMT"
@@ -139,6 +139,21 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
+     "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+     "date": "Fri, 14 Aug 2026 05:01:00 -0400"
+    },
+    {
+     "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
+     "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+     "date": "Fri, 14 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
+     "date": "Fri, 14 Aug 2026 04:45:41 -0400"
+    },
     {
      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
@@ -163,21 +178,6 @@
      "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
      "date": "Thu, 13 Aug 2026 17:39:19 -0400"
-    },
-    {
-     "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-     "date": "Thu, 13 Aug 2026 14:55:30 -0400"
-    },
-    {
-     "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-     "date": "Thu, 13 Aug 2026 13:29:15 -0400"
-    },
-    {
-     "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
-     "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-     "date": "Thu, 13 Aug 2026 12:40:26 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Wildfires force thousands to flee as blazes spread across Europe",
-     "link": "https://www.aljazeera.com/news/2026/8/14/wildfires-force-thousands-to-flee-as-blazes-spread-across-europe?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 08:23:27 +0000"
+     "title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:35:06 +0000"
     },
     {
-     "title": "Engine debris shattered Ryanair window, pulling passenger out, NTSB says",
-     "link": "https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 08:15:17 +0000"
+     "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+     "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:28:03 +0000"
     },
     {
-     "title": "The Gambian women turning grief into song",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 08:09:59 +0000"
+     "title": "Swiatek defeats Rybakina to claim Canadian Open title​",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:26:54 +0000"
     },
     {
-     "title": "Stolen Matisse art found in Brazil",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 07:47:05 +0000"
+     "title": "UK far-right leader Farage re-elected in boycotted by-election",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:24:24 +0000"
     },
     {
-     "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
-     "link": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 07:44:25 +0000"
+     "title": "La Liga: Barcelona key talking points heading into new 2026-27 season",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:20:37 +0000"
     },
     {
-     "title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
-     "link": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 07:11:26 +0000"
+     "title": "A year after student protests that shook Valjevo: Serbia at a crossroads",
+     "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:18:25 +0000"
     },
     {
-     "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-     "link": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 07:07:42 +0000"
+     "title": "What is a ‘ceasefire’ supposed to achieve?",
+     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 09:00:51 +0000"
     },
     {
-     "title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
-     "link": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 06:22:41 +0000"
+     "title": "Tanzid makes history as Bangladesh dominate first Australia Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/14/tanzid-makes-history-as-bangladesh-dominate-first-australia-test?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 08:40:55 +0000"
     }
    ]
   },
