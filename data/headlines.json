@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 10:17 UTC",
+ "updated": "2026-08-14 11:11 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,24 +15,9 @@
      "date": "Fri, 14 Aug 2026 07:26:53 GMT"
     },
     {
-     "title": "'Unprecedented' rain in Japan kills six people",
-     "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 07:00:56 GMT"
-    },
-    {
-     "title": "Mother jailed for killing baby by burning her with a hairdryer",
-     "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 10:14:03 GMT"
-    },
-    {
-     "title": "NHS service admits data breach due to pager use",
-     "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 05:12:44 GMT"
-    },
-    {
-     "title": "Watch: What happens if Luigi Mangione pleads guilty?",
-     "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 01:19:19 GMT"
+     "title": "Eurovision proposes new rules to tackle mass voting",
+     "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 10:23:08 GMT"
     },
     {
      "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
@@ -40,9 +25,24 @@
      "date": "Fri, 14 Aug 2026 09:15:51 GMT"
     },
     {
-     "title": "Final day of heatwave for many before weekend cooldown",
-     "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 00:08:16 GMT"
+     "title": "Mother jailed for killing baby by burning her with a hairdryer",
+     "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 10:56:16 GMT"
+    },
+    {
+     "title": "Watch: What happens if Luigi Mangione pleads guilty?",
+     "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 01:19:19 GMT"
+    },
+    {
+     "title": "'Unprecedented' rain in Japan kills eight people",
+     "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 10:36:14 GMT"
+    },
+    {
+     "title": "NHS service admits data breach due to pager use",
+     "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 05:12:44 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+     "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+     "date": "Fri, 14 Aug 2026 06:30:17 -0400"
+    },
+    {
      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
      "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
      "date": "Fri, 14 Aug 2026 05:01:00 -0400"
@@ -147,6 +152,11 @@
     {
      "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+     "date": "Fri, 14 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
+     "link": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
      "date": "Fri, 14 Aug 2026 05:00:00 -0400"
     },
     {
@@ -168,22 +178,22 @@
      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
      "date": "Fri, 14 Aug 2026 01:42:35 -0400"
-    },
-    {
-     "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
-     "date": "Thu, 13 Aug 2026 22:06:10 -0400"
-    },
-    {
-     "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
-     "date": "Thu, 13 Aug 2026 17:39:19 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 10:32:22 +0000"
+    },
+    {
+     "title": "Seven killed in tunnel accident at Indian hydropower project",
+     "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 10:28:34 +0000"
+    },
     {
      "title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
      "link": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss",
@@ -213,22 +223,22 @@
      "title": "A year after student protests that shook Valjevo: Serbia at a crossroads",
      "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 09:18:25 +0000"
-    },
-    {
-     "title": "What is a ‘ceasefire’ supposed to achieve?",
-     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 09:00:51 +0000"
-    },
-    {
-     "title": "Tanzid makes history as Bangladesh dominate first Australia Test",
-     "link": "https://www.aljazeera.com/sports/2026/8/14/tanzid-makes-history-as-bangladesh-dominate-first-australia-test?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 08:40:55 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
+    },
+    {
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
     {
      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
      "link": "https://www.nature.com/articles/s41586-026-10959-w",
@@ -257,16 +267,6 @@
     {
      "title": "Why China should reassess how it rewards young scientists",
      "link": "https://www.nature.com/articles/d41586-026-02525-1",
-     "date": ""
-    },
-    {
-     "title": "Ancient rise in CO2 was catastrophic for forests: what that means for today’s plants",
-     "link": "https://www.nature.com/articles/d41586-026-02544-y",
-     "date": ""
-    },
-    {
-     "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
-     "link": "https://www.nature.com/articles/d41586-026-02502-8",
      "date": ""
     }
    ]
