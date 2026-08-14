@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 20:45 UTC",
+ "updated": "2026-08-14 21:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
      "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 20:32:55 GMT"
+     "date": "Fri, 14 Aug 2026 21:41:04 GMT"
+    },
+    {
+     "title": "Fires prompt national alert as 19 homes destroyed",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 20:56:53 GMT"
     },
     {
      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -25,24 +30,19 @@
      "date": "Fri, 14 Aug 2026 19:57:50 GMT"
     },
     {
-     "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
-     "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 14:50:02 GMT"
-    },
-    {
      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
      "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 18:25:38 GMT"
     },
     {
+     "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 14:50:02 GMT"
+    },
+    {
      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
      "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 19:43:03 GMT"
-    },
-    {
-     "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-     "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 17:03:17 GMT"
     }
    ]
   },
@@ -75,6 +75,11 @@
      "date": "Fri, 14 Aug 2026 08:39:46 GMT"
     },
     {
+     "title": "Protein or pickled garlic? What's new in ice cream",
+     "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 21:20:19 GMT"
+    },
+    {
      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 21:43:47 GMT"
@@ -83,11 +88,6 @@
      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 22:00:10 GMT"
-    },
-    {
-     "title": "Water bills set to rise for many after firms permitted extra funding",
-     "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 13:38:30 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 12 Aug 2026 12:21:08 GMT"
     },
     {
+     "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+     "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+     "date": "Fri, 14 Aug 2026 21:03:43 GMT"
+    },
+    {
      "title": "Canadian plasma clinics pause collections after deaths of two donors",
      "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
      "date": "Fri, 14 Aug 2026 16:21:39 GMT"
@@ -128,11 +133,6 @@
      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
      "link": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
      "date": "Fri, 14 Aug 2026 14:04:49 GMT"
-    },
-    {
-     "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
-     "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
-     "date": "Wed, 12 Aug 2026 18:46:30 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+     "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 21:17:15 +0000"
+    },
+    {
+     "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+     "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 21:03:07 +0000"
+    },
+    {
+     "title": "Former Cambridge professor accused of plagiarism found dead",
+     "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 20:46:40 +0000"
+    },
+    {
      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
      "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 19:44:43 +0000"
@@ -208,66 +223,6 @@
      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
      "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 18:43:36 +0000"
-    },
-    {
-     "title": "Italian police recover stolen paintings worth over $10m",
-     "link": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 18:37:59 +0000"
-    },
-    {
-     "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
-     "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 18:28:17 +0000"
-    },
-    {
-     "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 18:09:12 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
