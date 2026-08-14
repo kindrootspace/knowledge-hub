@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 23:58 UTC",
+ "updated": "2026-08-14 02:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,24 +20,24 @@
      "date": "Thu, 13 Aug 2026 21:36:39 GMT"
     },
     {
-     "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
-     "link": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 18:54:25 GMT"
-    },
-    {
-     "title": "Five key takeaways from results day 2026",
-     "link": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 16:49:28 GMT"
-    },
-    {
-     "title": "Son of 102-year-old says father died after being 'pushed off stage'",
-     "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 18:28:17 GMT"
+     "title": "Final day of heatwave for many before weekend cooldown",
+     "link": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 00:08:16 GMT"
     },
     {
      "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
      "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 22:40:50 GMT"
+    },
+    {
+     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 21:43:47 GMT"
+    },
+    {
+     "title": "Son of 102-year-old says father died after being 'pushed off stage'",
+     "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 13 Aug 2026 18:28:17 GMT"
     },
     {
      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+     "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
+     "date": "Thu, 13 Aug 2026 22:06:10 -0400"
+    },
+    {
      "title": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
      "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
      "date": "Thu, 13 Aug 2026 14:55:30 -0400"
@@ -173,11 +178,6 @@
      "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
      "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
      "date": "Thu, 13 Aug 2026 07:18:53 -0400"
-    },
-    {
-     "title": "Primary voters send mixed signals about what they want from the Democratic Party",
-     "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
-     "date": "Thu, 13 Aug 2026 06:59:33 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-     "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 23:09:15 +0000"
+     "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+     "link": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 02:21:29 +0000"
     },
     {
-     "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 21:17:45 +0000"
+     "title": "Could Trump actually run for a third term as president?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 02:12:23 +0000"
     },
     {
-     "title": "Israeli strikes in Gaza kill two, including police chief",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 21:10:47 +0000"
+     "title": "Bodycam captures lightning striking metres from US police officers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 02:09:18 +0000"
     },
     {
-     "title": "Mexico says Colombia rejected its earthquake rescue team",
-     "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 21:04:45 +0000"
+     "title": "Talks between government and opposition mark a new chapter for Venezuela",
+     "link": "https://www.aljazeera.com/news/longform/2026/8/14/talks-between-government-and-opposition-mark-a-new-chapter-for-venezuela?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 02:07:03 +0000"
     },
     {
-     "title": "What’s at stake in Zambia’s elections?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 21:04:22 +0000"
+     "title": "AI escapes confinement",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/ai-escapes-confinement?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 01:56:45 +0000"
     },
     {
-     "title": "Kennedy Center votes to restore Trump’s name to venue, close for two years",
-     "link": "https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 21:00:31 +0000"
+     "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
+     "link": "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 01:43:08 +0000"
     },
     {
-     "title": "Multiple houses ablaze as wildfire sweeps into UK town",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/multiple-houses-ablaze-as-wildfire-sweeps-into-uk-town?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 20:57:01 +0000"
+     "title": "Colombia’s rescuers search rubble as hope fades on finding survivors",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/colombias-rescuers-search-rubble-as-hope-fades-on-finding-survivors?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 01:21:02 +0000"
     },
     {
-     "title": "Huge explosion rocks Italian munitions factory south of Rome",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
-     "date": "Thu, 13 Aug 2026 20:52:48 +0000"
+     "title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 01:09:44 +0000"
     }
    ]
   },
