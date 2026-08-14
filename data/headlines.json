@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-14 19:57 UTC",
+ "updated": "2026-08-14 20:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+     "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
      "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 19:54:13 GMT"
+     "date": "Fri, 14 Aug 2026 20:32:55 GMT"
     },
     {
      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -22,7 +22,7 @@
     {
      "title": "Derailed Essex to London train leads to travel chaos",
      "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 19:49:23 GMT"
+     "date": "Fri, 14 Aug 2026 19:57:50 GMT"
     },
     {
      "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+     "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+     "date": "Fri, 14 Aug 2026 19:44:43 +0000"
+    },
+    {
      "title": "New aerial video reveals huge scale of oil spill off Oman",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 19:36:45 +0000"
@@ -218,11 +223,6 @@
      "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
      "date": "Fri, 14 Aug 2026 18:09:12 +0000"
-    },
-    {
-     "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
-     "link": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 18:04:08 +0000"
     }
    ]
   },
