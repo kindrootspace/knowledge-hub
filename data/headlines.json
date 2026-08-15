@@ -1,23 +1,18 @@
 {
- "updated": "2026-08-15 20:39 UTC",
+ "updated": "2026-08-15 21:34 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+     "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 21:28:54 GMT"
+    },
+    {
      "title": "Jason Arday death 'tragedy on so many levels' says PM",
      "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 17:43:04 GMT"
-    },
-    {
-     "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-     "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 13:48:38 GMT"
-    },
-    {
-     "title": "Major incidents across UK put firefighters under 'incredible pressure', fire chief says",
-     "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 17:41:54 GMT"
     },
     {
      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -30,19 +25,24 @@
      "date": "Sat, 15 Aug 2026 11:53:19 GMT"
     },
     {
+     "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+     "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 21:19:28 GMT"
+    },
+    {
      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
      "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 17:33:38 GMT"
     },
     {
+     "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+     "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 13:48:38 GMT"
+    },
+    {
      "title": "Sellers puzzled by bulk orders suspect secondhand books being destroyed to train AI",
      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 11:25:32 GMT"
-    },
-    {
-     "title": "When my dog died, my grief was overwhelming and complicated",
-     "link": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 00:01:21 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Qatar denies it is detaining three Iranian bomber pilots",
+     "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 20:55:29 +0000"
+    },
+    {
+     "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+     "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 20:40:48 +0000"
+    },
+    {
      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
      "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 20:09:33 +0000"
@@ -213,16 +223,6 @@
      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 18:11:12 +0000"
-    },
-    {
-     "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
-     "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 17:49:42 +0000"
-    },
-    {
-     "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 17:48:32 +0000"
     }
    ]
   },
