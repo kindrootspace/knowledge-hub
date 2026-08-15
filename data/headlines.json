@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 09:40 UTC",
+ "updated": "2026-08-15 10:39 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
      "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 07:53:48 GMT"
+     "date": "Sat, 15 Aug 2026 10:14:59 GMT"
     },
     {
      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -15,14 +15,9 @@
      "date": "Sat, 15 Aug 2026 03:58:31 GMT"
     },
     {
-     "title": "Five years after the Taliban swept to power, does the West have any influence?",
-     "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 17:00:14 GMT"
-    },
-    {
-     "title": "Heathrow Airport pipe leak causes flood disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 08:52:13 GMT"
+     "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+     "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 08:52:55 GMT"
     },
     {
      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -30,9 +25,14 @@
      "date": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
-     "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-     "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 08:52:55 GMT"
+     "title": "Heathrow Airport pipe leak causes flood disruption",
+     "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 08:52:13 GMT"
+    },
+    {
+     "title": "Five years after the Taliban swept to power, does the West have any influence?",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 17:00:14 GMT"
     },
     {
      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+     "date": "Sat, 15 Aug 2026 06:10:00 -0400"
+    },
+    {
      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
      "date": "Sat, 15 Aug 2026 05:04:00 -0400"
@@ -150,7 +155,7 @@
      "date": "Sat, 15 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
      "date": "Sat, 15 Aug 2026 04:29:20 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
      "date": "Fri, 14 Aug 2026 12:05:24 -0400"
-    },
-    {
-     "title": "We learned 5 important things about the economy this week",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-     "date": "Fri, 14 Aug 2026 10:47:15 -0400"
     }
    ]
   },
