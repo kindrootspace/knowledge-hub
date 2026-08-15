@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 19:34 UTC",
+ "updated": "2026-08-15 20:39 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,7 +22,7 @@
     {
      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 13:35:57 GMT"
+     "date": "Sat, 15 Aug 2026 20:00:15 GMT"
     },
     {
      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+     "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+     "date": "Sat, 15 Aug 2026 19:39:07 GMT"
+    },
+    {
      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
      "date": "Sat, 15 Aug 2026 18:08:21 GMT"
@@ -113,11 +118,6 @@
      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
      "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
      "date": "Thu, 13 Aug 2026 14:21:52 GMT"
-    },
-    {
-     "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-     "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-     "date": "Thu, 13 Aug 2026 04:00:49 GMT"
     },
     {
      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+     "date": "Sat, 15 Aug 2026 16:04:13 -0400"
+    },
     {
      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
@@ -173,11 +178,6 @@
      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
      "date": "Sat, 15 Aug 2026 04:29:20 -0400"
-    },
-    {
-     "title": "How Americans deceive ourselves about slavery",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
-     "date": "Fri, 14 Aug 2026 14:13:00 -0400"
     }
    ]
   },
@@ -185,7 +185,22 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+     "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+     "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 20:09:33 +0000"
+    },
+    {
+     "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 20:07:07 +0000"
+    },
+    {
+     "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+     "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 19:46:20 +0000"
+    },
+    {
+     "title": "Death toll from Zimbabwe ferry disaster rises to 72",
      "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 19:10:06 +0000"
     },
@@ -208,21 +223,6 @@
      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
      "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 17:48:32 +0000"
-    },
-    {
-     "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
-     "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 17:27:57 +0000"
-    },
-    {
-     "title": "UK PM Burnham reacts to death of former Cambridge professor",
-     "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 17:19:12 +0000"
-    },
-    {
-     "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-     "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 16:39:52 +0000"
     }
    ]
   },
