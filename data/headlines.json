@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 05:41 UTC",
+ "updated": "2026-08-15 06:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,24 +25,24 @@
      "date": "Fri, 14 Aug 2026 17:00:14 GMT"
     },
     {
+     "title": "Heathrow Airport warns of disruption following floods",
+     "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 06:06:02 GMT"
+    },
+    {
      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
-     "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-     "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 19:20:43 GMT"
-    },
-    {
-     "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+     "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 04:12:55 GMT"
+     "date": "Sat, 15 Aug 2026 06:21:31 GMT"
     },
     {
-     "title": "Derailed Essex to London train leads to travel chaos",
-     "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 19:57:50 GMT"
+     "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+     "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 05:01:13 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+     "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 06:10:07 +0000"
+    },
+    {
      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
      "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 05:14:40 +0000"
@@ -218,11 +223,6 @@
      "title": "Did the US really destroy Iran’s ballistic missile capability?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 03:52:08 +0000"
-    },
-    {
-     "title": "India marks 80th Independence Day with military display",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 03:39:06 +0000"
     }
    ]
   },
