@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 03:05 UTC",
+ "updated": "2026-08-15 03:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Did the US really destroy Iran’s ballistic missile capability?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 03:52:08 +0000"
+    },
+    {
+     "title": "India marks 80th Independence Day with military display",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 03:39:06 +0000"
+    },
+    {
+     "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+     "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 03:04:20 +0000"
+    },
+    {
      "title": "US President Trump says he will declare Strait of Hormuz US territory",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 02:25:09 +0000"
@@ -208,66 +223,6 @@
      "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 01:20:06 +0000"
-    },
-    {
-     "title": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 01:12:02 +0000"
-    },
-    {
-     "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-     "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 00:32:56 +0000"
-    },
-    {
-     "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
-     "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 00:23:26 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
