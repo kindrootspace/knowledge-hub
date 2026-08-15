@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 12:59 UTC",
+ "updated": "2026-08-15 13:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,19 +15,14 @@
      "date": "Sat, 15 Aug 2026 11:21:10 GMT"
     },
     {
-     "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+     "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 12:31:55 GMT"
+     "date": "Sat, 15 Aug 2026 13:35:57 GMT"
     },
     {
-     "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-     "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 11:53:19 GMT"
-    },
-    {
-     "title": "Five years after the Taliban swept to power, does the West have any influence?",
-     "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 17:00:14 GMT"
+     "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+     "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 13:35:26 GMT"
     },
     {
      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
@@ -43,6 +38,11 @@
      "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 23:16:43 GMT"
+    },
+    {
+     "title": "Five years after the Taliban swept to power, does the West have any influence?",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 17:00:14 GMT"
     }
    ]
   },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Afghans mark five years of Taliban rule",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 13:12:51 +0000"
+    },
+    {
+     "title": "Black professor at centre of Cambridge plagiarism row found dead",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 13:11:31 +0000"
+    },
+    {
+     "title": "Vienna woman sues city for discrimination over toilet fees",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 13:01:31 +0000"
+    },
+    {
+     "title": "Five wounded in shooting at Virginia State University, multiple suspects",
+     "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 12:57:08 +0000"
+    },
+    {
+     "title": "Five years on, how will Taliban deal with armed opposition?",
+     "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 12:44:30 +0000"
+    },
+    {
      "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
      "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 12:14:30 +0000"
@@ -198,31 +223,51 @@
      "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
      "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 11:27:11 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "Aftermath of deadly Indonesia earthquake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 11:19:56 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
-     "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 11:09:27 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "What the Taliban achieved and failed to achieve in five years",
-     "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 11:07:05 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
     },
     {
-     "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 10:48:41 +0000"
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
     },
     {
-     "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 10:43:09 +0000"
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
