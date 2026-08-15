@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 08:45 UTC",
+ "updated": "2026-08-15 09:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Fri, 14 Aug 2026 17:00:14 GMT"
     },
     {
-     "title": "Heathrow Airport warns of disruption following floods",
+     "title": "Heathrow Airport pipe leak causes flood disruption",
      "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 08:16:07 GMT"
+     "date": "Sat, 15 Aug 2026 08:52:13 GMT"
     },
     {
      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -30,9 +30,9 @@
      "date": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
-     "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
+     "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 08:21:01 GMT"
+     "date": "Sat, 15 Aug 2026 08:52:55 GMT"
     },
     {
      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+     "date": "Sat, 15 Aug 2026 05:04:00 -0400"
+    },
+    {
+     "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+     "date": "Sat, 15 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
      "date": "Sat, 15 Aug 2026 04:29:20 -0400"
@@ -168,16 +178,6 @@
      "title": "We learned 5 important things about the economy this week",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
      "date": "Fri, 14 Aug 2026 10:47:15 -0400"
-    },
-    {
-     "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-     "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-     "date": "Fri, 14 Aug 2026 10:41:22 -0400"
-    },
-    {
-     "title": "U.S. missionary who was kidnapped in Niger is released",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-     "date": "Fri, 14 Aug 2026 08:11:50 -0400"
     }
    ]
   },
@@ -185,12 +185,32 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Bangladesh rock Australia as historic Test win in sight",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 08:50:56 +0000"
+    },
+    {
+     "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 08:44:36 +0000"
+    },
+    {
+     "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 08:32:07 +0000"
+    },
+    {
+     "title": "The women India’s biggest river project forgot",
+     "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 08:22:09 +0000"
+    },
+    {
      "title": "Arteta assures Arsenal fans over contract before Man City clash",
      "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 07:44:35 +0000"
     },
     {
-     "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+     "title": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
      "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 07:27:59 +0000"
     },
@@ -203,26 +223,51 @@
      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 07:18:13 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 07:13:11 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "South Korea’s president wants talks with North to end Korean War",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 06:53:28 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-     "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 06:10:07 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
     },
     {
-     "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
-     "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 05:14:40 +0000"
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
