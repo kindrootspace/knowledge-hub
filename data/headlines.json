@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 17:35 UTC",
+ "updated": "2026-08-15 18:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Jason Arday death 'tragedy on so many levels' says PM",
      "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 13:56:30 GMT"
+     "date": "Sat, 15 Aug 2026 17:43:04 GMT"
     },
     {
      "title": "Analysis: Arday's death will send shockwaves through a divided academia",
@@ -17,7 +17,7 @@
     {
      "title": "Fire services stretched as residents still not home",
      "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 16:08:57 GMT"
+     "date": "Sat, 15 Aug 2026 17:41:54 GMT"
     },
     {
      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -25,14 +25,14 @@
      "date": "Sat, 15 Aug 2026 13:35:57 GMT"
     },
     {
-     "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-     "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 17:33:38 GMT"
-    },
-    {
      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
      "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 11:53:19 GMT"
+    },
+    {
+     "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+     "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 17:33:38 GMT"
     },
     {
      "title": "Sellers puzzled by bulk orders suspect secondhand books being destroyed to train AI",
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+     "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+     "date": "Sat, 15 Aug 2026 18:08:21 GMT"
+    },
+    {
      "title": "American missionary kidnapped in Niger freed after nine months",
      "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
      "date": "Fri, 14 Aug 2026 14:55:17 GMT"
@@ -113,11 +118,6 @@
      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
      "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
      "date": "Thu, 13 Aug 2026 04:00:49 GMT"
-    },
-    {
-     "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-     "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-     "date": "Wed, 12 Aug 2026 12:21:08 GMT"
     },
     {
      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+     "date": "Sat, 15 Aug 2026 14:21:32 -0400"
+    },
     {
      "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
@@ -173,17 +178,32 @@
      "title": "How Americans deceive ourselves about slavery",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
      "date": "Fri, 14 Aug 2026 14:13:00 -0400"
-    },
-    {
-     "title": "As speed cameras spread to more states, so does the backlash from drivers",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-     "date": "Fri, 14 Aug 2026 12:54:58 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 18:11:12 +0000"
+    },
+    {
+     "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+     "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 17:49:42 +0000"
+    },
+    {
+     "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 17:48:32 +0000"
+    },
+    {
+     "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+     "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 17:27:57 +0000"
+    },
     {
      "title": "UK PM Burnham reacts to death of former Cambridge professor",
      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
@@ -203,71 +223,6 @@
      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
      "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 16:17:43 +0000"
-    },
-    {
-     "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-     "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 15:50:06 +0000"
-    },
-    {
-     "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 15:48:07 +0000"
-    },
-    {
-     "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-     "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 15:25:51 +0000"
-    },
-    {
-     "title": "How blind football is helping women overcome barriers in Mexico",
-     "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 15:15:45 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
