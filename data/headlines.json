@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 11:33 UTC",
+ "updated": "2026-08-15 12:59 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,19 +15,14 @@
      "date": "Sat, 15 Aug 2026 11:21:10 GMT"
     },
     {
-     "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+     "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 08:52:55 GMT"
+     "date": "Sat, 15 Aug 2026 12:31:55 GMT"
     },
     {
-     "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-     "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 00:01:53 GMT"
-    },
-    {
-     "title": "Heathrow Airport burst main causes travel disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 11:20:11 GMT"
+     "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 11:53:19 GMT"
     },
     {
      "title": "Five years after the Taliban swept to power, does the West have any influence?",
@@ -38,6 +33,11 @@
      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 05:01:13 GMT"
+    },
+    {
+     "title": "When my dog died, my grief was overwhelming and complicated",
+     "link": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 00:01:21 GMT"
     },
     {
      "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
+     "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 12:14:30 +0000"
+    },
+    {
+     "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+     "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 11:30:00 +0000"
+    },
+    {
      "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
      "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 11:27:11 +0000"
@@ -213,61 +223,6 @@
      "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
      "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 10:43:09 +0000"
-    },
-    {
-     "title": "At scene of deadly Israeli strike on Lebanon home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 10:18:40 +0000"
-    },
-    {
-     "title": "Bangladesh rock Australia as historic Test win in sight",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 08:50:56 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
