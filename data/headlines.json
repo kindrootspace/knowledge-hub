@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 21:34 UTC",
+ "updated": "2026-08-15 22:37 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -35,14 +35,14 @@
      "date": "Sat, 15 Aug 2026 17:33:38 GMT"
     },
     {
+     "title": "Hunt wins third gold as Asher-Smith makes history",
+     "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 21:13:17 GMT"
+    },
+    {
      "title": "Analysis: Arday's death will send shockwaves through a divided academia",
      "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 13:48:38 GMT"
-    },
-    {
-     "title": "Sellers puzzled by bulk orders suspect secondhand books being destroyed to train AI",
-     "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 11:25:32 GMT"
     }
    ]
   },
@@ -95,7 +95,7 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
      "date": "Sat, 15 Aug 2026 19:39:07 GMT"
     },
@@ -175,7 +175,7 @@
      "date": "Sat, 15 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
      "date": "Sat, 15 Aug 2026 04:29:20 -0400"
     }
@@ -184,6 +184,16 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+     "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 22:22:46 +0000"
+    },
+    {
+     "title": "Why is the latest Ebola outbreak worsening?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 22:00:42 +0000"
+    },
     {
      "title": "Qatar denies it is detaining three Iranian bomber pilots",
      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
@@ -200,7 +210,7 @@
      "date": "Sat, 15 Aug 2026 20:09:33 +0000"
     },
     {
-     "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+     "title": "Moroccan police intercept migrants heading for Ceuta enclave",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 20:07:07 +0000"
     },
@@ -213,16 +223,6 @@
      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
      "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 19:10:06 +0000"
-    },
-    {
-     "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
-     "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 18:19:23 +0000"
-    },
-    {
-     "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 18:11:12 +0000"
     }
    ]
   },
