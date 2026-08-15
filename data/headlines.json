@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 22:37 UTC",
+ "updated": "2026-08-15 23:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Are robotaxis finally here?",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+     "date": "Sat, 15 Aug 2026 17:30:21 -0400"
+    },
+    {
+     "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+     "date": "Sat, 15 Aug 2026 17:20:51 -0400"
+    },
+    {
      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
      "date": "Sat, 15 Aug 2026 16:04:13 -0400"
@@ -168,22 +178,27 @@
      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
      "date": "Sat, 15 Aug 2026 05:04:00 -0400"
-    },
-    {
-     "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-     "date": "Sat, 15 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-     "date": "Sat, 15 Aug 2026 04:29:20 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
+     "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 23:27:10 +0000"
+    },
+    {
+     "title": "At least five reported dead amid flooding in US state of Indiana",
+     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 23:19:34 +0000"
+    },
+    {
+     "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+     "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 23:04:47 +0000"
+    },
     {
      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
      "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 20:09:33 +0000"
-    },
-    {
-     "title": "Moroccan police intercept migrants heading for Ceuta enclave",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 20:07:07 +0000"
-    },
-    {
-     "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-     "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 19:46:20 +0000"
-    },
-    {
-     "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-     "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 19:10:06 +0000"
     }
    ]
   },
