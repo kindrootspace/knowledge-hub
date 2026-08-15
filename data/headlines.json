@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 04:47 UTC",
+ "updated": "2026-08-15 05:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+     "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 05:14:40 +0000"
+    },
+    {
+     "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 04:54:53 +0000"
+    },
+    {
+     "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 04:49:47 +0000"
+    },
+    {
+     "title": "Taiwan passes defence budget after record delay, retains drone funding",
+     "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 04:44:14 +0000"
+    },
+    {
      "title": "Iran says no decision yet on a return to talks with the US",
      "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 04:24:02 +0000"
@@ -203,26 +223,51 @@
      "title": "India marks 80th Independence Day with military display",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 03:39:06 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
-     "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 03:04:20 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "US President Trump says he will declare Strait of Hormuz US territory",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 02:25:09 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
-     "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 02:08:02 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
     },
     {
-     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 02:03:22 +0000"
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
