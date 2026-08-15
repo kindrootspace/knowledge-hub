@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 18:47 UTC",
+ "updated": "2026-08-15 19:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,7 +15,7 @@
      "date": "Sat, 15 Aug 2026 13:48:38 GMT"
     },
     {
-     "title": "Fire services stretched as residents still not home",
+     "title": "Major incidents across UK put firefighters under 'incredible pressure', fire chief says",
      "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 17:41:54 GMT"
     },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+     "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 19:10:06 +0000"
+    },
+    {
+     "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 18:19:23 +0000"
+    },
+    {
      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 18:11:12 +0000"
@@ -213,16 +223,51 @@
      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 16:39:52 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "One killed, dozens injured after wildfire hits Croatian coast",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 16:33:05 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-     "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 16:17:43 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
+    },
+    {
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
+    },
+    {
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
