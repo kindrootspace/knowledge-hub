@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 16:41 UTC",
+ "updated": "2026-08-15 17:35 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -27,7 +27,7 @@
     {
      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
      "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 16:29:39 GMT"
+     "date": "Sat, 15 Aug 2026 17:33:38 GMT"
     },
     {
      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+     "date": "Sat, 15 Aug 2026 13:25:34 -0400"
+    },
+    {
+     "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+     "date": "Sat, 15 Aug 2026 13:04:43 -0400"
+    },
+    {
      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
      "date": "Sat, 15 Aug 2026 06:10:00 -0400"
@@ -168,22 +178,32 @@
      "title": "As speed cameras spread to more states, so does the backlash from drivers",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
      "date": "Fri, 14 Aug 2026 12:54:58 -0400"
-    },
-    {
-     "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-     "date": "Fri, 14 Aug 2026 12:37:54 -0400"
-    },
-    {
-     "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-     "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-     "date": "Fri, 14 Aug 2026 12:05:24 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "UK PM Burnham reacts to death of former Cambridge professor",
+     "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 17:19:12 +0000"
+    },
+    {
+     "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+     "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 16:39:52 +0000"
+    },
+    {
+     "title": "One killed, dozens injured after wildfire hits Croatian coast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 16:33:05 +0000"
+    },
+    {
+     "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+     "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 16:17:43 +0000"
+    },
     {
      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
      "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "How blind football is helping women overcome barriers in Mexico",
      "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 15:15:45 +0000"
-    },
-    {
-     "title": "The next Yemen war might be different",
-     "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 14:32:07 +0000"
-    },
-    {
-     "title": "Afghans mark five years of Taliban rule",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 13:12:51 +0000"
-    },
-    {
-     "title": "Black professor at centre of Cambridge plagiarism row found dead",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 13:11:31 +0000"
-    },
-    {
-     "title": "Vienna woman sues city for discrimination over toilet fees",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 13:01:31 +0000"
     }
    ]
   },
