@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 14:39 UTC",
+ "updated": "2026-08-15 15:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Sat, 15 Aug 2026 13:35:57 GMT"
     },
     {
-     "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+     "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
      "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 14:29:04 GMT"
+     "date": "Sat, 15 Aug 2026 15:26:30 GMT"
     },
     {
      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "How blind football is helping women overcome barriers in Mexico",
+     "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 15:15:45 +0000"
+    },
+    {
+     "title": "The next Yemen war might be different",
+     "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 14:32:07 +0000"
+    },
+    {
      "title": "Afghans mark five years of Taliban rule",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 13:12:51 +0000"
@@ -213,16 +223,6 @@
      "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
      "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 12:14:30 +0000"
-    },
-    {
-     "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-     "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 11:30:00 +0000"
-    },
-    {
-     "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
-     "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 11:27:11 +0000"
     }
    ]
   },
