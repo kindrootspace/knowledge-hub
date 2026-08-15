@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 15:34 UTC",
+ "updated": "2026-08-15 16:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,6 +15,11 @@
      "date": "Sat, 15 Aug 2026 13:48:38 GMT"
     },
     {
+     "title": "Fire services stretched as residents still not home",
+     "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 16:08:57 GMT"
+    },
+    {
      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 13:35:57 GMT"
@@ -22,7 +27,7 @@
     {
      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
      "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 15:26:30 GMT"
+     "date": "Sat, 15 Aug 2026 16:29:39 GMT"
     },
     {
      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
@@ -30,7 +35,7 @@
      "date": "Sat, 15 Aug 2026 11:53:19 GMT"
     },
     {
-     "title": "Sellers puzzled by unusual bulk orders suspect books being destroyed to train AI",
+     "title": "Sellers puzzled by bulk orders suspect secondhand books being destroyed to train AI",
      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 11:25:32 GMT"
     },
@@ -38,11 +43,6 @@
      "title": "When my dog died, my grief was overwhelming and complicated",
      "link": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 00:01:21 GMT"
-    },
-    {
-     "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
-     "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 23:16:43 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+     "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 15:50:06 +0000"
+    },
+    {
+     "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 15:48:07 +0000"
+    },
+    {
+     "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+     "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 15:25:51 +0000"
+    },
+    {
      "title": "How blind football is helping women overcome barriers in Mexico",
      "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 15:15:45 +0000"
@@ -208,21 +223,6 @@
      "title": "Vienna woman sues city for discrimination over toilet fees",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 13:01:31 +0000"
-    },
-    {
-     "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-     "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 12:57:08 +0000"
-    },
-    {
-     "title": "Five years on, how will Taliban deal with armed opposition?",
-     "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 12:44:30 +0000"
-    },
-    {
-     "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
-     "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 12:14:30 +0000"
     }
    ]
   },
