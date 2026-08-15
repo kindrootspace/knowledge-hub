@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 01:50 UTC",
+ "updated": "2026-08-15 03:05 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Fires prompt national alert as 19 homes destroyed",
      "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 20:56:53 GMT"
+     "date": "Sat, 15 Aug 2026 02:54:04 GMT"
     },
     {
      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -25,6 +25,11 @@
      "date": "Fri, 14 Aug 2026 17:00:14 GMT"
     },
     {
+     "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+     "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 00:01:53 GMT"
+    },
+    {
      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 19:20:43 GMT"
@@ -35,14 +40,9 @@
      "date": "Fri, 14 Aug 2026 19:57:50 GMT"
     },
     {
-     "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-     "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 00:01:53 GMT"
-    },
-    {
-     "title": "Hodgkinson beaten to European gold by rival Werro",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 22:14:41 GMT"
+     "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
+     "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 02:51:19 GMT"
     }
    ]
   },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "US President Trump says he will declare Strait of Hormuz US territory",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 02:25:09 +0000"
+    },
+    {
+     "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
+     "link": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 02:08:02 +0000"
+    },
+    {
+     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 02:03:22 +0000"
+    },
+    {
+     "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
+     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 01:36:04 +0000"
+    },
+    {
      "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 01:20:06 +0000"
@@ -203,26 +223,51 @@
      "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
      "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 00:23:26 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "Families angered by slow search for loved ones after Colombia quake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 00:14:47 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 00:00:00 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
-     "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 23:02:55 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
     },
     {
-     "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
-     "date": "Fri, 14 Aug 2026 22:58:58 +0000"
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
