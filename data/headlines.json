@@ -1,18 +1,13 @@
 {
- "updated": "2026-08-15 07:44 UTC",
+ "updated": "2026-08-15 08:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-     "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 01:41:24 GMT"
-    },
-    {
-     "title": "Fires prompt national alert as 19 homes destroyed",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 02:54:04 GMT"
+     "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+     "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 07:53:48 GMT"
     },
     {
      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -27,7 +22,7 @@
     {
      "title": "Heathrow Airport warns of disruption following floods",
      "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 06:06:02 GMT"
+     "date": "Sat, 15 Aug 2026 08:16:07 GMT"
     },
     {
      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -35,14 +30,19 @@
      "date": "Sat, 15 Aug 2026 00:01:53 GMT"
     },
     {
-     "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+     "title": "Powerful 7.7-magnitude earthquake kills at least 20 in Indonesia",
      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 07:22:22 GMT"
+     "date": "Sat, 15 Aug 2026 08:21:01 GMT"
     },
     {
      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 05:01:13 GMT"
+    },
+    {
+     "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
+     "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 23:16:43 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
+     "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+     "date": "Sat, 15 Aug 2026 04:29:20 -0400"
+    },
+    {
      "title": "How Americans deceive ourselves about slavery",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
      "date": "Fri, 14 Aug 2026 14:13:00 -0400"
@@ -173,17 +178,17 @@
      "title": "U.S. missionary who was kidnapped in Niger is released",
      "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
      "date": "Fri, 14 Aug 2026 08:11:50 -0400"
-    },
-    {
-     "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-     "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-     "date": "Fri, 14 Aug 2026 07:02:42 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Arteta assures Arsenal fans over contract before Man City clash",
+     "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+     "date": "Sat, 15 Aug 2026 07:44:35 +0000"
+    },
     {
      "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
      "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
@@ -218,56 +223,6 @@
      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
      "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 05:14:40 +0000"
-    },
-    {
-     "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 04:54:53 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
