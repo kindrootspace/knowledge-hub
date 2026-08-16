@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 23:34 UTC",
+ "updated": "2026-08-16 01:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Sat, 15 Aug 2026 21:28:54 GMT"
     },
     {
-     "title": "Jason Arday death 'tragedy on so many levels' says PM",
-     "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 17:43:04 GMT"
+     "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 00:51:29 GMT"
+    },
+    {
+     "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+     "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 00:39:22 GMT"
     },
     {
      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -20,14 +25,9 @@
      "date": "Sat, 15 Aug 2026 20:00:15 GMT"
     },
     {
-     "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-     "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 11:53:19 GMT"
-    },
-    {
-     "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
-     "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 21:19:28 GMT"
+     "title": "Jason Arday death 'tragedy on so many levels' says PM",
+     "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 17:43:04 GMT"
     },
     {
      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
@@ -40,9 +40,9 @@
      "date": "Sat, 15 Aug 2026 21:13:17 GMT"
     },
     {
-     "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-     "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 13:48:38 GMT"
+     "title": "What's driving men to get penis fillers, despite the risks?",
+     "link": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 23:42:33 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 15:58:21 GMT"
+    },
+    {
+     "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+     "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 23:45:44 GMT"
     },
     {
      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
@@ -83,11 +88,6 @@
      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 13 Aug 2026 21:43:47 GMT"
-    },
-    {
-     "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 22:00:10 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Army drops roses on Syrian crowds in a far cry from war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 00:50:12 +0000"
+    },
+    {
+     "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+     "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 00:44:59 +0000"
+    },
+    {
+     "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 00:00:45 +0000"
+    },
+    {
      "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
      "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 23:27:10 +0000"
@@ -208,21 +223,6 @@
      "title": "Why is the latest Ebola outbreak worsening?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 22:00:42 +0000"
-    },
-    {
-     "title": "Qatar denies it is detaining three Iranian bomber pilots",
-     "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 20:55:29 +0000"
-    },
-    {
-     "title": "California tackles multiple wildfires as firefighter workforce faces strain",
-     "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 20:40:48 +0000"
-    },
-    {
-     "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-     "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 20:09:33 +0000"
     }
    ]
   },
