@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 06:59 UTC",
+ "updated": "2026-08-16 07:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 07:04:29 +0000"
+    },
+    {
      "title": "Bangladesh make history with first-ever Test cricket win in Australia",
      "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 06:40:50 +0000"
@@ -218,11 +223,6 @@
      "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
      "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 04:35:26 +0000"
-    },
-    {
-     "title": "Yemeni government forces hit back after new Houthi offensive",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 04:09:01 +0000"
     }
    ]
   },
