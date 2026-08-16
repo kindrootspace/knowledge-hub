@@ -1,18 +1,13 @@
 {
- "updated": "2026-08-16 08:47 UTC",
+ "updated": "2026-08-16 09:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 08:23:38 GMT"
-    },
-    {
-     "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 08:14:56 GMT"
+     "title": "People who fled Stourbridge fires start to return home",
+     "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 09:35:01 GMT"
     },
     {
      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
@@ -20,9 +15,9 @@
      "date": "Sun, 16 Aug 2026 00:39:22 GMT"
     },
     {
-     "title": "People who fled Stourbridge fires start to return home",
-     "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 08:32:57 GMT"
+     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 08:23:38 GMT"
     },
     {
      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -32,7 +27,7 @@
     {
      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 07:58:02 GMT"
+     "date": "Sun, 16 Aug 2026 08:49:32 GMT"
     },
     {
      "title": "Hunt wins third gold as Asher-Smith makes history",
@@ -43,6 +38,11 @@
      "title": "What's driving men to get penis fillers, despite the risks?",
      "link": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 23:42:33 GMT"
+    },
+    {
+     "title": "Feeling nervous about university? Current students offer some advice to freshers",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 23:45:15 GMT"
     }
    ]
   },
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "NPR Senior Podcast Challenge: Official Rules",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
+     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Are robotaxis finally here?",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
      "date": "Sat, 15 Aug 2026 17:30:21 -0400"
@@ -158,32 +178,37 @@
      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
      "date": "Sat, 15 Aug 2026 14:21:32 -0400"
-    },
-    {
-     "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
-     "date": "Sat, 15 Aug 2026 13:25:34 -0400"
-    },
-    {
-     "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-     "date": "Sat, 15 Aug 2026 13:04:43 -0400"
-    },
-    {
-     "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
-     "date": "Sat, 15 Aug 2026 06:10:00 -0400"
-    },
-    {
-     "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
-     "date": "Sat, 15 Aug 2026 05:04:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 09:03:05 +0000"
+    },
+    {
+     "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 08:53:14 +0000"
+    },
+    {
+     "title": "At least 12 people killed in Hungary bus crash",
+     "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 08:50:30 +0000"
+    },
+    {
+     "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+     "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 08:40:34 +0000"
+    },
+    {
+     "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 08:39:38 +0000"
+    },
     {
      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
@@ -198,76 +223,6 @@
      "title": "New satellite images show Europe’s disappearing rivers due to drought",
      "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 07:46:22 +0000"
-    },
-    {
-     "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 07:04:29 +0000"
-    },
-    {
-     "title": "Bangladesh make history with first-ever Test cricket win in Australia",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 06:40:50 +0000"
-    },
-    {
-     "title": "How a simple lighter has become the backbone of life in Gaza",
-     "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 06:10:58 +0000"
-    },
-    {
-     "title": "A nation divided: What do Israelis want in October’s elections?",
-     "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 06:06:31 +0000"
-    },
-    {
-     "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-     "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 05:14:00 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
