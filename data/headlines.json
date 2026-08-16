@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 18:47 UTC",
+ "updated": "2026-08-16 19:33 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 18:04:25 GMT"
+     "date": "Sun, 16 Aug 2026 19:03:04 GMT"
     },
     {
      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
@@ -40,9 +40,9 @@
      "date": "Sun, 16 Aug 2026 17:44:23 GMT"
     },
     {
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 13:34:38 GMT"
+     "title": "Watch moment police arrest wanted man while he slept on roof",
+     "link": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 17:17:10 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 13 Aug 2026 14:21:52 GMT"
     },
     {
+     "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+     "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+     "date": "Sun, 16 Aug 2026 18:44:41 GMT"
+    },
+    {
      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
      "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
      "date": "Fri, 14 Aug 2026 21:03:43 GMT"
@@ -128,17 +133,17 @@
      "title": "Canadian plasma clinics pause collections after deaths of two donors",
      "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
      "date": "Fri, 14 Aug 2026 16:21:39 GMT"
-    },
-    {
-     "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-     "link": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-     "date": "Fri, 14 Aug 2026 14:04:49 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+     "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+     "date": "Sun, 16 Aug 2026 14:58:25 -0400"
+    },
     {
      "title": "A good – and bad – week for Italy's art police and museum security",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
@@ -173,17 +178,22 @@
      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+     "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 19:23:28 +0000"
+    },
+    {
+     "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 19:18:24 +0000"
+    },
     {
      "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
@@ -213,61 +223,6 @@
      "title": "Arsenal cruise to win over Manchester City in Community Shield",
      "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 16:17:36 +0000"
-    },
-    {
-     "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 15:51:26 +0000"
-    },
-    {
-     "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 15:35:53 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
