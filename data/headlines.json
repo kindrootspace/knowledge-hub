@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-16 07:45 UTC",
+ "updated": "2026-08-16 08:47 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 04:13:32 GMT"
+     "date": "Sun, 16 Aug 2026 08:23:38 GMT"
     },
     {
-     "title": "Reform UK plans to overhaul welfare system to save £50bn",
+     "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 08:14:56 GMT"
+    },
+    {
+     "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
      "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 00:39:22 GMT"
     },
     {
-     "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-     "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 21:28:54 GMT"
+     "title": "People who fled Stourbridge fires start to return home",
+     "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 08:32:57 GMT"
     },
     {
      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -25,14 +30,9 @@
      "date": "Sun, 16 Aug 2026 02:01:42 GMT"
     },
     {
-     "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 06:53:22 GMT"
-    },
-    {
-     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-     "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 20:58:31 GMT"
+     "date": "Sun, 16 Aug 2026 07:58:02 GMT"
     },
     {
      "title": "Hunt wins third gold as Asher-Smith makes history",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 08:11:47 +0000"
+    },
+    {
+     "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 07:47:45 +0000"
+    },
+    {
+     "title": "New satellite images show Europe’s disappearing rivers due to drought",
+     "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 07:46:22 +0000"
+    },
+    {
      "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
      "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 07:04:29 +0000"
@@ -208,21 +223,6 @@
      "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
      "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 05:14:00 +0000"
-    },
-    {
-     "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-     "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 04:54:33 +0000"
-    },
-    {
-     "title": "Israel strikes south Lebanon again as families flee north",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 04:43:21 +0000"
-    },
-    {
-     "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-     "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 04:35:26 +0000"
     }
    ]
   },
