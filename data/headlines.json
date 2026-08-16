@@ -1,11 +1,16 @@
 {
- "updated": "2026-08-16 05:43 UTC",
+ "updated": "2026-08-16 06:59 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 04:13:32 GMT"
+    },
+    {
+     "title": "Reform UK plans to overhaul welfare system to save £50bn",
      "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 00:39:22 GMT"
     },
@@ -20,24 +25,19 @@
      "date": "Sun, 16 Aug 2026 02:01:42 GMT"
     },
     {
-     "title": "Jason Arday death 'tragedy on so many levels' says PM",
-     "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 17:43:04 GMT"
-    },
-    {
-     "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 04:13:32 GMT"
-    },
-    {
-     "title": "Hunt wins third gold as Asher-Smith makes history",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 21:13:17 GMT"
+     "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+     "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 06:53:22 GMT"
     },
     {
      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 20:58:31 GMT"
+    },
+    {
+     "title": "Hunt wins third gold as Asher-Smith makes history",
+     "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 21:13:17 GMT"
     },
     {
      "title": "What's driving men to get penis fillers, despite the risks?",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 06:40:50 +0000"
+    },
+    {
+     "title": "How a simple lighter has become the backbone of life in Gaza",
+     "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 06:10:58 +0000"
+    },
+    {
+     "title": "A nation divided: What do Israelis want in October’s elections?",
+     "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 06:06:31 +0000"
+    },
+    {
      "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
      "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 05:14:00 +0000"
@@ -208,21 +223,51 @@
      "title": "Yemeni government forces hit back after new Houthi offensive",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 04:09:01 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
-     "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 03:47:43 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
-     "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 03:39:32 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 02:26:54 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
+    },
+    {
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
