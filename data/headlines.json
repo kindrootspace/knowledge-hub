@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-16 19:33 UTC",
+ "updated": "2026-08-16 20:38 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 19:58:14 GMT"
+    },
     {
      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 19:03:04 GMT"
     },
     {
-     "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
-     "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 12:18:09 GMT"
+     "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+     "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 20:07:40 GMT"
     },
     {
      "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
@@ -35,14 +40,9 @@
      "date": "Sun, 16 Aug 2026 15:04:13 GMT"
     },
     {
-     "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+     "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 17:44:23 GMT"
-    },
-    {
-     "title": "Watch moment police arrest wanted man while he slept on roof",
-     "link": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 17:17:10 GMT"
+     "date": "Sun, 16 Aug 2026 19:50:36 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+     "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+     "date": "Sun, 16 Aug 2026 16:20:22 -0400"
+    },
+    {
      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
      "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
      "date": "Sun, 16 Aug 2026 14:58:25 -0400"
@@ -173,17 +178,27 @@
      "title": "NPR Senior Podcast Challenge: Official Rules",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
-     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 20:04:51 +0000"
+    },
+    {
+     "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 20:02:09 +0000"
+    },
+    {
+     "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 19:29:31 +0000"
+    },
     {
      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
      "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
@@ -208,21 +223,51 @@
      "title": "Why are sandwiches more regulated than AI?",
      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 17:36:02 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-     "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 17:18:00 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Cristiano Ronaldo hints at retirement at end of season",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 17:03:18 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Arsenal cruise to win over Manchester City in Community Shield",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 16:17:36 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
+    },
+    {
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
