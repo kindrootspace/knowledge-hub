@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 10:40 UTC",
+ "updated": "2026-08-16 11:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "People who fled Stourbridge fires start to return home",
      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 09:35:01 GMT"
+     "date": "Sun, 16 Aug 2026 10:40:42 GMT"
     },
     {
      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
@@ -30,7 +30,7 @@
      "date": "Sun, 16 Aug 2026 08:49:32 GMT"
     },
     {
-     "title": "Hunt wins third gold as Asher-Smith makes history",
+     "title": "Amy Hunt praises 'superwomen' team after winning third European gold",
      "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 21:13:17 GMT"
     },
@@ -40,7 +40,7 @@
      "date": "Sat, 15 Aug 2026 23:42:33 GMT"
     },
     {
-     "title": "Feeling nervous about university? Current students offer advice to freshers",
+     "title": "Friends, finances and finding your feet - advice for this year's freshers",
      "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 23:45:15 GMT"
     }
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+     "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 11:14:23 +0000"
+    },
+    {
+     "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 11:00:00 +0000"
+    },
+    {
+     "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+     "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 10:59:10 +0000"
+    },
+    {
      "title": "Premier League: Key talking points heading into the new 2026-27 season",
      "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 10:33:42 +0000"
@@ -208,21 +223,6 @@
      "title": "Live video captures panic as gunman opens fire at park in Kentucky",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 09:24:22 +0000"
-    },
-    {
-     "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 09:03:05 +0000"
-    },
-    {
-     "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 08:53:14 +0000"
-    },
-    {
-     "title": "At least 12 people killed in Hungary bus crash",
-     "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 08:50:30 +0000"
     }
    ]
   },
