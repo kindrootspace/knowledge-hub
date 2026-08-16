@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 21:34 UTC",
+ "updated": "2026-08-16 22:36 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,6 +20,11 @@
      "date": "Sun, 16 Aug 2026 20:07:40 GMT"
     },
     {
+     "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+     "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 22:34:10 GMT"
+    },
+    {
      "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
      "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 15:53:21 GMT"
@@ -38,11 +43,6 @@
      "title": "Changing pubs into homes to be made harder under new rules",
      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 15:04:13 GMT"
-    },
-    {
-     "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-     "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 19:50:36 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "What could stop Israeli settler attacks on Palestinians?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 21:54:58 +0000"
+    },
+    {
+     "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+     "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 21:51:39 +0000"
+    },
+    {
      "title": "Anwar Ibrahim: Malaysia between the superpowers",
      "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 21:23:03 +0000"
@@ -213,16 +223,6 @@
      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
      "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 20:36:32 +0000"
-    },
-    {
-     "title": "US-Iran MoU is set to expire: What to know",
-     "link": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 20:28:21 +0000"
-    },
-    {
-     "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 20:04:51 +0000"
     }
    ]
   },
