@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-16 14:39 UTC",
+ "updated": "2026-08-16 15:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 15:14:01 GMT"
+    },
     {
      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
@@ -12,7 +17,7 @@
     {
      "title": "People who fled Stourbridge fires start to return home",
      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 14:21:05 GMT"
+     "date": "Sun, 16 Aug 2026 15:22:53 GMT"
     },
     {
      "title": "Murder inquiry after man bitten by dog dies",
@@ -20,14 +25,14 @@
      "date": "Sun, 16 Aug 2026 12:36:11 GMT"
     },
     {
-     "title": "Calls for public inquiry into Jason Arday 'witchhunt'",
+     "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
      "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 14:22:52 GMT"
+     "date": "Sun, 16 Aug 2026 15:33:02 GMT"
     },
     {
-     "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-     "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 02:01:42 GMT"
+     "title": "Changing pubs into homes to be made harder under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 15:04:13 GMT"
     },
     {
      "title": "What's driving men to get penis fillers, despite the risks?",
@@ -38,11 +43,6 @@
      "title": "Friends, finances and finding your feet - advice for this year's freshers",
      "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 23:45:15 GMT"
-    },
-    {
-     "title": "The influencers getting bitten while chasing the perfect shark shot",
-     "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 23:04:29 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-     "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 15:58:21 GMT"
+     "title": "Changing pubs into homes to be made harder under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 15:04:13 GMT"
     },
     {
      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -75,19 +75,19 @@
      "date": "Fri, 14 Aug 2026 07:45:51 GMT"
     },
     {
-     "title": "US says dozens of countries helped China dodge Trump's tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 08:39:46 GMT"
-    },
-    {
      "title": "Protein or pickled garlic? What's new in ice cream",
      "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 21:20:19 GMT"
     },
     {
-     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 13 Aug 2026 21:43:47 GMT"
+     "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+     "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 15:58:21 GMT"
+    },
+    {
+     "title": "US says dozens of countries helped China dodge Trump's tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 14 Aug 2026 08:39:46 GMT"
     }
    ]
   },
@@ -140,7 +140,7 @@
    "name": "NPR",
    "items": [
     {
-     "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+     "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
      "date": "Sun, 16 Aug 2026 07:54:19 -0400"
     },
@@ -155,11 +155,6 @@
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
@@ -167,6 +162,11 @@
     {
      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     },
     {
@@ -184,6 +184,26 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+     "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 14:55:51 +0000"
+    },
+    {
+     "title": "‘The Mediterranean is a bridge, not a border’",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 14:40:38 +0000"
+    },
+    {
+     "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 14:35:15 +0000"
+    },
+    {
+     "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+     "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 14:29:18 +0000"
+    },
     {
      "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
      "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 13:17:57 +0000"
-    },
-    {
-     "title": "Belgium’s largest wildfire on record spreads towards German border",
-     "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 12:35:31 +0000"
-    },
-    {
-     "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
-     "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 11:54:55 +0000"
-    },
-    {
-     "title": "‘Limited options’ for many Iranians as war with US chokes economy",
-     "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 11:38:50 +0000"
-    },
-    {
-     "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-     "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 11:14:23 +0000"
     }
    ]
   },
