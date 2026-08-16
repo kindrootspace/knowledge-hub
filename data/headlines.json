@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 17:34 UTC",
+ "updated": "2026-08-16 18:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 15:50:12 GMT"
+     "date": "Sun, 16 Aug 2026 18:04:25 GMT"
     },
     {
      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
@@ -37,7 +37,7 @@
     {
      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 17:18:56 GMT"
+     "date": "Sun, 16 Aug 2026 17:44:23 GMT"
     },
     {
      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 17:46:21 +0000"
+    },
+    {
+     "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 17:45:52 +0000"
+    },
+    {
+     "title": "Why are sandwiches more regulated than AI?",
+     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 17:36:02 +0000"
+    },
+    {
      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
      "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 17:18:00 +0000"
@@ -195,7 +210,7 @@
      "date": "Sun, 16 Aug 2026 17:03:18 +0000"
     },
     {
-     "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
+     "title": "Arsenal cruise to win over Manchester City in Community Shield",
      "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 16:17:36 +0000"
     },
@@ -208,21 +223,6 @@
      "title": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 15:35:53 +0000"
-    },
-    {
-     "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-     "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 14:55:51 +0000"
-    },
-    {
-     "title": "‘The Mediterranean is a bridge, not a border’",
-     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 14:40:38 +0000"
-    },
-    {
-     "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 14:35:15 +0000"
     }
    ]
   },
