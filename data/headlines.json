@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 20:38 UTC",
+ "updated": "2026-08-16 21:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Multiple people dead as flooding continues in Indiana",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+     "date": "Sun, 16 Aug 2026 16:38:40 -0400"
+    },
+    {
      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
      "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
      "date": "Sun, 16 Aug 2026 16:20:22 -0400"
@@ -173,11 +178,6 @@
      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
      "date": "Sun, 16 Aug 2026 06:12:09 -0400"
-    },
-    {
-     "title": "NPR Senior Podcast Challenge: Official Rules",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
-     "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Anwar Ibrahim: Malaysia between the superpowers",
+     "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 21:23:03 +0000"
+    },
+    {
+     "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+     "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 21:03:53 +0000"
+    },
+    {
+     "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 21:02:08 +0000"
+    },
+    {
+     "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 20:55:19 +0000"
+    },
+    {
+     "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+     "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 20:46:01 +0000"
+    },
+    {
+     "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+     "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 20:36:32 +0000"
+    },
+    {
+     "title": "US-Iran MoU is set to expire: What to know",
+     "link": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 20:28:21 +0000"
+    },
+    {
      "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 20:04:51 +0000"
-    },
-    {
-     "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 20:02:09 +0000"
-    },
-    {
-     "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 19:29:31 +0000"
-    },
-    {
-     "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-     "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 19:23:28 +0000"
-    },
-    {
-     "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 19:18:24 +0000"
-    },
-    {
-     "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 17:46:21 +0000"
-    },
-    {
-     "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 17:45:52 +0000"
-    },
-    {
-     "title": "Why are sandwiches more regulated than AI?",
-     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 17:36:02 +0000"
     }
    ]
   },
