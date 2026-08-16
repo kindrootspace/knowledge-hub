@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-16 11:34 UTC",
+ "updated": "2026-08-16 13:01 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+     "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 12:18:09 GMT"
+    },
+    {
      "title": "People who fled Stourbridge fires start to return home",
      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 10:40:42 GMT"
+     "date": "Sun, 16 Aug 2026 12:14:44 GMT"
     },
     {
      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
@@ -15,9 +20,9 @@
      "date": "Sun, 16 Aug 2026 00:39:22 GMT"
     },
     {
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 08:23:38 GMT"
+     "title": "Murder inquiry after man bitten by dog dies",
+     "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 12:36:11 GMT"
     },
     {
      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -25,14 +30,9 @@
      "date": "Sun, 16 Aug 2026 02:01:42 GMT"
     },
     {
-     "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-     "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 08:49:32 GMT"
-    },
-    {
-     "title": "Amy Hunt praises 'superwomen' team after winning third European gold",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 21:13:17 GMT"
+     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 12:37:21 GMT"
     },
     {
      "title": "What's driving men to get penis fillers, despite the risks?",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+     "date": "Sun, 16 Aug 2026 07:54:19 -0400"
+    },
+    {
      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
      "date": "Sun, 16 Aug 2026 06:12:09 -0400"
@@ -155,13 +160,13 @@
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+     "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+     "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
     },
     {
@@ -173,17 +178,27 @@
      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
      "date": "Sat, 15 Aug 2026 17:20:51 -0400"
-    },
-    {
-     "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-     "date": "Sat, 15 Aug 2026 16:04:13 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Belgium’s largest wildfire on record spreads towards German border",
+     "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 12:35:31 +0000"
+    },
+    {
+     "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+     "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 11:54:55 +0000"
+    },
+    {
+     "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+     "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 11:38:50 +0000"
+    },
     {
      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
      "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 10:32:42 +0000"
-    },
-    {
-     "title": "The post-Hormuz era offers Africa a great opportunity",
-     "link": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 10:09:32 +0000"
-    },
-    {
-     "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 09:48:42 +0000"
-    },
-    {
-     "title": "Live video captures panic as gunman opens fire at park in Kentucky",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 09:24:22 +0000"
     }
    ]
   },
