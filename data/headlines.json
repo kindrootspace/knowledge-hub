@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 16:42 UTC",
+ "updated": "2026-08-16 17:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -35,9 +35,9 @@
      "date": "Sun, 16 Aug 2026 15:04:13 GMT"
     },
     {
-     "title": "Two dead and evacuation under way as fires break out on Greek island",
+     "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 16:14:26 GMT"
+     "date": "Sun, 16 Aug 2026 17:18:56 GMT"
     },
     {
      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+     "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 17:18:00 +0000"
+    },
+    {
+     "title": "Cristiano Ronaldo hints at retirement at end of season",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 17:03:18 +0000"
+    },
+    {
      "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
      "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 16:17:36 +0000"
@@ -213,16 +223,6 @@
      "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 14:35:15 +0000"
-    },
-    {
-     "title": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-     "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 14:29:18 +0000"
-    },
-    {
-     "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 13:53:20 +0000"
     }
    ]
   },
