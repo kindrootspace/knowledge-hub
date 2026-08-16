@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 09:42 UTC",
+ "updated": "2026-08-16 10:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -40,7 +40,7 @@
      "date": "Sat, 15 Aug 2026 23:42:33 GMT"
     },
     {
-     "title": "Feeling nervous about university? Current students offer some advice to freshers",
+     "title": "Feeling nervous about university? Current students offer advice to freshers",
      "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 15 Aug 2026 23:45:15 GMT"
     }
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+     "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+     "date": "Sun, 16 Aug 2026 06:12:09 -0400"
+    },
+    {
      "title": "NPR Senior Podcast Challenge: Official Rules",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
      "date": "Sun, 16 Aug 2026 05:00:00 -0400"
@@ -173,17 +178,37 @@
      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
      "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
      "date": "Sat, 15 Aug 2026 16:04:13 -0400"
-    },
-    {
-     "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
-     "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-     "date": "Sat, 15 Aug 2026 14:21:32 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Premier League: Key talking points heading into the new 2026-27 season",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 10:33:42 +0000"
+    },
+    {
+     "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 10:32:42 +0000"
+    },
+    {
+     "title": "The post-Hormuz era offers Africa a great opportunity",
+     "link": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 10:09:32 +0000"
+    },
+    {
+     "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+     "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 09:48:42 +0000"
+    },
+    {
+     "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 09:24:22 +0000"
+    },
     {
      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
@@ -198,31 +223,51 @@
      "title": "At least 12 people killed in Hungary bus crash",
      "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 08:50:30 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+     "link": "https://www.nature.com/articles/s41586-026-11023-3",
+     "date": ""
     },
     {
-     "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-     "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 08:40:34 +0000"
+     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+     "link": "https://www.nature.com/articles/s41586-026-11022-4",
+     "date": ""
     },
     {
-     "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 08:39:38 +0000"
+     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+     "link": "https://www.nature.com/articles/d41586-026-02562-w",
+     "date": ""
     },
     {
-     "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 08:11:47 +0000"
+     "title": "Einstein the musician, AI prophets and more: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-02504-6",
+     "date": ""
     },
     {
-     "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-     "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 07:47:45 +0000"
+     "title": "Undocumented migration does not raise crime rates, huge study finds",
+     "link": "https://www.nature.com/articles/d41586-026-02542-0",
+     "date": ""
     },
     {
-     "title": "New satellite images show Europe’s disappearing rivers due to drought",
-     "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
-     "date": "Sun, 16 Aug 2026 07:46:22 +0000"
+     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+     "link": "https://www.nature.com/articles/s41586-026-10959-w",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+     "link": "https://www.nature.com/articles/s41586-026-10960-3",
+     "date": ""
+    },
+    {
+     "title": "How to make your science business succeed when you’re a female founder",
+     "link": "https://www.nature.com/articles/d41586-026-01904-y",
+     "date": ""
     }
    ]
   }
