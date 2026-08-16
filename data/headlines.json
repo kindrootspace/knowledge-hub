@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16 03:13 UTC",
+ "updated": "2026-08-16 04:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+     "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 03:47:43 +0000"
+    },
+    {
+     "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
+     "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+     "date": "Sun, 16 Aug 2026 03:39:32 +0000"
+    },
+    {
      "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
      "date": "Sun, 16 Aug 2026 02:26:54 +0000"
@@ -213,61 +223,6 @@
      "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
      "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
      "date": "Sat, 15 Aug 2026 23:27:10 +0000"
-    },
-    {
-     "title": "At least five reported dead amid flooding in US state of Indiana",
-     "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 23:19:34 +0000"
-    },
-    {
-     "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-     "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-     "date": "Sat, 15 Aug 2026 23:04:47 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
-     "date": ""
     }
    ]
   }
