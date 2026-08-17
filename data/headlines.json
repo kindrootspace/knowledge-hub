@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 05:50 UTC",
+ "updated": "2026-08-17 07:16 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,14 +20,14 @@
      "date": "Mon, 17 Aug 2026 02:08:56 GMT"
     },
     {
-     "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
-     "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 20:07:40 GMT"
+     "title": "Post-mortems to take place after five boys killed in crash on wrong side of motorway",
+     "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 06:48:29 GMT"
     },
     {
      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 05:06:47 GMT"
+     "date": "Mon, 17 Aug 2026 06:24:31 GMT"
     },
     {
      "title": "History for Hunt and Asher-Smith in golden finish for GB",
@@ -37,7 +37,7 @@
     {
      "title": "Ukrainian strikes kill six in Russia, acting governor says",
      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 05:38:13 GMT"
+     "date": "Mon, 17 Aug 2026 06:57:23 GMT"
     },
     {
      "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
@@ -55,7 +55,7 @@
      "date": "Sun, 16 Aug 2026 23:14:47 GMT"
     },
     {
-     "title": "Ferrari's first ever electric car sold for record $40m at auction",
+     "title": "Ferrari's first ever electric car sold for record $40m",
      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 02:22:04 GMT"
     },
@@ -67,7 +67,7 @@
     {
      "title": "Changing pubs into homes to be made harder under new rules",
      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 15:04:13 GMT"
+     "date": "Mon, 17 Aug 2026 07:04:21 GMT"
     },
     {
      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
@@ -185,7 +185,22 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "At least six dead in ‘stampede-like’ incident at India temple",
+     "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
+     "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 06:28:05 +0000"
+    },
+    {
+     "title": "Japan’s economy slows, missing growth forecasts",
+     "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 06:14:39 +0000"
+    },
+    {
+     "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
+     "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 06:02:02 +0000"
+    },
+    {
+     "title": "At least seven dead in ‘stampede-like’ incident at India temple",
      "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 05:32:33 +0000"
     },
@@ -208,21 +223,6 @@
      "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 03:41:30 +0000"
-    },
-    {
-     "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 02:55:01 +0000"
-    },
-    {
-     "title": "Zambia incumbent takes early election lead as opposition alleges armed raid",
-     "link": "https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 02:27:39 +0000"
-    },
-    {
-     "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
-     "link": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 01:41:40 +0000"
     }
    ]
   },
