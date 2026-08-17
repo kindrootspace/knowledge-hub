@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 19:42 UTC",
+ "updated": "2026-08-17 20:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -13,6 +13,11 @@
      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 17:31:36 GMT"
+    },
+    {
+     "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 20:39:13 GMT"
     },
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -32,17 +37,12 @@
     {
      "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
      "link": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 17:34:30 GMT"
+     "date": "Mon, 17 Aug 2026 19:54:08 GMT"
     },
     {
-     "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-     "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 02:08:56 GMT"
-    },
-    {
-     "title": "Princess Eugenie announces name of baby daughter",
-     "link": "https://www.bbc.co.uk/news/articles/cn4nkww841xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 17:12:36 GMT"
+     "title": "Jason Arday's family 'still coming to terms' with his death as vigil held",
+     "link": "https://www.bbc.co.uk/news/articles/ceqe87lelvgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 20:20:24 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Democrat Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
+     "date": "Mon, 17 Aug 2026 15:53:37 -0400"
+    },
+    {
      "title": "DHS defends investigating agency critics and giving them warning notices",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
      "date": "Mon, 17 Aug 2026 09:31:13 -0400"
@@ -150,24 +155,14 @@
      "date": "Mon, 17 Aug 2026 07:48:21 -0400"
     },
     {
+     "title": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
+     "date": "Mon, 17 Aug 2026 06:49:59 -0400"
+    },
+    {
      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
-    },
-    {
-     "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Advocates worry new bans on student IDs will trip up younger voters",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
@@ -178,6 +173,11 @@
      "title": "Elon Musk's Starbase wants to expand in south Texas",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Advocates worry new bans on student IDs will trip up younger voters",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,12 +185,22 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Why did Trump scale back war games with South Korea?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 19:34:20 +0000"
+    },
+    {
+     "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 19:32:06 +0000"
+    },
+    {
      "title": "Photos: Search for Indonesia earthquake victims continues",
      "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 19:22:54 +0000"
     },
     {
-     "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
+     "title": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
      "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 19:12:19 +0000"
     },
@@ -213,16 +223,6 @@
      "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 17:42:02 +0000"
-    },
-    {
-     "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-     "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 17:37:31 +0000"
-    },
-    {
-     "title": "Explosion reported at school in Afghan capital Kabul",
-     "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 17:30:11 +0000"
     }
    ]
   },
