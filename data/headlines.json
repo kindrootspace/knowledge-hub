@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-17 03:13 UTC",
+ "updated": "2026-08-17 04:58 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 19:58:14 GMT"
+     "date": "Mon, 17 Aug 2026 04:50:56 GMT"
+    },
+    {
+     "title": "Heroes actress Hayden Panettiere dies aged 36",
+     "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 04:53:27 GMT"
     },
     {
      "title": "UK to turn cooler with rain after exceptional heat and dry spell",
@@ -38,11 +43,6 @@
      "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
      "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 15:33:02 GMT"
-    },
-    {
-     "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-     "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 15:53:21 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+     "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 03:53:07 +0000"
+    },
+    {
+     "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 03:41:30 +0000"
+    },
+    {
      "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 02:55:01 +0000"
@@ -213,16 +223,6 @@
      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
      "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 00:11:18 +0000"
-    },
-    {
-     "title": "Israel releases 35 Palestinian prisoners back into Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 00:05:34 +0000"
-    },
-    {
-     "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 00:00:35 +0000"
     }
    ]
   },
