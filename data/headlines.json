@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 14:45 UTC",
+ "updated": "2026-08-17 15:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 14:36:44 GMT"
+     "date": "Mon, 17 Aug 2026 14:59:02 GMT"
     },
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -20,19 +20,19 @@
      "date": "Mon, 17 Aug 2026 05:03:31 GMT"
     },
     {
-     "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-     "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 02:08:56 GMT"
-    },
-    {
      "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
      "link": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 14:29:58 GMT"
     },
     {
-     "title": "Boy, seven, among four injured after crash that killed five teenagers",
+     "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+     "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 02:08:56 GMT"
+    },
+    {
+     "title": "Boy, seven, among four injured after crash in Ireland that killed five teenagers",
      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 14:21:02 GMT"
+     "date": "Mon, 17 Aug 2026 15:07:50 GMT"
     },
     {
      "title": "Wildfire phone alert was 'entirely appropriate', government says",
@@ -155,16 +155,6 @@
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
     },
     {
-     "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
@@ -172,6 +162,16 @@
     {
      "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
@@ -184,6 +184,26 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Police execute controlled World War II–era Mine explosion",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 15:08:17 +0000"
+    },
+    {
+     "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+     "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 15:06:14 +0000"
+    },
+    {
+     "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+     "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 14:15:17 +0000"
+    },
+    {
+     "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+     "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 14:12:08 +0000"
+    },
     {
      "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
@@ -203,71 +223,6 @@
      "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
      "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 13:24:57 +0000"
-    },
-    {
-     "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-     "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 13:07:19 +0000"
-    },
-    {
-     "title": "Cameroon celebrates after winning first ever WAFCON title",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 13:06:47 +0000"
-    },
-    {
-     "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-     "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 12:44:01 +0000"
-    },
-    {
-     "title": "Trump scales down war games with South Korea: Why it matters",
-     "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 12:20:47 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
-     "link": "https://www.nature.com/articles/s41586-026-10995-6",
-     "date": ""
-    },
-    {
-     "title": "Too hot to sleep? How heatwaves at night affect our health",
-     "link": "https://www.nature.com/articles/d41586-026-02532-2",
-     "date": ""
-    },
-    {
-     "title": "How the story of life and our planet unfolded — together",
-     "link": "https://www.nature.com/articles/d41586-026-02530-4",
-     "date": ""
-    },
-    {
-     "title": "Universities must stop protecting bullies — or more people will leave science",
-     "link": "https://www.nature.com/articles/d41586-026-02526-0",
-     "date": ""
-    },
-    {
-     "title": "Why AI systems are most useful as designers of new scientific tools",
-     "link": "https://www.nature.com/articles/d41586-026-02529-x",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
-     "link": "https://www.nature.com/articles/s41586-026-11023-3",
-     "date": ""
-    },
-    {
-     "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
-     "link": "https://www.nature.com/articles/s41586-026-11022-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
-     "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
     }
    ]
   }
