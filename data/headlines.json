@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 09:57 UTC",
+ "updated": "2026-08-17 10:48 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Mon, 17 Aug 2026 05:03:31 GMT"
     },
     {
-     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 08:43:12 GMT"
+     "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+     "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 10:16:25 GMT"
     },
     {
      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
@@ -20,19 +20,19 @@
      "date": "Mon, 17 Aug 2026 02:08:56 GMT"
     },
     {
-     "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-     "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 08:38:10 GMT"
-    },
-    {
      "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 06:48:29 GMT"
     },
     {
-     "title": "'Are you not entertained?' Sprint sensation Amy Hunt on winning four gold medals in seven days",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 07:02:43 GMT"
+     "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
+     "link": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 19:58:15 GMT"
+    },
+    {
+     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 08:43:12 GMT"
     },
     {
      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
@@ -57,7 +57,7 @@
     {
      "title": "Virgin takes step towards running Channel Tunnel rail services",
      "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 09:47:51 GMT"
+     "date": "Mon, 17 Aug 2026 10:39:19 GMT"
     },
     {
      "title": "Ferrari's first ever electric car sold for record $40m",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+     "date": "Mon, 17 Aug 2026 06:00:10 -0400"
+    },
+    {
      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
@@ -147,11 +152,6 @@
     {
      "title": "Car problems? No childcare? How an app is helping people get to work",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Elon Musk's Starbase wants to expand in south Texas",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
@@ -165,25 +165,35 @@
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
-     "date": "Mon, 17 Aug 2026 04:49:18 -0400"
+     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Elon Musk's Starbase wants to expand in south Texas",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Thousands await aid after deadly Indonesia quake as rescue work conducted",
+     "link": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 10:14:28 +0000"
+    },
+    {
+     "title": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
+     "link": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 09:41:19 +0000"
+    },
     {
      "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
      "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
@@ -213,22 +223,22 @@
      "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
      "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 08:13:04 +0000"
-    },
-    {
-     "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
-     "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 08:00:05 +0000"
-    },
-    {
-     "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 06:28:05 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+     "link": "https://www.nature.com/articles/s41586-026-10995-6",
+     "date": ""
+    },
+    {
+     "title": "Too hot to sleep? How heatwaves at night affect our health",
+     "link": "https://www.nature.com/articles/d41586-026-02532-2",
+     "date": ""
+    },
     {
      "title": "How the story of life and our planet unfolded — together",
      "link": "https://www.nature.com/articles/d41586-026-02530-4",
@@ -257,16 +267,6 @@
     {
      "title": "Einstein the musician, AI prophets and more: Books in brief",
      "link": "https://www.nature.com/articles/d41586-026-02504-6",
-     "date": ""
-    },
-    {
-     "title": "Undocumented migration does not raise crime rates, huge study finds",
-     "link": "https://www.nature.com/articles/d41586-026-02542-0",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
-     "link": "https://www.nature.com/articles/s41586-026-10959-w",
      "date": ""
     }
    ]
