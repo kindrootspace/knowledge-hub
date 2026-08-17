@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 07:16 UTC",
+ "updated": "2026-08-17 08:03 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,12 +15,12 @@
      "date": "Mon, 17 Aug 2026 05:03:31 GMT"
     },
     {
-     "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+     "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
      "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 02:08:56 GMT"
     },
     {
-     "title": "Post-mortems to take place after five boys killed in crash on wrong side of motorway",
+     "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 06:48:29 GMT"
     },
@@ -37,12 +37,12 @@
     {
      "title": "Ukrainian strikes kill six in Russia, acting governor says",
      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 06:57:23 GMT"
+     "date": "Mon, 17 Aug 2026 07:41:24 GMT"
     },
     {
-     "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
-     "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 23:21:37 GMT"
+     "title": "Hundreds attend emotional Cambridge vigil for Jason Arday",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9997g85vo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 07:55:23 GMT"
     }
    ]
   },
@@ -60,7 +60,7 @@
      "date": "Mon, 17 Aug 2026 02:22:04 GMT"
     },
     {
-     "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+     "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
      "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 05:00:25 GMT"
     },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+     "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 08:00:05 +0000"
+    },
+    {
      "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
      "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 06:28:05 +0000"
@@ -218,11 +223,6 @@
      "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
      "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 03:53:07 +0000"
-    },
-    {
-     "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 03:41:30 +0000"
     }
    ]
   },
