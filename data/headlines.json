@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 21:41 UTC",
+ "updated": "2026-08-17 22:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 17:31:36 GMT"
+     "date": "Mon, 17 Aug 2026 21:43:57 GMT"
     },
     {
      "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
@@ -55,6 +55,11 @@
      "date": "Mon, 17 Aug 2026 12:46:25 GMT"
     },
     {
+     "title": "Fifa official sacked after Infantino plan criticism",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 20:46:08 GMT"
+    },
+    {
      "title": "How switching your bank account could earn you up to £220",
      "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 23:14:47 GMT"
@@ -70,24 +75,19 @@
      "date": "Mon, 17 Aug 2026 05:00:25 GMT"
     },
     {
-     "title": "Changing pubs into homes to be made harder under new rules",
-     "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 07:04:21 GMT"
-    },
-    {
      "title": "Protein or pickled garlic? What's new in ice cream",
      "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 21:20:19 GMT"
     },
     {
+     "title": "Changing pubs into homes to be made harder under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 07:04:21 GMT"
+    },
+    {
      "title": "Sainsbury's branch halts AI use as shopper ejected",
      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 04:57:21 GMT"
-    },
-    {
-     "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-     "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 12:43:09 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+     "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 22:26:12 +0000"
+    },
+    {
+     "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+     "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 21:39:22 +0000"
+    },
+    {
      "title": "Palestinian American reunites with family under siege in West Bank",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 20:57:19 +0000"
@@ -210,19 +220,9 @@
      "date": "Mon, 17 Aug 2026 20:41:39 +0000"
     },
     {
-     "title": "Trump’s approval rating sinks to new low",
+     "title": "Trump’s approval rating sinks to new low at 33 percent",
      "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 20:41:31 +0000"
-    },
-    {
-     "title": "Why did Trump scale back war games with South Korea?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 19:34:20 +0000"
-    },
-    {
-     "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 19:32:06 +0000"
     }
    ]
   },
