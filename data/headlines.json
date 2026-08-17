@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 04:58 UTC",
+ "updated": "2026-08-17 05:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Mon, 17 Aug 2026 04:50:56 GMT"
     },
     {
-     "title": "Heroes actress Hayden Panettiere dies aged 36",
-     "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 04:53:27 GMT"
+     "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+     "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 05:03:31 GMT"
     },
     {
      "title": "UK to turn cooler with rain after exceptional heat and dry spell",
@@ -25,14 +25,9 @@
      "date": "Sun, 16 Aug 2026 20:07:40 GMT"
     },
     {
-     "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+     "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 02:51:27 GMT"
-    },
-    {
-     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 19:03:04 GMT"
+     "date": "Mon, 17 Aug 2026 05:06:47 GMT"
     },
     {
      "title": "History for Hunt and Asher-Smith in golden finish for GB",
@@ -40,15 +35,25 @@
      "date": "Sun, 16 Aug 2026 20:14:46 GMT"
     },
     {
-     "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-     "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 15:33:02 GMT"
+     "title": "Ukrainian strikes kill six in Russia, acting governor says",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 05:38:13 GMT"
+    },
+    {
+     "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+     "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 23:21:37 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "How switching your bank account could earn you up to £220",
+     "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 23:14:47 GMT"
+    },
     {
      "title": "Ferrari's first ever electric car sold for record $40m at auction",
      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
@@ -57,7 +62,7 @@
     {
      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
      "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 23:27:36 GMT"
+     "date": "Mon, 17 Aug 2026 05:00:25 GMT"
     },
     {
      "title": "Changing pubs into homes to be made harder under new rules",
@@ -70,24 +75,19 @@
      "date": "Sat, 15 Aug 2026 23:45:44 GMT"
     },
     {
-     "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-     "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 03:58:31 GMT"
-    },
-    {
      "title": "Protein or pickled garlic? What's new in ice cream",
      "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 21:20:19 GMT"
     },
     {
+     "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+     "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 15 Aug 2026 03:58:31 GMT"
+    },
+    {
      "title": "Selena Gomez sued for alleged fraud over mental health company",
      "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 14 Aug 2026 11:32:05 GMT"
-    },
-    {
-     "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
-     "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 14 Aug 2026 07:45:51 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+     "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+     "date": "Mon, 17 Aug 2026 01:21:39 -0400"
+    },
+    {
      "title": "Multiple people dead as flooding continues in Indiana",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
      "date": "Sun, 16 Aug 2026 16:38:40 -0400"
@@ -173,17 +178,27 @@
      "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
      "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
      "date": "Sun, 16 Aug 2026 07:54:19 -0400"
-    },
-    {
-     "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-     "date": "Sun, 16 Aug 2026 06:12:09 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "At least six dead in ‘stampede-like’ incident at India temple",
+     "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 05:32:33 +0000"
+    },
+    {
+     "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 05:16:18 +0000"
+    },
+    {
+     "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 04:58:47 +0000"
+    },
     {
      "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
      "link": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
      "link": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 01:41:40 +0000"
-    },
-    {
-     "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
-     "link": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 01:28:13 +0000"
-    },
-    {
-     "title": "Can the AU make its current Sudan mission count?",
-     "link": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 01:13:37 +0000"
-    },
-    {
-     "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-     "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 00:11:18 +0000"
     }
    ]
   },
