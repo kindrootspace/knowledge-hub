@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 13:06 UTC",
+ "updated": "2026-08-17 13:53 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
      "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 11:20:23 GMT"
+     "date": "Mon, 17 Aug 2026 13:30:35 GMT"
     },
     {
      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
@@ -32,17 +32,17 @@
     {
      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 12:27:11 GMT"
+     "date": "Mon, 17 Aug 2026 13:50:06 GMT"
     },
     {
-     "title": "Viral vodka brand set to sell for £500m to BuzzBallz owner",
+     "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
      "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 12:43:09 GMT"
     },
     {
      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
      "link": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 12:53:43 GMT"
+     "date": "Mon, 17 Aug 2026 13:50:15 GMT"
     }
    ]
   },
@@ -85,7 +85,7 @@
      "date": "Mon, 17 Aug 2026 04:57:21 GMT"
     },
     {
-     "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
+     "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
      "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 12:43:09 GMT"
     }
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "DHS defends investigating agency critics and giving them warning notices",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
+     "date": "Mon, 17 Aug 2026 09:31:13 -0400"
+    },
+    {
      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
      "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
      "date": "Mon, 17 Aug 2026 07:48:21 -0400"
@@ -148,6 +153,16 @@
      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
+    },
+    {
+     "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
@@ -163,27 +178,27 @@
      "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Advocates worry new bans on student IDs will trip up young voters",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
+     "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 13:24:57 +0000"
+    },
+    {
+     "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+     "link": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 13:07:19 +0000"
+    },
+    {
+     "title": "Cameroon celebrates after winning first ever WAFCON title",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 13:06:47 +0000"
+    },
     {
      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
      "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Jason Arday’s death is institutional murder",
      "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 12:08:03 +0000"
-    },
-    {
-     "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
-     "link": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 12:07:23 +0000"
-    },
-    {
-     "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 11:44:01 +0000"
-    },
-    {
-     "title": "Trump orders US to scale back South Korea military drills",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 11:29:00 +0000"
     }
    ]
   },
