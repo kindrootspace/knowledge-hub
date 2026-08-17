@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-17 15:40 UTC",
+ "updated": "2026-08-17 16:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 14:59:02 GMT"
+     "date": "Mon, 17 Aug 2026 16:26:34 GMT"
     },
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -30,19 +30,19 @@
      "date": "Mon, 17 Aug 2026 02:08:56 GMT"
     },
     {
+     "title": "Princess Eugenie announces name of baby daughter",
+     "link": "https://www.bbc.co.uk/news/articles/cn4nkww841xo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 16:12:38 GMT"
+    },
+    {
      "title": "Boy, seven, among four injured after crash in Ireland that killed five teenagers",
      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 15:07:50 GMT"
     },
     {
-     "title": "Wildfire phone alert was 'entirely appropriate', government says",
-     "link": "https://www.bbc.co.uk/news/articles/cwy4zepzp7eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 14:35:59 GMT"
-    },
-    {
      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 13:58:38 GMT"
+     "date": "Mon, 17 Aug 2026 16:02:58 GMT"
     }
    ]
   },
@@ -155,16 +155,6 @@
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
     },
     {
-     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
@@ -172,6 +162,16 @@
     {
      "title": "Meta heads to court in a landmark trial about kids and social media addiction",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+     "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 16:14:07 +0000"
+    },
+    {
+     "title": "How Russian dissidents are being punished by both Russia and Europe",
+     "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 15:54:34 +0000"
+    },
+    {
+     "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
+     "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 15:21:47 +0000"
+    },
     {
      "title": "Police execute controlled World War II–era Mine explosion",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
@@ -208,21 +223,51 @@
      "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 14:03:26 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Positional isomerisation of pyridine via nitrogen transposition",
+     "link": "https://www.nature.com/articles/s41586-026-11006-4",
+     "date": ""
     },
     {
-     "title": "Global condemnation of Israeli settler violence against Palestinians",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 14:01:51 +0000"
+     "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+     "link": "https://www.nature.com/articles/s41586-026-11009-1",
+     "date": ""
     },
     {
-     "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
-     "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 13:48:09 +0000"
+     "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+     "link": "https://www.nature.com/articles/s41586-026-10995-6",
+     "date": ""
     },
     {
-     "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 13:24:57 +0000"
+     "title": "Defect passivation and optical management of triple-junction solar cells",
+     "link": "https://www.nature.com/articles/s41586-026-11010-8",
+     "date": ""
+    },
+    {
+     "title": "Too hot to sleep? How heatwaves at night affect our health",
+     "link": "https://www.nature.com/articles/d41586-026-02532-2",
+     "date": ""
+    },
+    {
+     "title": "How the story of life and our planet unfolded — together",
+     "link": "https://www.nature.com/articles/d41586-026-02530-4",
+     "date": ""
+    },
+    {
+     "title": "Universities must stop protecting bullies — or more people will leave science",
+     "link": "https://www.nature.com/articles/d41586-026-02526-0",
+     "date": ""
+    },
+    {
+     "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
+     "link": "https://www.nature.com/articles/d41586-026-02552-y",
+     "date": ""
     }
    ]
   }
