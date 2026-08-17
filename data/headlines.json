@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-17 09:01 UTC",
+ "updated": "2026-08-17 09:57 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 08:43:12 GMT"
-    },
-    {
      "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
      "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 05:03:31 GMT"
+    },
+    {
+     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 08:43:12 GMT"
     },
     {
      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
@@ -37,7 +37,7 @@
     {
      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
      "link": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 08:40:49 GMT"
+     "date": "Mon, 17 Aug 2026 09:19:03 GMT"
     },
     {
      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
@@ -55,6 +55,11 @@
      "date": "Sun, 16 Aug 2026 23:14:47 GMT"
     },
     {
+     "title": "Virgin takes step towards running Channel Tunnel rail services",
+     "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 09:47:51 GMT"
+    },
+    {
      "title": "Ferrari's first ever electric car sold for record $40m",
      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 02:22:04 GMT"
@@ -63,11 +68,6 @@
      "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
      "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 05:00:25 GMT"
-    },
-    {
-     "title": "Sainsbury's pauses AI cameras after shopper ousted",
-     "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 04:57:21 GMT"
     },
     {
      "title": "Changing pubs into homes to be made harder under new rules",
@@ -80,14 +80,14 @@
      "date": "Fri, 14 Aug 2026 21:20:19 GMT"
     },
     {
+     "title": "Sainsbury's branch halts AI use as shopper ejected",
+     "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 04:57:21 GMT"
+    },
+    {
      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
      "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 23:26:30 GMT"
-    },
-    {
-     "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-     "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 15 Aug 2026 03:58:31 GMT"
     }
    ]
   },
@@ -140,50 +140,60 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Car problems? No childcare? How an app is helping people get to work",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Elon Musk's Starbase wants to expand in south Texas",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Can a student ID be used for voting? More Republican-led states are banning it",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
      "date": "Mon, 17 Aug 2026 04:49:18 -0400"
-    },
-    {
-     "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-     "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-     "date": "Mon, 17 Aug 2026 01:21:39 -0400"
-    },
-    {
-     "title": "Multiple people dead as flooding continues in Indiana",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-     "date": "Sun, 16 Aug 2026 16:38:40 -0400"
-    },
-    {
-     "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-     "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-     "date": "Sun, 16 Aug 2026 16:20:22 -0400"
-    },
-    {
-     "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-     "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-     "date": "Sun, 16 Aug 2026 14:58:25 -0400"
-    },
-    {
-     "title": "A good – and bad – week for Italy's art police and museum security",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-     "date": "Sun, 16 Aug 2026 12:27:54 -0400"
-    },
-    {
-     "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-     "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-     "date": "Sun, 16 Aug 2026 11:47:58 -0400"
-    },
-    {
-     "title": "What really happened in Ceuta? Why we may never find out",
-     "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-     "date": "Sun, 16 Aug 2026 11:38:22 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+     "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 09:03:57 +0000"
+    },
+    {
+     "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+     "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 09:01:52 +0000"
+    },
     {
      "title": "Scottie Scheffler wins St Jude Championship by eight shots",
      "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss",
@@ -213,22 +223,22 @@
      "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
      "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 06:28:05 +0000"
-    },
-    {
-     "title": "Japan’s economy slows, missing growth forecasts",
-     "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 06:14:39 +0000"
-    },
-    {
-     "title": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 06:02:02 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "How the story of life and our planet unfolded — together",
+     "link": "https://www.nature.com/articles/d41586-026-02530-4",
+     "date": ""
+    },
+    {
+     "title": "Universities must stop protecting bullies — or more people will leave science",
+     "link": "https://www.nature.com/articles/d41586-026-02526-0",
+     "date": ""
+    },
     {
      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
      "link": "https://www.nature.com/articles/s41586-026-11023-3",
@@ -257,16 +267,6 @@
     {
      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
      "link": "https://www.nature.com/articles/s41586-026-10959-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
-     "link": "https://www.nature.com/articles/s41586-026-10960-3",
-     "date": ""
-    },
-    {
-     "title": "How to make your science business succeed when you’re a female founder",
-     "link": "https://www.nature.com/articles/d41586-026-01904-y",
      "date": ""
     }
    ]
