@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-17 16:45 UTC",
+ "updated": "2026-08-17 17:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 16:26:34 GMT"
+    },
+    {
+     "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+     "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 17:31:36 GMT"
     },
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -32,17 +37,12 @@
     {
      "title": "Princess Eugenie announces name of baby daughter",
      "link": "https://www.bbc.co.uk/news/articles/cn4nkww841xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 16:12:38 GMT"
+     "date": "Mon, 17 Aug 2026 17:12:36 GMT"
     },
     {
      "title": "Boy, seven, among four injured after crash in Ireland that killed five teenagers",
      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 15:07:50 GMT"
-    },
-    {
-     "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-     "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 16:02:58 GMT"
+     "date": "Mon, 17 Aug 2026 17:23:43 GMT"
     }
    ]
   },
@@ -155,6 +155,11 @@
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
     },
     {
+     "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
@@ -165,18 +170,13 @@
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
+     "title": "Advocates worry new bans on student IDs will trip up younger voters",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Elon Musk's Starbase wants to expand in south Texas",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-     "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 16:14:07 +0000"
+     "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+     "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 17:37:31 +0000"
     },
     {
-     "title": "How Russian dissidents are being punished by both Russia and Europe",
-     "link": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 15:54:34 +0000"
+     "title": "Explosion reported at school in Afghan capital Kabul",
+     "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 17:30:11 +0000"
     },
     {
-     "title": "Rights group urges FIFA to block Infantino re-election bid over term limits",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 15:21:47 +0000"
+     "title": "Britain deploys military as wildfires spread across Europe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 17:25:37 +0000"
     },
     {
-     "title": "Police execute controlled World War II–era Mine explosion",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 15:08:17 +0000"
+     "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
+     "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 17:07:29 +0000"
     },
     {
-     "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
-     "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 15:06:14 +0000"
+     "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 16:50:15 +0000"
     },
     {
-     "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-     "link": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 14:15:17 +0000"
+     "title": "British PM Burnham duped by White House impostor",
+     "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 16:48:24 +0000"
     },
     {
-     "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-     "link": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 14:12:08 +0000"
+     "title": "War on Iran: Phase II, Day 37",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 16:27:48 +0000"
     },
     {
-     "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 14:03:26 +0000"
+     "title": "Somali army clashes with rebel forces for control of key city Baidoa",
+     "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 16:24:43 +0000"
     }
    ]
   },
