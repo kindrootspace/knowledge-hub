@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17 10:48 UTC",
+ "updated": "2026-08-17 11:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
      "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 10:16:25 GMT"
+     "date": "Mon, 17 Aug 2026 11:20:23 GMT"
     },
     {
      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
@@ -20,29 +20,29 @@
      "date": "Mon, 17 Aug 2026 02:08:56 GMT"
     },
     {
-     "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-     "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 06:48:29 GMT"
-    },
-    {
      "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
      "link": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 16 Aug 2026 19:58:15 GMT"
     },
     {
-     "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+     "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+     "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 06:48:29 GMT"
+    },
+    {
+     "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 08:43:12 GMT"
+     "date": "Mon, 17 Aug 2026 11:16:31 GMT"
     },
     {
      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
      "link": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 09:19:03 GMT"
+     "date": "Mon, 17 Aug 2026 11:04:44 GMT"
     },
     {
      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
      "link": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 07:26:15 GMT"
+     "date": "Mon, 17 Aug 2026 11:37:49 GMT"
     }
    ]
   },
@@ -165,8 +165,8 @@
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+     "title": "Elon Musk's Starbase wants to expand in south Texas",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
@@ -175,8 +175,8 @@
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Elon Musk's Starbase wants to expand in south Texas",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+     "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,7 +185,37 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Thousands await aid after deadly Indonesia quake as rescue work conducted",
+     "title": "Is the world experiencing more earthquakes now than before?",
+     "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 11:09:18 +0000"
+    },
+    {
+     "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
+     "link": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 10:57:49 +0000"
+    },
+    {
+     "title": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+     "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 10:54:50 +0000"
+    },
+    {
+     "title": "Indian temple stampede kills seven people and injures dozens",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 10:54:40 +0000"
+    },
+    {
+     "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
+     "link": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 10:51:49 +0000"
+    },
+    {
+     "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
+     "link": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 10:51:03 +0000"
+    },
+    {
+     "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
      "link": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 10:14:28 +0000"
     },
@@ -193,36 +223,6 @@
      "title": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
      "link": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 09:41:19 +0000"
-    },
-    {
-     "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
-     "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 09:03:57 +0000"
-    },
-    {
-     "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
-     "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 09:01:52 +0000"
-    },
-    {
-     "title": "Scottie Scheffler wins St Jude Championship by eight shots",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 08:43:09 +0000"
-    },
-    {
-     "title": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
-     "link": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 08:18:25 +0000"
-    },
-    {
-     "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 08:18:05 +0000"
-    },
-    {
-     "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
-     "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 08:13:04 +0000"
     }
    ]
   },
@@ -250,6 +250,11 @@
      "date": ""
     },
     {
+     "title": "Why AI systems are most useful as designers of new scientific tools",
+     "link": "https://www.nature.com/articles/d41586-026-02529-x",
+     "date": ""
+    },
+    {
      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
      "link": "https://www.nature.com/articles/s41586-026-11023-3",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
      "link": "https://www.nature.com/articles/d41586-026-02562-w",
-     "date": ""
-    },
-    {
-     "title": "Einstein the musician, AI prophets and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02504-6",
      "date": ""
     }
    ]
