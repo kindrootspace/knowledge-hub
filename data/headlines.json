@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-17 13:53 UTC",
+ "updated": "2026-08-17 14:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-     "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 05:03:31 GMT"
+     "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+     "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 14:36:44 GMT"
     },
     {
      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
      "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 13:30:35 GMT"
+     "date": "Mon, 17 Aug 2026 14:24:58 GMT"
+    },
+    {
+     "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+     "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 05:03:31 GMT"
     },
     {
      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
@@ -20,29 +25,24 @@
      "date": "Mon, 17 Aug 2026 02:08:56 GMT"
     },
     {
-     "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
-     "link": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 19:58:15 GMT"
+     "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
+     "link": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 14:29:58 GMT"
     },
     {
-     "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+     "title": "Boy, seven, among four injured after crash that killed five teenagers",
      "link": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 13:02:21 GMT"
+     "date": "Mon, 17 Aug 2026 14:21:02 GMT"
+    },
+    {
+     "title": "Wildfire phone alert was 'entirely appropriate', government says",
+     "link": "https://www.bbc.co.uk/news/articles/cwy4zepzp7eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 14:35:59 GMT"
     },
     {
      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 13:50:06 GMT"
-    },
-    {
-     "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-     "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 12:43:09 GMT"
-    },
-    {
-     "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
-     "link": "https://www.bbc.co.uk/news/articles/clyxklg3xypo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 13:50:15 GMT"
+     "date": "Mon, 17 Aug 2026 13:58:38 GMT"
     }
    ]
   },
@@ -50,14 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "How switching your bank account could earn you up to £220",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 23:14:47 GMT"
-    },
-    {
      "title": "Virgin takes step towards running Channel Tunnel rail services",
      "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 12:46:25 GMT"
+    },
+    {
+     "title": "How switching your bank account could earn you up to £220",
+     "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 16 Aug 2026 23:14:47 GMT"
     },
     {
      "title": "Ferrari's first ever electric car sold for record $40m",
@@ -97,7 +97,7 @@
     {
      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-     "date": "Mon, 17 Aug 2026 08:47:18 GMT"
+     "date": "Mon, 17 Aug 2026 14:07:31 GMT"
     },
     {
      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -175,8 +175,8 @@
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+     "title": "Elon Musk's Starbase wants to expand in south Texas",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 14:03:26 +0000"
+    },
+    {
+     "title": "Global condemnation of Israeli settler violence against Palestinians",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 14:01:51 +0000"
+    },
+    {
+     "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
+     "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
+     "date": "Mon, 17 Aug 2026 13:48:09 +0000"
+    },
     {
      "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
      "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Trump scales down war games with South Korea: Why it matters",
      "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 12:20:47 +0000"
-    },
-    {
-     "title": "Will Europe hear a landmark Russian climate change case?",
-     "link": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 12:19:40 +0000"
-    },
-    {
-     "title": "Israel’s religious right is changing the state from within",
-     "link": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 12:15:49 +0000"
-    },
-    {
-     "title": "Jason Arday’s death is institutional murder",
-     "link": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 12:08:03 +0000"
     }
    ]
   },
