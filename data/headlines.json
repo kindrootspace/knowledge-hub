@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 21:38 UTC",
+ "updated": "2026-08-18 22:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Tue, 18 Aug 2026 21:30:56 GMT"
     },
     {
-     "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 12:36:11 GMT"
+     "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 21:31:11 GMT"
     },
     {
      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
@@ -20,9 +20,9 @@
      "date": "Tue, 18 Aug 2026 15:30:13 GMT"
     },
     {
-     "title": "PM says he's not embarrassed about hoax message exchange",
-     "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 12:22:58 GMT"
+     "title": "Burnham received £345,000 of donations ahead of becoming PM",
+     "link": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 21:46:15 GMT"
     },
     {
      "title": "How soon will the drought be over?",
@@ -30,14 +30,14 @@
      "date": "Tue, 18 Aug 2026 12:26:05 GMT"
     },
     {
-     "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 16:18:37 GMT"
-    },
-    {
      "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
      "link": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 13:45:03 GMT"
+    },
+    {
+     "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+     "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 20:48:09 GMT"
     },
     {
      "title": "One dead and hundreds ill in UK salmonella outbreak",
@@ -175,8 +175,8 @@
      "date": "Tue, 18 Aug 2026 05:30:00 -0400"
     },
     {
-     "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,31 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Bolivia arrests political adviser to Latin American right-wingers",
+     "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:50:43 +0000"
+    },
+    {
+     "title": "Trump administration moves to end rule protecting swaths of forest land",
+     "link": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:26:47 +0000"
+    },
+    {
+     "title": "Why is the US ramping up Tomahawk production?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:26:07 +0000"
+    },
+    {
+     "title": "Syria opens Assad-era nuclear programme to UN probe",
+     "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:25:06 +0000"
+    },
+    {
+     "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+     "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:24:52 +0000"
+    },
     {
      "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
      "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "WHO: Ebola can be contained in months if enough funding is provided",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 20:53:44 +0000"
-    },
-    {
-     "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-     "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:45:42 +0000"
-    },
-    {
-     "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:41:50 +0000"
-    },
-    {
-     "title": "Liberia to take 1,200 deportees from the US",
-     "link": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:39:15 +0000"
-    },
-    {
-     "title": "Russian missile strike kills 10 civilians in Kharkiv",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:26:01 +0000"
-    },
-    {
-     "title": "Trump and Carney speak ahead of US tariff deadline",
-     "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:19:27 +0000"
     }
    ]
   },
