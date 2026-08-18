@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 14:57 UTC",
+ "updated": "2026-08-18 15:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
      "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 13:56:26 GMT"
+     "date": "Tue, 18 Aug 2026 15:30:13 GMT"
     },
     {
      "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
@@ -57,7 +57,7 @@
     {
      "title": "Wetherspoons bans customers playing music from phones in pubs",
      "link": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 10:53:52 GMT"
+     "date": "Tue, 18 Aug 2026 15:23:31 GMT"
     },
     {
      "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
@@ -75,14 +75,14 @@
      "date": "Tue, 18 Aug 2026 12:27:47 GMT"
     },
     {
-     "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-     "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 09:00:33 GMT"
-    },
-    {
      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 09:26:41 GMT"
+    },
+    {
+     "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+     "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 09:00:33 GMT"
     },
     {
      "title": "Ferguson shipyard to cut a quarter of its workforce",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+     "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+     "date": "Tue, 18 Aug 2026 11:19:40 -0400"
+    },
+    {
      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
      "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
      "date": "Tue, 18 Aug 2026 07:40:35 -0400"
@@ -173,17 +178,32 @@
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
      "date": "Tue, 18 Aug 2026 04:41:19 -0400"
-    },
-    {
-     "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
-     "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
-     "date": "Tue, 18 Aug 2026 01:56:44 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+     "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 15:14:17 +0000"
+    },
+    {
+     "title": "US cites India on voter IDs, but are elections under Modi clean?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 15:04:24 +0000"
+    },
+    {
+     "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 14:49:56 +0000"
+    },
+    {
+     "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
+     "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 14:46:59 +0000"
+    },
     {
      "title": "What to watch in the Alaska and Wyoming primary elections",
      "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
@@ -203,26 +223,51 @@
      "title": "Yemeni government escalates attacks against Houthis: What’s next?",
      "link": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 13:51:33 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Heatwaves expose weak links in food systems",
+     "link": "https://www.nature.com/articles/d41586-026-02577-3",
+     "date": ""
     },
     {
-     "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 13:12:56 +0000"
+     "title": "Scientific expedition makes the best of bad weather",
+     "link": "https://www.nature.com/articles/d41586-026-02381-z",
+     "date": ""
     },
     {
-     "title": "Palestinian-American confronts Israeli settler at his besieged home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 13:11:21 +0000"
+     "title": "Treat biological databases as infrastructure, not projects",
+     "link": "https://www.nature.com/articles/d41586-026-02575-5",
+     "date": ""
     },
     {
-     "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-     "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 13:06:20 +0000"
+     "title": "Europe must adapt to live with megafires",
+     "link": "https://www.nature.com/articles/d41586-026-02578-2",
+     "date": ""
     },
     {
-     "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 12:47:41 +0000"
+     "title": "Asia’s longevity gains must be translated into better health",
+     "link": "https://www.nature.com/articles/d41586-026-02576-4",
+     "date": ""
+    },
+    {
+     "title": "How to get the most out of an informational interview",
+     "link": "https://www.nature.com/articles/d41586-026-01932-8",
+     "date": ""
+    },
+    {
+     "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
+     "link": "https://www.nature.com/articles/d41586-026-02527-z",
+     "date": ""
+    },
+    {
+     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
+     "link": "https://www.nature.com/articles/d41586-026-02466-9",
+     "date": ""
     }
    ]
   }
