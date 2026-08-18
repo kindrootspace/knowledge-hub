@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-18 20:40 UTC",
+ "updated": "2026-08-18 21:38 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Three dead after family get into difficulty in sea",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 21:30:56 GMT"
+    },
     {
      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
@@ -38,11 +43,6 @@
      "title": "One dead and hundreds ill in UK salmonella outbreak",
      "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 15:52:12 GMT"
-    },
-    {
-     "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-     "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 17:54:46 GMT"
     }
    ]
   },
@@ -80,14 +80,14 @@
      "date": "Tue, 18 Aug 2026 12:27:47 GMT"
     },
     {
+     "title": "American Airlines to bring back TV screens on US flights",
+     "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 20:17:33 GMT"
+    },
+    {
      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 20:39:36 GMT"
-    },
-    {
-     "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-     "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 09:26:41 GMT"
     }
    ]
   },
@@ -185,6 +185,36 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+     "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:03:59 +0000"
+    },
+    {
+     "title": "Israeli strike reported to kill at least six in Gaza City",
+     "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 21:03:04 +0000"
+    },
+    {
+     "title": "WHO: Ebola can be contained in months if enough funding is provided",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:53:44 +0000"
+    },
+    {
+     "title": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
+     "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:45:42 +0000"
+    },
+    {
+     "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:41:50 +0000"
+    },
+    {
+     "title": "Liberia to take 1,200 deportees from the US",
+     "link": "https://www.aljazeera.com/news/2026/8/18/liberia-to-take-1200-deportees-from-the-us?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:39:15 +0000"
+    },
+    {
      "title": "Russian missile strike kills 10 civilians in Kharkiv",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 20:26:01 +0000"
@@ -193,36 +223,51 @@
      "title": "Trump and Carney speak ahead of US tariff deadline",
      "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 20:19:27 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Heatwaves expose weak links in food systems",
+     "link": "https://www.nature.com/articles/d41586-026-02577-3",
+     "date": ""
     },
     {
-     "title": "US sanctions International Criminal Court president and trial lawyer",
-     "link": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:09:07 +0000"
+     "title": "Scientific expedition makes the best of bad weather",
+     "link": "https://www.nature.com/articles/d41586-026-02381-z",
+     "date": ""
     },
     {
-     "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
-     "link": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 19:56:48 +0000"
+     "title": "Treat biological databases as infrastructure, not projects",
+     "link": "https://www.nature.com/articles/d41586-026-02575-5",
+     "date": ""
     },
     {
-     "title": "Turkish politician Melih Meric stabbed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 19:51:17 +0000"
+     "title": "Europe must adapt to live with megafires",
+     "link": "https://www.nature.com/articles/d41586-026-02578-2",
+     "date": ""
     },
     {
-     "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
-     "link": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 19:46:39 +0000"
+     "title": "Asia’s longevity gains must be translated into better health",
+     "link": "https://www.nature.com/articles/d41586-026-02576-4",
+     "date": ""
     },
     {
-     "title": "The ‘witch-hunt’ of Jason Arday",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 19:22:45 +0000"
+     "title": "How to get the most out of an informational interview",
+     "link": "https://www.nature.com/articles/d41586-026-01932-8",
+     "date": ""
     },
     {
-     "title": "US judge says government can revoke deportation protections for Ethiopians",
-     "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 19:09:23 +0000"
+     "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
+     "link": "https://www.nature.com/articles/d41586-026-02527-z",
+     "date": ""
+    },
+    {
+     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
+     "link": "https://www.nature.com/articles/d41586-026-02466-9",
+     "date": ""
     }
    ]
   }
