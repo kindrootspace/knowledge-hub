@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-18 08:53 UTC",
+ "updated": "2026-08-18 09:48 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Russia warns UK will pay for supplying drones to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 09:33:49 GMT"
+    },
     {
      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 08:07:37 GMT"
     },
     {
-     "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 06:40:00 GMT"
-    },
-    {
-     "title": "Fifa official sacked after Infantino plan criticism",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 20:46:08 GMT"
+     "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+     "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 09:23:57 GMT"
     },
     {
      "title": "Inside secret police warehouse as Germany targets small boats gangs",
@@ -40,9 +40,9 @@
      "date": "Tue, 18 Aug 2026 08:44:10 GMT"
     },
     {
-     "title": "Disabled people in England to get 24-hour free bus travel",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 06:11:30 GMT"
+     "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+     "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 09:00:33 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
      "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 07:30:35 GMT"
+     "date": "Tue, 18 Aug 2026 08:59:28 GMT"
     },
     {
      "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
@@ -60,19 +60,19 @@
      "date": "Tue, 18 Aug 2026 07:52:24 GMT"
     },
     {
-     "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+     "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
      "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 00:02:31 GMT"
     },
     {
      "title": "Ferguson shipyard to cut a quarter of its workforce",
      "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 08:39:57 GMT"
+     "date": "Tue, 18 Aug 2026 09:44:47 GMT"
     },
     {
      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
      "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 08:19:37 GMT"
+     "date": "Tue, 18 Aug 2026 09:00:33 GMT"
     },
     {
      "title": "Disabled people in England to get 24-hour free bus travel",
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+     "date": "Tue, 18 Aug 2026 05:30:00 -0400"
+    },
+    {
+     "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
      "date": "Tue, 18 Aug 2026 04:41:19 -0400"
@@ -158,32 +178,32 @@
      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
      "date": "Mon, 17 Aug 2026 18:37:58 -0400"
-    },
-    {
-     "title": "Palestinian family in West Bank fear settler violence will rob them of home",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
-     "date": "Mon, 17 Aug 2026 17:27:58 -0400"
-    },
-    {
-     "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-     "link": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
-     "date": "Mon, 17 Aug 2026 17:01:54 -0400"
-    },
-    {
-     "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
-     "date": "Mon, 17 Aug 2026 15:53:37 -0400"
-    },
-    {
-     "title": "DHS defends investigating agency critics and giving them warning notices",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-     "date": "Mon, 17 Aug 2026 09:31:13 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Videos show deadly school shooting in Philippines",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 09:31:56 +0000"
+    },
+    {
+     "title": "Drone video shows drought-hit fields in England after driest July on record",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 09:29:30 +0000"
+    },
+    {
+     "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+     "link": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 09:15:03 +0000"
+    },
+    {
+     "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
+     "link": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 08:56:14 +0000"
+    },
     {
      "title": "Trump lashes out at CNN reporter over South Korea question",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
@@ -203,32 +223,37 @@
      "title": "What to watch in Tuesday’s Florida primary elections",
      "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 08:08:39 +0000"
-    },
-    {
-     "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
-     "link": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 08:05:42 +0000"
-    },
-    {
-     "title": "Lakers’ Jeanie Buss ‘contesting’ family’s vote to sell to Kushner, Iger",
-     "link": "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 07:59:53 +0000"
-    },
-    {
-     "title": "Palestine weekly: Global outcry fails to break West Bank siege",
-     "link": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 07:46:17 +0000"
-    },
-    {
-     "title": "Israel’s siege on Gaza is creating a breast cancer crisis",
-     "link": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 07:43:45 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Heatwaves expose weak links in food systems",
+     "link": "https://www.nature.com/articles/d41586-026-02577-3",
+     "date": ""
+    },
+    {
+     "title": "Treat biological databases as infrastructure, not projects",
+     "link": "https://www.nature.com/articles/d41586-026-02575-5",
+     "date": ""
+    },
+    {
+     "title": "Europe must adapt to live with megafires",
+     "link": "https://www.nature.com/articles/d41586-026-02578-2",
+     "date": ""
+    },
+    {
+     "title": "Asia’s longevity gains must be translated into better health",
+     "link": "https://www.nature.com/articles/d41586-026-02576-4",
+     "date": ""
+    },
+    {
+     "title": "How the Middle East can become a hub for sustainable aviation fuels",
+     "link": "https://www.nature.com/articles/d41586-026-02531-3",
+     "date": ""
+    },
     {
      "title": "Positional isomerisation of pyridine via nitrogen transposition",
      "link": "https://www.nature.com/articles/s41586-026-11006-4",
@@ -242,31 +267,6 @@
     {
      "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
      "link": "https://www.nature.com/articles/s41586-026-10995-6",
-     "date": ""
-    },
-    {
-     "title": "Defect passivation and optical management of triple-junction solar cells",
-     "link": "https://www.nature.com/articles/s41586-026-11010-8",
-     "date": ""
-    },
-    {
-     "title": "Too hot to sleep? How heatwaves at night affect our health",
-     "link": "https://www.nature.com/articles/d41586-026-02532-2",
-     "date": ""
-    },
-    {
-     "title": "How the story of life and our planet unfolded — together",
-     "link": "https://www.nature.com/articles/d41586-026-02530-4",
-     "date": ""
-    },
-    {
-     "title": "Universities must stop protecting bullies — or more people will leave science",
-     "link": "https://www.nature.com/articles/d41586-026-02526-0",
-     "date": ""
-    },
-    {
-     "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
-     "link": "https://www.nature.com/articles/d41586-026-02552-y",
      "date": ""
     }
    ]
