@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 17:43 UTC",
+ "updated": "2026-08-18 18:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -30,19 +30,19 @@
      "date": "Tue, 18 Aug 2026 16:18:37 GMT"
     },
     {
-     "title": "National Television Awards pick first all-female shortlist for drama acting award",
-     "link": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 11:57:42 GMT"
-    },
-    {
      "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
      "link": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 13:45:03 GMT"
     },
     {
-     "title": "Prevent scheme not helping children fixated with violence, children's commissioner says",
-     "link": "https://www.bbc.co.uk/news/articles/c4gkd08dp7po?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 16:09:01 GMT"
+     "title": "One dead and hundreds ill in UK salmonella outbreak",
+     "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 15:52:12 GMT"
+    },
+    {
+     "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+     "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 17:54:46 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 16:09:45 GMT"
+     "date": "Tue, 18 Aug 2026 18:20:08 GMT"
     },
     {
      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
@@ -170,13 +170,13 @@
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+     "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
+     "link": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 18:33:11 +0000"
+    },
+    {
+     "title": "Israeli strike on Gaza City cafe kills six, including child",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 18:32:24 +0000"
+    },
+    {
+     "title": "Police attack Indonesian student protesters, arresting at least 21",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 18:17:35 +0000"
+    },
+    {
+     "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
+     "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 18:01:12 +0000"
+    },
+    {
+     "title": "Nigeria hospital collapses after rain washed away its foundations",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 17:55:26 +0000"
+    },
+    {
+     "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+     "link": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 17:51:46 +0000"
+    },
+    {
+     "title": "The British state has recast protest as terrorism",
+     "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 17:34:44 +0000"
+    },
+    {
      "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 17:22:38 +0000"
-    },
-    {
-     "title": "Iran prepares to keep economy alive as US threatens further sanctions",
-     "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 16:21:49 +0000"
-    },
-    {
-     "title": "Disney sues US regulator, claiming political retaliation over ABC stations",
-     "link": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 16:12:15 +0000"
-    },
-    {
-     "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
-     "link": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 16:09:49 +0000"
-    },
-    {
-     "title": "Spain builds tent cities for the thousands stuck in Ceuta",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 15:53:42 +0000"
-    },
-    {
-     "title": "Palestinian living in caves older than Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 15:53:38 +0000"
-    },
-    {
-     "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 15:53:12 +0000"
-    },
-    {
-     "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-     "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 15:14:17 +0000"
     }
    ]
   },
