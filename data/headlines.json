@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 13:07 UTC",
+ "updated": "2026-08-18 13:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,19 +20,14 @@
      "date": "Tue, 18 Aug 2026 08:07:37 GMT"
     },
     {
-     "title": "Inside secret police warehouse as Germany targets small boats gangs",
-     "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 05:02:58 GMT"
-    },
-    {
-     "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
-     "link": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 00:00:02 GMT"
-    },
-    {
-     "title": "Serco employee charged with misconduct over sharing asylum seeker addresses",
+     "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
      "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 11:10:45 GMT"
+    },
+    {
+     "title": "PM says he's not embarrassed about hoax message exchange",
+     "link": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 12:22:58 GMT"
     },
     {
      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
@@ -40,9 +35,14 @@
      "date": "Tue, 18 Aug 2026 08:44:10 GMT"
     },
     {
-     "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
-     "link": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 00:12:25 GMT"
+     "title": "National Television Awards pick first all-female shortlist for drama acting award",
+     "link": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 11:57:42 GMT"
+    },
+    {
+     "title": "Inside secret police warehouse as Germany targets small boats gangs",
+     "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 05:02:58 GMT"
     }
    ]
   },
@@ -70,9 +70,9 @@
      "date": "Tue, 18 Aug 2026 12:27:47 GMT"
     },
     {
-     "title": "Ferguson shipyard to cut a quarter of its workforce",
-     "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 12:56:34 GMT"
+     "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+     "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 09:26:41 GMT"
     },
     {
      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
@@ -80,9 +80,9 @@
      "date": "Tue, 18 Aug 2026 09:00:33 GMT"
     },
     {
-     "title": "Film commission backs Amazon MGM expansion of Berkshire studios",
-     "link": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 18:03:39 GMT"
+     "title": "Ferguson shipyard to cut a quarter of its workforce",
+     "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 12:56:34 GMT"
     },
     {
      "title": "Disabled people in England to get 24-hour free bus travel",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 13:12:56 +0000"
+    },
+    {
+     "title": "Palestinian-American confronts Israeli settler at his besieged home",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 13:11:21 +0000"
+    },
+    {
+     "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 13:06:20 +0000"
+    },
+    {
+     "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 12:47:41 +0000"
+    },
+    {
+     "title": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 12:41:33 +0000"
+    },
+    {
      "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
      "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 12:39:43 +0000"
@@ -198,31 +223,6 @@
      "title": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
      "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 11:39:34 +0000"
-    },
-    {
-     "title": "Why has Trump threatened to bomb Oman – for a second time?",
-     "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 11:33:15 +0000"
-    },
-    {
-     "title": "Premier League what to know: Schedule, prediction, transfers and more",
-     "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 11:22:27 +0000"
-    },
-    {
-     "title": "What to know about California’s special election to replace Eric Swalwell",
-     "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 11:09:24 +0000"
-    },
-    {
-     "title": "Tupac Shakur murder trial begins thirty years after his death",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 10:55:16 +0000"
-    },
-    {
-     "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 10:45:37 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "Heatwaves expose weak links in food systems",
      "link": "https://www.nature.com/articles/d41586-026-02577-3",
+     "date": ""
+    },
+    {
+     "title": "Scientific expedition makes the best of bad weather",
+     "link": "https://www.nature.com/articles/d41586-026-02381-z",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
      "link": "https://www.nature.com/articles/d41586-026-02466-9",
-     "date": ""
-    },
-    {
-     "title": "Five ways 3D printing is improving lab work",
-     "link": "https://www.nature.com/articles/d41586-026-02535-z",
      "date": ""
     }
    ]
