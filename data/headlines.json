@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 18:56 UTC",
+ "updated": "2026-08-18 19:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -165,11 +165,6 @@
      "date": "Tue, 18 Aug 2026 05:30:00 -0400"
     },
     {
-     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
-     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
@@ -178,12 +173,22 @@
      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "US judge says government can revoke deportation protections for Ethiopians",
+     "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 19:09:23 +0000"
+    },
     {
      "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
      "link": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "The British state has recast protest as terrorism",
      "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 17:34:44 +0000"
-    },
-    {
-     "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 17:22:38 +0000"
     }
    ]
   },
