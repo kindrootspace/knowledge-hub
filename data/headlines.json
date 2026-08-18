@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-18 11:41 UTC",
+ "updated": "2026-08-18 13:07 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Russia warns UK will pay for supplying drones to Ukraine",
+     "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 09:55:00 GMT"
+     "date": "Tue, 18 Aug 2026 12:36:11 GMT"
     },
     {
      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
      "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 11:19:50 GMT"
+     "date": "Tue, 18 Aug 2026 12:43:09 GMT"
     },
     {
      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -30,7 +30,7 @@
      "date": "Tue, 18 Aug 2026 00:00:02 GMT"
     },
     {
-     "title": "Man charged with sharing asylum seeker addresses",
+     "title": "Serco employee charged with misconduct over sharing asylum seeker addresses",
      "link": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 11:10:45 GMT"
     },
@@ -52,7 +52,7 @@
     {
      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
      "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 08:59:28 GMT"
+     "date": "Tue, 18 Aug 2026 12:52:26 GMT"
     },
     {
      "title": "Wetherspoons bans customers playing music from phones in pubs",
@@ -67,12 +67,12 @@
     {
      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
      "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 00:02:31 GMT"
+     "date": "Tue, 18 Aug 2026 12:27:47 GMT"
     },
     {
      "title": "Ferguson shipyard to cut a quarter of its workforce",
      "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 09:44:47 GMT"
+     "date": "Tue, 18 Aug 2026 12:56:34 GMT"
     },
     {
      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+     "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+     "date": "Tue, 18 Aug 2026 07:40:35 -0400"
+    },
+    {
      "title": "The grueling fight over who profits from AI music",
      "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
      "date": "Tue, 18 Aug 2026 06:30:00 -0400"
@@ -150,13 +155,13 @@
      "date": "Tue, 18 Aug 2026 05:30:00 -0400"
     },
     {
-     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     },
     {
@@ -173,17 +178,32 @@
      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
      "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
      "date": "Tue, 18 Aug 2026 01:56:44 -0400"
-    },
-    {
-     "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-     "date": "Tue, 18 Aug 2026 01:51:50 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+     "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 12:39:43 +0000"
+    },
+    {
+     "title": "Myanmar: The Architecture of Statelessness",
+     "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 12:25:40 +0000"
+    },
+    {
+     "title": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
+     "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 11:39:34 +0000"
+    },
+    {
+     "title": "Why has Trump threatened to bomb Oman – for a second time?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 11:33:15 +0000"
+    },
     {
      "title": "Premier League what to know: Schedule, prediction, transfers and more",
      "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
      "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 10:45:37 +0000"
-    },
-    {
-     "title": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
-     "link": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 10:22:03 +0000"
-    },
-    {
-     "title": "Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain",
-     "link": "https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 10:20:06 +0000"
-    },
-    {
-     "title": "Eight air strikes hit airbase in Syria’s Idlib",
-     "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 10:11:53 +0000"
-    },
-    {
-     "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 10:08:04 +0000"
     }
    ]
   },
@@ -260,13 +260,13 @@
      "date": ""
     },
     {
-     "title": "Five ways 3D printing is improving lab work",
-     "link": "https://www.nature.com/articles/d41586-026-02535-z",
+     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
+     "link": "https://www.nature.com/articles/d41586-026-02466-9",
      "date": ""
     },
     {
-     "title": "How the Middle East can become a hub for sustainable aviation fuels",
-     "link": "https://www.nature.com/articles/d41586-026-02531-3",
+     "title": "Five ways 3D printing is improving lab work",
+     "link": "https://www.nature.com/articles/d41586-026-02535-z",
      "date": ""
     }
    ]
