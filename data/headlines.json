@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 01:51 UTC",
+ "updated": "2026-08-18 03:09 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -40,9 +40,9 @@
      "date": "Mon, 17 Aug 2026 21:24:11 GMT"
     },
     {
-     "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
-     "link": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 00:12:25 GMT"
+     "title": "Disabled people in England to get 24-hour free bus travel",
+     "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 00:32:51 GMT"
     }
    ]
   },
@@ -175,8 +175,8 @@
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
     },
     {
-     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+     "title": "Advocates worry new bans on student IDs will trip up younger voters",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,16 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Trump says talking to North Korea’s Kim makes the south safer",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 01:58:11 +0000"
+    },
+    {
+     "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+     "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 01:54:01 +0000"
+    },
     {
      "title": "Vigil held in central London for late Cambridge professor Jason Arday",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
@@ -213,61 +223,6 @@
      "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
      "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
      "date": "Mon, 17 Aug 2026 21:39:22 +0000"
-    },
-    {
-     "title": "Palestinian American reunites with family under siege in West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 20:57:19 +0000"
-    },
-    {
-     "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-     "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 20:54:03 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Positional isomerisation of pyridine via nitrogen transposition",
-     "link": "https://www.nature.com/articles/s41586-026-11006-4",
-     "date": ""
-    },
-    {
-     "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
-     "link": "https://www.nature.com/articles/s41586-026-11009-1",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
-     "link": "https://www.nature.com/articles/s41586-026-10995-6",
-     "date": ""
-    },
-    {
-     "title": "Defect passivation and optical management of triple-junction solar cells",
-     "link": "https://www.nature.com/articles/s41586-026-11010-8",
-     "date": ""
-    },
-    {
-     "title": "Too hot to sleep? How heatwaves at night affect our health",
-     "link": "https://www.nature.com/articles/d41586-026-02532-2",
-     "date": ""
-    },
-    {
-     "title": "How the story of life and our planet unfolded — together",
-     "link": "https://www.nature.com/articles/d41586-026-02530-4",
-     "date": ""
-    },
-    {
-     "title": "Universities must stop protecting bullies — or more people will leave science",
-     "link": "https://www.nature.com/articles/d41586-026-02526-0",
-     "date": ""
-    },
-    {
-     "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
-     "link": "https://www.nature.com/articles/d41586-026-02552-y",
-     "date": ""
     }
    ]
   }
