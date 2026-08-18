@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 07:04 UTC",
+ "updated": "2026-08-18 07:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,9 +25,9 @@
      "date": "Tue, 18 Aug 2026 05:02:58 GMT"
     },
     {
-     "title": "Jason Arday's family 'still coming to terms' with his death as vigil held",
-     "link": "https://www.bbc.co.uk/news/articles/ceqe87lelvgo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 21:24:11 GMT"
+     "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
+     "link": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 00:12:25 GMT"
     },
     {
      "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
@@ -40,9 +40,9 @@
      "date": "Tue, 18 Aug 2026 06:11:30 GMT"
     },
     {
-     "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
-     "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 06:59:39 GMT"
+     "title": "Jason Arday's family 'still coming to terms' with his death as vigil held",
+     "link": "https://www.bbc.co.uk/news/articles/ceqe87lelvgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 21:24:11 GMT"
     }
    ]
   },
@@ -52,12 +52,12 @@
     {
      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
      "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 06:59:39 GMT"
+     "date": "Tue, 18 Aug 2026 07:30:35 GMT"
     },
     {
-     "title": "To joke or not to joke?: How to write a good out-of-office message",
+     "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
      "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 23:00:41 GMT"
+     "date": "Tue, 18 Aug 2026 07:52:24 GMT"
     },
     {
      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
@@ -185,7 +185,22 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+     "title": "Israeli settler children attack ambulance in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 07:20:35 +0000"
+    },
+    {
+     "title": "Russia says more than 600 drones targeted Moscow region",
+     "link": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 06:47:40 +0000"
+    },
+    {
+     "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+     "link": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 06:35:43 +0000"
+    },
+    {
+     "title": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
      "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 06:28:31 +0000"
     },
@@ -208,21 +223,6 @@
      "title": "Hichilema wins second term as president of copper-rich Zambia",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 04:07:13 +0000"
-    },
-    {
-     "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
-     "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 03:17:58 +0000"
-    },
-    {
-     "title": "Two students killed in Philippine school shooting",
-     "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 02:51:22 +0000"
-    },
-    {
-     "title": "Trump says talking to North Korea’s Kim makes the south safer",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 01:58:11 +0000"
     }
    ]
   },
