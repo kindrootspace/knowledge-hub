@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 05:45 UTC",
+ "updated": "2026-08-18 07:04 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Tue, 18 Aug 2026 05:00:04 GMT"
     },
     {
-     "title": "Russia warns UK over supplying drones to Ukraine",
+     "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 04:59:25 GMT"
+     "date": "Tue, 18 Aug 2026 06:40:00 GMT"
     },
     {
      "title": "Fifa official sacked after Infantino plan criticism",
@@ -35,20 +35,25 @@
      "date": "Tue, 18 Aug 2026 00:00:02 GMT"
     },
     {
-     "title": "BBC breaks down Trump's latest shift on North and South Korea",
-     "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 23:42:38 GMT"
-    },
-    {
      "title": "Disabled people in England to get 24-hour free bus travel",
      "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 00:32:51 GMT"
+     "date": "Tue, 18 Aug 2026 06:11:30 GMT"
+    },
+    {
+     "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+     "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 06:59:39 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+     "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 06:59:39 GMT"
+    },
     {
      "title": "To joke or not to joke?: How to write a good out-of-office message",
      "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
@@ -60,34 +65,29 @@
      "date": "Tue, 18 Aug 2026 00:02:31 GMT"
     },
     {
-     "title": "Disabled people in England to get 24-hour free bus travel",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 00:32:51 GMT"
+     "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+     "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 05:00:25 GMT"
     },
     {
-     "title": "Film commission backs Amazon MGM expansion of studios",
+     "title": "Disabled people in England to get 24-hour free bus travel",
+     "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 06:11:30 GMT"
+    },
+    {
+     "title": "Film commission backs Amazon MGM expansion of Berkshire studios",
      "link": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 18:03:39 GMT"
+    },
+    {
+     "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
+     "link": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 17 Aug 2026 19:54:08 GMT"
     },
     {
      "title": "Fifa official sacked after Infantino plan criticism",
      "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 17 Aug 2026 20:46:08 GMT"
-    },
-    {
-     "title": "Virgin takes step towards running Channel Tunnel rail services",
-     "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 12:46:25 GMT"
-    },
-    {
-     "title": "How switching your bank account could earn you up to £220",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 16 Aug 2026 23:14:47 GMT"
-    },
-    {
-     "title": "Ferrari's first ever electric car sold for record $40m",
-     "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 17 Aug 2026 02:22:04 GMT"
     }
    ]
   },
@@ -140,9 +140,24 @@
    "name": "NPR",
    "items": [
     {
+     "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+     "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+     "date": "Tue, 18 Aug 2026 01:56:44 -0400"
+    },
+    {
+     "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+     "date": "Tue, 18 Aug 2026 01:51:50 -0400"
+    },
+    {
      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
      "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
      "date": "Mon, 17 Aug 2026 18:37:58 -0400"
+    },
+    {
+     "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+     "date": "Mon, 17 Aug 2026 17:27:58 -0400"
     },
     {
      "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
@@ -163,27 +178,22 @@
      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
      "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
      "date": "Mon, 17 Aug 2026 07:48:21 -0400"
-    },
-    {
-     "title": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-     "date": "Mon, 17 Aug 2026 06:49:59 -0400"
-    },
-    {
-     "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
-     "date": "Mon, 17 Aug 2026 06:00:10 -0400"
-    },
-    {
-     "title": "Advocates worry new bans on student IDs will trip up younger voters",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-     "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 06:28:31 +0000"
+    },
+    {
+     "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+     "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 05:44:05 +0000"
+    },
     {
      "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Trump says talking to North Korea’s Kim makes the south safer",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 01:58:11 +0000"
-    },
-    {
-     "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
-     "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 01:54:01 +0000"
-    },
-    {
-     "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 01:26:31 +0000"
     }
    ]
   },
