@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 13:56 UTC",
+ "updated": "2026-08-18 14:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,12 +12,7 @@
     {
      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
      "link": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 12:43:09 GMT"
-    },
-    {
-     "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-     "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 08:07:37 GMT"
+     "date": "Tue, 18 Aug 2026 13:56:26 GMT"
     },
     {
      "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
@@ -30,9 +25,9 @@
      "date": "Tue, 18 Aug 2026 12:22:58 GMT"
     },
     {
-     "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-     "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 08:44:10 GMT"
+     "title": "How soon will the drought be over?",
+     "link": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 12:26:05 GMT"
     },
     {
      "title": "National Television Awards pick first all-female shortlist for drama acting award",
@@ -40,9 +35,14 @@
      "date": "Tue, 18 Aug 2026 11:57:42 GMT"
     },
     {
-     "title": "Inside secret police warehouse as Germany targets small boats gangs",
-     "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 05:02:58 GMT"
+     "title": "I was given the wrong sperm donor by my IVF clinic in northern Cyprus",
+     "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 08:07:37 GMT"
+    },
+    {
+     "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
+     "link": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 13:45:03 GMT"
     }
    ]
   },
@@ -65,14 +65,14 @@
      "date": "Tue, 18 Aug 2026 07:52:24 GMT"
     },
     {
+     "title": "From jumpers to slug pellets - how British wool is back in demand",
+     "link": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 11:18:39 GMT"
+    },
+    {
      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
      "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 12:27:47 GMT"
-    },
-    {
-     "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-     "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 09:26:41 GMT"
     },
     {
      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
@@ -80,14 +80,14 @@
      "date": "Tue, 18 Aug 2026 09:00:33 GMT"
     },
     {
+     "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+     "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 09:26:41 GMT"
+    },
+    {
      "title": "Ferguson shipyard to cut a quarter of its workforce",
      "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 12:56:34 GMT"
-    },
-    {
-     "title": "Disabled people in England to get 24-hour free bus travel",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 06:11:30 GMT"
     }
    ]
   },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "What to watch in the Alaska and Wyoming primary elections",
+     "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 14:29:11 +0000"
+    },
+    {
+     "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
+     "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 14:01:47 +0000"
+    },
+    {
+     "title": "What to know about Gaza working groups and their mandate?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 13:58:58 +0000"
+    },
+    {
+     "title": "Yemeni government escalates attacks against Houthis: What’s next?",
+     "link": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 13:51:33 +0000"
+    },
+    {
      "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 13:12:56 +0000"
@@ -203,71 +223,6 @@
      "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 12:47:41 +0000"
-    },
-    {
-     "title": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 12:41:33 +0000"
-    },
-    {
-     "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
-     "link": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 12:39:43 +0000"
-    },
-    {
-     "title": "Myanmar: The Architecture of Statelessness",
-     "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 12:25:40 +0000"
-    },
-    {
-     "title": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
-     "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 11:39:34 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Heatwaves expose weak links in food systems",
-     "link": "https://www.nature.com/articles/d41586-026-02577-3",
-     "date": ""
-    },
-    {
-     "title": "Scientific expedition makes the best of bad weather",
-     "link": "https://www.nature.com/articles/d41586-026-02381-z",
-     "date": ""
-    },
-    {
-     "title": "Treat biological databases as infrastructure, not projects",
-     "link": "https://www.nature.com/articles/d41586-026-02575-5",
-     "date": ""
-    },
-    {
-     "title": "Europe must adapt to live with megafires",
-     "link": "https://www.nature.com/articles/d41586-026-02578-2",
-     "date": ""
-    },
-    {
-     "title": "Asia’s longevity gains must be translated into better health",
-     "link": "https://www.nature.com/articles/d41586-026-02576-4",
-     "date": ""
-    },
-    {
-     "title": "How to get the most out of an informational interview",
-     "link": "https://www.nature.com/articles/d41586-026-01932-8",
-     "date": ""
-    },
-    {
-     "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
-     "link": "https://www.nature.com/articles/d41586-026-02527-z",
-     "date": ""
-    },
-    {
-     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
-     "link": "https://www.nature.com/articles/d41586-026-02466-9",
-     "date": ""
     }
    ]
   }
