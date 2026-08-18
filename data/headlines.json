@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 22:41 UTC",
+ "updated": "2026-08-18 23:36 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,6 +20,11 @@
      "date": "Tue, 18 Aug 2026 15:30:13 GMT"
     },
     {
+     "title": "Meta hooked children on Facebook and Instagram, court hears",
+     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
+    },
+    {
      "title": "Burnham received £345,000 of donations ahead of becoming PM",
      "link": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 21:46:15 GMT"
@@ -38,17 +43,27 @@
      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
      "link": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 20:48:09 GMT"
-    },
-    {
-     "title": "One dead and hundreds ill in UK salmonella outbreak",
-     "link": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 15:52:12 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Meta hooked children on Facebook and Instagram, court hears",
+     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
+    },
+    {
+     "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 23:14:49 GMT"
+    },
+    {
+     "title": "Mobile payments on the rise but cash decline slows",
+     "link": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 23:04:53 GMT"
+    },
     {
      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
@@ -73,21 +88,6 @@
      "title": "From jumpers to slug pellets - how British wool is back in demand",
      "link": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 11:18:39 GMT"
-    },
-    {
-     "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-     "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 12:27:47 GMT"
-    },
-    {
-     "title": "American Airlines to bring back TV screens on US flights",
-     "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 20:17:33 GMT"
-    },
-    {
-     "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-     "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 20:39:36 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+     "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 22:55:50 +0000"
+    },
+    {
      "title": "Bolivia arrests political adviser to Latin American right-wingers",
      "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 21:50:43 +0000"
@@ -218,11 +223,6 @@
      "title": "Israeli strike reported to kill at least six in Gaza City",
      "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 21:03:04 +0000"
-    },
-    {
-     "title": "WHO: Ebola can be contained in months if enough funding is provided",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 20:53:44 +0000"
     }
    ]
   },
