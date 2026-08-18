@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 16:49 UTC",
+ "updated": "2026-08-18 17:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -40,7 +40,7 @@
      "date": "Tue, 18 Aug 2026 13:45:03 GMT"
     },
     {
-     "title": "Prevent not helping children fixated with violence, children's commissioner says",
+     "title": "Prevent scheme not helping children fixated with violence, children's commissioner says",
      "link": "https://www.bbc.co.uk/news/articles/c4gkd08dp7po?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 16:09:01 GMT"
     }
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+     "date": "Tue, 18 Aug 2026 13:39:29 -0400"
+    },
+    {
      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
      "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
      "date": "Tue, 18 Aug 2026 11:19:40 -0400"
@@ -160,11 +165,6 @@
      "date": "Tue, 18 Aug 2026 05:30:00 -0400"
     },
     {
-     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
@@ -175,15 +175,20 @@
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
-     "date": "Tue, 18 Aug 2026 04:41:19 -0400"
+     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 17:22:38 +0000"
+    },
     {
      "title": "Iran prepares to keep economy alive as US threatens further sanctions",
      "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
@@ -218,11 +223,51 @@
      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
      "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 15:14:17 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Heatwaves expose weak links in food systems",
+     "link": "https://www.nature.com/articles/d41586-026-02577-3",
+     "date": ""
     },
     {
-     "title": "US cites India on voter IDs, but are elections under Modi clean?",
-     "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 15:04:24 +0000"
+     "title": "Scientific expedition makes the best of bad weather",
+     "link": "https://www.nature.com/articles/d41586-026-02381-z",
+     "date": ""
+    },
+    {
+     "title": "Treat biological databases as infrastructure, not projects",
+     "link": "https://www.nature.com/articles/d41586-026-02575-5",
+     "date": ""
+    },
+    {
+     "title": "Europe must adapt to live with megafires",
+     "link": "https://www.nature.com/articles/d41586-026-02578-2",
+     "date": ""
+    },
+    {
+     "title": "Asia’s longevity gains must be translated into better health",
+     "link": "https://www.nature.com/articles/d41586-026-02576-4",
+     "date": ""
+    },
+    {
+     "title": "How to get the most out of an informational interview",
+     "link": "https://www.nature.com/articles/d41586-026-01932-8",
+     "date": ""
+    },
+    {
+     "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
+     "link": "https://www.nature.com/articles/d41586-026-02527-z",
+     "date": ""
+    },
+    {
+     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
+     "link": "https://www.nature.com/articles/d41586-026-02466-9",
+     "date": ""
     }
    ]
   }
