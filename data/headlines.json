@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 03:58 UTC",
+ "updated": "2026-08-18 04:52 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -175,8 +175,8 @@
      "date": "Mon, 17 Aug 2026 06:00:10 -0400"
     },
     {
-     "title": "Advocates worry new bans on student IDs will trip up younger voters",
-     "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+     "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+     "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
      "date": "Mon, 17 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,12 +185,17 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Hichilema wins second term as president of copper-rich Zambia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 04:07:13 +0000"
+    },
+    {
      "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
      "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 03:17:58 +0000"
     },
     {
-     "title": "Two killed as gunman opens fire at Philippines high school, official says",
+     "title": "Two students killed in Philippines school shooting",
      "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 02:51:22 +0000"
     },
@@ -210,7 +215,7 @@
      "date": "Tue, 18 Aug 2026 01:26:31 +0000"
     },
     {
-     "title": "Zambia’s Hichilema wins second term as president",
+     "title": "Zambia’s President Hakainde Hichilema wins second term",
      "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 01:17:50 +0000"
     },
@@ -218,11 +223,6 @@
      "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
-     "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-     "date": "Mon, 17 Aug 2026 23:25:17 +0000"
     }
    ]
   },
