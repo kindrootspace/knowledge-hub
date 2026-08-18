@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 19:41 UTC",
+ "updated": "2026-08-18 20:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -82,7 +82,7 @@
     {
      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 16:22:54 GMT"
+     "date": "Tue, 18 Aug 2026 20:39:36 GMT"
     },
     {
      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+     "date": "Tue, 18 Aug 2026 16:04:18 -0400"
+    },
+    {
+     "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+     "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
+     "date": "Tue, 18 Aug 2026 15:51:27 -0400"
+    },
+    {
      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
      "date": "Tue, 18 Aug 2026 13:39:29 -0400"
@@ -165,18 +175,8 @@
      "date": "Tue, 18 Aug 2026 05:30:00 -0400"
     },
     {
-     "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-     "date": "Tue, 18 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
      "date": "Tue, 18 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Russian missile strike kills 10 civilians in Kharkiv",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:26:01 +0000"
+    },
+    {
+     "title": "Trump and Carney speak ahead of US tariff deadline",
+     "link": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:19:27 +0000"
+    },
+    {
+     "title": "US sanctions International Criminal Court president and trial lawyer",
+     "link": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 20:09:07 +0000"
+    },
+    {
+     "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
+     "link": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 19:56:48 +0000"
+    },
+    {
+     "title": "Turkish politician Melih Meric stabbed",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 19:51:17 +0000"
+    },
+    {
+     "title": "US seeks to revive criminal case against Kilmar Abrego Garcia",
+     "link": "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 19:46:39 +0000"
+    },
+    {
+     "title": "The ‘witch-hunt’ of Jason Arday",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/the-witch-hunt-of-jason-arday?traffic_source=rss",
+     "date": "Tue, 18 Aug 2026 19:22:45 +0000"
+    },
+    {
      "title": "US judge says government can revoke deportation protections for Ethiopians",
      "link": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
      "date": "Tue, 18 Aug 2026 19:09:23 +0000"
-    },
-    {
-     "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
-     "link": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 18:33:11 +0000"
-    },
-    {
-     "title": "Israeli strike on Gaza City cafe kills six, including child",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 18:32:24 +0000"
-    },
-    {
-     "title": "Police attack Indonesian student protesters, arresting at least 21",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/police-attack-indonesian-student-protesters-arresting-at-least-21?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 18:17:35 +0000"
-    },
-    {
-     "title": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
-     "link": "https://www.aljazeera.com/sports/2026/8/18/barcelona-seal-deal-for-world-cup-winner-rodri-from-manchester-city?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 18:01:12 +0000"
-    },
-    {
-     "title": "Nigeria hospital collapses after rain washed away its foundations",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 17:55:26 +0000"
-    },
-    {
-     "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
-     "link": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 17:51:46 +0000"
-    },
-    {
-     "title": "The British state has recast protest as terrorism",
-     "link": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 17:34:44 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Heatwaves expose weak links in food systems",
-     "link": "https://www.nature.com/articles/d41586-026-02577-3",
-     "date": ""
-    },
-    {
-     "title": "Scientific expedition makes the best of bad weather",
-     "link": "https://www.nature.com/articles/d41586-026-02381-z",
-     "date": ""
-    },
-    {
-     "title": "Treat biological databases as infrastructure, not projects",
-     "link": "https://www.nature.com/articles/d41586-026-02575-5",
-     "date": ""
-    },
-    {
-     "title": "Europe must adapt to live with megafires",
-     "link": "https://www.nature.com/articles/d41586-026-02578-2",
-     "date": ""
-    },
-    {
-     "title": "Asia’s longevity gains must be translated into better health",
-     "link": "https://www.nature.com/articles/d41586-026-02576-4",
-     "date": ""
-    },
-    {
-     "title": "How to get the most out of an informational interview",
-     "link": "https://www.nature.com/articles/d41586-026-01932-8",
-     "date": ""
-    },
-    {
-     "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
-     "link": "https://www.nature.com/articles/d41586-026-02527-z",
-     "date": ""
-    },
-    {
-     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
-     "link": "https://www.nature.com/articles/d41586-026-02466-9",
-     "date": ""
     }
    ]
   }
