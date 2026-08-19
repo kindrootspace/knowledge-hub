@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 22:41 UTC",
+ "updated": "2026-08-19 23:36 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -55,6 +55,11 @@
      "date": "Wed, 19 Aug 2026 22:31:46 GMT"
     },
     {
+     "title": "I quit my £80,000 job to make ice cream - here's how",
+     "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 23:08:03 GMT"
+    },
+    {
      "title": "Inflation is heating up but don't expect another crisis",
      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 11:27:39 GMT"
@@ -70,14 +75,9 @@
      "date": "Wed, 19 Aug 2026 11:08:42 GMT"
     },
     {
-     "title": "Track defect found near derailment site - report",
-     "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 14:06:42 GMT"
-    },
-    {
-     "title": "The critical tech staying safe by going underground",
-     "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:25:21 GMT"
+     "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+     "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 23:32:37 GMT"
     },
     {
      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+     "date": "Wed, 19 Aug 2026 19:19:12 -0400"
+    },
+    {
      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
      "date": "Wed, 19 Aug 2026 17:27:51 -0400"
@@ -150,7 +155,7 @@
      "date": "Wed, 19 Aug 2026 17:20:15 -0400"
     },
     {
-     "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+     "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
      "date": "Wed, 19 Aug 2026 16:09:39 -0400"
     },
@@ -173,17 +178,22 @@
      "title": "Why does the U.S. military seem stymied in the war with Iran?",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
      "date": "Wed, 19 Aug 2026 12:18:35 -0400"
-    },
-    {
-     "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-     "date": "Wed, 19 Aug 2026 11:38:57 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+     "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 23:21:32 +0000"
+    },
+    {
+     "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
+     "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 23:18:32 +0000"
+    },
     {
      "title": "What the social media addiction lawsuit could cost Meta",
      "link": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
      "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 21:01:54 +0000"
-    },
-    {
-     "title": "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-     "link": "https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 20:53:55 +0000"
-    },
-    {
-     "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-     "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 20:39:14 +0000"
     }
    ]
   },
