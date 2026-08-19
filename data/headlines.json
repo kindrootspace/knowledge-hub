@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 15:46 UTC",
+ "updated": "2026-08-19 16:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,19 +20,19 @@
      "date": "Wed, 19 Aug 2026 15:33:32 GMT"
     },
     {
-     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 15:19:55 GMT"
+     "title": "Salmonella outbreak: What we know so far",
+     "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 16:43:56 GMT"
     },
     {
-     "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-     "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 12:47:53 GMT"
+     "title": "Tenders open for controversial West Bank settlement project, Israel announces",
+     "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 15:50:22 GMT"
     },
     {
-     "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-     "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 08:38:37 GMT"
+     "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
+     "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 15:01:57 GMT"
     },
     {
      "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
@@ -40,9 +40,9 @@
      "date": "Wed, 19 Aug 2026 13:00:57 GMT"
     },
     {
-     "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 14:01:35 GMT"
+     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 16:12:27 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 15:19:55 GMT"
+     "date": "Wed, 19 Aug 2026 16:12:27 GMT"
     },
     {
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
@@ -80,9 +80,9 @@
      "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
-     "title": "Monzo down as some users unable to make card payments or transfers",
+     "title": "Monzo says issue with card payments and transfers now resolved",
      "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 14:13:33 GMT"
+     "date": "Wed, 19 Aug 2026 16:04:16 GMT"
     },
     {
      "title": "US retail giant receives $1bn boost from tariff refunds",
@@ -140,12 +140,17 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Why does the U.S. military seem stymied in the war with Iran?",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+     "date": "Wed, 19 Aug 2026 12:18:35 -0400"
+    },
+    {
      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
      "date": "Wed, 19 Aug 2026 11:38:57 -0400"
     },
     {
-     "title": "Real-world study of Oregon's nonmedical psilocybin program shows promise",
+     "title": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
      "date": "Wed, 19 Aug 2026 11:22:35 -0400"
     },
@@ -173,17 +178,27 @@
      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
      "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
      "date": "Wed, 19 Aug 2026 05:29:40 -0400"
-    },
-    {
-     "title": "Feeling restless? Level up your life by starting a side quest",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
-     "date": "Wed, 19 Aug 2026 05:02:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 15:48:20 +0000"
+    },
+    {
+     "title": "Seven decades of US regime change efforts: What have they achieved?",
+     "link": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 15:46:05 +0000"
+    },
+    {
+     "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+     "link": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 15:44:02 +0000"
+    },
     {
      "title": "Palestinian refugee and two relatives drown off English coast",
      "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
@@ -208,66 +223,6 @@
      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
      "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 13:24:34 +0000"
-    },
-    {
-     "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 13:20:08 +0000"
-    },
-    {
-     "title": "Why aid entering Gaza may not reach those who need it",
-     "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 13:01:39 +0000"
-    },
-    {
-     "title": "War on Iran: Iran allegedly targets the UAE",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 13:01:05 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Twenty-two easy ways to power up your lab meetings",
-     "link": "https://www.nature.com/articles/d41586-026-02037-y",
-     "date": ""
-    },
-    {
-     "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
-     "link": "https://www.nature.com/articles/d41586-026-02516-2",
-     "date": ""
-    },
-    {
-     "title": "Screening babies’ genomes could save lives. Here’s how it would work",
-     "link": "https://www.nature.com/articles/d41586-026-02528-y",
-     "date": ""
-    },
-    {
-     "title": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
-     "link": "https://www.nature.com/articles/d41586-026-02610-5",
-     "date": ""
-    },
-    {
-     "title": "AI tool lets researchers 'vibe code' in the quantum realm",
-     "link": "https://www.nature.com/articles/d41586-026-02495-4",
-     "date": ""
-    },
-    {
-     "title": "Delisted",
-     "link": "https://www.nature.com/articles/d41586-026-02410-x",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves expose weak links in food systems",
-     "link": "https://www.nature.com/articles/d41586-026-02577-3",
-     "date": ""
-    },
-    {
-     "title": "Scientific expedition makes the best of bad weather",
-     "link": "https://www.nature.com/articles/d41586-026-02381-z",
-     "date": ""
     }
    ]
   }
