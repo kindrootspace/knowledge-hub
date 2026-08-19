@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 13:08 UTC",
+ "updated": "2026-08-19 13:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Wed, 19 Aug 2026 12:09:47 GMT"
     },
     {
-     "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+     "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 12:41:46 GMT"
+     "date": "Wed, 19 Aug 2026 13:53:51 GMT"
     },
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
@@ -20,9 +20,9 @@
      "date": "Wed, 19 Aug 2026 09:02:03 GMT"
     },
     {
-     "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:45:33 GMT"
+     "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+     "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 12:47:53 GMT"
     },
     {
      "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
@@ -30,19 +30,19 @@
      "date": "Wed, 19 Aug 2026 08:38:37 GMT"
     },
     {
+     "title": "PM unveils plan to get rough sleepers off streets for Christmas",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 11:45:33 GMT"
+    },
+    {
      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 05:00:39 GMT"
     },
     {
-     "title": "OpenAI slows down training after its AI carried out hack",
-     "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:19:12 GMT"
-    },
-    {
-     "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
-     "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:53:24 GMT"
+     "title": "Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
+     "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 13:00:57 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 13 Aug 2026 15:17:13 GMT"
     },
     {
+     "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+     "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+     "date": "Wed, 19 Aug 2026 13:44:57 GMT"
+    },
+    {
      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
      "link": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
      "date": "Wed, 19 Aug 2026 09:00:12 GMT"
@@ -128,11 +133,6 @@
      "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
      "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
      "date": "Wed, 19 Aug 2026 03:47:12 GMT"
-    },
-    {
-     "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-     "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-     "date": "Sun, 16 Aug 2026 18:44:41 GMT"
     }
    ]
   },
@@ -165,11 +165,6 @@
      "date": "Wed, 19 Aug 2026 05:02:00 -0400"
     },
     {
-     "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
@@ -178,6 +173,11 @@
      "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 13:24:34 +0000"
+    },
+    {
+     "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 13:20:08 +0000"
+    },
+    {
+     "title": "Why aid entering Gaza may not reach those who need it",
+     "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 13:01:39 +0000"
+    },
+    {
+     "title": "War on Iran: Iran allegedly targets the UAE",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 13:01:05 +0000"
+    },
+    {
+     "title": "Palestinian factions explore broad alliance for November elections",
+     "link": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 13:00:43 +0000"
+    },
+    {
+     "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+     "link": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 12:59:57 +0000"
+    },
+    {
+     "title": "US war on Iran puts Cambodian children’s education at risk",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 12:56:52 +0000"
+    },
+    {
      "title": "What’s happening in Lebanon’s ‘pilot zones’?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 12:47:52 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Twenty-two easy ways to power up your lab meetings",
+     "link": "https://www.nature.com/articles/d41586-026-02037-y",
+     "date": ""
     },
     {
-     "title": "Dozens killed after gold mine collapse in Central African Republic",
-     "link": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 12:38:22 +0000"
+     "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
+     "link": "https://www.nature.com/articles/d41586-026-02516-2",
+     "date": ""
     },
     {
-     "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-     "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 12:37:40 +0000"
+     "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+     "link": "https://www.nature.com/articles/d41586-026-02528-y",
+     "date": ""
     },
     {
-     "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
-     "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 11:47:44 +0000"
+     "title": "Delisted",
+     "link": "https://www.nature.com/articles/d41586-026-02410-x",
+     "date": ""
     },
     {
-     "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
-     "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 11:47:35 +0000"
+     "title": "Heatwaves expose weak links in food systems",
+     "link": "https://www.nature.com/articles/d41586-026-02577-3",
+     "date": ""
     },
     {
-     "title": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
-     "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 11:45:21 +0000"
+     "title": "Scientific expedition makes the best of bad weather",
+     "link": "https://www.nature.com/articles/d41586-026-02381-z",
+     "date": ""
     },
     {
-     "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
-     "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 11:40:52 +0000"
+     "title": "Treat biological databases as infrastructure, not projects",
+     "link": "https://www.nature.com/articles/d41586-026-02575-5",
+     "date": ""
     },
     {
-     "title": "Angelique Kidjo makes history with Hollywood walk of fame star",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 11:36:54 +0000"
+     "title": "Europe must adapt to live with megafires",
+     "link": "https://www.nature.com/articles/d41586-026-02578-2",
+     "date": ""
     }
    ]
   }
