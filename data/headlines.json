@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 09:49 UTC",
+ "updated": "2026-08-19 10:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -8,6 +8,11 @@
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 09:02:03 GMT"
+    },
+    {
+     "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+     "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 10:32:55 GMT"
     },
     {
      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
@@ -20,11 +25,6 @@
      "date": "Wed, 19 Aug 2026 08:38:37 GMT"
     },
     {
-     "title": "Sacked Ukrainian defence minister calls for presidential election",
-     "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:02:08 GMT"
-    },
-    {
      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 05:00:39 GMT"
@@ -35,14 +35,14 @@
      "date": "Tue, 18 Aug 2026 23:53:24 GMT"
     },
     {
-     "title": "Demand for degree apprenticeships in England quadruples in three years",
-     "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:37:16 GMT"
+     "title": "Sacked Ukrainian defence minister calls for presidential election",
+     "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 09:02:08 GMT"
     },
     {
-     "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-     "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:37:18 GMT"
+     "title": "Competition for degree apprenticeships quadruples as university costs rise",
+     "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 09:37:16 GMT"
     }
    ]
   },
@@ -80,14 +80,14 @@
      "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
+     "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
+     "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 18:20:08 GMT"
+    },
+    {
      "title": "Chinese robotics giant Unitree soars in stock market debut",
      "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 07:19:30 GMT"
-    },
-    {
-     "title": "Meta hooked children on Facebook and Instagram, US court hears",
-     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "How India's blocking of a film exposing real-life police abuses backfired",
+     "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+     "date": "Wed, 19 Aug 2026 06:02:00 -0400"
+    },
+    {
+     "title": "Striking hospital employees sound alarm over workplace violence",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
+     "date": "Wed, 19 Aug 2026 06:00:00 -0400"
+    },
+    {
      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
      "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
      "date": "Wed, 19 Aug 2026 05:29:40 -0400"
@@ -148,6 +158,11 @@
      "title": "Feeling restless? Level up your life by starting a side quest",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
      "date": "Wed, 19 Aug 2026 05:02:00 -0400"
+    },
+    {
+     "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
@@ -160,30 +175,25 @@
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
      "date": "Wed, 19 Aug 2026 03:51:59 -0400"
-    },
-    {
-     "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
-     "date": "Wed, 19 Aug 2026 02:57:51 -0400"
-    },
-    {
-     "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-     "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-     "date": "Wed, 19 Aug 2026 00:55:08 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Why White House envoys cannot sway Israel’s war leader",
+     "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 10:24:26 +0000"
+    },
+    {
+     "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 10:02:16 +0000"
+    },
     {
      "title": "At least five killed in Russian air attacks on Ukraine",
      "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
@@ -213,22 +223,17 @@
      "title": "US pilot lands jet without front wheels after landing gear failure",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-pilot-lands-jet-without-front-wheels-after-landing-gear-failure?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 09:06:08 +0000"
-    },
-    {
-     "title": "Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo",
-     "link": "https://www.aljazeera.com/sports/2026/8/19/kelsey-mitchell-ties-wnba-scoring-record-in-fever-win-over-tempo?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:01:13 +0000"
-    },
-    {
-     "title": "Ukraine’s sacked defence minister calls for wartime elections",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 08:46:56 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
+     "link": "https://www.nature.com/articles/d41586-026-02516-2",
+     "date": ""
+    },
     {
      "title": "Screening babies’ genomes could save lives. Here’s how it would work",
      "link": "https://www.nature.com/articles/d41586-026-02528-y",
@@ -262,11 +267,6 @@
     {
      "title": "How to get the most out of an informational interview",
      "link": "https://www.nature.com/articles/d41586-026-01932-8",
-     "date": ""
-    },
-    {
-     "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
-     "link": "https://www.nature.com/articles/d41586-026-02527-z",
      "date": ""
     }
    ]
