@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 19:40 UTC",
+ "updated": "2026-08-19 20:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -42,7 +42,7 @@
     {
      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 18:43:11 GMT"
+     "date": "Wed, 19 Aug 2026 20:34:41 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
+     "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+     "date": "Wed, 19 Aug 2026 20:17:39 GMT"
+    },
+    {
      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
      "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
      "date": "Wed, 19 Aug 2026 14:33:24 GMT"
@@ -113,11 +118,6 @@
      "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
      "date": "Sat, 15 Aug 2026 18:08:21 GMT"
-    },
-    {
-     "title": "American missionary kidnapped in Niger freed after nine months",
-     "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-     "date": "Fri, 14 Aug 2026 14:55:17 GMT"
     },
     {
      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
@@ -139,6 +139,16 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+     "date": "Wed, 19 Aug 2026 16:09:39 -0400"
+    },
+    {
+     "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+     "date": "Wed, 19 Aug 2026 15:45:11 -0400"
+    },
     {
      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
@@ -168,22 +178,22 @@
      "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
      "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
      "date": "Wed, 19 Aug 2026 10:19:20 -0400"
-    },
-    {
-     "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-     "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-     "date": "Wed, 19 Aug 2026 07:14:31 -0400"
-    },
-    {
-     "title": "How India's blocking of a film exposing real-life police abuses backfired",
-     "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-     "date": "Wed, 19 Aug 2026 06:02:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "What’s behind Israel’s latest attack on Syria?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 20:18:40 +0000"
+    },
+    {
+     "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+     "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 19:53:12 +0000"
+    },
     {
      "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
@@ -213,61 +223,6 @@
      "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
      "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 18:21:37 +0000"
-    },
-    {
-     "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-     "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 18:08:09 +0000"
-    },
-    {
-     "title": "Kennedy Center agrees not to restore Trump’s name before September 8",
-     "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 18:06:55 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
-     "link": "https://www.nature.com/articles/s41586-026-11037-x",
-     "date": ""
-    },
-    {
-     "title": "Too much mate choice overwhelms frogs",
-     "link": "https://www.nature.com/articles/d41586-026-02554-w",
-     "date": ""
-    },
-    {
-     "title": "A black hole's spin could finally be measured by a high-speed star",
-     "link": "https://www.nature.com/articles/d41586-026-02607-0",
-     "date": ""
-    },
-    {
-     "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
-     "link": "https://www.nature.com/articles/s41586-026-10776-1",
-     "date": ""
-    },
-    {
-     "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-     "link": "https://www.nature.com/articles/s41586-026-10777-0",
-     "date": ""
-    },
-    {
-     "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
-     "link": "https://www.nature.com/articles/s41586-026-10951-4",
-     "date": ""
-    },
-    {
-     "title": "Observation of conformal field theory spectra in a quantum simulator",
-     "link": "https://www.nature.com/articles/s41586-026-10904-x",
-     "date": ""
-    },
-    {
-     "title": "Wake-activated neuronal populations that regulate sleep drive",
-     "link": "https://www.nature.com/articles/s41586-026-10928-3",
-     "date": ""
     }
    ]
   }
