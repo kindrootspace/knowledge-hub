@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 14:53 UTC",
+ "updated": "2026-08-19 15:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,14 @@
      "date": "Wed, 19 Aug 2026 12:09:47 GMT"
     },
     {
-     "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+     "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 13:53:51 GMT"
+     "date": "Wed, 19 Aug 2026 15:33:32 GMT"
     },
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:02:03 GMT"
+     "date": "Wed, 19 Aug 2026 15:19:55 GMT"
     },
     {
      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
@@ -57,7 +57,7 @@
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:02:03 GMT"
+     "date": "Wed, 19 Aug 2026 15:19:55 GMT"
     },
     {
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
@@ -85,9 +85,9 @@
      "date": "Wed, 19 Aug 2026 14:13:33 GMT"
     },
     {
-     "title": "OpenAI slows down training after its AI carried out hack",
-     "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:19:12 GMT"
+     "title": "US retail giant receives $1bn boost from tariff refunds",
+     "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 14:47:02 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
+     "date": "Wed, 19 Aug 2026 11:38:57 -0400"
+    },
+    {
+     "title": "Real-world study of Oregon's nonmedical psilocybin program shows promise",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
+     "date": "Wed, 19 Aug 2026 11:22:35 -0400"
+    },
+    {
      "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
      "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
      "date": "Wed, 19 Aug 2026 10:19:20 -0400"
@@ -168,22 +178,32 @@
      "title": "Feeling restless? Level up your life by starting a side quest",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
      "date": "Wed, 19 Aug 2026 05:02:00 -0400"
-    },
-    {
-     "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Palestinian refugee and two relatives drown off English coast",
+     "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 14:52:39 +0000"
+    },
+    {
+     "title": "Israel numbers Palestinian detainee foreheads: What we know",
+     "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 14:48:55 +0000"
+    },
+    {
+     "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+     "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 14:44:09 +0000"
+    },
+    {
+     "title": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 14:37:13 +0000"
+    },
     {
      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
      "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "War on Iran: Iran allegedly targets the UAE",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 13:01:05 +0000"
-    },
-    {
-     "title": "Palestinian factions explore broad alliance for November elections",
-     "link": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 13:00:43 +0000"
-    },
-    {
-     "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
-     "link": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 12:59:57 +0000"
-    },
-    {
-     "title": "US war on Iran puts Cambodian children’s education at risk",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 12:56:52 +0000"
-    },
-    {
-     "title": "What’s happening in Lebanon’s ‘pilot zones’?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 12:47:52 +0000"
     }
    ]
   },
