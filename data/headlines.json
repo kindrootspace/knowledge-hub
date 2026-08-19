@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-19 18:53 UTC",
+ "updated": "2026-08-19 19:40 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 18:45:51 GMT"
+    },
     {
      "title": "Track defect found on approach to site of Lewes derailment, initial report says",
      "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
@@ -25,9 +30,9 @@
      "date": "Wed, 19 Aug 2026 16:43:56 GMT"
     },
     {
-     "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
-     "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 17:16:28 GMT"
+     "title": "Vaccine breakthrough stops cancer returning in trial",
+     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 19:00:48 GMT"
     },
     {
      "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
@@ -38,11 +43,6 @@
      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 18:43:11 GMT"
-    },
-    {
-     "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
-     "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 17:09:34 GMT"
     }
    ]
   },
@@ -67,7 +67,7 @@
     {
      "title": "US long-term borrowing costs ease after government steps in",
      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 18:42:06 GMT"
+     "date": "Wed, 19 Aug 2026 19:26:06 GMT"
     },
     {
      "title": "Track defect found near derailment site - report",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 19:26:58 +0000"
+    },
+    {
+     "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 19:09:53 +0000"
+    },
+    {
+     "title": "Violence in the New Syria?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 18:50:17 +0000"
+    },
+    {
+     "title": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
+     "link": "https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 18:48:49 +0000"
+    },
+    {
+     "title": "Zambia opposition leader to challenge Hichilema election victory in court",
+     "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 18:43:28 +0000"
+    },
+    {
      "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
      "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 18:21:37 +0000"
@@ -195,34 +220,9 @@
      "date": "Wed, 19 Aug 2026 18:08:09 +0000"
     },
     {
-     "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+     "title": "Kennedy Center agrees not to restore Trump’s name before September 8",
      "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 18:06:55 +0000"
-    },
-    {
-     "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
-     "link": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 17:54:37 +0000"
-    },
-    {
-     "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
-     "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 17:50:50 +0000"
-    },
-    {
-     "title": "US Department of Justice defends prosecution of Comey over seashell post",
-     "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 17:50:26 +0000"
-    },
-    {
-     "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
-     "link": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 17:32:36 +0000"
-    },
-    {
-     "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-     "link": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 17:14:21 +0000"
     }
    ]
   },
