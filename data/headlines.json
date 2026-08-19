@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-19 13:57 UTC",
+ "updated": "2026-08-19 14:53 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+     "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 14:06:42 GMT"
+    },
     {
      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
      "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
@@ -30,19 +35,14 @@
      "date": "Wed, 19 Aug 2026 08:38:37 GMT"
     },
     {
-     "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:45:33 GMT"
-    },
-    {
-     "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-     "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 05:00:39 GMT"
-    },
-    {
-     "title": "Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
+     "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
      "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 13:00:57 GMT"
+    },
+    {
+     "title": "PM unveils plan to get rough sleepers off streets for Christmas",
+     "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 14:01:35 GMT"
     }
    ]
   },
@@ -65,6 +65,11 @@
      "date": "Wed, 19 Aug 2026 11:08:42 GMT"
     },
     {
+     "title": "Track defect found near derailment site - report",
+     "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 14:06:42 GMT"
+    },
+    {
      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 23:14:49 GMT"
@@ -75,25 +80,25 @@
      "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
-     "title": "Mobile payments on the rise but cash decline slows",
-     "link": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:04:53 GMT"
+     "title": "Monzo down as some users unable to make card payments or transfers",
+     "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 14:13:33 GMT"
     },
     {
-     "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-     "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 18:20:08 GMT"
-    },
-    {
-     "title": "Overhaul for Belfast cranes ahead of major contract",
-     "link": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 12:09:24 GMT"
+     "title": "OpenAI slows down training after its AI carried out hack",
+     "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 11:19:12 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+     "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+     "date": "Wed, 19 Aug 2026 14:33:24 GMT"
+    },
     {
      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
@@ -115,11 +120,6 @@
      "date": "Fri, 14 Aug 2026 14:55:17 GMT"
     },
     {
-     "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-     "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-     "date": "Thu, 13 Aug 2026 15:17:13 GMT"
-    },
-    {
      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
      "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
      "date": "Wed, 19 Aug 2026 13:44:57 GMT"
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
+     "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
+     "date": "Wed, 19 Aug 2026 10:19:20 -0400"
+    },
     {
      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
      "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
@@ -163,11 +168,6 @@
      "title": "Feeling restless? Level up your life by starting a side quest",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
      "date": "Wed, 19 Aug 2026 05:02:00 -0400"
-    },
-    {
-     "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
-     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
@@ -245,6 +245,16 @@
      "date": ""
     },
     {
+     "title": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
+     "link": "https://www.nature.com/articles/d41586-026-02610-5",
+     "date": ""
+    },
+    {
+     "title": "AI tool lets researchers 'vibe code' in the quantum realm",
+     "link": "https://www.nature.com/articles/d41586-026-02495-4",
+     "date": ""
+    },
+    {
      "title": "Delisted",
      "link": "https://www.nature.com/articles/d41586-026-02410-x",
      "date": ""
@@ -257,16 +267,6 @@
     {
      "title": "Scientific expedition makes the best of bad weather",
      "link": "https://www.nature.com/articles/d41586-026-02381-z",
-     "date": ""
-    },
-    {
-     "title": "Treat biological databases as infrastructure, not projects",
-     "link": "https://www.nature.com/articles/d41586-026-02575-5",
-     "date": ""
-    },
-    {
-     "title": "Europe must adapt to live with megafires",
-     "link": "https://www.nature.com/articles/d41586-026-02578-2",
      "date": ""
     }
    ]
