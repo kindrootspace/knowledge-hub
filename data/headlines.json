@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-19 11:40 UTC",
+ "updated": "2026-08-19 13:08 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+     "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 12:09:47 GMT"
+    },
+    {
+     "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 12:41:46 GMT"
+    },
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 09:02:03 GMT"
     },
     {
-     "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
-     "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:02:49 GMT"
-    },
-    {
-     "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+     "title": "PM unveils plan to get rough sleepers off streets for Christmas",
      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:26:05 GMT"
+     "date": "Wed, 19 Aug 2026 11:45:33 GMT"
     },
     {
      "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
@@ -30,19 +35,14 @@
      "date": "Wed, 19 Aug 2026 05:00:39 GMT"
     },
     {
+     "title": "OpenAI slows down training after its AI carried out hack",
+     "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 11:19:12 GMT"
+    },
+    {
      "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
      "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 23:53:24 GMT"
-    },
-    {
-     "title": "Sacked Ukrainian defence minister calls for presidential election",
-     "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:00:21 GMT"
-    },
-    {
-     "title": "Competition for degree apprenticeships quadruples as university costs rise",
-     "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:37:16 GMT"
     }
    ]
   },
@@ -50,14 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:02:03 GMT"
-    },
-    {
      "title": "Inflation is heating up but don't expect another crisis",
      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 11:27:39 GMT"
+    },
+    {
+     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 09:02:03 GMT"
     },
     {
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
@@ -87,7 +87,7 @@
     {
      "title": "Overhaul for Belfast cranes ahead of major contract",
      "link": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 05:10:07 GMT"
+     "date": "Wed, 19 Aug 2026 12:09:24 GMT"
     }
    ]
   },
@@ -170,13 +170,13 @@
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+     "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+     "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Humanitarianism is not collapsing. It is being traded and compromised",
-     "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 10:59:09 +0000"
+     "title": "What’s happening in Lebanon’s ‘pilot zones’?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 12:47:52 +0000"
     },
     {
-     "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
-     "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 10:57:57 +0000"
+     "title": "Dozens killed after gold mine collapse in Central African Republic",
+     "link": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 12:38:22 +0000"
     },
     {
-     "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
-     "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 10:53:01 +0000"
+     "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
+     "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 12:37:40 +0000"
     },
     {
-     "title": "Why White House envoys cannot sway Israel’s war leader",
-     "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 10:24:26 +0000"
+     "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+     "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 11:47:44 +0000"
     },
     {
-     "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
-     "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 10:02:16 +0000"
+     "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
+     "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 11:47:35 +0000"
     },
     {
-     "title": "At least five killed in Russian air attacks on Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:34:38 +0000"
+     "title": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
+     "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 11:45:21 +0000"
     },
     {
-     "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-     "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:29:41 +0000"
+     "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+     "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 11:40:52 +0000"
     },
     {
-     "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:26:16 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
-     "link": "https://www.nature.com/articles/d41586-026-02516-2",
-     "date": ""
-    },
-    {
-     "title": "Screening babies’ genomes could save lives. Here’s how it would work",
-     "link": "https://www.nature.com/articles/d41586-026-02528-y",
-     "date": ""
-    },
-    {
-     "title": "Heatwaves expose weak links in food systems",
-     "link": "https://www.nature.com/articles/d41586-026-02577-3",
-     "date": ""
-    },
-    {
-     "title": "Scientific expedition makes the best of bad weather",
-     "link": "https://www.nature.com/articles/d41586-026-02381-z",
-     "date": ""
-    },
-    {
-     "title": "Treat biological databases as infrastructure, not projects",
-     "link": "https://www.nature.com/articles/d41586-026-02575-5",
-     "date": ""
-    },
-    {
-     "title": "Europe must adapt to live with megafires",
-     "link": "https://www.nature.com/articles/d41586-026-02578-2",
-     "date": ""
-    },
-    {
-     "title": "Asia’s longevity gains must be translated into better health",
-     "link": "https://www.nature.com/articles/d41586-026-02576-4",
-     "date": ""
-    },
-    {
-     "title": "How to get the most out of an informational interview",
-     "link": "https://www.nature.com/articles/d41586-026-01932-8",
-     "date": ""
+     "title": "Angelique Kidjo makes history with Hollywood walk of fame star",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 11:36:54 +0000"
     }
    ]
   }
