@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 03:11 UTC",
+ "updated": "2026-08-19 03:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,7 +17,7 @@
     {
      "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 21:31:11 GMT"
+     "date": "Wed, 19 Aug 2026 03:42:16 GMT"
     },
     {
      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
@@ -30,14 +30,14 @@
      "date": "Tue, 18 Aug 2026 23:37:18 GMT"
     },
     {
-     "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 02:41:36 GMT"
-    },
-    {
      "title": "Is another UK heatwave on the way in September?",
      "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 00:21:04 GMT"
+    },
+    {
+     "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 03:56:35 GMT"
     },
     {
      "title": "Meta hooked children on Facebook and Instagram, US court hears",
@@ -62,12 +62,12 @@
     {
      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 02:41:36 GMT"
+     "date": "Wed, 19 Aug 2026 03:56:35 GMT"
     },
     {
      "title": "Chinese robotics giant Unitree soars in stock market debut",
      "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 02:09:46 GMT"
+     "date": "Wed, 19 Aug 2026 03:26:27 GMT"
     },
     {
      "title": "Mobile payments on the rise but cash decline slows",
@@ -120,6 +120,11 @@
      "date": "Thu, 13 Aug 2026 15:17:13 GMT"
     },
     {
+     "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+     "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+     "date": "Wed, 19 Aug 2026 03:12:07 GMT"
+    },
+    {
      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
      "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
      "date": "Sun, 16 Aug 2026 18:44:41 GMT"
@@ -128,11 +133,6 @@
      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
      "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
      "date": "Fri, 14 Aug 2026 21:03:43 GMT"
-    },
-    {
-     "title": "Canadian plasma clinics pause collections after deaths of two donors",
-     "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-     "date": "Fri, 14 Aug 2026 16:21:39 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+     "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 03:34:40 +0000"
+    },
+    {
+     "title": "US sanctions International Criminal Court’s president and top lawyer",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 03:25:33 +0000"
+    },
+    {
+     "title": "Trial begins that could force Meta to change Facebook and Instagram",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 03:20:24 +0000"
+    },
+    {
      "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
      "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 02:35:15 +0000"
@@ -208,21 +223,6 @@
      "title": "Quebec separatist says no independence referendum while Trump in office",
      "link": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 00:17:01 +0000"
-    },
-    {
-     "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 23:59:43 +0000"
-    },
-    {
-     "title": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
-     "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
-     "date": "Tue, 18 Aug 2026 23:45:16 +0000"
     }
    ]
   },
