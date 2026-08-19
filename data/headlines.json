@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 17:41 UTC",
+ "updated": "2026-08-19 18:53 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -35,14 +35,14 @@
      "date": "Wed, 19 Aug 2026 15:01:57 GMT"
     },
     {
-     "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
-     "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 13:00:57 GMT"
+     "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+     "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 18:43:11 GMT"
     },
     {
-     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 16:12:27 GMT"
+     "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
+     "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 17:09:34 GMT"
     }
    ]
   },
@@ -65,14 +65,14 @@
      "date": "Wed, 19 Aug 2026 11:08:42 GMT"
     },
     {
+     "title": "US long-term borrowing costs ease after government steps in",
+     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 18:42:06 GMT"
+    },
+    {
      "title": "Track defect found near derailment site - report",
      "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 14:06:42 GMT"
-    },
-    {
-     "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-     "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:14:49 GMT"
     },
     {
      "title": "The critical tech staying safe by going underground",
@@ -80,9 +80,9 @@
      "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
-     "title": "Monzo says issue with card payments and transfers now resolved",
-     "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 16:04:16 GMT"
+     "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 23:14:49 GMT"
     },
     {
      "title": "US retail giant receives $1bn boost from tariff refunds",
@@ -130,7 +130,7 @@
      "date": "Wed, 19 Aug 2026 09:00:12 GMT"
     },
     {
-     "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+     "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
      "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
      "date": "Wed, 19 Aug 2026 03:47:12 GMT"
     }
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+     "date": "Wed, 19 Aug 2026 14:01:03 -0400"
+    },
     {
      "title": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
@@ -173,17 +178,42 @@
      "title": "How India's blocking of a film exposing real-life police abuses backfired",
      "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
      "date": "Wed, 19 Aug 2026 06:02:00 -0400"
-    },
-    {
-     "title": "Striking hospital employees sound alarm over workplace violence",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
-     "date": "Wed, 19 Aug 2026 06:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan",
+     "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 18:21:37 +0000"
+    },
+    {
+     "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+     "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 18:08:09 +0000"
+    },
+    {
+     "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+     "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 18:06:55 +0000"
+    },
+    {
+     "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
+     "link": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 17:54:37 +0000"
+    },
+    {
+     "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+     "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 17:50:50 +0000"
+    },
+    {
+     "title": "US Department of Justice defends prosecution of Comey over seashell post",
+     "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 17:50:26 +0000"
+    },
     {
      "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
      "link": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
      "link": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 17:14:21 +0000"
-    },
-    {
-     "title": "US pressure on Israel needed for peace in Syria",
-     "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 17:12:11 +0000"
-    },
-    {
-     "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
-     "link": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 16:55:57 +0000"
-    },
-    {
-     "title": "Why extreme heat is much more dangerous for the elderly than we realised",
-     "link": "https://www.aljazeera.com/news/2026/8/19/why-extreme-heat-is-much-more-dangerous-for-the-elderly-than-we-realised?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 16:32:28 +0000"
-    },
-    {
-     "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
-     "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 15:48:20 +0000"
-    },
-    {
-     "title": "Seven decades of US regime change efforts: What have they achieved?",
-     "link": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 15:46:05 +0000"
-    },
-    {
-     "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
-     "link": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 15:44:02 +0000"
     }
    ]
   },
