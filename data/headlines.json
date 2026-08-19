@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-19 21:41 UTC",
+ "updated": "2026-08-19 22:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Prince Harry and Meghan to return to UK",
+     "title": "Prince Harry and Meghan moving back to UK",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 21:30:01 GMT"
+     "date": "Wed, 19 Aug 2026 21:59:03 GMT"
     },
     {
      "title": "Couple and teenage daughter who died in water off Shoreham named by police",
@@ -50,6 +50,11 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "US national debt passes $40tn after doubling in a decade",
+     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 22:31:46 GMT"
+    },
+    {
      "title": "Inflation is heating up but don't expect another crisis",
      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 11:27:39 GMT"
@@ -63,11 +68,6 @@
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
      "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 11:08:42 GMT"
-    },
-    {
-     "title": "US long-term borrowing costs ease after government steps in",
-     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 19:26:06 GMT"
     },
     {
      "title": "Track defect found near derailment site - report",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "What the social media addiction lawsuit could cost Meta",
+     "link": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 22:01:26 +0000"
+    },
+    {
      "title": "“I get along with him very well.”",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 21:35:34 +0000"
@@ -218,11 +223,6 @@
      "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
      "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 20:39:14 +0000"
-    },
-    {
-     "title": "What’s behind Israel’s latest attack on Syria?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 20:18:40 +0000"
     }
    ]
   },
