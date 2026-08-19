@@ -1,16 +1,11 @@
 {
- "updated": "2026-08-19 05:47 UTC",
+ "updated": "2026-08-19 07:05 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Three dead after family get into difficulty in sea",
-     "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 21:30:56 GMT"
-    },
-    {
-     "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+     "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 03:42:16 GMT"
     },
@@ -25,9 +20,9 @@
      "date": "Wed, 19 Aug 2026 05:00:12 GMT"
     },
     {
-     "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-     "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:37:18 GMT"
+     "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+     "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 05:00:39 GMT"
     },
     {
      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
@@ -35,9 +30,14 @@
      "date": "Tue, 18 Aug 2026 23:53:24 GMT"
     },
     {
-     "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-     "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 05:00:39 GMT"
+     "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
+     "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 23:37:18 GMT"
+    },
+    {
+     "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+     "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 03:00:35 GMT"
     },
     {
      "title": "Is another UK heatwave on the way in September?",
@@ -50,24 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Meta hooked children on Facebook and Instagram, US court hears",
-     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
-    },
-    {
      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 23:14:49 GMT"
     },
     {
-     "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "title": "Trump pauses new tariffs on Canada for three days, saying countries close to a deal",
      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 03:56:35 GMT"
     },
     {
-     "title": "Chinese robotics giant Unitree soars in stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 03:26:27 GMT"
+     "title": "Meta hooked children on Facebook and Instagram, US court hears",
+     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
     },
     {
      "title": "Mobile payments on the rise but cash decline slows",
@@ -80,14 +75,19 @@
      "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
+     "title": "Chinese robotics giant Unitree soars in stock market debut",
+     "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 03:26:27 GMT"
+    },
+    {
+     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 06:50:04 GMT"
+    },
+    {
      "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 18:20:08 GMT"
-    },
-    {
-     "title": "Wetherspoons bans customers playing music from phones in pubs",
-     "link": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 15:23:31 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+     "date": "Wed, 19 Aug 2026 02:57:51 -0400"
+    },
+    {
      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
      "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
      "date": "Wed, 19 Aug 2026 00:55:08 -0400"
@@ -173,17 +178,27 @@
      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
      "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
      "date": "Tue, 18 Aug 2026 07:40:35 -0400"
-    },
-    {
-     "title": "The grueling fight over who profits from AI music",
-     "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
-     "date": "Tue, 18 Aug 2026 06:30:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "South Africa to Australia: Why coal profits are surging during Iran war",
+     "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 06:27:30 +0000"
+    },
+    {
+     "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 06:16:53 +0000"
+    },
+    {
+     "title": "Ukraine’s ousted defence minister calls for elections during war",
+     "link": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 05:59:44 +0000"
+    },
     {
      "title": "Lebanon no longer a safe haven for former Syrian regime officials",
      "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 03:44:44 +0000"
-    },
-    {
-     "title": "US unions sue over new visa rule for foreign students, journalists",
-     "link": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 03:42:28 +0000"
-    },
-    {
-     "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-     "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 03:34:40 +0000"
-    },
-    {
-     "title": "US sanctions International Criminal Court’s president and top lawyer",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 03:25:33 +0000"
     }
    ]
   },
