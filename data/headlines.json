@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-19 08:54 UTC",
+ "updated": "2026-08-19 09:49 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 09:02:03 GMT"
+    },
+    {
      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 03:42:16 GMT"
+     "date": "Wed, 19 Aug 2026 09:26:05 GMT"
+    },
+    {
+     "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+     "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 08:38:37 GMT"
     },
     {
      "title": "Sacked Ukrainian defence minister calls for presidential election",
      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 07:14:50 GMT"
-    },
-    {
-     "title": "Demand for degree apprenticeships in England quadruples in three years",
-     "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 05:00:12 GMT"
+     "date": "Wed, 19 Aug 2026 09:02:08 GMT"
     },
     {
      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
@@ -30,19 +35,14 @@
      "date": "Tue, 18 Aug 2026 23:53:24 GMT"
     },
     {
+     "title": "Demand for degree apprenticeships in England quadruples in three years",
+     "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 09:37:16 GMT"
+    },
+    {
      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
      "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 23:37:18 GMT"
-    },
-    {
-     "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-     "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 03:00:35 GMT"
-    },
-    {
-     "title": "Rain arrives for some but is another UK heatwave on the way in September?",
-     "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 07:45:17 GMT"
     }
    ]
   },
@@ -52,12 +52,12 @@
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
      "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 08:31:00 GMT"
+     "date": "Wed, 19 Aug 2026 09:02:03 GMT"
     },
     {
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
      "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 08:52:07 GMT"
+     "date": "Wed, 19 Aug 2026 09:11:08 GMT"
     },
     {
      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
@@ -120,6 +120,11 @@
      "date": "Thu, 13 Aug 2026 15:17:13 GMT"
     },
     {
+     "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+     "link": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+     "date": "Wed, 19 Aug 2026 09:00:12 GMT"
+    },
+    {
      "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
      "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
      "date": "Wed, 19 Aug 2026 03:47:12 GMT"
@@ -128,17 +133,37 @@
      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
      "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
      "date": "Sun, 16 Aug 2026 18:44:41 GMT"
-    },
-    {
-     "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-     "link": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-     "date": "Fri, 14 Aug 2026 21:03:43 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+     "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+     "date": "Wed, 19 Aug 2026 05:29:40 -0400"
+    },
+    {
+     "title": "Feeling restless? Level up your life by starting a side quest",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
+     "date": "Wed, 19 Aug 2026 05:02:00 -0400"
+    },
+    {
+     "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
+    },
     {
      "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
@@ -153,31 +178,6 @@
      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
      "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
      "date": "Wed, 19 Aug 2026 00:55:08 -0400"
-    },
-    {
-     "title": "Key results from Florida primaries, so far",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
-     "date": "Tue, 18 Aug 2026 17:01:17 -0400"
-    },
-    {
-     "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-     "date": "Tue, 18 Aug 2026 16:04:18 -0400"
-    },
-    {
-     "title": "ABC and Disney sue FCC, alleging First Amendment violations",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
-     "date": "Tue, 18 Aug 2026 15:51:27 -0400"
-    },
-    {
-     "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-     "date": "Tue, 18 Aug 2026 13:39:29 -0400"
-    },
-    {
-     "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-     "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-     "date": "Tue, 18 Aug 2026 11:19:40 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "South Africa to Australia: Why coal profits are surging during Iran war",
-     "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 06:27:30 +0000"
+     "title": "At least five killed in Russian air attacks on Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:34:38 +0000"
     },
     {
-     "title": "Scaling back US-South Korea drills may fail to woo Kim away from China",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 06:16:53 +0000"
+     "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:29:41 +0000"
     },
     {
-     "title": "Ukraine’s ousted defence minister calls for elections during war",
-     "link": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 05:59:44 +0000"
+     "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:26:16 +0000"
     },
     {
-     "title": "Lebanon no longer a safe haven for former Syrian regime officials",
-     "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 05:23:03 +0000"
+     "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:23:17 +0000"
     },
     {
-     "title": "Former US official calls shift in relations with Syria ‘surreal’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 05:12:54 +0000"
+     "title": "Cars swept downhill as flash floods hit northern Chile",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:22:30 +0000"
     },
     {
-     "title": "South Korea, US scale back annual military drills after Trump’s order",
-     "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 04:59:32 +0000"
+     "title": "US pilot lands jet without front wheels after landing gear failure",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-pilot-lands-jet-without-front-wheels-after-landing-gear-failure?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:06:08 +0000"
     },
     {
-     "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 04:25:26 +0000"
+     "title": "Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo",
+     "link": "https://www.aljazeera.com/sports/2026/8/19/kelsey-mitchell-ties-wnba-scoring-record-in-fever-win-over-tempo?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 09:01:13 +0000"
     },
     {
-     "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 03:44:44 +0000"
+     "title": "Ukraine’s sacked defence minister calls for wartime elections",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 08:46:56 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+     "link": "https://www.nature.com/articles/d41586-026-02528-y",
+     "date": ""
+    },
     {
      "title": "Heatwaves expose weak links in food systems",
      "link": "https://www.nature.com/articles/d41586-026-02577-3",
@@ -262,11 +267,6 @@
     {
      "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
      "link": "https://www.nature.com/articles/d41586-026-02527-z",
-     "date": ""
-    },
-    {
-     "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
-     "link": "https://www.nature.com/articles/d41586-026-02466-9",
      "date": ""
     }
    ]
