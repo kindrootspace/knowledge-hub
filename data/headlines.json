@@ -1,14 +1,9 @@
 {
- "updated": "2026-08-19 04:52 UTC",
+ "updated": "2026-08-19 05:47 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "Sacked Ukrainian defence minister calls for presidential election",
-     "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 04:44:41 GMT"
-    },
     {
      "title": "Three dead after family get into difficulty in sea",
      "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
@@ -20,9 +15,14 @@
      "date": "Wed, 19 Aug 2026 03:42:16 GMT"
     },
     {
-     "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-     "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:53:24 GMT"
+     "title": "Sacked Ukrainian defence minister calls for presidential election",
+     "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 04:44:41 GMT"
+    },
+    {
+     "title": "Demand for degree apprenticeships in England quadruples in three years",
+     "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 05:00:12 GMT"
     },
     {
      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
@@ -30,19 +30,19 @@
      "date": "Tue, 18 Aug 2026 23:37:18 GMT"
     },
     {
+     "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+     "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 23:53:24 GMT"
+    },
+    {
+     "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+     "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 05:00:39 GMT"
+    },
+    {
      "title": "Is another UK heatwave on the way in September?",
      "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 00:21:04 GMT"
-    },
-    {
-     "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 03:56:35 GMT"
-    },
-    {
-     "title": "Suspended Reform UK member vows to fight to remain in party",
-     "link": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 03:34:11 GMT"
     }
    ]
   },
@@ -80,7 +80,7 @@
      "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
-     "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+     "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 18:20:08 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+     "date": "Wed, 19 Aug 2026 00:55:08 -0400"
+    },
+    {
      "title": "Key results from Florida primaries, so far",
      "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
      "date": "Tue, 18 Aug 2026 17:01:17 -0400"
@@ -173,17 +178,27 @@
      "title": "The grueling fight over who profits from AI music",
      "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
      "date": "Tue, 18 Aug 2026 06:30:00 -0400"
-    },
-    {
-     "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-     "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-     "date": "Tue, 18 Aug 2026 05:30:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Lebanon no longer a safe haven for former Syrian regime officials",
+     "link": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 05:23:03 +0000"
+    },
+    {
+     "title": "Former US official calls shift in relations with Syria ‘surreal’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 05:12:54 +0000"
+    },
+    {
+     "title": "South Korea, US scale back annual military drills after Trump’s order",
+     "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 04:59:32 +0000"
+    },
     {
      "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "US sanctions International Criminal Court’s president and top lawyer",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 03:25:33 +0000"
-    },
-    {
-     "title": "Trial begins that could force Meta to change Facebook and Instagram",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 03:20:24 +0000"
-    },
-    {
-     "title": "Trump pauses 50 percent tariff on Canada in last-minute deal",
-     "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 02:35:15 +0000"
-    },
-    {
-     "title": "US refineries taking in half of Venezuela’s oil output, official says",
-     "link": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 02:00:43 +0000"
     }
    ]
   },
