@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 07:54 UTC",
+ "updated": "2026-08-19 08:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,7 +25,7 @@
      "date": "Wed, 19 Aug 2026 05:00:39 GMT"
     },
     {
-     "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+     "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
      "link": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 23:53:24 GMT"
     },
@@ -50,6 +50,16 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 08:31:00 GMT"
+    },
+    {
+     "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+     "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 08:52:07 GMT"
+    },
+    {
      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 23:14:49 GMT"
@@ -58,11 +68,6 @@
      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 03:56:35 GMT"
-    },
-    {
-     "title": "Meta hooked children on Facebook and Instagram, US court hears",
-     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
     },
     {
      "title": "Mobile payments on the rise but cash decline slows",
@@ -80,14 +85,9 @@
      "date": "Wed, 19 Aug 2026 07:19:30 GMT"
     },
     {
-     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 07:09:57 GMT"
-    },
-    {
-     "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
-     "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 18:20:08 GMT"
+     "title": "Meta hooked children on Facebook and Instagram, US court hears",
+     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 22:11:07 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+     "date": "Wed, 19 Aug 2026 03:51:59 -0400"
+    },
+    {
      "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
      "date": "Wed, 19 Aug 2026 02:57:51 -0400"
@@ -173,11 +178,6 @@
      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
      "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
      "date": "Tue, 18 Aug 2026 11:19:40 -0400"
-    },
-    {
-     "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-     "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-     "date": "Tue, 18 Aug 2026 07:40:35 -0400"
     }
    ]
   },
