@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 10:46 UTC",
+ "updated": "2026-08-19 11:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
      "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 10:32:55 GMT"
+     "date": "Wed, 19 Aug 2026 11:02:49 GMT"
     },
     {
      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
@@ -37,7 +37,7 @@
     {
      "title": "Sacked Ukrainian defence minister calls for presidential election",
      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:02:08 GMT"
+     "date": "Wed, 19 Aug 2026 11:00:21 GMT"
     },
     {
      "title": "Competition for degree apprenticeships quadruples as university costs rise",
@@ -55,9 +55,14 @@
      "date": "Wed, 19 Aug 2026 09:02:03 GMT"
     },
     {
+     "title": "Inflation is heating up but don't expect another crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 11:27:39 GMT"
+    },
+    {
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
      "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 09:11:08 GMT"
+     "date": "Wed, 19 Aug 2026 11:08:42 GMT"
     },
     {
      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
@@ -65,9 +70,9 @@
      "date": "Tue, 18 Aug 2026 23:14:49 GMT"
     },
     {
-     "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-     "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 03:56:35 GMT"
+     "title": "The critical tech staying safe by going underground",
+     "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 18 Aug 2026 23:25:21 GMT"
     },
     {
      "title": "Mobile payments on the rise but cash decline slows",
@@ -75,19 +80,14 @@
      "date": "Tue, 18 Aug 2026 23:04:53 GMT"
     },
     {
-     "title": "The critical tech staying safe by going underground",
-     "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:25:21 GMT"
-    },
-    {
      "title": "Global borrowing costs hit fresh highs over oil, AI and inflation concerns",
      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 18 Aug 2026 18:20:08 GMT"
     },
     {
-     "title": "Chinese robotics giant Unitree soars in stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 07:19:30 GMT"
+     "title": "Overhaul for Belfast cranes ahead of major contract",
+     "link": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 05:10:07 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+     "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+     "date": "Wed, 19 Aug 2026 07:14:31 -0400"
+    },
+    {
      "title": "How India's blocking of a film exposing real-life police abuses backfired",
      "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
      "date": "Wed, 19 Aug 2026 06:02:00 -0400"
@@ -160,6 +165,11 @@
      "date": "Wed, 19 Aug 2026 05:02:00 -0400"
     },
     {
+     "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+     "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
@@ -168,22 +178,27 @@
      "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
      "date": "Wed, 19 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-     "date": "Wed, 19 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
-     "date": "Wed, 19 Aug 2026 03:51:59 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Humanitarianism is not collapsing. It is being traded and compromised",
+     "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 10:59:09 +0000"
+    },
+    {
+     "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+     "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 10:57:57 +0000"
+    },
+    {
+     "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
+     "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 10:53:01 +0000"
+    },
     {
      "title": "Why White House envoys cannot sway Israel’s war leader",
      "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
      "date": "Wed, 19 Aug 2026 09:26:16 +0000"
-    },
-    {
-     "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-     "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:23:17 +0000"
-    },
-    {
-     "title": "Cars swept downhill as flash floods hit northern Chile",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:22:30 +0000"
-    },
-    {
-     "title": "US pilot lands jet without front wheels after landing gear failure",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-pilot-lands-jet-without-front-wheels-after-landing-gear-failure?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 09:06:08 +0000"
     }
    ]
   },
