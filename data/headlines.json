@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 03:59 UTC",
+ "updated": "2026-08-20 04:53 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,14 @@
      "date": "Thu, 20 Aug 2026 02:00:51 GMT"
     },
     {
-     "title": "Vaccine breakthrough stops cancer returning in trial",
-     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 19:00:48 GMT"
+     "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
+     "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 17:09:34 GMT"
     },
     {
-     "title": "People smuggler exposed by BBC investigation arrested and charged",
-     "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 20:54:51 GMT"
+     "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 04:46:32 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -30,19 +30,19 @@
      "date": "Thu, 20 Aug 2026 02:05:20 GMT"
     },
     {
+     "title": "Vaccine breakthrough stops cancer returning in trial",
+     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 19:00:48 GMT"
+    },
+    {
      "title": "Downpours to continue for UK with risk of flash flooding",
      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:56:33 GMT"
     },
     {
-     "title": "Vapes could lead to health harms in children, doctors warn",
-     "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 00:35:22 GMT"
-    },
-    {
-     "title": "Russia unleashes 'massive attack' on Kyiv, killing at least five",
-     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 02:36:44 GMT"
+     "title": "People smuggler exposed by BBC investigation arrested and charged",
+     "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 20:54:51 GMT"
     }
    ]
   },
@@ -65,6 +65,11 @@
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
+     "title": "Founder of China's Evergrande sentenced to life in prison",
+     "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 04:42:13 GMT"
+    },
+    {
      "title": "Canada and US say they are finalising a trade deal",
      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 03:10:48 GMT"
@@ -83,11 +88,6 @@
      "title": "Inflation is heating up but don't expect another crisis",
      "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 11:27:39 GMT"
-    },
-    {
-     "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-     "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:08:42 GMT"
     }
    ]
   },
@@ -185,7 +185,12 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+     "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 04:31:10 +0000"
+    },
+    {
+     "title": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
      "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 02:50:17 +0000"
     },
@@ -218,11 +223,6 @@
      "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 00:12:59 +0000"
-    },
-    {
-     "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-     "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 00:06:05 +0000"
     }
    ]
   },
