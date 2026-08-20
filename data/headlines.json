@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 08:56 UTC",
+ "updated": "2026-08-20 09:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Prince Harry and Meghan moving back to UK later this month",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 07:21:03 GMT"
+     "date": "Thu, 20 Aug 2026 09:35:58 GMT"
     },
     {
      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
@@ -17,7 +17,7 @@
     {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 08:19:50 GMT"
+     "date": "Thu, 20 Aug 2026 09:29:20 GMT"
     },
     {
      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
@@ -27,7 +27,7 @@
     {
      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 08:39:26 GMT"
+     "date": "Thu, 20 Aug 2026 09:37:31 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -52,12 +52,12 @@
     {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 08:19:50 GMT"
+     "date": "Thu, 20 Aug 2026 09:29:20 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 03:22:57 GMT"
+     "date": "Thu, 20 Aug 2026 09:13:18 GMT"
     },
     {
      "title": "US national debt passes $40tn after doubling in a decade",
@@ -140,6 +140,36 @@
    "name": "NPR",
    "items": [
     {
+     "title": "North Korea fires a suspected missile toward the sea, Japan says",
+     "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+     "date": "Thu, 20 Aug 2026 05:24:45 -0400"
+    },
+    {
+     "title": "Privacy advocates call on Maryland to investigate data brokers",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Disabled adults learn and work in their communities. That right is under threat",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
      "date": "Thu, 20 Aug 2026 04:52:29 -0400"
@@ -148,42 +178,27 @@
      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
      "date": "Thu, 20 Aug 2026 03:31:55 -0400"
-    },
-    {
-     "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-     "date": "Thu, 20 Aug 2026 02:17:42 -0400"
-    },
-    {
-     "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-     "date": "Thu, 20 Aug 2026 01:50:53 -0400"
-    },
-    {
-     "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
-     "date": "Wed, 19 Aug 2026 19:19:12 -0400"
-    },
-    {
-     "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-     "date": "Wed, 19 Aug 2026 17:27:51 -0400"
-    },
-    {
-     "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-     "date": "Wed, 19 Aug 2026 17:20:15 -0400"
-    },
-    {
-     "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-     "date": "Wed, 19 Aug 2026 16:09:39 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "How conflict is making life more expensive for Iranians",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 09:20:17 +0000"
+    },
+    {
+     "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
+     "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 09:08:58 +0000"
+    },
+    {
+     "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+     "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 08:43:17 +0000"
+    },
     {
      "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
      "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 07:50:07 +0000"
-    },
-    {
-     "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
-     "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 07:38:22 +0000"
-    },
-    {
-     "title": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 07:17:13 +0000"
-    },
-    {
-     "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
-     "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 07:11:37 +0000"
     }
    ]
   },
