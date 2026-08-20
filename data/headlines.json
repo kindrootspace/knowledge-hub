@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 01:51 UTC",
+ "updated": "2026-08-20 03:10 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Thu, 20 Aug 2026 01:14:29 GMT"
     },
     {
-     "title": "Couple and teenage daughter who died in water off Shoreham named by police",
-     "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 18:45:51 GMT"
+     "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+     "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 02:00:51 GMT"
+    },
+    {
+     "title": "Vaccine breakthrough stops cancer returning in trial",
+     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 19:00:48 GMT"
     },
     {
      "title": "People smuggler exposed by BBC investigation arrested and charged",
@@ -20,9 +25,9 @@
      "date": "Wed, 19 Aug 2026 20:54:51 GMT"
     },
     {
-     "title": "Vaccine breakthrough stops cancer returning in trial",
-     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 19:00:48 GMT"
+     "title": "Giant whales move into Greenland waters as ice disappears",
+     "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 02:05:20 GMT"
     },
     {
      "title": "Downpours to continue for UK with risk of flash flooding",
@@ -35,14 +40,9 @@
      "date": "Thu, 20 Aug 2026 00:35:22 GMT"
     },
     {
-     "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 15:33:32 GMT"
-    },
-    {
-     "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
-     "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 17:09:34 GMT"
+     "title": "Russia unleashes 'massive attack' on Kyiv, killing at least five",
+     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 02:36:44 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 01:02:51 GMT"
+     "date": "Thu, 20 Aug 2026 02:16:49 GMT"
     },
     {
      "title": "US national debt passes $40tn after doubling in a decade",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 02:16:17 +0000"
+    },
+    {
+     "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+     "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 01:56:41 +0000"
+    },
+    {
+     "title": "Bodycam captures police team falling when deck collapses in Missouri",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 01:37:08 +0000"
+    },
+    {
      "title": "Publisher of US military newspaper resigns over differences with government",
      "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 00:34:13 +0000"
@@ -208,21 +223,6 @@
      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "US national debt passes record $40 trillion",
-     "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 23:59:16 +0000"
-    },
-    {
-     "title": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 23:56:47 +0000"
-    },
-    {
-     "title": "Kosovo finds remains of at least 23 people in suspected mass graves",
-     "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 23:55:33 +0000"
     }
    ]
   },
