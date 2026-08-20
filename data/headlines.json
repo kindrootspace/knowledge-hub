@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 05:46 UTC",
+ "updated": "2026-08-20 07:06 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Prince Harry and Meghan moving back to UK later this month",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 01:14:29 GMT"
+     "date": "Thu, 20 Aug 2026 06:08:34 GMT"
     },
     {
      "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
@@ -15,19 +15,19 @@
      "date": "Thu, 20 Aug 2026 02:00:51 GMT"
     },
     {
-     "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+     "title": "Travelodge boss steps down after security issues in rooms",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 06:51:43 GMT"
+    },
+    {
+     "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 05:25:23 GMT"
+     "date": "Thu, 20 Aug 2026 06:44:20 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 02:05:20 GMT"
-    },
-    {
-     "title": "Vaccine breakthrough stops cancer returning in trial",
-     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 19:00:48 GMT"
     },
     {
      "title": "Downpours to continue for UK with risk of flash flooding",
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+     "title": "Travelodge boss steps down after security issues in rooms",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 06:51:43 GMT"
+    },
+    {
+     "title": "Trump vows tougher economic measures on Iran and supporting countries",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 03:22:57 GMT"
     },
     {
      "title": "US national debt passes $40tn after doubling in a decade",
      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 01:24:26 GMT"
+     "date": "Thu, 20 Aug 2026 06:23:23 GMT"
     },
     {
      "title": "I quit my £80,000 job to make ice cream - here's how",
@@ -67,7 +72,7 @@
     {
      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 05:07:00 GMT"
+     "date": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
      "title": "Canada and US say they are finalising a trade deal",
@@ -83,11 +88,6 @@
      "title": "US retail giant receives $1bn boost from tariff refunds",
      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 17:07:49 GMT"
-    },
-    {
-     "title": "Inflation is heating up but don't expect another crisis",
-     "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:27:39 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+     "date": "Thu, 20 Aug 2026 02:17:42 -0400"
+    },
+    {
+     "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+     "date": "Thu, 20 Aug 2026 01:50:53 -0400"
+    },
+    {
      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
      "date": "Wed, 19 Aug 2026 19:19:12 -0400"
@@ -168,22 +178,22 @@
      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
      "date": "Wed, 19 Aug 2026 14:01:03 -0400"
-    },
-    {
-     "title": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
-     "date": "Wed, 19 Aug 2026 13:03:41 -0400"
-    },
-    {
-     "title": "Why does the U.S. military seem stymied in the war with Iran?",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-     "date": "Wed, 19 Aug 2026 12:18:35 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+     "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 06:38:39 +0000"
+    },
+    {
+     "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 05:43:01 +0000"
+    },
     {
      "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
@@ -200,7 +210,7 @@
      "date": "Thu, 20 Aug 2026 04:31:10 +0000"
     },
     {
-     "title": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+     "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
      "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 02:50:17 +0000"
     },
@@ -213,61 +223,6 @@
      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
      "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 01:56:41 +0000"
-    },
-    {
-     "title": "Bodycam captures police team falling when deck collapses in Missouri",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 01:37:08 +0000"
-    },
-    {
-     "title": "Publisher of US military newspaper resigns over differences with government",
-     "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 00:34:13 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "These trees are making air quality in cities worse",
-     "link": "https://www.nature.com/articles/d41586-026-02586-2",
-     "date": ""
-    },
-    {
-     "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
-     "link": "https://www.nature.com/articles/s41586-026-11037-x",
-     "date": ""
-    },
-    {
-     "title": "Too much mate choice overwhelms frogs",
-     "link": "https://www.nature.com/articles/d41586-026-02554-w",
-     "date": ""
-    },
-    {
-     "title": "A black hole's spin could finally be measured by a high-speed star",
-     "link": "https://www.nature.com/articles/d41586-026-02607-0",
-     "date": ""
-    },
-    {
-     "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
-     "link": "https://www.nature.com/articles/s41586-026-10776-1",
-     "date": ""
-    },
-    {
-     "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-     "link": "https://www.nature.com/articles/s41586-026-10777-0",
-     "date": ""
-    },
-    {
-     "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
-     "link": "https://www.nature.com/articles/s41586-026-10951-4",
-     "date": ""
-    },
-    {
-     "title": "Observation of conformal field theory spectra in a quantum simulator",
-     "link": "https://www.nature.com/articles/s41586-026-10904-x",
-     "date": ""
     }
    ]
   }
