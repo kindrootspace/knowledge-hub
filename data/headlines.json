@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 09:50 UTC",
+ "updated": "2026-08-20 10:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,17 +17,17 @@
     {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 09:29:20 GMT"
+     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 08:03:16 GMT"
+     "date": "Thu, 20 Aug 2026 09:53:52 GMT"
     },
     {
      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 09:37:31 GMT"
+     "date": "Thu, 20 Aug 2026 10:34:33 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -37,7 +37,7 @@
     {
      "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
      "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 08:45:09 GMT"
+     "date": "Thu, 20 Aug 2026 10:28:26 GMT"
     },
     {
      "title": "New personalised vaccine breakthrough stops cancer returning in trial",
@@ -52,7 +52,7 @@
     {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 09:29:20 GMT"
+     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -175,15 +175,25 @@
      "date": "Thu, 20 Aug 2026 04:52:29 -0400"
     },
     {
-     "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-     "date": "Thu, 20 Aug 2026 03:31:55 -0400"
+     "title": "Tech billionaires push back against proposed wealth tax in California",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
+     "date": "Thu, 20 Aug 2026 04:45:47 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+     "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 10:16:08 +0000"
+    },
+    {
+     "title": "Taliban secures pragmatic global alliances without formal recognition",
+     "link": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 10:14:30 +0000"
+    },
     {
      "title": "How conflict is making life more expensive for Iranians",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Video shows Russian missile strike on Ukrainian capital",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 08:18:15 +0000"
-    },
-    {
-     "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 08:16:47 +0000"
-    },
-    {
-     "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 07:50:07 +0000"
     }
    ]
   },
