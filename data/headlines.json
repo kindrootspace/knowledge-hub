@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 10:47 UTC",
+ "updated": "2026-08-20 11:42 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Prince Harry and Meghan moving back to UK later this month",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 09:35:58 GMT"
+     "date": "Thu, 20 Aug 2026 11:24:58 GMT"
     },
     {
      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
@@ -25,9 +25,9 @@
      "date": "Thu, 20 Aug 2026 09:53:52 GMT"
     },
     {
-     "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+     "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:34:33 GMT"
+     "date": "Thu, 20 Aug 2026 11:06:54 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -75,9 +75,9 @@
      "date": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
-     "title": "Canada and US say they are finalising a trade deal",
+     "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 03:10:48 GMT"
+     "date": "Thu, 20 Aug 2026 11:10:25 GMT"
     },
     {
      "title": "India's Gen Z are driving up a mega boom in its beauty market",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+     "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+     "date": "Thu, 20 Aug 2026 07:30:18 -0400"
+    },
+    {
      "title": "North Korea fires a suspected missile toward the sea, Japan says",
      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
@@ -173,17 +178,22 @@
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
      "date": "Thu, 20 Aug 2026 04:52:29 -0400"
-    },
-    {
-     "title": "Tech billionaires push back against proposed wealth tax in California",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-     "date": "Thu, 20 Aug 2026 04:45:47 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 11:21:50 +0000"
+    },
+    {
+     "title": "How Myanmar’s war drives the Rohingya crisis",
+     "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 11:00:00 +0000"
+    },
     {
      "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
      "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
@@ -205,7 +215,7 @@
      "date": "Thu, 20 Aug 2026 09:08:58 +0000"
     },
     {
-     "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+     "title": "Are ships through more willing to defy Iran or the US? What the data shows",
      "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 08:43:17 +0000"
     },
@@ -213,22 +223,17 @@
      "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
      "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 08:27:55 +0000"
-    },
-    {
-     "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 08:24:04 +0000"
-    },
-    {
-     "title": "Video shows Russian missile strike on Ukrainian capital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 08:18:15 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
     {
      "title": "These trees are making air quality in cities worse",
      "link": "https://www.nature.com/articles/d41586-026-02586-2",
@@ -262,11 +267,6 @@
     {
      "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
      "link": "https://www.nature.com/articles/s41586-026-10777-0",
-     "date": ""
-    },
-    {
-     "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
-     "link": "https://www.nature.com/articles/s41586-026-10951-4",
      "date": ""
     }
    ]
