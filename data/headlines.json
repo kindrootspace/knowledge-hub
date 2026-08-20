@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 23:36 UTC",
+ "updated": "2026-08-20 01:51 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Prince Harry and Meghan moving back to UK",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 21:59:03 GMT"
+     "date": "Thu, 20 Aug 2026 01:14:29 GMT"
     },
     {
      "title": "Couple and teenage daughter who died in water off Shoreham named by police",
@@ -15,24 +15,9 @@
      "date": "Wed, 19 Aug 2026 18:45:51 GMT"
     },
     {
-     "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-     "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 14:06:42 GMT"
-    },
-    {
-     "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 15:33:32 GMT"
-    },
-    {
      "title": "People smuggler exposed by BBC investigation arrested and charged",
      "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 20:54:51 GMT"
-    },
-    {
-     "title": "Salmonella outbreak: What we know so far",
-     "link": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 16:43:56 GMT"
     },
     {
      "title": "Vaccine breakthrough stops cancer returning in trial",
@@ -40,9 +25,24 @@
      "date": "Wed, 19 Aug 2026 19:00:48 GMT"
     },
     {
-     "title": "'Incredible': SpaceX rocket spotted off Christmas Island coast",
-     "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 15:01:57 GMT"
+     "title": "Downpours to continue for UK with risk of flash flooding",
+     "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 23:56:33 GMT"
+    },
+    {
+     "title": "Vapes could lead to health harms in children, doctors warn",
+     "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 00:35:22 GMT"
+    },
+    {
+     "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+     "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 15:33:32 GMT"
+    },
+    {
+     "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
+     "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 17:09:34 GMT"
     }
    ]
   },
@@ -50,14 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 01:02:51 GMT"
+    },
+    {
      "title": "US national debt passes $40tn after doubling in a decade",
      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 22:31:46 GMT"
+     "date": "Thu, 20 Aug 2026 01:24:26 GMT"
     },
     {
      "title": "I quit my £80,000 job to make ice cream - here's how",
      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
+    },
+    {
+     "title": "India's Gen Z are driving up a mega boom in its beauty market",
+     "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 23:31:24 GMT"
     },
     {
      "title": "Inflation is heating up but don't expect another crisis",
@@ -77,23 +87,18 @@
     {
      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 23:32:37 GMT"
-    },
-    {
-     "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-     "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 18 Aug 2026 23:14:49 GMT"
-    },
-    {
-     "title": "US retail giant receives $1bn boost from tariff refunds",
-     "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 17:07:49 GMT"
+     "date": "Thu, 20 Aug 2026 00:18:01 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "More than 100 dead after goldmine collapses in Central African Republic",
+     "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+     "date": "Thu, 20 Aug 2026 00:14:17 GMT"
+    },
     {
      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
      "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
@@ -113,11 +118,6 @@
      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
      "date": "Sat, 15 Aug 2026 19:39:07 GMT"
-    },
-    {
-     "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
-     "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-     "date": "Sat, 15 Aug 2026 18:08:21 GMT"
     },
     {
      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-     "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 23:21:32 +0000"
+     "title": "Publisher of US military newspaper resigns over differences with government",
+     "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 00:34:13 +0000"
     },
     {
-     "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
-     "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 23:18:32 +0000"
+     "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+     "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 00:26:59 +0000"
     },
     {
-     "title": "What the social media addiction lawsuit could cost Meta",
-     "link": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 22:01:26 +0000"
+     "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 00:12:59 +0000"
     },
     {
-     "title": "“I get along with him very well.”",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 21:35:34 +0000"
+     "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
+     "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 00:06:05 +0000"
     },
     {
-     "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 21:22:17 +0000"
+     "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 00:00:00 +0000"
     },
     {
-     "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 21:10:39 +0000"
+     "title": "US national debt passes record $40 trillion",
+     "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 23:59:16 +0000"
     },
     {
-     "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 21:09:15 +0000"
+     "title": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 23:56:47 +0000"
     },
     {
-     "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-     "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
-     "date": "Wed, 19 Aug 2026 21:01:54 +0000"
+     "title": "Kosovo finds remains of at least 23 people in suspected mass graves",
+     "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
+     "date": "Wed, 19 Aug 2026 23:55:33 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "These trees are making air quality in cities worse",
+     "link": "https://www.nature.com/articles/d41586-026-02586-2",
+     "date": ""
+    },
     {
      "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
      "link": "https://www.nature.com/articles/s41586-026-11037-x",
@@ -262,11 +267,6 @@
     {
      "title": "Observation of conformal field theory spectra in a quantum simulator",
      "link": "https://www.nature.com/articles/s41586-026-10904-x",
-     "date": ""
-    },
-    {
-     "title": "Wake-activated neuronal populations that regulate sleep drive",
-     "link": "https://www.nature.com/articles/s41586-026-10928-3",
      "date": ""
     }
    ]
