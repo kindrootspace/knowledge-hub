@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 20:47 UTC",
+ "updated": "2026-08-20 21:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -175,8 +175,8 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+     "title": "Privacy advocates call on Maryland to investigate data brokers",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,16 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+     "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 21:18:10 +0000"
+    },
+    {
+     "title": "US pummels Cuban economy with new sanctions on mining, construction",
+     "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:37:25 +0000"
+    },
     {
      "title": "Landslide at illegal gold mine kills 13 people in Colombia",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 20:05:53 +0000"
-    },
-    {
-     "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-     "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 19:59:54 +0000"
-    },
-    {
-     "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 19:45:08 +0000"
     }
    ]
   },
