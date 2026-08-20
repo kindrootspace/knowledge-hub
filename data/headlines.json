@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-20 11:42 UTC",
+ "updated": "2026-08-20 13:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Prince Harry and Meghan moving back to UK later this month",
-     "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 11:24:58 GMT"
+     "title": "Harry and Meghan's security arrangements a private matter, PM says",
+     "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 13:08:14 GMT"
     },
     {
      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
@@ -25,9 +25,9 @@
      "date": "Thu, 20 Aug 2026 09:53:52 GMT"
     },
     {
-     "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 11:06:54 GMT"
+     "title": "Train derailment carriages moved amid track probe",
+     "link": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 12:09:40 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -37,12 +37,12 @@
     {
      "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
      "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:28:26 GMT"
+     "date": "Thu, 20 Aug 2026 11:55:14 GMT"
     },
     {
-     "title": "New personalised vaccine breakthrough stops cancer returning in trial",
-     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 08:10:33 GMT"
+     "title": "US national debt passes $40tn after doubling in a decade",
+     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 06:23:23 GMT"
     }
    ]
   },
@@ -55,14 +55,19 @@
      "date": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
-     "title": "Trump vows tougher economic measures on Iran and supporting countries",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 09:13:18 GMT"
-    },
-    {
      "title": "US national debt passes $40tn after doubling in a decade",
      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 06:23:23 GMT"
+    },
+    {
+     "title": "Danone €1bn takeover of Huel approved by watchdog",
+     "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 11:41:01 GMT"
+    },
+    {
+     "title": "Trump vows tougher economic measures on Iran and supporting countries",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 09:13:18 GMT"
     },
     {
      "title": "I quit my £80,000 job to make ice cream - here's how",
@@ -83,11 +88,6 @@
      "title": "India's Gen Z are driving up a mega boom in its beauty market",
      "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:31:24 GMT"
-    },
-    {
-     "title": "US retail giant receives $1bn boost from tariff refunds",
-     "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 17:07:49 GMT"
     }
    ]
   },
@@ -155,13 +155,13 @@
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
@@ -170,7 +170,7 @@
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Disabled adults learn and work in their communities. That right is under threat",
+     "title": "They grew up with disability rights. Now, they're fighting to keep them",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
@@ -184,6 +184,26 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Alarms blare in South Korea during annual air raid defence drill",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 12:46:35 +0000"
+    },
+    {
+     "title": "Bangladesh’s government under pressure as youth demand jobs",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 11:49:36 +0000"
+    },
+    {
+     "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+     "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 11:48:18 +0000"
+    },
+    {
+     "title": "Israel is betting on Islamophobia to save its standing in the West",
+     "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 11:44:15 +0000"
+    },
     {
      "title": "PSG forced to move opening league match as heatwave in France damages pitch",
      "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Taliban secures pragmatic global alliances without formal recognition",
      "link": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 10:14:30 +0000"
-    },
-    {
-     "title": "How conflict is making life more expensive for Iranians",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 09:20:17 +0000"
-    },
-    {
-     "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-     "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 09:08:58 +0000"
-    },
-    {
-     "title": "Are ships through more willing to defy Iran or the US? What the data shows",
-     "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 08:43:17 +0000"
-    },
-    {
-     "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 08:27:55 +0000"
     }
    ]
   },
