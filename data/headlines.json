@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 07:57 UTC",
+ "updated": "2026-08-20 08:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,19 +10,24 @@
      "date": "Thu, 20 Aug 2026 07:21:03 GMT"
     },
     {
-     "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
      "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 02:00:51 GMT"
     },
     {
-     "title": "Travelodge boss steps down after security issues in rooms",
+     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 07:51:29 GMT"
+     "date": "Thu, 20 Aug 2026 08:19:50 GMT"
+    },
+    {
+     "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+     "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 08:03:16 GMT"
     },
     {
      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 07:37:55 GMT"
+     "date": "Thu, 20 Aug 2026 08:39:26 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -30,19 +35,14 @@
      "date": "Thu, 20 Aug 2026 02:05:20 GMT"
     },
     {
-     "title": "Rain to continue for UK with risk of flash flooding",
-     "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 23:56:33 GMT"
+     "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
+     "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 08:45:09 GMT"
     },
     {
-     "title": "Vapes could lead to health harms in children, doctors warn",
-     "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 00:35:22 GMT"
-    },
-    {
-     "title": "People smuggler exposed by BBC investigation arrested and charged",
-     "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 20:54:51 GMT"
+     "title": "New personalised vaccine breakthrough stops cancer returning in trial",
+     "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 08:10:33 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Travelodge boss steps down after security issues in rooms",
+     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 07:51:29 GMT"
+     "date": "Thu, 20 Aug 2026 08:19:50 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
+     "date": "Thu, 20 Aug 2026 04:52:29 -0400"
+    },
+    {
      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
      "date": "Thu, 20 Aug 2026 03:31:55 -0400"
@@ -173,17 +178,42 @@
      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
      "date": "Wed, 19 Aug 2026 16:09:39 -0400"
-    },
-    {
-     "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-     "date": "Wed, 19 Aug 2026 15:45:11 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 08:27:55 +0000"
+    },
+    {
+     "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 08:24:04 +0000"
+    },
+    {
+     "title": "Video shows Russian missile strike on Ukrainian capital",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 08:18:15 +0000"
+    },
+    {
+     "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 08:16:47 +0000"
+    },
+    {
+     "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 07:50:07 +0000"
+    },
+    {
+     "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+     "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 07:38:22 +0000"
+    },
     {
      "title": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
      "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
@@ -193,36 +223,51 @@
      "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
      "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 07:11:37 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "These trees are making air quality in cities worse",
+     "link": "https://www.nature.com/articles/d41586-026-02586-2",
+     "date": ""
     },
     {
-     "title": "Lionel Messi scores first goal for Inter Miami since father’s death",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 07:08:23 +0000"
+     "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+     "link": "https://www.nature.com/articles/d41586-026-02549-7",
+     "date": ""
     },
     {
-     "title": "Bangladesh holds presidential election in first contested vote in 35 years",
-     "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 06:38:39 +0000"
+     "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
+     "link": "https://www.nature.com/articles/s41586-026-11037-x",
+     "date": ""
     },
     {
-     "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 05:43:01 +0000"
+     "title": "Too much mate choice overwhelms frogs",
+     "link": "https://www.nature.com/articles/d41586-026-02554-w",
+     "date": ""
     },
     {
-     "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 05:06:23 +0000"
+     "title": "A black hole's spin could finally be measured by a high-speed star",
+     "link": "https://www.nature.com/articles/d41586-026-02607-0",
+     "date": ""
     },
     {
-     "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 04:59:22 +0000"
+     "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+     "link": "https://www.nature.com/articles/s41586-026-10776-1",
+     "date": ""
     },
     {
-     "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 04:31:10 +0000"
+     "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+     "link": "https://www.nature.com/articles/s41586-026-10777-0",
+     "date": ""
+    },
+    {
+     "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+     "link": "https://www.nature.com/articles/s41586-026-10951-4",
+     "date": ""
     }
    ]
   }
