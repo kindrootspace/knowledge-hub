@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 13:11 UTC",
+ "updated": "2026-08-20 14:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,12 @@
     {
      "title": "Harry and Meghan's security arrangements a private matter, PM says",
      "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 13:08:14 GMT"
+     "date": "Thu, 20 Aug 2026 13:53:40 GMT"
     },
     {
-     "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-     "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 02:00:51 GMT"
+     "title": "Why are Harry and Meghan returning to the UK?",
+     "link": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 10:16:31 GMT"
     },
     {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
@@ -20,14 +20,14 @@
      "date": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
+     "title": "John Swinney defends £45,000 business-class flights to World Cup",
+     "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 12:33:09 GMT"
+    },
+    {
      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 09:53:52 GMT"
-    },
-    {
-     "title": "Train derailment carriages moved amid track probe",
-     "link": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 12:09:40 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -40,9 +40,9 @@
      "date": "Thu, 20 Aug 2026 11:55:14 GMT"
     },
     {
-     "title": "US national debt passes $40tn after doubling in a decade",
-     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:23:23 GMT"
+     "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+     "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 10:14:47 GMT"
     }
    ]
   },
@@ -60,19 +60,24 @@
      "date": "Thu, 20 Aug 2026 06:23:23 GMT"
     },
     {
+     "title": "I quit my £80,000 job to make ice cream - here's how",
+     "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 23:08:03 GMT"
+    },
+    {
      "title": "Danone €1bn takeover of Huel approved by watchdog",
      "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 11:41:01 GMT"
+     "date": "Thu, 20 Aug 2026 13:24:57 GMT"
+    },
+    {
+     "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
+     "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 13:46:43 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 09:13:18 GMT"
-    },
-    {
-     "title": "I quit my £80,000 job to make ice cream - here's how",
-     "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
@@ -83,11 +88,6 @@
      "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 11:10:25 GMT"
-    },
-    {
-     "title": "India's Gen Z are driving up a mega boom in its beauty market",
-     "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 23:31:24 GMT"
     }
    ]
   },
@@ -150,23 +150,23 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "Privacy advocates call on Maryland to investigate data brokers",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+     "title": "Privacy advocates call on Maryland to investigate data brokers",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Alarms blare in South Korea during annual air raid defence drill",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 12:46:35 +0000"
+     "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:39:38 +0000"
     },
     {
-     "title": "Bangladesh’s government under pressure as youth demand jobs",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 11:49:36 +0000"
+     "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+     "link": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:32:55 +0000"
     },
     {
-     "title": "Who was Hind Rajab and why is Israel investigating her killing?",
-     "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 11:48:18 +0000"
+     "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+     "link": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:18:35 +0000"
     },
     {
-     "title": "Israel is betting on Islamophobia to save its standing in the West",
-     "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 11:44:15 +0000"
+     "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
+     "link": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:18:31 +0000"
     },
     {
-     "title": "PSG forced to move opening league match as heatwave in France damages pitch",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 11:21:50 +0000"
+     "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:14:14 +0000"
     },
     {
-     "title": "How Myanmar’s war drives the Rohingya crisis",
-     "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 11:00:00 +0000"
+     "title": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:13:24 +0000"
     },
     {
-     "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
-     "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 10:16:08 +0000"
+     "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
+     "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:10:50 +0000"
     },
     {
-     "title": "Taliban secures pragmatic global alliances without formal recognition",
-     "link": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 10:14:30 +0000"
+     "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+     "link": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 13:05:05 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "These trees are making air quality in cities worse",
      "link": "https://www.nature.com/articles/d41586-026-02586-2",
+     "date": ""
+    },
+    {
+     "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+     "link": "https://www.nature.com/articles/d41586-026-02612-3",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
      "link": "https://www.nature.com/articles/s41586-026-10776-1",
-     "date": ""
-    },
-    {
-     "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-     "link": "https://www.nature.com/articles/s41586-026-10777-0",
      "date": ""
     }
    ]
