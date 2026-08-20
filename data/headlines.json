@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-20 03:10 UTC",
+ "updated": "2026-08-20 03:59 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Prince Harry and Meghan moving back to UK",
+     "title": "Prince Harry and Meghan moving back to UK later this month",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 01:14:29 GMT"
     },
@@ -52,7 +52,7 @@
     {
      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 02:16:49 GMT"
+     "date": "Thu, 20 Aug 2026 03:22:57 GMT"
     },
     {
      "title": "US national debt passes $40tn after doubling in a decade",
@@ -65,14 +65,14 @@
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
+     "title": "Canada and US say they are finalising a trade deal",
+     "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 03:10:48 GMT"
+    },
+    {
      "title": "India's Gen Z are driving up a mega boom in its beauty market",
      "link": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:31:24 GMT"
-    },
-    {
-     "title": "Inflation is heating up but don't expect another crisis",
-     "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 11:27:39 GMT"
     },
     {
      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
@@ -80,14 +80,14 @@
      "date": "Wed, 19 Aug 2026 16:12:27 GMT"
     },
     {
+     "title": "Inflation is heating up but don't expect another crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 11:27:39 GMT"
+    },
+    {
      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
      "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 11:08:42 GMT"
-    },
-    {
-     "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-     "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 00:18:01 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+     "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 02:50:17 +0000"
+    },
+    {
      "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 02:16:17 +0000"
@@ -218,11 +223,6 @@
      "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
      "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 00:06:05 +0000"
-    },
-    {
-     "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 00:00:00 +0000"
     }
    ]
   },
