@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 14:55 UTC",
+ "updated": "2026-08-20 15:49 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Thu, 20 Aug 2026 14:28:32 GMT"
     },
     {
-     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
+     "title": "Man charged over Manchester synagogue attack",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 15:45:42 GMT"
     },
     {
      "title": "John Swinney defends £45,000 business-class flights to World Cup",
@@ -30,19 +30,19 @@
      "date": "Thu, 20 Aug 2026 12:33:09 GMT"
     },
     {
-     "title": "School 'deeply saddened' by death of family in sea off Shoreham",
-     "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 14:20:42 GMT"
+     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
-     "title": "Giant whales move into Greenland waters as ice disappears",
-     "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 02:05:20 GMT"
+     "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+     "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 10:14:47 GMT"
     },
     {
-     "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
-     "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 11:55:14 GMT"
+     "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
+     "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 15:31:19 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+     "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+     "date": "Thu, 20 Aug 2026 15:42:39 GMT"
+    },
+    {
      "title": "More than 100 dead after goldmine collapses in Central African Republic",
      "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
      "date": "Thu, 20 Aug 2026 00:14:17 GMT"
@@ -113,11 +118,6 @@
      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
      "date": "Mon, 17 Aug 2026 14:07:31 GMT"
-    },
-    {
-     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-     "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-     "date": "Sat, 15 Aug 2026 19:39:07 GMT"
     },
     {
      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+     "date": "Thu, 20 Aug 2026 11:18:21 -0400"
+    },
+    {
      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
      "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
      "date": "Thu, 20 Aug 2026 07:30:18 -0400"
@@ -155,11 +160,6 @@
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Privacy advocates call on Maryland to investigate data brokers",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
@@ -170,14 +170,14 @@
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+     "title": "The system meant to protect ICE detainees has collapsed",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-     "date": "Thu, 20 Aug 2026 04:52:29 -0400"
+     "title": "Privacy advocates call on Maryland to investigate data brokers",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 15:41:56 +0000"
+    },
+    {
+     "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
+     "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 15:36:59 +0000"
+    },
+    {
+     "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
+     "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 15:24:42 +0000"
+    },
+    {
+     "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
+     "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 15:08:16 +0000"
+    },
+    {
+     "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 15:00:43 +0000"
+    },
+    {
+     "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+     "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 14:55:47 +0000"
+    },
+    {
+     "title": "Governments brace for historic El Nino impacts on global weather extremes",
+     "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 14:45:55 +0000"
+    },
+    {
      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
      "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 14:40:51 +0000"
-    },
-    {
-     "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
-     "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 14:36:35 +0000"
-    },
-    {
-     "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
-     "link": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 14:10:01 +0000"
-    },
-    {
-     "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:39:38 +0000"
-    },
-    {
-     "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
-     "link": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:32:55 +0000"
-    },
-    {
-     "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
-     "link": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:18:35 +0000"
-    },
-    {
-     "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
-     "link": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:18:31 +0000"
-    },
-    {
-     "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:14:14 +0000"
     }
    ]
   },
@@ -230,8 +230,18 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
+    },
+    {
      "title": "To shield the fetus, link a protein to these drugs",
      "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
+    {
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
      "date": ""
     },
     {
@@ -250,23 +260,13 @@
      "date": ""
     },
     {
+     "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
+     "link": "https://www.nature.com/articles/d41586-026-02455-y",
+     "date": ""
+    },
+    {
      "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
      "link": "https://www.nature.com/articles/s41586-026-11037-x",
-     "date": ""
-    },
-    {
-     "title": "Too much mate choice overwhelms frogs",
-     "link": "https://www.nature.com/articles/d41586-026-02554-w",
-     "date": ""
-    },
-    {
-     "title": "A black hole's spin could finally be measured by a high-speed star",
-     "link": "https://www.nature.com/articles/d41586-026-02607-0",
-     "date": ""
-    },
-    {
-     "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
-     "link": "https://www.nature.com/articles/s41586-026-10776-1",
      "date": ""
     }
    ]
