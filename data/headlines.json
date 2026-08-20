@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 04:53 UTC",
+ "updated": "2026-08-20 05:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,14 +15,9 @@
      "date": "Thu, 20 Aug 2026 02:00:51 GMT"
     },
     {
-     "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
-     "link": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 17:09:34 GMT"
-    },
-    {
      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 04:46:32 GMT"
+     "date": "Thu, 20 Aug 2026 05:25:23 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -43,6 +38,11 @@
      "title": "People smuggler exposed by BBC investigation arrested and charged",
      "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 20:54:51 GMT"
+    },
+    {
+     "title": "Vapes could lead to health harms in children, doctors warn",
+     "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 00:35:22 GMT"
     }
    ]
   },
@@ -65,9 +65,9 @@
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
-     "title": "Founder of China's Evergrande sentenced to life in prison",
+     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 04:42:13 GMT"
+     "date": "Thu, 20 Aug 2026 05:07:00 GMT"
     },
     {
      "title": "Canada and US say they are finalising a trade deal",
@@ -80,9 +80,9 @@
      "date": "Wed, 19 Aug 2026 23:31:24 GMT"
     },
     {
-     "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-     "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 16:12:27 GMT"
+     "title": "US retail giant receives $1bn boost from tariff refunds",
+     "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 17:07:49 GMT"
     },
     {
      "title": "Inflation is heating up but don't expect another crisis",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 05:06:23 +0000"
+    },
+    {
+     "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 04:59:22 +0000"
+    },
+    {
      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 04:31:10 +0000"
@@ -213,16 +223,6 @@
      "title": "Publisher of US military newspaper resigns over differences with government",
      "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 00:34:13 +0000"
-    },
-    {
-     "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
-     "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 00:26:59 +0000"
-    },
-    {
-     "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 00:12:59 +0000"
     }
    ]
   },
