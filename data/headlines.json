@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 17:45 UTC",
+ "updated": "2026-08-20 18:59 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Harry and Meghan's return to UK reignites questions over security",
      "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 17:43:54 GMT"
+     "date": "Thu, 20 Aug 2026 18:12:59 GMT"
     },
     {
      "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
@@ -27,7 +27,7 @@
     {
      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 16:40:51 GMT"
+     "date": "Thu, 20 Aug 2026 17:48:07 GMT"
     },
     {
      "title": "John Swinney defends £45,000 business-class flights to World Cup",
@@ -60,6 +60,11 @@
      "date": "Thu, 20 Aug 2026 06:23:23 GMT"
     },
     {
+     "title": "Walmart sales under strain as US shoppers pull back",
+     "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 17:59:59 GMT"
+    },
+    {
      "title": "I quit my £80,000 job to make ice cream - here's how",
      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
@@ -83,11 +88,6 @@
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 09:13:18 GMT"
-    },
-    {
-     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-     "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:08:02 GMT"
     }
    ]
   },
@@ -165,18 +165,18 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+     "title": "They grew up with disability rights. Now, they're fighting to keep them",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Privacy advocates call on Maryland to investigate data brokers",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "They grew up with disability rights. Now, they're fighting to keep them",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,36 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe",
+     "link": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:39:03 +0000"
+    },
+    {
+     "title": "Dozens dead after boat capsizes in northwestern Nigeria",
+     "link": "https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:37:47 +0000"
+    },
+    {
+     "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
+     "link": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:22:58 +0000"
+    },
+    {
+     "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:16:55 +0000"
+    },
+    {
+     "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
+     "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:13:49 +0000"
+    },
+    {
+     "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:06:14 +0000"
+    },
     {
      "title": "Bangladesh elects ruling party veteran Alamgir as president",
      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Humanoid robots take centre stage in China-US tech race",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 17:17:47 +0000"
-    },
-    {
-     "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 17:05:31 +0000"
-    },
-    {
-     "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-     "link": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 17:02:43 +0000"
-    },
-    {
-     "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-     "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 17:00:12 +0000"
-    },
-    {
-     "title": "At least 800 people evacuated from major wildfire in western Spain",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 16:58:19 +0000"
-    },
-    {
-     "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 16:22:46 +0000"
-    },
-    {
-     "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
-     "link": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 16:19:30 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
      "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
+    },
+    {
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
      "date": ""
     },
     {
@@ -250,6 +255,11 @@
      "date": ""
     },
     {
+     "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
+     "link": "https://www.nature.com/articles/d41586-026-02574-6",
+     "date": ""
+    },
+    {
      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
      "link": "https://www.nature.com/articles/d41586-026-02612-3",
      "date": ""
@@ -257,16 +267,6 @@
     {
      "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
      "link": "https://www.nature.com/articles/d41586-026-02549-7",
-     "date": ""
-    },
-    {
-     "title": "Staggering 90% of biomedical papers now show signs of AI help",
-     "link": "https://www.nature.com/articles/d41586-026-02551-z",
-     "date": ""
-    },
-    {
-     "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
-     "link": "https://www.nature.com/articles/d41586-026-02455-y",
      "date": ""
     }
    ]
