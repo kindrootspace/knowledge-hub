@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 07:06 UTC",
+ "updated": "2026-08-20 07:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Prince Harry and Meghan moving back to UK later this month",
      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:08:34 GMT"
+     "date": "Thu, 20 Aug 2026 07:21:03 GMT"
     },
     {
      "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
@@ -17,12 +17,12 @@
     {
      "title": "Travelodge boss steps down after security issues in rooms",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:51:43 GMT"
+     "date": "Thu, 20 Aug 2026 07:51:29 GMT"
     },
     {
-     "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+     "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:44:20 GMT"
+     "date": "Thu, 20 Aug 2026 07:37:55 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -30,19 +30,19 @@
      "date": "Thu, 20 Aug 2026 02:05:20 GMT"
     },
     {
-     "title": "Downpours to continue for UK with risk of flash flooding",
+     "title": "Rain to continue for UK with risk of flash flooding",
      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:56:33 GMT"
-    },
-    {
-     "title": "People smuggler exposed by BBC investigation arrested and charged",
-     "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 19 Aug 2026 20:54:51 GMT"
     },
     {
      "title": "Vapes could lead to health harms in children, doctors warn",
      "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 00:35:22 GMT"
+    },
+    {
+     "title": "People smuggler exposed by BBC investigation arrested and charged",
+     "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 19 Aug 2026 20:54:51 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Travelodge boss steps down after security issues in rooms",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:51:43 GMT"
+     "date": "Thu, 20 Aug 2026 07:51:29 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
+     "date": "Thu, 20 Aug 2026 03:31:55 -0400"
+    },
+    {
      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
      "date": "Thu, 20 Aug 2026 02:17:42 -0400"
@@ -173,17 +178,27 @@
      "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
      "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
      "date": "Wed, 19 Aug 2026 15:45:11 -0400"
-    },
-    {
-     "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-     "date": "Wed, 19 Aug 2026 14:01:03 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 07:17:13 +0000"
+    },
+    {
+     "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+     "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 07:11:37 +0000"
+    },
+    {
+     "title": "Lionel Messi scores first goal for Inter Miami since father’s death",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 07:08:23 +0000"
+    },
     {
      "title": "Bangladesh holds presidential election in first contested vote in 35 years",
      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 04:31:10 +0000"
-    },
-    {
-     "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
-     "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 02:50:17 +0000"
-    },
-    {
-     "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 02:16:17 +0000"
-    },
-    {
-     "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-     "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 01:56:41 +0000"
     }
    ]
   }
