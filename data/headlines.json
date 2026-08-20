@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 14:00 UTC",
+ "updated": "2026-08-20 14:55 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,6 +15,11 @@
      "date": "Thu, 20 Aug 2026 10:16:31 GMT"
     },
     {
+     "title": "Five key takeaways from GCSE results day 2026",
+     "link": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 14:28:32 GMT"
+    },
+    {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 10:05:24 GMT"
@@ -27,7 +32,7 @@
     {
      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 09:53:52 GMT"
+     "date": "Thu, 20 Aug 2026 14:20:42 GMT"
     },
     {
      "title": "Giant whales move into Greenland waters as ice disappears",
@@ -38,11 +43,6 @@
      "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
      "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 11:55:14 GMT"
-    },
-    {
-     "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-     "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:14:47 GMT"
     }
    ]
   },
@@ -72,7 +72,7 @@
     {
      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
      "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 13:46:43 GMT"
+     "date": "Thu, 20 Aug 2026 14:23:41 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -165,13 +165,13 @@
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+     "title": "They grew up with disability rights. Now, they're fighting to keep them",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "They grew up with disability rights. Now, they're fighting to keep them",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+     "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+     "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 14:40:51 +0000"
+    },
+    {
+     "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
+     "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 14:36:35 +0000"
+    },
+    {
+     "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
+     "link": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 14:10:01 +0000"
+    },
     {
      "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 13:14:14 +0000"
-    },
-    {
-     "title": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:13:24 +0000"
-    },
-    {
-     "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
-     "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:10:50 +0000"
-    },
-    {
-     "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-     "link": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 13:05:05 +0000"
     }
    ]
   },
