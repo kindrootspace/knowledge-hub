@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-20 16:51 UTC",
+ "updated": "2026-08-20 17:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Harry and Meghan's security arrangements a private matter, PM says",
+     "title": "Harry and Meghan's return to UK reignites questions over security",
      "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 13:53:40 GMT"
+     "date": "Thu, 20 Aug 2026 17:43:54 GMT"
     },
     {
-     "title": "Why are Harry and Meghan returning to the UK?",
-     "link": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:16:31 GMT"
+     "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+     "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 16:54:51 GMT"
     },
     {
      "title": "Five key takeaways from GCSE results day 2026",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Three things to know about the $40 trillion federal debt",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+     "date": "Thu, 20 Aug 2026 12:50:41 -0400"
+    },
+    {
+     "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+     "date": "Thu, 20 Aug 2026 12:49:11 -0400"
+    },
+    {
      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
      "date": "Thu, 20 Aug 2026 11:18:21 -0400"
@@ -168,22 +178,42 @@
      "title": "They grew up with disability rights. Now, they're fighting to keep them",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Privacy advocates call on Maryland to investigate data brokers",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "The system meant to protect ICE detainees has collapsed",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Bangladesh elects ruling party veteran Alamgir as president",
+     "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 17:35:34 +0000"
+    },
+    {
+     "title": "Humanoid robots take centre stage in China-US tech race",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 17:17:47 +0000"
+    },
+    {
+     "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 17:05:31 +0000"
+    },
+    {
+     "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+     "link": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 17:02:43 +0000"
+    },
+    {
+     "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+     "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 17:00:12 +0000"
+    },
+    {
+     "title": "At least 800 people evacuated from major wildfire in western Spain",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 16:58:19 +0000"
+    },
     {
      "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
      "link": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 16:19:30 +0000"
-    },
-    {
-     "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-     "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 15:51:46 +0000"
-    },
-    {
-     "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 15:41:56 +0000"
-    },
-    {
-     "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-     "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 15:36:59 +0000"
-    },
-    {
-     "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
-     "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 15:24:42 +0000"
-    },
-    {
-     "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
-     "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 15:08:16 +0000"
-    },
-    {
-     "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 15:00:43 +0000"
     }
    ]
   },
