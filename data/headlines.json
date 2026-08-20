@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 18:59 UTC",
+ "updated": "2026-08-20 19:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Thu, 20 Aug 2026 14:28:32 GMT"
     },
     {
-     "title": "Man charged over Manchester synagogue attack",
-     "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 16:17:27 GMT"
+     "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+     "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 19:19:20 GMT"
     },
     {
      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
@@ -35,14 +35,14 @@
      "date": "Thu, 20 Aug 2026 12:33:09 GMT"
     },
     {
+     "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 18:55:14 GMT"
+    },
+    {
      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 10:14:47 GMT"
-    },
-    {
-     "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
-     "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 16:01:37 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+     "date": "Thu, 20 Aug 2026 15:22:20 -0400"
+    },
+    {
      "title": "Three things to know about the $40 trillion federal debt",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
      "date": "Thu, 20 Aug 2026 12:50:41 -0400"
@@ -165,18 +170,13 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "They grew up with disability rights. Now, they're fighting to keep them",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Privacy advocates call on Maryland to investigate data brokers",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "They grew up with disability rights. Now, they're fighting to keep them",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 19:03:30 +0000"
+    },
+    {
+     "title": "Thai schools hold shooter drills after deadly attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:59:08 +0000"
+    },
+    {
+     "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
+     "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 18:55:52 +0000"
+    },
     {
      "title": "FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe",
      "link": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
      "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 18:13:49 +0000"
-    },
-    {
-     "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:06:14 +0000"
-    },
-    {
-     "title": "Bangladesh elects ruling party veteran Alamgir as president",
-     "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 17:35:34 +0000"
-    },
-    {
-     "title": "Humanoid robots take centre stage in China-US tech race",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 17:17:47 +0000"
     }
    ]
   },
