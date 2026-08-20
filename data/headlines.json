@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 22:45 UTC",
+ "updated": "2026-08-20 23:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -50,14 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 22:59:35 GMT"
+    },
+    {
+     "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+     "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 23:10:58 GMT"
+    },
+    {
+     "title": "Why the US economy is ringing alarm bells",
+     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 23:15:15 GMT"
+    },
+    {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 10:05:24 GMT"
-    },
-    {
-     "title": "US national debt passes $40tn after doubling in a decade",
-     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:23:23 GMT"
     },
     {
      "title": "Walmart sales under strain as US shoppers pull back",
@@ -65,29 +75,19 @@
      "date": "Thu, 20 Aug 2026 17:59:59 GMT"
     },
     {
+     "title": "How landscape gardening is being electrified",
+     "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 23:12:38 GMT"
+    },
+    {
+     "title": "US national debt passes $40tn after doubling in a decade",
+     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 06:23:23 GMT"
+    },
+    {
      "title": "I quit my £80,000 job to make ice cream - here's how",
      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
-    },
-    {
-     "title": "Bernard Matthews confirms closure of Derby factory",
-     "link": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 16:27:26 GMT"
-    },
-    {
-     "title": "Danone €1bn takeover of Huel approved by watchdog",
-     "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 13:24:57 GMT"
-    },
-    {
-     "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-     "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 16:31:44 GMT"
-    },
-    {
-     "title": "Trump vows tougher economic measures on Iran and supporting countries",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 22:18:56 GMT"
     }
    ]
   },
@@ -175,8 +175,8 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+     "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,26 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+     "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 23:19:56 +0000"
+    },
+    {
+     "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+     "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 23:01:15 +0000"
+    },
+    {
+     "title": "The cost of rebuilding family homes in war-ravaged Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 22:51:51 +0000"
+    },
+    {
+     "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+     "link": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 22:45:40 +0000"
+    },
     {
      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 20:32:13 +0000"
-    },
-    {
-     "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 20:28:44 +0000"
-    },
-    {
-     "title": "Four railway workers killed by express train at station in Japan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 20:27:27 +0000"
-    },
-    {
-     "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-     "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 20:10:42 +0000"
-    },
-    {
-     "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 20:05:53 +0000"
     }
    ]
   },
