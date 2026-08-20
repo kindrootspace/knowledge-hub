@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 19:46 UTC",
+ "updated": "2026-08-20 20:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,7 +22,7 @@
     {
      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 19:19:20 GMT"
+     "date": "Thu, 20 Aug 2026 19:52:48 GMT"
     },
     {
      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
@@ -97,7 +97,7 @@
     {
      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
      "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-     "date": "Thu, 20 Aug 2026 15:42:39 GMT"
+     "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
      "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+     "date": "Thu, 20 Aug 2026 15:54:19 -0400"
+    },
+    {
      "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
      "date": "Thu, 20 Aug 2026 15:22:20 -0400"
@@ -173,11 +178,6 @@
      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "They grew up with disability rights. Now, they're fighting to keep them",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "James Harden agrees to three-year, $97m Cleveland Cavaliers deal: Report",
-     "link": "https://www.aljazeera.com/sports/2026/8/20/james-harden-agrees-to-three-year-97m-cleveland-cavaliers-deal-report?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 19:03:30 +0000"
+     "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:36:51 +0000"
     },
     {
-     "title": "Thai schools hold shooter drills after deadly attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:59:08 +0000"
+     "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:32:13 +0000"
     },
     {
-     "title": "Ahmad Hassoun, Assad’s ‘barrel bomb mufti’, faces Damascus court verdict",
-     "link": "https://www.aljazeera.com/news/2026/8/20/ahmad-badreddine-hassoun-assads-barrel-bomb-mufti-faces-court-verdict?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:55:52 +0000"
+     "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:28:44 +0000"
     },
     {
-     "title": "FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe",
-     "link": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:39:03 +0000"
+     "title": "Four railway workers killed by express train at station in Japan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:27:27 +0000"
     },
     {
-     "title": "Dozens dead after boat capsizes in northwestern Nigeria",
-     "link": "https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:37:47 +0000"
+     "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+     "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:10:42 +0000"
     },
     {
-     "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
-     "link": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:22:58 +0000"
+     "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 20:05:53 +0000"
     },
     {
-     "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:16:55 +0000"
+     "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
+     "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 19:59:54 +0000"
     },
     {
-     "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
-     "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 18:13:49 +0000"
+     "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 19:45:08 +0000"
     }
    ]
   },
