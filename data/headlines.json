@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 15:49 UTC",
+ "updated": "2026-08-20 16:51 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,17 +22,17 @@
     {
      "title": "Man charged over Manchester synagogue attack",
      "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 15:45:42 GMT"
+     "date": "Thu, 20 Aug 2026 16:17:27 GMT"
+    },
+    {
+     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+     "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 16:40:51 GMT"
     },
     {
      "title": "John Swinney defends £45,000 business-class flights to World Cup",
      "link": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 12:33:09 GMT"
-    },
-    {
-     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
     },
     {
      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
@@ -42,7 +42,7 @@
     {
      "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
      "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 15:31:19 GMT"
+     "date": "Thu, 20 Aug 2026 16:01:37 GMT"
     }
    ]
   },
@@ -65,6 +65,11 @@
      "date": "Wed, 19 Aug 2026 23:08:03 GMT"
     },
     {
+     "title": "Bernard Matthews confirms closure of Derby factory",
+     "link": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 16:27:26 GMT"
+    },
+    {
      "title": "Danone €1bn takeover of Huel approved by watchdog",
      "link": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 13:24:57 GMT"
@@ -72,7 +77,7 @@
     {
      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
      "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 14:23:41 GMT"
+     "date": "Thu, 20 Aug 2026 16:31:44 GMT"
     },
     {
      "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -83,11 +88,6 @@
      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 06:08:02 GMT"
-    },
-    {
-     "title": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
-     "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 11:10:25 GMT"
     }
    ]
   },
@@ -170,13 +170,13 @@
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "The system meant to protect ICE detainees has collapsed",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+     "title": "Privacy advocates call on Maryland to investigate data brokers",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Privacy advocates call on Maryland to investigate data brokers",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+     "title": "The system meant to protect ICE detainees has collapsed",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 16:22:46 +0000"
+    },
+    {
+     "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+     "link": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 16:19:30 +0000"
+    },
+    {
+     "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+     "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+     "date": "Thu, 20 Aug 2026 15:51:46 +0000"
+    },
     {
      "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
      "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 15:00:43 +0000"
-    },
-    {
-     "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-     "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 14:55:47 +0000"
-    },
-    {
-     "title": "Governments brace for historic El Nino impacts on global weather extremes",
-     "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 14:45:55 +0000"
-    },
-    {
-     "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-     "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 14:40:51 +0000"
     }
    ]
   },
@@ -260,13 +260,13 @@
      "date": ""
     },
     {
-     "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
-     "link": "https://www.nature.com/articles/d41586-026-02455-y",
+     "title": "Staggering 90% of biomedical papers now show signs of AI help",
+     "link": "https://www.nature.com/articles/d41586-026-02551-z",
      "date": ""
     },
     {
-     "title": "Evidence for vacuum-enhanced superconductivity in NbSe2",
-     "link": "https://www.nature.com/articles/s41586-026-11037-x",
+     "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
+     "link": "https://www.nature.com/articles/d41586-026-02455-y",
      "date": ""
     }
    ]
