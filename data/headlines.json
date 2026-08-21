@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 15:48 UTC",
+ "updated": "2026-08-21 16:51 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,7 +10,7 @@
      "date": "Fri, 21 Aug 2026 15:19:15 GMT"
     },
     {
-     "title": "Watch: How 'strongest' El Niño could affect world weather",
+     "title": "Watch: How 'strongest' El Niño could affect weather around the world",
      "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 15:33:28 GMT"
     },
@@ -30,19 +30,19 @@
      "date": "Fri, 21 Aug 2026 15:26:05 GMT"
     },
     {
+     "title": "Watch: UK marks first national day for victims and survivors of terrorism",
+     "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 16:33:04 GMT"
+    },
+    {
      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 22:59:35 GMT"
     },
     {
-     "title": "Meghan could return to acting once back in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 10:17:01 GMT"
-    },
-    {
-     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
+     "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+     "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 16:26:53 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+     "date": "Fri, 21 Aug 2026 12:40:59 -0400"
+    },
+    {
      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
      "date": "Fri, 21 Aug 2026 07:42:10 -0400"
@@ -160,11 +165,6 @@
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
@@ -175,15 +175,45 @@
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
-     "date": "Fri, 21 Aug 2026 04:46:00 -0400"
+     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
+     "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:27:32 +0000"
+    },
+    {
+     "title": "England thrash Pakistan by an innings and 103 runs in first Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:24:39 +0000"
+    },
+    {
+     "title": "Arsenal vs Coventry LIVE: Premier League",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:15:39 +0000"
+    },
+    {
+     "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:00:02 +0000"
+    },
+    {
+     "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
+     "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 15:57:54 +0000"
+    },
+    {
+     "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 15:31:33 +0000"
+    },
     {
      "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
      "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Iraq’s solar villages show how to build an energy transition that lasts",
      "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 14:50:08 +0000"
-    },
-    {
-     "title": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 14:38:45 +0000"
-    },
-    {
-     "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 14:36:24 +0000"
-    },
-    {
-     "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 14:18:23 +0000"
-    },
-    {
-     "title": "War on Iran: The US could focus on economically isolating Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 13:59:28 +0000"
-    },
-    {
-     "title": "Several people injured in sword attack at school in Sweden",
-     "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 13:48:09 +0000"
-    },
-    {
-     "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-     "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 13:47:26 +0000"
     }
    ]
   },
