@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-21 05:48 UTC",
+ "updated": "2026-08-21 07:08 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
+     "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 00:33:21 GMT"
     },
     {
-     "title": "Will Harry's return heal rift with his brother? Don't hold your breath",
+     "title": "Will Harry's return heal deep-rooted rift with William?",
      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 04:07:22 GMT"
     },
@@ -20,9 +20,9 @@
      "date": "Fri, 21 Aug 2026 02:52:29 GMT"
     },
     {
-     "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
-     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
+     "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+     "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 00:11:18 GMT"
     },
     {
      "title": "French becoming more effective in stopping small boat crossings, UK says",
@@ -30,9 +30,9 @@
      "date": "Thu, 20 Aug 2026 22:23:24 GMT"
     },
     {
-     "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
-     "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 00:11:18 GMT"
+     "title": "Israel reopens evacuated West Bank settlement, defying growing international protests",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
      "title": "The town whose council wants migrants to move in",
@@ -40,9 +40,9 @@
      "date": "Fri, 21 Aug 2026 05:00:02 GMT"
     },
     {
-     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-     "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 23:16:45 GMT"
+     "title": "A split in the spectrum? The ongoing battle to define autism",
+     "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:01:38 GMT"
     }
    ]
   },
@@ -60,6 +60,11 @@
      "date": "Thu, 20 Aug 2026 23:10:58 GMT"
     },
     {
+     "title": "Panama Canal to cut number of ships passing through due to El Niño",
+     "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 06:46:08 GMT"
+    },
+    {
      "title": "Why the US economy is ringing alarm bells",
      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:15:15 GMT"
@@ -70,24 +75,19 @@
      "date": "Thu, 20 Aug 2026 23:16:45 GMT"
     },
     {
-     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
-    },
-    {
      "title": "How landscape gardening is being electrified",
      "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:12:38 GMT"
     },
     {
+     "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+     "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 10:05:24 GMT"
+    },
+    {
      "title": "Walmart sales under strain as US shoppers pull back",
      "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 17:59:59 GMT"
-    },
-    {
-     "title": "US national debt passes $40tn after doubling in a decade",
-     "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 06:23:23 GMT"
     }
    ]
   },
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+     "date": "Fri, 21 Aug 2026 02:41:33 -0400"
+    },
+    {
+     "title": "'Survival mode': Indiana residents endure a ninth day without power",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+     "date": "Fri, 21 Aug 2026 02:40:26 -0400"
+    },
+    {
+     "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
+     "date": "Fri, 21 Aug 2026 01:49:48 -0400"
+    },
+    {
+     "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
+     "date": "Fri, 21 Aug 2026 01:41:15 -0400"
+    },
+    {
      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
      "date": "Thu, 20 Aug 2026 15:54:19 -0400"
@@ -158,32 +178,17 @@
      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
      "date": "Thu, 20 Aug 2026 12:49:11 -0400"
-    },
-    {
-     "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-     "date": "Thu, 20 Aug 2026 11:18:21 -0400"
-    },
-    {
-     "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-     "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-     "date": "Thu, 20 Aug 2026 07:30:18 -0400"
-    },
-    {
-     "title": "North Korea fires a suspected missile toward the sea, Japan says",
-     "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-     "date": "Thu, 20 Aug 2026 05:24:45 -0400"
-    },
-    {
-     "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-     "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+     "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 06:56:19 +0000"
+    },
     {
      "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
@@ -218,11 +223,51 @@
      "title": "Antigovernment protesters take to Tunisia’s streets for second month",
      "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 01:06:30 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
     },
     {
-     "title": "Taliban release two detained UN staff members in Afghanistan",
-     "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 00:44:46 +0000"
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
+     "date": ""
+    },
+    {
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
+    {
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
+     "date": ""
+    },
+    {
+     "title": "These trees are making air quality in cities worse",
+     "link": "https://www.nature.com/articles/d41586-026-02586-2",
+     "date": ""
+    },
+    {
+     "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
+     "link": "https://www.nature.com/articles/d41586-026-02574-6",
+     "date": ""
+    },
+    {
+     "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+     "link": "https://www.nature.com/articles/d41586-026-02612-3",
+     "date": ""
+    },
+    {
+     "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+     "link": "https://www.nature.com/articles/d41586-026-02549-7",
+     "date": ""
     }
    ]
   }
