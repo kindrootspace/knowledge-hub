@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 16:51 UTC",
+ "updated": "2026-08-21 17:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,17 @@
     {
      "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
      "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 15:19:15 GMT"
+     "date": "Fri, 21 Aug 2026 17:18:41 GMT"
     },
     {
      "title": "Watch: How 'strongest' El Niño could affect weather around the world",
      "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 15:33:28 GMT"
+    },
+    {
+     "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+     "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 17:39:32 GMT"
     },
     {
      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
@@ -38,11 +43,6 @@
      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 22:59:35 GMT"
-    },
-    {
-     "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
-     "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 16:26:53 GMT"
     }
    ]
   },
@@ -60,9 +60,9 @@
      "date": "Fri, 21 Aug 2026 15:34:06 GMT"
     },
     {
-     "title": "Why the US economy is ringing alarm bells",
-     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 08:38:18 GMT"
+     "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+     "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 16:45:09 GMT"
     },
     {
      "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
@@ -85,9 +85,9 @@
      "date": "Fri, 21 Aug 2026 09:45:11 GMT"
     },
     {
-     "title": "Panama Canal to cut number of ships passing through due to El Niño",
-     "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 06:46:08 GMT"
+     "title": "Why the US economy is ringing alarm bells",
+     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 08:38:18 GMT"
     }
    ]
   },
@@ -170,13 +170,13 @@
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,31 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+     "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 17:29:17 +0000"
+    },
+    {
+     "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+     "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 17:17:55 +0000"
+    },
+    {
+     "title": "Migrants clash with French police as they attempt to cross the Channel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:58:28 +0000"
+    },
+    {
+     "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:53:57 +0000"
+    },
+    {
+     "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+     "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 16:38:15 +0000"
+    },
     {
      "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
      "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Arsenal vs Coventry LIVE: Premier League",
      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 16:15:39 +0000"
-    },
-    {
-     "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:00:02 +0000"
-    },
-    {
-     "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
-     "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 15:57:54 +0000"
-    },
-    {
-     "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 15:31:33 +0000"
-    },
-    {
-     "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-     "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 15:13:31 +0000"
-    },
-    {
-     "title": "Iraq’s solar villages show how to build an energy transition that lasts",
-     "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 14:50:08 +0000"
     }
    ]
   },
