@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 04:54 UTC",
+ "updated": "2026-08-21 05:48 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,6 +20,11 @@
      "date": "Fri, 21 Aug 2026 02:52:29 GMT"
     },
     {
+     "title": "Israeli settlers return to Kadim in West Bank two decades after it was evacuated",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
+    },
+    {
      "title": "French becoming more effective in stopping small boat crossings, UK says",
      "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 22:23:24 GMT"
@@ -30,19 +35,14 @@
      "date": "Fri, 21 Aug 2026 00:11:18 GMT"
     },
     {
+     "title": "The town whose council wants migrants to move in",
+     "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:00:02 GMT"
+    },
+    {
      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:16:45 GMT"
-    },
-    {
-     "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-     "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 23:10:58 GMT"
-    },
-    {
-     "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-     "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 04:17:05 GMT"
     }
    ]
   },
@@ -185,9 +185,19 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 04:47:56 +0000"
+    },
+    {
      "title": "Hong Kong Tiananmen activists found guilty of national security charges",
      "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 03:50:15 +0000"
+    },
+    {
+     "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 03:08:09 +0000"
     },
     {
      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
@@ -213,16 +223,6 @@
      "title": "Taliban release two detained UN staff members in Afghanistan",
      "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 00:44:46 +0000"
-    },
-    {
-     "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-     "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 00:12:37 +0000"
-    },
-    {
-     "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 00:00:00 +0000"
     }
    ]
   }
