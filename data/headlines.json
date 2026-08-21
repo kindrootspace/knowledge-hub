@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-21 01:57 UTC",
+ "updated": "2026-08-21 03:16 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Harry and Meghan's return to UK reignites questions over security",
-     "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 18:12:59 GMT"
-    },
-    {
-     "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-     "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 16:54:51 GMT"
-    },
-    {
-     "title": "El Niño climate event set to be 'strongest in living memory', says Met Office",
+     "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 00:33:21 GMT"
+    },
+    {
+     "title": "Meghan could return to acting once back in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 02:52:29 GMT"
+    },
+    {
+     "title": "What happened to Harry and Meghan's American dream?",
+     "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 02:57:34 GMT"
     },
     {
      "title": "French becoming more effective in stopping small boat crossings, UK says",
@@ -35,14 +35,14 @@
      "date": "Thu, 20 Aug 2026 23:16:45 GMT"
     },
     {
-     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-     "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 17:48:07 GMT"
-    },
-    {
      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
      "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:10:58 GMT"
+    },
+    {
+     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+     "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 17:48:07 GMT"
     }
    ]
   },
@@ -175,8 +175,8 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,11 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+     "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 02:11:33 +0000"
+    },
     {
      "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
      "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
      "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
      "date": "Thu, 20 Aug 2026 23:19:56 +0000"
-    },
-    {
-     "title": "US charges woman for allegedly plotting attack on New York State Capitol",
-     "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 23:01:15 +0000"
     }
    ]
   },
