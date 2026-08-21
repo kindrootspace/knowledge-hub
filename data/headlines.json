@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 22:41 UTC",
+ "updated": "2026-08-21 23:38 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -13,6 +13,11 @@
      "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
      "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 17:18:41 GMT"
+    },
+    {
+     "title": "More students planning to live at home for university over 'insane' living costs",
+     "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:01:58 GMT"
     },
     {
      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -30,19 +35,14 @@
      "date": "Fri, 21 Aug 2026 15:33:28 GMT"
     },
     {
-     "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-     "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 19:13:43 GMT"
-    },
-    {
      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
      "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 22:02:10 GMT"
     },
     {
-     "title": "Murder investigation after wildfire uncovers body in park",
-     "link": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 17:46:04 GMT"
+     "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+     "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 19:13:43 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "US debt tops $40 trillion, Americans left with the bill",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 23:19:48 +0000"
+    },
+    {
+     "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 23:19:37 +0000"
+    },
+    {
+     "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
+     "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 22:52:40 +0000"
+    },
+    {
      "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
      "link": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 21:59:29 +0000"
@@ -208,21 +223,6 @@
      "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 21:11:13 +0000"
-    },
-    {
-     "title": "Tunisian protesters call for President Kais Saied to step down",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 20:35:07 +0000"
-    },
-    {
-     "title": "Can a humanitarian disaster be averted in Somalia?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 20:27:14 +0000"
-    },
-    {
-     "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 20:16:59 +0000"
     }
    ]
   },
