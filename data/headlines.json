@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 09:52 UTC",
+ "updated": "2026-08-21 10:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,17 +7,12 @@
     {
      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 07:43:30 GMT"
+     "date": "Fri, 21 Aug 2026 10:37:15 GMT"
     },
     {
      "title": "Meghan could return to acting once back in UK",
      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 09:48:00 GMT"
-    },
-    {
-     "title": "Will Harry's return heal deep-rooted rift with William?",
-     "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 09:48:08 GMT"
+     "date": "Fri, 21 Aug 2026 10:17:01 GMT"
     },
     {
      "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
@@ -25,14 +20,14 @@
      "date": "Fri, 21 Aug 2026 00:11:18 GMT"
     },
     {
-     "title": "French becoming more effective in stopping small boat crossings, UK says",
-     "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 08:26:01 GMT"
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-     "title": "A split in the spectrum? The ongoing battle to define autism",
-     "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 05:01:38 GMT"
+     "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 22:59:35 GMT"
     },
     {
      "title": "The town whose council wants migrants to move in",
@@ -40,9 +35,14 @@
      "date": "Fri, 21 Aug 2026 05:00:02 GMT"
     },
     {
-     "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 22:59:35 GMT"
+     "title": "French becoming more effective in stopping small boat crossings, UK says",
+     "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 08:26:01 GMT"
+    },
+    {
+     "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 09:45:11 GMT"
     }
    ]
   },
@@ -60,9 +60,9 @@
      "date": "Thu, 20 Aug 2026 22:59:35 GMT"
     },
     {
-     "title": "Millenials have found it hard to buy homes – but things may be turning a corner",
+     "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
      "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 23:10:58 GMT"
+     "date": "Fri, 21 Aug 2026 10:02:03 GMT"
     },
     {
      "title": "Panama Canal to cut number of ships passing through due to El Niño",
@@ -120,6 +120,11 @@
      "date": "Mon, 17 Aug 2026 14:07:31 GMT"
     },
     {
+     "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
+     "link": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
+     "date": "Fri, 21 Aug 2026 10:00:31 GMT"
+    },
+    {
      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
      "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
      "date": "Wed, 19 Aug 2026 13:44:57 GMT"
@@ -128,11 +133,6 @@
      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
      "link": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
      "date": "Wed, 19 Aug 2026 09:00:12 GMT"
-    },
-    {
-     "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
-     "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-     "date": "Wed, 19 Aug 2026 03:47:12 GMT"
     }
    ]
   },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
+     "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 10:10:52 +0000"
+    },
+    {
+     "title": "Philippines floods fuel anger over alleged corruption",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 10:01:49 +0000"
+    },
+    {
+     "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 10:01:17 +0000"
+    },
+    {
+     "title": "Torrential rain floods New York City’s streets and subway",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 09:40:04 +0000"
+    },
+    {
      "title": "Swiatek into Cincinnati semis after Rybakina injury",
      "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 09:11:55 +0000"
@@ -203,26 +223,51 @@
      "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
      "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 08:34:06 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
     },
     {
-     "title": "Israeli settlers set fire to Palestinian home while family asleep",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 07:58:41 +0000"
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
+     "date": ""
     },
     {
-     "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
-     "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 07:56:21 +0000"
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
     },
     {
-     "title": "Australian Hussey open to Ashes Test role as England make approach",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 07:37:35 +0000"
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
+     "date": ""
     },
     {
-     "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
-     "link": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 07:12:54 +0000"
+     "title": "These trees are making air quality in cities worse",
+     "link": "https://www.nature.com/articles/d41586-026-02586-2",
+     "date": ""
+    },
+    {
+     "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
+     "link": "https://www.nature.com/articles/d41586-026-02574-6",
+     "date": ""
+    },
+    {
+     "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+     "link": "https://www.nature.com/articles/d41586-026-02612-3",
+     "date": ""
+    },
+    {
+     "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+     "link": "https://www.nature.com/articles/d41586-026-02549-7",
+     "date": ""
     }
    ]
   }
