@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 10:47 UTC",
+ "updated": "2026-08-21 11:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -50,6 +50,11 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 11:20:57 GMT"
+    },
+    {
      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
      "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 09:45:11 GMT"
@@ -70,24 +75,19 @@
      "date": "Fri, 21 Aug 2026 06:46:08 GMT"
     },
     {
-     "title": "Why the US economy is ringing alarm bells",
-     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 08:38:18 GMT"
-    },
-    {
      "title": "How landscape gardening is being electrified",
      "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:12:38 GMT"
     },
     {
+     "title": "Why the US economy is ringing alarm bells",
+     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 08:38:18 GMT"
+    },
+    {
      "title": "The teen entrepreneur transforming farm management",
      "link": "https://www.bbc.co.uk/news/articles/cx2r9gxp3xgo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:01:01 GMT"
-    },
-    {
-     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-     "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 23:16:45 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+     "date": "Fri, 21 Aug 2026 07:25:10 -0400"
+    },
+    {
      "title": "What to know about this weekend's IndyCar race on the National Mall",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
@@ -150,13 +155,13 @@
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
@@ -170,20 +175,30 @@
      "date": "Fri, 21 Aug 2026 04:46:00 -0400"
     },
     {
-     "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
-     "date": "Fri, 21 Aug 2026 02:41:33 -0400"
-    },
-    {
-     "title": "'Survival mode': Indiana residents endure a ninth day without power",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
-     "date": "Fri, 21 Aug 2026 02:40:26 -0400"
+     "title": "Mom and best friend remember girl killed in a mass shooting one year later",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
+     "date": "Fri, 21 Aug 2026 04:44:49 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Charter plane crash near Alaskan military site kills 8",
+     "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 10:59:50 +0000"
+    },
+    {
+     "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+     "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 10:59:37 +0000"
+    },
+    {
+     "title": "Serie A: Key talking points heading into the new 2026-27 season",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 10:56:43 +0000"
+    },
     {
      "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
      "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
@@ -208,27 +223,17 @@
      "title": "Swiatek into Cincinnati semis after Rybakina injury",
      "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 09:11:55 +0000"
-    },
-    {
-     "title": "Australia charges man for passing Ukrainian military intel to Russia",
-     "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 08:42:20 +0000"
-    },
-    {
-     "title": "Sudan’s displacement crisis deepens as violence escalates",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 08:41:13 +0000"
-    },
-    {
-     "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 08:34:06 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
+    },
     {
      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
      "link": "https://www.nature.com/articles/s41586-026-11043-z",
@@ -262,11 +267,6 @@
     {
      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
      "link": "https://www.nature.com/articles/d41586-026-02612-3",
-     "date": ""
-    },
-    {
-     "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
-     "link": "https://www.nature.com/articles/d41586-026-02549-7",
      "date": ""
     }
    ]
