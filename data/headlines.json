@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 07:57 UTC",
+ "updated": "2026-08-21 08:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -27,12 +27,12 @@
     {
      "title": "French becoming more effective in stopping small boat crossings, UK says",
      "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 22:23:24 GMT"
+     "date": "Fri, 21 Aug 2026 08:26:01 GMT"
     },
     {
-     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
+     "title": "A split in the spectrum? The ongoing battle to define autism",
+     "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:01:38 GMT"
     },
     {
      "title": "The town whose council wants migrants to move in",
@@ -40,9 +40,9 @@
      "date": "Fri, 21 Aug 2026 05:00:02 GMT"
     },
     {
-     "title": "A split in the spectrum? The ongoing battle to define autism",
-     "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 05:01:38 GMT"
+     "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 22:59:35 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
      "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 07:45:13 GMT"
+     "date": "Fri, 21 Aug 2026 08:48:25 GMT"
     },
     {
      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
@@ -72,7 +72,7 @@
     {
      "title": "Why the US economy is ringing alarm bells",
      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 23:15:15 GMT"
+     "date": "Fri, 21 Aug 2026 08:38:18 GMT"
     },
     {
      "title": "How landscape gardening is being electrified",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+     "date": "Fri, 21 Aug 2026 04:46:00 -0400"
+    },
+    {
      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
      "date": "Fri, 21 Aug 2026 02:41:33 -0400"
@@ -173,17 +178,27 @@
      "title": "3 things to know about the $40 trillion federal debt",
      "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
      "date": "Thu, 20 Aug 2026 12:50:41 -0400"
-    },
-    {
-     "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-     "date": "Thu, 20 Aug 2026 12:49:11 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 08:34:06 +0000"
+    },
+    {
+     "title": "Israeli settlers set fire to Palestinian home while family asleep",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 07:58:41 +0000"
+    },
+    {
+     "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+     "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 07:56:21 +0000"
+    },
     {
      "title": "Australian Hussey open to Ashes Test role as England make approach",
      "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Hong Kong Tiananmen activists found guilty of national security charges",
      "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 03:50:15 +0000"
-    },
-    {
-     "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 03:08:09 +0000"
-    },
-    {
-     "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-     "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 02:11:33 +0000"
-    },
-    {
-     "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-     "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 01:38:37 +0000"
     }
    ]
   },
