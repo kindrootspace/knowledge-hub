@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 03:16 UTC",
+ "updated": "2026-08-21 04:04 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -175,8 +175,8 @@
      "date": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-     "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-     "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+     "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+     "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
      "date": "Thu, 20 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,11 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+     "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 03:50:15 +0000"
+    },
     {
      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
      "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
@@ -218,11 +223,6 @@
      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-     "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-     "date": "Thu, 20 Aug 2026 23:19:56 +0000"
     }
    ]
   },
