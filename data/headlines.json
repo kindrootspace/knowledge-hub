@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 17:45 UTC",
+ "updated": "2026-08-21 18:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,14 @@
      "date": "Fri, 21 Aug 2026 17:18:41 GMT"
     },
     {
+     "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+     "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 18:29:31 GMT"
+    },
+    {
      "title": "Watch: How 'strongest' El Niño could affect weather around the world",
      "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 15:33:28 GMT"
-    },
-    {
-     "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-     "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 17:39:32 GMT"
     },
     {
      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
@@ -25,14 +25,9 @@
      "date": "Fri, 21 Aug 2026 12:01:52 GMT"
     },
     {
-     "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-     "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 13:07:00 GMT"
-    },
-    {
-     "title": "Argentina's Paredes banned for 10 games after World Cup final clashes",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 15:26:05 GMT"
+     "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 18:51:43 GMT"
     },
     {
      "title": "Watch: UK marks first national day for victims and survivors of terrorism",
@@ -40,9 +35,14 @@
      "date": "Fri, 21 Aug 2026 16:33:04 GMT"
     },
     {
-     "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 22:59:35 GMT"
+     "title": "Murder investigation after wildfire uncovers body in park",
+     "link": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 17:46:04 GMT"
+    },
+    {
+     "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+     "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 18:09:38 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+     "date": "Fri, 21 Aug 2026 14:47:48 -0400"
+    },
+    {
      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
      "date": "Fri, 21 Aug 2026 12:40:59 -0400"
@@ -173,17 +178,32 @@
      "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
      "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 18:25:40 +0000"
+    },
+    {
+     "title": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 18:17:40 +0000"
+    },
+    {
+     "title": "How is drought hitting UK farming?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 17:52:08 +0000"
+    },
+    {
+     "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 17:38:06 +0000"
+    },
     {
      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
      "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
      "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 16:53:57 +0000"
-    },
-    {
-     "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-     "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:38:15 +0000"
-    },
-    {
-     "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
-     "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:27:32 +0000"
-    },
-    {
-     "title": "England thrash Pakistan by an innings and 103 runs in first Test",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:24:39 +0000"
-    },
-    {
-     "title": "Arsenal vs Coventry LIVE: Premier League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:15:39 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
      "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
+    },
+    {
+     "title": "Earth-shaking thunder probes underground geology",
+     "link": "https://www.nature.com/articles/d41586-026-02596-0",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Astronaut vest cuts radiation exposure in half",
      "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
-    },
-    {
-     "title": "These trees are making air quality in cities worse",
-     "link": "https://www.nature.com/articles/d41586-026-02586-2",
      "date": ""
     }
    ]
