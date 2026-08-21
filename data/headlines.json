@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 20:41 UTC",
+ "updated": "2026-08-21 21:39 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -8,6 +8,16 @@
      "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
      "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 17:18:41 GMT"
+    },
+    {
+     "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+     "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 21:32:48 GMT"
+    },
+    {
+     "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 19:49:56 GMT"
     },
     {
      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
@@ -25,24 +35,14 @@
      "date": "Fri, 21 Aug 2026 19:13:43 GMT"
     },
     {
-     "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 19:49:56 GMT"
-    },
-    {
      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
      "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 19:52:48 GMT"
+     "date": "Fri, 21 Aug 2026 20:49:24 GMT"
     },
     {
      "title": "Murder investigation after wildfire uncovers body in park",
      "link": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 17:46:04 GMT"
-    },
-    {
-     "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-     "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 16:33:04 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 15:34:06 GMT"
+     "date": "Fri, 21 Aug 2026 21:27:14 GMT"
     },
     {
      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "One killed, three wounded in sword attack at Swedish high school",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 21:23:35 +0000"
+    },
+    {
+     "title": "Arsenal rout Coventry 3-0 to begin Premier League title defence in style",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 21:15:40 +0000"
+    },
+    {
+     "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 21:11:13 +0000"
+    },
+    {
+     "title": "Tunisian protesters call for President Kais Saied to step down",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 20:35:07 +0000"
+    },
+    {
+     "title": "Can a humanitarian disaster be averted in Somalia?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 20:27:14 +0000"
+    },
+    {
      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 20:16:59 +0000"
@@ -198,31 +223,6 @@
      "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
      "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 20:03:35 +0000"
-    },
-    {
-     "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
-     "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 19:52:34 +0000"
-    },
-    {
-     "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-     "link": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 19:42:51 +0000"
-    },
-    {
-     "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
-     "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 19:29:20 +0000"
-    },
-    {
-     "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
-     "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 19:21:08 +0000"
-    },
-    {
-     "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-     "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 19:20:17 +0000"
     }
    ]
   },
