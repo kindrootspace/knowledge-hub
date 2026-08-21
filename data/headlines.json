@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 04:04 UTC",
+ "updated": "2026-08-21 04:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,14 @@
      "date": "Fri, 21 Aug 2026 00:33:21 GMT"
     },
     {
+     "title": "Will Harry's return heal rift with his brother? Don't hold your breath",
+     "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 04:07:22 GMT"
+    },
+    {
      "title": "Meghan could return to acting once back in UK",
      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 02:52:29 GMT"
-    },
-    {
-     "title": "What happened to Harry and Meghan's American dream?",
-     "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 02:57:34 GMT"
     },
     {
      "title": "French becoming more effective in stopping small boat crossings, UK says",
@@ -40,9 +40,9 @@
      "date": "Thu, 20 Aug 2026 23:10:58 GMT"
     },
     {
-     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-     "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 17:48:07 GMT"
+     "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+     "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 04:17:05 GMT"
     }
    ]
   },
@@ -223,51 +223,6 @@
      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 00:00:00 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
-    },
-    {
-     "title": "These trees are making air quality in cities worse",
-     "link": "https://www.nature.com/articles/d41586-026-02586-2",
-     "date": ""
-    },
-    {
-     "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-     "link": "https://www.nature.com/articles/d41586-026-02574-6",
-     "date": ""
-    },
-    {
-     "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-     "link": "https://www.nature.com/articles/d41586-026-02612-3",
-     "date": ""
-    },
-    {
-     "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
-     "link": "https://www.nature.com/articles/d41586-026-02549-7",
-     "date": ""
     }
    ]
   }
