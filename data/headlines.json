@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 18:56 UTC",
+ "updated": "2026-08-21 19:37 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,7 +22,7 @@
     {
      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
      "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 12:01:52 GMT"
+     "date": "Fri, 21 Aug 2026 19:13:43 GMT"
     },
     {
      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+     "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 19:08:30 +0000"
+    },
+    {
+     "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 18:55:22 +0000"
+    },
+    {
+     "title": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 18:40:21 +0000"
+    },
+    {
+     "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 18:40:11 +0000"
+    },
+    {
      "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 18:25:40 +0000"
@@ -203,26 +223,6 @@
      "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
      "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 17:38:06 +0000"
-    },
-    {
-     "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-     "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 17:29:17 +0000"
-    },
-    {
-     "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-     "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 17:17:55 +0000"
-    },
-    {
-     "title": "Migrants clash with French police as they attempt to cross the Channel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:58:28 +0000"
-    },
-    {
-     "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 16:53:57 +0000"
     }
    ]
   },
