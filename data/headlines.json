@@ -1,23 +1,18 @@
 {
- "updated": "2026-08-21 13:11 UTC",
+ "updated": "2026-08-21 13:58 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Prince Harry and six others ordered to pay Daily Mail publisher £9.5m",
+     "title": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
      "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 13:10:01 GMT"
+     "date": "Fri, 21 Aug 2026 13:57:57 GMT"
     },
     {
      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 10:37:15 GMT"
-    },
-    {
-     "title": "Meghan could return to acting once back in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 10:17:01 GMT"
     },
     {
      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
@@ -28,6 +23,11 @@
      "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 13:07:00 GMT"
+    },
+    {
+     "title": "Meghan could return to acting once back in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 10:17:01 GMT"
     },
     {
      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "El Nino set to be most intense ‘for over a century’: UK forecasters",
+     "link": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 13:12:07 +0000"
+    },
+    {
      "title": "South Korea footballers urge safety after extreme heat statistics",
      "link": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 13:04:32 +0000"
@@ -218,11 +223,51 @@
      "title": "Six-year-old child dies after being slapped by teacher in India",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 12:17:21 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+     "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
     },
     {
-     "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
-     "link": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 12:12:35 +0000"
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
+    },
+    {
+     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+     "link": "https://www.nature.com/articles/d41586-026-02352-4",
+     "date": ""
+    },
+    {
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
+    },
+    {
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
+     "date": ""
+    },
+    {
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
+    {
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
+     "date": ""
+    },
+    {
+     "title": "These trees are making air quality in cities worse",
+     "link": "https://www.nature.com/articles/d41586-026-02586-2",
+     "date": ""
     }
    ]
   }
