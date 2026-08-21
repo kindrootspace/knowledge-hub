@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 07:08 UTC",
+ "updated": "2026-08-21 07:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,7 @@
     {
      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 00:33:21 GMT"
-    },
-    {
-     "title": "Will Harry's return heal deep-rooted rift with William?",
-     "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 04:07:22 GMT"
+     "date": "Fri, 21 Aug 2026 07:43:30 GMT"
     },
     {
      "title": "Meghan could return to acting once back in UK",
@@ -20,7 +15,12 @@
      "date": "Fri, 21 Aug 2026 02:52:29 GMT"
     },
     {
-     "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+     "title": "Will Harry's return heal deep-rooted rift with William?",
+     "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 04:07:22 GMT"
+    },
+    {
+     "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
      "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 00:11:18 GMT"
     },
@@ -30,7 +30,7 @@
      "date": "Thu, 20 Aug 2026 22:23:24 GMT"
     },
     {
-     "title": "Israel reopens evacuated West Bank settlement, defying growing international protests",
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
@@ -49,6 +49,11 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 07:45:13 GMT"
+    },
     {
      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Thu, 20 Aug 2026 23:15:15 GMT"
     },
     {
-     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-     "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 23:16:45 GMT"
-    },
-    {
      "title": "How landscape gardening is being electrified",
      "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 23:12:38 GMT"
     },
     {
+     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+     "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 20 Aug 2026 23:16:45 GMT"
+    },
+    {
      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 20 Aug 2026 10:05:24 GMT"
-    },
-    {
-     "title": "Walmart sales under strain as US shoppers pull back",
-     "link": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 17:59:59 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Australian Hussey open to Ashes Test role as England make approach",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 07:37:35 +0000"
+    },
+    {
+     "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
+     "link": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 07:12:54 +0000"
+    },
+    {
      "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
      "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 06:56:19 +0000"
@@ -213,16 +223,6 @@
      "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
      "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 01:38:37 +0000"
-    },
-    {
-     "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-     "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 01:12:02 +0000"
-    },
-    {
-     "title": "Antigovernment protesters take to Tunisia’s streets for second month",
-     "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 01:06:30 +0000"
     }
    ]
   },
