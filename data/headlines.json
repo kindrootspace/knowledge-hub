@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-21 11:43 UTC",
+ "updated": "2026-08-21 13:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Prince Harry and six others ordered to pay Daily Mail publisher £9.5m",
+     "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 13:10:01 GMT"
+    },
     {
      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
@@ -15,14 +20,14 @@
      "date": "Fri, 21 Aug 2026 10:17:01 GMT"
     },
     {
-     "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
-     "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 00:11:18 GMT"
+     "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+     "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 12:01:52 GMT"
     },
     {
-     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
+     "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+     "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 13:07:00 GMT"
     },
     {
      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
@@ -30,19 +35,14 @@
      "date": "Thu, 20 Aug 2026 22:59:35 GMT"
     },
     {
+     "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 05:00:57 GMT"
+    },
+    {
      "title": "The town whose council wants migrants to move in",
      "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 05:00:02 GMT"
-    },
-    {
-     "title": "French becoming more effective in stopping small boat crossings, UK says",
-     "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 08:26:01 GMT"
-    },
-    {
-     "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 09:45:11 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+     "date": "Fri, 21 Aug 2026 07:42:10 -0400"
+    },
+    {
      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
      "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
      "date": "Fri, 21 Aug 2026 07:25:10 -0400"
@@ -173,11 +178,6 @@
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
      "date": "Fri, 21 Aug 2026 04:46:00 -0400"
-    },
-    {
-     "title": "Mom and best friend remember girl killed in a mass shooting one year later",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
-     "date": "Fri, 21 Aug 2026 04:44:49 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Charter plane crash near Alaskan military site kills 8",
-     "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 10:59:50 +0000"
+     "title": "South Korea footballers urge safety after extreme heat statistics",
+     "link": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 13:04:32 +0000"
     },
     {
-     "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
-     "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 10:59:37 +0000"
+     "title": "Israeli soldiers throw belongings from besieged Palestinian home",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 13:01:54 +0000"
     },
     {
-     "title": "Serie A: Key talking points heading into the new 2026-27 season",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 10:56:43 +0000"
+     "title": "Why are Hong Kong’s Tiananmen vigil organisers facing prison?",
+     "link": "https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 12:54:44 +0000"
     },
     {
-     "title": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
-     "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 10:10:52 +0000"
+     "title": "China rejects US claim that Myanmar analyst wrongfully detained",
+     "link": "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 12:48:17 +0000"
     },
     {
-     "title": "Philippines floods fuel anger over alleged corruption",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 10:01:49 +0000"
+     "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+     "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 12:32:03 +0000"
     },
     {
-     "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 10:01:17 +0000"
+     "title": "Humanoid crashes during speed test as China’s robotics industry grows",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 12:25:04 +0000"
     },
     {
-     "title": "Torrential rain floods New York City’s streets and subway",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 09:40:04 +0000"
+     "title": "Six-year-old child dies after being slapped by teacher in India",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 12:17:21 +0000"
     },
     {
-     "title": "Swiatek into Cincinnati semis after Rybakina injury",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 09:11:55 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
-    },
-    {
-     "title": "These trees are making air quality in cities worse",
-     "link": "https://www.nature.com/articles/d41586-026-02586-2",
-     "date": ""
-    },
-    {
-     "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-     "link": "https://www.nature.com/articles/d41586-026-02574-6",
-     "date": ""
-    },
-    {
-     "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-     "link": "https://www.nature.com/articles/d41586-026-02612-3",
-     "date": ""
+     "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
+     "link": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 12:12:35 +0000"
     }
    ]
   }
