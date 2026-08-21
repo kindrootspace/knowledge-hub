@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-21 21:39 UTC",
+ "updated": "2026-08-21 22:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+     "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 22:28:37 GMT"
+    },
+    {
      "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
      "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 17:18:41 GMT"
-    },
-    {
-     "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-     "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 21:32:48 GMT"
     },
     {
      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -37,7 +37,7 @@
     {
      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
      "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 20:49:24 GMT"
+     "date": "Fri, 21 Aug 2026 22:02:10 GMT"
     },
     {
      "title": "Murder investigation after wildfire uncovers body in park",
@@ -165,18 +165,18 @@
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
     },
     {
-     "title": "Federal government thins the herds of wild horses in Colorado",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
      "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Federal government thins the herds of wild horses in Colorado",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,16 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
+     "link": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 21:59:29 +0000"
+    },
+    {
+     "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
+     "link": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 21:38:32 +0000"
+    },
     {
      "title": "One killed, three wounded in sword attack at Swedish high school",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 20:16:59 +0000"
-    },
-    {
-     "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
-     "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 20:07:40 +0000"
-    },
-    {
-     "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
-     "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 20:03:35 +0000"
     }
    ]
   },
