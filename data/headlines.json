@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 10:41 UTC",
+ "updated": "2026-08-22 11:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 04:46:33 GMT"
+     "date": "Sat, 22 Aug 2026 11:21:05 GMT"
     },
     {
      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
@@ -20,14 +20,9 @@
      "date": "Sat, 22 Aug 2026 10:01:22 GMT"
     },
     {
-     "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-     "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 22:36:12 GMT"
-    },
-    {
-     "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-     "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 09:09:41 GMT"
+     "title": "How this 1960s ex-council house is managing to stay cool without air con",
+     "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:56:48 GMT"
     },
     {
      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
@@ -40,9 +35,14 @@
      "date": "Sat, 22 Aug 2026 08:40:49 GMT"
     },
     {
-     "title": "How this 1960s ex-council house is managing to stay cool without air con",
-     "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:56:48 GMT"
+     "title": "More students planning to live at home for university over 'insane' living costs",
+     "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:01:58 GMT"
+    },
+    {
+     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 00:03:10 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 11:15:39 +0000"
+    },
+    {
      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
      "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 10:13:56 +0000"
@@ -218,11 +223,6 @@
      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
      "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 08:30:31 +0000"
-    },
-    {
-     "title": "How will Trump’s tariffs affect Canada’s economy?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 08:01:55 +0000"
     }
    ]
   },
