@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 13:44 UTC",
+ "updated": "2026-08-22 14:38 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,9 +25,9 @@
      "date": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
-     "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-     "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 08:40:49 GMT"
+     "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+     "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 14:10:05 GMT"
     },
     {
      "title": "More students planning to live at home for university over 'insane' living costs",
@@ -120,9 +120,9 @@
      "date": "Mon, 17 Aug 2026 14:07:31 GMT"
     },
     {
-     "title": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
+     "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "date": "Sat, 22 Aug 2026 09:45:27 GMT"
+     "date": "Sat, 22 Aug 2026 14:04:57 GMT"
     },
     {
      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+     "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 14:19:06 +0000"
+    },
+    {
+     "title": "Man Utd humiliated at Hull to open Premier League account",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 13:54:02 +0000"
+    },
+    {
+     "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 13:44:02 +0000"
+    },
+    {
      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
      "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 13:35:57 +0000"
@@ -195,6 +210,11 @@
      "date": "Sat, 22 Aug 2026 13:23:56 +0000"
     },
     {
+     "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+     "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 13:10:45 +0000"
+    },
+    {
      "title": "Jewish activists push back against Israeli settlers",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 12:51:55 +0000"
@@ -203,26 +223,6 @@
      "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
      "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 12:37:26 +0000"
-    },
-    {
-     "title": "The Berlin Wall separated his family. Its legacy still endures",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 12:31:00 +0000"
-    },
-    {
-     "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-     "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 12:09:09 +0000"
-    },
-    {
-     "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 11:58:55 +0000"
-    },
-    {
-     "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 11:30:51 +0000"
     }
    ]
   },
