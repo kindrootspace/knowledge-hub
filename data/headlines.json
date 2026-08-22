@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 20:39 UTC",
+ "updated": "2026-08-22 21:35 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+     "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+     "date": "Sat, 22 Aug 2026 16:53:19 -0400"
+    },
+    {
      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
      "date": "Sat, 22 Aug 2026 08:00:00 -0400"
@@ -173,17 +178,17 @@
      "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
      "date": "Fri, 21 Aug 2026 07:42:10 -0400"
-    },
-    {
-     "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-     "date": "Fri, 21 Aug 2026 07:25:10 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+     "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 20:49:17 +0000"
+    },
     {
      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
      "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
@@ -218,11 +223,51 @@
      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 19:13:02 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+     "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
     },
     {
-     "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-     "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:00:25 +0000"
+     "title": "Earth-shaking thunder probes underground geology",
+     "link": "https://www.nature.com/articles/d41586-026-02596-0",
+     "date": ""
+    },
+    {
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
+    },
+    {
+     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+     "link": "https://www.nature.com/articles/d41586-026-02352-4",
+     "date": ""
+    },
+    {
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
+    },
+    {
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
+     "date": ""
+    },
+    {
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
+    {
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
+     "date": ""
     }
    ]
   }
