@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-22 15:35 UTC",
+ "updated": "2026-08-22 16:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 12:20:46 GMT"
+     "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 16:05:04 GMT"
     },
     {
      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -40,9 +40,9 @@
      "date": "Fri, 21 Aug 2026 23:13:00 GMT"
     },
     {
-     "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-     "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:41:33 GMT"
+     "title": "Carney faces crucial test after walking away from Trump's deal",
+     "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 16:20:51 GMT"
     }
    ]
   },
@@ -145,7 +145,7 @@
      "date": "Sat, 22 Aug 2026 08:00:00 -0400"
     },
     {
-     "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+     "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
      "date": "Sat, 22 Aug 2026 00:36:27 -0400"
     },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 16:10:21 +0000"
+    },
+    {
+     "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 15:48:27 +0000"
+    },
+    {
+     "title": "Did DOGE cuts make America’s food safety problem worse?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 15:46:48 +0000"
+    },
+    {
+     "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 15:45:40 +0000"
+    },
+    {
+     "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+     "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 15:30:49 +0000"
+    },
+    {
      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 14:37:40 +0000"
@@ -198,31 +223,6 @@
      "title": "Man Utd humiliated at Hull to open Premier League account",
      "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 13:54:02 +0000"
-    },
-    {
-     "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 13:44:02 +0000"
-    },
-    {
-     "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
-     "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 13:35:57 +0000"
-    },
-    {
-     "title": "Is Trump making Latin America great again?",
-     "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 13:23:56 +0000"
-    },
-    {
-     "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-     "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 13:10:45 +0000"
-    },
-    {
-     "title": "Jewish activists push back against Israeli settlers",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 12:51:55 +0000"
     }
    ]
   },
