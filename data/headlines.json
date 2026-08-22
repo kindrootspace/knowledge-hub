@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-22 09:43 UTC",
+ "updated": "2026-08-22 10:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Multiple deaths after crash between police vehicle and car",
+     "title": "Multiple deaths after police vehicle and car crash during pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 09:37:37 GMT"
+     "date": "Sat, 22 Aug 2026 10:13:33 GMT"
     },
     {
      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 04:46:33 GMT"
+    },
+    {
+     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 10:01:22 GMT"
     },
     {
      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -25,19 +30,14 @@
      "date": "Sat, 22 Aug 2026 09:09:41 GMT"
     },
     {
-     "title": "More students planning to live at home for university over 'insane' living costs",
-     "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:01:58 GMT"
+     "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+     "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:13:00 GMT"
     },
     {
-     "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 09:13:26 GMT"
-    },
-    {
-     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-     "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 07:53:57 GMT"
+     "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+     "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 08:40:49 GMT"
     },
     {
      "title": "How this 1960s ex-council house is managing to stay cool without air con",
@@ -120,9 +120,9 @@
      "date": "Mon, 17 Aug 2026 14:07:31 GMT"
     },
     {
-     "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
+     "title": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "date": "Sat, 22 Aug 2026 06:05:58 GMT"
+     "date": "Sat, 22 Aug 2026 09:45:27 GMT"
     },
     {
      "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
@@ -140,7 +140,7 @@
    "name": "NPR",
    "items": [
     {
-     "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+     "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
      "date": "Sat, 22 Aug 2026 00:36:27 -0400"
     },
@@ -175,8 +175,8 @@
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
     },
     {
-     "title": "Federal government thins the herds of wild horses in Colorado",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,26 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
+     "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 10:13:56 +0000"
+    },
+    {
+     "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
+     "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 10:13:48 +0000"
+    },
+    {
+     "title": "Manchester City preview: Five key questions heading into 2026-27 season",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 10:09:11 +0000"
+    },
+    {
+     "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 09:51:50 +0000"
+    },
     {
      "title": "Iran says new US sanctions violate sovereignty of other states",
      "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "How will Trump’s tariffs affect Canada’s economy?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 08:01:55 +0000"
-    },
-    {
-     "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 08:00:30 +0000"
-    },
-    {
-     "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 07:41:21 +0000"
-    },
-    {
-     "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
-     "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 07:41:10 +0000"
-    },
-    {
-     "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-     "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 07:35:08 +0000"
     }
    ]
   },
