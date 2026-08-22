@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 13:00 UTC",
+ "updated": "2026-08-22 13:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 12:36:28 GMT"
+     "date": "Sat, 22 Aug 2026 13:13:16 GMT"
     },
     {
      "title": "How this 1960s ex-council house is managing to stay cool without air con",
@@ -20,9 +20,9 @@
      "date": "Fri, 21 Aug 2026 23:56:48 GMT"
     },
     {
-     "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
-     "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:13:00 GMT"
+     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
@@ -35,9 +35,9 @@
      "date": "Fri, 21 Aug 2026 23:01:58 GMT"
     },
     {
-     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 00:03:10 GMT"
+     "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+     "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:13:00 GMT"
     },
     {
      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+     "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 13:35:57 +0000"
+    },
+    {
+     "title": "Is Trump making Latin America great again?",
+     "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 13:23:56 +0000"
+    },
+    {
      "title": "Jewish activists push back against Israeli settlers",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 12:51:55 +0000"
@@ -213,16 +223,6 @@
      "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
      "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 11:30:51 +0000"
-    },
-    {
-     "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 11:15:39 +0000"
-    },
-    {
-     "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
-     "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 10:13:56 +0000"
     }
    ]
   },
