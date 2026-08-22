@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 19:35 UTC",
+ "updated": "2026-08-22 20:39 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,12 +12,12 @@
     {
      "title": "Video appears to show police chase minutes before fatal A66 crash",
      "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 17:36:57 GMT"
+     "date": "Sat, 22 Aug 2026 20:14:04 GMT"
     },
     {
      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 18:20:36 GMT"
+     "date": "Sat, 22 Aug 2026 20:10:00 GMT"
     },
     {
      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+     "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 20:05:52 +0000"
+    },
+    {
+     "title": "Why is Israel building new illegal settlements?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:40:58 +0000"
+    },
+    {
+     "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:29:08 +0000"
+    },
+    {
      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 19:24:51 +0000"
@@ -208,21 +223,6 @@
      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
      "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 19:00:25 +0000"
-    },
-    {
-     "title": "Israel, Turkiye and the new regional reordering",
-     "link": "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 18:35:48 +0000"
-    },
-    {
-     "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
-     "link": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 18:29:24 +0000"
-    },
-    {
-     "title": "Armed men kidnap dozens in attacks on Nigerian villages",
-     "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 17:58:15 +0000"
     }
    ]
   }
