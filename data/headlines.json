@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 21:35 UTC",
+ "updated": "2026-08-22 22:38 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,14 +25,14 @@
      "date": "Sat, 22 Aug 2026 13:13:16 GMT"
     },
     {
+     "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
+     "link": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 21:50:29 GMT"
+    },
+    {
      "title": "How this 1960s ex-council house is managing to stay cool without air con",
      "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 23:56:48 GMT"
-    },
-    {
-     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-     "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 17:02:06 GMT"
     },
     {
      "title": "More students planning to live at home for university over 'insane' living costs",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 21:55:06 +0000"
+    },
+    {
+     "title": "Open-air cinema brings movie nights back to Khartoum",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 21:27:22 +0000"
+    },
+    {
+     "title": "Israeli army and settlers injure several Palestinians across West Bank",
+     "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 21:02:29 +0000"
+    },
+    {
      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 20:49:17 +0000"
@@ -208,21 +223,6 @@
      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 19:24:51 +0000"
-    },
-    {
-     "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:24:00 +0000"
-    },
-    {
-     "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-     "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:18:02 +0000"
-    },
-    {
-     "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:13:02 +0000"
     }
    ]
   },
