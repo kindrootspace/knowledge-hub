@@ -1,23 +1,18 @@
 {
- "updated": "2026-08-22 11:34 UTC",
+ "updated": "2026-08-22 13:00 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Multiple deaths after police vehicle and car crash during pursuit",
-     "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 10:13:33 GMT"
-    },
-    {
      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 11:21:05 GMT"
+     "date": "Sat, 22 Aug 2026 12:20:46 GMT"
     },
     {
-     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
+     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 10:01:22 GMT"
+     "date": "Sat, 22 Aug 2026 12:36:28 GMT"
     },
     {
      "title": "How this 1960s ex-council house is managing to stay cool without air con",
@@ -43,6 +38,11 @@
      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 00:03:10 GMT"
+    },
+    {
+     "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+     "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:41:33 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+     "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+     "date": "Sat, 22 Aug 2026 08:00:00 -0400"
+    },
+    {
      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
      "date": "Sat, 22 Aug 2026 00:36:27 -0400"
@@ -173,17 +178,42 @@
      "title": "What to know about this weekend's IndyCar race on the National Mall",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
-    },
-    {
-     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Jewish activists push back against Israeli settlers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 12:51:55 +0000"
+    },
+    {
+     "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 12:37:26 +0000"
+    },
+    {
+     "title": "The Berlin Wall separated his family. Its legacy still endures",
+     "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 12:31:00 +0000"
+    },
+    {
+     "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+     "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 12:09:09 +0000"
+    },
+    {
+     "title": "Hundreds of children take part in swimming class on Gaza’s shore",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 11:58:55 +0000"
+    },
+    {
+     "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 11:30:51 +0000"
+    },
     {
      "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
      "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 10:13:56 +0000"
-    },
-    {
-     "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
-     "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 10:13:48 +0000"
-    },
-    {
-     "title": "Manchester City preview: Five key questions heading into 2026-27 season",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 10:09:11 +0000"
-    },
-    {
-     "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 09:51:50 +0000"
-    },
-    {
-     "title": "Iran says new US sanctions violate sovereignty of other states",
-     "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 09:14:09 +0000"
-    },
-    {
-     "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 08:53:17 +0000"
-    },
-    {
-     "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 08:30:31 +0000"
     }
    ]
   },
