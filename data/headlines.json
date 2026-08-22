@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 03:07 UTC",
+ "updated": "2026-08-22 03:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Fri, 21 Aug 2026 22:28:37 GMT"
     },
     {
-     "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-     "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 17:18:41 GMT"
+     "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+     "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 22:36:12 GMT"
     },
     {
      "title": "More students planning to live at home for university over 'insane' living costs",
@@ -20,24 +20,24 @@
      "date": "Fri, 21 Aug 2026 23:01:58 GMT"
     },
     {
-     "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+     "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 01:47:54 GMT"
+     "date": "Sat, 22 Aug 2026 03:17:29 GMT"
     },
     {
-     "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-     "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 22:36:12 GMT"
-    },
-    {
-     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-     "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 00:40:47 GMT"
+     "title": "Burnham economic adviser O'Neill rules out government job",
+     "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 02:53:22 GMT"
     },
     {
      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 18:29:31 GMT"
+    },
+    {
+     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+     "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 00:40:47 GMT"
     },
     {
      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+     "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 03:19:58 +0000"
+    },
+    {
      "title": "Peru rescues people trapped by landslides on highway for nearly a week",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 02:09:58 +0000"
@@ -218,11 +223,6 @@
      "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
      "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-     "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 23:52:28 +0000"
     }
    ]
   },
