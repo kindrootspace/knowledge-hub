@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 01:50 UTC",
+ "updated": "2026-08-22 03:07 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -165,18 +165,18 @@
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
     },
     {
-     "title": "Federal government thins the herds of wild horses in Colorado",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
      "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Federal government thins the herds of wild horses in Colorado",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,16 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 02:09:58 +0000"
+    },
+    {
+     "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+     "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 01:42:33 +0000"
+    },
     {
      "title": "Iranian president says time to end war with US from ‘position of strength’",
      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
      "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
      "date": "Fri, 21 Aug 2026 23:52:28 +0000"
-    },
-    {
-     "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-     "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 23:51:40 +0000"
-    },
-    {
-     "title": "Outrage in India over death of six-year-old ‘slapped’ by his teacher",
-     "link": "https://www.aljazeera.com/news/2026/8/21/outrage-in-india-over-death-of-six-year-old-slapped-by-his-teacher?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 23:34:31 +0000"
     }
    ]
   },
