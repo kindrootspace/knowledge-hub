@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-22 17:36 UTC",
+ "updated": "2026-08-22 18:49 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Video appears to show police chase minutes before fatal A66 crash",
+     "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 17:36:57 GMT"
+    },
+    {
      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 16:45:02 GMT"
+     "date": "Sat, 22 Aug 2026 18:20:36 GMT"
     },
     {
      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -20,11 +25,6 @@
      "date": "Fri, 21 Aug 2026 23:56:48 GMT"
     },
     {
-     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 00:03:10 GMT"
-    },
-    {
      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 17:02:06 GMT"
@@ -35,14 +35,14 @@
      "date": "Fri, 21 Aug 2026 23:01:58 GMT"
     },
     {
+     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 00:03:10 GMT"
+    },
+    {
      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
      "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 21 Aug 2026 23:13:00 GMT"
-    },
-    {
-     "title": "Carney faces crucial test after walking away from Trump's deal",
-     "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 16:20:51 GMT"
     }
    ]
   },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+     "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 17:58:15 +0000"
+    },
+    {
+     "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 17:54:52 +0000"
+    },
+    {
+     "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+     "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 17:52:42 +0000"
+    },
+    {
+     "title": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
+     "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 17:47:02 +0000"
+    },
+    {
+     "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+     "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 17:34:28 +0000"
+    },
+    {
      "title": "South Korea sending first container ship through Arctic route",
      "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 16:46:22 +0000"
@@ -195,34 +220,9 @@
      "date": "Sat, 22 Aug 2026 16:41:43 +0000"
     },
     {
-     "title": "Espanyol vs Real Madrid LIVE: La Liga",
+     "title": "LIVE: Espanyol vs Real Madrid: La Liga",
      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 16:30:09 +0000"
-    },
-    {
-     "title": "How is the pro-Israel lobby influencing US elections?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 16:17:54 +0000"
-    },
-    {
-     "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 16:10:21 +0000"
-    },
-    {
-     "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 15:48:27 +0000"
-    },
-    {
-     "title": "Did DOGE cuts make America’s food safety problem worse?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 15:46:48 +0000"
-    },
-    {
-     "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 15:45:40 +0000"
     }
    ]
   },
