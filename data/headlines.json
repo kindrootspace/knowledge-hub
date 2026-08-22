@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-22 08:47 UTC",
+ "updated": "2026-08-22 09:43 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Multiple deaths after collision between police vehicle and car",
+     "title": "Multiple deaths after crash between police vehicle and car",
      "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 08:45:06 GMT"
+     "date": "Sat, 22 Aug 2026 09:37:37 GMT"
     },
     {
      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -22,7 +22,7 @@
     {
      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 08:17:58 GMT"
+     "date": "Sat, 22 Aug 2026 09:09:41 GMT"
     },
     {
      "title": "More students planning to live at home for university over 'insane' living costs",
@@ -32,7 +32,7 @@
     {
      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 06:40:30 GMT"
+     "date": "Sat, 22 Aug 2026 09:13:26 GMT"
     },
     {
      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
@@ -175,8 +175,8 @@
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
     },
     {
-     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+     "title": "Federal government thins the herds of wild horses in Colorado",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,16 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iran says new US sanctions violate sovereignty of other states",
+     "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 09:14:09 +0000"
+    },
+    {
+     "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 08:53:17 +0000"
+    },
     {
      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
      "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
      "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 07:35:08 +0000"
-    },
-    {
-     "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
-     "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 07:11:27 +0000"
-    },
-    {
-     "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
-     "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 05:36:39 +0000"
     }
    ]
   },
