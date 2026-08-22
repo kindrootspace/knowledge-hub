@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-22 18:49 UTC",
+ "updated": "2026-08-22 19:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Two police officers among seven killed in wrong-way car crash",
+     "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 19:28:14 GMT"
+    },
     {
      "title": "Video appears to show police chase minutes before fatal A66 crash",
      "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
@@ -38,11 +43,6 @@
      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 00:03:10 GMT"
-    },
-    {
-     "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
-     "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:13:00 GMT"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+     "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:24:51 +0000"
+    },
+    {
+     "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:24:00 +0000"
+    },
+    {
+     "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+     "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:18:02 +0000"
+    },
+    {
+     "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:13:02 +0000"
+    },
+    {
+     "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+     "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 19:00:25 +0000"
+    },
+    {
+     "title": "Israel, Turkiye and the new regional reordering",
+     "link": "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 18:35:48 +0000"
+    },
+    {
+     "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
+     "link": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 18:29:24 +0000"
+    },
+    {
      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
      "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 17:58:15 +0000"
-    },
-    {
-     "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 17:54:52 +0000"
-    },
-    {
-     "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
-     "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 17:52:42 +0000"
-    },
-    {
-     "title": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
-     "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 17:47:02 +0000"
-    },
-    {
-     "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
-     "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 17:34:28 +0000"
-    },
-    {
-     "title": "South Korea sending first container ship through Arctic route",
-     "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 16:46:22 +0000"
-    },
-    {
-     "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 16:41:43 +0000"
-    },
-    {
-     "title": "LIVE: Espanyol vs Real Madrid: La Liga",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 16:30:09 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
     }
    ]
   }
