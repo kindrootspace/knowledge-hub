@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 16:41 UTC",
+ "updated": "2026-08-22 17:36 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 16:05:04 GMT"
+     "date": "Sat, 22 Aug 2026 16:45:02 GMT"
     },
     {
      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -25,9 +25,9 @@
      "date": "Sat, 22 Aug 2026 00:03:10 GMT"
     },
     {
-     "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+     "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 14:10:05 GMT"
+     "date": "Sat, 22 Aug 2026 17:02:06 GMT"
     },
     {
      "title": "More students planning to live at home for university over 'insane' living costs",
@@ -145,6 +145,11 @@
      "date": "Sat, 22 Aug 2026 08:00:00 -0400"
     },
     {
+     "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
+     "link": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
+     "date": "Sat, 22 Aug 2026 07:43:32 -0400"
+    },
+    {
      "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
      "date": "Sat, 22 Aug 2026 00:36:27 -0400"
@@ -173,17 +178,32 @@
      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
      "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
      "date": "Fri, 21 Aug 2026 07:25:10 -0400"
-    },
-    {
-     "title": "What to know about this weekend's IndyCar race on the National Mall",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-     "date": "Fri, 21 Aug 2026 05:01:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "South Korea sending first container ship through Arctic route",
+     "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 16:46:22 +0000"
+    },
+    {
+     "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 16:41:43 +0000"
+    },
+    {
+     "title": "Espanyol vs Real Madrid LIVE: La Liga",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 16:30:09 +0000"
+    },
+    {
+     "title": "How is the pro-Israel lobby influencing US elections?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 16:17:54 +0000"
+    },
     {
      "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
      "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 15:45:40 +0000"
-    },
-    {
-     "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-     "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 15:30:49 +0000"
-    },
-    {
-     "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-     "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 14:37:40 +0000"
-    },
-    {
-     "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-     "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 14:19:06 +0000"
-    },
-    {
-     "title": "Man Utd humiliated at Hull to open Premier League account",
-     "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 13:54:02 +0000"
     }
    ]
   },
