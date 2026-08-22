@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 22:38 UTC",
+ "updated": "2026-08-22 23:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -13,6 +13,11 @@
      "title": "Video appears to show police chase minutes before fatal A66 crash",
      "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 20:14:04 GMT"
+    },
+    {
+     "title": "Struggling households need more help with bills, energy industry says",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 23:00:03 GMT"
     },
     {
      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -30,19 +35,14 @@
      "date": "Sat, 22 Aug 2026 21:50:29 GMT"
     },
     {
-     "title": "How this 1960s ex-council house is managing to stay cool without air con",
-     "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:56:48 GMT"
+     "title": "US military newspaper editor voices censorship fears after being fired",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 16:57:19 GMT"
     },
     {
-     "title": "More students planning to live at home for university over 'insane' living costs",
-     "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 23:01:58 GMT"
-    },
-    {
-     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 00:03:10 GMT"
+     "title": "The hotel booking mix-up that could free mushroom murderer",
+     "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 19:03:03 GMT"
     }
    ]
   },
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+     "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 22:29:07 +0000"
+    },
+    {
      "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
      "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 21:55:06 +0000"
@@ -218,11 +223,6 @@
      "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 19:29:08 +0000"
-    },
-    {
-     "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-     "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:24:51 +0000"
     }
    ]
   },
