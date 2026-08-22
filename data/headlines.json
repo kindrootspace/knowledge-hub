@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 23:38 UTC",
+ "updated": "2026-08-22 01:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,19 @@
      "date": "Fri, 21 Aug 2026 23:01:58 GMT"
     },
     {
-     "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+     "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 19:49:56 GMT"
+     "date": "Sat, 22 Aug 2026 01:47:54 GMT"
+    },
+    {
+     "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+     "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 22:36:12 GMT"
+    },
+    {
+     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+     "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 00:40:47 GMT"
     },
     {
      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
@@ -30,19 +40,9 @@
      "date": "Fri, 21 Aug 2026 18:29:31 GMT"
     },
     {
-     "title": "Watch: How 'strongest' El Niño could affect weather around the world",
-     "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 15:33:28 GMT"
-    },
-    {
-     "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-     "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 22:02:10 GMT"
-    },
-    {
-     "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-     "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 19:13:43 GMT"
+     "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+     "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:13:00 GMT"
     }
    ]
   },
@@ -55,9 +55,9 @@
      "date": "Fri, 21 Aug 2026 11:20:57 GMT"
     },
     {
-     "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 21:27:14 GMT"
+     "date": "Sat, 22 Aug 2026 00:40:47 GMT"
     },
     {
      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
@@ -165,18 +165,18 @@
      "date": "Fri, 21 Aug 2026 05:01:00 -0400"
     },
     {
-     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Federal government thins the herds of wild horses in Colorado",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+     "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+     "date": "Fri, 21 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
+     "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
      "date": "Fri, 21 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US debt tops $40 trillion, Americans left with the bill",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 23:19:48 +0000"
+     "title": "Iranian president says time to end war with US from ‘position of strength’",
+     "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 00:59:37 +0000"
     },
     {
-     "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 23:19:37 +0000"
+     "title": "California lawmaker overcomes pro-Israel spending to win special election",
+     "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 00:38:06 +0000"
     },
     {
-     "title": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
-     "link": "https://www.aljazeera.com/news/2026/8/21/us-vice-president-jd-vance-holds-midterm-election-rally-in-ohio-hometown?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 22:52:40 +0000"
+     "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
+     "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 00:32:35 +0000"
     },
     {
-     "title": "TikTok settles with US Justice Department for $400m over child privacy laws",
-     "link": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 21:59:29 +0000"
+     "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 00:06:48 +0000"
     },
     {
-     "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-     "link": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 21:38:32 +0000"
+     "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 00:00:00 +0000"
     },
     {
-     "title": "One killed, three wounded in sword attack at Swedish high school",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 21:23:35 +0000"
+     "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+     "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 23:52:28 +0000"
     },
     {
-     "title": "Arsenal rout Coventry 3-0 to begin Premier League title defence in style",
-     "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 21:15:40 +0000"
+     "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
+     "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 23:51:40 +0000"
     },
     {
-     "title": "Global Sumud Flotilla joins Albania’s anti-resort protest",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss",
-     "date": "Fri, 21 Aug 2026 21:11:13 +0000"
+     "title": "Outrage in India over death of six-year-old ‘slapped’ by his teacher",
+     "link": "https://www.aljazeera.com/news/2026/8/21/outrage-in-india-over-death-of-six-year-old-slapped-by-his-teacher?traffic_source=rss",
+     "date": "Fri, 21 Aug 2026 23:34:31 +0000"
     }
    ]
   },
