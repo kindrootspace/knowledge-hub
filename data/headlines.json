@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 17:34 UTC",
+ "updated": "2026-08-23 18:48 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,24 +25,24 @@
      "date": "Sun, 23 Aug 2026 12:56:43 GMT"
     },
     {
+     "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 15:53:38 GMT"
+    },
+    {
+     "title": "Man arrested travelling to France after one dead and eight injured in London fire",
+     "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 16:38:24 GMT"
+    },
+    {
      "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 15:07:04 GMT"
     },
     {
-     "title": "Scammers increasingly using QR codes to steal money and data",
-     "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 06:23:54 GMT"
-    },
-    {
-     "title": "France links rise in drownings to heatwaves",
+     "title": "France links sharp rise in drownings to heatwaves",
      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 15:00:17 GMT"
-    },
-    {
-     "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-     "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 17:31:29 GMT"
+     "date": "Sun, 23 Aug 2026 17:39:33 GMT"
     }
    ]
   },
@@ -185,6 +185,36 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 18:27:46 +0000"
+    },
+    {
+     "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 18:15:22 +0000"
+    },
+    {
+     "title": "Tunisia sees protests after migrant boat sinking kills eight",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 17:57:48 +0000"
+    },
+    {
+     "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+     "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 17:55:52 +0000"
+    },
+    {
+     "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+     "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 17:53:31 +0000"
+    },
+    {
+     "title": "Landfill collapse in Guinea kills at least 30 people",
+     "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 17:35:01 +0000"
+    },
+    {
      "title": "Photos: Ukraine celebrates National Flag Day",
      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 17:18:25 +0000"
@@ -193,36 +223,51 @@
      "title": "LIVE: Elche vs Barcelona – La Liga",
      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 16:50:00 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+     "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
     },
     {
-     "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-     "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 16:12:55 +0000"
+     "title": "Earth-shaking thunder probes underground geology",
+     "link": "https://www.nature.com/articles/d41586-026-02596-0",
+     "date": ""
     },
     {
-     "title": "Can Nigeria cash in on Iran war?",
-     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 16:07:01 +0000"
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
     },
     {
-     "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-     "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 15:54:36 +0000"
+     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+     "link": "https://www.nature.com/articles/d41586-026-02352-4",
+     "date": ""
     },
     {
-     "title": "Gaza families search for children missing after years of war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 15:42:04 +0000"
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
     },
     {
-     "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-     "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 15:38:16 +0000"
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
+     "date": ""
     },
     {
-     "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 15:25:47 +0000"
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
+    {
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
+     "date": ""
     }
    ]
   }
