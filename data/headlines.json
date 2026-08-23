@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 04:04 UTC",
+ "updated": "2026-08-23 05:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,11 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 05:10:05 +0000"
+    },
+    {
      "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 03:42:22 +0000"
@@ -218,11 +223,6 @@
      "title": "Iran threatens countries that join US ‘economic D-Day’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 23:56:32 +0000"
-    },
-    {
-     "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-     "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 23:26:15 +0000"
     }
    ]
   },
