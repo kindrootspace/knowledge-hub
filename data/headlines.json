@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 16:43 UTC",
+ "updated": "2026-08-23 17:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,14 @@
      "date": "Sun, 23 Aug 2026 14:58:40 GMT"
     },
     {
-     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 05:46:43 GMT"
-    },
-    {
      "title": "CrossCountry cancels 'almost all' UK services after power cut",
      "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 14:05:16 GMT"
+    },
+    {
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -25,9 +25,9 @@
      "date": "Sun, 23 Aug 2026 12:56:43 GMT"
     },
     {
-     "title": "Robot boxing, football and sprinting at World Humanoid Games",
-     "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 12:47:06 GMT"
+     "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
+     "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 15:07:04 GMT"
     },
     {
      "title": "Scammers increasingly using QR codes to steal money and data",
@@ -35,14 +35,14 @@
      "date": "Sun, 23 Aug 2026 06:23:54 GMT"
     },
     {
-     "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 15:07:04 GMT"
+     "title": "France links rise in drownings to heatwaves",
+     "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 15:00:17 GMT"
     },
     {
-     "title": "Mayors to get powers to overrule local councils on planning decisions",
-     "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 10:02:23 GMT"
+     "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+     "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 17:31:29 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 17 Aug 2026 14:07:31 GMT"
     },
     {
+     "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+     "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+     "date": "Sun, 23 Aug 2026 17:24:46 GMT"
+    },
+    {
      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
      "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
      "date": "Sun, 23 Aug 2026 11:00:16 GMT"
@@ -128,17 +133,17 @@
      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
      "date": "Sat, 22 Aug 2026 14:04:57 GMT"
-    },
-    {
-     "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
-     "link": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
-     "date": "Fri, 21 Aug 2026 15:22:48 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+     "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+     "date": "Sun, 23 Aug 2026 12:55:37 -0400"
+    },
     {
      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
@@ -173,17 +178,22 @@
      "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
      "date": "Sat, 22 Aug 2026 07:43:32 -0400"
-    },
-    {
-     "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
-     "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-     "date": "Sat, 22 Aug 2026 00:36:27 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Photos: Ukraine celebrates National Flag Day",
+     "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 17:18:25 +0000"
+    },
+    {
+     "title": "LIVE: Elche vs Barcelona – La Liga",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 16:50:00 +0000"
+    },
     {
      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
      "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
@@ -213,61 +223,6 @@
      "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 15:25:47 +0000"
-    },
-    {
-     "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
-     "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 14:17:18 +0000"
-    },
-    {
-     "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-     "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 13:50:02 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
     }
    ]
   }
