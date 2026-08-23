@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 22:38 UTC",
+ "updated": "2026-08-23 23:35 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,6 +15,16 @@
      "date": "Sun, 23 Aug 2026 21:05:43 GMT"
     },
     {
+     "title": "How easy is it to find an NHS dentist? It depends where you live",
+     "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 23:10:18 GMT"
+    },
+    {
+     "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 23:07:10 GMT"
+    },
+    {
      "title": "CrossCountry to provide full service on Monday after major disruption",
      "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 19:00:31 GMT"
@@ -25,24 +35,14 @@
      "date": "Sun, 23 Aug 2026 20:19:36 GMT"
     },
     {
-     "title": "Reform says it will prioritise British-born young workers for social housing",
-     "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 21:07:47 GMT"
-    },
-    {
-     "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 15:07:04 GMT"
-    },
-    {
      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
      "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 15:53:38 GMT"
     },
     {
-     "title": "Man arrested travelling to France after London fire left one dead and eight injured",
-     "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 16:38:24 GMT"
+     "title": "Reform says it will prioritise British-born young workers for social housing",
+     "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 21:07:47 GMT"
     }
    ]
   },
@@ -95,7 +95,7 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "Landslide at waste mound in Guinea’s capital kills 30, government says",
+     "title": "Landslide at waste mound in Guinea capital kills 30, government says",
      "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
      "date": "Sun, 23 Aug 2026 22:16:53 GMT"
     },
@@ -223,51 +223,6 @@
      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 19:52:12 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
     }
    ]
   }
