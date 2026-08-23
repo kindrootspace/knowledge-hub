@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-23 14:40 UTC",
+ "updated": "2026-08-23 15:36 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+     "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 14:58:40 GMT"
+    },
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
-     "title": "Mayors to get powers to overrule local councils on planning decisions",
-     "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 10:02:23 GMT"
+     "title": "CrossCountry cancels 'almost all' UK services after power cut",
+     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 14:05:16 GMT"
     },
     {
      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -20,9 +25,9 @@
      "date": "Sun, 23 Aug 2026 12:56:43 GMT"
     },
     {
-     "title": "CrossCountry cancels 'almost all' UK services after power cut",
-     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 14:05:16 GMT"
+     "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
+     "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 15:07:04 GMT"
     },
     {
      "title": "How a new era of heatwaves could shake up the school calendar",
@@ -38,11 +43,6 @@
      "title": "Why we can't look away from hoarder home clean-ups",
      "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 23:22:10 GMT"
-    },
-    {
-     "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-     "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 23:45:01 GMT"
     }
    ]
   },
