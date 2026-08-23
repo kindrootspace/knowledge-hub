@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 23:34 UTC",
+ "updated": "2026-08-23 01:59 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Iran threatens countries that join US ‘economic D-Day’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 23:56:32 +0000"
+    },
+    {
+     "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+     "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+     "date": "Sat, 22 Aug 2026 23:26:15 +0000"
+    },
+    {
      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
      "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 22:29:07 +0000"
@@ -208,66 +223,6 @@
      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
      "date": "Sat, 22 Aug 2026 20:49:17 +0000"
-    },
-    {
-     "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-     "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 20:05:52 +0000"
-    },
-    {
-     "title": "Why is Israel building new illegal settlements?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:40:58 +0000"
-    },
-    {
-     "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 19:29:08 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
     }
    ]
   }
