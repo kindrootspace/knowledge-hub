@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 07:01 UTC",
+ "updated": "2026-08-23 07:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
      "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 06:23:43 GMT"
+     "date": "Sun, 23 Aug 2026 07:24:25 GMT"
     },
     {
      "title": "Mayors to get powers to overrule local councils on planning decisions",
@@ -15,9 +15,14 @@
      "date": "Sun, 23 Aug 2026 03:10:51 GMT"
     },
     {
-     "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 05:46:43 GMT"
+    },
+    {
+     "title": "Plan to restrict sex and violent offenders to certain areas to start in October",
+     "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 02:37:03 GMT"
     },
     {
      "title": "Struggling households need more help with bills, energy industry says",
@@ -25,12 +30,7 @@
      "date": "Sat, 22 Aug 2026 23:00:03 GMT"
     },
     {
-     "title": "Restriction zone scheme for offenders to start in October",
-     "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 02:37:03 GMT"
-    },
-    {
-     "title": "Cyber attack shut down small power plant",
+     "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 02:48:41 GMT"
     },
@@ -55,12 +55,12 @@
      "date": "Sat, 22 Aug 2026 23:00:03 GMT"
     },
     {
-     "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
-     "title": "Cyber attack shut down small power plant",
+     "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 02:48:41 GMT"
     },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+     "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 07:22:37 +0000"
+    },
+    {
+     "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
+     "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 06:59:51 +0000"
+    },
+    {
      "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
      "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 06:48:34 +0000"
@@ -213,16 +223,51 @@
      "title": "In rural Chad, solar kiosks bring healthcare closer",
      "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 03:21:03 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+     "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
     },
     {
-     "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 03:16:19 +0000"
+     "title": "Earth-shaking thunder probes underground geology",
+     "link": "https://www.nature.com/articles/d41586-026-02596-0",
+     "date": ""
     },
     {
-     "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-     "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 02:34:49 +0000"
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
+    },
+    {
+     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+     "link": "https://www.nature.com/articles/d41586-026-02352-4",
+     "date": ""
+    },
+    {
+     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+     "link": "https://www.nature.com/articles/s41586-026-11043-z",
+     "date": ""
+    },
+    {
+     "title": "Hidden volcanoes hint at Moon’s turbulent past",
+     "link": "https://www.nature.com/articles/d41586-026-02555-9",
+     "date": ""
+    },
+    {
+     "title": "To shield the fetus, link a protein to these drugs",
+     "link": "https://www.nature.com/articles/d41586-026-02553-x",
+     "date": ""
+    },
+    {
+     "title": "Astronaut vest cuts radiation exposure in half",
+     "link": "https://www.nature.com/articles/d41586-026-02556-8",
+     "date": ""
     }
    ]
   }
