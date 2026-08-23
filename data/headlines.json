@@ -1,14 +1,9 @@
 {
- "updated": "2026-08-23 07:47 UTC",
+ "updated": "2026-08-23 08:48 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
-     "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 07:24:25 GMT"
-    },
     {
      "title": "Mayors to get powers to overrule local councils on planning decisions",
      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
@@ -20,14 +15,14 @@
      "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
-     "title": "Plan to restrict sex and violent offenders to certain areas to start in October",
+     "title": "Plan to restrict serious offenders to certain areas to start in October",
      "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 02:37:03 GMT"
     },
     {
-     "title": "Struggling households need more help with bills, energy industry says",
-     "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 23:00:03 GMT"
+     "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 08:47:47 GMT"
     },
     {
      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -43,6 +38,11 @@
      "title": "The hotel booking mix-up that could free mushroom murderer",
      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 19:03:03 GMT"
+    },
+    {
+     "title": "How a new era of heatwaves could shake up the school calendar",
+     "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 23:16:43 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Struggling households need more help with bills, energy industry says",
      "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 23:00:03 GMT"
+     "date": "Sun, 23 Aug 2026 08:03:52 GMT"
     },
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Flooding across Caracas, Venezuela, after heavy rains",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 08:08:27 +0000"
+    },
+    {
+     "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+     "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 08:07:54 +0000"
+    },
+    {
+     "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+     "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 08:03:41 +0000"
+    },
+    {
+     "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+     "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 07:38:42 +0000"
+    },
+    {
      "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
      "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 07:22:37 +0000"
@@ -203,26 +223,6 @@
      "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
      "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 06:15:50 +0000"
-    },
-    {
-     "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
-     "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 05:55:10 +0000"
-    },
-    {
-     "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 05:10:05 +0000"
-    },
-    {
-     "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 03:42:22 +0000"
-    },
-    {
-     "title": "In rural Chad, solar kiosks bring healthcare closer",
-     "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 03:21:03 +0000"
     }
    ]
   },
