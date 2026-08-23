@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 13:02 UTC",
+ "updated": "2026-08-23 13:46 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,19 +20,14 @@
      "date": "Sun, 23 Aug 2026 12:56:43 GMT"
     },
     {
+     "title": "CrossCountry cancels 'almost all' UK services after power cut",
+     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 13:09:58 GMT"
+    },
+    {
      "title": "How a new era of heatwaves could shake up the school calendar",
      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 23:16:43 GMT"
-    },
-    {
-     "title": "CrossCountry cancels 'almost all' UK services after power cut",
-     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 12:38:01 GMT"
-    },
-    {
-     "title": "'New season, new trim' - Haaland reveals buzzcut",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 12:36:54 GMT"
     },
     {
      "title": "The hotel booking mix-up that could free mushroom murderer",
@@ -43,6 +38,11 @@
      "title": "Why we can't look away from hoarder home clean-ups",
      "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 22 Aug 2026 23:22:10 GMT"
+    },
+    {
+     "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+     "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 23:45:01 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "CrossCountry cancels 'almost all' UK services after power cut",
      "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 12:38:01 GMT"
+     "date": "Sun, 23 Aug 2026 13:09:58 GMT"
     },
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 13:20:57 +0000"
+    },
+    {
+     "title": "Dozens of attacks in southern Thailand wound three people",
+     "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 13:08:37 +0000"
+    },
+    {
+     "title": "AI fraud costing victims millions of dollars",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 13:08:06 +0000"
+    },
+    {
      "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
      "link": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 12:19:12 +0000"
@@ -208,21 +223,6 @@
      "title": "Can Iran retaliate against countries that join US ‘economic war’?",
      "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 11:50:22 +0000"
-    },
-    {
-     "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-     "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 11:44:18 +0000"
-    },
-    {
-     "title": "Explosion injures 13 in Taiwan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 11:06:38 +0000"
-    },
-    {
-     "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-     "link": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 11:00:18 +0000"
     }
    ]
   },
