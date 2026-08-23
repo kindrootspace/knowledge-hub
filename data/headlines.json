@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-23 08:48 UTC",
+ "updated": "2026-08-23 09:43 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "Mayors to get powers to overrule local councils on planning decisions",
-     "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 03:10:51 GMT"
-    },
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
-     "title": "Plan to restrict serious offenders to certain areas to start in October",
-     "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 02:37:03 GMT"
+     "title": "Mayors to get powers to overrule local councils on planning decisions",
+     "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 03:10:51 GMT"
     },
     {
      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 08:47:47 GMT"
+     "date": "Sun, 23 Aug 2026 09:37:05 GMT"
+    },
+    {
+     "title": "Plan to restrict serious offenders to certain areas to start in October",
+     "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 02:37:03 GMT"
     },
     {
      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+     "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
+     "date": "Sun, 23 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
      "date": "Sat, 22 Aug 2026 16:53:19 -0400"
@@ -173,17 +178,22 @@
      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
      "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
      "date": "Fri, 21 Aug 2026 12:40:59 -0400"
-    },
-    {
-     "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-     "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-     "date": "Fri, 21 Aug 2026 07:42:10 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Where water conflicts pose the biggest threat in 2026",
+     "link": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 09:13:23 +0000"
+    },
+    {
+     "title": "Israeli wounded in occupied West Bank stabbing",
+     "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 08:38:01 +0000"
+    },
     {
      "title": "Flooding across Caracas, Venezuela, after heavy rains",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
      "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 06:59:51 +0000"
-    },
-    {
-     "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
-     "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 06:48:34 +0000"
-    },
-    {
-     "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-     "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 06:15:50 +0000"
     }
    ]
   },
