@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-23 05:45 UTC",
+ "updated": "2026-08-23 07:01 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
+     "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 06:23:43 GMT"
+    },
     {
      "title": "Mayors to get powers to overrule local councils on planning decisions",
      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 03:10:51 GMT"
     },
     {
-     "title": "Two police officers among seven killed in wrong-way car crash",
-     "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 19:28:14 GMT"
+     "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
      "title": "Struggling households need more help with bills, energy industry says",
@@ -23,11 +28,6 @@
      "title": "Restriction zone scheme for offenders to start in October",
      "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 02:37:03 GMT"
-    },
-    {
-     "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 20:10:00 GMT"
     },
     {
      "title": "Cyber attack shut down small power plant",
@@ -50,29 +50,29 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-     "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 11:20:57 GMT"
+     "title": "Struggling households need more help with bills, energy industry says",
+     "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 23:00:03 GMT"
     },
     {
-     "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-     "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 00:40:47 GMT"
+     "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 05:46:43 GMT"
     },
     {
-     "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-     "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 16:45:09 GMT"
+     "title": "Cyber attack shut down small power plant",
+     "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 02:48:41 GMT"
     },
     {
-     "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
-     "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 10:02:03 GMT"
+     "title": "Mayors to get powers to overrule local councils on planning decisions",
+     "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 03:10:51 GMT"
     },
     {
-     "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 20 Aug 2026 22:59:35 GMT"
+     "title": "More students planning to live at home for university over 'insane' living costs",
+     "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 23:01:58 GMT"
     },
     {
      "title": "How landscape gardening is being electrified",
@@ -80,14 +80,14 @@
      "date": "Thu, 20 Aug 2026 23:12:38 GMT"
     },
     {
-     "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 09:45:11 GMT"
+     "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
+     "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 10:02:03 GMT"
     },
     {
-     "title": "Why the US economy is ringing alarm bells",
-     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 21 Aug 2026 08:38:18 GMT"
+     "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+     "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 21 Aug 2026 11:20:57 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 06:48:34 +0000"
+    },
+    {
+     "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
+     "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 06:15:50 +0000"
+    },
+    {
+     "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
+     "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 05:55:10 +0000"
+    },
+    {
      "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 05:10:05 +0000"
@@ -208,66 +223,6 @@
      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
      "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 02:34:49 +0000"
-    },
-    {
-     "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 01:51:47 +0000"
-    },
-    {
-     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Iran threatens countries that join US ‘economic D-Day’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-     "date": "Sat, 22 Aug 2026 23:56:32 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
-     "date": ""
     }
    ]
   }
