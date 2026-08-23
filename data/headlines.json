@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 15:36 UTC",
+ "updated": "2026-08-23 16:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,24 +25,24 @@
      "date": "Sun, 23 Aug 2026 12:56:43 GMT"
     },
     {
+     "title": "Robot boxing, football and sprinting at World Humanoid Games",
+     "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 12:47:06 GMT"
+    },
+    {
+     "title": "Scammers increasingly using QR codes to steal money and data",
+     "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 06:23:54 GMT"
+    },
+    {
      "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
      "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 15:07:04 GMT"
     },
     {
-     "title": "How a new era of heatwaves could shake up the school calendar",
-     "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 23:16:43 GMT"
-    },
-    {
-     "title": "The hotel booking mix-up that could free mushroom murderer",
-     "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 19:03:03 GMT"
-    },
-    {
-     "title": "Why we can't look away from hoarder home clean-ups",
-     "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 23:22:10 GMT"
+     "title": "Mayors to get powers to overrule local councils on planning decisions",
+     "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 10:02:23 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+     "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+     "date": "Sun, 23 Aug 2026 12:15:30 -0400"
+    },
+    {
      "title": "Becerra, running for governor of California, faces a health insurance problem",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
      "date": "Sun, 23 Aug 2026 08:50:09 -0400"
@@ -173,17 +178,42 @@
      "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
      "date": "Sat, 22 Aug 2026 00:36:27 -0400"
-    },
-    {
-     "title": "A battle over 'Italian brainrot' could shape who owns AI art",
-     "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-     "date": "Fri, 21 Aug 2026 18:16:46 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+     "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 16:12:55 +0000"
+    },
+    {
+     "title": "Can Nigeria cash in on Iran war?",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 16:07:01 +0000"
+    },
+    {
+     "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+     "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 15:54:36 +0000"
+    },
+    {
+     "title": "Gaza families search for children missing after years of war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 15:42:04 +0000"
+    },
+    {
+     "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
+     "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 15:38:16 +0000"
+    },
+    {
+     "title": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 15:25:47 +0000"
+    },
     {
      "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
      "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
      "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 13:50:02 +0000"
-    },
-    {
-     "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-     "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 13:37:50 +0000"
-    },
-    {
-     "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
-     "link": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 13:33:39 +0000"
-    },
-    {
-     "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 13:20:57 +0000"
-    },
-    {
-     "title": "Dozens of attacks in southern Thailand wound three people",
-     "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 13:08:37 +0000"
-    },
-    {
-     "title": "AI fraud costing victims millions of dollars",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 13:08:06 +0000"
-    },
-    {
-     "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 12:19:12 +0000"
     }
    ]
   },
