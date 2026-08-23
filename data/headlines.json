@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23 18:48 UTC",
+ "updated": "2026-08-23 19:35 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,7 +17,7 @@
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 05:46:43 GMT"
+     "date": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -62,7 +62,7 @@
     {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 05:46:43 GMT"
+     "date": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Zhou Bo: China’s alternative to Western power",
+     "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 19:00:56 +0000"
+    },
+    {
+     "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+     "date": "Sun, 23 Aug 2026 18:47:11 +0000"
+    },
+    {
      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 18:27:46 +0000"
@@ -213,16 +223,6 @@
      "title": "Landfill collapse in Guinea kills at least 30 people",
      "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
      "date": "Sun, 23 Aug 2026 17:35:01 +0000"
-    },
-    {
-     "title": "Photos: Ukraine celebrates National Flag Day",
-     "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 17:18:25 +0000"
-    },
-    {
-     "title": "LIVE: Elche vs Barcelona – La Liga",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 16:50:00 +0000"
     }
    ]
   },
