@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 13:13 UTC",
+ "updated": "2026-08-24 14:03 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
      "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 12:28:16 GMT"
+     "date": "Mon, 24 Aug 2026 13:47:29 GMT"
+    },
+    {
+     "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+     "link": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 12:51:10 GMT"
     },
     {
      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
@@ -15,14 +20,9 @@
      "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
-     "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:55:47 GMT"
-    },
-    {
-     "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
-     "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:15:25 GMT"
+     "title": "Snooker champion Graeme Dott guilty of child sex abuse",
+     "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 13:56:27 GMT"
     },
     {
      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
@@ -30,19 +30,19 @@
      "date": "Mon, 24 Aug 2026 10:13:58 GMT"
     },
     {
+     "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:55:47 GMT"
+    },
+    {
      "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
      "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 12:38:14 GMT"
+     "date": "Mon, 24 Aug 2026 13:44:28 GMT"
     },
     {
-     "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-     "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:40:22 GMT"
-    },
-    {
-     "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:39:23 GMT"
+     "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+     "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 05:15:25 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:39:23 GMT"
+     "date": "Mon, 24 Aug 2026 13:35:07 GMT"
     },
     {
      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Algeria’s schools put Shakespeare before Molière in break from France",
+     "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 13:48:46 +0000"
+    },
+    {
+     "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 13:14:48 +0000"
+    },
+    {
      "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 13:02:44 +0000"
@@ -213,16 +223,51 @@
      "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
      "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 12:04:46 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "The exoskeletons are coming (to a store near you)",
+     "link": "https://www.nature.com/articles/d41586-026-02641-y",
+     "date": ""
     },
     {
-     "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-     "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 11:57:26 +0000"
+     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+     "link": "https://www.nature.com/articles/d41586-026-02572-8",
+     "date": ""
     },
     {
-     "title": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 11:54:30 +0000"
+     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+     "link": "https://www.nature.com/articles/d41586-026-02616-z",
+     "date": ""
+    },
+    {
+     "title": "Can AI ever be conscious? The question stems from a misconception",
+     "link": "https://www.nature.com/articles/d41586-026-02571-9",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+     "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
+    },
+    {
+     "title": "Earth-shaking thunder probes underground geology",
+     "link": "https://www.nature.com/articles/d41586-026-02596-0",
+     "date": ""
+    },
+    {
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
+    },
+    {
+     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+     "link": "https://www.nature.com/articles/d41586-026-02352-4",
+     "date": ""
     }
    ]
   }
