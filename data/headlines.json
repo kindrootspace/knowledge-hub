@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-24 14:03 UTC",
+ "updated": "2026-08-24 15:00 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-     "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 13:47:29 GMT"
+     "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 14:31:08 GMT"
     },
     {
      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
@@ -22,17 +22,12 @@
     {
      "title": "Snooker champion Graeme Dott guilty of child sex abuse",
      "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 13:56:27 GMT"
+     "date": "Mon, 24 Aug 2026 14:29:00 GMT"
     },
     {
      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
      "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 10:13:58 GMT"
-    },
-    {
-     "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:55:47 GMT"
     },
     {
      "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
@@ -43,6 +38,11 @@
      "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
      "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 05:15:25 GMT"
+    },
+    {
+     "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 13:56:22 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+     "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+     "date": "Mon, 24 Aug 2026 14:19:14 GMT"
+    },
+    {
      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
      "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
      "date": "Mon, 24 Aug 2026 10:11:34 GMT"
@@ -113,11 +118,6 @@
      "title": "More than 100 dead after goldmine collapses in Central African Republic",
      "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
      "date": "Thu, 20 Aug 2026 00:14:17 GMT"
-    },
-    {
-     "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-     "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-     "date": "Wed, 19 Aug 2026 20:17:39 GMT"
     },
     {
      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
@@ -170,20 +170,25 @@
      "date": "Mon, 24 Aug 2026 04:46:05 -0400"
     },
     {
+     "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
+     "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
+     "date": "Mon, 24 Aug 2026 04:45:44 -0400"
+    },
+    {
      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
      "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
      "date": "Sun, 23 Aug 2026 23:47:04 -0400"
-    },
-    {
-     "title": "Learning to live in a post-American world",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-     "date": "Sun, 23 Aug 2026 17:21:23 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 14:48:53 +0000"
+    },
     {
      "title": "Algeria’s schools put Shakespeare before Molière in break from France",
      "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
@@ -218,56 +223,6 @@
      "title": "Activists occupy UK aircraft parts factory over Israel links",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 12:07:44 +0000"
-    },
-    {
-     "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 12:04:46 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "The exoskeletons are coming (to a store near you)",
-     "link": "https://www.nature.com/articles/d41586-026-02641-y",
-     "date": ""
-    },
-    {
-     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-     "link": "https://www.nature.com/articles/d41586-026-02572-8",
-     "date": ""
-    },
-    {
-     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-     "link": "https://www.nature.com/articles/d41586-026-02616-z",
-     "date": ""
-    },
-    {
-     "title": "Can AI ever be conscious? The question stems from a misconception",
-     "link": "https://www.nature.com/articles/d41586-026-02571-9",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
     }
    ]
   }
