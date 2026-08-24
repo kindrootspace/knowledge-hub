@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 15:56 UTC",
+ "updated": "2026-08-24 16:55 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,7 +17,7 @@
     {
      "title": "Snooker champion Graeme Dott guilty of child sex abuse",
      "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 14:29:00 GMT"
+     "date": "Mon, 24 Aug 2026 16:33:40 GMT"
     },
     {
      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
@@ -32,12 +32,12 @@
     {
      "title": "World's oceans hit highest temperature on record as El Niño grows",
      "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 15:17:48 GMT"
+     "date": "Mon, 24 Aug 2026 16:27:28 GMT"
     },
     {
-     "title": "England drop Carse after nightclub incident",
+     "title": "Carse dropped from England squad for second Test after nightclub incident",
      "link": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 14:23:33 GMT"
+     "date": "Mon, 24 Aug 2026 16:52:44 GMT"
     },
     {
      "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
@@ -57,7 +57,7 @@
     {
      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 15:01:20 GMT"
+     "date": "Mon, 24 Aug 2026 16:50:47 GMT"
     },
     {
      "title": "Shein aims for almost $27bn valuation in stock market debut",
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+     "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+     "date": "Mon, 24 Aug 2026 16:40:37 GMT"
+    },
+    {
      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
      "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
      "date": "Mon, 24 Aug 2026 14:19:14 GMT"
@@ -113,11 +118,6 @@
      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
      "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
-    },
-    {
-     "title": "More than 100 dead after goldmine collapses in Central African Republic",
-     "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-     "date": "Thu, 20 Aug 2026 00:14:17 GMT"
     },
     {
      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
@@ -140,7 +140,7 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+     "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
      "date": "Mon, 24 Aug 2026 08:26:00 -0400"
     },
@@ -185,6 +185,36 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Former snooker world champion Graeme Dott convicted of child sex abuse",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 16:35:57 +0000"
+    },
+    {
+     "title": "Israeli strike on Gaza shelter extends casualty list",
+     "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 16:27:36 +0000"
+    },
+    {
+     "title": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 16:21:55 +0000"
+    },
+    {
+     "title": "England drop fast bowler Bryden Carse amid investigation into club incident",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 16:05:43 +0000"
+    },
+    {
+     "title": "What to expect as Iran braces for new US economic measures amid war",
+     "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 16:02:50 +0000"
+    },
+    {
+     "title": "Trump slams Canada with new 50 percent auto tariffs for 2027",
+     "link": "https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 15:50:15 +0000"
+    },
+    {
      "title": "Are humanoid robots the future of warfare?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 15:30:54 +0000"
@@ -193,36 +223,6 @@
      "title": "Video: Russia launches rocket into space with military satellite",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 15:29:14 +0000"
-    },
-    {
-     "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-     "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 15:17:36 +0000"
-    },
-    {
-     "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 15:15:55 +0000"
-    },
-    {
-     "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-     "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 15:02:34 +0000"
-    },
-    {
-     "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 14:48:53 +0000"
-    },
-    {
-     "title": "Algeria’s schools put Shakespeare before Molière in break from France",
-     "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 13:48:46 +0000"
-    },
-    {
-     "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 13:14:48 +0000"
     }
    ]
   },
