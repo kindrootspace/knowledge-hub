@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 03:16 UTC",
+ "updated": "2026-08-24 04:09 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,9 +25,9 @@
      "date": "Sun, 23 Aug 2026 19:00:31 GMT"
     },
     {
-     "title": "Trump waves green flag to start IndyCar race through Washington streets",
-     "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 20:19:36 GMT"
+     "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+     "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 03:27:11 GMT"
     },
     {
      "title": "Reform says it will prioritise British-born young workers for social housing",
@@ -57,12 +57,17 @@
     {
      "title": "Shein aims for almost $27bn valuation in stock market debut",
      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 02:05:04 GMT"
+     "date": "Mon, 24 Aug 2026 04:06:54 GMT"
     },
     {
      "title": "Why students are being paid £2,000 to play computer games",
      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:23:55 GMT"
+    },
+    {
+     "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+     "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 03:27:11 GMT"
     },
     {
      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
@@ -75,19 +80,14 @@
      "date": "Sun, 23 Aug 2026 10:11:21 GMT"
     },
     {
-     "title": "CrossCountry cancels 'almost all' UK services after power cut",
-     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 14:05:16 GMT"
-    },
-    {
      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
-     "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-     "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 02:48:41 GMT"
+     "title": "CrossCountry cancels 'almost all' UK services after power cut",
+     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 14:05:16 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+     "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+     "date": "Sun, 23 Aug 2026 23:47:04 -0400"
+    },
+    {
      "title": "Learning to live in a post-American world",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
      "date": "Sun, 23 Aug 2026 17:21:23 -0400"
@@ -173,11 +178,6 @@
      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
      "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
      "date": "Sat, 22 Aug 2026 16:53:19 -0400"
-    },
-    {
-     "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-     "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
-     "date": "Sat, 22 Aug 2026 08:00:00 -0400"
     }
    ]
   },
