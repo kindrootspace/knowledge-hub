@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 04:09 UTC",
+ "updated": "2026-08-24 05:01 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,24 +15,24 @@
      "date": "Sun, 23 Aug 2026 23:10:18 GMT"
     },
     {
-     "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+     "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:07:10 GMT"
-    },
-    {
-     "title": "CrossCountry to provide full service on Monday after major disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 19:00:31 GMT"
+     "date": "Mon, 24 Aug 2026 05:00:12 GMT"
     },
     {
      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 03:27:11 GMT"
+     "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
      "title": "Reform says it will prioritise British-born young workers for social housing",
      "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 21:07:47 GMT"
+    },
+    {
+     "title": "CrossCountry to provide full service on Monday after major disruption",
+     "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 19:00:31 GMT"
     },
     {
      "title": "Australian shark attack victim grateful for 'second chance at life'",
@@ -67,7 +67,7 @@
     {
      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 03:27:11 GMT"
+     "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 04:19:46 +0000"
+    },
+    {
+     "title": "Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 04:18:16 +0000"
+    },
+    {
+     "title": "‘We know this movie’: Iran mocks latest US sanctions",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 04:02:14 +0000"
+    },
+    {
+     "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+     "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 03:56:59 +0000"
+    },
+    {
      "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 02:55:39 +0000"
@@ -203,26 +223,6 @@
      "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 01:51:40 +0000"
-    },
-    {
-     "title": "Large forest fire burns close to residential areas in Ankara",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 00:30:00 +0000"
-    },
-    {
-     "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 00:12:21 +0000"
-    },
-    {
-     "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 00:00:00 +0000"
-    },
-    {
-     "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-     "link": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-     "date": "Sun, 23 Aug 2026 21:45:05 +0000"
     }
    ]
   },
