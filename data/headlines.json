@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 21:44 UTC",
+ "updated": "2026-08-24 22:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,6 +25,11 @@
      "date": "Mon, 24 Aug 2026 15:14:14 GMT"
     },
     {
+     "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 19:12:35 GMT"
+    },
+    {
      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
      "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 19:43:51 GMT"
@@ -35,14 +40,9 @@
      "date": "Mon, 24 Aug 2026 16:27:28 GMT"
     },
     {
-     "title": "Briton fighting for Russia killed in Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 16:17:54 GMT"
-    },
-    {
-     "title": "Police pass Mohamed Al Fayed case file to prosecutors",
-     "link": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 19:16:10 GMT"
+     "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+     "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 21:58:49 GMT"
     }
    ]
   },
@@ -58,6 +58,11 @@
      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 21:20:48 GMT"
+    },
+    {
+     "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+     "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 21:58:41 GMT"
     },
     {
      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
@@ -83,11 +88,6 @@
      "title": "Rail companies sued for £5m over oil spill caused by derailment",
      "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 16:30:40 GMT"
-    },
-    {
-     "title": "Pubs and hotels could see business rates reformed after review",
-     "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 09:41:24 GMT"
     }
    ]
   },
@@ -122,7 +122,7 @@
     {
      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
      "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-     "date": "Mon, 24 Aug 2026 20:23:26 GMT"
+     "date": "Mon, 24 Aug 2026 21:40:48 GMT"
     },
     {
      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
@@ -139,6 +139,16 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+     "date": "Mon, 24 Aug 2026 18:22:13 -0400"
+    },
+    {
+     "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+     "date": "Mon, 24 Aug 2026 17:17:31 -0400"
+    },
     {
      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
      "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
@@ -168,22 +178,27 @@
      "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
      "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
      "date": "Mon, 24 Aug 2026 04:53:36 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
-     "date": "Mon, 24 Aug 2026 04:46:05 -0400"
-    },
-    {
-     "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-     "date": "Mon, 24 Aug 2026 04:45:44 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
+     "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 22:19:08 +0000"
+    },
+    {
+     "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+     "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 21:35:10 +0000"
+    },
+    {
+     "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 21:32:24 +0000"
+    },
     {
      "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Ambush in South Sudan kills peacekeeping troops",
      "link": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 20:47:24 +0000"
-    },
-    {
-     "title": "Displaced Palestinian builds mud shelter as tents offer little relief",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:45:51 +0000"
-    },
-    {
-     "title": "Violence flares in Haiti as gang attack kills 30 people",
-     "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:23:39 +0000"
-    },
-    {
-     "title": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:03:48 +0000"
     }
    ]
   },
