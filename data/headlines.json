@@ -1,13 +1,18 @@
 {
- "updated": "2026-08-24 05:01 UTC",
+ "updated": "2026-08-24 05:54 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
+     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 05:16:57 GMT"
+    },
+    {
      "title": "Families of two police officers killed in crash say they were heroes",
      "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 00:37:43 GMT"
+     "date": "Mon, 24 Aug 2026 05:45:33 GMT"
     },
     {
      "title": "How easy is it to find an NHS dentist? It depends where you live",
@@ -15,14 +20,14 @@
      "date": "Sun, 23 Aug 2026 23:10:18 GMT"
     },
     {
-     "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:00:12 GMT"
-    },
-    {
-     "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+     "title": "Nearly three million Teslas recalled in China over hidden door handles",
      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
+    },
+    {
+     "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+     "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
      "title": "Reform says it will prioritise British-born young workers for social housing",
@@ -30,14 +35,9 @@
      "date": "Sun, 23 Aug 2026 21:07:47 GMT"
     },
     {
-     "title": "CrossCountry to provide full service on Monday after major disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 19:00:31 GMT"
-    },
-    {
      "title": "Australian shark attack victim grateful for 'second chance at life'",
      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 00:34:59 GMT"
+     "date": "Mon, 24 Aug 2026 05:31:53 GMT"
     },
     {
      "title": "Review launched into how pub and hotel business rates calculated",
@@ -50,14 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Shein aims for almost $27bn valuation in stock market debut",
+     "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 05:09:22 GMT"
+    },
+    {
      "title": "Review launched into how pub and hotel business rates calculated",
      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:26:15 GMT"
-    },
-    {
-     "title": "Shein aims for almost $27bn valuation in stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 04:06:54 GMT"
     },
     {
      "title": "Why students are being paid £2,000 to play computer games",
@@ -65,14 +65,19 @@
      "date": "Sun, 23 Aug 2026 23:23:55 GMT"
     },
     {
-     "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+     "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+     "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 23:25:44 GMT"
+    },
+    {
+     "title": "Nearly three million Teslas recalled in China over hidden door handles",
      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
-     "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-     "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:25:44 GMT"
+     "title": "CrossCountry to provide full service on Monday",
+     "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 19:00:31 GMT"
     },
     {
      "title": "Struggling households need more help with bills, energy industry says",
@@ -80,14 +85,9 @@
      "date": "Sun, 23 Aug 2026 10:11:21 GMT"
     },
     {
-     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-     "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 19:11:30 GMT"
-    },
-    {
-     "title": "CrossCountry cancels 'almost all' UK services after power cut",
-     "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 14:05:16 GMT"
+     "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
+     "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 22 Aug 2026 08:37:16 GMT"
     }
    ]
   },
