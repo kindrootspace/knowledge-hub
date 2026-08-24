@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 10:04 UTC",
+ "updated": "2026-08-24 10:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Social media firms should remove dangerous driving videos, minister says",
      "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 09:48:43 GMT"
+     "date": "Mon, 24 Aug 2026 10:36:15 GMT"
     },
     {
      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
@@ -27,7 +27,7 @@
     {
      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 08:34:26 GMT"
+     "date": "Mon, 24 Aug 2026 10:08:40 GMT"
     },
     {
      "title": "Australian shark attack victim grateful for 'second chance at life'",
@@ -37,7 +37,7 @@
     {
      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
      "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 09:53:29 GMT"
+     "date": "Mon, 24 Aug 2026 10:13:58 GMT"
     },
     {
      "title": "Why is it so hard to find an NHS dentist? Find out how many have closed where you live",
@@ -49,6 +49,11 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:39:23 GMT"
+    },
     {
      "title": "Shein aims for almost $27bn valuation in stock market debut",
      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
@@ -83,17 +88,17 @@
      "title": "Struggling households need more help with bills, energy industry says",
      "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 10:11:21 GMT"
-    },
-    {
-     "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
-     "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 22 Aug 2026 08:37:16 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+     "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+     "date": "Mon, 24 Aug 2026 10:11:34 GMT"
+    },
     {
      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
      "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
@@ -113,11 +118,6 @@
      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
      "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
      "date": "Wed, 19 Aug 2026 20:17:39 GMT"
-    },
-    {
-     "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-     "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-     "date": "Wed, 19 Aug 2026 14:33:24 GMT"
     },
     {
      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "US threatens toughest sanctions yet against Iran: What we know",
+     "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 10:23:11 +0000"
+    },
+    {
+     "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+     "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 10:11:19 +0000"
+    },
+    {
+     "title": "US military says strike on alleged drug-smuggling boat kills two",
+     "link": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:58:03 +0000"
+    },
+    {
      "title": "Dozens of coordinated arson attacks carried out across Thailand",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 09:44:57 +0000"
@@ -208,27 +223,17 @@
      "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
      "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 09:11:46 +0000"
-    },
-    {
-     "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
-     "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:10:12 +0000"
-    },
-    {
-     "title": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:08:25 +0000"
-    },
-    {
-     "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
-     "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 08:45:10 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+     "link": "https://www.nature.com/articles/d41586-026-02572-8",
+     "date": ""
+    },
     {
      "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
      "link": "https://www.nature.com/articles/d41586-026-02616-z",
@@ -262,11 +267,6 @@
     {
      "title": "Hidden volcanoes hint at Moon’s turbulent past",
      "link": "https://www.nature.com/articles/d41586-026-02555-9",
-     "date": ""
-    },
-    {
-     "title": "To shield the fetus, link a protein to these drugs",
-     "link": "https://www.nature.com/articles/d41586-026-02553-x",
      "date": ""
     }
    ]
