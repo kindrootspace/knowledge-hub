@@ -1,18 +1,13 @@
 {
- "updated": "2026-08-24 05:54 UTC",
+ "updated": "2026-08-24 07:29 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
-     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:16:57 GMT"
-    },
-    {
      "title": "Families of two police officers killed in crash say they were heroes",
      "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:45:33 GMT"
+     "date": "Mon, 24 Aug 2026 07:18:06 GMT"
     },
     {
      "title": "How easy is it to find an NHS dentist? It depends where you live",
@@ -30,9 +25,9 @@
      "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
-     "title": "Reform says it will prioritise British-born young workers for social housing",
-     "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 21:07:47 GMT"
+     "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 03:55:35 GMT"
     },
     {
      "title": "Australian shark attack victim grateful for 'second chance at life'",
@@ -40,9 +35,14 @@
      "date": "Mon, 24 Aug 2026 05:31:53 GMT"
     },
     {
-     "title": "Review launched into how pub and hotel business rates calculated",
+     "title": "Pubs and hotels could see business rates reformed after review",
      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:26:15 GMT"
+    },
+    {
+     "title": "Reform says it will prioritise British-born young workers for social housing",
+     "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 21:07:47 GMT"
     }
    ]
   },
@@ -52,10 +52,10 @@
     {
      "title": "Shein aims for almost $27bn valuation in stock market debut",
      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:09:22 GMT"
+     "date": "Mon, 24 Aug 2026 07:00:53 GMT"
     },
     {
-     "title": "Review launched into how pub and hotel business rates calculated",
+     "title": "Pubs and hotels could see business rates reformed after review",
      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:26:15 GMT"
     },
@@ -75,9 +75,9 @@
      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
-     "title": "CrossCountry to provide full service on Monday",
+     "title": "CrossCountry train services resume after outage",
      "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 19:00:31 GMT"
+     "date": "Mon, 24 Aug 2026 06:41:05 GMT"
     },
     {
      "title": "Struggling households need more help with bills, energy industry says",
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
+     "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 06:55:58 +0000"
+    },
+    {
+     "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+     "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 06:30:37 +0000"
+    },
+    {
+     "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 06:18:32 +0000"
+    },
+    {
+     "title": "Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 06:09:24 +0000"
+    },
+    {
+     "title": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 06:08:15 +0000"
+    },
+    {
      "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 04:19:46 +0000"
@@ -198,31 +223,6 @@
      "title": "‘We know this movie’: Iran mocks latest US sanctions",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 04:02:14 +0000"
-    },
-    {
-     "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-     "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 03:56:59 +0000"
-    },
-    {
-     "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 02:55:39 +0000"
-    },
-    {
-     "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
-     "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 02:09:40 +0000"
-    },
-    {
-     "title": "Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives",
-     "link": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 02:02:28 +0000"
-    },
-    {
-     "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 01:51:40 +0000"
     }
    ]
   },
