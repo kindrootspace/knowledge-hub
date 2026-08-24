@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 22:44 UTC",
+ "updated": "2026-08-24 23:35 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Mon, 24 Aug 2026 17:29:59 GMT"
     },
     {
-     "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-     "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 15:14:14 GMT"
+     "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+     "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 22:13:20 GMT"
     },
     {
      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -30,19 +30,19 @@
      "date": "Mon, 24 Aug 2026 19:12:35 GMT"
     },
     {
-     "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
-     "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 19:43:51 GMT"
-    },
-    {
-     "title": "World's oceans hit highest temperature on record as El Niño grows",
-     "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 16:27:28 GMT"
+     "title": "The grieving family who says the coroner's courts aren't working",
+     "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 23:09:16 GMT"
     },
     {
      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 21:58:49 GMT"
+    },
+    {
+     "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+     "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 19:43:51 GMT"
     }
    ]
   },
@@ -50,9 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "New 10p coin enters circulation - will you spot one?",
+     "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 23:03:42 GMT"
+    },
+    {
      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 19:12:35 GMT"
+    },
+    {
+     "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+     "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 23:04:17 GMT"
     },
     {
      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
@@ -70,24 +80,14 @@
      "date": "Mon, 24 Aug 2026 16:50:47 GMT"
     },
     {
-     "title": "Shein aims for almost $27bn valuation in stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 07:00:53 GMT"
-    },
-    {
      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
      "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:25:44 GMT"
     },
     {
-     "title": "Manga-inspired theme park to be built near Paris",
-     "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 19:57:55 GMT"
-    },
-    {
-     "title": "Rail companies sued for £5m over oil spill caused by derailment",
-     "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 16:30:40 GMT"
+     "title": "Shein aims for almost $27bn valuation in stock market debut",
+     "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 07:00:53 GMT"
     }
    ]
   },
@@ -140,7 +140,7 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+     "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
      "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
      "date": "Mon, 24 Aug 2026 18:22:13 -0400"
     },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "How US sanctions on Iran ripple through global markets and consumers",
+     "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 22:46:02 +0000"
+    },
+    {
+     "title": "US Supreme Court sides with Trump administration on mail voting",
+     "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 22:40:04 +0000"
+    },
+    {
+     "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+     "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 22:32:26 +0000"
+    },
+    {
      "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
      "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 22:19:08 +0000"
@@ -208,66 +223,6 @@
      "title": "What’s behind domestic political pressure on Ukraine’s president?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 20:54:38 +0000"
-    },
-    {
-     "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:48:21 +0000"
-    },
-    {
-     "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
-     "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:48:09 +0000"
-    },
-    {
-     "title": "Ambush in South Sudan kills peacekeeping troops",
-     "link": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:47:24 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "The exoskeletons are coming (to a store near you)",
-     "link": "https://www.nature.com/articles/d41586-026-02641-y",
-     "date": ""
-    },
-    {
-     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-     "link": "https://www.nature.com/articles/d41586-026-02572-8",
-     "date": ""
-    },
-    {
-     "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-     "link": "https://www.nature.com/articles/d41586-026-02620-3",
-     "date": ""
-    },
-    {
-     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-     "link": "https://www.nature.com/articles/d41586-026-02616-z",
-     "date": ""
-    },
-    {
-     "title": "Can AI ever be conscious? The question stems from a misconception",
-     "link": "https://www.nature.com/articles/d41586-026-02571-9",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
     }
    ]
   }
