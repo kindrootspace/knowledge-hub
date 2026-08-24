@@ -1,16 +1,21 @@
 {
- "updated": "2026-08-24 09:04 UTC",
+ "updated": "2026-08-24 10:04 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Social media firms should remove dangerous driving videos, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 09:48:43 GMT"
+    },
     {
      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
-     "title": "Nearly three million Teslas recalled in China over hidden door handles",
+     "title": "Tesla recalls nearly three million cars in China over hidden door handles",
      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
@@ -30,19 +35,14 @@
      "date": "Mon, 24 Aug 2026 05:31:53 GMT"
     },
     {
-     "title": "How easy is it to find an NHS dentist? It depends where you live",
+     "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+     "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 09:53:29 GMT"
+    },
+    {
+     "title": "Why is it so hard to find an NHS dentist? Find out how many have closed where you live",
      "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:10:18 GMT"
-    },
-    {
-     "title": "UK's rarest bird of prey rears new chicks in secret location",
-     "link": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 08:31:48 GMT"
-    },
-    {
-     "title": "Pubs and hotels could see business rates reformed after review",
-     "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 07:32:06 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Pubs and hotels could see business rates reformed after review",
      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 07:32:06 GMT"
+     "date": "Mon, 24 Aug 2026 09:41:24 GMT"
     },
     {
      "title": "How to get £2,000 to play computer games at university",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+     "date": "Mon, 24 Aug 2026 05:36:13 -0400"
+    },
+    {
+     "title": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
+     "date": "Mon, 24 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
      "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
      "date": "Mon, 24 Aug 2026 04:53:36 -0400"
@@ -168,16 +178,6 @@
      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
      "date": "Sun, 23 Aug 2026 12:15:30 -0400"
-    },
-    {
-     "title": "Becerra, running for governor of California, faces a health insurance problem",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
-     "date": "Sun, 23 Aug 2026 08:50:09 -0400"
-    },
-    {
-     "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-     "date": "Sun, 23 Aug 2026 08:48:05 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
-     "link": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 08:29:54 +0000"
+     "title": "Dozens of coordinated arson attacks carried out across Thailand",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:44:57 +0000"
     },
     {
-     "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
-     "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 08:18:12 +0000"
+     "title": "Macron and MBS attend Esports World Cup closing ceremony",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:44:41 +0000"
     },
     {
-     "title": "Trabzonspor president reacts to Salah disallowed hat-trick goal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 07:43:09 +0000"
+     "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:33:07 +0000"
     },
     {
-     "title": "How much more are you spending on petrol since the war on Iran began?",
-     "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 07:26:15 +0000"
+     "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:29:26 +0000"
     },
     {
-     "title": "EU, Russian aircraft help Serbia battle wildfires",
-     "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 07:19:32 +0000"
+     "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:11:46 +0000"
     },
     {
-     "title": "The right to health in Gaza is now a privilege",
-     "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 07:08:07 +0000"
+     "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+     "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:10:12 +0000"
     },
     {
-     "title": "Canada-US trade war: Who wins? Who loses?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 07:00:00 +0000"
+     "title": "Mercedes no longer have the fastest car in F1, says leader Antonelli",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/mercedes-no-longer-have-the-fastest-car-in-f1-says-leader-antonelli?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 09:08:25 +0000"
     },
     {
-     "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
-     "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 06:55:58 +0000"
+     "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+     "link": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 08:45:10 +0000"
     }
    ]
   },
