@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-24 11:44 UTC",
+ "updated": "2026-08-24 13:13 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Social media firms should remove dangerous driving videos, minister says",
+     "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
      "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:36:15 GMT"
+     "date": "Mon, 24 Aug 2026 12:28:16 GMT"
     },
     {
      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
@@ -15,7 +15,7 @@
      "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
-     "title": "Graduate job vacancies drop by almost 50% in a year",
+     "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 10:55:47 GMT"
     },
@@ -25,14 +25,14 @@
      "date": "Mon, 24 Aug 2026 05:15:25 GMT"
     },
     {
-     "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-     "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 11:25:21 GMT"
+     "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+     "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:13:58 GMT"
     },
     {
-     "title": "Mother, grandmother and stepfather sentenced for 'house of terror' abuse",
+     "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
      "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 11:15:23 GMT"
+     "date": "Mon, 24 Aug 2026 12:38:14 GMT"
     },
     {
      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -55,7 +55,7 @@
      "date": "Mon, 24 Aug 2026 10:39:23 GMT"
     },
     {
-     "title": "Graduate job vacancies drop by almost 50% in a year",
+     "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 10:55:47 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+     "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+     "date": "Mon, 24 Aug 2026 08:26:00 -0400"
+    },
+    {
      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
      "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
      "date": "Mon, 24 Aug 2026 07:27:44 -0400"
@@ -173,11 +178,6 @@
      "title": "Learning to live in a post-American world",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
      "date": "Sun, 23 Aug 2026 17:21:23 -0400"
-    },
-    {
-     "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
-     "date": "Sun, 23 Aug 2026 12:55:37 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
-     "link": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 10:53:21 +0000"
+     "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 13:02:44 +0000"
     },
     {
-     "title": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
-     "link": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 10:42:16 +0000"
+     "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
+     "link": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 12:59:55 +0000"
     },
     {
-     "title": "US threatens toughest sanctions yet against Iran: What we know",
-     "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 10:23:11 +0000"
+     "title": "Four arrested over fatal shooting of South African boxer Zolani Tete",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 12:48:53 +0000"
     },
     {
-     "title": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
-     "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 10:11:19 +0000"
+     "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+     "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 12:28:26 +0000"
     },
     {
-     "title": "US military says strike on alleged drug-smuggling boat kills two",
-     "link": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:58:03 +0000"
+     "title": "Activists occupy UK aircraft parts factory over Israel links",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 12:07:44 +0000"
     },
     {
-     "title": "Dozens of coordinated arson attacks carried out across Thailand",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:44:57 +0000"
+     "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 12:04:46 +0000"
     },
     {
-     "title": "Macron and MBS attend Esports World Cup closing ceremony",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:44:41 +0000"
+     "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+     "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 11:57:26 +0000"
     },
     {
-     "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:33:07 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-     "link": "https://www.nature.com/articles/d41586-026-02572-8",
-     "date": ""
-    },
-    {
-     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-     "link": "https://www.nature.com/articles/d41586-026-02616-z",
-     "date": ""
-    },
-    {
-     "title": "Can AI ever be conscious? The question stems from a misconception",
-     "link": "https://www.nature.com/articles/d41586-026-02571-9",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
-     "date": ""
-    },
-    {
-     "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-     "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
+     "title": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 11:54:30 +0000"
     }
    ]
   }
