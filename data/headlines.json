@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-24 17:47 UTC",
+ "updated": "2026-08-24 18:59 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+     "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 17:53:40 GMT"
+    },
     {
      "title": "How the deadly A66 crash unfolded leaving seven dead",
      "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
@@ -20,14 +25,9 @@
      "date": "Mon, 24 Aug 2026 15:14:14 GMT"
     },
     {
-     "title": "Snooker champion Graeme Dott guilty of child sex abuse",
-     "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 17:35:35 GMT"
-    },
-    {
-     "title": "Prince Harry steps down from African wildlife charity board",
-     "link": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 15:28:06 GMT"
+     "title": "Police pass Mohamed Al Fayed case file to prosecutors",
+     "link": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 18:20:37 GMT"
     },
     {
      "title": "World's oceans hit highest temperature on record as El Niño grows",
@@ -35,14 +35,14 @@
      "date": "Mon, 24 Aug 2026 16:27:28 GMT"
     },
     {
-     "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
-     "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:13:58 GMT"
-    },
-    {
      "title": "Briton fighting for Russia killed in Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 16:17:54 GMT"
+    },
+    {
+     "title": "Prince Harry steps down from African wildlife charity board",
+     "link": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 15:28:06 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 13:35:07 GMT"
+     "date": "Mon, 24 Aug 2026 18:39:53 GMT"
     },
     {
      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
@@ -95,9 +95,9 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+     "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
      "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-     "date": "Mon, 24 Aug 2026 16:40:37 GMT"
+     "date": "Mon, 24 Aug 2026 17:34:50 GMT"
     },
     {
      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
@@ -120,6 +120,11 @@
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
+     "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+     "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+     "date": "Mon, 24 Aug 2026 18:22:14 GMT"
+    },
+    {
      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
      "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
      "date": "Sun, 23 Aug 2026 19:32:59 GMT"
@@ -128,11 +133,6 @@
      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
      "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
      "date": "Sun, 23 Aug 2026 17:24:46 GMT"
-    },
-    {
-     "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-     "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "date": "Sat, 22 Aug 2026 14:04:57 GMT"
     }
    ]
   },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
+     "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 18:46:09 +0000"
+    },
+    {
+     "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
+     "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 18:22:18 +0000"
+    },
+    {
+     "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
+     "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 18:02:50 +0000"
+    },
+    {
+     "title": "Trump administration announces global economic war on Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 17:53:00 +0000"
+    },
+    {
      "title": "Japanese delegation seeks to soothe strained ties with China",
      "link": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 17:16:10 +0000"
@@ -203,26 +223,6 @@
      "title": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
      "link": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 16:59:47 +0000"
-    },
-    {
-     "title": "Former snooker world champion Graeme Dott convicted of child sex abuse",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 16:35:57 +0000"
-    },
-    {
-     "title": "Israeli strike on Gaza shelter extends casualty list",
-     "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 16:27:36 +0000"
-    },
-    {
-     "title": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 16:21:55 +0000"
-    },
-    {
-     "title": "England drop fast bowler Bryden Carse amid investigation into club incident",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 16:05:43 +0000"
     }
    ]
   },
