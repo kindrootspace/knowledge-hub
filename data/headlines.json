@@ -1,18 +1,13 @@
 {
- "updated": "2026-08-24 07:29 UTC",
+ "updated": "2026-08-24 09:04 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Families of two police officers killed in crash say they were heroes",
-     "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 07:18:06 GMT"
-    },
-    {
-     "title": "How easy is it to find an NHS dentist? It depends where you live",
-     "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:10:18 GMT"
+     "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+     "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
      "title": "Nearly three million Teslas recalled in China over hidden door handles",
@@ -20,14 +15,14 @@
      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
-     "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-     "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:00:22 GMT"
+     "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+     "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 05:15:25 GMT"
     },
     {
-     "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 03:55:35 GMT"
+     "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+     "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 08:34:26 GMT"
     },
     {
      "title": "Australian shark attack victim grateful for 'second chance at life'",
@@ -35,14 +30,19 @@
      "date": "Mon, 24 Aug 2026 05:31:53 GMT"
     },
     {
-     "title": "Pubs and hotels could see business rates reformed after review",
-     "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:26:15 GMT"
+     "title": "How easy is it to find an NHS dentist? It depends where you live",
+     "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 23 Aug 2026 23:10:18 GMT"
     },
     {
-     "title": "Reform says it will prioritise British-born young workers for social housing",
-     "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 21:07:47 GMT"
+     "title": "UK's rarest bird of prey rears new chicks in secret location",
+     "link": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 08:31:48 GMT"
+    },
+    {
+     "title": "Pubs and hotels could see business rates reformed after review",
+     "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 07:32:06 GMT"
     }
    ]
   },
@@ -57,10 +57,10 @@
     {
      "title": "Pubs and hotels could see business rates reformed after review",
      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:26:15 GMT"
+     "date": "Mon, 24 Aug 2026 07:32:06 GMT"
     },
     {
-     "title": "Why students are being paid £2,000 to play computer games",
+     "title": "How to get £2,000 to play computer games at university",
      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:23:55 GMT"
     },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
+     "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
+     "date": "Mon, 24 Aug 2026 04:53:36 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
+     "date": "Mon, 24 Aug 2026 04:46:05 -0400"
+    },
+    {
      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
      "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
      "date": "Sun, 23 Aug 2026 23:47:04 -0400"
@@ -168,16 +178,6 @@
      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
      "date": "Sun, 23 Aug 2026 08:48:05 -0400"
-    },
-    {
-     "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
-     "date": "Sun, 23 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-     "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-     "date": "Sat, 22 Aug 2026 16:53:19 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
+     "link": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 08:29:54 +0000"
+    },
+    {
+     "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+     "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 08:18:12 +0000"
+    },
+    {
+     "title": "Trabzonspor president reacts to Salah disallowed hat-trick goal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trabzonspor-president-reacts-to-salah-disallowed-hat-trick-goal?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 07:43:09 +0000"
+    },
+    {
+     "title": "How much more are you spending on petrol since the war on Iran began?",
+     "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 07:26:15 +0000"
+    },
+    {
+     "title": "EU, Russian aircraft help Serbia battle wildfires",
+     "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 07:19:32 +0000"
+    },
+    {
+     "title": "The right to health in Gaza is now a privilege",
+     "link": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 07:08:07 +0000"
+    },
+    {
+     "title": "Canada-US trade war: Who wins? Who loses?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 07:00:00 +0000"
+    },
+    {
      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
      "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 06:55:58 +0000"
-    },
-    {
-     "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
-     "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 06:30:37 +0000"
-    },
-    {
-     "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 06:18:32 +0000"
-    },
-    {
-     "title": "Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 06:09:24 +0000"
-    },
-    {
-     "title": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 06:08:15 +0000"
-    },
-    {
-     "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 04:19:46 +0000"
-    },
-    {
-     "title": "Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 04:18:16 +0000"
-    },
-    {
-     "title": "‘We know this movie’: Iran mocks latest US sanctions",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 04:02:14 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+     "link": "https://www.nature.com/articles/d41586-026-02616-z",
+     "date": ""
+    },
     {
      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
      "link": "https://www.nature.com/articles/d41586-026-02626-x",
@@ -262,11 +267,6 @@
     {
      "title": "To shield the fetus, link a protein to these drugs",
      "link": "https://www.nature.com/articles/d41586-026-02553-x",
-     "date": ""
-    },
-    {
-     "title": "Astronaut vest cuts radiation exposure in half",
-     "link": "https://www.nature.com/articles/d41586-026-02556-8",
      "date": ""
     }
    ]
