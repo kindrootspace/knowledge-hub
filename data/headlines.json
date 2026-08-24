@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 20:48 UTC",
+ "updated": "2026-08-24 21:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -55,6 +55,11 @@
      "date": "Mon, 24 Aug 2026 19:12:35 GMT"
     },
     {
+     "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+     "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 21:20:48 GMT"
+    },
+    {
      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 16:50:47 GMT"
@@ -83,11 +88,6 @@
      "title": "Pubs and hotels could see business rates reformed after review",
      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 09:41:24 GMT"
-    },
-    {
-     "title": "How to get £2,000 to play computer games at university",
-     "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:23:55 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+     "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+     "date": "Mon, 24 Aug 2026 16:53:45 -0400"
+    },
+    {
      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
      "date": "Mon, 24 Aug 2026 08:26:00 -0400"
@@ -173,17 +178,42 @@
      "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
      "date": "Mon, 24 Aug 2026 04:45:44 -0400"
-    },
-    {
-     "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-     "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-     "date": "Sun, 23 Aug 2026 23:47:04 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 21:12:06 +0000"
+    },
+    {
+     "title": "What’s behind domestic political pressure on Ukraine’s president?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:54:38 +0000"
+    },
+    {
+     "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:48:21 +0000"
+    },
+    {
+     "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
+     "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:48:09 +0000"
+    },
+    {
+     "title": "Ambush in South Sudan kills peacekeeping troops",
+     "link": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:47:24 +0000"
+    },
+    {
+     "title": "Displaced Palestinian builds mud shelter as tents offer little relief",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:45:51 +0000"
+    },
     {
      "title": "Violence flares in Haiti as gang attack kills 30 people",
      "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
      "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 20:03:48 +0000"
-    },
-    {
-     "title": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
-     "link": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 20:00:18 +0000"
-    },
-    {
-     "title": "Mexico’s Sheinbaum condemns governor’s return amid US drug charges",
-     "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 19:46:42 +0000"
-    },
-    {
-     "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
-     "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 19:44:23 +0000"
-    },
-    {
-     "title": "Video: Israel attacks desalination plant and mosque in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 19:21:01 +0000"
-    },
-    {
-     "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 19:18:00 +0000"
-    },
-    {
-     "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 19:09:45 +0000"
     }
    ]
   },
