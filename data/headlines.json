@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 10:54 UTC",
+ "updated": "2026-08-24 11:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,9 +15,9 @@
      "date": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
-     "title": "Tesla recalls nearly three million cars in China over hidden door handles",
-     "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:01:17 GMT"
+     "title": "Graduate job vacancies drop by almost 50% in a year",
+     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:55:47 GMT"
     },
     {
      "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
@@ -27,22 +27,22 @@
     {
      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:08:40 GMT"
+     "date": "Mon, 24 Aug 2026 11:25:21 GMT"
     },
     {
-     "title": "Australian shark attack victim grateful for 'second chance at life'",
-     "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 05:31:53 GMT"
+     "title": "Mother, grandmother and stepfather sentenced for 'house of terror' abuse",
+     "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 11:15:23 GMT"
     },
     {
-     "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
-     "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 10:13:58 GMT"
+     "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+     "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:40:22 GMT"
     },
     {
-     "title": "Why is it so hard to find an NHS dentist? Find out how many have closed where you live",
-     "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 23:10:18 GMT"
+     "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:39:23 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Iran faces 'economic D-Day', US Treasury Secretary warns",
+     "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 10:39:23 GMT"
+    },
+    {
+     "title": "Graduate job vacancies drop by almost 50% in a year",
+     "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 10:55:47 GMT"
     },
     {
      "title": "Shein aims for almost $27bn valuation in stock market debut",
@@ -75,19 +80,14 @@
      "date": "Sun, 23 Aug 2026 23:25:44 GMT"
     },
     {
+     "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+     "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 09:47:22 GMT"
+    },
+    {
      "title": "Nearly three million Teslas recalled in China over hidden door handles",
      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 05:01:17 GMT"
-    },
-    {
-     "title": "CrossCountry train services resume after outage",
-     "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 06:41:05 GMT"
-    },
-    {
-     "title": "Struggling households need more help with bills, energy industry says",
-     "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 23 Aug 2026 10:11:21 GMT"
     }
    ]
   },
@@ -140,12 +140,17 @@
    "name": "NPR",
    "items": [
     {
+     "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+     "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+     "date": "Mon, 24 Aug 2026 07:27:44 -0400"
+    },
+    {
      "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
      "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
      "date": "Mon, 24 Aug 2026 05:36:13 -0400"
     },
     {
-     "title": "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
+     "title": "In candid interviews, National Guard members speak out about D.C. deployment",
      "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
      "date": "Mon, 24 Aug 2026 05:00:00 -0400"
     },
@@ -173,17 +178,22 @@
      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
      "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
      "date": "Sun, 23 Aug 2026 12:55:37 -0400"
-    },
-    {
-     "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-     "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-     "date": "Sun, 23 Aug 2026 12:15:30 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
+     "link": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 10:53:21 +0000"
+    },
+    {
+     "title": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
+     "link": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 10:42:16 +0000"
+    },
     {
      "title": "US threatens toughest sanctions yet against Iran: What we know",
      "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
@@ -213,16 +223,6 @@
      "title": "Give Imran Khan proper medical care, cricket legends urge Pakistani gov’t",
      "link": "https://www.aljazeera.com/sports/2026/8/24/give-imran-khan-proper-medical-care-cricket-legends-urge-pakistani-govt?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 09:33:07 +0000"
-    },
-    {
-     "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:29:26 +0000"
-    },
-    {
-     "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-     "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 09:11:46 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
      "link": "https://www.nature.com/articles/d41586-026-02616-z",
+     "date": ""
+    },
+    {
+     "title": "Can AI ever be conscious? The question stems from a misconception",
+     "link": "https://www.nature.com/articles/d41586-026-02571-9",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
      "link": "https://www.nature.com/articles/s41586-026-11043-z",
-     "date": ""
-    },
-    {
-     "title": "Hidden volcanoes hint at Moon’s turbulent past",
-     "link": "https://www.nature.com/articles/d41586-026-02555-9",
      "date": ""
     }
    ]
