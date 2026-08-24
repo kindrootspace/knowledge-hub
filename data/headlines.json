@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 19:45 UTC",
+ "updated": "2026-08-24 20:48 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -65,14 +65,14 @@
      "date": "Mon, 24 Aug 2026 07:00:53 GMT"
     },
     {
-     "title": "Pubs and hotels could see business rates reformed after review",
-     "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 09:41:24 GMT"
-    },
-    {
      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
      "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:25:44 GMT"
+    },
+    {
+     "title": "Manga-inspired theme park to be built near Paris",
+     "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 19:57:55 GMT"
     },
     {
      "title": "Rail companies sued for £5m over oil spill caused by derailment",
@@ -80,14 +80,14 @@
      "date": "Mon, 24 Aug 2026 16:30:40 GMT"
     },
     {
+     "title": "Pubs and hotels could see business rates reformed after review",
+     "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 09:41:24 GMT"
+    },
+    {
      "title": "How to get £2,000 to play computer games at university",
      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 23 Aug 2026 23:23:55 GMT"
-    },
-    {
-     "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-     "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 09:47:22 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
+     "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+     "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+     "date": "Mon, 24 Aug 2026 20:23:26 GMT"
+    },
+    {
      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
      "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
      "date": "Mon, 24 Aug 2026 18:55:43 GMT"
@@ -128,11 +133,6 @@
      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
      "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
      "date": "Mon, 24 Aug 2026 18:22:14 GMT"
-    },
-    {
-     "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-     "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-     "date": "Sun, 23 Aug 2026 19:32:59 GMT"
     }
    ]
   },
@@ -140,7 +140,7 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
+     "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
      "date": "Mon, 24 Aug 2026 08:26:00 -0400"
     },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Violence flares in Haiti as gang attack kills 30 people",
+     "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:23:39 +0000"
+    },
+    {
+     "title": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
+     "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:03:48 +0000"
+    },
+    {
+     "title": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
+     "link": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 20:00:18 +0000"
+    },
+    {
+     "title": "Mexico’s Sheinbaum condemns governor’s return amid US drug charges",
+     "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 19:46:42 +0000"
+    },
+    {
+     "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
+     "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+     "date": "Mon, 24 Aug 2026 19:44:23 +0000"
+    },
+    {
      "title": "Video: Israel attacks desalination plant and mosque in Gaza",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 19:21:01 +0000"
@@ -198,31 +223,6 @@
      "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
      "date": "Mon, 24 Aug 2026 19:09:45 +0000"
-    },
-    {
-     "title": "Israel threatens attacks in Gaza over children’s kites",
-     "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 19:00:55 +0000"
-    },
-    {
-     "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
-     "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 18:46:09 +0000"
-    },
-    {
-     "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
-     "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 18:22:18 +0000"
-    },
-    {
-     "title": "Kidnappers release video showing hundreds abducted from Nigerian mosque",
-     "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 18:02:50 +0000"
-    },
-    {
-     "title": "Trump administration announces global economic war on Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-     "date": "Mon, 24 Aug 2026 17:53:00 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "Frontier-technology markets are too narrow — here’s how to widen them",
      "link": "https://www.nature.com/articles/d41586-026-02572-8",
+     "date": ""
+    },
+    {
+     "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
+     "link": "https://www.nature.com/articles/d41586-026-02620-3",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
      "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
-    },
-    {
-     "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-     "link": "https://www.nature.com/articles/d41586-026-02352-4",
      "date": ""
     }
    ]
