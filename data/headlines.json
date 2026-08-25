@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 22:45 UTC",
+ "updated": "2026-08-25 23:38 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -50,6 +50,21 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Winter energy prices expected to rise to three-year high",
+     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:07:29 GMT"
+    },
+    {
+     "title": "Back to school: How to save on uniform costs",
+     "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:08:31 GMT"
+    },
+    {
+     "title": "AI gold rush draws crypto firms away from Bitcoin",
+     "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:11:02 GMT"
+    },
+    {
      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 08:08:26 GMT"
@@ -60,6 +75,11 @@
      "date": "Tue, 25 Aug 2026 15:04:52 GMT"
     },
     {
+     "title": "Firms scramble for battery power in Spain and Portugal",
+     "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:09:31 GMT"
+    },
+    {
      "title": "Burnham refuses to rule out tax rises in autumn Budget",
      "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 06:40:33 GMT"
@@ -68,26 +88,6 @@
      "title": "New 10p coin enters circulation - will you spot one?",
      "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 23:03:42 GMT"
-    },
-    {
-     "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-     "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 23:04:17 GMT"
-    },
-    {
-     "title": "OnlyFans owner was paid over $700m before his death",
-     "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 10:09:00 GMT"
-    },
-    {
-     "title": "How Canada could hit back to hurt the US economy - and Trump",
-     "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 02:49:22 GMT"
-    },
-    {
-     "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-     "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 12:10:13 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
+     "title": "Wife of US soldier deported after Trump rollback on military family protections",
+     "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
+     "date": "Tue, 25 Aug 2026 20:23:55 GMT"
+    },
+    {
      "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
      "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
      "date": "Tue, 25 Aug 2026 17:35:16 GMT"
@@ -128,11 +133,6 @@
      "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
      "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
      "date": "Tue, 25 Aug 2026 12:31:53 GMT"
-    },
-    {
-     "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
-     "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
-     "date": "Tue, 25 Aug 2026 00:34:47 GMT"
     }
    ]
   },
@@ -140,7 +140,12 @@
    "name": "NPR",
    "items": [
     {
-     "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
+     "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+     "date": "Tue, 25 Aug 2026 18:50:57 -0400"
+    },
+    {
+     "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
      "date": "Tue, 25 Aug 2026 16:47:54 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
      "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
      "date": "Tue, 25 Aug 2026 07:09:01 -0400"
-    },
-    {
-     "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
-     "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
-     "date": "Tue, 25 Aug 2026 06:30:00 -0400"
     }
    ]
   },
