@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 07:58 UTC",
+ "updated": "2026-08-25 09:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,12 @@
     {
      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 06:54:46 GMT"
+     "date": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 07:36:13 GMT"
+     "date": "Tue, 25 Aug 2026 08:25:36 GMT"
     },
     {
      "title": "Lockerbie bombing trial postponed days before it was due to start",
@@ -30,9 +30,9 @@
      "date": "Mon, 24 Aug 2026 23:09:16 GMT"
     },
     {
-     "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-     "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 04:06:34 GMT"
+     "title": "Moment tornado tears through southern France",
+     "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 00:16:35 GMT"
     },
     {
      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
@@ -50,6 +50,11 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 08:08:26 GMT"
+    },
+    {
      "title": "Burnham refuses to rule out tax rises in autumn Budget",
      "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 06:40:33 GMT"
@@ -65,11 +70,6 @@
      "date": "Tue, 25 Aug 2026 02:49:22 GMT"
     },
     {
-     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 06:54:46 GMT"
-    },
-    {
      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 23:04:17 GMT"
@@ -82,7 +82,7 @@
     {
      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 07:36:13 GMT"
+     "date": "Tue, 25 Aug 2026 08:25:36 GMT"
     },
     {
      "title": "Songs created by AI banned from Australia's music charts",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
+     "date": "Tue, 25 Aug 2026 04:44:36 -0400"
+    },
+    {
      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
      "date": "Tue, 25 Aug 2026 01:24:16 -0400"
@@ -173,17 +178,42 @@
      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
      "date": "Mon, 24 Aug 2026 08:26:00 -0400"
-    },
-    {
-     "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-     "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-     "date": "Mon, 24 Aug 2026 07:27:44 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Pakistan says significant progress made in talks on Iran-US war",
+     "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 08:32:52 +0000"
+    },
+    {
+     "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 08:24:13 +0000"
+    },
+    {
+     "title": "Global ocean temperatures hit record high as El Nino intensifies",
+     "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 08:10:10 +0000"
+    },
+    {
+     "title": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 07:50:26 +0000"
+    },
+    {
+     "title": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+     "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 07:46:56 +0000"
+    },
+    {
+     "title": "Federer to play tennis at US Open but rules out Williams-like return",
+     "link": "https://www.aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 07:45:34 +0000"
+    },
     {
      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
      "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
@@ -193,81 +223,6 @@
      "title": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
      "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 06:32:43 +0000"
-    },
-    {
-     "title": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 06:12:43 +0000"
-    },
-    {
-     "title": "Libya factions draft initial election pact amid lingering mistrust",
-     "link": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 06:10:49 +0000"
-    },
-    {
-     "title": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
-     "link": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 06:00:38 +0000"
-    },
-    {
-     "title": "Two US carrier groups in Middle East strain navy resources",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 05:19:24 +0000"
-    },
-    {
-     "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 05:09:25 +0000"
-    },
-    {
-     "title": "Syrian president thanks nation for getting off US state terror list",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 04:38:24 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "The exoskeletons are coming (to a store near you)",
-     "link": "https://www.nature.com/articles/d41586-026-02641-y",
-     "date": ""
-    },
-    {
-     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-     "link": "https://www.nature.com/articles/d41586-026-02572-8",
-     "date": ""
-    },
-    {
-     "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-     "link": "https://www.nature.com/articles/d41586-026-02620-3",
-     "date": ""
-    },
-    {
-     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-     "link": "https://www.nature.com/articles/d41586-026-02616-z",
-     "date": ""
-    },
-    {
-     "title": "Can AI ever be conscious? The question stems from a misconception",
-     "link": "https://www.nature.com/articles/d41586-026-02571-9",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02626-x",
-     "date": ""
-    },
-    {
-     "title": "Earth-shaking thunder probes underground geology",
-     "link": "https://www.nature.com/articles/d41586-026-02596-0",
-     "date": ""
-    },
-    {
-     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-     "link": "https://www.nature.com/articles/d41586-026-02566-6",
-     "date": ""
     }
    ]
   }
