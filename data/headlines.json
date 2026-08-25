@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 21:44 UTC",
+ "updated": "2026-08-25 22:45 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -141,7 +141,7 @@
    "items": [
     {
      "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-u-s-senate-runoff-election-will-test-trumps-endorsement",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
      "date": "Tue, 25 Aug 2026 16:47:54 -0400"
     },
     {
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Brazil fines TikTok $30m for child data privacy violations",
+     "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 22:06:49 +0000"
+    },
+    {
+     "title": "Why can’t America agree on what time it is?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 22:05:42 +0000"
+    },
+    {
+     "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+     "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 21:32:00 +0000"
+    },
+    {
+     "title": "Who was the ‘Queen of Country’ Dolly Parton?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 21:29:11 +0000"
+    },
+    {
+     "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+     "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 21:26:25 +0000"
+    },
+    {
      "title": "US soldier who called for Trump impeachment facing military charges",
      "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 21:16:43 +0000"
@@ -198,31 +223,6 @@
      "title": "Syrian Democratic Forces announce their dissolution",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 21:09:05 +0000"
-    },
-    {
-     "title": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 20:41:50 +0000"
-    },
-    {
-     "title": "Nigeria launches operation to rescue 600 kidnapped victims",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 20:37:42 +0000"
-    },
-    {
-     "title": "New US sanctions signal Trump desperation on Iran, experts say",
-     "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 20:34:49 +0000"
-    },
-    {
-     "title": "Dolly Parton, beloved US country music icon, dies at 80",
-     "link": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 20:14:21 +0000"
-    },
-    {
-     "title": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 20:08:41 +0000"
     }
    ]
   },
