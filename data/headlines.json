@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-25 13:11 UTC",
+ "updated": "2026-08-25 14:04 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Five more arrests in wrong-way crash investigation",
+     "title": "Dad's house rammed before son died in A66 crash",
      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 13:05:25 GMT"
+     "date": "Tue, 25 Aug 2026 14:01:21 GMT"
     },
     {
      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -22,7 +22,7 @@
     {
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 12:52:58 GMT"
+     "date": "Tue, 25 Aug 2026 13:44:52 GMT"
     },
     {
      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
@@ -35,9 +35,9 @@
      "date": "Tue, 25 Aug 2026 11:05:37 GMT"
     },
     {
-     "title": "Moment tornado tears through southern France",
-     "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 00:16:35 GMT"
+     "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
+     "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 14:01:50 GMT"
     },
     {
      "title": "Boy, 3, injured in crocodile attack returns home from hospital",
@@ -120,7 +120,7 @@
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
-     "title": "First Thing: Supreme court threatens midterms mail-in voting as it backs Trump plan",
+     "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
      "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
      "date": "Tue, 25 Aug 2026 12:31:53 GMT"
     },
@@ -155,13 +155,13 @@
      "date": "Tue, 25 Aug 2026 05:07:09 -0400"
     },
     {
-     "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+     "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+     "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
@@ -170,13 +170,13 @@
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+     "title": "Did climate change cause this heat wave? Most likely, and here's why",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Did climate change cause this heat wave? Most likely, and here's why",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+     "title": "When is suspending students discrimination? Education Department renews an old fight",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,31 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+     "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 13:10:24 +0000"
+    },
+    {
+     "title": "‘We can’t breathe’: Indonesians battle wildfire haze",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 13:01:17 +0000"
+    },
+    {
+     "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+     "link": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:59:32 +0000"
+    },
+    {
+     "title": "What to expect in elections in South Carolina, Georgia and Oklahoma",
+     "link": "https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:58:23 +0000"
+    },
+    {
+     "title": "Tottenham sign Brazilian winger Savinho from Manchester City",
+     "link": "https://www.aljazeera.com/sports/2026/8/25/tottenham-sign-brazilian-winger-savinho-from-manchester-city?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:48:38 +0000"
+    },
     {
      "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
      "link": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 12:17:56 +0000"
-    },
-    {
-     "title": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
-     "link": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 12:15:19 +0000"
-    },
-    {
-     "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
-     "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 11:53:03 +0000"
-    },
-    {
-     "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-     "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 11:52:40 +0000"
-    },
-    {
-     "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
-     "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 11:46:13 +0000"
-    },
-    {
-     "title": "How the US sanctions on Iran impact China",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 11:30:08 +0000"
     }
    ]
   },
