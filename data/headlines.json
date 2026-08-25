@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 15:05 UTC",
+ "updated": "2026-08-25 16:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Father's house rammed before son died in A66 crash",
      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 14:10:14 GMT"
+     "date": "Tue, 25 Aug 2026 15:26:11 GMT"
     },
     {
      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -15,14 +15,19 @@
      "date": "Tue, 25 Aug 2026 11:53:36 GMT"
     },
     {
-     "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-     "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 12:37:53 GMT"
+     "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+     "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 15:04:52 GMT"
     },
     {
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 13:44:52 GMT"
+    },
+    {
+     "title": "CIA chief in Moscow for unannounced talks, US media reports",
+     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 15:43:50 GMT"
     },
     {
      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
@@ -38,11 +43,6 @@
      "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
      "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 14:42:17 GMT"
-    },
-    {
-     "title": "Boy, 3, injured in crocodile attack returns home from hospital",
-     "link": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 10:48:09 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 08:08:26 GMT"
+    },
+    {
+     "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+     "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 15:04:52 GMT"
     },
     {
      "title": "Burnham refuses to rule out tax rises in autumn Budget",
@@ -70,24 +75,19 @@
      "date": "Tue, 25 Aug 2026 10:09:00 GMT"
     },
     {
-     "title": "How Canada could hit back to hurt the US economy - and Trump",
-     "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 02:49:22 GMT"
-    },
-    {
      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 23:04:17 GMT"
     },
     {
+     "title": "How Canada could hit back to hurt the US economy - and Trump",
+     "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 02:49:22 GMT"
+    },
+    {
      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 12:10:13 GMT"
-    },
-    {
-     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-     "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 02:51:53 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+     "date": "Tue, 25 Aug 2026 11:20:18 -0400"
+    },
+    {
+     "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
+     "link": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
+     "date": "Tue, 25 Aug 2026 10:59:12 -0400"
+    },
+    {
      "title": "Several states will decide voter ID ballot measures this year",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
      "date": "Tue, 25 Aug 2026 10:40:36 -0400"
@@ -168,16 +178,6 @@
      "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Did climate change cause this heat wave? Most likely, and here's why",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "When is suspending students discrimination? Education Department renews an old fight",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "China says will safeguard its own interests as US expands Iran sanctions",
-     "link": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 14:43:12 +0000"
+     "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
+     "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:52:42 +0000"
     },
     {
-     "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-     "link": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 14:17:06 +0000"
+     "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+     "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:42:43 +0000"
     },
     {
-     "title": "US military transport plane arrives in Moscow in rare occurrence",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 14:16:10 +0000"
+     "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
+     "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:42:21 +0000"
     },
     {
-     "title": "How can a heavily indebted football club afford Mo Salah?",
-     "link": "https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 14:14:39 +0000"
+     "title": "Nine years of Rohingya refugee crisis",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:24:31 +0000"
     },
     {
-     "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
-     "link": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 14:04:44 +0000"
+     "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:23:17 +0000"
     },
     {
-     "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 13:42:14 +0000"
+     "title": "Qatar says US sanctions on Iran are unilateral",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:17:05 +0000"
     },
     {
-     "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
-     "link": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 13:26:22 +0000"
+     "title": "US launches Economic war on Iran",
+     "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:12:00 +0000"
     },
     {
-     "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
-     "link": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 13:25:21 +0000"
+     "title": "One year since Gaza journalist killed by Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 15:09:10 +0000"
     }
    ]
   },
