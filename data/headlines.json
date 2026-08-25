@@ -1,28 +1,23 @@
 {
- "updated": "2026-08-25 04:01 UTC",
+ "updated": "2026-08-25 04:54 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "More than 70,000 social and affordable homes to be built across England as part of £39bn plan",
+     "title": "More than 70,000 social and affordable homes to be built across England",
      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 00:32:20 GMT"
     },
     {
-     "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-     "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 17:53:40 GMT"
+     "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 03:50:06 GMT"
     },
     {
-     "title": "How the deadly A66 crash unfolded leaving seven dead",
-     "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 16:55:42 GMT"
-    },
-    {
-     "title": "UK drone factories may face attacks from 'unknown sources' Putin advisor tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 03:51:09 GMT"
+     "title": "Lockerbie bombing trial postponed days before it was due to start",
+     "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 22:13:36 GMT"
     },
     {
      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
@@ -30,9 +25,9 @@
      "date": "Mon, 24 Aug 2026 22:13:20 GMT"
     },
     {
-     "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 03:50:06 GMT"
+     "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+     "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 04:06:34 GMT"
     },
     {
      "title": "The grieving family who says the coroner's courts aren't working",
@@ -43,6 +38,11 @@
      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 21:58:49 GMT"
+    },
+    {
+     "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+     "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 17:53:40 GMT"
     }
    ]
   },
@@ -75,7 +75,7 @@
      "date": "Mon, 24 Aug 2026 23:04:17 GMT"
     },
     {
-     "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 02:51:53 GMT"
     },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Syrian president thanks nation for getting off US state terror list",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 04:38:24 +0000"
+    },
+    {
+     "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+     "link": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 04:38:20 +0000"
+    },
+    {
+     "title": "Rare tornado near Carcassonne in France causes damage and injuries",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 03:56:30 +0000"
+    },
+    {
      "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
      "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 02:54:40 +0000"
@@ -208,21 +223,51 @@
      "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 01:46:26 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "The exoskeletons are coming (to a store near you)",
+     "link": "https://www.nature.com/articles/d41586-026-02641-y",
+     "date": ""
     },
     {
-     "title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
-     "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 01:01:44 +0000"
+     "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+     "link": "https://www.nature.com/articles/d41586-026-02572-8",
+     "date": ""
     },
     {
-     "title": "DRC’s constitutional battle: The fight over the 2028 vote",
-     "link": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 00:34:29 +0000"
+     "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
+     "link": "https://www.nature.com/articles/d41586-026-02620-3",
+     "date": ""
     },
     {
-     "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
-     "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 00:18:42 +0000"
+     "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+     "link": "https://www.nature.com/articles/d41586-026-02616-z",
+     "date": ""
+    },
+    {
+     "title": "Can AI ever be conscious? The question stems from a misconception",
+     "link": "https://www.nature.com/articles/d41586-026-02571-9",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+     "link": "https://www.nature.com/articles/d41586-026-02626-x",
+     "date": ""
+    },
+    {
+     "title": "Earth-shaking thunder probes underground geology",
+     "link": "https://www.nature.com/articles/d41586-026-02596-0",
+     "date": ""
+    },
+    {
+     "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+     "link": "https://www.nature.com/articles/d41586-026-02566-6",
+     "date": ""
     }
    ]
   }
