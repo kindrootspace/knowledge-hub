@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 09:51 UTC",
+ "updated": "2026-08-25 10:49 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,14 @@
      "date": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
-     "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-     "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:25:36 GMT"
+     "title": "Man dies in crash after police pursuit",
+     "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 10:14:21 GMT"
     },
     {
-     "title": "Lockerbie bombing trial postponed days before it was due to start",
-     "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 09:08:13 GMT"
+     "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+     "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 10:06:04 GMT"
     },
     {
      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
@@ -25,9 +25,9 @@
      "date": "Mon, 24 Aug 2026 22:13:20 GMT"
     },
     {
-     "title": "The grieving family who say the coroners' courts aren't working",
-     "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 23:09:16 GMT"
+     "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+     "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 08:25:36 GMT"
     },
     {
      "title": "Moment tornado tears through southern France",
@@ -35,14 +35,14 @@
      "date": "Tue, 25 Aug 2026 00:16:35 GMT"
     },
     {
-     "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-     "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 07:39:25 GMT"
+     "title": "Russian stadium says it won't host Kanye West gigs",
+     "link": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 08:43:56 GMT"
     },
     {
-     "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-     "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 09:02:29 GMT"
+     "title": "The grieving family who say the coroners' courts aren't working",
+     "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 23:09:16 GMT"
     }
    ]
   },
@@ -65,6 +65,11 @@
      "date": "Mon, 24 Aug 2026 23:03:42 GMT"
     },
     {
+     "title": "OnlyFans owner was paid over $700m before his death",
+     "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 10:09:00 GMT"
+    },
+    {
      "title": "How Canada could hit back to hurt the US economy - and Trump",
      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 02:49:22 GMT"
@@ -75,19 +80,14 @@
      "date": "Mon, 24 Aug 2026 23:04:17 GMT"
     },
     {
-     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-     "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 02:51:53 GMT"
-    },
-    {
      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 08:25:36 GMT"
     },
     {
-     "title": "Songs created by AI banned from Australia's music charts",
-     "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 04:54:01 GMT"
+     "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+     "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 02:51:53 GMT"
     }
    ]
   },
@@ -140,23 +140,18 @@
    "name": "NPR",
    "items": [
     {
+     "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
+     "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
+     "date": "Tue, 25 Aug 2026 06:30:00 -0400"
+    },
+    {
      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
      "date": "Tue, 25 Aug 2026 05:07:09 -0400"
     },
     {
-     "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "When is suspending students discrimination? Education Dept. renews an old fight",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+     "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
@@ -165,19 +160,24 @@
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
+     "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "When is suspending students discrimination? Education Dept. renews an old fight",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
+    },
+    {
      "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
-     "date": "Tue, 25 Aug 2026 04:44:36 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+     "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 10:22:00 +0000"
+    },
+    {
+     "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
+     "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 10:11:46 +0000"
+    },
+    {
+     "title": "What would justice look like if there were no Rohingya left in Myanmar?",
+     "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 09:46:11 +0000"
+    },
+    {
+     "title": "Roadblocks and burning tyres in Libya protests over power cuts",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 09:45:19 +0000"
+    },
+    {
+     "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+     "link": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 09:43:27 +0000"
+    },
+    {
+     "title": "Kremlin adviser warns UK drone factories could face attacks",
+     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 09:34:25 +0000"
+    },
+    {
+     "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
+     "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 09:23:05 +0000"
+    },
+    {
      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 09:05:54 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Amend copyright licences to halt AI misuse and reassert human control",
+     "link": "https://www.nature.com/articles/d41586-026-02633-y",
+     "date": ""
     },
     {
-     "title": "Nvidia, Supermicro employees charged over export of AI servers to China",
-     "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 08:51:48 +0000"
+     "title": "The future of peer review requires AI support, not AI bans",
+     "link": "https://www.nature.com/articles/d41586-026-02631-0",
+     "date": ""
     },
     {
-     "title": "Pakistan says significant progress made in talks on Iran-US war",
-     "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 08:32:52 +0000"
+     "title": "Protecting education in the middle of war zones",
+     "link": "https://www.nature.com/articles/d41586-026-02634-x",
+     "date": ""
     },
     {
-     "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 08:24:13 +0000"
+     "title": "Assessing students in the AI era",
+     "link": "https://www.nature.com/articles/d41586-026-02632-z",
+     "date": ""
     },
     {
-     "title": "Global ocean temperatures hit record high as El Nino intensifies",
-     "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 08:10:10 +0000"
+     "title": "How one researcher captured a vanished world of UK government science",
+     "link": "https://www.nature.com/articles/d41586-026-02094-3",
+     "date": ""
     },
     {
-     "title": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 07:50:26 +0000"
+     "title": "China is changing the shape of global health. The terms are still up for negotiation",
+     "link": "https://www.nature.com/articles/d41586-026-02622-1",
+     "date": ""
     },
     {
-     "title": "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
-     "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 07:46:56 +0000"
+     "title": "How tech-enhanced sleep could improve rest but erode privacy",
+     "link": "https://www.nature.com/articles/d41586-026-02573-7",
+     "date": ""
     },
     {
-     "title": "Federer to play tennis at US Open but rules out Williams-like return",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 07:45:34 +0000"
+     "title": "The exoskeletons are coming (to a store near you)",
+     "link": "https://www.nature.com/articles/d41586-026-02641-y",
+     "date": ""
     }
    ]
   }
