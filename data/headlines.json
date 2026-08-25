@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 16:00 UTC",
+ "updated": "2026-08-25 16:55 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Tue, 25 Aug 2026 15:26:11 GMT"
     },
     {
-     "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-     "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 11:53:36 GMT"
+     "title": "CIA chief in Moscow for unannounced talks, US media reports",
+     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 16:54:33 GMT"
+    },
+    {
+     "title": "Trump says all mines cleared from Strait of Hormuz",
+     "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 16:43:58 GMT"
     },
     {
      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -22,12 +27,7 @@
     {
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 13:44:52 GMT"
-    },
-    {
-     "title": "CIA chief in Moscow for unannounced talks, US media reports",
-     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 15:43:50 GMT"
+     "date": "Tue, 25 Aug 2026 16:06:56 GMT"
     },
     {
      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
@@ -70,14 +70,14 @@
      "date": "Mon, 24 Aug 2026 23:03:42 GMT"
     },
     {
-     "title": "OnlyFans owner was paid over $700m before his death",
-     "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 10:09:00 GMT"
-    },
-    {
      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 24 Aug 2026 23:04:17 GMT"
+    },
+    {
+     "title": "OnlyFans owner was paid over $700m before his death",
+     "link": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 10:09:00 GMT"
     },
     {
      "title": "How Canada could hit back to hurt the US economy - and Trump",
@@ -175,8 +175,8 @@
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+     "title": "Churches, libraries and breweries: Inside DHS' covert surveillance operation",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     }
    ]
@@ -184,6 +184,21 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+     "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 16:39:24 +0000"
+    },
+    {
+     "title": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
+     "link": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 16:28:01 +0000"
+    },
+    {
+     "title": "Students clash with police in India in a new protest over exam leaks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 16:04:25 +0000"
+    },
     {
      "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
      "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 15:23:17 +0000"
-    },
-    {
-     "title": "Qatar says US sanctions on Iran are unilateral",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 15:17:05 +0000"
-    },
-    {
-     "title": "US launches Economic war on Iran",
-     "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 15:12:00 +0000"
-    },
-    {
-     "title": "One year since Gaza journalist killed by Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 15:09:10 +0000"
     }
    ]
   },
