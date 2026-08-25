@@ -1,9 +1,14 @@
 {
- "updated": "2026-08-25 17:45 UTC",
+ "updated": "2026-08-25 18:57 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Dolly Parton: The life of a legendary country singer",
+     "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 18:27:22 GMT"
+    },
     {
      "title": "Father's house rammed before son died in A66 crash",
      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
@@ -25,6 +30,11 @@
      "date": "Tue, 25 Aug 2026 15:04:52 GMT"
     },
     {
+     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+     "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 17:54:03 GMT"
+    },
+    {
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 16:06:56 GMT"
@@ -33,16 +43,6 @@
      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
      "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 10:06:04 GMT"
-    },
-    {
-     "title": "Young people leaving care have death rate four times higher than national average",
-     "link": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 14:41:47 GMT"
-    },
-    {
-     "title": "US judge rejects Ghislaine Maxwell's 'frivolous' appeal against conviction",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zrey17qno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 14:42:17 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
+     "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+     "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+     "date": "Tue, 25 Aug 2026 17:35:16 GMT"
+    },
+    {
      "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
      "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
      "date": "Tue, 25 Aug 2026 12:31:53 GMT"
@@ -128,17 +133,22 @@
      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
      "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
      "date": "Tue, 25 Aug 2026 00:34:47 GMT"
-    },
-    {
-     "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-     "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-     "date": "Mon, 24 Aug 2026 21:40:48 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+     "date": "Tue, 25 Aug 2026 14:17:32 -0400"
+    },
+    {
+     "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
+     "date": "Tue, 25 Aug 2026 14:15:23 -0400"
+    },
     {
      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
@@ -168,16 +178,6 @@
      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
      "date": "Tue, 25 Aug 2026 05:07:09 -0400"
-    },
-    {
-     "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Did climate change cause this heat wave? Most likely, and here's why",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,7 +185,32 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Canada hits US with counter-tariffs targeting hundreds of products",
+     "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+     "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 18:13:37 +0000"
+    },
+    {
+     "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 18:01:37 +0000"
+    },
+    {
+     "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+     "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 17:39:22 +0000"
+    },
+    {
+     "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+     "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 17:31:09 +0000"
+    },
+    {
+     "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+     "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 17:27:01 +0000"
+    },
+    {
+     "title": "Canada hits US with counter-tariffs on more than 700 products",
      "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 17:08:54 +0000"
     },
@@ -198,31 +223,6 @@
      "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
      "link": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 16:55:29 +0000"
-    },
-    {
-     "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
-     "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 16:39:24 +0000"
-    },
-    {
-     "title": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
-     "link": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 16:28:01 +0000"
-    },
-    {
-     "title": "Students clash with police in India in a new protest over exam leaks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 16:04:25 +0000"
-    },
-    {
-     "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
-     "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 15:52:42 +0000"
-    },
-    {
-     "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 15:42:43 +0000"
     }
    ]
   },
