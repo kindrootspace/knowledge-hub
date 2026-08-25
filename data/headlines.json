@@ -1,18 +1,28 @@
 {
- "updated": "2026-08-25 11:44 UTC",
+ "updated": "2026-08-25 13:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+     "title": "Five more arrests in wrong-way crash investigation",
+     "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 13:05:25 GMT"
+    },
+    {
+     "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 10:56:03 GMT"
+     "date": "Tue, 25 Aug 2026 11:53:36 GMT"
+    },
+    {
+     "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+     "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 12:37:53 GMT"
     },
     {
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 11:25:11 GMT"
+     "date": "Tue, 25 Aug 2026 12:52:58 GMT"
     },
     {
      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
@@ -20,7 +30,7 @@
      "date": "Tue, 25 Aug 2026 10:06:04 GMT"
     },
     {
-     "title": "Young care leavers dying early a 'national tragedy'",
+     "title": "Young people leaving care have death rate four times higher than national average",
      "link": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 11:05:37 GMT"
     },
@@ -30,19 +40,9 @@
      "date": "Tue, 25 Aug 2026 00:16:35 GMT"
     },
     {
-     "title": "Boy, 3, injured in crocodile attack returns home",
+     "title": "Boy, 3, injured in crocodile attack returns home from hospital",
      "link": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 10:48:09 GMT"
-    },
-    {
-     "title": "Russian stadium says it won't host Kanye West gigs",
-     "link": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:43:56 GMT"
-    },
-    {
-     "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-     "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 22:13:20 GMT"
     }
    ]
   },
@@ -82,7 +82,7 @@
     {
      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:25:36 GMT"
+     "date": "Tue, 25 Aug 2026 12:10:13 GMT"
     },
     {
      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
@@ -120,6 +120,11 @@
      "date": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
+     "title": "First Thing: Supreme court threatens midterms mail-in voting as it backs Trump plan",
+     "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
+     "date": "Tue, 25 Aug 2026 12:31:53 GMT"
+    },
+    {
      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
      "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
      "date": "Tue, 25 Aug 2026 00:34:47 GMT"
@@ -128,11 +133,6 @@
      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
      "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
      "date": "Mon, 24 Aug 2026 21:40:48 GMT"
-    },
-    {
-     "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-     "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-     "date": "Mon, 24 Aug 2026 18:55:43 GMT"
     }
    ]
   },
@@ -160,11 +160,6 @@
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "When is suspending students discrimination? Education Dept. renews an old fight",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
@@ -178,6 +173,11 @@
      "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Did climate change cause this heat wave? Most likely, and here's why",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:30:45 +0000"
+    },
+    {
+     "title": "How water becomes a weapon of war",
+     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:20:37 +0000"
+    },
+    {
+     "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
+     "link": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:17:56 +0000"
+    },
+    {
+     "title": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
+     "link": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 12:15:19 +0000"
+    },
+    {
+     "title": "Russia mobilisation fears grow amid reports of intimidating tactics",
+     "link": "https://www.aljazeera.com/news/2026/8/25/russia-mobilisation-fears-grow-amid-reports-of-intimidating-tactics?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 11:53:03 +0000"
+    },
+    {
+     "title": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
+     "link": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 11:52:40 +0000"
+    },
+    {
+     "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
+     "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 11:46:13 +0000"
+    },
+    {
      "title": "How the US sanctions on Iran impact China",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 11:30:08 +0000"
-    },
-    {
-     "title": "Ex-Wimbledon champion Vondrousova appeals to CAS over four-year doping ban",
-     "link": "https://www.aljazeera.com/sports/2026/8/25/ex-wimbledon-champion-vondrousova-appeals-to-cas-over-four-year-doping-ban?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 11:24:55 +0000"
-    },
-    {
-     "title": "India faces criticism from UN discrimination watchdog",
-     "link": "https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 11:01:26 +0000"
-    },
-    {
-     "title": "Is AIPAC’s political standing declining in the US?",
-     "link": "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 10:55:43 +0000"
-    },
-    {
-     "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-     "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 10:22:00 +0000"
-    },
-    {
-     "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-     "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 10:11:46 +0000"
-    },
-    {
-     "title": "What would justice look like if there were no Rohingya left in Myanmar?",
-     "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 09:46:11 +0000"
-    },
-    {
-     "title": "Roadblocks and burning tyres in Libya protests over power cuts",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 09:45:19 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+     "link": "https://www.nature.com/articles/s41586-026-11017-1",
+     "date": ""
+    },
     {
      "title": "Amend copyright licences to halt AI misuse and reassert human control",
      "link": "https://www.nature.com/articles/d41586-026-02633-y",
@@ -245,6 +250,11 @@
      "date": ""
     },
     {
+     "title": "Ancient surveying instrument found in Egypt",
+     "link": "https://www.nature.com/articles/d41586-026-02382-y",
+     "date": ""
+    },
+    {
      "title": "Assessing students in the AI era",
      "link": "https://www.nature.com/articles/d41586-026-02632-z",
      "date": ""
@@ -257,16 +267,6 @@
     {
      "title": "How one researcher captured a vanished world of UK government science",
      "link": "https://www.nature.com/articles/d41586-026-02094-3",
-     "date": ""
-    },
-    {
-     "title": "China is changing the shape of global health. The terms are still up for negotiation",
-     "link": "https://www.nature.com/articles/d41586-026-02622-1",
-     "date": ""
-    },
-    {
-     "title": "How tech-enhanced sleep could improve rest but erode privacy",
-     "link": "https://www.nature.com/articles/d41586-026-02573-7",
      "date": ""
     }
    ]
