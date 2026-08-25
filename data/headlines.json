@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-25 10:49 UTC",
+ "updated": "2026-08-25 11:44 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:08:26 GMT"
+     "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+     "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 10:56:03 GMT"
     },
     {
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 10:14:21 GMT"
+     "date": "Tue, 25 Aug 2026 11:25:11 GMT"
     },
     {
      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
@@ -20,14 +20,9 @@
      "date": "Tue, 25 Aug 2026 10:06:04 GMT"
     },
     {
-     "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-     "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 22:13:20 GMT"
-    },
-    {
-     "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-     "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:25:36 GMT"
+     "title": "Young care leavers dying early a 'national tragedy'",
+     "link": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 11:05:37 GMT"
     },
     {
      "title": "Moment tornado tears through southern France",
@@ -35,14 +30,19 @@
      "date": "Tue, 25 Aug 2026 00:16:35 GMT"
     },
     {
+     "title": "Boy, 3, injured in crocodile attack returns home",
+     "link": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 10:48:09 GMT"
+    },
+    {
      "title": "Russian stadium says it won't host Kanye West gigs",
      "link": "https://www.bbc.co.uk/news/articles/c4gmvyzj5dgo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 08:43:56 GMT"
     },
     {
-     "title": "The grieving family who say the coroners' courts aren't working",
-     "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 23:09:16 GMT"
+     "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+     "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 24 Aug 2026 22:13:20 GMT"
     }
    ]
   },
@@ -105,7 +105,7 @@
      "date": "Mon, 24 Aug 2026 14:19:14 GMT"
     },
     {
-     "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+     "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
      "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
      "date": "Mon, 24 Aug 2026 10:11:34 GMT"
     },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+     "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+     "date": "Tue, 25 Aug 2026 07:09:01 -0400"
+    },
+    {
      "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
      "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
      "date": "Tue, 25 Aug 2026 06:30:00 -0400"
@@ -148,16 +153,6 @@
      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
      "date": "Tue, 25 Aug 2026 05:07:09 -0400"
-    },
-    {
-     "title": "How to understand this heat wave (as told by NPR's senior climate editor)",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
      "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
@@ -175,7 +170,12 @@
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
+     "title": "Spokane wildfire evacuees return home, but it's 'still a hazmat situation'",
+     "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+     "date": "Tue, 25 Aug 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Churches, libraries and breweries: inside DHS's covert surveillance operation",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
      "date": "Tue, 25 Aug 2026 05:00:00 -0400"
     }
@@ -184,6 +184,26 @@
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "How the US sanctions on Iran impact China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 11:30:08 +0000"
+    },
+    {
+     "title": "Ex-Wimbledon champion Vondrousova appeals to CAS over four-year doping ban",
+     "link": "https://www.aljazeera.com/sports/2026/8/25/ex-wimbledon-champion-vondrousova-appeals-to-cas-over-four-year-doping-ban?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 11:24:55 +0000"
+    },
+    {
+     "title": "India faces criticism from UN discrimination watchdog",
+     "link": "https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 11:01:26 +0000"
+    },
+    {
+     "title": "Is AIPAC’s political standing declining in the US?",
+     "link": "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss",
+     "date": "Tue, 25 Aug 2026 10:55:43 +0000"
+    },
     {
      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
      "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Roadblocks and burning tyres in Libya protests over power cuts",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 09:45:19 +0000"
-    },
-    {
-     "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
-     "link": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 09:43:27 +0000"
-    },
-    {
-     "title": "Kremlin adviser warns UK drone factories could face attacks",
-     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 09:34:25 +0000"
-    },
-    {
-     "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
-     "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 09:23:05 +0000"
-    },
-    {
-     "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 09:05:54 +0000"
     }
    ]
   },
@@ -250,6 +250,11 @@
      "date": ""
     },
     {
+     "title": "A guide to securing your first research fellowship: what reviewers are looking for",
+     "link": "https://www.nature.com/articles/d41586-026-02115-1",
+     "date": ""
+    },
+    {
      "title": "How one researcher captured a vanished world of UK government science",
      "link": "https://www.nature.com/articles/d41586-026-02094-3",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "How tech-enhanced sleep could improve rest but erode privacy",
      "link": "https://www.nature.com/articles/d41586-026-02573-7",
-     "date": ""
-    },
-    {
-     "title": "The exoskeletons are coming (to a store near you)",
-     "link": "https://www.nature.com/articles/d41586-026-02641-y",
      "date": ""
     }
    ]
