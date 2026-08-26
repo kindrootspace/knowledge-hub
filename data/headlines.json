@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26 16:59 UTC",
+ "updated": "2026-08-26 19:19 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Wed, 26 Aug 2026 12:36:04 GMT"
     },
     {
+     "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+     "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 17:44:39 GMT"
+    },
+    {
      "title": "Rocky Horror star Tim Curry dies at 80",
      "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 16:49:42 GMT"
+     "date": "Wed, 26 Aug 2026 17:34:57 GMT"
     },
     {
      "title": "Murder arrests after fire kills two including child near Middlesbrough",
@@ -22,7 +27,7 @@
     {
      "title": "Prince Harry and Meghan land in UK days after announcing move",
      "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 13:01:51 GMT"
+     "date": "Wed, 26 Aug 2026 18:44:54 GMT"
     },
     {
      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -35,14 +40,9 @@
      "date": "Wed, 26 Aug 2026 15:34:52 GMT"
     },
     {
-     "title": "Portrait of Ann Widdecombe put up in Parliament for MPs' return",
-     "link": "https://www.bbc.co.uk/news/articles/czdz1r1z17zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 16:40:59 GMT"
-    },
-    {
-     "title": "Inquest begins into death of Jason Arday",
-     "link": "https://www.bbc.co.uk/news/articles/cjdv5y220keo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 14:15:48 GMT"
+     "title": "US designates Palestine Action a terrorist group",
+     "link": "https://www.bbc.co.uk/news/articles/cn4kzd7k2nvo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 18:41:50 GMT"
     }
    ]
   },
@@ -60,9 +60,9 @@
      "date": "Wed, 26 Aug 2026 10:10:33 GMT"
     },
     {
-     "title": "Meta agrees to pay up to $18bn to settle social media case",
+     "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 14:10:17 GMT"
+     "date": "Wed, 26 Aug 2026 17:44:39 GMT"
     },
     {
      "title": "Reform proposes £30 tax rebate for HMRC phone delays",
@@ -120,6 +120,11 @@
      "date": "Mon, 24 Aug 2026 14:19:14 GMT"
     },
     {
+     "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+     "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
+     "date": "Wed, 26 Aug 2026 18:15:21 GMT"
+    },
+    {
      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
      "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
      "date": "Wed, 26 Aug 2026 10:00:41 GMT"
@@ -128,17 +133,32 @@
      "title": "Wife of US soldier deported after Trump rollback on military family protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
      "date": "Tue, 25 Aug 2026 20:23:55 GMT"
-    },
-    {
-     "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-     "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-     "date": "Tue, 25 Aug 2026 17:35:16 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Immigration arrests soar, hitting 50,000 in July",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
+     "date": "Wed, 26 Aug 2026 14:08:05 -0400"
+    },
+    {
+     "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+     "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+     "date": "Wed, 26 Aug 2026 13:36:13 -0400"
+    },
+    {
+     "title": "States try new tactics to bring down high hospital prices",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
+     "date": "Wed, 26 Aug 2026 13:29:13 -0400"
+    },
+    {
+     "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+     "date": "Wed, 26 Aug 2026 13:15:17 -0400"
+    },
     {
      "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
@@ -155,29 +175,9 @@
      "date": "Wed, 26 Aug 2026 09:33:39 -0400"
     },
     {
-     "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+     "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
      "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
      "date": "Wed, 26 Aug 2026 08:27:19 -0400"
-    },
-    {
-     "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
-     "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-     "date": "Wed, 26 Aug 2026 07:05:46 -0400"
-    },
-    {
-     "title": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
-     "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
-     "date": "Wed, 26 Aug 2026 05:02:00 -0400"
-    },
-    {
-     "title": "She got an electric bill for $1,373. She's not alone",
-     "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-     "date": "Wed, 26 Aug 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-     "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
-     "date": "Wed, 26 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
-     "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 16:27:42 +0000"
+     "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+     "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 18:19:14 +0000"
     },
     {
-     "title": "Luxury watches worth $1.2 million stolen from a popular mall in Tokyo",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/luxury-watches-worth-1-2-million-stolen-from-a-popular-mall-in-tokyo?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 16:25:12 +0000"
+     "title": "UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 18:13:54 +0000"
     },
     {
-     "title": "Video: Man kills eight relatives in Montana gun attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-man-kills-eight-relatives-in-montana-gun-attack?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 16:16:02 +0000"
+     "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+     "link": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 18:08:50 +0000"
     },
     {
-     "title": "Rescuers search for hundreds missing in Nepal-Tibet flash floods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/rescuers-search-for-hundreds-missing-in-nepal-tibet-flash-floods?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 16:14:10 +0000"
+     "title": "Trump says Iran war will continue for as long as necessary",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 18:07:37 +0000"
     },
     {
-     "title": "Syria removed: Which countries are still on the US ‘terror’ list – and why?",
-     "link": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 16:11:40 +0000"
+     "title": "US inflation holds at 3.7 percent in July, above Fed target",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 17:28:33 +0000"
     },
     {
-     "title": "LIVE: Real Madrid vs Real Sociedad – La Liga",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/26/live-real-madrid-vs-sociedad-la-liga?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 15:52:53 +0000"
+     "title": "Prince Harry and Meghan Markle return to UK after royal rift",
+     "link": "https://www.aljazeera.com/news/2026/8/26/prince-harry-and-meghan-markle-return-to-uk-after-royal-rift?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 17:27:49 +0000"
     },
     {
-     "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
-     "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 14:59:22 +0000"
+     "title": "At least 50 injured as fireworks explode into crowd at Spanish festival",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/at-least-50-injured-as-fireworks-explode-into-crowd-at-spanish-festival?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 17:07:55 +0000"
     },
     {
-     "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
-     "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 14:42:36 +0000"
+     "title": "Why Hormuz remains high risk for ships despite US claims of mine-clearing",
+     "link": "https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 17:05:57 +0000"
     }
    ]
   },
