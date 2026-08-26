@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 23:38 UTC",
+ "updated": "2026-08-26 01:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,6 +20,21 @@
      "date": "Tue, 25 Aug 2026 19:48:14 GMT"
     },
     {
+     "title": "Winter energy prices expected to rise to three-year high",
+     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:07:29 GMT"
+    },
+    {
+     "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+     "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:13:34 GMT"
+    },
+    {
+     "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+     "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:11:15 GMT"
+    },
+    {
      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 19:50:57 GMT"
@@ -28,21 +43,6 @@
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 19:39:44 GMT"
-    },
-    {
-     "title": "Trump says all mines cleared from Strait of Hormuz",
-     "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 21:23:41 GMT"
-    },
-    {
-     "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-     "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 19:11:40 GMT"
-    },
-    {
-     "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-     "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 15:04:52 GMT"
     }
    ]
   },
@@ -60,6 +60,11 @@
      "date": "Tue, 25 Aug 2026 23:08:31 GMT"
     },
     {
+     "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+     "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 01:32:07 GMT"
+    },
+    {
      "title": "AI gold rush draws crypto firms away from Bitcoin",
      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:11:02 GMT"
@@ -70,24 +75,19 @@
      "date": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
-     "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-     "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 15:04:52 GMT"
-    },
-    {
      "title": "Firms scramble for battery power in Spain and Portugal",
      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:09:31 GMT"
     },
     {
+     "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+     "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 15:04:52 GMT"
+    },
+    {
      "title": "Burnham refuses to rule out tax rises in autumn Budget",
      "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 06:40:33 GMT"
-    },
-    {
-     "title": "New 10p coin enters circulation - will you spot one?",
-     "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 24 Aug 2026 23:03:42 GMT"
     }
    ]
   },
@@ -145,7 +145,7 @@
      "date": "Tue, 25 Aug 2026 18:50:57 -0400"
     },
     {
-     "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
+     "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
      "date": "Tue, 25 Aug 2026 16:47:54 -0400"
     },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+     "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 01:43:50 +0000"
+    },
+    {
+     "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
+     "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 01:00:17 +0000"
+    },
+    {
+     "title": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
+     "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 00:29:01 +0000"
+    },
+    {
+     "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 00:00:00 +0000"
+    },
+    {
      "title": "Brazil fines TikTok $30m for child data privacy violations",
      "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 22:06:49 +0000"
@@ -203,26 +223,6 @@
      "title": "Who was the ‘Queen of Country’ Dolly Parton?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 21:29:11 +0000"
-    },
-    {
-     "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-     "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 21:26:25 +0000"
-    },
-    {
-     "title": "US soldier who called for Trump impeachment facing military charges",
-     "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 21:16:43 +0000"
-    },
-    {
-     "title": "US lawmakers urge Trump team to free of American student held by Israel",
-     "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 21:09:35 +0000"
-    },
-    {
-     "title": "Syrian Democratic Forces announce their dissolution",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 21:09:05 +0000"
     }
    ]
   },
