@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26 04:56 UTC",
+ "updated": "2026-08-26 05:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,9 @@
      "date": "Tue, 25 Aug 2026 23:07:29 GMT"
     },
     {
-     "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 19:48:14 GMT"
+     "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+     "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 05:14:12 GMT"
     },
     {
      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
@@ -35,14 +35,14 @@
      "date": "Tue, 25 Aug 2026 23:11:15 GMT"
     },
     {
-     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-     "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 19:50:57 GMT"
+     "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 19:48:14 GMT"
     },
     {
-     "title": "Man dies in crash after police pursuit",
-     "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 19:39:44 GMT"
+     "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+     "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:50:53 GMT"
     }
    ]
   },
@@ -55,7 +55,7 @@
      "date": "Tue, 25 Aug 2026 23:07:29 GMT"
     },
     {
-     "title": "Back to school: How to save on uniform costs",
+     "title": "Back to school: How parents can save on costs",
      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:08:31 GMT"
     },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+     "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+     "date": "Wed, 26 Aug 2026 01:45:58 -0400"
+    },
+    {
+     "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+     "date": "Wed, 26 Aug 2026 01:45:34 -0400"
+    },
+    {
      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
      "date": "Tue, 25 Aug 2026 18:50:57 -0400"
@@ -168,22 +178,32 @@
      "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
      "link": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
      "date": "Tue, 25 Aug 2026 10:59:12 -0400"
-    },
-    {
-     "title": "Several states will decide voter ID ballot measures this year",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
-     "date": "Tue, 25 Aug 2026 10:40:36 -0400"
-    },
-    {
-     "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-     "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
-     "date": "Tue, 25 Aug 2026 07:09:01 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 05:20:17 +0000"
+    },
+    {
+     "title": "Fireworks factory goes up in smoke in Mexico",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 05:17:40 +0000"
+    },
+    {
+     "title": "Massive natural gas leak in Wisconsin puts community on alert",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 05:15:51 +0000"
+    },
+    {
+     "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 04:54:38 +0000"
+    },
     {
      "title": "At least 15 newborns killed in Pakistan hospital fire",
      "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
@@ -203,26 +223,51 @@
      "title": "Who were the Syrian Democratic Forces and why dissolve?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 03:28:43 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+     "link": "https://www.nature.com/articles/s41586-026-11017-1",
+     "date": ""
     },
     {
-     "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 02:54:12 +0000"
+     "title": "Amend copyright licences to halt AI misuse and reassert human control",
+     "link": "https://www.nature.com/articles/d41586-026-02633-y",
+     "date": ""
     },
     {
-     "title": "Mamdani opposes Hindu nationalist event in New York",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 02:47:02 +0000"
+     "title": "The future of peer review requires AI support, not AI bans",
+     "link": "https://www.nature.com/articles/d41586-026-02631-0",
+     "date": ""
     },
     {
-     "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 01:54:00 +0000"
+     "title": "Protecting education in the middle of war zones",
+     "link": "https://www.nature.com/articles/d41586-026-02634-x",
+     "date": ""
     },
     {
-     "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-     "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 01:43:50 +0000"
+     "title": "Ancient surveying instrument found in Egypt",
+     "link": "https://www.nature.com/articles/d41586-026-02382-y",
+     "date": ""
+    },
+    {
+     "title": "Assessing students in the AI era",
+     "link": "https://www.nature.com/articles/d41586-026-02632-z",
+     "date": ""
+    },
+    {
+     "title": "Asthma in some boys stops at puberty: mouse results hint at why",
+     "link": "https://www.nature.com/articles/d41586-026-02611-4",
+     "date": ""
+    },
+    {
+     "title": "How to manage AI risks while reaping the benefits",
+     "link": "https://www.nature.com/articles/d41586-026-02567-5",
+     "date": ""
     }
    ]
   }
