@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-26 09:57 UTC",
+ "updated": "2026-08-26 10:51 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: The life of an iconic country singer",
+     "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 18:27:22 GMT"
     },
@@ -13,6 +13,16 @@
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 09:31:51 GMT"
+    },
+    {
+     "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+     "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 10:29:36 GMT"
+    },
+    {
+     "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+     "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:13:34 GMT"
     },
     {
      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
@@ -25,19 +35,9 @@
      "date": "Wed, 26 Aug 2026 09:28:03 GMT"
     },
     {
-     "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
-     "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:13:34 GMT"
-    },
-    {
      "title": "Ex-England footballer Sterling charged with dangerous driving after crashing Lamborghini",
      "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 07:42:51 GMT"
-    },
-    {
-     "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
-     "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 04:07:48 GMT"
     },
     {
      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
@@ -55,6 +55,11 @@
      "date": "Wed, 26 Aug 2026 09:31:51 GMT"
     },
     {
+     "title": "Why we should all get used to high household energy bills",
+     "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 10:10:33 GMT"
+    },
+    {
      "title": "How parents can save on costs as the new school year starts",
      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:08:31 GMT"
@@ -70,11 +75,6 @@
      "date": "Wed, 26 Aug 2026 03:33:59 GMT"
     },
     {
-     "title": "AI gold rush draws crypto firms away from Bitcoin",
-     "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:11:02 GMT"
-    },
-    {
      "title": "Firms scramble for battery power in Spain and Portugal",
      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:09:31 GMT"
@@ -82,12 +82,12 @@
     {
      "title": "'Ironing board' seats to be replaced on Thameslink",
      "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 08:47:49 GMT"
+     "date": "Wed, 26 Aug 2026 10:30:53 GMT"
     },
     {
-     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:08:26 GMT"
+     "title": "AI gold rush draws crypto firms away from Bitcoin",
+     "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:11:02 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Sun, 23 Aug 2026 22:16:53 GMT"
     },
     {
+     "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+     "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+     "date": "Wed, 26 Aug 2026 10:00:41 GMT"
+    },
+    {
      "title": "Wife of US soldier deported after Trump rollback on military family protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
      "date": "Tue, 25 Aug 2026 20:23:55 GMT"
@@ -128,11 +133,6 @@
      "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
      "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
      "date": "Tue, 25 Aug 2026 17:35:16 GMT"
-    },
-    {
-     "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-     "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-     "date": "Tue, 25 Aug 2026 12:31:53 GMT"
     }
    ]
   },
@@ -145,7 +145,7 @@
      "date": "Wed, 26 Aug 2026 05:02:00 -0400"
     },
     {
-     "title": "Soaring summer power bills spark protests -- and even disconnections",
+     "title": "Soaring summer power bills spark protests — and even disconnections",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
      "date": "Wed, 26 Aug 2026 05:01:00 -0400"
     },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 10:00:05 +0000"
+    },
+    {
+     "title": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+     "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 09:48:36 +0000"
+    },
+    {
      "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
      "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 09:36:08 +0000"
@@ -213,16 +223,6 @@
      "title": "Thousands in Japan are pulling this historic castle back into place",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 08:46:53 +0000"
-    },
-    {
-     "title": "Lindsey Graham’s sister up for election to his US Senate seat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/lindsey-grahams-sister-up-for-election-to-his-us-senate-seat?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 08:42:28 +0000"
-    },
-    {
-     "title": "Trump’s Korean gambit exposes a shifting East Asian order",
-     "link": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 08:18:55 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "South Africa’s ‘registration law’ for scientists could be a template for the world — if the nation gets it right",
      "link": "https://www.nature.com/articles/d41586-026-02568-4",
+     "date": ""
+    },
+    {
+     "title": "The baffling science of SSRIs: how do they really work?",
+     "link": "https://www.nature.com/articles/d41586-026-02570-w",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Assessing students in the AI era",
      "link": "https://www.nature.com/articles/d41586-026-02632-z",
-     "date": ""
-    },
-    {
-     "title": "Asthma in some boys stops at puberty: mouse results hint at why",
-     "link": "https://www.nature.com/articles/d41586-026-02611-4",
      "date": ""
     }
    ]
