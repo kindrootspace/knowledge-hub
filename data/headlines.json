@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26 01:58 UTC",
+ "updated": "2026-08-26 03:18 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,19 +10,14 @@
      "date": "Tue, 25 Aug 2026 18:27:22 GMT"
     },
     {
-     "title": "Father's house rammed before son died in A66 crash",
-     "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 17:30:40 GMT"
+     "title": "Winter energy prices expected to rise to three-year high",
+     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:07:29 GMT"
     },
     {
      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 19:48:14 GMT"
-    },
-    {
-     "title": "Winter energy prices expected to rise to three-year high",
-     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:07:29 GMT"
     },
     {
      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
@@ -43,6 +38,11 @@
      "title": "Man dies in crash after police pursuit",
      "link": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 19:39:44 GMT"
+    },
+    {
+     "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+     "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 23:50:53 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 02:54:12 +0000"
+    },
+    {
+     "title": "Mamdani opposes Hindu nationalist event in New York",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 02:47:02 +0000"
+    },
+    {
+     "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 01:54:00 +0000"
+    },
+    {
      "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
      "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 01:43:50 +0000"
@@ -208,21 +223,6 @@
      "title": "Brazil fines TikTok $30m for child data privacy violations",
      "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
      "date": "Tue, 25 Aug 2026 22:06:49 +0000"
-    },
-    {
-     "title": "Why can’t America agree on what time it is?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 22:05:42 +0000"
-    },
-    {
-     "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
-     "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 21:32:00 +0000"
-    },
-    {
-     "title": "Who was the ‘Queen of Country’ Dolly Parton?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
-     "date": "Tue, 25 Aug 2026 21:29:11 +0000"
     }
    ]
   },
