@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-26 07:09 UTC",
+ "updated": "2026-08-26 08:00 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Dolly Parton: The life of an iconic country singer",
+     "title": "The life of an iconic country singer",
      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 18:27:22 GMT"
     },
     {
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 07:01:44 GMT"
+     "date": "Wed, 26 Aug 2026 07:48:50 GMT"
     },
     {
-     "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+     "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
      "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 04:07:48 GMT"
     },
@@ -30,14 +30,14 @@
      "date": "Tue, 25 Aug 2026 23:13:34 GMT"
     },
     {
+     "title": "Sterling charged with dangerous driving after crash",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 07:42:51 GMT"
+    },
+    {
      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:11:15 GMT"
-    },
-    {
-     "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-     "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 19:48:14 GMT"
     },
     {
      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
@@ -52,7 +52,7 @@
     {
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 07:01:44 GMT"
+     "date": "Wed, 26 Aug 2026 07:48:50 GMT"
     },
     {
      "title": "Back to school: How parents can save on costs",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
+     "date": "Wed, 26 Aug 2026 03:34:59 -0400"
+    },
+    {
+     "title": "Test your global economic knowledge with this quick Planet Money quiz!",
+     "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
+     "date": "Wed, 26 Aug 2026 03:30:00 -0400"
+    },
+    {
      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
      "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
      "date": "Wed, 26 Aug 2026 01:45:58 -0400"
@@ -168,22 +178,27 @@
      "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
      "date": "Tue, 25 Aug 2026 14:15:23 -0400"
-    },
-    {
-     "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-     "date": "Tue, 25 Aug 2026 11:20:18 -0400"
-    },
-    {
-     "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
-     "link": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
-     "date": "Tue, 25 Aug 2026 10:59:12 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+     "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 07:26:45 +0000"
+    },
+    {
+     "title": "Man United’s Fernandes, City’s Shaw named PFA Players of the Year",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/man-uniteds-fernandes-citys-shaw-named-pfa-players-of-the-year?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 07:20:06 +0000"
+    },
+    {
+     "title": "Trump threatens Iran’s partners: How do secondary sanctions work?",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 07:18:07 +0000"
+    },
     {
      "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
      "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Massive natural gas leak in Wisconsin puts community on alert",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 05:15:51 +0000"
-    },
-    {
-     "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 04:54:38 +0000"
-    },
-    {
-     "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
-     "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 04:27:15 +0000"
-    },
-    {
-     "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-     "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 03:49:23 +0000"
     }
    ]
   },
