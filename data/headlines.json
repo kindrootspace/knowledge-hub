@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26 13:16 UTC",
+ "updated": "2026-08-26 14:08 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,12 +12,17 @@
     {
      "title": "Murder probe as two people dead in house fire in Middlesbrough",
      "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 12:53:26 GMT"
+     "date": "Wed, 26 Aug 2026 13:44:34 GMT"
     },
     {
      "title": "Prince Harry and Meghan land in UK days after announcing move",
      "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 13:01:51 GMT"
+    },
+    {
+     "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+     "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 11:32:11 GMT"
     },
     {
      "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
@@ -32,12 +37,7 @@
     {
      "title": "Ex-chief constable investigated over ban on Israeli Maccabi Tel Aviv fans",
      "link": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 12:59:26 GMT"
-    },
-    {
-     "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 11:03:50 GMT"
+     "date": "Wed, 26 Aug 2026 13:30:11 GMT"
     },
     {
      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Dolly Parton didn't just write hits — she created an American songbook",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+     "date": "Wed, 26 Aug 2026 09:46:34 -0400"
+    },
+    {
+     "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+     "date": "Wed, 26 Aug 2026 09:33:39 -0400"
+    },
+    {
      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
      "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
      "date": "Wed, 26 Aug 2026 08:27:19 -0400"
@@ -168,22 +178,27 @@
      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
      "date": "Wed, 26 Aug 2026 03:34:59 -0400"
-    },
-    {
-     "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-     "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-     "date": "Wed, 26 Aug 2026 03:30:00 -0400"
-    },
-    {
-     "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
-     "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-     "date": "Wed, 26 Aug 2026 01:45:58 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Callaway apologises after golf ad slammed for depicting domestic violence",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 13:36:32 +0000"
+    },
+    {
+     "title": "A teacher’s slap, student’s death revive India’s corporal punishment debate",
+     "link": "https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 13:22:58 +0000"
+    },
+    {
+     "title": "ICC chief urges Japan to counter US pressure on the court",
+     "link": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 13:15:59 +0000"
+    },
     {
      "title": "Deadly flash floods sweep through northern Nepal",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
@@ -208,27 +223,37 @@
      "title": "England footballer Sterling charged with dangerous driving after collision",
      "link": "https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 12:22:18 +0000"
-    },
-    {
-     "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-     "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 12:05:09 +0000"
-    },
-    {
-     "title": "Dead whale washes ashore on beach in Mexico",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 12:04:22 +0000"
-    },
-    {
-     "title": "Why India is sharing missile secrets with its private sector",
-     "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 11:32:35 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Using nuclear waste to power space missions",
+     "link": "https://www.nature.com/articles/d41586-026-02514-4",
+     "date": ""
+    },
+    {
+     "title": "Can nuclear reactors hit the road?",
+     "link": "https://www.nature.com/articles/d41586-026-02510-8",
+     "date": ""
+    },
+    {
+     "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+     "link": "https://www.nature.com/articles/d41586-026-02506-4",
+     "date": ""
+    },
+    {
+     "title": "The 46 companies scrambling to commercialize fusion for energy",
+     "link": "https://www.nature.com/articles/d41586-026-02513-5",
+     "date": ""
+    },
+    {
+     "title": "Are pro-nuclear politics a threat to public safety?",
+     "link": "https://www.nature.com/articles/d41586-026-02509-1",
+     "date": ""
+    },
     {
      "title": "South Africa’s ‘registration law’ for scientists could be a template for the world — if the nation gets it right",
      "link": "https://www.nature.com/articles/d41586-026-02568-4",
@@ -240,33 +265,8 @@
      "date": ""
     },
     {
-     "title": "Like coffee and ice cream: an interview with Sam and Eli Morten",
-     "link": "https://www.nature.com/articles/d41586-026-02412-9",
-     "date": ""
-    },
-    {
-     "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
-     "link": "https://www.nature.com/articles/s41586-026-11017-1",
-     "date": ""
-    },
-    {
-     "title": "Amend copyright licences to halt AI misuse and reassert human control",
-     "link": "https://www.nature.com/articles/d41586-026-02633-y",
-     "date": ""
-    },
-    {
-     "title": "The future of peer review requires AI support, not AI bans",
-     "link": "https://www.nature.com/articles/d41586-026-02631-0",
-     "date": ""
-    },
-    {
-     "title": "Protecting education in the middle of war zones",
-     "link": "https://www.nature.com/articles/d41586-026-02634-x",
-     "date": ""
-    },
-    {
-     "title": "Ancient surveying instrument found in Egypt",
-     "link": "https://www.nature.com/articles/d41586-026-02382-y",
+     "title": "A raft of start-up firms is betting on nuclear fusion",
+     "link": "https://www.nature.com/articles/d41586-026-02511-7",
      "date": ""
     }
    ]
