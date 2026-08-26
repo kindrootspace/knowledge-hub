@@ -1,18 +1,18 @@
 {
- "updated": "2026-08-26 09:02 UTC",
+ "updated": "2026-08-26 09:57 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "The life of an iconic country singer",
+     "title": "Watch: The life of an iconic country singer",
      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 18:27:22 GMT"
     },
     {
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 07:48:50 GMT"
+     "date": "Wed, 26 Aug 2026 09:31:51 GMT"
     },
     {
      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
@@ -20,9 +20,9 @@
      "date": "Wed, 26 Aug 2026 05:14:12 GMT"
     },
     {
-     "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+     "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:11:15 GMT"
+     "date": "Wed, 26 Aug 2026 09:28:03 GMT"
     },
     {
      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
@@ -52,7 +52,7 @@
     {
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 07:48:50 GMT"
+     "date": "Wed, 26 Aug 2026 09:31:51 GMT"
     },
     {
      "title": "How parents can save on costs as the new school year starts",
@@ -80,20 +80,25 @@
      "date": "Tue, 25 Aug 2026 23:09:31 GMT"
     },
     {
-     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 08:08:26 GMT"
-    },
-    {
      "title": "'Ironing board' seats to be replaced on Thameslink",
      "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 08:47:49 GMT"
+    },
+    {
+     "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 08:08:26 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
+     "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+     "date": "Wed, 26 Aug 2026 09:00:39 GMT"
+    },
     {
      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
      "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
@@ -115,11 +120,6 @@
      "date": "Sun, 23 Aug 2026 22:16:53 GMT"
     },
     {
-     "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-     "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-     "date": "Thu, 20 Aug 2026 19:57:59 GMT"
-    },
-    {
      "title": "Wife of US soldier deported after Trump rollback on military family protections",
      "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
      "date": "Tue, 25 Aug 2026 20:23:55 GMT"
@@ -139,6 +139,21 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+     "date": "Wed, 26 Aug 2026 05:02:00 -0400"
+    },
+    {
+     "title": "Soaring summer power bills spark protests -- and even disconnections",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+     "date": "Wed, 26 Aug 2026 05:01:00 -0400"
+    },
+    {
+     "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+     "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+     "date": "Wed, 26 Aug 2026 05:00:00 -0400"
+    },
     {
      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
@@ -163,27 +178,27 @@
      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
      "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
      "date": "Tue, 25 Aug 2026 18:50:57 -0400"
-    },
-    {
-     "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-     "date": "Tue, 25 Aug 2026 16:47:54 -0400"
-    },
-    {
-     "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-     "date": "Tue, 25 Aug 2026 14:17:32 -0400"
-    },
-    {
-     "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
-     "date": "Tue, 25 Aug 2026 14:15:23 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 09:36:08 +0000"
+    },
+    {
+     "title": "The Bulgarian village that fears becoming an Iranian target",
+     "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 09:20:33 +0000"
+    },
+    {
+     "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 09:00:35 +0000"
+    },
     {
      "title": "US immigration agents arrested more than 49,500 people in July",
      "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
@@ -208,27 +223,17 @@
      "title": "Trump’s Korean gambit exposes a shifting East Asian order",
      "link": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 08:18:55 +0000"
-    },
-    {
-     "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
-     "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 08:04:13 +0000"
-    },
-    {
-     "title": "US Army Black Hawk helicopter crashes in Colorado",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 07:47:42 +0000"
-    },
-    {
-     "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
-     "link": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 07:43:36 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "South Africa’s ‘registration law’ for scientists could be a template for the world — if the nation gets it right",
+     "link": "https://www.nature.com/articles/d41586-026-02568-4",
+     "date": ""
+    },
     {
      "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
      "link": "https://www.nature.com/articles/s41586-026-11017-1",
@@ -262,11 +267,6 @@
     {
      "title": "Asthma in some boys stops at puberty: mouse results hint at why",
      "link": "https://www.nature.com/articles/d41586-026-02611-4",
-     "date": ""
-    },
-    {
-     "title": "How to manage AI risks while reaping the benefits",
-     "link": "https://www.nature.com/articles/d41586-026-02567-5",
      "date": ""
     }
    ]
