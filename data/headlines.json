@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26 15:54 UTC",
+ "updated": "2026-08-26 16:59 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Wed, 26 Aug 2026 12:36:04 GMT"
     },
     {
-     "title": "Murder probe as two people dead in house fire in Middlesbrough",
+     "title": "Rocky Horror star Tim Curry dies at 80",
+     "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 16:49:42 GMT"
+    },
+    {
+     "title": "Murder arrests after fire kills two including child near Middlesbrough",
      "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 14:34:07 GMT"
+     "date": "Wed, 26 Aug 2026 16:39:37 GMT"
     },
     {
      "title": "Prince Harry and Meghan land in UK days after announcing move",
@@ -25,24 +30,19 @@
      "date": "Wed, 26 Aug 2026 11:32:11 GMT"
     },
     {
-     "title": "Watch: How Dolly became a fashion icon",
-     "link": "https://www.bbc.co.uk/news/videos/cy7z8pz25k8o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 14:24:43 GMT"
-    },
-    {
      "title": "Stourbridge fires that razed 19 homes were accidental, say investigators",
      "link": "https://www.bbc.co.uk/news/articles/c5ye3ld87y1o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 15:34:52 GMT"
     },
     {
+     "title": "Portrait of Ann Widdecombe put up in Parliament for MPs' return",
+     "link": "https://www.bbc.co.uk/news/articles/czdz1r1z17zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 16:40:59 GMT"
+    },
+    {
      "title": "Inquest begins into death of Jason Arday",
      "link": "https://www.bbc.co.uk/news/articles/cjdv5y220keo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 14:15:48 GMT"
-    },
-    {
-     "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-     "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 14:42:03 GMT"
     }
    ]
   },
@@ -145,7 +145,7 @@
      "date": "Wed, 26 Aug 2026 10:58:58 -0400"
     },
     {
-     "title": "Dolly Parton didn't just write hits — she created an American songbook",
+     "title": "How Dolly Parton wrote the story of a changing America",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
      "date": "Wed, 26 Aug 2026 09:46:34 -0400"
     },
@@ -185,6 +185,36 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Putin and al-Sharaa discuss Russia-Syria relations, deal on military bases",
+     "link": "https://www.aljazeera.com/news/2026/8/26/putin-and-al-sharaa-discuss-russia-syria-relations-deal-on-military-bases?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 16:27:42 +0000"
+    },
+    {
+     "title": "Luxury watches worth $1.2 million stolen from a popular mall in Tokyo",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/luxury-watches-worth-1-2-million-stolen-from-a-popular-mall-in-tokyo?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 16:25:12 +0000"
+    },
+    {
+     "title": "Video: Man kills eight relatives in Montana gun attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-man-kills-eight-relatives-in-montana-gun-attack?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 16:16:02 +0000"
+    },
+    {
+     "title": "Rescuers search for hundreds missing in Nepal-Tibet flash floods",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/rescuers-search-for-hundreds-missing-in-nepal-tibet-flash-floods?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 16:14:10 +0000"
+    },
+    {
+     "title": "Syria removed: Which countries are still on the US ‘terror’ list – and why?",
+     "link": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 16:11:40 +0000"
+    },
+    {
+     "title": "LIVE: Real Madrid vs Real Sociedad – La Liga",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/26/live-real-madrid-vs-sociedad-la-liga?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 15:52:53 +0000"
+    },
+    {
      "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
      "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 14:59:22 +0000"
@@ -193,36 +223,6 @@
      "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
      "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 14:42:36 +0000"
-    },
-    {
-     "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
-     "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 14:30:24 +0000"
-    },
-    {
-     "title": "Meta agrees to settlement, platform changes in youth addiction case",
-     "link": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 14:21:23 +0000"
-    },
-    {
-     "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
-     "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 14:16:29 +0000"
-    },
-    {
-     "title": "Bodies of missing people found in Korea becomes national scandal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 14:00:43 +0000"
-    },
-    {
-     "title": "Children in Gaza fear flying their kites after Israeli threat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 13:53:09 +0000"
-    },
-    {
-     "title": "Why northern Mozambique’s surging violence is worsening displacement crisis",
-     "link": "https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 13:49:05 +0000"
     }
    ]
   },
