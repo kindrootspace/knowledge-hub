@@ -1,23 +1,33 @@
 {
- "updated": "2026-08-26 10:51 UTC",
+ "updated": "2026-08-26 11:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Murder probe as two people dead in house fire in Middlesbrough",
+     "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 11:38:34 GMT"
+    },
+    {
+     "title": "Prince Harry and Meghan to arrive in UK today",
+     "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 11:40:52 GMT"
+    },
     {
      "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
      "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 18:27:22 GMT"
     },
     {
-     "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 09:31:51 GMT"
-    },
-    {
      "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 10:29:36 GMT"
+    },
+    {
+     "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 11:03:50 GMT"
     },
     {
      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
@@ -33,16 +43,6 @@
      "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 09:28:03 GMT"
-    },
-    {
-     "title": "Ex-England footballer Sterling charged with dangerous driving after crashing Lamborghini",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 07:42:51 GMT"
-    },
-    {
-     "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 08:01:56 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 09:31:51 GMT"
+     "date": "Wed, 26 Aug 2026 11:03:50 GMT"
     },
     {
      "title": "Why we should all get used to high household energy bills",
@@ -95,7 +95,12 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "Moringa lattes and tigernut kebabs: the young Ghanaians ‘taking back the power’ of their food",
+     "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+     "link": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+     "date": "Wed, 26 Aug 2026 11:00:12 GMT"
+    },
+    {
+     "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
      "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
      "date": "Wed, 26 Aug 2026 09:00:39 GMT"
     },
@@ -113,11 +118,6 @@
      "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
      "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
      "date": "Mon, 24 Aug 2026 10:11:34 GMT"
-    },
-    {
-     "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-     "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-     "date": "Sun, 23 Aug 2026 22:16:53 GMT"
     },
     {
      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+     "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+     "date": "Wed, 26 Aug 2026 07:05:46 -0400"
+    },
     {
      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
@@ -173,11 +178,6 @@
      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
      "date": "Wed, 26 Aug 2026 01:45:34 -0400"
-    },
-    {
-     "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-     "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
-     "date": "Tue, 25 Aug 2026 18:50:57 -0400"
     }
    ]
   },
@@ -185,17 +185,37 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 11:06:28 +0000"
+    },
+    {
+     "title": "Infantino has no future at FIFA, says European Leagues chief",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 10:42:01 +0000"
+    },
+    {
+     "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+     "link": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 10:29:46 +0000"
+    },
+    {
+     "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+     "link": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 10:28:52 +0000"
+    },
+    {
      "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
      "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 10:00:05 +0000"
     },
     {
-     "title": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+     "title": "At least eight killed, hundreds missing after Nepal flash flood",
      "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 09:48:36 +0000"
     },
     {
-     "title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+     "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
      "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 09:36:08 +0000"
     },
@@ -203,26 +223,6 @@
      "title": "The Bulgarian village that fears becoming an Iranian target",
      "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 09:20:33 +0000"
-    },
-    {
-     "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
-     "link": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 09:00:35 +0000"
-    },
-    {
-     "title": "US immigration agents arrested more than 49,500 people in July",
-     "link": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 08:55:23 +0000"
-    },
-    {
-     "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
-     "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 08:54:35 +0000"
-    },
-    {
-     "title": "Thousands in Japan are pulling this historic castle back into place",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 08:46:53 +0000"
     }
    ]
   },
