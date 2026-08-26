@@ -1,18 +1,23 @@
 {
- "updated": "2026-08-26 11:45 UTC",
+ "updated": "2026-08-26 13:16 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Murder probe as two people dead in house fire in Middlesbrough",
-     "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 11:38:34 GMT"
+     "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+     "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 12:36:04 GMT"
     },
     {
-     "title": "Prince Harry and Meghan to arrive in UK today",
+     "title": "Murder probe as two people dead in house fire in Middlesbrough",
+     "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 12:53:26 GMT"
+    },
+    {
+     "title": "Prince Harry and Meghan land in UK days after announcing move",
      "link": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 11:40:52 GMT"
+     "date": "Wed, 26 Aug 2026 13:01:51 GMT"
     },
     {
      "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
@@ -25,24 +30,19 @@
      "date": "Wed, 26 Aug 2026 10:29:36 GMT"
     },
     {
+     "title": "Ex-chief constable investigated over ban on Israeli Maccabi Tel Aviv fans",
+     "link": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 12:59:26 GMT"
+    },
+    {
      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 11:03:50 GMT"
     },
     {
-     "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
-     "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:13:34 GMT"
-    },
-    {
-     "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
-     "link": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 05:14:12 GMT"
-    },
-    {
-     "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
-     "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 09:28:03 GMT"
+     "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+     "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 12:32:47 GMT"
     }
    ]
   },
@@ -55,9 +55,14 @@
      "date": "Wed, 26 Aug 2026 11:03:50 GMT"
     },
     {
-     "title": "Why we should all get used to high household energy bills",
+     "title": "Why high energy bills look like they are here to stay",
      "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 10:10:33 GMT"
+    },
+    {
+     "title": "Reform proposes £30 tax rebate for HMRC phone delays",
+     "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 12:39:37 GMT"
     },
     {
      "title": "How parents can save on costs as the new school year starts",
@@ -70,24 +75,19 @@
      "date": "Wed, 26 Aug 2026 01:32:07 GMT"
     },
     {
-     "title": "Why Tesla has been caught up in a massive car recall in China",
-     "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 03:33:59 GMT"
-    },
-    {
      "title": "Firms scramble for battery power in Spain and Portugal",
      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 25 Aug 2026 23:09:31 GMT"
     },
     {
+     "title": "Why Tesla has been caught up in a massive car recall in China",
+     "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 03:33:59 GMT"
+    },
+    {
      "title": "'Ironing board' seats to be replaced on Thameslink",
      "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 10:30:53 GMT"
-    },
-    {
-     "title": "AI gold rush draws crypto firms away from Bitcoin",
-     "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:11:02 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+     "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+     "date": "Wed, 26 Aug 2026 08:27:19 -0400"
+    },
+    {
      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
      "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
      "date": "Wed, 26 Aug 2026 07:05:46 -0400"
@@ -150,7 +155,7 @@
      "date": "Wed, 26 Aug 2026 05:02:00 -0400"
     },
     {
-     "title": "Soaring summer power bills spark protests — and even disconnections",
+     "title": "She got an electric bill for $1,373. She's not alone",
      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
      "date": "Wed, 26 Aug 2026 05:01:00 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
      "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
      "date": "Wed, 26 Aug 2026 01:45:58 -0400"
-    },
-    {
-     "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-     "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-     "date": "Wed, 26 Aug 2026 01:45:34 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
-     "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 11:06:28 +0000"
+     "title": "Deadly flash floods sweep through northern Nepal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:44:14 +0000"
     },
     {
-     "title": "Infantino has no future at FIFA, says European Leagues chief",
-     "link": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 10:42:01 +0000"
+     "title": "CCTV captures terrifying mudslide engulfing Nepal-China border",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:36:34 +0000"
     },
     {
-     "title": "China’s Xi to visit Kyrgyzstan, Egypt",
-     "link": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 10:29:46 +0000"
+     "title": "When is the Champions League draw, which teams are in, and what are the dates?",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:24:07 +0000"
     },
     {
-     "title": "Is Japan trying to build bridges with China after Taiwan spat?",
-     "link": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 10:28:52 +0000"
+     "title": "Photos: Avalanche floods kill eight, hundreds missing in Nepal’s Himalayas",
+     "link": "https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:22:53 +0000"
     },
     {
-     "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
-     "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 10:00:05 +0000"
+     "title": "England footballer Sterling charged with dangerous driving after collision",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/england-footballer-sterling-charged-with-dangerous-driving-after-collision?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:22:18 +0000"
     },
     {
-     "title": "At least eight killed, hundreds missing after Nepal flash flood",
-     "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 09:48:36 +0000"
+     "title": "Iran, Oman agree on temporary Hormuz route: What we know",
+     "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:05:09 +0000"
     },
     {
-     "title": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
-     "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 09:36:08 +0000"
+     "title": "Dead whale washes ashore on beach in Mexico",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 12:04:22 +0000"
     },
     {
-     "title": "The Bulgarian village that fears becoming an Iranian target",
-     "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 09:20:33 +0000"
+     "title": "Why India is sharing missile secrets with its private sector",
+     "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 11:32:35 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "The baffling science of SSRIs: how do they really work?",
      "link": "https://www.nature.com/articles/d41586-026-02570-w",
+     "date": ""
+    },
+    {
+     "title": "Like coffee and ice cream: an interview with Sam and Eli Morten",
+     "link": "https://www.nature.com/articles/d41586-026-02412-9",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Ancient surveying instrument found in Egypt",
      "link": "https://www.nature.com/articles/d41586-026-02382-y",
-     "date": ""
-    },
-    {
-     "title": "Assessing students in the AI era",
-     "link": "https://www.nature.com/articles/d41586-026-02632-z",
      "date": ""
     }
    ]
