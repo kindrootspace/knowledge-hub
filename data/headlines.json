@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-26 05:50 UTC",
+ "updated": "2026-08-26 07:09 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "How Dolly Parton told her life story through six iconic songs",
-     "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:43:13 GMT"
+     "title": "Dolly Parton: The life of an iconic country singer",
+     "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 25 Aug 2026 18:27:22 GMT"
+    },
+    {
+     "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 07:01:44 GMT"
     },
     {
      "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
      "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 26 Aug 2026 04:07:48 GMT"
-    },
-    {
-     "title": "Winter energy prices expected to rise to three-year high",
-     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:07:29 GMT"
     },
     {
      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Winter energy prices expected to rise to three-year high",
+     "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 25 Aug 2026 23:07:29 GMT"
+     "date": "Wed, 26 Aug 2026 07:01:44 GMT"
     },
     {
      "title": "Back to school: How parents can save on costs",
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
+     "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 06:31:58 +0000"
+    },
+    {
+     "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+     "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
+     "date": "Wed, 26 Aug 2026 06:02:13 +0000"
+    },
+    {
      "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 05:20:17 +0000"
@@ -205,7 +215,7 @@
      "date": "Wed, 26 Aug 2026 04:54:38 +0000"
     },
     {
-     "title": "At least 15 newborns killed in Pakistan hospital fire",
+     "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
      "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 04:27:15 +0000"
     },
@@ -213,16 +223,6 @@
      "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
      "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
      "date": "Wed, 26 Aug 2026 03:49:23 +0000"
-    },
-    {
-     "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
-     "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 03:40:26 +0000"
-    },
-    {
-     "title": "Who were the Syrian Democratic Forces and why dissolve?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
-     "date": "Wed, 26 Aug 2026 03:28:43 +0000"
     }
    ]
   },
