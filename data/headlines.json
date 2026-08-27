@@ -1,48 +1,48 @@
 {
- "updated": "2026-08-27 09:49 UTC",
+ "updated": "2026-08-27 20:30 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: Rescue teams pull survivors from thick mud",
-     "link": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 06:02:03 GMT"
+     "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+     "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 16:13:39 GMT"
     },
     {
-     "title": "Two teenagers, 13 and 14, among 33 UK nationals missing in disaster",
-     "link": "https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 09:40:38 GMT"
+     "title": "Uefa preparing criminal legal action against Infantino",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 14:42:09 GMT"
     },
     {
-     "title": "Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says",
+     "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+     "link": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 13:48:09 GMT"
+    },
+    {
+     "title": "Dame Jenni Murray died days after car crash, inquest hears",
+     "link": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 11:52:28 GMT"
+    },
+    {
+     "title": "Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths",
      "link": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 09:26:57 GMT"
+     "date": "Thu, 27 Aug 2026 20:14:57 GMT"
     },
     {
-     "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
-     "link": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 09:23:15 GMT"
+     "title": "Trump signs order to rename Lake Ontario to Lake America",
+     "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 20:11:40 GMT"
     },
     {
-     "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-     "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 23:07:22 GMT"
+     "title": "Top Gear to return to TV four years after Flintoff crash, BBC confirms",
+     "link": "https://www.bbc.co.uk/news/articles/clym7yrdk29o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 10:57:12 GMT"
     },
     {
-     "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-     "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 09:41:14 GMT"
-    },
-    {
-     "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-     "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 08:59:53 GMT"
-    },
-    {
-     "title": "Two dead and 10 hurt after car rams into crowd in northern France",
-     "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 07:07:34 GMT"
+     "title": "Sports Direct founder Mike Ashley attacks Burnham's 'populist' High Street plans.",
+     "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 20:03:34 GMT"
     }
    ]
   },
@@ -50,9 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-     "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 23:04:24 GMT"
+     "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+     "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 20:03:34 GMT"
+    },
+    {
+     "title": "Hackers steal data from millions of airport customers",
+     "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 16:07:26 GMT"
+    },
+    {
+     "title": "What the Meta settlement means for the UK, and other questions after the deal",
+     "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 13:24:03 GMT"
     },
     {
      "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
@@ -60,14 +70,9 @@
      "date": "Thu, 27 Aug 2026 09:41:14 GMT"
     },
     {
-     "title": "Can scent help make your rental feel like home?",
-     "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 23:08:42 GMT"
-    },
-    {
-     "title": "Nvidia revenue doubles on continued AI demand",
-     "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 21:49:26 GMT"
+     "title": "One in eight young people still out of work or education ahead of major review",
+     "link": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 27 Aug 2026 15:33:36 GMT"
     },
     {
      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
@@ -75,19 +80,14 @@
      "date": "Wed, 26 Aug 2026 23:03:46 GMT"
     },
     {
-     "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 22:03:45 GMT"
+     "title": "From lighting to vintage gems: Five ways to spruce up your rental",
+     "link": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 23:08:42 GMT"
     },
     {
-     "title": "Want your job application to stand out? Employers say they look for these skills",
-     "link": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 08:47:36 GMT"
-    },
-    {
-     "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-     "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 26 Aug 2026 21:27:23 GMT"
+     "title": "Nvidia revenue doubles on continued AI demand",
+     "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 26 Aug 2026 21:49:26 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 24 Aug 2026 17:34:50 GMT"
     },
     {
+     "title": "Trump signs executive order to rename Lake Ontario as Lake America",
+     "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+     "date": "Thu, 27 Aug 2026 18:44:35 GMT"
+    },
+    {
      "title": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
      "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
      "date": "Wed, 26 Aug 2026 18:15:21 GMT"
@@ -128,11 +133,6 @@
      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
      "link": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
      "date": "Wed, 26 Aug 2026 10:00:41 GMT"
-    },
-    {
-     "title": "Wife of US soldier deported after Trump rollback on military family protections",
-     "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-     "date": "Tue, 25 Aug 2026 20:23:55 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Trump directs federal government to rename Lake Ontario to Lake America",
+     "link": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+     "date": "Thu, 27 Aug 2026 14:53:17 -0400"
+    },
+    {
+     "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
+     "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
+     "date": "Thu, 27 Aug 2026 13:01:36 -0400"
+    },
+    {
+     "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
+     "link": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
+     "date": "Thu, 27 Aug 2026 09:32:43 -0400"
+    },
+    {
+     "title": "The real cause of most wildfires? People",
+     "link": "https://www.npr.org/2026/08/27/nx-s1-5944328/the-real-cause-of-most-wildfires-people",
+     "date": "Thu, 27 Aug 2026 07:30:00 -0400"
+    },
+    {
+     "title": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
+     "link": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
+     "date": "Thu, 27 Aug 2026 07:02:41 -0400"
+    },
+    {
+     "title": "Rwandans love their milk bars. The health minister wishes they'd drink a little less",
+     "link": "https://www.npr.org/2026/08/27/g-s1-139914/milk-rwanda-milk-bar",
+     "date": "Thu, 27 Aug 2026 06:54:44 -0400"
+    },
+    {
+     "title": "Floods kill nearly 400 people in Nepal and Tibet, with 90 Americans among the missing",
+     "link": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
+     "date": "Thu, 27 Aug 2026 06:50:35 -0400"
+    },
+    {
      "title": "School districts face a back-to-school math problem: The high price of diesel",
      "link": "https://www.npr.org/2026/08/27/nx-s1-5944429/school-buses-fuel-diesel-prices",
      "date": "Thu, 27 Aug 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Andrew Tate is seeking bail in his extradition fight. Here's why that's unlikely",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
-     "date": "Thu, 27 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5945238/emergency-hearing-kennedy-center-demolish-threat",
-     "date": "Thu, 27 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
-     "date": "Thu, 27 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
-     "date": "Thu, 27 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Tech companies and local officials are covering data center talks in NDAs",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
-     "date": "Thu, 27 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5942910/morning-news-brief",
-     "date": "Thu, 27 Aug 2026 04:47:33 -0400"
-    },
-    {
-     "title": "Why Meta's settlement could be an 'inflection point' for reining in Big Tech",
-     "link": "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
-     "date": "Thu, 27 Aug 2026 03:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Malaysia’s former PM Ismail Sabri charged with concealing assets",
-     "link": "https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 08:58:34 +0000"
+     "title": "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
+     "link": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 20:06:46 +0000"
     },
     {
-     "title": "Chaos mars Fenerbahce’s Champions League qualifying win over Lyon",
-     "link": "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 08:57:38 +0000"
+     "title": "Trade war between US and Canada could cost 90,000 jobs",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 20:06:09 +0000"
     },
     {
-     "title": "‘Swept away’: Nepal families search for relatives after devastating floods",
-     "link": "https://www.aljazeera.com/news/2026/8/27/swept-away-nepal-families-search-for-relatives-after-devastating-floods?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 08:35:29 +0000"
+     "title": "Nigeria’s football federation chief resigns amid corruption allegations",
+     "link": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 19:57:13 +0000"
     },
     {
-     "title": "Lightning bolt strikes Mecca’s clock tower",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/lightning-bolt-strikes-meccas-clock-tower?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 07:59:58 +0000"
+     "title": "How a glacial collapse caused Nepal’s catastrophic floods",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 19:43:24 +0000"
     },
     {
-     "title": "Yayoi Kusama, Japan’s ‘queen of polka dots’, dies at 97",
-     "link": "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 07:52:42 +0000"
+     "title": "People in Bosnia react to the death of Ratko Mladic, ‘butcher of Bosnia’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 19:38:18 +0000"
     },
     {
-     "title": "Ben Shapiro’s anti-Muslim film is nothing new",
-     "link": "https://www.aljazeera.com/opinions/2026/8/27/ben-shapiros-anti-muslim-film-is-nothing-new?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 07:43:39 +0000"
+     "title": "Why are kidnappings recurrent in Nigeria?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/8/27/why-are-kidnappings-recurrent-in-nigeria?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 19:20:31 +0000"
     },
     {
-     "title": "Israel is not heading for civil war",
-     "link": "https://www.aljazeera.com/opinions/2026/8/27/israel-is-not-heading-for-civil-war?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 07:24:59 +0000"
+     "title": "Parents who lost children to social media harms question Meta settlement",
+     "link": "https://www.aljazeera.com/economy/2026/8/27/parents-who-lost-children-to-social-media-harms-question-meta?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 19:15:37 +0000"
     },
     {
-     "title": "More than 1,300 missing in Nepal and China after deadly Himalayan flood",
-     "link": "https://www.aljazeera.com/news/2026/8/27/more-than-1300-missing-in-nepal-and-china-after-deadly-himalayan-flood?traffic_source=rss",
-     "date": "Thu, 27 Aug 2026 07:18:00 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
-     "link": "https://www.nature.com/articles/d41586-026-02681-4",
-     "date": ""
-    },
-    {
-     "title": "Using nuclear waste to power space missions",
-     "link": "https://www.nature.com/articles/d41586-026-02514-4",
-     "date": ""
-    },
-    {
-     "title": "Automated prototyping of genetic codes",
-     "link": "https://www.nature.com/articles/s41586-026-10949-y",
-     "date": ""
-    },
-    {
-     "title": "Insights into longevity and virus-driven adaptation from Myotis bat genomes",
-     "link": "https://www.nature.com/articles/s41586-026-10932-7",
-     "date": ""
-    },
-    {
-     "title": "Systems vaccinology and the architecture of human immunity",
-     "link": "https://www.nature.com/articles/s41586-026-10753-8",
-     "date": ""
-    },
-    {
-     "title": "Ultrafast and reference-free sequence discovery in single-cell data",
-     "link": "https://www.nature.com/articles/s41586-026-10975-w",
-     "date": ""
-    },
-    {
-     "title": "Cell-type-specific eQTLs underlie the genetic architecture of complex traits",
-     "link": "https://www.nature.com/articles/s41586-026-10577-6",
-     "date": ""
-    },
-    {
-     "title": "Amphibious stem-insect sheds light on colonization of land",
-     "link": "https://www.nature.com/articles/s41586-026-10961-2",
-     "date": ""
+     "title": "Abbas gives Pakistan edge with four wickets against England in second Test",
+     "link": "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
+     "date": "Thu, 27 Aug 2026 19:05:32 +0000"
     }
    ]
   }
