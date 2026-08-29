@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-29 14:29 UTC",
+ "updated": "2026-08-29 18:31 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+     "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 15:27:56 GMT"
+    },
     {
      "title": "Christian festival 'devastated' as man dies after sign falls",
      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 29 Aug 2026 14:12:30 GMT"
     },
     {
-     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-     "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 12:55:39 GMT"
-    },
-    {
-     "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 10:31:18 GMT"
+     "title": "Cleverly quits shadow cabinet to run for London mayor",
+     "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 16:24:39 GMT"
     },
     {
      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 13:02:27 GMT"
+     "date": "Sat, 29 Aug 2026 15:43:43 GMT"
     },
     {
      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
@@ -52,7 +52,7 @@
     {
      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 14:18:11 GMT"
+     "date": "Sat, 29 Aug 2026 16:15:56 GMT"
     },
     {
      "title": "Wife of man who died after turbulence sues airline",
@@ -120,7 +120,7 @@
      "date": "Wed, 26 Aug 2026 11:00:12 GMT"
     },
     {
-     "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+     "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
      "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
      "date": "Sat, 29 Aug 2026 10:00:24 GMT"
     },
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+     "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+     "date": "Sat, 29 Aug 2026 11:54:40 -0400"
+    },
     {
      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
      "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
@@ -165,19 +170,14 @@
      "date": "Sat, 29 Aug 2026 06:00:00 -0400"
     },
     {
-     "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-     "date": "Sat, 29 Aug 2026 05:00:00 -0400"
-    },
-    {
      "title": "Why is one WNBA team calling in national security experts?",
      "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
      "date": "Sat, 29 Aug 2026 05:00:00 -0400"
     },
     {
-     "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-     "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-     "date": "Fri, 28 Aug 2026 22:07:55 -0400"
+     "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+     "date": "Sat, 29 Aug 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "People stranded for days on dilapidated Nigerian highway",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 14:01:46 +0000"
+     "title": "DR Congo begins vaccinating against largest and deadliest Ebola outbreak",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 18:13:05 +0000"
     },
     {
-     "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 13:51:16 +0000"
+     "title": "Sudan’s date palm trees under threat from drought and wildfires",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 18:07:24 +0000"
     },
     {
-     "title": "Mladic died a happy man. He won",
-     "link": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 13:30:56 +0000"
+     "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+     "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 17:41:57 +0000"
     },
     {
-     "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-     "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 13:11:41 +0000"
+     "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 17:09:10 +0000"
     },
     {
-     "title": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/chinese-rescuers-race-to-reach-mudslide-survivors-in-nepal-china-border?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 13:10:47 +0000"
+     "title": "Niger military says it is regaining control after attempted mutiny",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 17:03:10 +0000"
     },
     {
-     "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 13:10:04 +0000"
+     "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 16:53:55 +0000"
     },
     {
-     "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
-     "link": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 12:58:25 +0000"
+     "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+     "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 16:03:32 +0000"
     },
     {
-     "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
-     "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 12:56:27 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: How Dolly Parton left her mark on science",
-     "link": "https://www.nature.com/articles/d41586-026-02732-w",
-     "date": ""
-    },
-    {
-     "title": "Mysteries of the deep and AI friendship: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02725-9",
-     "date": ""
-    },
-    {
-     "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
-     "link": "https://www.nature.com/articles/d41586-026-02680-5",
-     "date": ""
-    },
-    {
-     "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
-     "link": "https://www.nature.com/articles/d41586-026-02688-x",
-     "date": ""
-    },
-    {
-     "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
-     "link": "https://www.nature.com/articles/d41586-026-02733-9",
-     "date": ""
-    },
-    {
-     "title": "What employers are looking for in the age of AI — and four ways to provide it",
-     "link": "https://www.nature.com/articles/d41586-026-01913-x",
-     "date": ""
-    },
-    {
-     "title": "A solution to the mystery of the missing neutrinos",
-     "link": "https://www.nature.com/articles/d41586-026-02628-9",
-     "date": ""
-    },
-    {
-     "title": "Animal-microbe partnerships date back to the dawn of complex life",
-     "link": "https://www.nature.com/articles/d41586-026-02629-8",
-     "date": ""
+     "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+     "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 15:25:43 +0000"
     }
    ]
   }
