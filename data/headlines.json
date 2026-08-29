@@ -1,9 +1,34 @@
 {
- "updated": "2026-08-29 09:03 UTC",
+ "updated": "2026-08-29 14:29 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Christian festival 'devastated' as man dies after sign falls",
+     "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 14:12:30 GMT"
+    },
+    {
+     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+     "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 12:55:39 GMT"
+    },
+    {
+     "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+     "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 10:31:18 GMT"
+    },
+    {
+     "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+     "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 13:02:27 GMT"
+    },
+    {
+     "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+     "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 29 Aug 2026 10:43:25 GMT"
+    },
     {
      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
@@ -13,31 +38,6 @@
      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 29 Aug 2026 03:54:11 GMT"
-    },
-    {
-     "title": "Christian festival 'devastated' as man dies after sign falls",
-     "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 09:01:03 GMT"
-    },
-    {
-     "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-     "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 00:32:17 GMT"
-    },
-    {
-     "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-     "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 00:56:19 GMT"
-    },
-    {
-     "title": "The race to stop England running out of water",
-     "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 00:46:00 GMT"
-    },
-    {
-     "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-     "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 28 Aug 2026 10:35:06 GMT"
     },
     {
      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
@@ -52,7 +52,7 @@
     {
      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 02:42:27 GMT"
+     "date": "Sat, 29 Aug 2026 14:18:11 GMT"
     },
     {
      "title": "Wife of man who died after turbulence sues airline",
@@ -120,6 +120,11 @@
      "date": "Wed, 26 Aug 2026 11:00:12 GMT"
     },
     {
+     "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+     "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+     "date": "Sat, 29 Aug 2026 10:00:24 GMT"
+    },
+    {
      "title": "Trump announces new US oil agreement with Venezuela",
      "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
      "date": "Fri, 28 Aug 2026 23:34:36 GMT"
@@ -128,17 +133,37 @@
      "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
      "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
      "date": "Fri, 28 Aug 2026 17:41:37 GMT"
-    },
-    {
-     "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
-     "link": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
-     "date": "Fri, 28 Aug 2026 15:23:18 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+     "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+     "date": "Sat, 29 Aug 2026 10:22:19 -0400"
+    },
+    {
+     "title": "Opinion: Remembering Dolly Parton",
+     "link": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
+     "date": "Sat, 29 Aug 2026 08:00:00 -0400"
+    },
+    {
+     "title": "The bridges of Rwanda open up new worlds",
+     "link": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
+     "date": "Sat, 29 Aug 2026 07:54:36 -0400"
+    },
+    {
+     "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+     "link": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+     "date": "Sat, 29 Aug 2026 07:00:00 -0400"
+    },
+    {
+     "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+     "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+     "date": "Sat, 29 Aug 2026 06:00:00 -0400"
+    },
     {
      "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
      "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
@@ -153,31 +178,6 @@
      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
      "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
      "date": "Fri, 28 Aug 2026 22:07:55 -0400"
-    },
-    {
-     "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-     "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
-     "date": "Fri, 28 Aug 2026 20:06:04 -0400"
-    },
-    {
-     "title": "After 6 months of war, Iran's battered regime remains entrenched",
-     "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-     "date": "Fri, 28 Aug 2026 15:35:24 -0400"
-    },
-    {
-     "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-     "link": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-     "date": "Fri, 28 Aug 2026 12:05:40 -0400"
-    },
-    {
-     "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
-     "link": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs",
-     "date": "Fri, 28 Aug 2026 10:38:25 -0400"
-    },
-    {
-     "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
-     "link": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
-     "date": "Fri, 28 Aug 2026 07:01:11 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
-     "link": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 08:51:07 +0000"
+     "title": "People stranded for days on dilapidated Nigerian highway",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 14:01:46 +0000"
     },
     {
-     "title": "LIVE: Liverpool vs Nottingham Forest – Premier League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 08:33:04 +0000"
+     "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+     "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 13:51:16 +0000"
     },
     {
-     "title": "Aston Villa sign Chelsea striker Nicolas Jackson for reported club record",
-     "link": "https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 07:33:34 +0000"
+     "title": "Mladic died a happy man. He won",
+     "link": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 13:30:56 +0000"
     },
     {
-     "title": "India and Pakistan are united in spending citizen lives like pocket change",
-     "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 07:08:23 +0000"
+     "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
+     "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 13:11:41 +0000"
     },
     {
-     "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
-     "link": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 06:11:58 +0000"
+     "title": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/chinese-rescuers-race-to-reach-mudslide-survivors-in-nepal-china-border?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 13:10:47 +0000"
     },
     {
-     "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 05:27:25 +0000"
+     "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 13:10:04 +0000"
     },
     {
-     "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
-     "link": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 05:18:46 +0000"
+     "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+     "link": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 12:58:25 +0000"
     },
     {
-     "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
-     "date": "Sat, 29 Aug 2026 04:16:01 +0000"
+     "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+     "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+     "date": "Sat, 29 Aug 2026 12:56:27 +0000"
     }
    ]
   },
