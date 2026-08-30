@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 21:06 UTC",
+ "updated": "2026-08-30 23:30 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,9 +15,9 @@
      "date": "Sun, 30 Aug 2026 20:02:43 GMT"
     },
     {
-     "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-     "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 18:53:53 GMT"
+     "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 21:15:42 GMT"
     },
     {
      "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
@@ -25,9 +25,14 @@
      "date": "Sun, 30 Aug 2026 16:30:05 GMT"
     },
     {
-     "title": "Church names pastor killed by falling sign at Christian festival",
-     "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 11:46:07 GMT"
+     "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+     "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 18:53:53 GMT"
+    },
+    {
+     "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
+     "link": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 23:02:43 GMT"
     },
     {
      "title": "British woman killed in stabbing at German railway station",
@@ -35,20 +40,20 @@
      "date": "Sun, 30 Aug 2026 16:11:46 GMT"
     },
     {
-     "title": "Iceland votes against restarting EU membership talks",
-     "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 16:11:44 GMT"
-    },
-    {
-     "title": "Police release one of two men arrested over fatal house fire",
-     "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 14:34:20 GMT"
+     "title": "Church names pastor killed by falling sign at Christian festival",
+     "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 11:46:07 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+     "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 23:22:24 GMT"
+    },
     {
      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 28 Aug 2026 03:41:59 GMT"
-    },
-    {
-     "title": "Overcooked? Why robotic pizza makers are failing",
-     "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 27 Aug 2026 23:16:02 GMT"
     },
     {
      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
@@ -150,6 +150,11 @@
      "date": "Sun, 30 Aug 2026 08:45:00 -0400"
     },
     {
+     "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+     "link": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
+     "date": "Sun, 30 Aug 2026 08:02:26 -0400"
+    },
+    {
      "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
      "link": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
      "date": "Sun, 30 Aug 2026 07:00:00 -0400"
@@ -173,17 +178,27 @@
      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
      "link": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
      "date": "Sun, 30 Aug 2026 05:52:41 -0400"
-    },
-    {
-     "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
-     "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
-     "date": "Sun, 30 Aug 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Vote count starts in Guinea-Bissau referendum on strengthening presidency",
+     "link": "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 23:08:01 +0000"
+    },
+    {
+     "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+     "link": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 21:28:16 +0000"
+    },
+    {
+     "title": "Israeli strike kills 3-year-old child in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 21:02:45 +0000"
+    },
     {
      "title": "Jose Andres renews call for investigation into WCK Gaza staff killings",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss",
      "date": "Sun, 30 Aug 2026 20:12:36 +0000"
-    },
-    {
-     "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
-     "link": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 19:50:15 +0000"
-    },
-    {
-     "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 19:33:18 +0000"
-    },
-    {
-     "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 19:06:11 +0000"
     }
    ]
   },
