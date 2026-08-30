@@ -1,23 +1,28 @@
 {
- "updated": "2026-08-30 12:54 UTC",
+ "updated": "2026-08-30 17:30 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+     "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 16:48:13 GMT"
+    },
     {
      "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
      "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 30 Aug 2026 08:59:58 GMT"
     },
     {
-     "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-     "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 07:58:31 GMT"
-    },
-    {
      "title": "British woman killed in stabbing at German railway station",
      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 11:34:48 GMT"
+     "date": "Sun, 30 Aug 2026 16:11:46 GMT"
+    },
+    {
+     "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 16:30:05 GMT"
     },
     {
      "title": "Church names pastor killed by falling sign at Christian festival",
@@ -25,24 +30,19 @@
      "date": "Sun, 30 Aug 2026 11:46:07 GMT"
     },
     {
-     "title": "Iceland votes against restarting talks on joining EU",
+     "title": "Police release one of two men arrested over fatal house fire",
+     "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 14:34:20 GMT"
+    },
+    {
+     "title": "Iceland votes against restarting EU membership talks",
      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 30 Aug 2026 10:49:11 GMT"
+     "date": "Sun, 30 Aug 2026 16:11:44 GMT"
     },
     {
-     "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
-     "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 17:42:41 GMT"
-    },
-    {
-     "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-     "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 28 Aug 2026 21:17:54 GMT"
-    },
-    {
-     "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 29 Aug 2026 03:54:11 GMT"
+     "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+     "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 30 Aug 2026 04:59:56 GMT"
     }
    ]
   },
@@ -95,7 +95,7 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+     "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
      "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
      "date": "Sun, 30 Aug 2026 06:00:48 GMT"
     },
@@ -120,25 +120,30 @@
      "date": "Wed, 26 Aug 2026 15:09:58 GMT"
     },
     {
+     "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+     "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+     "date": "Sun, 30 Aug 2026 15:08:33 GMT"
+    },
+    {
+     "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+     "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+     "date": "Sun, 30 Aug 2026 14:55:55 GMT"
+    },
+    {
      "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
      "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
      "date": "Sat, 29 Aug 2026 10:00:24 GMT"
-    },
-    {
-     "title": "Trump announces new US oil agreement with Venezuela",
-     "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
-     "date": "Fri, 28 Aug 2026 23:34:36 GMT"
-    },
-    {
-     "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
-     "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
-     "date": "Fri, 28 Aug 2026 17:41:37 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+     "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+     "date": "Sun, 30 Aug 2026 10:36:44 -0400"
+    },
     {
      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
      "link": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
@@ -150,7 +155,7 @@
      "date": "Sun, 30 Aug 2026 07:00:00 -0400"
     },
     {
-     "title": "NASA has successfully launched its newest space telescope",
+     "title": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
      "link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
      "date": "Sun, 30 Aug 2026 06:30:00 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "Medicare's pilot GLP-1 discount program has a catch. Some sick patients don't qualify",
      "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
      "date": "Sun, 30 Aug 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-     "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
-     "date": "Sun, 30 Aug 2026 04:32:13 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
-     "link": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 12:26:48 +0000"
+     "title": "Death toll nears 800 after Himalayan glacier collapse",
+     "link": "https://www.aljazeera.com/news/2026/8/30/death-toll-nears-800-after-himalayan-glacier-collapse?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 17:00:45 +0000"
     },
     {
-     "title": "Road collapses in Nepal landslide four days after floods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 12:14:53 +0000"
+     "title": "Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’",
+     "link": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 16:57:21 +0000"
     },
     {
-     "title": "How has life changed for Iranians six months into the war?",
-     "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 12:08:12 +0000"
+     "title": "Rival Libya factions sign deal to hold national elections within two years",
+     "link": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 16:38:01 +0000"
     },
     {
-     "title": "Infantino must go by 2027 in FIFA overhaul, Dutch football body says",
-     "link": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 12:06:57 +0000"
+     "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+     "link": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 16:09:16 +0000"
     },
     {
-     "title": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
-     "link": "https://www.aljazeera.com/news/2026/8/30/israels-ben-gvir-lauds-harsh-conditions-for-palestinian-female-prisoners?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 11:52:27 +0000"
+     "title": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
+     "link": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 16:06:15 +0000"
     },
     {
-     "title": "Ferry carrying 260 people capsizes off coast of northern Cyprus",
-     "link": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 11:52:12 +0000"
+     "title": "Educated? Skilled? Ambitious? Traffickers are looking for you",
+     "link": "https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 16:03:27 +0000"
     },
     {
-     "title": "Six months on, what did the strikes on Iran achieve?",
-     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 11:24:21 +0000"
+     "title": "Rohingya crisis: Aid falls and hope fades",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/30/rohingya-crisis-aid-falls-and-hope-fades?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 16:00:11 +0000"
     },
     {
-     "title": "Protesters in Argentina urge tech billionaire Peter Thiel to leave",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss",
-     "date": "Sun, 30 Aug 2026 11:15:51 +0000"
+     "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
+     "link": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
+     "date": "Sun, 30 Aug 2026 15:50:45 +0000"
     }
    ]
   },
