@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-01 14:54 UTC",
+ "updated": "2026-09-01 18:31 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+     "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 16:36:42 GMT"
+    },
+    {
      "title": "Keir Starmer announces he is standing down as MP",
      "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 14:31:51 GMT"
+     "date": "Tue, 01 Sep 2026 17:04:29 GMT"
     },
     {
-     "title": "Summer 2026 was UK's hottest on record, Met Office says",
-     "link": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 12:18:55 GMT"
+     "title": "Germany says Russia behind Leipzig airport drone attack",
+     "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 16:53:40 GMT"
     },
     {
-     "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-     "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 05:00:34 GMT"
+     "title": "Briton among 119 rescued in Nepal after deadly floods, army says",
+     "link": "https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 17:46:07 GMT"
     },
     {
-     "title": "The final minutes before floodwater crashed through Nepal-China border",
-     "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 06:02:27 GMT"
+     "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 16:11:18 GMT"
     },
     {
-     "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-     "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 13:46:05 GMT"
-    },
-    {
-     "title": "Norway's new king takes oath as mourners pay respects to his late father",
+     "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
      "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 14:06:58 GMT"
     },
     {
-     "title": "Laundry rooms to be turned into cells to tackle prison overcrowding",
-     "link": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 12:10:14 GMT"
+     "title": "US launches more strikes on Iran as state media reports explosions",
+     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 17:54:01 GMT"
     },
     {
-     "title": "Man in court charged with murder after deaths of woman and girl in Teesside fire",
-     "link": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 10:34:14 GMT"
+     "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+     "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 15:33:14 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 14:43:49 GMT"
+     "date": "Tue, 01 Sep 2026 16:36:42 GMT"
     },
     {
      "title": "Shein valued at $26bn after long-awaited stock market debut",
@@ -85,9 +85,9 @@
      "date": "Mon, 31 Aug 2026 21:28:49 GMT"
     },
     {
-     "title": "Victoria Beckham's company makes its first profit after 18 years",
-     "link": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 31 Aug 2026 17:28:19 GMT"
+     "title": "US borrowing costs hit fresh highs over inflation fears",
+     "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 15:51:51 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 28 Aug 2026 14:46:25 GMT"
     },
     {
+     "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
+     "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+     "date": "Tue, 01 Sep 2026 15:48:27 GMT"
+    },
+    {
      "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
      "link": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
      "date": "Tue, 01 Sep 2026 13:49:33 GMT"
@@ -128,17 +133,22 @@
      "title": "Echoes of cold war as US accused of meddling in another Brazilian election",
      "link": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
      "date": "Tue, 01 Sep 2026 12:00:57 GMT"
-    },
-    {
-     "title": "Trump suggests he is reviewing US support for UK over Falkland Islands",
-     "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
-     "date": "Tue, 01 Sep 2026 08:31:35 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Congress averts a government shutdown ahead of the midterms",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
+     "date": "Tue, 01 Sep 2026 14:06:33 -0400"
+    },
+    {
+     "title": "ICE says it has enough body cameras now, after series of deadly shootings",
+     "link": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
+     "date": "Tue, 01 Sep 2026 13:52:37 -0400"
+    },
     {
      "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
      "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
@@ -155,28 +165,18 @@
      "date": "Tue, 01 Sep 2026 07:21:41 -0400"
     },
     {
+     "title": "Why the Supreme Court's ballroom ruling could matter beyond the ballroom",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
+     "date": "Tue, 01 Sep 2026 07:00:41 -0400"
+    },
+    {
      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
      "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
      "date": "Tue, 01 Sep 2026 06:00:00 -0400"
     },
     {
-     "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
-     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
-    },
-    {
      "title": "A makeover for college: No gym, no meal plan and two years of work",
      "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
-     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
      "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m",
-     "link": "https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 14:23:22 +0000"
+     "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 18:15:56 +0000"
     },
     {
-     "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
-     "link": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 14:17:47 +0000"
+     "title": "US health authorities contradict state officials on measles-related deaths",
+     "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 17:48:28 +0000"
     },
     {
-     "title": "Napoli’s ex Man Utd star McTominay needs surgery for irregular heartbeat",
-     "link": "https://www.aljazeera.com/sports/2026/9/1/napolis-ex-man-utd-star-mctominay-needs-surgery-for-irregular-heartbeat?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 14:11:04 +0000"
+     "title": "The US military began striking targets in Iran, CENTCOM says",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 17:39:29 +0000"
     },
     {
-     "title": "How wildfires are scorching France’s wine industry",
-     "link": "https://www.aljazeera.com/news/2026/9/1/how-wildfires-are-scorching-frances-wine-industry?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 14:02:47 +0000"
+     "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+     "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 17:36:33 +0000"
     },
     {
-     "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
-     "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 13:32:33 +0000"
+     "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
+     "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 17:25:45 +0000"
     },
     {
-     "title": "Irish minister calls for EU action in banning Israeli settlement trade",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 13:32:13 +0000"
+     "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
+     "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 16:59:22 +0000"
     },
     {
-     "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 13:27:39 +0000"
+     "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
+     "link": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 16:56:08 +0000"
     },
     {
-     "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 13:13:55 +0000"
+     "title": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
+     "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 16:45:56 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+     "link": "https://www.nature.com/articles/s41586-026-11071-9",
+     "date": ""
+    },
+    {
+     "title": "Charmed by comets",
+     "link": "https://www.nature.com/articles/d41586-026-02383-x",
+     "date": ""
+    },
+    {
+     "title": "These greenhouse-gas sources have trotters and snouts",
+     "link": "https://www.nature.com/articles/d41586-026-02734-8",
+     "date": ""
+    },
+    {
+     "title": "China’s regulatory innovation for new biomedical technologies",
+     "link": "https://www.nature.com/articles/d41586-026-02737-5",
+     "date": ""
+    },
+    {
+     "title": "When AI does science, who is accountable for mistakes?",
+     "link": "https://www.nature.com/articles/d41586-026-02735-7",
+     "date": ""
+    },
+    {
+     "title": "The global plastics treaty must account for conflict-driven energy insecurity",
+     "link": "https://www.nature.com/articles/d41586-026-02738-4",
+     "date": ""
+    },
+    {
+     "title": "Europe should adapt, not copy, China’s practical PhD",
+     "link": "https://www.nature.com/articles/d41586-026-02736-6",
+     "date": ""
+    },
+    {
+     "title": "Is this the first glimpse of dark matter? Data point excites physicists",
+     "link": "https://www.nature.com/articles/d41586-026-01985-9",
+     "date": ""
     }
    ]
   }
