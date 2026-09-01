@@ -1,9 +1,14 @@
 {
- "updated": "2026-09-01 18:31 UTC",
+ "updated": "2026-09-01 21:47 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Burnham promises more devolution and public control of essential services",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 20:52:15 GMT"
+    },
     {
      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
@@ -17,12 +22,12 @@
     {
      "title": "Germany says Russia behind Leipzig airport drone attack",
      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 16:53:40 GMT"
+     "date": "Tue, 01 Sep 2026 21:05:22 GMT"
     },
     {
-     "title": "Briton among 119 rescued in Nepal after deadly floods, army says",
-     "link": "https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 17:46:07 GMT"
+     "title": "US strikes Iran as state media reports four killed at wedding party",
+     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 21:32:23 GMT"
     },
     {
      "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
@@ -30,19 +35,14 @@
      "date": "Tue, 01 Sep 2026 16:11:18 GMT"
     },
     {
+     "title": "Baby girl who died at Sheffield house was stabbed, police say",
+     "link": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 19:42:04 GMT"
+    },
+    {
      "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
      "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 14:06:58 GMT"
-    },
-    {
-     "title": "US launches more strikes on Iran as state media reports explosions",
-     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 17:54:01 GMT"
-    },
-    {
-     "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-     "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 15:33:14 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 18:15:56 +0000"
+     "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+     "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 21:28:00 +0000"
     },
     {
-     "title": "US health authorities contradict state officials on measles-related deaths",
-     "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 17:48:28 +0000"
+     "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 21:03:45 +0000"
     },
     {
-     "title": "The US military began striking targets in Iran, CENTCOM says",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 17:39:29 +0000"
+     "title": "Deadly car bomb attack at Colombia police station",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 21:01:10 +0000"
     },
     {
-     "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
-     "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 17:36:33 +0000"
+     "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 20:59:43 +0000"
     },
     {
-     "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-     "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 17:25:45 +0000"
+     "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
+     "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 20:45:53 +0000"
     },
     {
-     "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-     "link": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 16:59:22 +0000"
+     "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+     "link": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 20:40:55 +0000"
     },
     {
-     "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
-     "link": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 16:56:08 +0000"
+     "title": "Iranian state media announces numerous US strikes on the country",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 20:38:43 +0000"
     },
     {
-     "title": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
-     "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 16:45:56 +0000"
+     "title": "What’s driven the defence deal between Israel and Greece?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 20:35:14 +0000"
     }
    ]
   },
