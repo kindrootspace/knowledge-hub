@@ -1,23 +1,18 @@
 {
- "updated": "2026-09-01 05:09 UTC",
+ "updated": "2026-09-01 10:07 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Man charged after fire in which woman and girl died",
+     "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+     "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 07:37:24 GMT"
+    },
+    {
+     "title": "Man charged with murder of woman and girl after fatal Teesside house fire",
      "link": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 04:21:49 GMT"
-    },
-    {
-     "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
-     "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 04:20:17 GMT"
-    },
-    {
-     "title": "Burnham to face Parliament as prime minister for first time",
-     "link": "https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 02:36:29 GMT"
     },
     {
      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -25,9 +20,9 @@
      "date": "Tue, 01 Sep 2026 05:00:34 GMT"
     },
     {
-     "title": "More cells being built within prisons to help tackle overcrowding",
-     "link": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 31 Aug 2026 21:59:17 GMT"
+     "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+     "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 07:02:58 GMT"
     },
     {
      "title": "US army secretary resigns after months of tension",
@@ -35,14 +30,19 @@
      "date": "Tue, 01 Sep 2026 01:01:03 GMT"
     },
     {
-     "title": "Shein shares fall in long-awaited stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 04:15:15 GMT"
+     "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+     "link": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 08:55:27 GMT"
     },
     {
      "title": "New storm names for 2026-2027 released by Met Office",
      "link": "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 05:00:13 GMT"
+    },
+    {
+     "title": "Shein valued at $26bn after long-awaited stock market debut",
+     "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 10:01:26 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Shein shares fall in long-awaited stock market debut",
+     "title": "Shein valued at $26bn after long-awaited stock market debut",
      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 04:15:15 GMT"
+     "date": "Tue, 01 Sep 2026 10:01:26 GMT"
     },
     {
      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
@@ -60,14 +60,14 @@
      "date": "Mon, 31 Aug 2026 16:49:11 GMT"
     },
     {
-     "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+     "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 31 Aug 2026 21:28:49 GMT"
     },
     {
-     "title": "Japan Inc is betting big on India as China risks deepen",
-     "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 31 Aug 2026 22:07:19 GMT"
+     "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
+     "link": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 31 Aug 2026 23:37:35 GMT"
     },
     {
      "title": "Victoria Beckham's company makes its first profit after 18 years",
@@ -85,9 +85,9 @@
      "date": "Sun, 30 Aug 2026 23:22:24 GMT"
     },
     {
-     "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-     "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 31 Aug 2026 15:00:11 GMT"
+     "title": "Japan Inc is betting big on India as China risks deepen",
+     "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 31 Aug 2026 22:07:19 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 28 Aug 2026 14:46:25 GMT"
     },
     {
+     "title": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
+     "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+     "date": "Tue, 01 Sep 2026 07:42:50 GMT"
+    },
+    {
      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
      "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
      "date": "Sun, 30 Aug 2026 18:57:22 GMT"
@@ -128,11 +133,6 @@
      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
      "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
      "date": "Sun, 30 Aug 2026 15:08:33 GMT"
-    },
-    {
-     "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
-     "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
-     "date": "Sat, 29 Aug 2026 10:00:24 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
-     "link": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
-     "date": "Tue, 01 Sep 2026 00:57:01 -0400"
+     "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
+     "date": "Tue, 01 Sep 2026 06:00:00 -0400"
     },
     {
-     "title": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "link": "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-     "date": "Tue, 01 Sep 2026 00:43:57 -0400"
+     "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
+     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Nearly 200 witnesses to Charlie Kirk shooting apply for victims' benefits in Utah",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5945736/nearly-200-witnesses-to-charlie-kirk-shooting-apply-for-victims-benefits-in-utah",
-     "date": "Tue, 01 Sep 2026 00:01:00 -0400"
+     "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
+     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Trump officials cut political interference ban after unusual Census Bureau report",
-     "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
-     "date": "Mon, 31 Aug 2026 18:24:12 -0400"
+     "title": "Made in America: How AI is keeping this U.S. factory competitive",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
+     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
-     "date": "Mon, 31 Aug 2026 16:42:17 -0400"
+     "title": "A makeover for college: No gym, no meal plan and two years of work",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
+     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
-     "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
-     "date": "Mon, 31 Aug 2026 16:21:47 -0400"
+     "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
+     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "The U.S. sues Amazon again",
-     "link": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
-     "date": "Mon, 31 Aug 2026 16:17:03 -0400"
+     "title": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "link": "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+     "date": "Tue, 01 Sep 2026 04:30:07 -0400"
     },
     {
-     "title": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
-     "link": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
-     "date": "Mon, 31 Aug 2026 13:06:39 -0400"
+     "title": "Hindu pilgrims, on arduous trek, among Nepal's missing",
+     "link": "https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing",
+     "date": "Tue, 01 Sep 2026 03:08:12 -0400"
     }
    ]
   },
@@ -185,50 +185,75 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Former gang leader found guilty of Tupac Shakur’s 1996 murder",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 04:29:23 +0000"
+     "title": "Israeli attacks on Gaza kill at least four, including children",
+     "link": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 09:48:07 +0000"
     },
     {
-     "title": "Algeria’s president seeks death penalty for those who start forest fires",
-     "link": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 04:24:28 +0000"
+     "title": "Football power struggle caused FIFA World Cup plan fallout, says Kushner",
+     "link": "https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 09:19:20 +0000"
     },
     {
-     "title": "John Ternus to lead Apple into the age of AI",
-     "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 03:20:25 +0000"
+     "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+     "link": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 08:57:48 +0000"
     },
     {
-     "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-     "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 02:23:03 +0000"
+     "title": "Heavy monsoon rains submerge Islamabad roads and underground",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 08:56:34 +0000"
     },
     {
-     "title": "Toxic haze from Indonesian fires chokes Malaysia’s Sarawak",
-     "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 02:06:01 +0000"
+     "title": "‘Not welcome’: How Sweden’s far right took over Stockholm Central Station",
+     "link": "https://www.aljazeera.com/news/2026/9/1/not-welcome-how-swedens-far-right-took-over-stockholm-central-station?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 08:43:59 +0000"
     },
     {
-     "title": "New York police kill knife-wielding woman in Times Square",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 01:19:34 +0000"
+     "title": "Nepal buries unidentified flood victims as families await answers",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-buries-unidentified-flood-victims-as-families-await-answers?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 08:39:20 +0000"
     },
     {
-     "title": "African NGOs demand probe into six bodies found in Guinea mass grave",
-     "link": "https://www.aljazeera.com/news/2026/9/1/african-ngos-demand-probe-into-six-bodies-found-in-guinea-mass-grave?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 01:17:59 +0000"
+     "title": "Could 4+4 make 1 in Libya? UN-backed agreement looks to unite rival camps",
+     "link": "https://www.aljazeera.com/news/2026/9/1/could-44-make-1-in-libya-un-backed-agreement-looks-to-unite-rival-camps?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 08:16:10 +0000"
     },
     {
-     "title": "Five years after Saied’s power grab, Tunisia’s old grievances resurface",
-     "link": "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 00:15:22 +0000"
+     "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
+     "link": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 08:14:07 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "China’s regulatory innovation for new biomedical technologies",
+     "link": "https://www.nature.com/articles/d41586-026-02737-5",
+     "date": ""
+    },
+    {
+     "title": "When AI does science, who is accountable for mistakes?",
+     "link": "https://www.nature.com/articles/d41586-026-02735-7",
+     "date": ""
+    },
+    {
+     "title": "The global plastics treaty must account for conflict-driven energy insecurity",
+     "link": "https://www.nature.com/articles/d41586-026-02738-4",
+     "date": ""
+    },
+    {
+     "title": "Europe should adapt, not copy, China’s practical PhD",
+     "link": "https://www.nature.com/articles/d41586-026-02736-6",
+     "date": ""
+    },
+    {
+     "title": "Who is responsible when AI helps to write science?",
+     "link": "https://www.nature.com/articles/d41586-026-02686-z",
+     "date": ""
+    },
     {
      "title": "Scale of snakebites estimated globally",
      "link": "https://www.nature.com/articles/d41586-026-02642-x",
@@ -242,31 +267,6 @@
     {
      "title": "Order from disorder: do we need a new law of physics?",
      "link": "https://www.nature.com/articles/d41586-026-02685-0",
-     "date": ""
-    },
-    {
-     "title": "The leap second is dead. Long live the leap hour?",
-     "link": "https://www.nature.com/articles/d41586-026-02669-0",
-     "date": ""
-    },
-    {
-     "title": "Why are rich people so pessimistic? What the numbers say",
-     "link": "https://www.nature.com/articles/d41586-026-02687-y",
-     "date": ""
-    },
-    {
-     "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
-     "link": "https://www.nature.com/articles/d41586-026-02684-1",
-     "date": ""
-    },
-    {
-     "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
-     "link": "https://www.nature.com/articles/d41586-026-02727-7",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: How Dolly Parton left her mark on science",
-     "link": "https://www.nature.com/articles/d41586-026-02732-w",
      "date": ""
     }
    ]
