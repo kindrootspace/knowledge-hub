@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01 21:47 UTC",
+ "updated": "2026-09-02 00:15 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Burnham promises more devolution and public control of essential services",
      "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 20:52:15 GMT"
+     "date": "Tue, 01 Sep 2026 21:48:44 GMT"
     },
     {
      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
@@ -15,9 +15,9 @@
      "date": "Tue, 01 Sep 2026 16:36:42 GMT"
     },
     {
-     "title": "Keir Starmer announces he is standing down as MP",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 17:04:29 GMT"
+     "title": "Rising numbers of children in mental health crisis ending up in A&E",
+     "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 23:38:20 GMT"
     },
     {
      "title": "Germany says Russia behind Leipzig airport drone attack",
@@ -25,14 +25,14 @@
      "date": "Tue, 01 Sep 2026 21:05:22 GMT"
     },
     {
-     "title": "US strikes Iran as state media reports four killed at wedding party",
+     "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 21:32:23 GMT"
+     "date": "Wed, 02 Sep 2026 00:13:26 GMT"
     },
     {
-     "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 16:11:18 GMT"
+     "title": "Ariana Grande completes tour and steps back from public life",
+     "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 21:41:05 GMT"
     },
     {
      "title": "Baby girl who died at Sheffield house was stabbed, police say",
@@ -40,9 +40,9 @@
      "date": "Tue, 01 Sep 2026 19:42:04 GMT"
     },
     {
-     "title": "Watch: Norway's new king takes oath as mourners pay respects to his late father",
-     "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 14:06:58 GMT"
+     "title": "Rybakina makes winning start in race to number one",
+     "link": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 21:18:05 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 16:36:42 GMT"
+    },
+    {
+     "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+     "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 23:26:38 GMT"
     },
     {
      "title": "Shein valued at $26bn after long-awaited stock market debut",
@@ -70,6 +75,11 @@
      "date": "Mon, 31 Aug 2026 23:37:35 GMT"
     },
     {
+     "title": "Will self-flying planes transform the skies?",
+     "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 01 Sep 2026 23:27:35 GMT"
+    },
+    {
      "title": "Ikea cuts prices as customers struggle with rising cost of living",
      "link": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 12:21:52 GMT"
@@ -78,16 +88,6 @@
      "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
      "link": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 14:19:47 GMT"
-    },
-    {
-     "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 31 Aug 2026 21:28:49 GMT"
-    },
-    {
-     "title": "US borrowing costs hit fresh highs over inflation fears",
-     "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 15:51:51 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+     "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+     "date": "Tue, 01 Sep 2026 18:18:20 -0400"
+    },
+    {
      "title": "Congress averts a government shutdown ahead of the midterms",
      "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
      "date": "Tue, 01 Sep 2026 14:06:33 -0400"
@@ -173,17 +178,37 @@
      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
      "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
      "date": "Tue, 01 Sep 2026 06:00:00 -0400"
-    },
-    {
-     "title": "A makeover for college: No gym, no meal plan and two years of work",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
-     "date": "Tue, 01 Sep 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Fernandez transfers to Man City from Chelsea in joint British record fee",
+     "link": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 23:00:30 +0000"
+    },
+    {
+     "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+     "link": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 22:54:04 +0000"
+    },
+    {
+     "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+     "link": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 22:44:28 +0000"
+    },
+    {
+     "title": "US urges G20 to cut trade imbalances, focus on China",
+     "link": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 22:21:51 +0000"
+    },
+    {
+     "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+     "link": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
+     "date": "Tue, 01 Sep 2026 21:54:14 +0000"
+    },
     {
      "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
      "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Deadly car bomb attack at Colombia police station",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
      "date": "Tue, 01 Sep 2026 21:01:10 +0000"
-    },
-    {
-     "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 20:59:43 +0000"
-    },
-    {
-     "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
-     "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 20:45:53 +0000"
-    },
-    {
-     "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
-     "link": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 20:40:55 +0000"
-    },
-    {
-     "title": "Iranian state media announces numerous US strikes on the country",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 20:38:43 +0000"
-    },
-    {
-     "title": "What’s driven the defence deal between Israel and Greece?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/1/whats-driven-the-defence-deal-between-israel-and-greece?traffic_source=rss",
-     "date": "Tue, 01 Sep 2026 20:35:14 +0000"
     }
    ]
   },
