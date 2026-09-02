@@ -1,13 +1,23 @@
 {
- "updated": "2026-09-02 04:41 UTC",
+ "updated": "2026-09-02 09:38 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 03:19:44 GMT"
+     "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+     "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 04:49:23 GMT"
+    },
+    {
+     "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+     "link": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 08:29:42 GMT"
+    },
+    {
+     "title": "Four charged with murder after baby stabbed to death",
+     "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 09:30:10 GMT"
     },
     {
      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
@@ -15,34 +25,24 @@
      "date": "Wed, 02 Sep 2026 01:59:10 GMT"
     },
     {
-     "title": "Burnham promises more devolution and public control of essential services",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 21:48:44 GMT"
-    },
-    {
-     "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-     "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 01:23:00 GMT"
-    },
-    {
-     "title": "Rising numbers of children in mental health crisis ending up in A&E",
-     "link": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 23:38:20 GMT"
-    },
-    {
-     "title": "Tiger Woods to change plea after crash arrest",
-     "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 00:26:08 GMT"
-    },
-    {
-     "title": "Ariana Grande completes tour and steps back from public life",
+     "title": "Ariana Grande makes emotional tour exit and steps back from public life",
      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 21:41:05 GMT"
     },
     {
-     "title": "Germany says Russia behind Leipzig airport drone attack",
-     "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 01:59:54 GMT"
+     "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+     "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 04:23:23 GMT"
+    },
+    {
+     "title": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+     "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 09:21:44 GMT"
+    },
+    {
+     "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+     "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 01:27:34 GMT"
     }
    ]
   },
@@ -60,7 +60,7 @@
      "date": "Wed, 02 Sep 2026 01:27:34 GMT"
     },
     {
-     "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+     "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
      "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 01 Sep 2026 23:26:38 GMT"
     },
@@ -95,6 +95,16 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+     "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+     "date": "Wed, 02 Sep 2026 09:20:55 GMT"
+    },
+    {
+     "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+     "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+     "date": "Wed, 02 Sep 2026 06:00:25 GMT"
+    },
+    {
      "title": "South African airline defends dramatic low-level flyby before rugby union clash",
      "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
      "date": "Mon, 31 Aug 2026 13:44:39 GMT"
@@ -108,16 +118,6 @@
      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
      "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
      "date": "Mon, 31 Aug 2026 10:21:56 GMT"
-    },
-    {
-     "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
-     "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
-     "date": "Sun, 30 Aug 2026 06:00:48 GMT"
-    },
-    {
-     "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
-     "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
-     "date": "Fri, 28 Aug 2026 14:46:25 GMT"
     },
     {
      "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
+     "date": "Wed, 02 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "He died in a sweltering house. Why doesn't his death record show it?",
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
+     "date": "Wed, 02 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
+     "date": "Wed, 02 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "ICE detainee dies just hours after he was admitted into detention",
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5953128/ice-detention-death-lianyong-wei",
+     "date": "Wed, 02 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5947220/morning-news-brief",
+     "date": "Wed, 02 Sep 2026 04:43:34 -0400"
+    },
+    {
+     "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
+     "link": "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack",
+     "date": "Wed, 02 Sep 2026 04:43:05 -0400"
+    },
+    {
+     "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+     "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+     "date": "Wed, 02 Sep 2026 02:15:11 -0400"
+    },
+    {
      "title": "Incumbent Sen. Ed Markey wins Massachusetts' Democratic primary for US Senate",
      "link": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
      "date": "Tue, 01 Sep 2026 20:38:46 -0400"
-    },
-    {
-     "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
-     "date": "Tue, 01 Sep 2026 18:18:20 -0400"
-    },
-    {
-     "title": "Congress averts a government shutdown ahead of the midterms",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
-     "date": "Tue, 01 Sep 2026 14:06:33 -0400"
-    },
-    {
-     "title": "ICE says it has enough body cameras now, after series of deadly shootings",
-     "link": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
-     "date": "Tue, 01 Sep 2026 13:52:37 -0400"
-    },
-    {
-     "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
-     "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
-     "date": "Tue, 01 Sep 2026 09:52:18 -0400"
-    },
-    {
-     "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
-     "link": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
-     "date": "Tue, 01 Sep 2026 07:23:46 -0400"
-    },
-    {
-     "title": "They live by a shrine to a saint. Why are their homes being demolished?",
-     "link": "https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction",
-     "date": "Tue, 01 Sep 2026 07:21:41 -0400"
-    },
-    {
-     "title": "Why the Supreme Court's ballroom ruling could matter beyond the ballroom",
-     "link": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
-     "date": "Tue, 01 Sep 2026 07:00:41 -0400"
     }
    ]
   },
@@ -185,50 +185,65 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 04:26:33 +0000"
+     "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+     "link": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 08:55:20 +0000"
     },
     {
-     "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
-     "link": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 04:01:08 +0000"
+     "title": "Alex Eala cruises into US Open second round, top seed Zverev survives",
+     "link": "https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 08:41:51 +0000"
     },
     {
-     "title": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
-     "link": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 03:32:23 +0000"
+     "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
+     "link": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 08:27:35 +0000"
     },
     {
-     "title": "US strikes on Iran kill child at wedding ceremony",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 03:27:26 +0000"
+     "title": "Video: US energy chief in Venezuela to sign controversial oil deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/video-us-energy-chief-in-venezuela-to-sign-controversial-oil-deal?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 08:26:43 +0000"
     },
     {
-     "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
-     "link": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 03:22:41 +0000"
+     "title": "Cricketers to get best rooms at Asian Games 2026, says Japanese official",
+     "link": "https://www.aljazeera.com/sports/2026/9/2/cricketers-to-get-best-rooms-at-asian-games-2026-says-japanese-official?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 08:17:20 +0000"
     },
     {
-     "title": "Honduran court drops case against ex-President Hernandez after Trump pardon",
-     "link": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 02:34:52 +0000"
+     "title": "At least 16 dead, 28 injured, in Egypt bus crash",
+     "link": "https://www.aljazeera.com/news/2026/9/2/at-least-16-dead-28-injured-in-egypt-bus-crash?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 08:15:02 +0000"
     },
     {
-     "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
-     "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 02:20:45 +0000"
+     "title": "Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge",
+     "link": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 07:40:20 +0000"
     },
     {
-     "title": "What to know about Germany’s drone attack accusations against Russia",
-     "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 01:40:01 +0000"
+     "title": "Why Greece is betting on Israel’s Achilles Shield",
+     "link": "https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 07:35:08 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Satellite images before Nepal disaster showed warning signs",
+     "link": "https://www.nature.com/articles/d41586-026-02746-4",
+     "date": ""
+    },
+    {
+     "title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
+     "link": "https://www.nature.com/articles/d41586-026-02753-5",
+     "date": ""
+    },
+    {
+     "title": "Say hello to the next generation of lobsters — August’s best science images",
+     "link": "https://www.nature.com/articles/d41586-026-02597-z",
+     "date": ""
+    },
     {
      "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
      "link": "https://www.nature.com/articles/s41586-026-11071-9",
@@ -252,21 +267,6 @@
     {
      "title": "When AI does science, who is accountable for mistakes?",
      "link": "https://www.nature.com/articles/d41586-026-02735-7",
-     "date": ""
-    },
-    {
-     "title": "The global plastics treaty must account for conflict-driven energy insecurity",
-     "link": "https://www.nature.com/articles/d41586-026-02738-4",
-     "date": ""
-    },
-    {
-     "title": "Europe should adapt, not copy, China’s practical PhD",
-     "link": "https://www.nature.com/articles/d41586-026-02736-6",
-     "date": ""
-    },
-    {
-     "title": "Is this the first glimpse of dark matter? Data point excites physicists",
-     "link": "https://www.nature.com/articles/d41586-026-01985-9",
      "date": ""
     }
    ]
