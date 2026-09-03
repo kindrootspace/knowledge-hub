@@ -1,9 +1,14 @@
 {
- "updated": "2026-09-03 09:51 UTC",
+ "updated": "2026-09-03 14:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
+     "link": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 13:38:43 GMT"
+    },
     {
      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
@@ -15,34 +20,29 @@
      "date": "Thu, 03 Sep 2026 06:21:09 GMT"
     },
     {
+     "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+     "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 13:52:18 GMT"
+    },
+    {
      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 03 Sep 2026 06:01:54 GMT"
     },
     {
+     "title": "Four to face trial accused of murdering baby",
+     "link": "https://www.bbc.co.uk/news/articles/c70l5zdxny1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 11:36:32 GMT"
+    },
+    {
      "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
      "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 08:45:04 GMT"
+     "date": "Thu, 03 Sep 2026 12:41:46 GMT"
     },
     {
-     "title": "Watch: Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-     "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 07:20:23 GMT"
-    },
-    {
-     "title": "The overlooked factor driving the childhood obesity crisis",
-     "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 00:47:45 GMT"
-    },
-    {
-     "title": "Another White House renovation? A look at Trump's new helipad",
-     "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 08:14:16 GMT"
-    },
-    {
-     "title": "Chris Mason: Reform face headwinds as they gather for conference",
-     "link": "https://www.bbc.co.uk/news/articles/cgk5m42z1vpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 01:55:46 GMT"
+     "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
+     "link": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 13:20:33 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+     "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 13:26:54 GMT"
+    },
+    {
      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:08:05 GMT"
+     "date": "Thu, 03 Sep 2026 12:50:14 GMT"
     },
     {
      "title": "Almost half of households do not see benefits of economic growth, report says",
@@ -70,30 +75,35 @@
      "date": "Wed, 02 Sep 2026 23:24:06 GMT"
     },
     {
-     "title": "Trump $1 coin makes him first living president on US currency in a century",
-     "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 03:39:53 GMT"
-    },
-    {
      "title": "Why wait? Business grads buying firms to install themselves as CEO",
      "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 02 Sep 2026 23:13:44 GMT"
     },
     {
-     "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-     "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:36:49 GMT"
+     "title": "Trump $1 coin makes him first living president on US currency in a century",
+     "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 10:25:43 GMT"
     },
     {
-     "title": "Heathrow expansion an 'outdated' risk, mayor says",
-     "link": "https://www.bbc.co.uk/news/articles/c7v4zj2262vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 04:54:14 GMT"
+     "title": "Hundreds of North Sea workers too heavy for new helicopter rules",
+     "link": "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 05:06:55 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+     "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+     "date": "Thu, 03 Sep 2026 12:52:08 GMT"
+    },
+    {
+     "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
+     "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
+     "date": "Thu, 03 Sep 2026 10:11:37 GMT"
+    },
     {
      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
      "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
@@ -110,29 +120,19 @@
      "date": "Mon, 31 Aug 2026 13:44:39 GMT"
     },
     {
-     "title": "Countries legally obliged to consider slavery reparations, says UN committee",
-     "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
-     "date": "Mon, 31 Aug 2026 11:54:16 GMT"
+     "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
+     "link": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
+     "date": "Thu, 03 Sep 2026 12:00:29 GMT"
     },
     {
-     "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
-     "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
-     "date": "Mon, 31 Aug 2026 10:21:56 GMT"
+     "title": "The US and Venezuela: a century-old relationship drenched in oil",
+     "link": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
+     "date": "Thu, 03 Sep 2026 10:00:50 GMT"
     },
     {
      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
      "link": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
      "date": "Wed, 02 Sep 2026 21:15:12 GMT"
-    },
-    {
-     "title": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
-     "link": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
-     "date": "Wed, 02 Sep 2026 14:44:39 GMT"
-    },
-    {
-     "title": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’",
-     "link": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
-     "date": "Wed, 02 Sep 2026 14:44:31 GMT"
     }
    ]
   },
@@ -140,12 +140,27 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+     "link": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
+     "date": "Thu, 03 Sep 2026 07:17:01 -0400"
+    },
+    {
+     "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
+     "date": "Thu, 03 Sep 2026 07:14:24 -0400"
+    },
+    {
+     "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
+     "date": "Thu, 03 Sep 2026 07:00:00 -0400"
+    },
+    {
      "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
      "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
      "date": "Thu, 03 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "He tried to eliminate FEMA. Now he says the Trump administration has changed course",
+     "title": "Inside the failed mission to eliminate FEMA",
      "link": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
      "date": "Thu, 03 Sep 2026 05:00:00 -0400"
     },
@@ -155,29 +170,14 @@
      "date": "Thu, 03 Sep 2026 05:00:00 -0400"
     },
     {
+     "title": "Veteran political journalist on division among Democrats over democratic socialism",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
+     "date": "Thu, 03 Sep 2026 04:08:56 -0400"
+    },
+    {
      "title": "Morning News Brief",
      "link": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
      "date": "Thu, 03 Sep 2026 04:03:57 -0400"
-    },
-    {
-     "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
-     "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
-     "date": "Thu, 03 Sep 2026 03:04:25 -0400"
-    },
-    {
-     "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
-     "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
-     "date": "Thu, 03 Sep 2026 02:39:19 -0400"
-    },
-    {
-     "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
-     "date": "Wed, 02 Sep 2026 17:59:14 -0400"
-    },
-    {
-     "title": "The IRS slashed its staff. One result? More taxes going uncollected",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
-     "date": "Wed, 02 Sep 2026 15:56:58 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
-     "link": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 09:38:14 +0000"
+     "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
+     "link": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:54:02 +0000"
     },
     {
-     "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 09:34:09 +0000"
+     "title": "Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?",
+     "link": "https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:49:02 +0000"
     },
     {
-     "title": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
-     "link": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 09:22:18 +0000"
+     "title": "Somalia repels armed assault on Baidoa amid regional political tensions",
+     "link": "https://www.aljazeera.com/news/2026/9/3/somalia-repels-armed-assault-on-baidoa-amid-regional-political-tensions?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:40:42 +0000"
     },
     {
-     "title": "Gulf insecurity fuels US energy dominance",
-     "link": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 09:16:20 +0000"
+     "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
+     "link": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:30:28 +0000"
     },
     {
-     "title": "Egypt’s Sisi welcomes China’s President Xi in Grand Egyptian Museum tour",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/egypts-sisi-welcomes-chinas-president-xi-in-grand-egyptian-museum-tour?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 09:07:28 +0000"
+     "title": "Kais Saied’s economic experiment has failed Tunisia",
+     "link": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:09:47 +0000"
     },
     {
-     "title": "Photos: Symbolic funerals held in Nepal for missing flood victims",
-     "link": "https://www.aljazeera.com/gallery/2026/9/3/photos-symbolic-funerals-held-in-nepal-for-missing-flood-victims?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 08:32:34 +0000"
+     "title": "Victims sue South African government over 1960 Sharpeville massacre",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/victims-sue-south-african-governed-over-1960-sharpeville-massacre?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:07:13 +0000"
     },
     {
-     "title": "Good Good Golf CEO, president quit amid advertisement controversy",
-     "link": "https://www.aljazeera.com/sports/2026/9/3/good-good-golf-ceo-president-quit-amid-advertisement-controversy?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 08:32:20 +0000"
+     "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 13:02:59 +0000"
     },
     {
-     "title": "NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe",
-     "link": "https://www.aljazeera.com/sports/2026/9/3/nba-fines-clippers-30m-suspends-several-executives-in-kawhi-leonard-probe?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 08:17:46 +0000"
+     "title": "Benzema, Pogba, Sancho and Sterling: What now for football’s free agents?",
+     "link": "https://www.aljazeera.com/sports/2026/9/3/benzema-pogba-sancho-and-sterling-what-now-for-footballs-free-agents?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 12:52:54 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Immune therapy engineered inside the body eases multiple sclerosis",
+     "link": "https://www.nature.com/articles/d41586-026-02765-1",
+     "date": ""
+    },
     {
      "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
      "link": "https://www.nature.com/articles/s41586-026-11104-3",
@@ -262,11 +267,6 @@
     {
      "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
      "link": "https://www.nature.com/articles/s41586-026-10690-6",
-     "date": ""
-    },
-    {
-     "title": "Designing physics experiments with artificial intelligence",
-     "link": "https://www.nature.com/articles/s41586-026-10898-6",
      "date": ""
     }
    ]
