@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02 21:50 UTC",
+ "updated": "2026-09-03 00:16 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -30,9 +30,9 @@
      "date": "Wed, 02 Sep 2026 21:34:27 GMT"
     },
     {
-     "title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
-     "link": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 21:44:13 GMT"
+     "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+     "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:36:49 GMT"
     },
     {
      "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
@@ -40,9 +40,9 @@
      "date": "Wed, 02 Sep 2026 17:43:48 GMT"
     },
     {
-     "title": "Four in court over murder of baby stabbed to death",
-     "link": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 15:35:13 GMT"
+     "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+     "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:08:05 GMT"
     }
    ]
   },
@@ -50,44 +50,44 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+     "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:08:05 GMT"
+    },
+    {
+     "title": "Almost half of households do not see benefits of economic growth, report says",
+     "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:26:58 GMT"
+    },
+    {
+     "title": "'I don't even like them': How much should you give to office gift collections?",
+     "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:25:50 GMT"
+    },
+    {
+     "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+     "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:24:06 GMT"
+    },
+    {
+     "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+     "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:36:49 GMT"
+    },
+    {
+     "title": "Why wait? Business grads buying firms to install themselves as CEO",
+     "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:13:44 GMT"
+    },
+    {
      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 02 Sep 2026 13:20:11 GMT"
     },
     {
-     "title": "Why are UK borrowing costs rising and what does it mean for me?",
-     "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 11:05:22 GMT"
-    },
-    {
-     "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 17:21:00 GMT"
-    },
-    {
-     "title": "Lords call for AI 'kill switch' powers in UK",
-     "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 14:41:52 GMT"
-    },
-    {
      "title": "Uber to cut over 3,000 jobs in major global restructuring",
      "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 02 Sep 2026 16:51:49 GMT"
-    },
-    {
-     "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
-     "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 23:26:38 GMT"
-    },
-    {
-     "title": "Will self-flying planes transform the skies?",
-     "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 01 Sep 2026 23:27:35 GMT"
-    },
-    {
-     "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-     "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 01:27:34 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
+     "link": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
+     "date": "Wed, 02 Sep 2026 17:59:14 -0400"
+    },
+    {
      "title": "The IRS slashed its staff. One result? More taxes going uncollected",
      "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
      "date": "Wed, 02 Sep 2026 15:56:58 -0400"
@@ -173,17 +178,32 @@
      "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
      "link": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
      "date": "Wed, 02 Sep 2026 10:30:36 -0400"
-    },
-    {
-     "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
-     "date": "Wed, 02 Sep 2026 10:08:03 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
+     "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 23:28:18 +0000"
+    },
+    {
+     "title": "Did DOGE ruin America’s food safety system?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/aje-onl-nf_did-doge-ruin-americas-food-safety-system-020926?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 23:25:49 +0000"
+    },
+    {
+     "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+     "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+     "date": "Wed, 02 Sep 2026 22:15:32 +0000"
+    },
     {
      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
      "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
@@ -203,26 +223,6 @@
      "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
      "link": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
      "date": "Wed, 02 Sep 2026 21:19:32 +0000"
-    },
-    {
-     "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-     "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 20:59:46 +0000"
-    },
-    {
-     "title": "The long-term implications of Pete Hegseth’s US military purges",
-     "link": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 20:48:22 +0000"
-    },
-    {
-     "title": "Nepal families hold symbolic funerals, thousands still missing",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 20:30:24 +0000"
-    },
-    {
-     "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-     "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-     "date": "Wed, 02 Sep 2026 20:12:14 +0000"
     }
    ]
   },
