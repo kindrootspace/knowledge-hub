@@ -1,18 +1,33 @@
 {
- "updated": "2026-09-03 04:39 UTC",
+ "updated": "2026-09-03 09:51 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
-     "link": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 20:43:06 GMT"
+     "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+     "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 05:00:04 GMT"
     },
     {
-     "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-     "link": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 18:57:51 GMT"
+     "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+     "link": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 06:21:09 GMT"
+    },
+    {
+     "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+     "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 06:01:54 GMT"
+    },
+    {
+     "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
+     "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 08:45:04 GMT"
+    },
+    {
+     "title": "Watch: Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+     "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 07:20:23 GMT"
     },
     {
      "title": "The overlooked factor driving the childhood obesity crisis",
@@ -20,29 +35,14 @@
      "date": "Thu, 03 Sep 2026 00:47:45 GMT"
     },
     {
-     "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-     "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:36:49 GMT"
-    },
-    {
-     "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-     "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 03:21:24 GMT"
+     "title": "Another White House renovation? A look at Trump's new helipad",
+     "link": "https://www.bbc.co.uk/news/videos/cdx02dw785vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 08:14:16 GMT"
     },
     {
      "title": "Chris Mason: Reform face headwinds as they gather for conference",
      "link": "https://www.bbc.co.uk/news/articles/cgk5m42z1vpo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 03 Sep 2026 01:55:46 GMT"
-    },
-    {
-     "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-     "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:08:05 GMT"
-    },
-    {
-     "title": "Rocky Horror star Tim Curry's cause of death revealed",
-     "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:47:02 GMT"
     }
    ]
   },
@@ -57,10 +57,10 @@
     {
      "title": "Almost half of households do not see benefits of economic growth, report says",
      "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:26:58 GMT"
+     "date": "Thu, 03 Sep 2026 05:47:11 GMT"
     },
     {
-     "title": "'I don't even like them': How much should you give to office gift collections?",
+     "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 02 Sep 2026 23:25:50 GMT"
     },
@@ -85,9 +85,9 @@
      "date": "Wed, 02 Sep 2026 23:36:49 GMT"
     },
     {
-     "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
-     "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:53:28 GMT"
+     "title": "Heathrow expansion an 'outdated' risk, mayor says",
+     "link": "https://www.bbc.co.uk/news/articles/c7v4zj2262vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 04:54:14 GMT"
     }
    ]
   },
@@ -140,6 +140,36 @@
    "name": "NPR",
    "items": [
     {
+     "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+     "date": "Thu, 03 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "He tried to eliminate FEMA. Now he says the Trump administration has changed course",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+     "date": "Thu, 03 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
+     "date": "Thu, 03 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning News Brief",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
+     "date": "Thu, 03 Sep 2026 04:03:57 -0400"
+    },
+    {
+     "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+     "date": "Thu, 03 Sep 2026 03:04:25 -0400"
+    },
+    {
+     "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
+     "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
+     "date": "Thu, 03 Sep 2026 02:39:19 -0400"
+    },
+    {
      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
      "link": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
      "date": "Wed, 02 Sep 2026 17:59:14 -0400"
@@ -148,36 +178,6 @@
      "title": "The IRS slashed its staff. One result? More taxes going uncollected",
      "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
      "date": "Wed, 02 Sep 2026 15:56:58 -0400"
-    },
-    {
-     "title": "A jury in Malta acquits a businessman in the killing of reporter Daphne Caruana Galizia",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5954420/daphne-caruana-galizia-case-yorgen-fenech-acquitted-malta",
-     "date": "Wed, 02 Sep 2026 15:48:18 -0400"
-    },
-    {
-     "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-     "date": "Wed, 02 Sep 2026 14:17:19 -0400"
-    },
-    {
-     "title": "New immigration court tactic leads to huge lines and chaos in Miami",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-     "date": "Wed, 02 Sep 2026 12:42:48 -0400"
-    },
-    {
-     "title": "Understanding the tech giants' oversized influence in American schools",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
-     "date": "Wed, 02 Sep 2026 12:08:31 -0400"
-    },
-    {
-     "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-     "date": "Wed, 02 Sep 2026 11:18:09 -0400"
-    },
-    {
-     "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
-     "link": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
-     "date": "Wed, 02 Sep 2026 10:30:36 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Tens of thousands rally across Spain over Ceuta migrant crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_mass-protests-across-spain-020926?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 03:06:00 +0000"
+     "title": "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+     "link": "https://www.aljazeera.com/news/2026/9/3/rescue-efforts-continue-as-nepal-china-flood-death-toll-surpasses-1270?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 09:38:14 +0000"
     },
     {
-     "title": "Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/maltese-tycoon-acquitted-of-killing-journalist-daphne-caruana-galizia?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 03:00:27 +0000"
+     "title": "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 09:34:09 +0000"
     },
     {
-     "title": "US forces board and destroy alleged cartel boat in eastern Pacific",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/us-forces-board-and-destroy-alleged-cartel-boat-in-eastern-pacific?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 02:52:38 +0000"
+     "title": "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+     "link": "https://www.aljazeera.com/news/2026/9/3/norway-seizes-russian-ship-in-arctic-over-crimea-compensation-claim?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 09:22:18 +0000"
     },
     {
-     "title": "Minneapolis shooting kills two, wounds three police officers",
-     "link": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 02:18:21 +0000"
+     "title": "Gulf insecurity fuels US energy dominance",
+     "link": "https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 09:16:20 +0000"
     },
     {
-     "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 01:53:40 +0000"
+     "title": "Egypt’s Sisi welcomes China’s President Xi in Grand Egyptian Museum tour",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/egypts-sisi-welcomes-chinas-president-xi-in-grand-egyptian-museum-tour?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 09:07:28 +0000"
     },
     {
-     "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-     "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 01:45:32 +0000"
+     "title": "Photos: Symbolic funerals held in Nepal for missing flood victims",
+     "link": "https://www.aljazeera.com/gallery/2026/9/3/photos-symbolic-funerals-held-in-nepal-for-missing-flood-victims?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 08:32:34 +0000"
     },
     {
-     "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
-     "link": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 01:22:21 +0000"
+     "title": "Good Good Golf CEO, president quit amid advertisement controversy",
+     "link": "https://www.aljazeera.com/sports/2026/9/3/good-good-golf-ceo-president-quit-amid-advertisement-controversy?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 08:32:20 +0000"
     },
     {
-     "title": "US Congress rejects constitutional amendment to restrict Supreme Court size",
-     "link": "https://www.aljazeera.com/news/2026/9/3/us-congress-rejects-constitutional-amendment-to-restrict-supreme-court-size?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 01:06:24 +0000"
+     "title": "NBA fines Clippers $30m, suspends several executives in Kawhi Leonard probe",
+     "link": "https://www.aljazeera.com/sports/2026/9/3/nba-fines-clippers-30m-suspends-several-executives-in-kawhi-leonard-probe?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 08:17:46 +0000"
     }
    ]
   },
