@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-04 09:40 UTC",
+ "updated": "2026-09-04 14:22 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
+     "link": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 11:20:21 GMT"
+    },
     {
      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 08:23:05 GMT"
     },
     {
-     "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-     "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 06:52:29 GMT"
+     "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+     "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 11:54:51 GMT"
     },
     {
-     "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-     "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 05:59:10 GMT"
+     "title": "Stock up on food to prepare for extreme weather, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 10:40:23 GMT"
     },
     {
-     "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-     "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 00:55:45 GMT"
+     "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+     "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 12:39:05 GMT"
     },
     {
-     "title": "British army told to stop non-essential training exercises to save money",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 19:56:14 GMT"
+     "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
+     "link": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 11:06:57 GMT"
     },
     {
-     "title": "Transplanted pig kidney works in US man's body for record 271 days",
-     "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 22:31:23 GMT"
+     "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+     "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 11:48:24 GMT"
     },
     {
-     "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-     "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 04:06:41 GMT"
-    },
-    {
-     "title": "Warning after jobseekers targeted in interviews scam",
-     "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 23:41:49 GMT"
+     "title": "Schools to close early for A66 crash funeral",
+     "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 13:25:07 GMT"
     }
    ]
   },
@@ -50,24 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Stock up on food to prepare for extreme weather, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 10:40:23 GMT"
+    },
+    {
+     "title": "Surprisingly strong US jobs figures fuel rate rise bets",
+     "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 13:39:33 GMT"
+    },
+    {
      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 05:59:10 GMT"
-    },
-    {
-     "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 07:00:10 GMT"
-    },
-    {
-     "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-     "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 06:52:29 GMT"
-    },
-    {
-     "title": "'I lost my savings after a job interview scam'",
-     "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 23:41:49 GMT"
     },
     {
      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
@@ -75,19 +70,24 @@
      "date": "Fri, 04 Sep 2026 07:19:06 GMT"
     },
     {
+     "title": "UK petrol prices hit highest level since Iran war began",
+     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 13:05:52 GMT"
+    },
+    {
      "title": "From 'dog fruit' to darling: India's avocado boom",
      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 05:09:02 GMT"
     },
     {
-     "title": "Is India's internet boom running into an undersea problem?",
-     "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 23:40:08 GMT"
+     "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 07:00:10 GMT"
     },
     {
-     "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 16:32:05 GMT"
+     "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+     "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 11:48:24 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Wed, 02 Sep 2026 06:00:25 GMT"
     },
     {
-     "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+     "title": "Colombian president posts video purporting to show 23 ‘neutralised’ guerrillas in body bags",
+     "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
+     "date": "Fri, 04 Sep 2026 13:50:43 GMT"
+    },
+    {
+     "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
      "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-     "date": "Fri, 04 Sep 2026 05:03:33 GMT"
+     "date": "Fri, 04 Sep 2026 09:31:52 GMT"
     },
     {
-     "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-     "link": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
-     "date": "Thu, 03 Sep 2026 16:17:29 GMT"
-    },
-    {
-     "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
-     "link": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
-     "date": "Thu, 03 Sep 2026 12:00:29 GMT"
+     "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
+     "link": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
+     "date": "Fri, 04 Sep 2026 09:24:46 GMT"
     }
    ]
   },
@@ -140,14 +140,34 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Philippine vice president is ordered arrested for threats against the president",
+     "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
+     "date": "Fri, 04 Sep 2026 09:42:10 -0400"
+    },
+    {
+     "title": "Myanmar military head visits Vietnam to normalize relations",
+     "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+     "date": "Fri, 04 Sep 2026 09:35:39 -0400"
+    },
+    {
+     "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+     "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+     "date": "Fri, 04 Sep 2026 07:29:11 -0400"
+    },
+    {
+     "title": "Germany's far-right AfD party is poised for power in a state election",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+     "date": "Fri, 04 Sep 2026 06:00:00 -0400"
+    },
+    {
+     "title": "Scientists map key protein interactions linked with profound autism",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+     "date": "Fri, 04 Sep 2026 06:00:00 -0400"
+    },
+    {
      "title": "What app surged in downloads after Trump's 'Lake America' change? The quiz knows",
      "link": "https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows",
      "date": "Fri, 04 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
-     "date": "Fri, 04 Sep 2026 05:00:00 -0400"
     },
     {
      "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
@@ -155,29 +175,9 @@
      "date": "Fri, 04 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Federal civil rights data about students is finally out. It's different under Trump",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
+     "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
      "date": "Fri, 04 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Trump already tried to hurt Iran with sanctions once - and it didn't work",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
-     "date": "Fri, 04 Sep 2026 04:06:02 -0400"
-    },
-    {
-     "title": "Work set to begin in Trump's plan for triumphal arch",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5956892/work-set-to-begin-in-trumps-plan-for-triumphal-arch",
-     "date": "Fri, 04 Sep 2026 04:04:39 -0400"
-    },
-    {
-     "title": "IRS targets private schools that help racial minority students",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5955666/irs-targets-private-schools-that-help-racial-minority-students",
-     "date": "Fri, 04 Sep 2026 04:02:55 -0400"
-    },
-    {
-     "title": "Morning News Brief",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5947222/morning-news-brief",
-     "date": "Fri, 04 Sep 2026 03:57:16 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Moment three-storey building collapses amid flooding in China",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 09:28:34 +0000"
+     "title": "Can the Green Party’s Polanski take on Labour and win Starmer’s old seat?",
+     "link": "https://www.aljazeera.com/news/2026/9/4/can-green-leader-polanski-take-on-labour-and-win-starmers-old-seat?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:59:46 +0000"
     },
     {
-     "title": "Nepal search teams rescue two workers from hydropower tunnel",
-     "link": "https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 09:09:11 +0000"
+     "title": "Two Muslim women journalists allege police assault in India",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:37:43 +0000"
     },
     {
-     "title": "Why has the Philippine peso plunged to a record low?",
-     "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 08:38:34 +0000"
+     "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
+     "link": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:35:55 +0000"
     },
     {
-     "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 07:46:48 +0000"
+     "title": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
+     "link": "https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:30:42 +0000"
     },
     {
-     "title": "Why Pakistan overhauled its military command structure after five decades",
-     "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 07:30:56 +0000"
+     "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
+     "link": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:24:53 +0000"
     },
     {
-     "title": "Zverev goes distance to scrape into third round as upsets rock US Open",
-     "link": "https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 07:27:15 +0000"
+     "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
+     "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:15:36 +0000"
     },
     {
-     "title": "Nepal floods: How DNA identification of bodies works",
-     "link": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 06:56:11 +0000"
+     "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:13:14 +0000"
     },
     {
-     "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
-     "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 06:24:55 +0000"
+     "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 13:08:23 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Super-precise optical clocks in four nations tick in harmony",
+     "link": "https://www.nature.com/articles/d41586-026-02741-9",
+     "date": ""
+    },
     {
      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
      "link": "https://www.nature.com/articles/d41586-026-02739-3",
@@ -260,13 +265,8 @@
      "date": ""
     },
     {
-     "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
-     "link": "https://www.nature.com/articles/s41586-026-11104-3",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia",
-     "link": "https://www.nature.com/articles/s41586-026-11080-8",
+     "title": "Daily briefing: GLP-1 obesity drugs slow signs of ageing in mice",
+     "link": "https://www.nature.com/articles/d41586-026-02781-1",
      "date": ""
     }
    ]
