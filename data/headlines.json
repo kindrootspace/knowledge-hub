@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03 21:43 UTC",
+ "updated": "2026-09-04 00:06 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,19 @@
      "date": "Thu, 03 Sep 2026 21:07:58 GMT"
     },
     {
-     "title": "Schools to close early for A66 crash funeral amid safety concerns",
-     "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 15:19:28 GMT"
+     "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+     "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 23:00:15 GMT"
     },
     {
-     "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 19:01:43 GMT"
+     "title": "Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial",
+     "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 23:52:29 GMT"
+    },
+    {
+     "title": "Transplanted pig kidney works in US man's body for record 271 days",
+     "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 22:31:23 GMT"
     },
     {
      "title": "British army told to stop non-essential training exercises to save money",
@@ -35,14 +40,9 @@
      "date": "Thu, 03 Sep 2026 17:35:31 GMT"
     },
     {
-     "title": "Reform UK promises £80bn cuts to public spending",
-     "link": "https://www.bbc.co.uk/news/articles/czxz4dl1plwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 18:49:34 GMT"
-    },
-    {
-     "title": "Hope for survivors in Nepal as tunnel rescue efforts continue",
-     "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 19:56:34 GMT"
+     "title": "US investigating if missile hit Iran wedding, Vance says",
+     "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 22:19:59 GMT"
     }
    ]
   },
@@ -50,9 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+     "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 23:00:15 GMT"
+    },
+    {
+     "title": "'I lost my savings after a job interview scam'",
+     "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 23:41:49 GMT"
+    },
+    {
+     "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+     "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 23:25:45 GMT"
+    },
+    {
+     "title": "Is India's internet boom running into an undersea problem?",
+     "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 03 Sep 2026 23:40:08 GMT"
+    },
+    {
      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 03 Sep 2026 13:26:54 GMT"
+    },
+    {
+     "title": "Why wait? Business grads buying firms to install themselves as CEO",
+     "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 02 Sep 2026 23:13:44 GMT"
     },
     {
      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
@@ -63,31 +88,6 @@
      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 03 Sep 2026 12:50:14 GMT"
-    },
-    {
-     "title": "Almost half of households do not see benefits of economic growth, report says",
-     "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 05:47:11 GMT"
-    },
-    {
-     "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
-     "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:25:50 GMT"
-    },
-    {
-     "title": "Why wait? Business grads buying firms to install themselves as CEO",
-     "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:13:44 GMT"
-    },
-    {
-     "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-     "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 02 Sep 2026 23:24:06 GMT"
-    },
-    {
-     "title": "Trump $1 coin makes him first living president on US currency in a century",
-     "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 03 Sep 2026 15:35:47 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
+     "date": "Thu, 03 Sep 2026 19:59:35 -0400"
+    },
+    {
+     "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
+     "link": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
+     "date": "Thu, 03 Sep 2026 18:19:02 -0400"
+    },
+    {
      "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
      "link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
      "date": "Thu, 03 Sep 2026 16:48:21 -0400"
@@ -168,22 +178,42 @@
      "title": "Kissing apes, anti-splash urinals: This year's Ig Nobels showcase surprising science",
      "link": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
      "date": "Thu, 03 Sep 2026 13:00:00 -0400"
-    },
-    {
-     "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
-     "link": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
-     "date": "Thu, 03 Sep 2026 07:17:01 -0400"
-    },
-    {
-     "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
-     "link": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
-     "date": "Thu, 03 Sep 2026 07:14:24 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Are Trump’s AI videos just memes or psychological warfare?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 23:36:20 +0000"
+    },
+    {
+     "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
+     "link": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 23:23:26 +0000"
+    },
+    {
+     "title": "DR Congo joins countries pledging embassy move to Jerusalem",
+     "link": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 23:05:12 +0000"
+    },
+    {
+     "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 22:08:33 +0000"
+    },
+    {
+     "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
+     "link": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 21:40:42 +0000"
+    },
+    {
+     "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
+     "link": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
+     "date": "Thu, 03 Sep 2026 21:32:55 +0000"
+    },
     {
      "title": "Nepal flood victims to be identified through DNA",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "El Nino: A phenomenon supercharged by climate change",
      "link": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
      "date": "Thu, 03 Sep 2026 21:09:39 +0000"
-    },
-    {
-     "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-     "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 21:07:56 +0000"
-    },
-    {
-     "title": "France records ‘hottest summer ever’ in 2026",
-     "link": "https://www.aljazeera.com/news/2026/9/3/france-records-hottest-summer-ever-in-2026?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 21:01:48 +0000"
-    },
-    {
-     "title": "Ipswich Town vs Liverpool: Premier League – prediction, team news, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/9/3/ipswich-town-vs-liverpool-premier-league-prediction-team-news-lineups?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 20:59:17 +0000"
-    },
-    {
-     "title": "ICE agent charged with lying under oath about Minnesota shooting",
-     "link": "https://www.aljazeera.com/news/2026/9/3/ice-agent-charged-with-lying-under-oath-about-minnesota-shooting?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 20:55:49 +0000"
-    },
-    {
-     "title": "India rejects court ruling on Indus Waters Treaty",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-sv-india-rejects-iwt-ruling-in-fm?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 20:48:29 +0000"
-    },
-    {
-     "title": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
-     "link": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
-     "date": "Thu, 03 Sep 2026 20:44:49 +0000"
     }
    ]
   },
