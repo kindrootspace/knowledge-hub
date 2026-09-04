@@ -1,23 +1,38 @@
 {
- "updated": "2026-09-04 14:22 UTC",
+ "updated": "2026-09-04 18:24 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
-     "link": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 11:20:21 GMT"
+     "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+     "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 16:50:00 GMT"
     },
     {
-     "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-     "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 08:23:05 GMT"
+     "title": "Farage says his aides' donor comments were 'loose pub talk'",
+     "link": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 16:08:29 GMT"
     },
     {
-     "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-     "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 11:54:51 GMT"
+     "title": "UN votes to adopt new world map to reflect Africa's true size",
+     "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 17:26:40 GMT"
+    },
+    {
+     "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+     "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 14:40:00 GMT"
+    },
+    {
+     "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
+     "link": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 12:06:37 GMT"
+    },
+    {
+     "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 16:02:32 GMT"
     },
     {
      "title": "Stock up on food to prepare for extreme weather, minister says",
@@ -25,24 +40,9 @@
      "date": "Fri, 04 Sep 2026 10:40:23 GMT"
     },
     {
-     "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-     "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 12:39:05 GMT"
-    },
-    {
-     "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
-     "link": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 11:06:57 GMT"
-    },
-    {
-     "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-     "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 11:48:24 GMT"
-    },
-    {
-     "title": "Schools to close early for A66 crash funeral",
-     "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 13:25:07 GMT"
+     "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+     "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 11:54:51 GMT"
     }
    ]
   },
@@ -55,9 +55,9 @@
      "date": "Fri, 04 Sep 2026 10:40:23 GMT"
     },
     {
-     "title": "Surprisingly strong US jobs figures fuel rate rise bets",
+     "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
      "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 13:39:33 GMT"
+     "date": "Fri, 04 Sep 2026 17:23:13 GMT"
     },
     {
      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
@@ -95,9 +95,9 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "UN to vote on adopting new world map that shows Africa’s true scale",
+     "title": "UN votes to adopt new world map that shows Africa’s true scale",
      "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-     "date": "Fri, 04 Sep 2026 02:00:54 GMT"
+     "date": "Fri, 04 Sep 2026 16:49:29 GMT"
     },
     {
      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
@@ -120,7 +120,7 @@
      "date": "Wed, 02 Sep 2026 06:00:25 GMT"
     },
     {
-     "title": "Colombian president posts video purporting to show 23 ‘neutralised’ guerrillas in body bags",
+     "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
      "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
      "date": "Fri, 04 Sep 2026 13:50:43 GMT"
     },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Whatever happened to the U.S. campaign to ban child marriage?",
+     "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
+     "date": "Fri, 04 Sep 2026 13:01:24 -0400"
+    },
+    {
+     "title": "Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
+     "date": "Fri, 04 Sep 2026 12:20:30 -0400"
+    },
+    {
+     "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
+     "date": "Fri, 04 Sep 2026 11:04:53 -0400"
+    },
+    {
      "title": "Philippine vice president is ordered arrested for threats against the president",
      "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
      "date": "Fri, 04 Sep 2026 09:42:10 -0400"
@@ -155,29 +170,14 @@
      "date": "Fri, 04 Sep 2026 07:29:11 -0400"
     },
     {
-     "title": "Germany's far-right AfD party is poised for power in a state election",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-     "date": "Fri, 04 Sep 2026 06:00:00 -0400"
-    },
-    {
      "title": "Scientists map key protein interactions linked with profound autism",
      "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
      "date": "Fri, 04 Sep 2026 06:00:00 -0400"
     },
     {
-     "title": "What app surged in downloads after Trump's 'Lake America' change? The quiz knows",
-     "link": "https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows",
-     "date": "Fri, 04 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
-     "date": "Fri, 04 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
-     "date": "Fri, 04 Sep 2026 05:00:00 -0400"
+     "title": "Germany's far-right AfD party is poised for power in a state election",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+     "date": "Fri, 04 Sep 2026 06:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Can the Green Party’s Polanski take on Labour and win Starmer’s old seat?",
-     "link": "https://www.aljazeera.com/news/2026/9/4/can-green-leader-polanski-take-on-labour-and-win-starmers-old-seat?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:59:46 +0000"
+     "title": "Moment two workers are pulled alive from Nepal tunnel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 18:02:30 +0000"
     },
     {
-     "title": "Two Muslim women journalists allege police assault in India",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:37:43 +0000"
+     "title": "Indonesia wildfires send toxic haze across Southeast Asia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 17:38:48 +0000"
     },
     {
-     "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-     "link": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:35:55 +0000"
+     "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+     "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 17:29:20 +0000"
     },
     {
-     "title": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-     "link": "https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:30:42 +0000"
+     "title": "Rescuers race to save 10-year-old Algerian boy trapped in deep well",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 16:48:50 +0000"
     },
     {
-     "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-     "link": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:24:53 +0000"
+     "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+     "link": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 16:31:20 +0000"
     },
     {
-     "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-     "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:15:36 +0000"
+     "title": "The number 10 shirt must not retire with Messi",
+     "link": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 16:31:15 +0000"
     },
     {
-     "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:13:14 +0000"
+     "title": "Bride walks down the aisle despite waist-deep flooding",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/bride-walks-down-the-aisle-despite-waist-deep-flooding?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 16:25:14 +0000"
     },
     {
-     "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 13:08:23 +0000"
+     "title": "October 7 attack shapes Israel’s elections and fuels political blame",
+     "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 16:20:35 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
+     "link": "https://www.nature.com/articles/d41586-026-02800-1",
+     "date": ""
+    },
     {
      "title": "Super-precise optical clocks in four nations tick in harmony",
      "link": "https://www.nature.com/articles/d41586-026-02741-9",
@@ -240,18 +245,13 @@
      "date": ""
     },
     {
-     "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
-     "link": "https://www.nature.com/articles/s41586-026-11091-5",
+     "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
+     "link": "https://www.nature.com/articles/d41586-026-02643-w",
      "date": ""
     },
     {
-     "title": "Immune therapy engineered inside the body eases multiple sclerosis",
-     "link": "https://www.nature.com/articles/d41586-026-02765-1",
-     "date": ""
-    },
-    {
-     "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy, in mice",
-     "link": "https://www.nature.com/articles/d41586-026-02744-6",
+     "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
+     "link": "https://www.nature.com/articles/d41586-026-02801-0",
      "date": ""
     },
     {
@@ -260,13 +260,13 @@
      "date": ""
     },
     {
-     "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
-     "link": "https://www.nature.com/articles/d41586-026-02517-1",
+     "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
+     "link": "https://www.nature.com/articles/d41586-026-02758-0",
      "date": ""
     },
     {
-     "title": "Daily briefing: GLP-1 obesity drugs slow signs of ageing in mice",
-     "link": "https://www.nature.com/articles/d41586-026-02781-1",
+     "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+     "link": "https://www.nature.com/articles/s41586-026-11091-5",
      "date": ""
     }
    ]
