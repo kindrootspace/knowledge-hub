@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04 18:24 UTC",
+ "updated": "2026-09-04 21:29 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,17 +7,22 @@
     {
      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
      "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 16:50:00 GMT"
+     "date": "Fri, 04 Sep 2026 19:50:01 GMT"
     },
     {
-     "title": "Farage says his aides' donor comments were 'loose pub talk'",
-     "link": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 16:08:29 GMT"
+     "title": "Cleveland police chief proud of force but being 'let down' by funding",
+     "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 21:00:05 GMT"
+    },
+    {
+     "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+     "link": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 19:20:18 GMT"
     },
     {
      "title": "UN votes to adopt new world map to reflect Africa's true size",
      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 17:26:40 GMT"
+     "date": "Fri, 04 Sep 2026 19:44:40 GMT"
     },
     {
      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
@@ -25,19 +30,14 @@
      "date": "Fri, 04 Sep 2026 14:40:00 GMT"
     },
     {
-     "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
-     "link": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 12:06:37 GMT"
-    },
-    {
      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 16:02:32 GMT"
     },
     {
-     "title": "Stock up on food to prepare for extreme weather, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 10:40:23 GMT"
+     "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
+     "link": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 12:06:37 GMT"
     },
     {
      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
@@ -120,6 +120,11 @@
      "date": "Wed, 02 Sep 2026 06:00:25 GMT"
     },
     {
+     "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+     "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+     "date": "Fri, 04 Sep 2026 20:21:52 GMT"
+    },
+    {
      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
      "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
      "date": "Fri, 04 Sep 2026 13:50:43 GMT"
@@ -128,11 +133,6 @@
      "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
      "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
      "date": "Fri, 04 Sep 2026 09:31:52 GMT"
-    },
-    {
-     "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
-     "link": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
-     "date": "Fri, 04 Sep 2026 09:24:46 GMT"
     }
    ]
   },
@@ -140,12 +140,22 @@
    "name": "NPR",
    "items": [
     {
+     "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+     "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+     "date": "Fri, 04 Sep 2026 17:11:56 -0400"
+    },
+    {
+     "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+     "date": "Fri, 04 Sep 2026 16:15:05 -0400"
+    },
+    {
      "title": "Whatever happened to the U.S. campaign to ban child marriage?",
      "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
      "date": "Fri, 04 Sep 2026 13:01:24 -0400"
     },
     {
-     "title": "Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial",
+     "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
      "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
      "date": "Fri, 04 Sep 2026 12:20:30 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
      "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
      "date": "Fri, 04 Sep 2026 07:29:11 -0400"
-    },
-    {
-     "title": "Scientists map key protein interactions linked with profound autism",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-     "date": "Fri, 04 Sep 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Germany's far-right AfD party is poised for power in a state election",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-     "date": "Fri, 04 Sep 2026 06:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Moment two workers are pulled alive from Nepal tunnel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 18:02:30 +0000"
+     "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
+     "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 21:05:03 +0000"
     },
     {
-     "title": "Indonesia wildfires send toxic haze across Southeast Asia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 17:38:48 +0000"
+     "title": "Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win",
+     "link": "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:55:16 +0000"
     },
     {
-     "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
-     "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 17:29:20 +0000"
+     "title": "Nigel Farage heckled as he denies Reform UK took illegal funding",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:53:12 +0000"
     },
     {
-     "title": "Rescuers race to save 10-year-old Algerian boy trapped in deep well",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 16:48:50 +0000"
+     "title": "Will Europe pay the US to provide military aid to Ukraine?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:52:55 +0000"
     },
     {
-     "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
-     "link": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 16:31:20 +0000"
+     "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:28:40 +0000"
     },
     {
-     "title": "The number 10 shirt must not retire with Messi",
-     "link": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 16:31:15 +0000"
+     "title": "Watchdog report alleges misconduct by Trump’s former labour secretary",
+     "link": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:27:11 +0000"
     },
     {
-     "title": "Bride walks down the aisle despite waist-deep flooding",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/bride-walks-down-the-aisle-despite-waist-deep-flooding?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 16:25:14 +0000"
+     "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:22:42 +0000"
     },
     {
-     "title": "October 7 attack shapes Israel’s elections and fuels political blame",
-     "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 16:20:35 +0000"
+     "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 20:04:13 +0000"
     }
    ]
   },
@@ -255,6 +255,11 @@
      "date": ""
     },
     {
+     "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
+     "link": "https://www.nature.com/articles/d41586-026-02799-5",
+     "date": ""
+    },
+    {
      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
      "link": "https://www.nature.com/articles/d41586-026-02650-x",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
      "link": "https://www.nature.com/articles/d41586-026-02758-0",
-     "date": ""
-    },
-    {
-     "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
-     "link": "https://www.nature.com/articles/s41586-026-11091-5",
      "date": ""
     }
    ]
