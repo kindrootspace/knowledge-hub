@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 16:05 UTC",
+ "updated": "2026-09-05 18:19 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,7 +22,12 @@
     {
      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 15:14:21 GMT"
+     "date": "Sat, 05 Sep 2026 17:15:05 GMT"
+    },
+    {
+     "title": "US envoys meet Putin in Moscow for Ukraine talks",
+     "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 17:18:31 GMT"
     },
     {
      "title": "Jaguar Land Rover confirms planned job cuts",
@@ -33,11 +38,6 @@
      "title": "Trump's response is key as Argentina's Falklands demands get louder",
      "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 05 Sep 2026 06:20:04 GMT"
-    },
-    {
-     "title": "King and Queen join Highland games fans at Braemar Gathering",
-     "link": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 14:44:27 GMT"
     },
     {
      "title": "Counterfeit weight-loss jabs are booming - and doctors are worried",
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+     "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+     "date": "Sat, 05 Sep 2026 18:00:15 GMT"
+    },
+    {
      "title": "UN votes to adopt new world map that shows Africa’s true scale",
      "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
      "date": "Fri, 04 Sep 2026 16:49:29 GMT"
@@ -113,11 +118,6 @@
      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
      "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
      "date": "Wed, 02 Sep 2026 09:20:55 GMT"
-    },
-    {
-     "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-     "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-     "date": "Wed, 02 Sep 2026 06:00:25 GMT"
     },
     {
      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Germany’s far-right AfD eyes historic first in state election",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 18:07:43 +0000"
+    },
+    {
+     "title": "Haaland heads Man City to the top of Premier League with win over Coventry",
+     "link": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 16:47:17 +0000"
+    },
+    {
+     "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+     "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 16:17:47 +0000"
+    },
+    {
+     "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+     "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 16:04:01 +0000"
+    },
+    {
+     "title": "US says it hit three Iranian oil tankers after attacks on warships",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 15:49:44 +0000"
+    },
+    {
+     "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+     "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 15:37:12 +0000"
+    },
+    {
+     "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
+     "link": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 15:33:02 +0000"
+    },
+    {
      "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
      "link": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
      "date": "Sat, 05 Sep 2026 14:51:08 +0000"
-    },
-    {
-     "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
-     "link": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 14:49:36 +0000"
-    },
-    {
-     "title": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
-     "link": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 14:40:38 +0000"
-    },
-    {
-     "title": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
-     "link": "https://www.aljazeera.com/sports/2026/9/5/coach-luis-enrique-unconcerned-by-psgs-poor-start-to-french-league-season?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 14:07:52 +0000"
-    },
-    {
-     "title": "Why has the Trump administration ordered staff to take polygraph tests?",
-     "link": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 13:54:33 +0000"
-    },
-    {
-     "title": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
-     "link": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 13:51:29 +0000"
-    },
-    {
-     "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 13:20:42 +0000"
-    },
-    {
-     "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 13:09:24 +0000"
     }
    ]
   },
