@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 09:05 UTC",
+ "updated": "2026-09-05 12:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,17 +17,12 @@
     {
      "title": "Reform promises to increase tax-free personal allowance to £15,000",
      "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 07:41:42 GMT"
-    },
-    {
-     "title": "Disruption at Port of Dover as masked men hold protest",
-     "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 08:54:49 GMT"
+     "date": "Sat, 05 Sep 2026 11:16:11 GMT"
     },
     {
      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 06:37:46 GMT"
+     "date": "Sat, 05 Sep 2026 10:02:29 GMT"
     },
     {
      "title": "Trump's response is key as Argentina's Falklands demands get louder",
@@ -35,14 +30,19 @@
      "date": "Sat, 05 Sep 2026 06:20:04 GMT"
     },
     {
-     "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
-     "link": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:53:45 GMT"
+     "title": "Michael Owen doesn't tell his children he loves them - how big a deal is that?",
+     "link": "https://www.bbc.co.uk/news/articles/cddvep5vj7mo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 00:19:32 GMT"
     },
     {
-     "title": "Recipe for success - the Chicken Shop Date moments that created a YouTube star",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyqpmy01po?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 00:14:08 GMT"
+     "title": "Police say these cameras make US safer - so why are they being sabotaged?",
+     "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 01:16:27 GMT"
+    },
+    {
+     "title": "Counterfeit copies of experimental weight-loss jab flood black market",
+     "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 23:47:40 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 02 Sep 2026 06:00:25 GMT"
     },
     {
+     "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
+     "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+     "date": "Sat, 05 Sep 2026 10:00:34 GMT"
+    },
+    {
      "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
      "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
      "date": "Fri, 04 Sep 2026 20:21:52 GMT"
@@ -128,17 +133,37 @@
      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
      "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
      "date": "Fri, 04 Sep 2026 13:50:43 GMT"
-    },
-    {
-     "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
-     "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-     "date": "Fri, 04 Sep 2026 09:31:52 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Opinion: A sculpture in perpetual motion, removed",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
+     "date": "Sat, 05 Sep 2026 08:00:00 -0400"
+    },
+    {
+     "title": "Whatever happened to the floating schools of Bangladesh?",
+     "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+     "date": "Sat, 05 Sep 2026 07:26:09 -0400"
+    },
+    {
+     "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
+     "date": "Sat, 05 Sep 2026 07:08:57 -0400"
+    },
+    {
+     "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+     "date": "Sat, 05 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Flock cameras draw opposition from across the political spectrum",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
+     "date": "Sat, 05 Sep 2026 05:00:00 -0400"
+    },
     {
      "title": "Philippines Vice President Sara Duterte posts bail after arrest",
      "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
@@ -153,31 +178,6 @@
      "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
      "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
      "date": "Fri, 04 Sep 2026 17:47:19 -0400"
-    },
-    {
-     "title": "'Hidden tribunals': Immigration court due process in tumult with new locations",
-     "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
-     "date": "Fri, 04 Sep 2026 17:11:56 -0400"
-    },
-    {
-     "title": "'The health system in Nepal is not prepared for this'",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
-     "date": "Fri, 04 Sep 2026 16:41:08 -0400"
-    },
-    {
-     "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
-     "date": "Fri, 04 Sep 2026 16:15:05 -0400"
-    },
-    {
-     "title": "Whatever happened to the U.S. campaign to ban child marriage?",
-     "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
-     "date": "Fri, 04 Sep 2026 13:01:24 -0400"
-    },
-    {
-     "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
-     "date": "Fri, 04 Sep 2026 12:20:30 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pentagon polygraphs dozens of US military staff over media leaks: Report",
-     "link": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 08:37:34 +0000"
+     "title": "Costa Rica’s president says US ground forces would boost national security",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 12:09:56 +0000"
     },
     {
-     "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
-     "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 08:14:46 +0000"
+     "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
+     "link": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 12:04:52 +0000"
     },
     {
-     "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
-     "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 08:07:08 +0000"
+     "title": "Pickleball and dining: Why courts are the new food destinations",
+     "link": "https://www.aljazeera.com/features/longform/2026/9/5/pickleball-and-dining-why-courts-are-the-new-food-destinations?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 11:48:16 +0000"
     },
     {
-     "title": "Niger accuses France of orchestrating failed military mutiny",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 07:42:59 +0000"
+     "title": "LIVE: India vs Pakistan – Women’s T20 Asia Cup",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/5/live-india-vs-pakistan-womens-t20-asia-cup?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 11:32:07 +0000"
     },
     {
-     "title": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
-     "link": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 07:15:29 +0000"
+     "title": "Mudslide in eastern China kills one, leaves 11 missing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 10:49:23 +0000"
     },
     {
-     "title": "Have scientists discovered a dark matter particle?",
-     "link": "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 07:13:23 +0000"
+     "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+     "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 10:27:23 +0000"
     },
     {
-     "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
-     "link": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 06:51:32 +0000"
+     "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+     "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 09:56:53 +0000"
     },
     {
-     "title": "Bolivian military barracks explosion kills at least 10",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 06:11:05 +0000"
+     "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 09:52:44 +0000"
     }
    ]
   },
