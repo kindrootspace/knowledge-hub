@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 04:30 UTC",
+ "updated": "2026-09-05 09:05 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Cleveland police chief proud of force but being 'let down' by funding",
      "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 21:00:05 GMT"
+     "date": "Sat, 05 Sep 2026 05:40:03 GMT"
     },
     {
      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
@@ -15,19 +15,24 @@
      "date": "Fri, 04 Sep 2026 19:50:01 GMT"
     },
     {
-     "title": "How the Lindsay Clancy trial gripped America - and ultimately fell apart",
-     "link": "https://www.bbc.co.uk/news/videos/cr7dzr2e789o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:26:29 GMT"
+     "title": "Reform promises to increase tax-free personal allowance to £15,000",
+     "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 07:41:42 GMT"
     },
     {
-     "title": "UN votes to adopt new world map to reflect Africa's true size",
-     "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 00:53:11 GMT"
+     "title": "Disruption at Port of Dover as masked men hold protest",
+     "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 08:54:49 GMT"
     },
     {
-     "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-     "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:03:35 GMT"
+     "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 06:37:46 GMT"
+    },
+    {
+     "title": "Trump's response is key as Argentina's Falklands demands get louder",
+     "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 06:20:04 GMT"
     },
     {
      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
@@ -35,14 +40,9 @@
      "date": "Sat, 05 Sep 2026 01:53:45 GMT"
     },
     {
-     "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
-     "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 02:29:21 GMT"
-    },
-    {
-     "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
-     "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 23:07:23 GMT"
+     "title": "Recipe for success - the Chicken Shop Date moments that created a YouTube star",
+     "link": "https://www.bbc.co.uk/news/articles/cvgyqpmy01po?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 00:14:08 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Philippines Vice President Sara Duterte posts bail after arrest",
+     "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+     "date": "Sat, 05 Sep 2026 03:21:10 -0400"
+    },
+    {
      "title": "The U.N. backs a new world map showing Africa in its true relative size",
      "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
      "date": "Fri, 04 Sep 2026 18:26:35 -0400"
@@ -173,11 +178,6 @@
      "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
      "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
      "date": "Fri, 04 Sep 2026 12:20:30 -0400"
-    },
-    {
-     "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
-     "date": "Fri, 04 Sep 2026 11:04:53 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Blasts at Bolivian military base kill at least 10, injure dozens",
-     "link": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 03:56:16 +0000"
+     "title": "Pentagon polygraphs dozens of US military staff over media leaks: Report",
+     "link": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 08:37:34 +0000"
     },
     {
-     "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
-     "link": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 03:48:17 +0000"
+     "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
+     "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 08:14:46 +0000"
     },
     {
-     "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 03:46:20 +0000"
+     "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
+     "link": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 08:07:08 +0000"
     },
     {
-     "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 03:25:46 +0000"
+     "title": "Niger accuses France of orchestrating failed military mutiny",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 07:42:59 +0000"
     },
     {
-     "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-     "link": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 03:05:28 +0000"
+     "title": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
+     "link": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 07:15:29 +0000"
     },
     {
-     "title": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
-     "link": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 02:43:23 +0000"
+     "title": "Have scientists discovered a dark matter particle?",
+     "link": "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 07:13:23 +0000"
     },
     {
-     "title": "Ecuador defends US sinking of vessels as joint anti-drug operation",
-     "link": "https://www.aljazeera.com/news/2026/9/5/ecuador-defends-us-sinking-of-vessels-as-joint-anti-drug-operation?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 01:46:50 +0000"
+     "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
+     "link": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 06:51:32 +0000"
     },
     {
-     "title": "Asylum seekers caught in US immigration crackdown",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/asylum-seekers-caught-in-us-immigration-crackdown?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 01:27:31 +0000"
+     "title": "Bolivian military barracks explosion kills at least 10",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 06:11:05 +0000"
     }
    ]
   },
