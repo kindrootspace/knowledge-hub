@@ -1,28 +1,33 @@
 {
- "updated": "2026-09-05 12:43 UTC",
+ "updated": "2026-09-05 16:05 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Cleveland police chief proud of force but being 'let down' by funding",
-     "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 05:40:03 GMT"
+     "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+     "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 14:41:17 GMT"
     },
     {
-     "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-     "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 19:50:01 GMT"
+     "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 14:26:37 GMT"
     },
     {
-     "title": "Reform promises to increase tax-free personal allowance to £15,000",
-     "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 11:16:11 GMT"
+     "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+     "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 12:32:31 GMT"
     },
     {
-     "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 10:02:29 GMT"
+     "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+     "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 15:14:21 GMT"
+    },
+    {
+     "title": "Jaguar Land Rover confirms planned job cuts",
+     "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 13:22:17 GMT"
     },
     {
      "title": "Trump's response is key as Argentina's Falklands demands get louder",
@@ -30,17 +35,12 @@
      "date": "Sat, 05 Sep 2026 06:20:04 GMT"
     },
     {
-     "title": "Michael Owen doesn't tell his children he loves them - how big a deal is that?",
-     "link": "https://www.bbc.co.uk/news/articles/cddvep5vj7mo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 00:19:32 GMT"
+     "title": "King and Queen join Highland games fans at Braemar Gathering",
+     "link": "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 14:44:27 GMT"
     },
     {
-     "title": "Police say these cameras make US safer - so why are they being sabotaged?",
-     "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:16:27 GMT"
-    },
-    {
-     "title": "Counterfeit copies of experimental weight-loss jab flood black market",
+     "title": "Counterfeit weight-loss jabs are booming - and doctors are worried",
      "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 23:47:40 GMT"
     }
@@ -140,9 +140,19 @@
    "name": "NPR",
    "items": [
     {
+     "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+     "date": "Sat, 05 Sep 2026 11:05:08 -0400"
+    },
+    {
      "title": "Opinion: A sculpture in perpetual motion, removed",
      "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
      "date": "Sat, 05 Sep 2026 08:00:00 -0400"
+    },
+    {
+     "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
+     "date": "Sat, 05 Sep 2026 07:43:24 -0400"
     },
     {
      "title": "Whatever happened to the floating schools of Bangladesh?",
@@ -168,16 +178,6 @@
      "title": "Philippines Vice President Sara Duterte posts bail after arrest",
      "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
      "date": "Sat, 05 Sep 2026 03:21:10 -0400"
-    },
-    {
-     "title": "The U.N. backs a new world map showing Africa in its true relative size",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-     "date": "Fri, 04 Sep 2026 18:26:35 -0400"
-    },
-    {
-     "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
-     "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
-     "date": "Fri, 04 Sep 2026 17:47:19 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Costa Rica’s president says US ground forces would boost national security",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 12:09:56 +0000"
+     "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
+     "link": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 14:51:08 +0000"
     },
     {
-     "title": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
-     "link": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 12:04:52 +0000"
+     "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+     "link": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 14:49:36 +0000"
     },
     {
-     "title": "Pickleball and dining: Why courts are the new food destinations",
-     "link": "https://www.aljazeera.com/features/longform/2026/9/5/pickleball-and-dining-why-courts-are-the-new-food-destinations?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 11:48:16 +0000"
+     "title": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
+     "link": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 14:40:38 +0000"
     },
     {
-     "title": "LIVE: India vs Pakistan – Women’s T20 Asia Cup",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/5/live-india-vs-pakistan-womens-t20-asia-cup?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 11:32:07 +0000"
+     "title": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
+     "link": "https://www.aljazeera.com/sports/2026/9/5/coach-luis-enrique-unconcerned-by-psgs-poor-start-to-french-league-season?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 14:07:52 +0000"
     },
     {
-     "title": "Mudslide in eastern China kills one, leaves 11 missing",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/mudslide-in-eastern-china-kills-one-leaves-11-missing?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 10:49:23 +0000"
+     "title": "Why has the Trump administration ordered staff to take polygraph tests?",
+     "link": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 13:54:33 +0000"
     },
     {
-     "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-     "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 10:27:23 +0000"
+     "title": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
+     "link": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 13:51:29 +0000"
     },
     {
-     "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-     "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 09:56:53 +0000"
+     "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 13:20:42 +0000"
     },
     {
-     "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 09:52:44 +0000"
+     "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 13:09:24 +0000"
     }
    ]
   },
