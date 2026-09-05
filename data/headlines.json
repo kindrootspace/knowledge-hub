@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04 21:29 UTC",
+ "updated": "2026-09-05 00:06 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -13,6 +13,11 @@
      "title": "Cleveland police chief proud of force but being 'let down' by funding",
      "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 21:00:05 GMT"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+     "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 04 Sep 2026 22:48:38 GMT"
     },
     {
      "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
@@ -38,11 +43,6 @@
      "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
      "link": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 12:06:37 GMT"
-    },
-    {
-     "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-     "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 11:54:51 GMT"
     }
    ]
   },
@@ -140,9 +140,24 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The U.N. backs a new world map showing Africa in its true relative size",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+     "date": "Fri, 04 Sep 2026 18:26:35 -0400"
+    },
+    {
+     "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+     "date": "Fri, 04 Sep 2026 17:47:19 -0400"
+    },
+    {
      "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
      "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
      "date": "Fri, 04 Sep 2026 17:11:56 -0400"
+    },
+    {
+     "title": "'The health system in Nepal is not prepared for this'",
+     "link": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
+     "date": "Fri, 04 Sep 2026 16:41:08 -0400"
     },
     {
      "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
@@ -163,21 +178,6 @@
      "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
      "link": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
      "date": "Fri, 04 Sep 2026 11:04:53 -0400"
-    },
-    {
-     "title": "Philippine vice president is ordered arrested for threats against the president",
-     "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-     "date": "Fri, 04 Sep 2026 09:42:10 -0400"
-    },
-    {
-     "title": "Myanmar military head visits Vietnam to normalize relations",
-     "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-     "date": "Fri, 04 Sep 2026 09:35:39 -0400"
-    },
-    {
-     "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-     "link": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
-     "date": "Fri, 04 Sep 2026 07:29:11 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Tunisia arrests journalist amid crackdown on government critics",
+     "link": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 23:19:43 +0000"
+    },
+    {
+     "title": "Mock Republican convention website tops Google, redirects to Epstein files",
+     "link": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 22:51:06 +0000"
+    },
+    {
+     "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+     "link": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 21:58:47 +0000"
+    },
+    {
+     "title": "Costa Rican president signals openness to domestic US military operations",
+     "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 21:45:56 +0000"
+    },
+    {
+     "title": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+     "link": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 21:37:56 +0000"
+    },
+    {
+     "title": "US regulator opens safety investigation as Tesla launches driverless taxis",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/us-regulator-opens-safety-investigation-as-tesla-launches-driverless-taxis?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 21:27:26 +0000"
+    },
+    {
+     "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+     "link": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
+     "date": "Fri, 04 Sep 2026 21:19:05 +0000"
+    },
+    {
      "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
      "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
      "date": "Fri, 04 Sep 2026 21:05:03 +0000"
-    },
-    {
-     "title": "Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win",
-     "link": "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:55:16 +0000"
-    },
-    {
-     "title": "Nigel Farage heckled as he denies Reform UK took illegal funding",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:53:12 +0000"
-    },
-    {
-     "title": "Will Europe pay the US to provide military aid to Ukraine?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:52:55 +0000"
-    },
-    {
-     "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:28:40 +0000"
-    },
-    {
-     "title": "Watchdog report alleges misconduct by Trump’s former labour secretary",
-     "link": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:27:11 +0000"
-    },
-    {
-     "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:22:42 +0000"
-    },
-    {
-     "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
-     "date": "Fri, 04 Sep 2026 20:04:13 +0000"
     }
    ]
   },
