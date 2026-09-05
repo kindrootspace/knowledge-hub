@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 21:15 UTC",
+ "updated": "2026-09-05 22:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,12 @@
     {
      "title": "US envoys meet Putin in Moscow for Ukraine talks",
      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 20:15:49 GMT"
+     "date": "Sat, 05 Sep 2026 21:39:02 GMT"
     },
     {
      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
      "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 14:41:17 GMT"
+     "date": "Sat, 05 Sep 2026 21:29:02 GMT"
     },
     {
      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
@@ -20,14 +20,9 @@
      "date": "Sat, 05 Sep 2026 14:26:37 GMT"
     },
     {
-     "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+     "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 20:41:59 GMT"
-    },
-    {
-     "title": "Jaguar Land Rover confirms planned job cuts",
-     "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 13:22:17 GMT"
+     "date": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
      "title": "Prince William to attend King Harald's funeral in Norway",
@@ -37,7 +32,12 @@
     {
      "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
      "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 20:02:12 GMT"
+     "date": "Sat, 05 Sep 2026 21:22:31 GMT"
+    },
+    {
+     "title": "Katie Taylor crowns career in stylish Croke Park triumph",
+     "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 22:22:47 GMT"
     },
     {
      "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
@@ -120,19 +120,19 @@
      "date": "Wed, 02 Sep 2026 09:20:55 GMT"
     },
     {
+     "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+     "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+     "date": "Sat, 05 Sep 2026 22:19:40 GMT"
+    },
+    {
+     "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+     "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+     "date": "Sat, 05 Sep 2026 22:16:55 GMT"
+    },
+    {
      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
      "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
      "date": "Sat, 05 Sep 2026 10:00:34 GMT"
-    },
-    {
-     "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-     "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-     "date": "Fri, 04 Sep 2026 20:21:52 GMT"
-    },
-    {
-     "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
-     "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-     "date": "Fri, 04 Sep 2026 13:50:43 GMT"
     }
    ]
   },
@@ -185,6 +185,16 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 21:23:06 +0000"
+    },
+    {
+     "title": "Building collapses after heavy rain in northern India",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 21:11:25 +0000"
+    },
+    {
      "title": "Why is Argentina reigniting the Falklands dispute?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
      "date": "Sat, 05 Sep 2026 20:14:55 +0000"
@@ -213,16 +223,6 @@
      "title": "Jerusalem Daily: raids, settlers & sieges",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
      "date": "Sat, 05 Sep 2026 19:37:10 +0000"
-    },
-    {
-     "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
-     "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 19:19:52 +0000"
-    },
-    {
-     "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 19:13:29 +0000"
     }
    ]
   },
