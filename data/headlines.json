@@ -1,9 +1,14 @@
 {
- "updated": "2026-09-05 18:19 UTC",
+ "updated": "2026-09-05 21:15 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "US envoys meet Putin in Moscow for Ukraine talks",
+     "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 20:15:49 GMT"
+    },
     {
      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
      "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
@@ -15,19 +20,9 @@
      "date": "Sat, 05 Sep 2026 14:26:37 GMT"
     },
     {
-     "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-     "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 12:32:31 GMT"
-    },
-    {
      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 17:15:05 GMT"
-    },
-    {
-     "title": "US envoys meet Putin in Moscow for Ukraine talks",
-     "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 17:18:31 GMT"
+     "date": "Sat, 05 Sep 2026 20:41:59 GMT"
     },
     {
      "title": "Jaguar Land Rover confirms planned job cuts",
@@ -35,14 +30,19 @@
      "date": "Sat, 05 Sep 2026 13:22:17 GMT"
     },
     {
-     "title": "Trump's response is key as Argentina's Falklands demands get louder",
-     "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 06:20:04 GMT"
+     "title": "Prince William to attend King Harald's funeral in Norway",
+     "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 21:00:02 GMT"
     },
     {
-     "title": "Counterfeit weight-loss jabs are booming - and doctors are worried",
-     "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 23:47:40 GMT"
+     "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+     "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 20:02:12 GMT"
+    },
+    {
+     "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+     "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 12:32:31 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
+     "date": "Sat, 05 Sep 2026 17:01:10 -0400"
+    },
+    {
      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
      "date": "Sat, 05 Sep 2026 11:05:08 -0400"
@@ -155,6 +160,11 @@
      "date": "Sat, 05 Sep 2026 07:43:24 -0400"
     },
     {
+     "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+     "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
+     "date": "Sat, 05 Sep 2026 07:43:14 -0400"
+    },
+    {
      "title": "Whatever happened to the floating schools of Bangladesh?",
      "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
      "date": "Sat, 05 Sep 2026 07:26:09 -0400"
@@ -168,16 +178,6 @@
      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
      "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
      "date": "Sat, 05 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Flock cameras draw opposition from across the political spectrum",
-     "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-     "date": "Sat, 05 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-     "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-     "date": "Sat, 05 Sep 2026 03:21:10 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Germany’s far-right AfD eyes historic first in state election",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 18:07:43 +0000"
+     "title": "Why is Argentina reigniting the Falklands dispute?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 20:14:55 +0000"
     },
     {
-     "title": "Haaland heads Man City to the top of Premier League with win over Coventry",
-     "link": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 16:47:17 +0000"
+     "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 20:04:30 +0000"
     },
     {
-     "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-     "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 16:17:47 +0000"
+     "title": "Colombian government reports three killed in rebel attack on military post",
+     "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 20:03:29 +0000"
     },
     {
-     "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
-     "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 16:04:01 +0000"
+     "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 20:00:05 +0000"
     },
     {
-     "title": "US says it hit three Iranian oil tankers after attacks on warships",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 15:49:44 +0000"
+     "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
+     "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 19:45:39 +0000"
     },
     {
-     "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
-     "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 15:37:12 +0000"
+     "title": "Jerusalem Daily: raids, settlers & sieges",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 19:37:10 +0000"
     },
     {
-     "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-     "link": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 15:33:02 +0000"
+     "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+     "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 19:19:52 +0000"
     },
     {
-     "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
-     "link": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 14:51:08 +0000"
+     "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 19:13:29 +0000"
     }
    ]
   },
