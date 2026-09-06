@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06 19:11 UTC",
+ "updated": "2026-09-06 21:21 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,12 @@
     {
      "title": "German far-right set for big win in eastern state, projections show",
      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 19:05:07 GMT"
+     "date": "Sun, 06 Sep 2026 20:45:11 GMT"
     },
     {
      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 18:33:50 GMT"
+     "date": "Sun, 06 Sep 2026 20:41:58 GMT"
     },
     {
      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
@@ -37,7 +37,7 @@
     {
      "title": "140 migrants in single dinghy rescued in English Channel",
      "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 16:28:59 GMT"
+     "date": "Sun, 06 Sep 2026 21:09:26 GMT"
     },
     {
      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
@@ -140,8 +140,13 @@
    "name": "NPR",
    "items": [
     {
+     "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+     "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+     "date": "Sun, 06 Sep 2026 15:54:28 -0400"
+    },
+    {
      "title": "German exit polls suggest far-right party has big lead in regional election",
-     "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+     "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
      "date": "Sun, 06 Sep 2026 12:36:48 -0400"
     },
     {
@@ -173,17 +178,37 @@
      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
      "date": "Sat, 05 Sep 2026 11:05:08 -0400"
-    },
-    {
-     "title": "Opinion: A sculpture in perpetual motion, removed",
-     "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-     "date": "Sat, 05 Sep 2026 08:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Susan Sarandon says she still loses film roles over support for Palestine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 20:40:52 +0000"
+    },
+    {
+     "title": "Will Israelis re-elect Benjamin Netanyahu?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 20:20:47 +0000"
+    },
+    {
+     "title": "At least five killed in New Delhi building collapse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 20:05:32 +0000"
+    },
+    {
+     "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+     "link": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 19:45:36 +0000"
+    },
+    {
+     "title": "Indonesia volcano eruption disrupts hundreds of flights",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 18:58:35 +0000"
+    },
     {
      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
      "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
@@ -198,31 +223,6 @@
      "title": "Why is Argentina reviving the Falklands dispute?",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
      "date": "Sun, 06 Sep 2026 18:36:40 +0000"
-    },
-    {
-     "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 18:28:27 +0000"
-    },
-    {
-     "title": "Sabalenka through to US Open quarterfinals",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 18:12:06 +0000"
-    },
-    {
-     "title": "Algerian boy found dead after four days trapped in a well",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 18:10:49 +0000"
-    },
-    {
-     "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 17:56:13 +0000"
-    },
-    {
-     "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
-     "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 17:50:17 +0000"
     }
    ]
   },
