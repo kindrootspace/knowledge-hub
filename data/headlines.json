@@ -1,18 +1,18 @@
 {
- "updated": "2026-09-06 10:57 UTC",
+ "updated": "2026-09-06 14:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+     "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 10:44:26 GMT"
+     "date": "Sun, 06 Sep 2026 13:16:21 GMT"
     },
     {
      "title": "Police slow to respond to Dover protest, says council boss",
      "link": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 10:40:21 GMT"
+     "date": "Sun, 06 Sep 2026 10:59:35 GMT"
     },
     {
      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
@@ -120,6 +120,11 @@
      "date": "Wed, 02 Sep 2026 09:20:55 GMT"
     },
     {
+     "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+     "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+     "date": "Sun, 06 Sep 2026 13:00:07 GMT"
+    },
+    {
      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
      "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
      "date": "Sun, 06 Sep 2026 06:00:58 GMT"
@@ -128,11 +133,6 @@
      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
      "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
      "date": "Sat, 05 Sep 2026 22:19:40 GMT"
-    },
-    {
-     "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
-     "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-     "date": "Sat, 05 Sep 2026 22:16:55 GMT"
     }
    ]
   },
@@ -145,7 +145,7 @@
      "date": "Sun, 06 Sep 2026 06:00:00 -0400"
     },
     {
-     "title": "U.S. envoys Witkoff and Kushner set for talks in Kyiv after meeting Putin in Moscow",
+     "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
      "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
      "date": "Sun, 06 Sep 2026 05:51:04 -0400"
     },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "LIVE: Everton vs Manchester United – Premier League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 09:47:31 +0000"
+     "title": "How significant are the Yemeni government’s military gains against the Houthis?",
+     "link": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 13:41:25 +0000"
     },
     {
-     "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
-     "link": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 09:40:06 +0000"
+     "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+     "link": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 13:15:46 +0000"
     },
     {
-     "title": "Israeli air attacks on Lebanon kill at least four",
-     "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 09:15:20 +0000"
+     "title": "How the West’s promise of freedom created a world of anger",
+     "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 13:14:33 +0000"
     },
     {
-     "title": "Israel bombards several towns in southern Lebanon",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 08:44:03 +0000"
+     "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 13:13:36 +0000"
     },
     {
-     "title": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 07:59:04 +0000"
+     "title": "Algeria civil defence recovers body of 10-year-old boy from well",
+     "link": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 12:55:06 +0000"
     },
     {
-     "title": "How do you arrest 50,000 people quietly?",
-     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 07:45:08 +0000"
+     "title": "Bangladesh protesters demand action over rising costs",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/bangladesh-protesters-demand-action-over-rising-costs?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 12:45:36 +0000"
     },
     {
-     "title": "Ireland’s boxing great Katie Taylor bows out as undisputed champion",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/irelands-boxing-great-katie-taylor-bows-out-as-undisputed-champion?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 07:37:00 +0000"
+     "title": "LIVE: Arsenal vs Chelsea – Premier League",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-arsenal-vs-chelsea-premier-league-2?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 12:30:49 +0000"
     },
     {
-     "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
-     "link": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 07:20:37 +0000"
+     "title": "Jovic moved to tears after beating ‘incredible’ friend Eala in US Open epic",
+     "link": "https://www.aljazeera.com/sports/2026/9/6/jovic-moved-to-tears-after-beating-incredible-friend-eala-in-us-open-epic?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 11:28:40 +0000"
     }
    ]
   },
