@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 22:57 UTC",
+ "updated": "2026-09-06 00:58 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,6 +25,11 @@
      "date": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
+     "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+     "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 23:20:00 GMT"
+    },
+    {
      "title": "Prince William to attend King Harald's funeral in Norway",
      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 05 Sep 2026 21:00:02 GMT"
@@ -35,14 +40,9 @@
      "date": "Sat, 05 Sep 2026 21:22:31 GMT"
     },
     {
-     "title": "Katie Taylor crowns career in stylish Croke Park triumph",
-     "link": "https://www.bbc.co.uk/sport/boxing/articles/clyeg4n8l98o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 22:22:47 GMT"
-    },
-    {
-     "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-     "link": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 12:32:31 GMT"
+     "title": "Why more women carry the 'mental load' - and how couples can share it",
+     "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 23:31:14 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Fuel tanker blast in western Iran kills at least 10",
+     "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 23:07:48 +0000"
+    },
+    {
+     "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+     "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
+     "date": "Sat, 05 Sep 2026 22:58:33 +0000"
+    },
+    {
      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
      "date": "Sat, 05 Sep 2026 21:23:06 +0000"
@@ -208,21 +223,6 @@
      "title": "Colombian government reports three killed in rebel attack on military post",
      "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
      "date": "Sat, 05 Sep 2026 20:03:29 +0000"
-    },
-    {
-     "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 20:00:05 +0000"
-    },
-    {
-     "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
-     "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 19:45:39 +0000"
-    },
-    {
-     "title": "Jerusalem Daily: raids, settlers & sieges",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 19:37:10 +0000"
     }
    ]
   },
