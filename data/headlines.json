@@ -1,18 +1,13 @@
 {
- "updated": "2026-09-06 00:58 UTC",
+ "updated": "2026-09-06 05:58 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "US envoys meet Putin in Moscow for Ukraine talks",
-     "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 21:39:02 GMT"
-    },
-    {
-     "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-     "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 21:29:02 GMT"
+     "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 06 Sep 2026 02:24:16 GMT"
     },
     {
      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
@@ -20,9 +15,19 @@
      "date": "Sat, 05 Sep 2026 14:26:37 GMT"
     },
     {
-     "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-     "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 22:44:07 GMT"
+     "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+     "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 06 Sep 2026 05:04:04 GMT"
+    },
+    {
+     "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+     "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 21:29:02 GMT"
+    },
+    {
+     "title": "Temperatures could climb to 28C in late burst of warmth",
+     "link": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 06 Sep 2026 04:08:41 GMT"
     },
     {
      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
@@ -33,11 +38,6 @@
      "title": "Prince William to attend King Harald's funeral in Norway",
      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 05 Sep 2026 21:00:02 GMT"
-    },
-    {
-     "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
-     "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 21:22:31 GMT"
     },
     {
      "title": "Why more women carry the 'mental load' - and how couples can share it",
@@ -145,7 +145,7 @@
      "date": "Sat, 05 Sep 2026 17:01:10 -0400"
     },
     {
-     "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+     "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
      "date": "Sat, 05 Sep 2026 11:05:08 -0400"
     },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 00:00:00 +0000"
+     "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 05:02:23 +0000"
     },
     {
-     "title": "Fuel tanker blast in western Iran kills at least 10",
-     "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 23:07:48 +0000"
+     "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+     "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 05:02:17 +0000"
     },
     {
-     "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
-     "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 22:58:33 +0000"
+     "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 04:59:28 +0000"
     },
     {
-     "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 21:23:06 +0000"
+     "title": "More than 20 killed in fire at wedding party in DR Congo",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 04:47:55 +0000"
     },
     {
-     "title": "Building collapses after heavy rain in northern India",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 21:11:25 +0000"
+     "title": "South Africa’s chrome riches fuel a deadly underground economy",
+     "link": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 04:31:45 +0000"
     },
     {
-     "title": "Why is Argentina reigniting the Falklands dispute?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 20:14:55 +0000"
+     "title": "German voters head to polls as far-right AfD party eyes historic state win",
+     "link": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 04:12:18 +0000"
     },
     {
-     "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 20:04:30 +0000"
+     "title": "Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
+     "link": "https://www.aljazeera.com/news/2026/9/6/indonesias-main-airport-suspends-flights-due-to-anak-krakatoa-eruption?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 03:38:23 +0000"
     },
     {
-     "title": "Colombian government reports three killed in rebel attack on military post",
-     "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-     "date": "Sat, 05 Sep 2026 20:03:29 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-     "link": "https://www.nature.com/articles/d41586-026-02800-1",
-     "date": ""
-    },
-    {
-     "title": "Super-precise optical clocks in four nations tick in harmony",
-     "link": "https://www.nature.com/articles/d41586-026-02741-9",
-     "date": ""
-    },
-    {
-     "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-     "link": "https://www.nature.com/articles/d41586-026-02739-3",
-     "date": ""
-    },
-    {
-     "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-     "link": "https://www.nature.com/articles/d41586-026-02643-w",
-     "date": ""
-    },
-    {
-     "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
-     "link": "https://www.nature.com/articles/d41586-026-02801-0",
-     "date": ""
-    },
-    {
-     "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
-     "link": "https://www.nature.com/articles/d41586-026-02799-5",
-     "date": ""
-    },
-    {
-     "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-     "link": "https://www.nature.com/articles/d41586-026-02650-x",
-     "date": ""
-    },
-    {
-     "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
-     "link": "https://www.nature.com/articles/d41586-026-02758-0",
-     "date": ""
+     "title": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+     "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+     "date": "Sun, 06 Sep 2026 02:56:31 +0000"
     }
    ]
   }
