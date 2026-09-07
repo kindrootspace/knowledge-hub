@@ -1,33 +1,28 @@
 {
- "updated": "2026-09-07 04:42 UTC",
+ "updated": "2026-09-07 10:19 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
-     "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 02:10:46 GMT"
+     "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
+     "link": "https://www.bbc.co.uk/news/videos/cje8lwzjz5lo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 05:57:30 GMT"
     },
     {
-     "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-     "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 23:02:45 GMT"
+     "title": "Jaguar Land Rover to cut 4,000 jobs as it faces tough competition",
+     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 10:03:06 GMT"
     },
     {
-     "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-     "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 04:07:23 GMT"
+     "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
+     "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 05:31:06 GMT"
     },
     {
-     "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 00:57:38 GMT"
-    },
-    {
-     "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-     "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 23:34:18 GMT"
+     "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+     "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 10:14:51 GMT"
     },
     {
      "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
@@ -35,14 +30,19 @@
      "date": "Sun, 06 Sep 2026 22:00:36 GMT"
     },
     {
-     "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-     "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 16:32:59 GMT"
+     "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+     "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 07:03:44 GMT"
     },
     {
-     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 20:41:58 GMT"
+     "title": "'The man who drugged and raped me was freed from prison and went on to kill'",
+     "link": "https://www.bbc.co.uk/news/articles/c74el40wpw9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 01:11:40 GMT"
+    },
+    {
+     "title": "One million people to receive one-off pension top-up payment",
+     "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 08:50:55 GMT"
     }
    ]
   },
@@ -50,24 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-     "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 23:34:18 GMT"
-    },
-    {
-     "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-     "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 16:32:59 GMT"
+     "title": "Jaguar Land Rover to cut 4,000 jobs as it faces tough competition",
+     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 10:03:06 GMT"
     },
     {
      "title": "The £70 refund letter that isn't a scam",
      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 23:16:05 GMT"
+     "date": "Mon, 07 Sep 2026 08:50:55 GMT"
     },
     {
-     "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+     "title": "Probe begins into why Amazon cargo plane overran Miami runway",
      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 00:57:38 GMT"
+     "date": "Mon, 07 Sep 2026 09:54:40 GMT"
     },
     {
      "title": "China to pump $54bn into state banks and insurers to boost economy",
@@ -75,25 +70,35 @@
      "date": "Mon, 07 Sep 2026 02:26:12 GMT"
     },
     {
-     "title": "Stock up on food to prepare for extreme weather, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 10:40:23 GMT"
+     "title": "Chancellor says UK economy 'turning a corner' despite debt concerns",
+     "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 10:16:19 GMT"
     },
     {
-     "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 23:20:00 GMT"
+     "title": "Why are European countries moving their gold out of North America?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 01:42:09 GMT"
     },
     {
-     "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 17:23:13 GMT"
+     "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+     "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 01:03:35 GMT"
+    },
+    {
+     "title": "More funding needed to boost construction jobs for young people, housing boss says",
+     "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 05:05:24 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+     "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+     "date": "Mon, 07 Sep 2026 08:27:08 GMT"
+    },
     {
      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
      "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
@@ -113,11 +118,6 @@
      "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
      "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
      "date": "Thu, 03 Sep 2026 10:11:37 GMT"
-    },
-    {
-     "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-     "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-     "date": "Wed, 02 Sep 2026 09:20:55 GMT"
     },
     {
      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
@@ -140,13 +140,33 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The first day of school: Bells, bikes, buses and big feelings",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+     "date": "Mon, 07 Sep 2026 04:44:02 -0400"
+    },
+    {
      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
      "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
      "date": "Sun, 06 Sep 2026 15:54:28 -0400"
     },
     {
-     "title": "German exit polls suggest far-right party has big lead in regional election",
-     "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+     "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+     "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
      "date": "Sun, 06 Sep 2026 12:36:48 -0400"
     },
     {
@@ -158,26 +178,6 @@
      "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
      "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
      "date": "Sun, 06 Sep 2026 05:51:04 -0400"
-    },
-    {
-     "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
-     "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-     "date": "Sun, 06 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-     "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-     "date": "Sun, 06 Sep 2026 04:44:48 -0400"
-    },
-    {
-     "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-     "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-     "date": "Sat, 05 Sep 2026 17:01:10 -0400"
-    },
-    {
-     "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-     "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-     "date": "Sat, 05 Sep 2026 11:05:08 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-     "link": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 03:59:39 +0000"
+     "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 09:44:27 +0000"
     },
     {
-     "title": "Iran to announce restricted zone outside Strait of Hormuz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 02:41:56 +0000"
+     "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+     "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 09:30:44 +0000"
     },
     {
-     "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
-     "link": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 02:35:14 +0000"
+     "title": "Fire breaks out at Chile ski resort",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/fire-breaks-out-at-chile-ski-resort?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 09:27:22 +0000"
     },
     {
-     "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 02:17:17 +0000"
+     "title": "Nepal holds day of mourning for more than 1,300 killed in floods",
+     "link": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 09:14:09 +0000"
     },
     {
-     "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 02:12:35 +0000"
+     "title": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too",
+     "link": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 08:50:35 +0000"
     },
     {
-     "title": "Jamaica to file slavery reparations petition during UK visit",
-     "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 01:34:57 +0000"
+     "title": "Israeli forces kill Palestinian suspect after settler stabbed in West Bank",
+     "link": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 08:31:26 +0000"
     },
     {
-     "title": "Why is Kenya cracking down on foreign traders and small retailers?",
-     "link": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 01:08:55 +0000"
+     "title": "India teams search for survivors after Delhi building collapse kills six",
+     "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 07:04:20 +0000"
     },
     {
-     "title": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 00:49:33 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-     "link": "https://www.nature.com/articles/d41586-026-02800-1",
-     "date": ""
-    },
-    {
-     "title": "Super-precise optical clocks in four nations tick in harmony",
-     "link": "https://www.nature.com/articles/d41586-026-02741-9",
-     "date": ""
-    },
-    {
-     "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-     "link": "https://www.nature.com/articles/d41586-026-02739-3",
-     "date": ""
-    },
-    {
-     "title": "Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model",
-     "link": "https://www.nature.com/articles/d41586-026-02643-w",
-     "date": ""
-    },
-    {
-     "title": "Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome",
-     "link": "https://www.nature.com/articles/d41586-026-02801-0",
-     "date": ""
-    },
-    {
-     "title": "Revealed: inside the US military's plan to tap huge sums from the NIH",
-     "link": "https://www.nature.com/articles/d41586-026-02799-5",
-     "date": ""
-    },
-    {
-     "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-     "link": "https://www.nature.com/articles/d41586-026-02650-x",
-     "date": ""
-    },
-    {
-     "title": "Bunsen burners’ reputation for sterilizing workplaces flames out",
-     "link": "https://www.nature.com/articles/d41586-026-02758-0",
-     "date": ""
+     "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
+     "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 06:58:28 +0000"
     }
    ]
   }
