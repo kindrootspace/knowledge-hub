@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07 20:34 UTC",
+ "updated": "2026-09-07 23:30 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,11 +15,6 @@
      "date": "Mon, 07 Sep 2026 15:20:48 GMT"
     },
     {
-     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 14:57:30 GMT"
-    },
-    {
      "title": "King makes clear Harry and Meghan remain non-working royals",
      "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 18:23:31 GMT"
@@ -30,25 +25,40 @@
      "date": "Mon, 07 Sep 2026 15:41:52 GMT"
     },
     {
+     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 14:57:30 GMT"
+    },
+    {
+     "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+     "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 21:12:37 GMT"
+    },
+    {
      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 15:27:50 GMT"
     },
     {
-     "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
-     "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 19:58:04 GMT"
-    },
-    {
-     "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
-     "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 05:31:06 GMT"
+     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 22:23:03 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+     "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 23:06:14 GMT"
+    },
+    {
+     "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+     "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 23:05:12 GMT"
+    },
     {
      "title": "Next wins key appeal to overturn £30m equal pay ruling",
      "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
@@ -65,6 +75,11 @@
      "date": "Mon, 07 Sep 2026 14:36:37 GMT"
     },
     {
+     "title": "Why are European countries moving their gold out of North America?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 01:42:09 GMT"
+    },
+    {
      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 16:05:37 GMT"
@@ -73,21 +88,6 @@
      "title": "The £70 refund letter that isn't a scam",
      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 08:50:55 GMT"
-    },
-    {
-     "title": "Why are European countries moving their gold out of North America?",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:42:09 GMT"
-    },
-    {
-     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 14:57:30 GMT"
-    },
-    {
-     "title": "China to pump $54bn into state banks and insurers to boost economy",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 02:26:12 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
+     "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 22:41:27 +0000"
+    },
+    {
+     "title": "Hawaii braces for Hurricane Lowell",
+     "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 22:37:25 +0000"
+    },
+    {
+     "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+     "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 21:17:12 +0000"
+    },
+    {
+     "title": "Indian temple collapses into Ganges as riverbank erodes",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 21:09:44 +0000"
+    },
+    {
+     "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+     "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 21:00:58 +0000"
+    },
+    {
+     "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 20:59:56 +0000"
+    },
+    {
+     "title": "Robots protest in Poland over AI regulation concerns",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 20:59:12 +0000"
+    },
+    {
      "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
      "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
      "date": "Mon, 07 Sep 2026 19:58:48 +0000"
-    },
-    {
-     "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:50:05 +0000"
-    },
-    {
-     "title": "UK government refuses slavery reparations as Jamaica urges king to act",
-     "link": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:48:48 +0000"
-    },
-    {
-     "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
-     "link": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:31:05 +0000"
-    },
-    {
-     "title": "Moment shop worker dives into traffic to save child",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:27:57 +0000"
-    },
-    {
-     "title": "The domestic armed threat facing Iran",
-     "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:06:22 +0000"
-    },
-    {
-     "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-     "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:03:29 +0000"
-    },
-    {
-     "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-     "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:01:51 +0000"
     }
    ]
   },
