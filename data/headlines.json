@@ -1,21 +1,31 @@
 {
- "updated": "2026-09-06 23:54 UTC",
+ "updated": "2026-09-07 04:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
+     "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 02:10:46 GMT"
+    },
     {
      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 06 Sep 2026 23:02:45 GMT"
     },
     {
-     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 20:41:58 GMT"
+     "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+     "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 04:07:23 GMT"
     },
     {
-     "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+     "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 00:57:38 GMT"
+    },
+    {
+     "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 06 Sep 2026 23:34:18 GMT"
     },
@@ -25,24 +35,14 @@
      "date": "Sun, 06 Sep 2026 22:00:36 GMT"
     },
     {
-     "title": "140 migrants in single dinghy rescued in English Channel",
-     "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 22:42:56 GMT"
-    },
-    {
      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
      "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 06 Sep 2026 16:32:59 GMT"
     },
     {
-     "title": "Jamaica to bring slavery reparations petition to King Charles",
-     "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 16:39:45 GMT"
-    },
-    {
-     "title": "Dozens feared trapped in collapsed building in Delhi",
-     "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 06 Sep 2026 16:54:34 GMT"
+     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+     "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 06 Sep 2026 20:41:58 GMT"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+     "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 06 Sep 2026 23:34:18 GMT"
     },
@@ -63,6 +63,16 @@
      "title": "The £70 refund letter that isn't a scam",
      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 06 Sep 2026 23:16:05 GMT"
+    },
+    {
+     "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 00:57:38 GMT"
+    },
+    {
+     "title": "China to pump $54bn into state banks and insurers to boost economy",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 02:26:12 GMT"
     },
     {
      "title": "Stock up on food to prepare for extreme weather, minister says",
@@ -78,16 +88,6 @@
      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
      "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 04 Sep 2026 17:23:13 GMT"
-    },
-    {
-     "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-     "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 05:59:10 GMT"
-    },
-    {
-     "title": "UK petrol prices hit highest level since Iran war began",
-     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 04 Sep 2026 13:05:52 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Alcaraz breezes into last eight at US Open",
-     "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 21:46:08 +0000"
+     "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
+     "link": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 03:59:39 +0000"
     },
     {
-     "title": "At least five killed after Amazon cargo plane crash in Miami airport",
-     "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 21:11:01 +0000"
+     "title": "Iran to announce restricted zone outside Strait of Hormuz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 02:41:56 +0000"
     },
     {
-     "title": "At least 10 killed in central Mexico fireworks blast during festival",
-     "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 21:08:30 +0000"
+     "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
+     "link": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 02:35:14 +0000"
     },
     {
-     "title": "Amazon Prime plane overruns runway at Miami Airport",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 21:08:24 +0000"
+     "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 02:17:17 +0000"
     },
     {
-     "title": "Can AfD form Germany’s first far-right state government since World War II?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 20:52:01 +0000"
+     "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 02:12:35 +0000"
     },
     {
-     "title": "Susan Sarandon says she still loses film roles over support for Palestine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 20:40:52 +0000"
+     "title": "Jamaica to file slavery reparations petition during UK visit",
+     "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 01:34:57 +0000"
     },
     {
-     "title": "Will Israelis re-elect Benjamin Netanyahu?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 20:20:47 +0000"
+     "title": "Why is Kenya cracking down on foreign traders and small retailers?",
+     "link": "https://www.aljazeera.com/news/2026/9/7/why-is-kenya-cracking-down-on-foreign-traders-and-small-retailers?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 01:08:55 +0000"
     },
     {
-     "title": "At least five killed in New Delhi building collapse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
-     "date": "Sun, 06 Sep 2026 20:05:32 +0000"
+     "title": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 00:49:33 +0000"
     }
    ]
   },
