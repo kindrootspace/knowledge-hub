@@ -1,9 +1,14 @@
 {
- "updated": "2026-09-07 16:27 UTC",
+ "updated": "2026-09-07 20:34 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+     "link": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 19:04:09 GMT"
+    },
     {
      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
      "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
@@ -17,7 +22,7 @@
     {
      "title": "King makes clear Harry and Meghan remain non-working royals",
      "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 16:01:35 GMT"
+     "date": "Mon, 07 Sep 2026 18:23:31 GMT"
     },
     {
      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
@@ -32,23 +37,23 @@
     {
      "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
      "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 16:19:05 GMT"
+     "date": "Mon, 07 Sep 2026 19:58:04 GMT"
     },
     {
      "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 05:31:06 GMT"
-    },
-    {
-     "title": "'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri",
-     "link": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 12:51:12 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Next wins key appeal to overturn £30m equal pay ruling",
+     "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 16:25:41 GMT"
+    },
     {
      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Mon, 07 Sep 2026 08:50:55 GMT"
     },
     {
-     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 14:57:30 GMT"
-    },
-    {
      "title": "Why are European countries moving their gold out of North America?",
      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 05 Sep 2026 01:42:09 GMT"
     },
     {
+     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 14:57:30 GMT"
+    },
+    {
      "title": "China to pump $54bn into state banks and insurers to boost economy",
      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 02:26:12 GMT"
-    },
-    {
-     "title": "Probe begins into why cargo plane overran Miami runway",
-     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 09:54:40 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 03 Sep 2026 10:11:37 GMT"
     },
     {
+     "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+     "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+     "date": "Mon, 07 Sep 2026 17:29:20 GMT"
+    },
+    {
      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
      "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
      "date": "Sun, 06 Sep 2026 17:05:11 GMT"
@@ -128,11 +133,6 @@
      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
      "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
      "date": "Sun, 06 Sep 2026 06:00:58 GMT"
-    },
-    {
-     "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
-     "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-     "date": "Sat, 05 Sep 2026 22:19:40 GMT"
     }
    ]
   },
@@ -150,6 +150,11 @@
      "date": "Mon, 07 Sep 2026 07:11:51 -0400"
     },
     {
+     "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
+    },
+    {
      "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
      "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
      "date": "Mon, 07 Sep 2026 05:00:00 -0400"
@@ -160,17 +165,12 @@
      "date": "Mon, 07 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
-     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
-    },
-    {
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
      "date": "Mon, 07 Sep 2026 04:44:02 -0400"
     },
     {
-     "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+     "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
      "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
      "date": "Sun, 06 Sep 2026 15:54:28 -0400"
     },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Israel deports British activist who protected Palestinian children",
-     "link": "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 16:11:13 +0000"
+     "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+     "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:58:48 +0000"
     },
     {
-     "title": "Lights, camera, action: Irksome influencers at the US Open are here to stay",
-     "link": "https://www.aljazeera.com/sports/2026/9/7/irksome-influencers-at-the-us-open-are-here-to-stay?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 15:48:03 +0000"
+     "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:50:05 +0000"
     },
     {
-     "title": "AfD is rising, but it can still be stopped",
-     "link": "https://www.aljazeera.com/opinions/2026/9/7/afd-is-rising-but-it-can-still-be-stopped?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 15:42:36 +0000"
+     "title": "UK government refuses slavery reparations as Jamaica urges king to act",
+     "link": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:48:48 +0000"
     },
     {
-     "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-     "link": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 15:34:12 +0000"
+     "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+     "link": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:31:05 +0000"
     },
     {
-     "title": "How the media manufactured consent for genocide",
-     "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 14:59:37 +0000"
+     "title": "Moment shop worker dives into traffic to save child",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:27:57 +0000"
     },
     {
-     "title": "Germany’s AfD wins in key state: Is far-right on cusp of national rule?",
-     "link": "https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 14:59:32 +0000"
+     "title": "The domestic armed threat facing Iran",
+     "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:06:22 +0000"
     },
     {
-     "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
-     "link": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 14:58:56 +0000"
+     "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
+     "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:03:29 +0000"
     },
     {
-     "title": "Israel opens trade office in Bosnia’s Republika Srpska",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israel-opens-trade-office-in-bosnias-republika-srpska?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 14:57:47 +0000"
+     "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
+     "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
+     "date": "Mon, 07 Sep 2026 19:01:51 +0000"
     }
    ]
   },
@@ -255,6 +255,11 @@
      "date": ""
     },
     {
+     "title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days",
+     "link": "https://www.nature.com/articles/d41586-026-02822-9",
+     "date": ""
+    },
+    {
      "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
      "link": "https://www.nature.com/articles/d41586-026-02800-1",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "Super-precise optical clocks in four nations tick in harmony",
      "link": "https://www.nature.com/articles/d41586-026-02741-9",
-     "date": ""
-    },
-    {
-     "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-     "link": "https://www.nature.com/articles/d41586-026-02739-3",
      "date": ""
     }
    ]
