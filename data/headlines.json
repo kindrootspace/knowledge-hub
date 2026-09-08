@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-08 04:37 UTC",
+ "updated": "2026-09-08 09:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-     "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 01:50:55 GMT"
+     "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
+     "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 06:58:02 GMT"
     },
     {
-     "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+     "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+     "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 08:43:36 GMT"
+    },
+    {
+     "title": "A&E did not get the basics right - my son's life was ruined at 32",
      "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 03:49:39 GMT"
     },
     {
-     "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
-     "link": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 19:04:09 GMT"
+     "title": "Drought and hosepipe bans remain despite wettest week since early February",
+     "link": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 09:31:31 GMT"
     },
     {
-     "title": "King makes clear Harry and Meghan remain non-working royals",
-     "link": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 18:23:31 GMT"
+     "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
+     "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 04:39:14 GMT"
     },
     {
-     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 22:23:03 GMT"
-    },
-    {
-     "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-     "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 21:12:37 GMT"
-    },
-    {
-     "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
-     "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 19:58:04 GMT"
-    },
-    {
-     "title": "Prince George set for first day at Eton College",
+     "title": "Prince George begins first day at Eton College",
      "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 01:00:32 GMT"
+     "date": "Tue, 08 Sep 2026 08:57:31 GMT"
+    },
+    {
+     "title": "'Good to have choice': Australians on opting out of social media algorithms",
+     "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 06:20:10 GMT"
+    },
+    {
+     "title": "UK's third-biggest taxpayer to leave for Greece",
+     "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 09:33:35 GMT"
     }
    ]
   },
@@ -50,44 +50,44 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
-     "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 23:06:14 GMT"
+     "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+     "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
-     "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-     "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 23:05:12 GMT"
+     "title": "UK's third-biggest taxpayer to leave for Greece",
+     "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 09:33:35 GMT"
+    },
+    {
+     "title": "The firms turning recruitment into X Factor-style competitions",
+     "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 07:43:15 GMT"
+    },
+    {
+     "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+     "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 04:39:14 GMT"
+    },
+    {
+     "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+     "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 06:49:56 GMT"
+    },
+    {
+     "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+     "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 09:00:28 GMT"
+    },
+    {
+     "title": "'JLR job cuts a cause for uncertainty and worry'",
+     "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 04:57:54 GMT"
     },
     {
      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 00:48:43 GMT"
-    },
-    {
-     "title": "Next wins key appeal to overturn £30m equal pay ruling",
-     "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 16:25:41 GMT"
-    },
-    {
-     "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-     "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 15:41:52 GMT"
-    },
-    {
-     "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-     "link": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 14:36:37 GMT"
-    },
-    {
-     "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-     "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 16:05:37 GMT"
-    },
-    {
-     "title": "Why are European countries moving their gold out of North America?",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:42:09 GMT"
     }
    ]
   },
@@ -140,6 +140,36 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+     "date": "Tue, 08 Sep 2026 05:09:46 -0400"
+    },
+    {
+     "title": "60 years later, 'Star Trek' continues to 'live long and prosper'",
+     "link": "https://www.npr.org/2026/09/08/nx-s1-5593092/star-trek-60-year-anniversary",
+     "date": "Tue, 08 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The 2026 midterm general election season is upon us. Here's what to watch",
+     "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+     "date": "Tue, 08 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "What to know about Canada's escalating trade war with the U.S.",
+     "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+     "date": "Tue, 08 Sep 2026 02:04:43 -0400"
+    },
+    {
+     "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan",
+     "link": "https://www.npr.org/2026/09/08/g-s1-142289/king-charles-prince-harry",
+     "date": "Tue, 08 Sep 2026 02:00:57 -0400"
+    },
+    {
+     "title": "Russia and North Korea open the first road across their shared border",
+     "link": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+     "date": "Tue, 08 Sep 2026 01:40:44 -0400"
+    },
+    {
      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
      "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
      "date": "Mon, 07 Sep 2026 09:31:16 -0400"
@@ -148,36 +178,6 @@
      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
      "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
      "date": "Mon, 07 Sep 2026 07:11:51 -0400"
-    },
-    {
-     "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
-     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "The first day of school: Bells, bikes, buses and big feelings",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
-     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-     "date": "Mon, 07 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
-     "date": "Mon, 07 Sep 2026 04:44:02 -0400"
-    },
-    {
-     "title": "Scene at Miami airport where five died described as 'utter devastation'",
-     "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-     "date": "Sun, 06 Sep 2026 15:54:28 -0400"
-    },
-    {
-     "title": "Germany's far-right achieves an electoral breakthrough in key state election",
-     "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
-     "date": "Sun, 06 Sep 2026 12:36:48 -0400"
     }
    ]
   },
@@ -185,50 +185,60 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
-     "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 04:26:16 +0000"
+     "title": "UK to announce trade ban on goods from illegal Israeli settlements",
+     "link": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 09:31:28 +0000"
     },
     {
-     "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 04:24:37 +0000"
+     "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 08:42:42 +0000"
     },
     {
-     "title": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
-     "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 04:16:55 +0000"
+     "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+     "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 08:15:29 +0000"
     },
     {
-     "title": "Flash floods fill the streets of a neighbourhood in central Morocco",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 04:01:18 +0000"
+     "title": "Indonesia airports reopen after volcanic ash disrupts thousands of flights",
+     "link": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 08:04:24 +0000"
     },
     {
-     "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-     "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 04:01:12 +0000"
+     "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 07:40:56 +0000"
     },
     {
-     "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
-     "link": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 03:08:28 +0000"
+     "title": "Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals",
+     "link": "https://www.aljazeera.com/sports/2026/9/8/reals-mbappe-embraces-ballon-dor-talk-after-historic-world-cup-goals?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 07:35:29 +0000"
     },
     {
-     "title": "Yemeni forces launch counter-offensive against Houthis, vow to retake Sanaa",
-     "link": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 03:01:38 +0000"
+     "title": "Eiffel Tower reopens after protest over removing women staff",
+     "link": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 07:12:37 +0000"
     },
     {
-     "title": "Eiffel Tower closed in row over women removed for Hindu group",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 02:17:10 +0000"
+     "title": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
+     "link": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 06:58:00 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
+     "link": "https://www.nature.com/articles/d41586-026-02407-6",
+     "date": ""
+    },
+    {
+     "title": "Two children died from gene therapies in China: where the field goes next",
+     "link": "https://www.nature.com/articles/d41586-026-02497-2",
+     "date": ""
+    },
     {
      "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
      "link": "https://www.nature.com/articles/s41586-026-11103-4",
@@ -257,16 +267,6 @@
     {
      "title": "Anthropic AI ‘formalizes’ proof of Fermat’s last theorem in just 11 days",
      "link": "https://www.nature.com/articles/d41586-026-02822-9",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
-     "link": "https://www.nature.com/articles/d41586-026-02800-1",
-     "date": ""
-    },
-    {
-     "title": "Super-precise optical clocks in four nations tick in harmony",
-     "link": "https://www.nature.com/articles/d41586-026-02741-9",
      "date": ""
     }
    ]
