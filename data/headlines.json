@@ -1,18 +1,23 @@
 {
- "updated": "2026-09-07 23:30 UTC",
+ "updated": "2026-09-08 04:37 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+     "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 01:50:55 GMT"
+    },
+    {
+     "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+     "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 03:49:39 GMT"
+    },
+    {
      "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
      "link": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 19:04:09 GMT"
-    },
-    {
-     "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-     "link": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 15:20:48 GMT"
     },
     {
      "title": "King makes clear Harry and Meghan remain non-working royals",
@@ -20,14 +25,9 @@
      "date": "Mon, 07 Sep 2026 18:23:31 GMT"
     },
     {
-     "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-     "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 15:41:52 GMT"
-    },
-    {
-     "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 14:57:30 GMT"
+     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 22:23:03 GMT"
     },
     {
      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
@@ -35,14 +35,14 @@
      "date": "Mon, 07 Sep 2026 21:12:37 GMT"
     },
     {
-     "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-     "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 15:27:50 GMT"
+     "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
+     "link": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 07 Sep 2026 19:58:04 GMT"
     },
     {
-     "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 22:23:03 GMT"
+     "title": "Prince George set for first day at Eton College",
+     "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 01:00:32 GMT"
     }
    ]
   },
@@ -60,6 +60,11 @@
      "date": "Mon, 07 Sep 2026 23:05:12 GMT"
     },
     {
+     "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+     "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 00:48:43 GMT"
+    },
+    {
      "title": "Next wins key appeal to overturn £30m equal pay ruling",
      "link": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 16:25:41 GMT"
@@ -75,25 +80,25 @@
      "date": "Mon, 07 Sep 2026 14:36:37 GMT"
     },
     {
-     "title": "Why are European countries moving their gold out of North America?",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 05 Sep 2026 01:42:09 GMT"
-    },
-    {
      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 07 Sep 2026 16:05:37 GMT"
     },
     {
-     "title": "The £70 refund letter that isn't a scam",
-     "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 07 Sep 2026 08:50:55 GMT"
+     "title": "Why are European countries moving their gold out of North America?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 05 Sep 2026 01:42:09 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+     "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+     "date": "Tue, 08 Sep 2026 04:00:27 GMT"
+    },
     {
      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
      "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
@@ -115,24 +120,19 @@
      "date": "Thu, 03 Sep 2026 12:52:08 GMT"
     },
     {
-     "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
-     "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
-     "date": "Thu, 03 Sep 2026 10:11:37 GMT"
+     "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+     "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+     "date": "Tue, 08 Sep 2026 04:00:59 GMT"
     },
     {
-     "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+     "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
      "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-     "date": "Mon, 07 Sep 2026 17:29:20 GMT"
+     "date": "Tue, 08 Sep 2026 02:00:24 GMT"
     },
     {
      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
      "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
      "date": "Sun, 06 Sep 2026 17:05:11 GMT"
-    },
-    {
-     "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-     "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-     "date": "Sun, 06 Sep 2026 06:00:58 GMT"
     }
    ]
   },
@@ -155,13 +155,13 @@
      "date": "Mon, 07 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+     "title": "The first day of school: Bells, bikes, buses and big feelings",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
      "date": "Mon, 07 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "The first day of school: Bells, bikes, buses and big feelings",
-     "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+     "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+     "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
      "date": "Mon, 07 Sep 2026 05:00:00 -0400"
     },
     {
@@ -170,7 +170,7 @@
      "date": "Mon, 07 Sep 2026 04:44:02 -0400"
     },
     {
-     "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
+     "title": "Scene at Miami airport where five died described as 'utter devastation'",
      "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
      "date": "Sun, 06 Sep 2026 15:54:28 -0400"
     },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
-     "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 22:41:27 +0000"
+     "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says",
+     "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 04:26:16 +0000"
     },
     {
-     "title": "Hawaii braces for Hurricane Lowell",
-     "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 22:37:25 +0000"
+     "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 04:24:37 +0000"
     },
     {
-     "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-     "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 21:17:12 +0000"
+     "title": "Real Madrid vs Inter: Champions League – preview, team news, prediction",
+     "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 04:16:55 +0000"
     },
     {
-     "title": "Indian temple collapses into Ganges as riverbank erodes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 21:09:44 +0000"
+     "title": "Flash floods fill the streets of a neighbourhood in central Morocco",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/flash-floods-fill-the-streets-of-a-neighbourhood-in-central-morocco?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 04:01:18 +0000"
     },
     {
-     "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-     "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 21:00:58 +0000"
+     "title": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+     "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 04:01:12 +0000"
     },
     {
-     "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 20:59:56 +0000"
+     "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+     "link": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 03:08:28 +0000"
     },
     {
-     "title": "Robots protest in Poland over AI regulation concerns",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 20:59:12 +0000"
+     "title": "Yemeni forces launch counter-offensive against Houthis, vow to retake Sanaa",
+     "link": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 03:01:38 +0000"
     },
     {
-     "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
-     "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
-     "date": "Mon, 07 Sep 2026 19:58:48 +0000"
+     "title": "Eiffel Tower closed in row over women removed for Hindu group",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 02:17:10 +0000"
     }
    ]
   },
