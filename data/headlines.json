@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-08 14:32 UTC",
+ "updated": "2026-09-08 18:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
-     "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 09:43:53 GMT"
+     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+     "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 18:40:49 GMT"
     },
     {
-     "title": "Nottingham attacks victim's death 'potentially preventable'",
-     "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 12:28:20 GMT"
+     "title": "Ports denied request to land 120 migrants in RNLI boats",
+     "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 15:26:05 GMT"
+    },
+    {
+     "title": "Trump shares misleading video of King and fainting worker",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 16:31:16 GMT"
+    },
+    {
+     "title": "British widow faces deportation from Sweden after 22 years",
+     "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 18:02:42 GMT"
+    },
+    {
+     "title": "Glastonbury confirms ticket sale dates - and highest ever price",
+     "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 18:10:14 GMT"
+    },
+    {
+     "title": "Prince George attends first day at Eton College",
+     "link": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 16:32:06 GMT"
+    },
+    {
+     "title": "Renoir paintings worth millions stolen in French museum heist",
+     "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 13:35:28 GMT"
     },
     {
      "title": "Monty Don to leave Gardeners' World after more than 20 years",
      "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 11:43:32 GMT"
-    },
-    {
-     "title": "Prince George begins first day at a rainy Eton College",
-     "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 11:52:40 GMT"
-    },
-    {
-     "title": "Argentina to file criminal case against oil company operating in Falklands",
-     "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 11:09:54 GMT"
-    },
-    {
-     "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
-     "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 12:23:22 GMT"
-    },
-    {
-     "title": "At least two people dead after Russian strikes on Kyiv",
-     "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 10:23:01 GMT"
-    },
-    {
-     "title": "England up in reading, maths and science rankings as Scotland and Wales fall behind",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 13:53:13 GMT"
     }
    ]
   },
@@ -50,9 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Sapporo to move some beer production from Canada to US after tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 17:41:42 GMT"
+    },
+    {
      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 13:20:51 GMT"
+     "date": "Tue, 08 Sep 2026 15:19:43 GMT"
+    },
+    {
+     "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+     "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 17:56:46 GMT"
     },
     {
      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
@@ -60,14 +70,14 @@
      "date": "Tue, 08 Sep 2026 09:17:48 GMT"
     },
     {
+     "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+     "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 09:00:28 GMT"
+    },
+    {
      "title": "UK's third-biggest taxpayer to leave for Greece",
      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 09:33:35 GMT"
-    },
-    {
-     "title": "The firms turning recruitment into X Factor-style competitions",
-     "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 07:43:15 GMT"
     },
     {
      "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -75,19 +85,9 @@
      "date": "Tue, 08 Sep 2026 11:09:54 GMT"
     },
     {
-     "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-     "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 09:00:28 GMT"
-    },
-    {
-     "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+     "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 12:23:22 GMT"
-    },
-    {
-     "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-     "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 06:49:56 GMT"
+     "date": "Tue, 08 Sep 2026 14:46:16 GMT"
     }
    ]
   },
@@ -160,6 +160,11 @@
      "date": "Tue, 08 Sep 2026 07:20:05 -0400"
     },
     {
+     "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+     "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+     "date": "Tue, 08 Sep 2026 06:46:03 -0400"
+    },
+    {
      "title": "Has the economy gone C-shaped?",
      "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
      "date": "Tue, 08 Sep 2026 06:30:00 -0400"
@@ -173,11 +178,6 @@
      "title": "The 2026 midterm general election season is upon us. Here's what to watch",
      "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
      "date": "Tue, 08 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "60 years later, 'Star Trek' continues to 'live long and prosper'",
-     "link": "https://www.npr.org/2026/09/08/nx-s1-5593092/star-trek-60-year-anniversary",
-     "date": "Tue, 08 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "One year on from Nepal protests, have Gen Z demands been met?",
-     "link": "https://www.aljazeera.com/news/2026/9/8/one-year-on-from-nepal-protests-have-gen-z-demands-been-met?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 14:09:49 +0000"
+     "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+     "link": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 18:31:30 +0000"
     },
     {
-     "title": "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-germany-says-icj-lacks-jurisdiction-in-nicaragua-genocide-case?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 13:52:44 +0000"
+     "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 18:18:17 +0000"
     },
     {
-     "title": "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/video-saudi-russia-press-conference-in-moscow-key?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 13:43:49 +0000"
+     "title": "Women and children remain trapped in Syria’s Roj camp",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 18:00:24 +0000"
     },
     {
-     "title": "Napoli’s Scott McTominay undergoes successful heart surgery",
-     "link": "https://www.aljazeera.com/sports/2026/9/8/napolis-scott-mctominay-undergoes-successful-heart-surgery?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 13:34:03 +0000"
+     "title": "Renoir paintings worth $10.5 million missing after museum heist",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 17:47:08 +0000"
     },
     {
-     "title": "Macklemore defends ‘Free Palestine’ call after Ed Sheeran concert backlash",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/macklemore-defends-free-palestine-call-after-ed-sheeran-concert-backlash?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 13:30:59 +0000"
+     "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
+     "link": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 17:37:35 +0000"
     },
     {
-     "title": "Manipur musician killed in Indian capital, reviving racism concerns",
-     "link": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 13:16:59 +0000"
+     "title": "Photos: Palestinians rebuild Gaza’s ruins with mud bricks, scrap",
+     "link": "https://www.aljazeera.com/gallery/2026/9/8/photos-palestinians-rebuild-gazas-ruins-with-mud-bricks-and-scrap?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 17:28:50 +0000"
     },
     {
-     "title": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines",
-     "link": "https://www.aljazeera.com/sports/2026/9/8/liverpool-announce-five-year-shirt-sponsorship-deal-with-turkish-airlines?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 12:50:05 +0000"
+     "title": "Nicaragua urges ICJ to reject Germany’s bid to throw out Gaza genocide case",
+     "link": "https://www.aljazeera.com/news/2026/9/8/nicaragua-urges-icj-to-reject-germanys-bid-to-throw-out-gaza-genocide-case?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 17:26:33 +0000"
     },
     {
-     "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
-     "link": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 12:44:59 +0000"
+     "title": "US won’t join UK ban on trade with illegal Israeli settlements",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 17:24:36 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+     "link": "https://www.nature.com/articles/s41586-026-11081-7",
+     "date": ""
+    },
+    {
+     "title": "Put patients at the centre of medical AI governance",
+     "link": "https://www.nature.com/articles/d41586-026-02796-8",
+     "date": ""
+    },
+    {
+     "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
+     "link": "https://www.nature.com/articles/d41586-026-02794-w",
+     "date": ""
+    },
+    {
+     "title": "Sideline vested interests to reform China’s research",
+     "link": "https://www.nature.com/articles/d41586-026-02797-7",
+     "date": ""
+    },
+    {
+     "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
+     "link": "https://www.nature.com/articles/d41586-026-02795-9",
+     "date": ""
+    },
+    {
+     "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
+     "link": "https://www.nature.com/articles/d41586-026-02722-y",
+     "date": ""
+    },
+    {
+     "title": "The World Bank is right to prioritize reproducibility",
+     "link": "https://www.nature.com/articles/d41586-026-02678-z",
+     "date": ""
+    },
+    {
+     "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
+     "link": "https://www.nature.com/articles/d41586-026-02407-6",
+     "date": ""
     }
    ]
   }
