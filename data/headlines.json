@@ -1,18 +1,28 @@
 {
- "updated": "2026-09-09 14:36 UTC",
+ "updated": "2026-09-09 18:37 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "National security can't come at expense of social security, Burnham says",
-     "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 13:19:45 GMT"
-    },
-    {
      "title": "Police launch criminal investigation into Reform UK donations",
      "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 14:19:43 GMT"
+     "date": "Wed, 09 Sep 2026 17:21:14 GMT"
+    },
+    {
+     "title": "Air traffic failure was avoidable, says transport secretary",
+     "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 18:21:16 GMT"
+    },
+    {
+     "title": "National security can't come at expense of social security, Burnham says",
+     "link": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 14:53:26 GMT"
+    },
+    {
+     "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+     "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 16:36:45 GMT"
     },
     {
      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
@@ -20,29 +30,19 @@
      "date": "Wed, 09 Sep 2026 13:28:58 GMT"
     },
     {
-     "title": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
-     "link": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 13:29:47 GMT"
+     "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+     "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 18:20:44 GMT"
     },
     {
-     "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 14:00:55 GMT"
+     "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
+     "link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 17:33:27 GMT"
     },
     {
-     "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
-     "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 09:49:08 GMT"
-    },
-    {
-     "title": "Actor Noel Clarke charged with sexual offences",
-     "link": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 12:51:24 GMT"
-    },
-    {
-     "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-     "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 13:29:33 GMT"
+     "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+     "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 15:01:58 GMT"
     }
    ]
   },
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Learner drivers still forced to wait months to book tests",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 11:57:34 GMT"
+     "title": "Air traffic failure was avoidable, says transport secretary",
+     "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 18:21:16 GMT"
     },
     {
      "title": "What are my rights if my flight is cancelled or delayed?",
      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 08:04:14 GMT"
+    },
+    {
+     "title": "Learner drivers still forced to wait months to book tests",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 11:57:34 GMT"
     },
     {
      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
@@ -67,7 +72,7 @@
     {
      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 12:36:59 GMT"
+     "date": "Wed, 09 Sep 2026 15:34:09 GMT"
     },
     {
      "title": "Should promotion depend on how workers use AI?",
@@ -83,17 +88,17 @@
      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 05:00:30 GMT"
-    },
-    {
-     "title": "Singaporean man pleads guilty in US to massive crypto heist",
-     "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 05:49:30 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
+     "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
+     "date": "Wed, 09 Sep 2026 18:20:24 GMT"
+    },
     {
      "title": "Babies born to anaemic mothers have smaller brains, study finds",
      "link": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
@@ -115,11 +120,6 @@
      "date": "Sat, 05 Sep 2026 18:00:15 GMT"
     },
     {
-     "title": "UN votes to adopt new world map that shows Africa’s true scale",
-     "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-     "date": "Fri, 04 Sep 2026 16:49:29 GMT"
-    },
-    {
      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
      "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
      "date": "Wed, 09 Sep 2026 08:00:03 GMT"
@@ -130,15 +130,25 @@
      "date": "Wed, 09 Sep 2026 04:46:23 GMT"
     },
     {
-     "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
-     "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-     "date": "Tue, 08 Sep 2026 04:00:59 GMT"
+     "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
+     "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
+     "date": "Tue, 08 Sep 2026 23:59:37 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Special education head at Education Department abruptly resigns",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
+     "date": "Wed, 09 Sep 2026 13:48:56 -0400"
+    },
+    {
+     "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
+     "date": "Wed, 09 Sep 2026 13:23:15 -0400"
+    },
     {
      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
      "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
@@ -168,16 +178,6 @@
      "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
      "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
      "date": "Wed, 09 Sep 2026 05:09:32 -0400"
-    },
-    {
-     "title": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
-     "date": "Wed, 09 Sep 2026 05:05:03 -0400"
-    },
-    {
-     "title": "How to fight with the people we care about, illustrated",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
-     "date": "Wed, 09 Sep 2026 05:01:00 -0400"
     }
    ]
   },
@@ -185,50 +185,60 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Dortmund’s Karetsas hospitalised after collapsing in Champions League match",
-     "link": "https://www.aljazeera.com/sports/2026/9/9/dortmunds-karetsas-hospitalised-after-collapsing-in-champions-league-match?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 13:38:54 +0000"
+     "title": "Back to work, not school: Yemen’s crisis forces children to drop out",
+     "link": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 17:57:37 +0000"
     },
     {
-     "title": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
-     "link": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 13:35:34 +0000"
+     "title": "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
+     "link": "https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 17:47:11 +0000"
     },
     {
-     "title": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-     "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 13:02:38 +0000"
+     "title": "Sudanese refugee returning home ’to make buildings for our country’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 17:46:44 +0000"
     },
     {
-     "title": "Journalists missing after Indonesian volcanic eruption",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/journalists-missing-after-indonesian-volcanic-eruption?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 12:51:12 +0000"
+     "title": "Bombardier looks to hire 500 new workers in US, despite Trump threat",
+     "link": "https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 17:37:50 +0000"
     },
     {
-     "title": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 12:45:36 +0000"
+     "title": "Palestinian child misses first day of school due to settler siege",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/palestinian-child-misses-first-day-of-school-due-to-settler-siege?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 17:32:46 +0000"
     },
     {
-     "title": "Video: Why are Republicans hosting a midterm convention?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 12:41:18 +0000"
+     "title": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
+     "link": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 17:04:24 +0000"
     },
     {
-     "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-     "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 12:26:25 +0000"
+     "title": "78 people including newborn rescued in Mediterranean",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 16:40:48 +0000"
     },
     {
-     "title": "How has Israel hit back against sanctions by the UK, others?",
-     "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 12:17:50 +0000"
+     "title": "LIVE: Napoli vs Arsenal – UEFA Champions League",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 16:04:09 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
+     "link": "https://www.nature.com/articles/s41586-026-11118-x",
+     "date": ""
+    },
+    {
+     "title": "Phone tutoring boosts math scores when schools are forced to close",
+     "link": "https://www.nature.com/articles/d41586-026-02843-4",
+     "date": ""
+    },
     {
      "title": "How AI is changing PhD programmes: join our free webinar",
      "link": "https://www.nature.com/articles/d41586-026-02751-7",
@@ -240,33 +250,23 @@
      "date": ""
     },
     {
-     "title": "In the basement of miniaturized relics",
-     "link": "https://www.nature.com/articles/d41586-026-02416-5",
+     "title": "Breaking timescales with generative sampling of conformational transitions",
+     "link": "https://www.nature.com/articles/s41586-026-11025-1",
      "date": ""
     },
     {
-     "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
-     "link": "https://www.nature.com/articles/d41586-026-02793-x",
+     "title": "Within-family effect of ancestry on complex traits in a Mexican population",
+     "link": "https://www.nature.com/articles/s41586-026-11039-9",
      "date": ""
     },
     {
-     "title": "These six advances could change how drugs are delivered",
-     "link": "https://www.nature.com/articles/d41586-026-02654-7",
+     "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
+     "link": "https://www.nature.com/articles/s41586-026-10876-y",
      "date": ""
     },
     {
-     "title": "Special delivery: bacterial couriers are smuggling drugs into cancers",
-     "link": "https://www.nature.com/articles/d41586-026-02657-4",
-     "date": ""
-    },
-    {
-     "title": "Drug-delivering particles aim to breach the blood–brain barrier",
-     "link": "https://www.nature.com/articles/d41586-026-02655-6",
-     "date": ""
-    },
-    {
-     "title": "Medicines do no good if people don’t take them",
-     "link": "https://www.nature.com/articles/d41586-026-02658-3",
+     "title": "An operational perturbation proteomics-based virtual cell model",
+     "link": "https://www.nature.com/articles/s41586-026-11001-9",
      "date": ""
     }
    ]
