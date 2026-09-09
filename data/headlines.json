@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08 21:51 UTC",
+ "updated": "2026-09-09 00:15 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,40 +15,55 @@
      "date": "Tue, 08 Sep 2026 21:46:31 GMT"
     },
     {
+     "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+     "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:18:39 GMT"
+    },
+    {
+     "title": "US slaps import ban on Canadian alcohol and other goods",
+     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 00:01:53 GMT"
+    },
+    {
+     "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+     "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:11:32 GMT"
+    },
+    {
+     "title": "The trail of clues that our planet might be heating faster than we realised",
+     "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:11:52 GMT"
+    },
+    {
+     "title": "Very hot drinks may damage the food pipe and increase cancer risk",
+     "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:30:39 GMT"
+    },
+    {
      "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
      "link": "https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 20:25:12 GMT"
-    },
-    {
-     "title": "Glastonbury confirms ticket sale dates - and highest ever price",
-     "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 18:10:14 GMT"
-    },
-    {
-     "title": "Trump shares misleading video of King and fainting worker",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 16:31:16 GMT"
-    },
-    {
-     "title": "LIV Golf players free to leave after bankruptcy protection filing",
-     "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 21:20:22 GMT"
-    },
-    {
-     "title": "British widow faces deportation from Sweden after 22 years",
-     "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 18:02:42 GMT"
-    },
-    {
-     "title": "Monty Don to leave Gardeners' World after more than 20 years",
-     "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 11:43:32 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "US slaps import ban on Canadian alcohol and other goods",
+     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 00:01:53 GMT"
+    },
+    {
+     "title": "I'm 27 and I've already written my will - here's why",
+     "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:04:17 GMT"
+    },
+    {
+     "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+     "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:18:39 GMT"
+    },
     {
      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
@@ -60,34 +75,19 @@
      "date": "Tue, 08 Sep 2026 17:41:42 GMT"
     },
     {
+     "title": "Should promotion depend on how workers use AI?",
+     "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:05:23 GMT"
+    },
+    {
      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 15:19:43 GMT"
     },
     {
-     "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-     "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 21:46:21 GMT"
-    },
-    {
-     "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-     "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 09:00:28 GMT"
-    },
-    {
      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 09:17:48 GMT"
-    },
-    {
-     "title": "UK's third-biggest taxpayer to leave for Greece",
-     "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 09:33:35 GMT"
-    },
-    {
-     "title": "Argentina to file criminal case against oil company operating in Falklands",
-     "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 11:09:54 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Haaland to the double as Manchester City beat Porto in Champions League",
-     "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:46:58 +0000"
+     "title": "US increases pressure on Iran with sanctions targeting aviation sector",
+     "link": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 23:51:29 +0000"
     },
     {
-     "title": "What the UK ban on goods from illegal Israeli settlements really means",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:35:36 +0000"
+     "title": "US bombs five Iranian oil tankers after its navy is attacked",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 23:49:25 +0000"
     },
     {
-     "title": "US warns Ford over ties with Chinese firms amid tensions",
-     "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:24:03 +0000"
+     "title": "Mamdani releases records on toxic air in New York after 9/11 attacks",
+     "link": "https://www.aljazeera.com/news/2026/9/8/mamdani-releases-records-on-toxic-air-in-new-york-after-9-11?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 23:14:31 +0000"
     },
     {
-     "title": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way",
-     "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:10:56 +0000"
+     "title": "The Map Was Lying To You: Why the UN Just Changed How We See Africa",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/the-map-was-lying-to-you-why-the-un-just-changed-how-we-see-africa?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 23:07:45 +0000"
     },
     {
-     "title": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
-     "link": "https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:07:33 +0000"
+     "title": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 22:39:54 +0000"
     },
     {
-     "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:06:48 +0000"
+     "title": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
+     "link": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 22:34:40 +0000"
     },
     {
-     "title": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
-     "link": "https://www.aljazeera.com/sports/2026/9/8/dembele-mbappe-kane-and-yamal-top-ballon-dor-shortlist?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 21:00:29 +0000"
+     "title": "What we know about masked anti-migrant protesters in the UK",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 22:28:56 +0000"
     },
     {
-     "title": "Police bodycam captures Russian missile strike on Kyiv",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
-     "date": "Tue, 08 Sep 2026 20:43:52 +0000"
+     "title": "Protesters, police clash in Albania over Trump-linked project",
+     "link": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+     "date": "Tue, 08 Sep 2026 22:05:17 +0000"
     }
    ]
   },
