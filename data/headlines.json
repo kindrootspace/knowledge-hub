@@ -1,38 +1,23 @@
 {
- "updated": "2026-09-09 04:49 UTC",
+ "updated": "2026-09-09 09:47 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-     "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 01:45:15 GMT"
+     "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+     "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:52:28 GMT"
     },
     {
-     "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-     "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 21:46:31 GMT"
+     "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 04:59:08 GMT"
     },
     {
-     "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-     "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 02:59:38 GMT"
-    },
-    {
-     "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+     "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 04:26:38 GMT"
-    },
-    {
-     "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-     "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 23:11:32 GMT"
-    },
-    {
-     "title": "The trail of clues that our planet might be heating faster than we realised",
-     "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 23:11:52 GMT"
+     "date": "Wed, 09 Sep 2026 09:28:15 GMT"
     },
     {
      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
@@ -40,9 +25,24 @@
      "date": "Tue, 08 Sep 2026 23:30:39 GMT"
     },
     {
-     "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 03:03:32 GMT"
+     "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+     "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 08:59:52 GMT"
+    },
+    {
+     "title": "Shelton beats Alcaraz in late-night epic to reach US Open semis",
+     "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 09:03:44 GMT"
+    },
+    {
+     "title": "Police officer's funeral to take place after A66 crash that killed seven",
+     "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 06:34:26 GMT"
+    },
+    {
+     "title": "Alan Carr holds back tears on special night at National Television Awards",
+     "link": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 01:28:19 GMT"
     }
    ]
   },
@@ -50,9 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 03:03:32 GMT"
+     "title": "Learner drivers still waiting 20 weeks to book tests",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 09:05:54 GMT"
+    },
+    {
+     "title": "What are my rights if my flight is cancelled or delayed?",
+     "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 08:04:14 GMT"
+    },
+    {
+     "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+     "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 08:59:52 GMT"
     },
     {
      "title": "I'm 27 and I've already written my will - here's why",
@@ -60,34 +70,24 @@
      "date": "Tue, 08 Sep 2026 23:04:17 GMT"
     },
     {
-     "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
-     "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 02:59:38 GMT"
-    },
-    {
-     "title": "Singaporean man pleads guilty in US to massive crypto heist",
-     "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 03:40:48 GMT"
-    },
-    {
-     "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-     "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 20:57:09 GMT"
-    },
-    {
      "title": "Should promotion depend on how workers use AI?",
      "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 08 Sep 2026 23:05:23 GMT"
     },
     {
-     "title": "Sapporo to move some beer production from Canada to US after tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 17:41:42 GMT"
+     "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
+     "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 05:00:30 GMT"
     },
     {
-     "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-     "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 15:19:43 GMT"
+     "title": "Singaporean man pleads guilty in US to massive crypto heist",
+     "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 05:49:30 GMT"
+    },
+    {
+     "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+     "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 20:57:09 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Fri, 04 Sep 2026 16:49:29 GMT"
     },
     {
+     "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+     "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+     "date": "Wed, 09 Sep 2026 08:00:03 GMT"
+    },
+    {
+     "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
+     "link": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
+     "date": "Wed, 09 Sep 2026 04:46:23 GMT"
+    },
+    {
      "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
      "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
      "date": "Tue, 08 Sep 2026 04:00:59 GMT"
-    },
-    {
-     "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
-     "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-     "date": "Tue, 08 Sep 2026 02:00:24 GMT"
-    },
-    {
-     "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-     "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-     "date": "Sun, 06 Sep 2026 17:05:11 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "New report shows the economic toll of ICE raids",
-     "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
-     "date": "Tue, 08 Sep 2026 16:17:22 -0400"
+     "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+     "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
+     "date": "Wed, 09 Sep 2026 05:09:32 -0400"
     },
     {
-     "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
-     "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
-     "date": "Tue, 08 Sep 2026 15:55:43 -0400"
+     "title": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
+     "date": "Wed, 09 Sep 2026 05:05:03 -0400"
     },
     {
-     "title": "Australian social media users to be offered choice to opt out of algorithms",
-     "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-     "date": "Tue, 08 Sep 2026 09:24:00 -0400"
+     "title": "COMIC: If we fight, is our love doomed? And other honest questions about conflict",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
+     "date": "Wed, 09 Sep 2026 05:01:00 -0400"
     },
     {
-     "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
-     "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
-     "date": "Tue, 08 Sep 2026 09:05:20 -0400"
+     "title": "Judges may face unprecedented decisions this election. A new guide seeks to help",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
+     "date": "Wed, 09 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Whatever happened to the Taliban threat: 'We will flog the women'?",
-     "link": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
-     "date": "Tue, 08 Sep 2026 09:01:58 -0400"
+     "title": "Republicans kick off a 'Trumpapalooza' of a midterm convention Wednesday in Texas",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
+     "date": "Wed, 09 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
-     "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
-     "date": "Tue, 08 Sep 2026 07:20:05 -0400"
+     "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+     "date": "Wed, 09 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-     "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
-     "date": "Tue, 08 Sep 2026 06:46:03 -0400"
+     "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+     "date": "Wed, 09 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Has the economy gone C-shaped?",
-     "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-     "date": "Tue, 08 Sep 2026 06:30:00 -0400"
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
+     "date": "Wed, 09 Sep 2026 04:46:34 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Cluster munitions kill, wound over 1,000 globally in 2025",
-     "link": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 04:11:51 +0000"
+     "title": "Flash floods surge through Morocco’s Atlas Mountains",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 08:42:49 +0000"
     },
     {
-     "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
-     "link": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 04:04:45 +0000"
+     "title": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
+     "link": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 08:42:33 +0000"
     },
     {
-     "title": "Cameraman catches the moment Yemeni government forces are ambushed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 02:54:28 +0000"
+     "title": "Video: Protesters shut down UNHCR headquarters in Tripoli, Libya",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 08:39:20 +0000"
     },
     {
-     "title": "Gambian leader pledges halt to rolling blackouts as protests turn violent",
-     "link": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 02:47:59 +0000"
+     "title": "‘Totally reliant on Mother Nature’: UK drought raises water security fears",
+     "link": "https://www.aljazeera.com/news/2026/9/9/uk-drought-raises-fears-over-water-security?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 08:19:45 +0000"
     },
     {
-     "title": "US reading scores hit near-25-year low in latest global assessment",
-     "link": "https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 02:36:44 +0000"
+     "title": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+     "link": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 08:05:58 +0000"
     },
     {
-     "title": "Record-breaking rain disrupts daily life in Nagoya, Japan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_record-breaking-rain-disrupts-daily-life-in-nagoya-080926?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 02:23:43 +0000"
+     "title": "Ben Shelton shocks Carlos Alcaraz in five sets to win US Open quarterfinal",
+     "link": "https://www.aljazeera.com/sports/2026/9/9/ben-shelton-shocks-carlos-alcaraz-in-five-sets-to-win-us-open-quarterfinal?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 07:55:20 +0000"
     },
     {
-     "title": "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
-     "link": "https://www.aljazeera.com/news/2026/9/9/us-supreme-court-rejects-missouri-bid-to-reactivate-gop-backed-voting-map?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 02:15:08 +0000"
+     "title": "What ‘right’ and ‘left’ mean in Israel today",
+     "link": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 07:22:27 +0000"
     },
     {
-     "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 02:06:02 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
-     "link": "https://www.nature.com/articles/s41586-026-11081-7",
-     "date": ""
-    },
-    {
-     "title": "Put patients at the centre of medical AI governance",
-     "link": "https://www.nature.com/articles/d41586-026-02796-8",
-     "date": ""
-    },
-    {
-     "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
-     "link": "https://www.nature.com/articles/d41586-026-02794-w",
-     "date": ""
-    },
-    {
-     "title": "Sideline vested interests to reform China’s research",
-     "link": "https://www.nature.com/articles/d41586-026-02797-7",
-     "date": ""
-    },
-    {
-     "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
-     "link": "https://www.nature.com/articles/d41586-026-02795-9",
-     "date": ""
-    },
-    {
-     "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
-     "link": "https://www.nature.com/articles/d41586-026-02722-y",
-     "date": ""
-    },
-    {
-     "title": "The World Bank is right to prioritize reproducibility",
-     "link": "https://www.nature.com/articles/d41586-026-02678-z",
-     "date": ""
-    },
-    {
-     "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
-     "link": "https://www.nature.com/articles/d41586-026-02407-6",
-     "date": ""
+     "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+     "link": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 07:14:12 +0000"
     }
    ]
   }
