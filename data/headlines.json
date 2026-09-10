@@ -1,54 +1,59 @@
 {
- "updated": "2026-09-10 14:26 UTC",
+ "updated": "2026-09-10 18:29 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "England's mayors to get power to impose tourist tax",
+     "title": "Labour mayors in England vow to cap tourist tax at 5%",
      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 14:13:27 GMT"
+     "date": "Thu, 10 Sep 2026 16:59:38 GMT"
     },
     {
-     "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-     "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 13:23:37 GMT"
+     "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+     "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 17:38:31 GMT"
     },
     {
-     "title": "Watch: Is Trump's $5,000 election pledge legal?",
-     "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 07:12:32 GMT"
+     "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+     "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 16:57:06 GMT"
     },
     {
-     "title": "Two arrested in London on suspicion of assisting Iran's intelligence service",
-     "link": "https://www.bbc.co.uk/news/articles/c62mqzj5vnpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 13:48:09 GMT"
+     "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
+     "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 16:48:37 GMT"
     },
     {
-     "title": "Catherine joins William at suicide prevention campaign",
-     "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 11:23:08 GMT"
+     "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
+     "link": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 17:29:35 GMT"
     },
     {
-     "title": "Gruffalo illustrator says rise of AI images 'worrying'",
-     "link": "https://www.bbc.co.uk/news/videos/ce9ernkxx48o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 13:43:32 GMT"
+     "title": "Four hurt and seven arrested in London stabbing",
+     "link": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 17:49:05 GMT"
     },
     {
-     "title": "Why some experts increasingly fear AI will take over",
-     "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 23:17:33 GMT"
+     "title": "Drone display recreates the Twin Towers over New York City",
+     "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 14:19:26 GMT"
     },
     {
-     "title": "RNLI reviews security after volunteers targeted online",
-     "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:07:49 GMT"
+     "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
+     "link": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 16:37:18 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+     "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 17:38:31 GMT"
+    },
     {
      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
@@ -70,30 +75,30 @@
      "date": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-     "title": "England's mayors to get power to impose tourist tax",
-     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 14:13:27 GMT"
-    },
-    {
      "title": "Why some experts increasingly fear AI will take over",
      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
+     "title": "Labour mayors in England vow to cap tourist tax at 5%",
+     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 16:59:38 GMT"
+    },
+    {
      "title": "Air traffic failure was avoidable, says transport secretary",
      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 18:21:16 GMT"
-    },
-    {
-     "title": "Tax banks to cut energy bills, unions tell Burnham",
-     "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 00:06:33 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+     "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+     "date": "Thu, 10 Sep 2026 17:29:20 GMT"
+    },
     {
      "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
      "link": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
@@ -113,11 +118,6 @@
      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
      "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
      "date": "Mon, 07 Sep 2026 08:27:08 GMT"
-    },
-    {
-     "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-     "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-     "date": "Sat, 05 Sep 2026 18:00:15 GMT"
     },
     {
      "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
@@ -140,6 +140,31 @@
    "name": "NPR",
    "items": [
     {
+     "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
+     "date": "Thu, 10 Sep 2026 14:07:57 -0400"
+    },
+    {
+     "title": "How the WNBA became a political prop in the culture wars",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5957546/wnba-culture-wars",
+     "date": "Thu, 10 Sep 2026 13:22:34 -0400"
+    },
+    {
+     "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+     "date": "Thu, 10 Sep 2026 11:44:12 -0400"
+    },
+    {
+     "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
+     "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+     "date": "Thu, 10 Sep 2026 11:06:20 -0400"
+    },
+    {
+     "title": "How did 9/11 reshape national security?",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
+     "date": "Thu, 10 Sep 2026 10:53:37 -0400"
+    },
+    {
      "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
      "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
      "date": "Thu, 10 Sep 2026 07:27:14 -0400"
@@ -150,34 +175,9 @@
      "date": "Thu, 10 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+     "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
      "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
      "date": "Thu, 10 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Scientists say August was Earth's hottest month they've measured",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
-     "date": "Thu, 10 Sep 2026 04:54:00 -0400"
-    },
-    {
-     "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
-     "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
-     "date": "Thu, 10 Sep 2026 01:45:00 -0400"
-    },
-    {
-     "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
-     "date": "Wed, 09 Sep 2026 21:17:28 -0400"
-    },
-    {
-     "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
-     "date": "Wed, 09 Sep 2026 17:43:51 -0400"
-    },
-    {
-     "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
-     "date": "Wed, 09 Sep 2026 16:42:19 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?",
-     "link": "https://www.aljazeera.com/news/2026/9/10/trump-promises-5000-payouts-if-gop-wins-midterms-can-the-us-afford-it?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 14:13:03 +0000"
+     "title": "England close in on Pakistan whitewash in third Test as Robinson shines",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 18:01:15 +0000"
     },
     {
-     "title": "French Football Federation withdraws support for FIFA President Infantino",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 13:38:51 +0000"
+     "title": "More than a dozen children killed in fire in eastern DR Congo schools",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 17:45:19 +0000"
     },
     {
-     "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
-     "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 13:29:20 +0000"
+     "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
+     "link": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 17:41:52 +0000"
     },
     {
-     "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 13:25:06 +0000"
+     "title": "Family of four killed as they slept in Israeli strike on Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 17:32:28 +0000"
     },
     {
-     "title": "Houthis advance along Yemen’s southern Red Sea coast",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 13:14:03 +0000"
+     "title": "Kurdish YPJ women fighters face exclusion from Syria’s new army",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 17:30:41 +0000"
     },
     {
-     "title": "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/manchester-united-scouted-mbappe-but-didnt-sign-him-says-ryan-giggs?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 13:13:10 +0000"
+     "title": "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
+     "link": "https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 17:09:50 +0000"
     },
     {
-     "title": "The Trump loyalty test: Will his supporters ever disagree with him?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 12:59:25 +0000"
+     "title": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
+     "link": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 17:00:17 +0000"
     },
     {
-     "title": "Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp",
-     "link": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 12:47:35 +0000"
+     "title": "US Supreme Court blocks Trump-backed congressional map in Missouri",
+     "link": "https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 16:44:13 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
+     "link": "https://www.nature.com/articles/s41586-026-11079-1",
+     "date": ""
+    },
+    {
+     "title": "Distant sensors announced a fearsome tsunami’s birth",
+     "link": "https://www.nature.com/articles/d41586-026-02809-6",
+     "date": ""
+    },
+    {
+     "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
+     "link": "https://www.nature.com/articles/d41586-026-02026-1",
+     "date": ""
+    },
+    {
+     "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
+     "link": "https://www.nature.com/articles/s41586-026-11118-x",
+     "date": ""
+    },
+    {
+     "title": "Phone tutoring boosts math scores when schools are forced to close",
+     "link": "https://www.nature.com/articles/d41586-026-02843-4",
+     "date": ""
+    },
+    {
+     "title": "How AI is changing PhD programmes: join our free webinar",
+     "link": "https://www.nature.com/articles/d41586-026-02751-7",
+     "date": ""
+    },
+    {
+     "title": "Bacteria recruited to treat cancer",
+     "link": "https://www.nature.com/articles/d41586-026-02823-8",
+     "date": ""
+    },
+    {
+     "title": "Ruins of ancient Asian city show engineering prowess and organization",
+     "link": "https://www.nature.com/articles/d41586-026-02821-w",
+     "date": ""
     }
    ]
   }
