@@ -1,54 +1,59 @@
 {
- "updated": "2026-09-10 04:50 UTC",
+ "updated": "2026-09-10 09:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+     "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:00:05 GMT"
+    },
+    {
+     "title": "Watch: Is Trump's $5,000 election pledge legal?",
+     "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 07:12:32 GMT"
+    },
+    {
      "title": "England's mayors to be given power to introduce tourist tax",
      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 02:48:38 GMT"
+     "date": "Thu, 10 Sep 2026 09:44:51 GMT"
     },
     {
-     "title": "Iran war will not end until after November US elections, says Trump",
-     "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 04:21:00 GMT"
+     "title": "RNLI reviews security after volunteers targeted online",
+     "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:07:49 GMT"
     },
     {
-     "title": "Four takeaways from Trump's speech at first Republican midterms convention",
-     "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 04:07:44 GMT"
-    },
-    {
-     "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-     "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 22:17:22 GMT"
-    },
-    {
-     "title": "AI is becoming harder to control – can humans stay in charge?",
+     "title": "Why some experts increasingly fear AI will take over",
      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
-     "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+     "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
+     "link": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:31:16 GMT"
+    },
+    {
+     "title": "Group entered hotel where Pakistani cricketers mistaken for migrants were staying",
+     "link": "https://www.bbc.co.uk/news/articles/c0klnjmgpm6o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 08:14:43 GMT"
+    },
+    {
+     "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 04:43:54 GMT"
-    },
-    {
-     "title": "Police launch criminal investigation into Reform UK donations",
-     "link": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 20:22:00 GMT"
-    },
-    {
-     "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
-     "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 23:00:23 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Primark finally set to launch home deliveries",
+     "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:03:55 GMT"
+    },
     {
      "title": "The one thing you need to do to succeed - according to top bosses",
      "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
@@ -60,12 +65,22 @@
      "date": "Wed, 09 Sep 2026 18:21:16 GMT"
     },
     {
-     "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+     "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 20:00:33 GMT"
+     "date": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-     "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+     "title": "England's mayors to be given power to introduce tourist tax",
+     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:44:51 GMT"
+    },
+    {
+     "title": "Why some experts increasingly fear AI will take over",
+     "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 23:17:33 GMT"
+    },
+    {
+     "title": "Tax banks to cut energy bills, unions tell Burnham",
      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 00:06:33 GMT"
     },
@@ -73,21 +88,6 @@
      "title": "What are my rights if my flight is cancelled or delayed?",
      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 08:04:14 GMT"
-    },
-    {
-     "title": "AI is becoming harder to control – can humans stay in charge?",
-     "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 23:17:33 GMT"
-    },
-    {
-     "title": "Learner drivers still forced to wait months to book tests",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 11:57:34 GMT"
-    },
-    {
-     "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-     "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 12:20:40 GMT"
     }
    ]
   },
@@ -140,9 +140,34 @@
    "name": "NPR",
    "items": [
     {
+     "title": "A year after Charlie Kirk was killed, young conservatives navigate a divided movement",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
+     "date": "Thu, 10 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+     "date": "Thu, 10 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Scientists say August was Earth's hottest month they've measured",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+     "date": "Thu, 10 Sep 2026 04:54:00 -0400"
+    },
+    {
+     "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
+     "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
+     "date": "Thu, 10 Sep 2026 01:45:00 -0400"
+    },
+    {
      "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
      "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
      "date": "Wed, 09 Sep 2026 21:17:28 -0400"
+    },
+    {
+     "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
+     "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
+     "date": "Wed, 09 Sep 2026 17:43:51 -0400"
     },
     {
      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
@@ -153,31 +178,6 @@
      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
      "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
      "date": "Wed, 09 Sep 2026 14:39:57 -0400"
-    },
-    {
-     "title": "Special education head at Education Department abruptly resigns",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
-     "date": "Wed, 09 Sep 2026 13:48:56 -0400"
-    },
-    {
-     "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
-     "date": "Wed, 09 Sep 2026 13:23:15 -0400"
-    },
-    {
-     "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
-     "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
-     "date": "Wed, 09 Sep 2026 09:56:23 -0400"
-    },
-    {
-     "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-     "date": "Wed, 09 Sep 2026 09:34:48 -0400"
-    },
-    {
-     "title": "Whatever happened to the measles outbreak that shocked a country this year?",
-     "link": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
-     "date": "Wed, 09 Sep 2026 09:04:43 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Five dead, dozens missing in Philippines ferry fire",
-     "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 03:43:18 +0000"
+     "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
+     "link": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 09:05:39 +0000"
     },
     {
-     "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
-     "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 03:14:52 +0000"
+     "title": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
+     "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 07:57:23 +0000"
     },
     {
-     "title": "Why is Iran bombing Jordan’s Al-Azraq base?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 03:02:18 +0000"
+     "title": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 07:52:33 +0000"
     },
     {
-     "title": "Trump vows to be at centre of US midterms: Republican convention takeaways",
-     "link": "https://www.aljazeera.com/news/2026/9/10/trump-vows-to-be-at-centre-of-us-midterms-republican-convention-takeaways?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 03:01:55 +0000"
+     "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+     "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 07:50:24 +0000"
     },
     {
-     "title": "Thousands protest in Ljubljana as Slovenia opens Israel’s first embassy",
-     "link": "https://www.aljazeera.com/news/2026/9/10/thousands-protest-in-ljubljana-as-slovenia-opens-israels-first-embassy?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 02:54:38 +0000"
+     "title": "Israeli attacks kill at least four Palestinians in northern Gaza",
+     "link": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 07:45:21 +0000"
     },
     {
-     "title": "Several dead, dozens missing after ferry fire in Philippines tourist spot",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 02:50:36 +0000"
+     "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 06:16:36 +0000"
     },
     {
-     "title": "Apple unveils first-ever foldable iPhone Duo",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/apple-unveils-first-ever-foldable-iphone-duo?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 02:48:50 +0000"
+     "title": "Europe’s far right: Putin’s best friend?",
+     "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 05:55:57 +0000"
     },
     {
-     "title": "Tunisian flotilla activists remain jailed as hunger striker worsens",
-     "link": "https://www.aljazeera.com/news/2026/9/10/tunisian-flotilla-activists-remain-jailed-as-hunger-striker-worsens?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 02:41:50 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Distant sensors announced a fearsome tsunami’s birth",
-     "link": "https://www.nature.com/articles/d41586-026-02809-6",
-     "date": ""
-    },
-    {
-     "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
-     "link": "https://www.nature.com/articles/s41586-026-11118-x",
-     "date": ""
-    },
-    {
-     "title": "Phone tutoring boosts math scores when schools are forced to close",
-     "link": "https://www.nature.com/articles/d41586-026-02843-4",
-     "date": ""
-    },
-    {
-     "title": "How AI is changing PhD programmes: join our free webinar",
-     "link": "https://www.nature.com/articles/d41586-026-02751-7",
-     "date": ""
-    },
-    {
-     "title": "Bacteria recruited to treat cancer",
-     "link": "https://www.nature.com/articles/d41586-026-02823-8",
-     "date": ""
-    },
-    {
-     "title": "Breaking timescales with generative sampling of conformational transitions",
-     "link": "https://www.nature.com/articles/s41586-026-11025-1",
-     "date": ""
-    },
-    {
-     "title": "Within-family effect of ancestry on complex traits in a Mexican population",
-     "link": "https://www.nature.com/articles/s41586-026-11039-9",
-     "date": ""
-    },
-    {
-     "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
-     "link": "https://www.nature.com/articles/s41586-026-10876-y",
-     "date": ""
+     "title": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 05:33:55 +0000"
     }
    ]
   }
