@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09 21:42 UTC",
+ "updated": "2026-09-10 00:15 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,19 +15,24 @@
      "date": "Wed, 09 Sep 2026 18:21:16 GMT"
     },
     {
+     "title": "AI is becoming harder to control – can humans stay in charge?",
+     "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 23:17:33 GMT"
+    },
+    {
+     "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+     "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 21:21:13 GMT"
+    },
+    {
      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 21:23:45 GMT"
     },
     {
-     "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
-     "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 20:59:24 GMT"
-    },
-    {
-     "title": "RNLI volunteer targeted online and branded 'traitor' after Portsmouth protests",
-     "link": "https://www.bbc.co.uk/news/articles/cly47p5vk63o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 17:33:27 GMT"
+     "title": "Prince William, Kane and Shearer in campaign to use sport to prevent suicide",
+     "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 23:00:23 GMT"
     },
     {
      "title": "BBC drops Drag Race UK after eight series",
@@ -35,20 +40,20 @@
      "date": "Wed, 09 Sep 2026 20:16:38 GMT"
     },
     {
-     "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-     "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 20:00:33 GMT"
-    },
-    {
-     "title": "Hundreds mourn police officer killed in wrong-way A66 crash",
-     "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 14:00:55 GMT"
+     "title": "Migraines and acne among five more conditions pharmacists can treat",
+     "link": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 00:01:35 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "The one thing you need to do to succeed - according to top bosses",
+     "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 23:02:20 GMT"
+    },
     {
      "title": "Air traffic failure was avoidable, says transport secretary",
      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
@@ -60,9 +65,19 @@
      "date": "Wed, 09 Sep 2026 20:00:33 GMT"
     },
     {
+     "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+     "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 00:06:33 GMT"
+    },
+    {
      "title": "What are my rights if my flight is cancelled or delayed?",
      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 08:04:14 GMT"
+    },
+    {
+     "title": "Should promotion depend on how workers use AI?",
+     "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 08 Sep 2026 23:05:23 GMT"
     },
     {
      "title": "Learner drivers still forced to wait months to book tests",
@@ -73,21 +88,6 @@
      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 12:20:40 GMT"
-    },
-    {
-     "title": "Should promotion depend on how workers use AI?",
-     "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 23:05:23 GMT"
-    },
-    {
-     "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-     "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 15:34:09 GMT"
-    },
-    {
-     "title": "I'm 27 and I've already written my will - here's why",
-     "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 08 Sep 2026 23:04:17 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Sat, 05 Sep 2026 18:00:15 GMT"
     },
     {
+     "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+     "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
+     "date": "Wed, 09 Sep 2026 22:19:25 GMT"
+    },
+    {
      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
      "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
      "date": "Wed, 09 Sep 2026 08:00:03 GMT"
@@ -128,11 +133,6 @@
      "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
      "link": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
      "date": "Wed, 09 Sep 2026 04:46:23 GMT"
-    },
-    {
-     "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-     "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-     "date": "Tue, 08 Sep 2026 23:59:37 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran war live: Iran media say ‘enemy’ projectiles hit Sirik areas",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 00:00:00 +0000"
+    },
+    {
+     "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
+     "link": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 23:40:00 +0000"
+    },
+    {
+     "title": "Trump says the US-Iran war will end right after midterms",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 23:22:46 +0000"
+    },
+    {
+     "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+     "link": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 23:15:38 +0000"
+    },
+    {
+     "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
+     "link": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 22:08:01 +0000"
+    },
+    {
+     "title": "‘Everyone’s had their holidays ruined’: outrage after UK airport chaos",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 22:06:25 +0000"
+    },
+    {
+     "title": "US court denies Tate brothers’ bid to be released from Miami jail",
+     "link": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss",
+     "date": "Wed, 09 Sep 2026 21:28:16 +0000"
+    },
+    {
      "title": "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
      "link": "https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss",
      "date": "Wed, 09 Sep 2026 21:20:20 +0000"
-    },
-    {
-     "title": "Manchester United vs Sabah: UEFA Champions League – preview, team news",
-     "link": "https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 21:15:04 +0000"
-    },
-    {
-     "title": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
-     "link": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 21:14:20 +0000"
-    },
-    {
-     "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-     "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 21:09:45 +0000"
-    },
-    {
-     "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 21:03:21 +0000"
-    },
-    {
-     "title": "Trump says Putin wants to make a deal to end Ukraine war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 20:56:05 +0000"
-    },
-    {
-     "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 20:53:26 +0000"
-    },
-    {
-     "title": "Burnham defends UK ban on Israeli settlement trade",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
-     "date": "Wed, 09 Sep 2026 20:32:24 +0000"
     }
    ]
   },
