@@ -1,13 +1,18 @@
 {
- "updated": "2026-09-10 09:45 UTC",
+ "updated": "2026-09-10 14:26 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "England's mayors to get power to impose tourist tax",
+     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 14:13:27 GMT"
+    },
+    {
      "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:00:05 GMT"
+     "date": "Thu, 10 Sep 2026 13:23:37 GMT"
     },
     {
      "title": "Watch: Is Trump's $5,000 election pledge legal?",
@@ -15,14 +20,19 @@
      "date": "Thu, 10 Sep 2026 07:12:32 GMT"
     },
     {
-     "title": "England's mayors to be given power to introduce tourist tax",
-     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:44:51 GMT"
+     "title": "Two arrested in London on suspicion of assisting Iran's intelligence service",
+     "link": "https://www.bbc.co.uk/news/articles/c62mqzj5vnpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 13:48:09 GMT"
     },
     {
-     "title": "RNLI reviews security after volunteers targeted online",
-     "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:07:49 GMT"
+     "title": "Catherine joins William at suicide prevention campaign",
+     "link": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 11:23:08 GMT"
+    },
+    {
+     "title": "Gruffalo illustrator says rise of AI images 'worrying'",
+     "link": "https://www.bbc.co.uk/news/videos/ce9ernkxx48o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 13:43:32 GMT"
     },
     {
      "title": "Why some experts increasingly fear AI will take over",
@@ -30,19 +40,9 @@
      "date": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
-     "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-     "link": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:31:16 GMT"
-    },
-    {
-     "title": "Group entered hotel where Pakistani cricketers mistaken for migrants were staying",
-     "link": "https://www.bbc.co.uk/news/articles/c0klnjmgpm6o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 08:14:43 GMT"
-    },
-    {
-     "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-     "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 04:43:54 GMT"
+     "title": "RNLI reviews security after volunteers targeted online",
+     "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:07:49 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+     "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 13:34:17 GMT"
+    },
+    {
      "title": "Primark finally set to launch home deliveries",
      "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:03:55 GMT"
+     "date": "Thu, 10 Sep 2026 10:02:26 GMT"
     },
     {
      "title": "The one thing you need to do to succeed - according to top bosses",
@@ -60,19 +65,14 @@
      "date": "Wed, 09 Sep 2026 23:02:20 GMT"
     },
     {
-     "title": "Air traffic failure was avoidable, says transport secretary",
-     "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 18:21:16 GMT"
-    },
-    {
      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-     "title": "England's mayors to be given power to introduce tourist tax",
+     "title": "England's mayors to get power to impose tourist tax",
      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:44:51 GMT"
+     "date": "Thu, 10 Sep 2026 14:13:27 GMT"
     },
     {
      "title": "Why some experts increasingly fear AI will take over",
@@ -80,14 +80,14 @@
      "date": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
+     "title": "Air traffic failure was avoidable, says transport secretary",
+     "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 09 Sep 2026 18:21:16 GMT"
+    },
+    {
      "title": "Tax banks to cut energy bills, unions tell Burnham",
      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 00:06:33 GMT"
-    },
-    {
-     "title": "What are my rights if my flight is cancelled or delayed?",
-     "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 08:04:14 GMT"
     }
    ]
   },
@@ -140,7 +140,12 @@
    "name": "NPR",
    "items": [
     {
-     "title": "A year after Charlie Kirk was killed, young conservatives navigate a divided movement",
+     "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+     "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
+     "date": "Thu, 10 Sep 2026 07:27:14 -0400"
+    },
+    {
+     "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
      "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
      "date": "Thu, 10 Sep 2026 05:00:00 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
      "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
      "date": "Wed, 09 Sep 2026 16:42:19 -0400"
-    },
-    {
-     "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
-     "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
-     "date": "Wed, 09 Sep 2026 14:39:57 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-     "link": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 09:05:39 +0000"
+     "title": "Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?",
+     "link": "https://www.aljazeera.com/news/2026/9/10/trump-promises-5000-payouts-if-gop-wins-midterms-can-the-us-afford-it?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 14:13:03 +0000"
     },
     {
-     "title": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
-     "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 07:57:23 +0000"
+     "title": "French Football Federation withdraws support for FIFA President Infantino",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 13:38:51 +0000"
     },
     {
-     "title": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 07:52:33 +0000"
+     "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
+     "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 13:29:20 +0000"
     },
     {
-     "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
-     "link": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 07:50:24 +0000"
+     "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 13:25:06 +0000"
     },
     {
-     "title": "Israeli attacks kill at least four Palestinians in northern Gaza",
-     "link": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 07:45:21 +0000"
+     "title": "Houthis advance along Yemen’s southern Red Sea coast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 13:14:03 +0000"
     },
     {
-     "title": "Japan baseball great and atomic bomb survivor Isao Harimoto dies aged 86",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/japan-baseball-great-and-atomic-bomb-survivor-isao-harimoto-dies-aged-86?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 06:16:36 +0000"
+     "title": "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/manchester-united-scouted-mbappe-but-didnt-sign-him-says-ryan-giggs?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 13:13:10 +0000"
     },
     {
-     "title": "Europe’s far right: Putin’s best friend?",
-     "link": "https://www.aljazeera.com/opinions/2026/9/10/europes-far-right-putins-best-friend?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 05:55:57 +0000"
+     "title": "The Trump loyalty test: Will his supporters ever disagree with him?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 12:59:25 +0000"
     },
     {
-     "title": "Zverev defeats Van de Zandschulp in straight sets to enter US Open semis",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/zverev-defeats-van-de-zandschulp-in-straight-sets-to-enter-us-open-semis?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 05:33:55 +0000"
+     "title": "Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp",
+     "link": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 12:47:35 +0000"
     }
    ]
   }
