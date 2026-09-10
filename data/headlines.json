@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10 18:29 UTC",
+ "updated": "2026-09-10 21:38 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Labour mayors in England vow to cap tourist tax at 5%",
      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 16:59:38 GMT"
+     "date": "Thu, 10 Sep 2026 21:22:06 GMT"
     },
     {
      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
@@ -25,14 +25,14 @@
      "date": "Thu, 10 Sep 2026 16:48:37 GMT"
     },
     {
-     "title": "Bayeux Tapestry unveiled to UK public for first time at British Museum",
-     "link": "https://www.bbc.co.uk/news/articles/c158k4p22xwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 17:29:35 GMT"
+     "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
+     "link": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 18:27:22 GMT"
     },
     {
      "title": "Four hurt and seven arrested in London stabbing",
      "link": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 17:49:05 GMT"
+     "date": "Thu, 10 Sep 2026 18:46:05 GMT"
     },
     {
      "title": "Drone display recreates the Twin Towers over New York City",
@@ -55,6 +55,11 @@
      "date": "Thu, 10 Sep 2026 17:38:31 GMT"
     },
     {
+     "title": "Alstom to build new battery-electric train fleet",
+     "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 21:00:33 GMT"
+    },
+    {
      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
      "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 13:34:17 GMT"
@@ -70,24 +75,19 @@
      "date": "Wed, 09 Sep 2026 23:02:20 GMT"
     },
     {
-     "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-     "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:32:34 GMT"
-    },
-    {
      "title": "Why some experts increasingly fear AI will take over",
      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 23:17:33 GMT"
     },
     {
-     "title": "Labour mayors in England vow to cap tourist tax at 5%",
-     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 16:59:38 GMT"
+     "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+     "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 09:32:34 GMT"
     },
     {
-     "title": "Air traffic failure was avoidable, says transport secretary",
-     "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 18:21:16 GMT"
+     "title": "Labour mayors in England vow to cap tourist tax at 5%",
+     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 21:22:06 GMT"
     }
    ]
   },
@@ -120,7 +120,12 @@
      "date": "Mon, 07 Sep 2026 08:27:08 GMT"
     },
     {
-     "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
+     "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+     "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+     "date": "Thu, 10 Sep 2026 20:35:06 GMT"
+    },
+    {
+     "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
      "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
      "date": "Thu, 10 Sep 2026 01:02:42 GMT"
     },
@@ -128,17 +133,17 @@
      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
      "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
      "date": "Wed, 09 Sep 2026 22:19:25 GMT"
-    },
-    {
-     "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
-     "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
-     "date": "Wed, 09 Sep 2026 08:00:03 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Lawsuit challenges intimidation of DHS observers across the country",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+     "date": "Thu, 10 Sep 2026 17:07:38 -0400"
+    },
     {
      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
      "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
@@ -173,11 +178,6 @@
      "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
      "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
      "date": "Thu, 10 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-     "date": "Thu, 10 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "England close in on Pakistan whitewash in third Test as Robinson shines",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 18:01:15 +0000"
+     "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:19:16 +0000"
     },
     {
-     "title": "More than a dozen children killed in fire in eastern DR Congo schools",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 17:45:19 +0000"
+     "title": "Gaza hospitals ration power as fuel shortages deepen",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:17:09 +0000"
     },
     {
-     "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
-     "link": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 17:41:52 +0000"
+     "title": "Russian strike hits shopping centre in central Ukraine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:03:42 +0000"
     },
     {
-     "title": "Family of four killed as they slept in Israeli strike on Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 17:32:28 +0000"
+     "title": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:00:18 +0000"
     },
     {
-     "title": "Kurdish YPJ women fighters face exclusion from Syria’s new army",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 17:30:41 +0000"
+     "title": "Manchester United beat Sabah 4-0 on Champions League return",
+     "link": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 20:54:47 +0000"
     },
     {
-     "title": "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
-     "link": "https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 17:09:50 +0000"
+     "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
+     "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 20:46:16 +0000"
     },
     {
-     "title": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
-     "link": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 17:00:17 +0000"
+     "title": "Will foreign workers leave South Africa?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/10/will-foreign-workers-leave-south-africa?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 20:42:29 +0000"
     },
     {
-     "title": "US Supreme Court blocks Trump-backed congressional map in Missouri",
-     "link": "https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 16:44:13 +0000"
+     "title": "What’s happening in Yemen and how did we get here?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 20:24:47 +0000"
     }
    ]
   },
