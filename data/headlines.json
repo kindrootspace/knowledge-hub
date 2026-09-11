@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-11 04:41 UTC",
+ "updated": "2026-09-11 09:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "MPs to vote on legalising assisted dying in England and Wales",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 02:05:23 GMT"
-    },
-    {
      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 23:21:00 GMT"
+     "date": "Fri, 11 Sep 2026 05:53:06 GMT"
     },
     {
-     "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-     "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 17:38:31 GMT"
+     "title": "AI boom helps drive surprise UK growth in July",
+     "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 08:04:22 GMT"
     },
     {
-     "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+     "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 02:46:30 GMT"
+     "date": "Fri, 11 Sep 2026 08:15:25 GMT"
     },
     {
-     "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+     "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+     "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:22:33 GMT"
+    },
+    {
+     "title": "Princess Diana's 'revenge dress' goes up for auction",
+     "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 06:54:46 GMT"
+    },
+    {
+     "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+     "link": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 06:10:59 GMT"
+    },
+    {
+     "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 23:22:11 GMT"
     },
     {
-     "title": "Is Trump's $5,000 pledge a sign of panic?",
-     "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 01:38:51 GMT"
-    },
-    {
-     "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-     "link": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 18:27:22 GMT"
-    },
-    {
-     "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
-     "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 16:57:06 GMT"
+     "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
+     "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 09:20:45 GMT"
     }
    ]
   },
@@ -50,14 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "AI boom helps drive surprise UK growth in July",
+     "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 08:04:22 GMT"
+    },
+    {
      "title": "I asked my husband to pay into my pension when we had a child - here's why",
      "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 23:04:30 GMT"
     },
     {
-     "title": "Are interest rates on the way up again?",
+     "title": "Interest rates could rise again across the world – here's why",
      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 23:03:09 GMT"
+     "date": "Fri, 11 Sep 2026 08:28:47 GMT"
+    },
+    {
+     "title": "Alstom to build new battery-electric train fleet",
+     "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 09:17:00 GMT"
     },
     {
      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
@@ -65,9 +75,9 @@
      "date": "Thu, 10 Sep 2026 17:38:31 GMT"
     },
     {
-     "title": "Alstom to build new battery-electric train fleet",
-     "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 21:00:33 GMT"
+     "title": "Can Europe recharge its battery industry?",
+     "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:05:47 GMT"
     },
     {
      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
@@ -75,19 +85,9 @@
      "date": "Thu, 10 Sep 2026 13:34:17 GMT"
     },
     {
-     "title": "Can Europe recharge its battery industry?",
-     "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 23:05:47 GMT"
-    },
-    {
      "title": "Primark finally set to launch home deliveries",
      "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 10:02:26 GMT"
-    },
-    {
-     "title": "The one thing you need to do to succeed - according to top bosses",
-     "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 23:02:20 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "This summer was hot. August shattered global heat records",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
-     "date": "Thu, 10 Sep 2026 17:30:52 -0400"
+     "title": "Sorry, we can't pay you $5,000 to do the news quiz. We're public media",
+     "link": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
+     "date": "Fri, 11 Sep 2026 05:01:00 -0400"
     },
     {
-     "title": "Lawsuit challenges intimidation of DHS observers across the country",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
-     "date": "Thu, 10 Sep 2026 17:07:38 -0400"
+     "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5961366/9-11-memorial-events",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
-     "date": "Thu, 10 Sep 2026 14:07:57 -0400"
+     "title": "They cleaned up ground zero. Now many are hiding from ICE",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "How the WNBA became a political prop in the culture wars",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5957546/wnba-culture-wars",
-     "date": "Thu, 10 Sep 2026 13:22:34 -0400"
+     "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
-     "date": "Thu, 10 Sep 2026 11:44:12 -0400"
+     "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
-     "link": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
-     "date": "Thu, 10 Sep 2026 11:13:09 -0400"
+     "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
-     "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
-     "date": "Thu, 10 Sep 2026 11:06:20 -0400"
+     "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "How did 9/11 reshape national security?",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
-     "date": "Thu, 10 Sep 2026 10:53:37 -0400"
+     "title": "Trump administration allows TPS to continue for Salvadorans – for now",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
+     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 04:07:44 +0000"
+     "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+     "link": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 09:11:42 +0000"
     },
     {
-     "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
-     "link": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 03:33:08 +0000"
+     "title": "World Athletics Ultimate Championship opens with record $10m prize pot",
+     "link": "https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 08:50:40 +0000"
     },
     {
-     "title": "Taiwan vice president makes rare Europe visit for conference on democracy",
-     "link": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 03:15:44 +0000"
+     "title": "Pro-Palestine student suspended by King’s College London returns to campus",
+     "link": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 08:22:02 +0000"
     },
     {
-     "title": "Young republicans break with Trump over Iran war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 02:45:52 +0000"
+     "title": "What did 25 years of the “war on terror” leave behind?",
+     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 08:20:32 +0000"
     },
     {
-     "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-     "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 02:40:19 +0000"
+     "title": "How 9/11 helped Israel sell its war on Palestinians to America",
+     "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 08:18:18 +0000"
     },
     {
-     "title": "Brazil’s Supreme Court shuts down early as political chaos mounts",
-     "link": "https://www.aljazeera.com/news/2026/9/11/brazils-supreme-court-shuts-down-early-as-political-chaos-mounts?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 02:04:50 +0000"
+     "title": "Anthropic warns of bids to use AI to build biological weapons",
+     "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 08:08:43 +0000"
     },
     {
-     "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 01:24:27 +0000"
+     "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
+     "link": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 08:00:28 +0000"
     },
     {
-     "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
-     "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 01:07:23 +0000"
+     "title": "UEFA wants FIFA subsidiaries’ blocked from Infantino discovery fight in US",
+     "link": "https://www.aljazeera.com/sports/2026/9/11/fifa-want-fifa-subsidiaries-blocked-from-infantino-discovery-fight-in-us?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 07:57:55 +0000"
     }
    ]
   },
