@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-11 00:11 UTC",
+ "updated": "2026-09-11 04:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Labour mayors in England vow to cap tourist tax at 5%",
-     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 21:22:06 GMT"
+     "title": "MPs to vote on legalising assisted dying in England and Wales",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 02:05:23 GMT"
     },
     {
      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
@@ -20,9 +20,9 @@
      "date": "Thu, 10 Sep 2026 17:38:31 GMT"
     },
     {
-     "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
-     "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 16:57:06 GMT"
+     "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+     "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 02:46:30 GMT"
     },
     {
      "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
@@ -30,9 +30,9 @@
      "date": "Thu, 10 Sep 2026 23:22:11 GMT"
     },
     {
-     "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
-     "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 16:48:37 GMT"
+     "title": "Is Trump's $5,000 pledge a sign of panic?",
+     "link": "https://www.bbc.co.uk/news/articles/cdj4z2x3zyko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 01:38:51 GMT"
     },
     {
      "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
@@ -40,9 +40,9 @@
      "date": "Thu, 10 Sep 2026 18:27:22 GMT"
     },
     {
-     "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-     "link": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 16:37:18 GMT"
+     "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+     "link": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 16:57:06 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+     "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+     "date": "Fri, 11 Sep 2026 04:00:04 GMT"
+    },
+    {
      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
      "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
      "date": "Thu, 10 Sep 2026 17:29:20 GMT"
@@ -113,11 +118,6 @@
      "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
      "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
      "date": "Tue, 08 Sep 2026 04:00:27 GMT"
-    },
-    {
-     "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
-     "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
-     "date": "Mon, 07 Sep 2026 08:27:08 GMT"
     },
     {
      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 00:00:00 +0000"
+     "title": "Trump jokes Republicans can ‘cheat like hell’ in the midterms",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 04:07:44 +0000"
     },
     {
-     "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
-     "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 23:46:07 +0000"
+     "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+     "link": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 03:33:08 +0000"
     },
     {
-     "title": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
-     "link": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 23:08:55 +0000"
+     "title": "Taiwan vice president makes rare Europe visit for conference on democracy",
+     "link": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 03:15:44 +0000"
     },
     {
-     "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-     "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 22:33:41 +0000"
+     "title": "Young republicans break with Trump over Iran war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 02:45:52 +0000"
     },
     {
-     "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
-     "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:47:14 +0000"
+     "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+     "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 02:40:19 +0000"
     },
     {
-     "title": "LG defends smart-TV features amid audio surveillance allegations",
-     "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:33:28 +0000"
+     "title": "Brazil’s Supreme Court shuts down early as political chaos mounts",
+     "link": "https://www.aljazeera.com/news/2026/9/11/brazils-supreme-court-shuts-down-early-as-political-chaos-mounts?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 02:04:50 +0000"
     },
     {
-     "title": "Peru joins US-led ‘Shield of the Americas’ security alliance",
-     "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:31:06 +0000"
+     "title": "Unveiling of Charlie Kirk statue sparks chaos in Times Square",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_charlie-kirk-statue-sparks-chaos-in-times-square-100926?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 01:24:27 +0000"
     },
     {
-     "title": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:31:03 +0000"
+     "title": "Maduro’s wife seeks home detention as heart condition worsens in US custody",
+     "link": "https://www.aljazeera.com/news/2026/9/11/maduros-wife-seeks-home-detention-as-heart-condition-worsens-in-us-custody?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 01:07:23 +0000"
     }
    ]
   },
