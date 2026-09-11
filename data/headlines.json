@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 18:34 UTC",
+ "updated": "2026-09-11 21:43 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,12 +17,12 @@
     {
      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 18:13:54 GMT"
+     "date": "Fri, 11 Sep 2026 20:12:01 GMT"
     },
     {
      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 16:58:34 GMT"
+     "date": "Fri, 11 Sep 2026 20:11:47 GMT"
     },
     {
      "title": "How global trade and oil prices could be hit by Houthi advance",
@@ -35,14 +35,14 @@
      "date": "Fri, 11 Sep 2026 15:07:07 GMT"
     },
     {
-     "title": "Kate visits cancer patients in hospital she helped fund with climb",
-     "link": "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 14:19:21 GMT"
+     "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+     "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 16:00:59 GMT"
     },
     {
-     "title": "Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list'",
-     "link": "https://www.bbc.co.uk/news/articles/cjrx5xlz83jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 15:52:19 GMT"
+     "title": "Police to crack down on face coverings at protests",
+     "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 20:40:31 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+     "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+     "date": "Fri, 11 Sep 2026 15:39:35 -0400"
+    },
+    {
+     "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
+     "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
+     "date": "Fri, 11 Sep 2026 15:05:00 -0400"
+    },
+    {
      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
      "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
      "date": "Fri, 11 Sep 2026 11:34:51 -0400"
@@ -168,16 +178,6 @@
      "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
      "link": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
      "date": "Fri, 11 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "They cleaned up ground zero. Now many are hiding from ICE",
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
-     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-     "date": "Fri, 11 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-     "link": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 18:14:29 +0000"
+     "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 21:01:23 +0000"
     },
     {
-     "title": "US holds memorials for the 9/11 attacks, 25 years later",
-     "link": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 18:00:41 +0000"
+     "title": "US legislators push AI safety laws amid human extinction warnings",
+     "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 20:59:51 +0000"
     },
     {
-     "title": "US declares end of largest recorded cyclosporiasis outbreak",
-     "link": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 17:35:36 +0000"
+     "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+     "link": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 20:42:05 +0000"
     },
     {
-     "title": "UK lawmakers vote against bill to legalise assisted dying",
-     "link": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 17:31:22 +0000"
+     "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+     "link": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 20:07:15 +0000"
     },
     {
-     "title": "Rising petrol costs drive sharp inflation increase in US in August",
-     "link": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 17:28:11 +0000"
+     "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 20:04:02 +0000"
     },
     {
-     "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-     "link": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 17:18:17 +0000"
+     "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 20:00:55 +0000"
     },
     {
-     "title": "Morocco PM takes aim at federation chief over 2030 World Cup final boast",
-     "link": "https://www.aljazeera.com/sports/2026/9/11/morocco-pm-slams-federation-chief-over-2030-world-cup-final-boast?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 17:16:00 +0000"
+     "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+     "link": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 19:59:41 +0000"
     },
     {
-     "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 16:32:14 +0000"
+     "title": "City boss Enzo Maresca says spotlight not on him ahead of Manchester derby",
+     "link": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 19:37:17 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
      "link": "https://www.nature.com/articles/d41586-026-02893-8",
+     "date": ""
+    },
+    {
+     "title": "NSF moves to overhaul funding approach in line with White House priorities",
+     "link": "https://www.nature.com/articles/d41586-026-02892-9",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "The neurons that can put a brake on a nervous-system cancer",
      "link": "https://www.nature.com/articles/d41586-026-02834-5",
-     "date": ""
-    },
-    {
-     "title": "Distant sensors announced a fearsome tsunami’s birth",
-     "link": "https://www.nature.com/articles/d41586-026-02809-6",
      "date": ""
     }
    ]
