@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10 21:38 UTC",
+ "updated": "2026-09-11 00:11 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -8,6 +8,11 @@
      "title": "Labour mayors in England vow to cap tourist tax at 5%",
      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 21:22:06 GMT"
+    },
+    {
+     "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+     "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:21:00 GMT"
     },
     {
      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
@@ -20,6 +25,11 @@
      "date": "Thu, 10 Sep 2026 16:57:06 GMT"
     },
     {
+     "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+     "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:22:11 GMT"
+    },
+    {
      "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 16:48:37 GMT"
@@ -28,16 +38,6 @@
      "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
      "link": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 18:27:22 GMT"
-    },
-    {
-     "title": "Four hurt and seven arrested in London stabbing",
-     "link": "https://www.bbc.co.uk/news/articles/c39mrjvpx4yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 18:46:05 GMT"
-    },
-    {
-     "title": "Drone display recreates the Twin Towers over New York City",
-     "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 14:19:26 GMT"
     },
     {
      "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
@@ -49,6 +49,16 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "I asked my husband to pay into my pension when we had a child - here's why",
+     "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:04:30 GMT"
+    },
+    {
+     "title": "Are interest rates on the way up again?",
+     "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:03:09 GMT"
+    },
     {
      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
@@ -65,6 +75,11 @@
      "date": "Thu, 10 Sep 2026 13:34:17 GMT"
     },
     {
+     "title": "Can Europe recharge its battery industry?",
+     "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 10 Sep 2026 23:05:47 GMT"
+    },
+    {
      "title": "Primark finally set to launch home deliveries",
      "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 10 Sep 2026 10:02:26 GMT"
@@ -73,21 +88,6 @@
      "title": "The one thing you need to do to succeed - according to top bosses",
      "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 09 Sep 2026 23:02:20 GMT"
-    },
-    {
-     "title": "Why some experts increasingly fear AI will take over",
-     "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 09 Sep 2026 23:17:33 GMT"
-    },
-    {
-     "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-     "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 09:32:34 GMT"
-    },
-    {
-     "title": "Labour mayors in England vow to cap tourist tax at 5%",
-     "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 21:22:06 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "This summer was hot. August shattered global heat records",
+     "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
+     "date": "Thu, 10 Sep 2026 17:30:52 -0400"
+    },
+    {
      "title": "Lawsuit challenges intimidation of DHS observers across the country",
      "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
      "date": "Thu, 10 Sep 2026 17:07:38 -0400"
@@ -160,6 +165,11 @@
      "date": "Thu, 10 Sep 2026 11:44:12 -0400"
     },
     {
+     "title": "Elon Musk threatens to sue over Gibney documentary's \"space lasers\" claim",
+     "link": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
+     "date": "Thu, 10 Sep 2026 11:13:09 -0400"
+    },
+    {
      "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
      "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
      "date": "Thu, 10 Sep 2026 11:06:20 -0400"
@@ -168,16 +178,6 @@
      "title": "How did 9/11 reshape national security?",
      "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
      "date": "Thu, 10 Sep 2026 10:53:37 -0400"
-    },
-    {
-     "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-     "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-     "date": "Thu, 10 Sep 2026 07:27:14 -0400"
-    },
-    {
-     "title": "One year after Charlie Kirk's death, Turning Point USA faces an uncertain future",
-     "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
-     "date": "Thu, 10 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:19:16 +0000"
+     "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "Gaza hospitals ration power as fuel shortages deepen",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:17:09 +0000"
+     "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+     "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 23:46:07 +0000"
     },
     {
-     "title": "Russian strike hits shopping centre in central Ukraine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:03:42 +0000"
+     "title": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
+     "link": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 23:08:55 +0000"
     },
     {
-     "title": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 21:00:18 +0000"
+     "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+     "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 22:33:41 +0000"
     },
     {
-     "title": "Manchester United beat Sabah 4-0 on Champions League return",
-     "link": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 20:54:47 +0000"
+     "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
+     "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:47:14 +0000"
     },
     {
-     "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
-     "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 20:46:16 +0000"
+     "title": "LG defends smart-TV features amid audio surveillance allegations",
+     "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:33:28 +0000"
     },
     {
-     "title": "Will foreign workers leave South Africa?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/10/will-foreign-workers-leave-south-africa?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 20:42:29 +0000"
+     "title": "Peru joins US-led ‘Shield of the Americas’ security alliance",
+     "link": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:31:06 +0000"
     },
     {
-     "title": "What’s happening in Yemen and how did we get here?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/whats-happening-in-yemen-and-how-did-we-get-here-3?traffic_source=rss",
-     "date": "Thu, 10 Sep 2026 20:24:47 +0000"
+     "title": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
+     "date": "Thu, 10 Sep 2026 21:31:03 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
      "link": "https://www.nature.com/articles/s41586-026-11079-1",
+     "date": ""
+    },
+    {
+     "title": "The neurons that can put a brake on a nervous-system cancer",
+     "link": "https://www.nature.com/articles/d41586-026-02834-5",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Bacteria recruited to treat cancer",
      "link": "https://www.nature.com/articles/d41586-026-02823-8",
-     "date": ""
-    },
-    {
-     "title": "Ruins of ancient Asian city show engineering prowess and organization",
-     "link": "https://www.nature.com/articles/d41586-026-02821-w",
      "date": ""
     }
    ]
