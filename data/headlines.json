@@ -1,38 +1,13 @@
 {
- "updated": "2026-09-12 19:22 UTC",
+ "updated": "2026-09-12 22:18 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-     "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:36:45 GMT"
-    },
-    {
-     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-     "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 12:51:24 GMT"
-    },
-    {
-     "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 13:56:20 GMT"
-    },
-    {
      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:42:38 GMT"
-    },
-    {
-     "title": "Céline Dion fans prepare for comeback concert in Paris",
-     "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:36:20 GMT"
-    },
-    {
-     "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
-     "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 18:43:01 GMT"
+     "date": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
@@ -40,9 +15,34 @@
      "date": "Sat, 12 Sep 2026 17:28:53 GMT"
     },
     {
+     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+     "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 17:36:45 GMT"
+    },
+    {
+     "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+     "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 21:25:28 GMT"
+    },
+    {
+     "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+     "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 20:37:29 GMT"
+    },
+    {
+     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+     "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 12:51:24 GMT"
+    },
+    {
      "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 12 Sep 2026 00:37:41 GMT"
+    },
+    {
+     "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
+     "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 23:06:39 GMT"
     }
    ]
   },
@@ -62,7 +62,7 @@
     {
      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 18:31:23 GMT"
+     "date": "Sat, 12 Sep 2026 20:37:29 GMT"
     },
     {
      "title": "Interest rates could rise again across the world – here's why",
@@ -100,7 +100,7 @@
      "date": "Sat, 12 Sep 2026 15:09:05 GMT"
     },
     {
-     "title": "Six Nigerians extradited to US over $6M online romance scam",
+     "title": "Six Nigerians extradited to US over $6m online romance scam",
      "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
      "date": "Sat, 12 Sep 2026 14:05:45 GMT"
     },
@@ -175,8 +175,8 @@
      "date": "Sat, 12 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Anthropic and OpenAI CEOs call for AI development to slow down",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+     "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
      "date": "Sat, 12 Sep 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-     "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 18:53:31 +0000"
+     "title": "First naval battle between drones takes place in the Black Sea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 21:38:24 +0000"
     },
     {
-     "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 18:36:17 +0000"
+     "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 20:44:18 +0000"
     },
     {
-     "title": "Selling the war: Purges, polygraphs and propaganda",
-     "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 17:31:56 +0000"
+     "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
+     "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 20:43:57 +0000"
     },
     {
-     "title": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 17:18:28 +0000"
+     "title": "Fire at nursing home in Chile kills 16 elderly residents",
+     "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 20:42:23 +0000"
     },
     {
-     "title": "Man arrested over killing of Tasia Fortune, found hanging from tree",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 17:15:45 +0000"
+     "title": "Israel bombs southern Lebanon as talks postponed",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 19:56:09 +0000"
     },
     {
-     "title": "Couple welcomes child from embryo frozen for 22 years",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/couple-welcomes-child-from-embryo-frozen-for-22-years?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 17:14:46 +0000"
+     "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 19:50:08 +0000"
     },
     {
-     "title": "US Open women’s singles final live: Aryna Sabalenka vs Elena Rybakina",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/12/aryna-sabalenka-vs-elena-rybakina-live-us-open-womens-singles-final-2026?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 17:07:54 +0000"
+     "title": "US court blocks Trump administration plan to cut disaster agency workforce",
+     "link": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 19:49:29 +0000"
     },
     {
-     "title": "Chelsea draw with Hull, Liverpool held by Fulham and Villa remain winless",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/chelsea-draw-with-hull-liverpool-held-by-fulham-and-villa-remain-winless?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 16:57:52 +0000"
+     "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+     "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 19:34:04 +0000"
     }
    ]
   },
