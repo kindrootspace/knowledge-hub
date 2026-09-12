@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 05:47 UTC",
+ "updated": "2026-09-12 10:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Reform receives record £36m donation from crypto billionaire",
      "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 23:27:18 GMT"
+     "date": "Sat, 12 Sep 2026 06:19:50 GMT"
+    },
+    {
+     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+     "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 10:07:00 GMT"
     },
     {
      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -25,24 +30,19 @@
      "date": "Fri, 11 Sep 2026 23:06:39 GMT"
     },
     {
-     "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-     "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 02:29:49 GMT"
+     "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+     "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 00:16:16 GMT"
     },
     {
-     "title": "Trump to arrive in Ireland for two-day visit",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 04:03:57 GMT"
+     "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+     "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 00:35:50 GMT"
     },
     {
-     "title": "Is a September heatwave forecast for the UK?",
-     "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 23:41:50 GMT"
-    },
-    {
-     "title": "American Shelton to face Zverev in US Open final",
-     "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 03:56:15 GMT"
+     "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+     "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 00:24:08 GMT"
     }
    ]
   },
@@ -140,6 +140,36 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+     "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+     "date": "Sat, 12 Sep 2026 06:00:00 -0400"
+    },
+    {
+     "title": "Why are the people building the most powerful AI so worried about what it could do?",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+     "date": "Sat, 12 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+     "date": "Sat, 12 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+     "date": "Sat, 12 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+     "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+     "date": "Sat, 12 Sep 2026 03:18:55 -0400"
+    },
+    {
+     "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+     "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
+     "date": "Sat, 12 Sep 2026 01:57:08 -0400"
+    },
+    {
      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
      "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
      "date": "Fri, 11 Sep 2026 16:29:31 -0400"
@@ -148,36 +178,6 @@
      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
      "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
      "date": "Fri, 11 Sep 2026 15:39:35 -0400"
-    },
-    {
-     "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-     "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
-     "date": "Fri, 11 Sep 2026 15:05:00 -0400"
-    },
-    {
-     "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
-     "date": "Fri, 11 Sep 2026 11:34:51 -0400"
-    },
-    {
-     "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
-     "date": "Fri, 11 Sep 2026 10:16:35 -0400"
-    },
-    {
-     "title": "The voices of Sept. 11: 'My first thought was ... I can't believe that I survived'",
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
-     "date": "Fri, 11 Sep 2026 09:37:18 -0400"
-    },
-    {
-     "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-     "link": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
-     "date": "Fri, 11 Sep 2026 07:55:49 -0400"
-    },
-    {
-     "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-     "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
-     "date": "Fri, 11 Sep 2026 06:04:04 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "‘The family paid the price’: India’s deadly online gambling crisis",
-     "link": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 04:46:56 +0000"
+     "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 09:53:59 +0000"
     },
     {
-     "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
-     "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 04:27:27 +0000"
+     "title": "What did US intelligence know before the 9/11 attacks?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 09:30:51 +0000"
     },
     {
-     "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 04:00:23 +0000"
+     "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+     "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 09:30:46 +0000"
     },
     {
-     "title": "Mexico rescues eight from clandestine clinic run by violent Jalisco cartel",
-     "link": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 03:32:54 +0000"
+     "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+     "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 08:49:01 +0000"
     },
     {
-     "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-     "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 02:25:59 +0000"
+     "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
+     "link": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 08:47:19 +0000"
     },
     {
-     "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 02:22:29 +0000"
+     "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 08:42:28 +0000"
     },
     {
-     "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 02:18:52 +0000"
+     "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 08:38:48 +0000"
     },
     {
-     "title": "CIA releases dozens of declassified documents on bin Laden prior to 9/11",
-     "link": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 01:22:41 +0000"
+     "title": "Trump may be BRICS’s best recruitment agent",
+     "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 07:44:06 +0000"
     }
    ]
   },
