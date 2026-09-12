@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 17:11 UTC",
+ "updated": "2026-09-12 19:22 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Reform receives second £36m donation in two days as crypto investor matches record",
      "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 16:41:09 GMT"
+     "date": "Sat, 12 Sep 2026 17:36:45 GMT"
     },
     {
      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
@@ -22,27 +22,27 @@
     {
      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:05:34 GMT"
+     "date": "Sat, 12 Sep 2026 17:42:38 GMT"
     },
     {
-     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-     "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 12:15:50 GMT"
+     "title": "Céline Dion fans prepare for comeback concert in Paris",
+     "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 17:36:20 GMT"
     },
     {
-     "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-     "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 16:32:27 GMT"
+     "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
+     "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 18:43:01 GMT"
+    },
+    {
+     "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+     "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 17:28:53 GMT"
     },
     {
      "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 12 Sep 2026 00:37:41 GMT"
-    },
-    {
-     "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-     "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 23:06:39 GMT"
     }
    ]
   },
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "US prices remain high as fuel costs squeeze household budgets",
+     "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 14:22:42 GMT"
+    },
+    {
      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
      "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 11 Sep 2026 15:37:25 GMT"
     },
     {
-     "title": "US prices remain high as fuel costs squeeze household budgets",
-     "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 14:22:42 GMT"
+     "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+     "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 18:31:23 GMT"
     },
     {
      "title": "Interest rates could rise again across the world – here's why",
@@ -68,11 +73,6 @@
      "title": "AI boom helps drive surprise UK growth in July",
      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 11 Sep 2026 10:17:28 GMT"
-    },
-    {
-     "title": "I asked my husband to pay into my pension when we had a child - here's why",
-     "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 10 Sep 2026 23:04:30 GMT"
     },
     {
      "title": "Can Europe recharge its battery industry?",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+     "date": "Sat, 12 Sep 2026 14:29:18 -0400"
+    },
+    {
      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
      "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
      "date": "Sat, 12 Sep 2026 09:03:20 -0400"
@@ -170,12 +175,7 @@
      "date": "Sat, 12 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-     "date": "Sat, 12 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Why are the people building the most powerful AI so worried about what it could do?",
+     "title": "Anthropic and OpenAI CEOs call for AI development to slow down",
      "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
      "date": "Sat, 12 Sep 2026 05:00:00 -0400"
     }
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Will the Houthi attacks activate the Mecca Pact?",
-     "link": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 16:06:48 +0000"
+     "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+     "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 18:53:31 +0000"
     },
     {
-     "title": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
-     "link": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 15:58:53 +0000"
+     "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 18:36:17 +0000"
     },
     {
-     "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open",
-     "link": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 15:34:51 +0000"
+     "title": "Selling the war: Purges, polygraphs and propaganda",
+     "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 17:31:56 +0000"
     },
     {
-     "title": "At least seven killed in fire at prison in northern Syria",
-     "link": "https://www.aljazeera.com/news/2026/9/12/at-least-seven-killed-in-fire-at-prison-in-northern-syria?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 15:26:48 +0000"
+     "title": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 17:18:28 +0000"
     },
     {
-     "title": "Danish FA allege FIFA Legal Committee evaded questions on Infantino’s plan",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/danish-fa-say-fifa-legal-committee-evaded-questions-on-infantino-proposal?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 15:16:13 +0000"
+     "title": "Man arrested over killing of Tasia Fortune, found hanging from tree",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 17:15:45 +0000"
     },
     {
-     "title": "Police in Barcelona clash with Catalan national day activists",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/police-in-barcelona-clash-with-catalan-national-day-activists?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 15:06:05 +0000"
+     "title": "Couple welcomes child from embryo frozen for 22 years",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/couple-welcomes-child-from-embryo-frozen-for-22-years?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 17:14:46 +0000"
     },
     {
-     "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-iranian-fm-spox-aj?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 14:49:48 +0000"
+     "title": "US Open women’s singles final live: Aryna Sabalenka vs Elena Rybakina",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/12/aryna-sabalenka-vs-elena-rybakina-live-us-open-womens-singles-final-2026?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 17:07:54 +0000"
     },
     {
-     "title": "England survive Pakistan scare to seal 3-0 Test series sweep",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/england-pakistan-third-test-edgbaston-joe-root-razaullah-cricket?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 14:24:39 +0000"
+     "title": "Chelsea draw with Hull, Liverpool held by Fulham and Villa remain winless",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/chelsea-draw-with-hull-liverpool-held-by-fulham-and-villa-remain-winless?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 16:57:52 +0000"
     }
    ]
   },
