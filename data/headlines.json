@@ -1,18 +1,33 @@
 {
- "updated": "2026-09-11 21:43 UTC",
+ "updated": "2026-09-12 00:18 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "MPs vote against fresh attempt to legalise assisted dying",
-     "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 17:22:39 GMT"
+     "title": "Reform receives record £36m donation from crypto billionaire",
+     "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 23:27:18 GMT"
     },
     {
-     "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-     "link": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 16:49:47 GMT"
+     "title": "MPs vote against fresh attempt to legalise assisted dying",
+     "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 00:10:55 GMT"
+    },
+    {
+     "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+     "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 23:06:39 GMT"
+    },
+    {
+     "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+     "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 22:17:45 GMT"
+    },
+    {
+     "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+     "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
@@ -20,29 +35,14 @@
      "date": "Fri, 11 Sep 2026 20:12:01 GMT"
     },
     {
-     "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-     "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 20:11:47 GMT"
+     "title": "Zverev through to third Grand Slam final in a row",
+     "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 22:42:27 GMT"
     },
     {
-     "title": "How global trade and oil prices could be hit by Houthi advance",
-     "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 16:13:39 GMT"
-    },
-    {
-     "title": "UK government rejects 'kill switch' idea for dangerous AI",
-     "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 15:07:07 GMT"
-    },
-    {
-     "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-     "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 16:00:59 GMT"
-    },
-    {
-     "title": "Police to crack down on face coverings at protests",
-     "link": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 20:40:31 GMT"
+     "title": "Arrest made over the death of black woman found hanged from tree",
+     "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 00:07:23 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
+     "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
+     "date": "Fri, 11 Sep 2026 16:29:31 -0400"
+    },
+    {
      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
      "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
      "date": "Fri, 11 Sep 2026 15:39:35 -0400"
@@ -173,11 +178,6 @@
      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
      "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
      "date": "Fri, 11 Sep 2026 06:04:04 -0400"
-    },
-    {
-     "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
-     "link": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
-     "date": "Fri, 11 Sep 2026 05:01:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 21:01:23 +0000"
+     "title": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+     "link": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 00:04:23 +0000"
     },
     {
-     "title": "US legislators push AI safety laws amid human extinction warnings",
-     "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 20:59:51 +0000"
+     "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-     "link": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 20:42:05 +0000"
+     "title": "UN extends partial Sudan arms embargo for a month",
+     "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 23:08:05 +0000"
     },
     {
-     "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
-     "link": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 20:07:15 +0000"
+     "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+     "link": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 22:57:51 +0000"
     },
     {
-     "title": "Can BRICS help reshape global order by strengthening emerging economies?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 20:04:02 +0000"
+     "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
+     "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 21:53:34 +0000"
     },
     {
-     "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 20:00:55 +0000"
+     "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+     "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 21:30:47 +0000"
     },
     {
-     "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
-     "link": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 19:59:41 +0000"
+     "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
+     "link": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 21:28:34 +0000"
     },
     {
-     "title": "City boss Enzo Maresca says spotlight not on him ahead of Manchester derby",
-     "link": "https://www.aljazeera.com/sports/2026/9/11/enzo-maresca-manchester-city-man-united-derby-football?traffic_source=rss",
-     "date": "Fri, 11 Sep 2026 19:37:17 +0000"
+     "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+     "date": "Fri, 11 Sep 2026 21:23:51 +0000"
     }
    ]
   },
