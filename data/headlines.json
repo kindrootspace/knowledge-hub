@@ -1,23 +1,23 @@
 {
- "updated": "2026-09-12 10:47 UTC",
+ "updated": "2026-09-12 14:08 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Reform receives record £36m donation from crypto billionaire",
-     "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 06:19:50 GMT"
+     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+     "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 13:51:14 GMT"
     },
     {
-     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 10:07:00 GMT"
+     "date": "Sat, 12 Sep 2026 12:51:24 GMT"
     },
     {
      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 04:43:10 GMT"
+     "date": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
@@ -25,14 +25,14 @@
      "date": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
-     "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
-     "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 23:06:39 GMT"
-    },
-    {
      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 12 Sep 2026 00:16:16 GMT"
+    },
+    {
+     "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
+     "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 11 Sep 2026 23:06:39 GMT"
     },
     {
      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
@@ -40,7 +40,7 @@
      "date": "Sat, 12 Sep 2026 00:35:50 GMT"
     },
     {
-     "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+     "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 12 Sep 2026 00:24:08 GMT"
     }
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+     "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+     "date": "Sat, 12 Sep 2026 09:03:20 -0400"
+    },
+    {
+     "title": "OPINION: 25 years on, a nation still mourns",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
+     "date": "Sat, 12 Sep 2026 08:00:00 -0400"
+    },
+    {
+     "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
+     "date": "Sat, 12 Sep 2026 07:00:00 -0400"
+    },
+    {
+     "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+     "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+     "date": "Sat, 12 Sep 2026 06:55:14 -0400"
+    },
+    {
      "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
      "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
      "date": "Sat, 12 Sep 2026 06:00:00 -0400"
@@ -158,26 +178,6 @@
      "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
      "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
      "date": "Sat, 12 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-     "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-     "date": "Sat, 12 Sep 2026 03:18:55 -0400"
-    },
-    {
-     "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-     "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
-     "date": "Sat, 12 Sep 2026 01:57:08 -0400"
-    },
-    {
-     "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-     "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
-     "date": "Fri, 11 Sep 2026 16:29:31 -0400"
-    },
-    {
-     "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-     "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-     "date": "Fri, 11 Sep 2026 15:39:35 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 09:53:59 +0000"
+     "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+     "link": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 13:45:00 +0000"
     },
     {
-     "title": "What did US intelligence know before the 9/11 attacks?",
-     "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 09:30:51 +0000"
+     "title": "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
+     "link": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 13:06:05 +0000"
     },
     {
-     "title": "Fighting re-erupts in Yemen and civilians are paying the price",
-     "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 09:30:46 +0000"
+     "title": "India’s Modi calls for empowerment of Global South at BRICS Summit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 12:19:56 +0000"
     },
     {
-     "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-     "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 08:49:01 +0000"
+     "title": "Manchester United vs Man City: Premier League – predictions, teams, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 12:12:29 +0000"
     },
     {
-     "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
-     "link": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 08:47:19 +0000"
+     "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 12:10:13 +0000"
     },
     {
-     "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
-     "link": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 08:42:28 +0000"
+     "title": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
+     "link": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 11:57:49 +0000"
     },
     {
-     "title": "Russia strikes cargo vessels, steel plants across Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 08:38:48 +0000"
+     "title": "Left with nothing, people in Gaza are forced to rent generators by the hour",
+     "link": "https://www.aljazeera.com/features/2026/9/12/left-with-nothing-people-in-gaza-are-forced-to-rent-generators-by-the-hour?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 11:43:28 +0000"
     },
     {
-     "title": "Trump may be BRICS’s best recruitment agent",
-     "link": "https://www.aljazeera.com/opinions/2026/9/12/trump-may-be-bricss-best-recruitment-agent?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 07:44:06 +0000"
+     "title": "Houthis celebrate seizing control of Yemen’s Red Sea coast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/houthis-celebrate-seizing-control-of-yemens-red-sea-coast?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 11:32:02 +0000"
     }
    ]
   },
