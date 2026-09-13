@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 22:18 UTC",
+ "updated": "2026-09-13 01:01 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,9 @@
      "date": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
-     "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-     "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:28:53 GMT"
-    },
-    {
-     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-     "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:36:45 GMT"
+     "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+     "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 23:15:54 GMT"
     },
     {
      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
@@ -25,24 +20,29 @@
      "date": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
-     "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-     "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 20:37:29 GMT"
+     "title": "Student loan terms to be made clearer in England",
+     "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 23:20:29 GMT"
     },
     {
-     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-     "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 12:51:24 GMT"
+     "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+     "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 23:46:52 GMT"
     },
     {
-     "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 00:37:41 GMT"
+     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+     "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 17:36:45 GMT"
     },
     {
-     "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-     "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 23:06:39 GMT"
+     "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+     "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 23:06:08 GMT"
+    },
+    {
+     "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+     "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 23:43:52 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Celine Dion returns to the stage after battling rare illness",
+     "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+     "date": "Sat, 12 Sep 2026 19:54:06 -0400"
+    },
+    {
      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
      "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
      "date": "Sat, 12 Sep 2026 14:29:18 -0400"
@@ -173,11 +178,6 @@
      "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
      "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
      "date": "Sat, 12 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-     "date": "Sat, 12 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "First naval battle between drones takes place in the Black Sea",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 21:38:24 +0000"
+     "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 00:43:48 +0000"
     },
     {
-     "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 20:44:18 +0000"
+     "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+     "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 00:24:29 +0000"
     },
     {
-     "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-     "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 20:43:57 +0000"
+     "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 00:00:40 +0000"
     },
     {
-     "title": "Fire at nursing home in Chile kills 16 elderly residents",
-     "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 20:42:23 +0000"
+     "title": "Teen rescued after clinging to boat for two days off Alaska",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 23:56:58 +0000"
     },
     {
-     "title": "Israel bombs southern Lebanon as talks postponed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 19:56:09 +0000"
+     "title": "Death toll from Philippine ferry fire rises to 76",
+     "link": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 23:50:03 +0000"
     },
     {
-     "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 19:50:08 +0000"
+     "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 23:43:32 +0000"
     },
     {
-     "title": "US court blocks Trump administration plan to cut disaster agency workforce",
-     "link": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 19:49:29 +0000"
+     "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 23:25:22 +0000"
     },
     {
-     "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-     "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 19:34:04 +0000"
+     "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
+     "link": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
+     "date": "Sat, 12 Sep 2026 23:14:28 +0000"
     }
    ]
   },
