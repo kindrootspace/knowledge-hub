@@ -1,13 +1,23 @@
 {
- "updated": "2026-09-13 01:01 UTC",
+ "updated": "2026-09-13 06:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-     "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 21:16:47 GMT"
+     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 06:04:06 GMT"
+    },
+    {
+     "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+     "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 17:28:53 GMT"
+    },
+    {
+     "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
+     "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 05:03:12 GMT"
     },
     {
      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
@@ -15,24 +25,9 @@
      "date": "Sat, 12 Sep 2026 23:15:54 GMT"
     },
     {
-     "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-     "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 21:25:28 GMT"
-    },
-    {
-     "title": "Student loan terms to be made clearer in England",
-     "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 23:20:29 GMT"
-    },
-    {
-     "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
-     "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 23:46:52 GMT"
-    },
-    {
-     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-     "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 17:36:45 GMT"
+     "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
+     "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 05:17:29 GMT"
     },
     {
      "title": "Diljit Dosanjh makes history under the famous Wembley arch",
@@ -40,9 +35,14 @@
      "date": "Sat, 12 Sep 2026 23:06:08 GMT"
     },
     {
-     "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
-     "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 23:43:52 GMT"
+     "title": "Student loan terms to be made clearer in England",
+     "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 23:20:29 GMT"
+    },
+    {
+     "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
+     "link": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 02:59:29 GMT"
     }
    ]
   },
@@ -165,7 +165,7 @@
      "date": "Sat, 12 Sep 2026 07:00:00 -0400"
     },
     {
-     "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+     "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
      "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
      "date": "Sat, 12 Sep 2026 06:55:14 -0400"
     },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 00:43:48 +0000"
+     "title": "1,400 Yemenis flee to Djibouti within 24 hours",
+     "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 04:40:18 +0000"
     },
     {
-     "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-     "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 00:24:29 +0000"
+     "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 04:22:41 +0000"
     },
     {
-     "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 00:00:40 +0000"
+     "title": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+     "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 03:41:14 +0000"
     },
     {
-     "title": "Teen rescued after clinging to boat for two days off Alaska",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 23:56:58 +0000"
+     "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 02:44:32 +0000"
     },
     {
-     "title": "Death toll from Philippine ferry fire rises to 76",
-     "link": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 23:50:03 +0000"
+     "title": "‘We started to plummet’: Turbulence rocks Turkish Airlines flight",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/we-started-to-plummet-turbulence-rocks-turkish-airlines-flight?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 02:37:24 +0000"
     },
     {
-     "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 23:43:32 +0000"
+     "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
+     "link": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 02:32:12 +0000"
     },
     {
-     "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 23:25:22 +0000"
+     "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
+     "link": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 01:41:10 +0000"
     },
     {
-     "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-     "link": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-     "date": "Sat, 12 Sep 2026 23:14:28 +0000"
+     "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 01:32:56 +0000"
     }
    ]
   },
