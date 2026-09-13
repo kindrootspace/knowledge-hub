@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 16:17 UTC",
+ "updated": "2026-09-13 19:27 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Sun, 13 Sep 2026 15:40:38 GMT"
     },
     {
-     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 14:53:40 GMT"
+     "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 19:14:21 GMT"
+    },
+    {
+     "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+     "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
      "title": "Andy Burnham among Great North Run finishers",
@@ -20,29 +25,24 @@
      "date": "Sun, 13 Sep 2026 14:54:40 GMT"
     },
     {
-     "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
-     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 16:05:41 GMT"
-    },
-    {
-     "title": "Trump doubles down on united Ireland comments on day two of visit",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 15:42:50 GMT"
-    },
-    {
      "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 11:16:06 GMT"
     },
     {
+     "title": "Meghan shares glimpse of family life after Sussexes return to UK",
+     "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 17:22:22 GMT"
+    },
+    {
+     "title": "Police searching for six men over anti-migrant protest in Portsmouth",
+     "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 16:51:35 GMT"
+    },
+    {
      "title": "US embassy child abuse images suspect flown from UK before police interview",
      "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 13:31:18 GMT"
-    },
-    {
-     "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 23:41:52 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+     "date": "Sun, 13 Sep 2026 13:45:33 -0400"
+    },
+    {
      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
      "date": "Sun, 13 Sep 2026 10:00:00 -0400"
@@ -173,11 +178,6 @@
      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
      "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
      "date": "Sat, 12 Sep 2026 14:29:18 -0400"
-    },
-    {
-     "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
-     "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
-     "date": "Sat, 12 Sep 2026 09:03:20 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "World leaders gather in New Delhi for final day of BRICS summit",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 15:40:24 +0000"
+     "title": "​Bangsamoro’s parliamentary election is a turning point",
+     "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 18:39:28 +0000"
     },
     {
-     "title": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
-     "link": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 15:22:59 +0000"
+     "title": "Haaland goal sees 10-men City beat United in controversial Manchester derby",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 18:39:24 +0000"
     },
     {
-     "title": "What are the five pros and cons of artificial intelligence?",
-     "link": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 15:03:48 +0000"
+     "title": "Syrian child killed after roadside object explodes near Damascus",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 18:30:29 +0000"
     },
     {
-     "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
-     "link": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 15:00:47 +0000"
+     "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+     "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 18:15:12 +0000"
     },
     {
-     "title": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 14:38:46 +0000"
+     "title": "French TV programme pulled after actress speaks out on Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 17:15:36 +0000"
     },
     {
-     "title": "US Open men’s singles final live: Alexander Zverev vs Ben Shelton",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/us-open-mens-singles-final-live-alexander-zverev-vs-ben-shelton?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 14:35:21 +0000"
+     "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 16:11:43 +0000"
     },
     {
-     "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
-     "link": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 13:59:27 +0000"
+     "title": "Kosovo approves new government after months of political deadlock",
+     "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 16:11:41 +0000"
     },
     {
-     "title": "Villagers in India tie technician to cell tower over 5G failure",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 13:34:42 +0000"
+     "title": "F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 16:05:33 +0000"
     }
    ]
   },
