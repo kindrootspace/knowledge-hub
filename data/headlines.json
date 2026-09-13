@@ -1,18 +1,18 @@
 {
- "updated": "2026-09-13 19:27 UTC",
+ "updated": "2026-09-13 22:24 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
-     "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 15:40:38 GMT"
-    },
-    {
      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 19:14:21 GMT"
+    },
+    {
+     "title": "'Culture shift' needed in how UK does business, PM urges",
+     "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 21:30:21 GMT"
     },
     {
      "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
@@ -20,14 +20,19 @@
      "date": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
-     "title": "Andy Burnham among Great North Run finishers",
-     "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 14:54:40 GMT"
+     "title": "Will record donations to Reform go down as a moment of political change?",
+     "link": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 17:51:19 GMT"
     },
     {
-     "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 11:16:06 GMT"
+     "title": "Deep-fried food banned under new school dinner rules in England",
+     "link": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 21:30:29 GMT"
+    },
+    {
+     "title": "Refereeing body admits judgement error over Haaland derby winner",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 20:29:58 GMT"
     },
     {
      "title": "Meghan shares glimpse of family life after Sussexes return to UK",
@@ -35,20 +40,20 @@
      "date": "Sun, 13 Sep 2026 17:22:22 GMT"
     },
     {
-     "title": "Police searching for six men over anti-migrant protest in Portsmouth",
-     "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 16:51:35 GMT"
-    },
-    {
-     "title": "US embassy child abuse images suspect flown from UK before police interview",
-     "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 13:31:18 GMT"
+     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 19:34:36 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "'Culture shift' needed in how UK does business, PM urges",
+     "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 21:30:21 GMT"
+    },
     {
      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
@@ -65,19 +70,14 @@
      "date": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
-     "title": "US prices remain high as fuel costs squeeze household budgets",
-     "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 14:22:42 GMT"
+     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
-     "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-     "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 15:37:25 GMT"
-    },
-    {
-     "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-     "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 20:37:29 GMT"
+     "title": "Iceland to open first store in the Falklands",
+     "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 20:50:54 GMT"
     },
     {
      "title": "Interest rates could rise again across the world – here's why",
@@ -85,9 +85,9 @@
      "date": "Fri, 11 Sep 2026 13:35:29 GMT"
     },
     {
-     "title": "AI boom helps drive surprise UK growth in July",
-     "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 10:17:28 GMT"
+     "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+     "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 20:37:29 GMT"
     }
    ]
   },
@@ -155,6 +155,11 @@
      "date": "Sun, 13 Sep 2026 08:04:27 -0400"
     },
     {
+     "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+     "date": "Sun, 13 Sep 2026 08:04:24 -0400"
+    },
+    {
      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
      "date": "Sun, 13 Sep 2026 07:00:00 -0400"
@@ -173,11 +178,6 @@
      "title": "Celine Dion returns to the stage after battling rare illness",
      "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
      "date": "Sat, 12 Sep 2026 19:54:06 -0400"
-    },
-    {
-     "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-     "date": "Sat, 12 Sep 2026 14:29:18 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "​Bangsamoro’s parliamentary election is a turning point",
-     "link": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 18:39:28 +0000"
+     "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 22:02:10 +0000"
     },
     {
-     "title": "Haaland goal sees 10-men City beat United in controversial Manchester derby",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 18:39:24 +0000"
+     "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 21:58:17 +0000"
     },
     {
-     "title": "Syrian child killed after roadside object explodes near Damascus",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 18:30:29 +0000"
+     "title": "A third person has died of measles in the US, health officials say",
+     "link": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 21:21:32 +0000"
     },
     {
-     "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
-     "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 18:15:12 +0000"
+     "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 21:12:11 +0000"
     },
     {
-     "title": "French TV programme pulled after actress speaks out on Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 17:15:36 +0000"
+     "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+     "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 21:10:07 +0000"
     },
     {
-     "title": "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 16:11:43 +0000"
+     "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 21:02:14 +0000"
     },
     {
-     "title": "Kosovo approves new government after months of political deadlock",
-     "link": "https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 16:11:41 +0000"
+     "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 20:46:34 +0000"
     },
     {
-     "title": "F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 16:05:33 +0000"
+     "title": "Can a warming Arctic become an important commercial highway?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 20:44:51 +0000"
     }
    ]
   },
