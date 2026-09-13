@@ -1,18 +1,33 @@
 {
- "updated": "2026-09-13 11:53 UTC",
+ "updated": "2026-09-13 16:17 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 11:13:07 GMT"
+     "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
+     "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 15:40:38 GMT"
     },
     {
-     "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
-     "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 11:51:28 GMT"
+     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 14:53:40 GMT"
+    },
+    {
+     "title": "Andy Burnham among Great North Run finishers",
+     "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 14:54:40 GMT"
+    },
+    {
+     "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 16:05:41 GMT"
+    },
+    {
+     "title": "Trump doubles down on united Ireland comments on day two of visit",
+     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 15:42:50 GMT"
     },
     {
      "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
@@ -20,24 +35,9 @@
      "date": "Sun, 13 Sep 2026 11:16:06 GMT"
     },
     {
-     "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-     "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 23:15:54 GMT"
-    },
-    {
-     "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
-     "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 06:21:12 GMT"
-    },
-    {
-     "title": "Flattened molars and facial pain: Why are more young people grinding their teeth?",
-     "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 05:55:19 GMT"
-    },
-    {
-     "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-     "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 23:06:08 GMT"
+     "title": "US embassy child abuse images suspect flown from UK before police interview",
+     "link": "https://www.bbc.co.uk/news/articles/c4gjw1j1eq7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 13:31:18 GMT"
     },
     {
      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
@@ -52,7 +52,7 @@
     {
      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 11:13:07 GMT"
+     "date": "Sun, 13 Sep 2026 14:53:40 GMT"
     },
     {
      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
@@ -140,17 +140,27 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+     "date": "Sun, 13 Sep 2026 10:00:00 -0400"
+    },
+    {
+     "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+     "date": "Sun, 13 Sep 2026 08:04:27 -0400"
+    },
+    {
      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
      "date": "Sun, 13 Sep 2026 07:00:00 -0400"
     },
     {
-     "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+     "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
      "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
      "date": "Sun, 13 Sep 2026 06:31:10 -0400"
     },
     {
-     "title": "How a young woman became an ISIS bride — and then an informant, helping save others",
+     "title": "How a young woman was recruited to ISIS — and how she eventually escaped",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
      "date": "Sun, 13 Sep 2026 05:00:00 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
      "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
      "date": "Sat, 12 Sep 2026 09:03:20 -0400"
-    },
-    {
-     "title": "OPINION: 25 years on, a nation still mourns",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
-     "date": "Sat, 12 Sep 2026 08:00:00 -0400"
-    },
-    {
-     "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
-     "date": "Sat, 12 Sep 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
-     "link": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 10:47:19 +0000"
+     "title": "World leaders gather in New Delhi for final day of BRICS summit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 15:40:24 +0000"
     },
     {
-     "title": "Israeli attack on Gaza kills two Palestinians",
-     "link": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 10:22:01 +0000"
+     "title": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
+     "link": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 15:22:59 +0000"
     },
     {
-     "title": "A kingdom within a republic: Inside Uganda’s Buganda",
-     "link": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 10:12:15 +0000"
+     "title": "What are the five pros and cons of artificial intelligence?",
+     "link": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 15:03:48 +0000"
     },
     {
-     "title": "Niger military government reshuffles army command weeks after deadly mutiny",
-     "link": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 08:54:32 +0000"
+     "title": "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
+     "link": "https://www.aljazeera.com/economy/2026/9/13/red-sea-nations-watch-as-houthis-seize-bab-al-mandeb-strait?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 15:00:47 +0000"
     },
     {
-     "title": "Voting under way in Sweden election that could see far right in government",
-     "link": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 08:39:49 +0000"
+     "title": "More than 2,000 Yemenis flee to Djibouti amid Houthi advances",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/more-than-2000-yemenis-flee-to-djibouti-amid-houthi-advances?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 14:38:46 +0000"
     },
     {
-     "title": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 08:13:56 +0000"
+     "title": "US Open men’s singles final live: Alexander Zverev vs Ben Shelton",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/13/us-open-mens-singles-final-live-alexander-zverev-vs-ben-shelton?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 14:35:21 +0000"
     },
     {
-     "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/olympic-flame-arrives-in-senegal-for-first-ever-olympic-event-in-africa?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 07:48:22 +0000"
+     "title": "Iran-GCC summit: What’s behind the meeting, why is Bahrain not attending?",
+     "link": "https://www.aljazeera.com/news/2026/9/13/iran-gcc-summit-whats-behind-the-meeting-why-is-bahrain-not-attending?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 13:59:27 +0000"
     },
     {
-     "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
-     "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 07:00:59 +0000"
+     "title": "Villagers in India tie technician to cell tower over 5G failure",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 13:34:42 +0000"
     }
    ]
   },
