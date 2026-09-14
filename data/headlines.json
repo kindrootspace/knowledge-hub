@@ -1,33 +1,23 @@
 {
- "updated": "2026-09-14 01:05 UTC",
+ "updated": "2026-09-14 06:18 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "MPs and Lords call for new law to address AI threat to human rights",
+     "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 05:49:32 GMT"
+    },
+    {
      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 19:14:21 GMT"
+     "date": "Mon, 14 Sep 2026 03:38:13 GMT"
     },
     {
-     "title": "'Culture shift' needed in how UK does business, PM urges",
-     "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 21:30:21 GMT"
-    },
-    {
-     "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
-     "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 18:49:37 GMT"
-    },
-    {
-     "title": "Zverev caps transformational year with US Open triumph",
-     "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 22:55:31 GMT"
-    },
-    {
-     "title": "Will record donations to Reform go down as a moment of political change?",
-     "link": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 17:51:19 GMT"
+     "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+     "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 01:12:20 GMT"
     },
     {
      "title": "Deep-fried food banned under new school dinner rules in England",
@@ -35,14 +25,24 @@
      "date": "Sun, 13 Sep 2026 21:30:29 GMT"
     },
     {
-     "title": "Refereeing body admits judgement error over Haaland derby winner",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 20:29:58 GMT"
+     "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+     "link": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 23:11:37 GMT"
     },
     {
-     "title": "Gloomy forecast for tenants as rent rises set to speed up",
-     "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 23:05:45 GMT"
+     "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 23:16:33 GMT"
+    },
+    {
+     "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+     "link": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 23:20:03 GMT"
+    },
+    {
+     "title": "'Culture shift' needed in how UK does business, PM urges",
+     "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 21:30:21 GMT"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Gloomy forecast for tenants as rent rises set to speed up",
+     "title": "Rent rises set to speed up in gloomy forecast for tenants",
      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 23:05:45 GMT"
     },
@@ -63,6 +63,16 @@
      "title": "How to protect your laptop, phone and bike from thieves at uni",
      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 23:39:32 GMT"
+    },
+    {
+     "title": "Amazon pauses work with cargo firm after fatal crash",
+     "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 02:40:06 GMT"
+    },
+    {
+     "title": "MPs and Lords call for new law to address AI threat to human rights",
+     "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 05:49:32 GMT"
     },
     {
      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -78,16 +88,6 @@
      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 09:05:10 GMT"
-    },
-    {
-     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 19:34:36 GMT"
-    },
-    {
-     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-     "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 21:16:47 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
+     "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
+     "date": "Mon, 14 Sep 2026 01:46:26 -0400"
+    },
+    {
+     "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
+     "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
+     "date": "Mon, 14 Sep 2026 01:26:01 -0400"
+    },
+    {
      "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
      "date": "Sun, 13 Sep 2026 19:23:00 -0400"
@@ -168,16 +178,6 @@
      "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
      "date": "Sun, 13 Sep 2026 08:04:27 -0400"
-    },
-    {
-     "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
-     "link": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
-     "date": "Sun, 13 Sep 2026 08:04:24 -0400"
-    },
-    {
-     "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
-     "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
-     "date": "Sun, 13 Sep 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
-     "link": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 00:37:12 +0000"
+     "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
+     "link": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 05:56:36 +0000"
     },
     {
-     "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 00:14:09 +0000"
+     "title": "Indonesia intensifies search for 129 people missing after ship capsizes",
+     "link": "https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 05:51:35 +0000"
     },
     {
-     "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 00:00:00 +0000"
+     "title": "Protests break out across Syria over fuel price increases",
+     "link": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 04:50:25 +0000"
     },
     {
-     "title": "Israeli quadcopter terrorises homes in Gaza City",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 23:33:23 +0000"
+     "title": "Residents help battle forest fires threatening homes in Ecuadorian capital",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/13-09-sv-residents-battle-wildfire-in-quito-ecuador?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 04:28:00 +0000"
     },
     {
-     "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
-     "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 23:31:56 +0000"
+     "title": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+     "link": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 03:50:25 +0000"
     },
     {
-     "title": "Zverev defeats Shelton in four sets to win his first US Open title",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 22:33:34 +0000"
+     "title": "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
+     "link": "https://www.aljazeera.com/news/2026/9/14/turkish-authorities-launch-anti-lgbtq-raids-detaining-dozens?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 03:47:00 +0000"
     },
     {
-     "title": "Could AI really kill us within a decade?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 22:17:15 +0000"
+     "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+     "link": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 03:38:56 +0000"
     },
     {
-     "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 22:10:04 +0000"
+     "title": "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/russia-hits-ukrainian-train-shortly-after-boris-johnson-leaves-station?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 03:37:12 +0000"
     }
    ]
   },
