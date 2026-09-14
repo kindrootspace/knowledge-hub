@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 22:24 UTC",
+ "updated": "2026-09-14 01:05 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,6 +20,11 @@
      "date": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
+     "title": "Zverev caps transformational year with US Open triumph",
+     "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 22:55:31 GMT"
+    },
+    {
      "title": "Will record donations to Reform go down as a moment of political change?",
      "link": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 17:51:19 GMT"
@@ -35,14 +40,9 @@
      "date": "Sun, 13 Sep 2026 20:29:58 GMT"
     },
     {
-     "title": "Meghan shares glimpse of family life after Sussexes return to UK",
-     "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 17:22:22 GMT"
-    },
-    {
-     "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 19:34:36 GMT"
+     "title": "Gloomy forecast for tenants as rent rises set to speed up",
+     "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 23:05:45 GMT"
     }
    ]
   },
@@ -50,9 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Gloomy forecast for tenants as rent rises set to speed up",
+     "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 23:05:45 GMT"
+    },
+    {
      "title": "'Culture shift' needed in how UK does business, PM urges",
      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 21:30:21 GMT"
+    },
+    {
+     "title": "How to protect your laptop, phone and bike from thieves at uni",
+     "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 23:39:32 GMT"
+    },
+    {
+     "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 13 Sep 2026 18:49:37 GMT"
     },
     {
      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
@@ -65,29 +80,14 @@
      "date": "Sun, 13 Sep 2026 09:05:10 GMT"
     },
     {
-     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-     "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 21:16:47 GMT"
-    },
-    {
      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 19:34:36 GMT"
     },
     {
-     "title": "Iceland to open first store in the Falklands",
-     "link": "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 20:50:54 GMT"
-    },
-    {
-     "title": "Interest rates could rise again across the world – here's why",
-     "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 11 Sep 2026 13:35:29 GMT"
-    },
-    {
-     "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-     "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 12 Sep 2026 20:37:29 GMT"
+     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+     "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 12 Sep 2026 21:16:47 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
+     "date": "Sun, 13 Sep 2026 19:23:00 -0400"
+    },
+    {
+     "title": "Trump downplays calls for AI slowdown",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+     "date": "Sun, 13 Sep 2026 18:32:39 -0400"
+    },
+    {
+     "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+     "link": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+     "date": "Sun, 13 Sep 2026 17:03:12 -0400"
+    },
+    {
      "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
      "date": "Sun, 13 Sep 2026 13:45:33 -0400"
@@ -163,21 +178,6 @@
      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
      "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
      "date": "Sun, 13 Sep 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
-     "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
-     "date": "Sun, 13 Sep 2026 06:31:10 -0400"
-    },
-    {
-     "title": "How a young woman was recruited to ISIS — and how she eventually escaped",
-     "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
-     "date": "Sun, 13 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Celine Dion returns to the stage after battling rare illness",
-     "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
-     "date": "Sat, 12 Sep 2026 19:54:06 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 22:02:10 +0000"
+     "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+     "link": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 00:37:12 +0000"
     },
     {
-     "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 21:58:17 +0000"
+     "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 00:14:09 +0000"
     },
     {
-     "title": "A third person has died of measles in the US, health officials say",
-     "link": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 21:21:32 +0000"
+     "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
-     "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 21:12:11 +0000"
+     "title": "Israeli quadcopter terrorises homes in Gaza City",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 23:33:23 +0000"
     },
     {
-     "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
-     "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 21:10:07 +0000"
+     "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+     "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 23:31:56 +0000"
     },
     {
-     "title": "Pro-Palestine protest demands Australia increases pressure on Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 21:02:14 +0000"
+     "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 22:33:34 +0000"
     },
     {
-     "title": "Jerusalem Daily: Pregnant woman killed in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 20:46:34 +0000"
+     "title": "Could AI really kill us within a decade?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 22:17:15 +0000"
     },
     {
-     "title": "Can a warming Arctic become an important commercial highway?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
-     "date": "Sun, 13 Sep 2026 20:44:51 +0000"
+     "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+     "link": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
+     "date": "Sun, 13 Sep 2026 22:10:04 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+     "link": "https://www.nature.com/articles/d41586-026-02826-5",
+     "date": ""
+    },
     {
      "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
      "link": "https://www.nature.com/articles/d41586-026-02893-8",
@@ -262,11 +267,6 @@
     {
      "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
      "link": "https://www.nature.com/articles/s41586-026-11079-1",
-     "date": ""
-    },
-    {
-     "title": "The neurons that can put a brake on a nervous-system cancer",
-     "link": "https://www.nature.com/articles/d41586-026-02834-5",
      "date": ""
     }
    ]
