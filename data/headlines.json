@@ -1,18 +1,18 @@
 {
- "updated": "2026-09-14 19:23 UTC",
+ "updated": "2026-09-14 23:08 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Man admits drugging and raping wife for 20 years",
+     "title": "Man admits drugging and raping wife over 20 years",
      "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 14 Sep 2026 16:54:26 GMT"
     },
     {
      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 18:54:16 GMT"
+     "date": "Mon, 14 Sep 2026 22:10:10 GMT"
     },
     {
      "title": "Burnham cancels engagements after death of his father",
@@ -25,9 +25,9 @@
      "date": "Mon, 14 Sep 2026 17:50:29 GMT"
     },
     {
-     "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 15:03:39 GMT"
+     "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+     "link": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 21:10:49 GMT"
     },
     {
      "title": "Staff slept while patient killed at NHS mental health unit",
@@ -35,14 +35,14 @@
      "date": "Mon, 14 Sep 2026 15:19:26 GMT"
     },
     {
-     "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
-     "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 15:04:22 GMT"
+     "title": "Harry and Meghan to have security review and children change school",
+     "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 20:29:52 GMT"
     },
     {
-     "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-     "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 16:48:10 GMT"
+     "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 15:03:39 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 18:54:16 GMT"
+     "date": "Mon, 14 Sep 2026 22:10:10 GMT"
     },
     {
      "title": "Government set to nationalise troubled steel firm",
@@ -75,6 +75,11 @@
      "date": "Mon, 14 Sep 2026 08:13:56 GMT"
     },
     {
+     "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+     "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 22:01:39 GMT"
+    },
+    {
      "title": "'Culture shift' needed in how UK does business, PM urges",
      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 14 Sep 2026 14:22:55 GMT"
@@ -83,11 +88,6 @@
      "title": "MPs and Lords call for new law to address AI threat to human rights",
      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 14 Sep 2026 08:07:08 GMT"
-    },
-    {
-     "title": "Carney gambles on the world's biggest investors betting on Canada",
-     "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 23:03:06 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+     "date": "Mon, 14 Sep 2026 18:36:33 -0400"
+    },
+    {
+     "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+     "date": "Mon, 14 Sep 2026 18:05:06 -0400"
+    },
+    {
+     "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+     "date": "Mon, 14 Sep 2026 16:34:20 -0400"
+    },
+    {
      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
      "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
      "date": "Mon, 14 Sep 2026 14:45:21 -0400"
@@ -163,21 +178,6 @@
      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
      "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
      "date": "Mon, 14 Sep 2026 07:00:00 -0400"
-    },
-    {
-     "title": "The powerful millionaires hiding in plain sight",
-     "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-     "date": "Mon, 14 Sep 2026 06:30:00 -0400"
-    },
-    {
-     "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
-     "date": "Mon, 14 Sep 2026 06:09:08 -0400"
-    },
-    {
-     "title": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
-     "date": "Mon, 14 Sep 2026 05:44:44 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 18:46:25 +0000"
+     "title": "Landowners in Texas ask court to stop Trump border wall",
+     "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:44:03 +0000"
     },
     {
-     "title": "NATO pledges increased Ukraine support as Russia strikes near border",
-     "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 18:40:23 +0000"
+     "title": "Israeli attack targets Gaza displacement camp",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:37:04 +0000"
     },
     {
-     "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 18:02:44 +0000"
+     "title": "US repeals rules limiting greenhouse gas emissions by power plants",
+     "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:36:09 +0000"
     },
     {
-     "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
-     "link": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 17:52:33 +0000"
+     "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:29:50 +0000"
     },
     {
-     "title": "Carney pitches Canada to global investors amid US trade war",
-     "link": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 17:42:33 +0000"
+     "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:23:53 +0000"
     },
     {
-     "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
-     "link": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 17:30:36 +0000"
+     "title": "Why talks in Oman between Iran and Gulf Arab states were postponed",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:20:00 +0000"
     },
     {
-     "title": "Syria fuel price hikes test public patience with economic recovery",
-     "link": "https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 17:25:13 +0000"
+     "title": "US blocks Iran nuclear chief from attending key Vienna conference",
+     "link": "https://www.aljazeera.com/news/2026/9/14/us-blocks-iran-nuclear-chief-from-attending-key-vienna-conference?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:19:41 +0000"
     },
     {
-     "title": "Private schools become a costly choice for struggling parents in Gaza",
-     "link": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 17:22:48 +0000"
+     "title": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+     "link": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 21:12:07 +0000"
     }
    ]
   },
