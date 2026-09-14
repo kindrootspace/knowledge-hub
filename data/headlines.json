@@ -1,54 +1,64 @@
 {
- "updated": "2026-09-14 14:03 UTC",
+ "updated": "2026-09-14 19:23 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham cancels engagements after death of his father",
-     "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 13:56:37 GMT"
+     "title": "Man admits drugging and raping wife for 20 years",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 16:54:26 GMT"
     },
     {
-     "title": "What you need to know about the latest donations to Reform UK",
-     "link": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 11:07:25 GMT"
+     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+     "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 18:54:16 GMT"
+    },
+    {
+     "title": "Burnham cancels engagements after death of his father",
+     "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 18:53:38 GMT"
+    },
+    {
+     "title": "Farage says £72m donations are compliant 'with the law today'",
+     "link": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 17:50:29 GMT"
     },
     {
      "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 13:54:11 GMT"
+     "date": "Mon, 14 Sep 2026 15:03:39 GMT"
     },
     {
-     "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
-     "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 13:29:44 GMT"
+     "title": "Staff slept while patient killed at NHS mental health unit",
+     "link": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 15:19:26 GMT"
     },
     {
-     "title": "Amy Hunt tells Sydney Sweeney 'this is what women in sport look like' after controversial ad",
-     "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 13:17:47 GMT"
+     "title": "Oasis confirm second leg of reunion tour after weeks of social media teasers",
+     "link": "https://www.bbc.co.uk/news/articles/cq89455dlw2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 15:04:22 GMT"
     },
     {
-     "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
-     "link": "https://www.bbc.co.uk/news/articles/cqpved1p2j4zo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 12:28:44 GMT"
-    },
-    {
-     "title": "Steep rise in young UK nationals detained for smuggling drugs from Asia",
-     "link": "https://www.bbc.co.uk/news/articles/c750vqkgeero?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 12:14:10 GMT"
-    },
-    {
-     "title": "No collusion in sectarian killing but police inquiry flawed, inquiry finds",
-     "link": "https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 13:59:56 GMT"
+     "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+     "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 16:48:10 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+     "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 18:54:16 GMT"
+    },
+    {
+     "title": "Government set to nationalise troubled steel firm",
+     "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 14 Sep 2026 19:06:46 GMT"
+    },
     {
      "title": "Petrol and diesel prices hit highest since 2022",
      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
@@ -67,7 +77,7 @@
     {
      "title": "'Culture shift' needed in how UK does business, PM urges",
      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 07:39:43 GMT"
+     "date": "Mon, 14 Sep 2026 14:22:55 GMT"
     },
     {
      "title": "MPs and Lords call for new law to address AI threat to human rights",
@@ -78,16 +88,6 @@
      "title": "Carney gambles on the world's biggest investors betting on Canada",
      "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 13 Sep 2026 23:03:06 GMT"
-    },
-    {
-     "title": "Amazon pauses work with cargo firm after fatal crash",
-     "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 02:40:06 GMT"
-    },
-    {
-     "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 18:49:37 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 11 Sep 2026 04:00:04 GMT"
     },
     {
+     "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
+     "link": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
+     "date": "Mon, 14 Sep 2026 17:04:05 GMT"
+    },
+    {
      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
      "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
      "date": "Thu, 10 Sep 2026 20:35:06 GMT"
@@ -128,17 +133,27 @@
      "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
      "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
      "date": "Thu, 10 Sep 2026 01:02:42 GMT"
-    },
-    {
-     "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
-     "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
-     "date": "Wed, 09 Sep 2026 22:19:25 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+     "date": "Mon, 14 Sep 2026 14:45:21 -0400"
+    },
+    {
+     "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+     "date": "Mon, 14 Sep 2026 14:25:04 -0400"
+    },
+    {
+     "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
+     "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+     "date": "Mon, 14 Sep 2026 10:03:14 -0400"
+    },
     {
      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
      "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
@@ -163,21 +178,6 @@
      "title": "New Carlo Rovelli book challenges science's understanding of reality and the universe",
      "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
      "date": "Mon, 14 Sep 2026 05:44:44 -0400"
-    },
-    {
-     "title": "NPR looked for ChatGPT's new crisis feature. It's hard to find",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-     "date": "Mon, 14 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-     "date": "Mon, 14 Sep 2026 02:20:28 -0400"
-    },
-    {
-     "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-     "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-     "date": "Mon, 14 Sep 2026 01:46:26 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
-     "link": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 13:20:50 +0000"
+     "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 18:46:25 +0000"
     },
     {
-     "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
-     "link": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 13:15:14 +0000"
+     "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+     "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 18:40:23 +0000"
     },
     {
-     "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
-     "link": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 12:58:12 +0000"
+     "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 18:02:44 +0000"
     },
     {
-     "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
-     "link": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 12:09:02 +0000"
+     "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
+     "link": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 17:52:33 +0000"
     },
     {
-     "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
-     "link": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 11:50:44 +0000"
+     "title": "Carney pitches Canada to global investors amid US trade war",
+     "link": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 17:42:33 +0000"
     },
     {
-     "title": "Tom Aspinall vacates UFC heavyweight title due to eye injury",
-     "link": "https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 11:11:14 +0000"
+     "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
+     "link": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 17:30:36 +0000"
     },
     {
-     "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
-     "link": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 11:06:17 +0000"
+     "title": "Syria fuel price hikes test public patience with economic recovery",
+     "link": "https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 17:25:13 +0000"
     },
     {
-     "title": "South Korea’s new manager Robert Moreno dismisses ‘AI coaching’ allegations",
-     "link": "https://www.aljazeera.com/sports/2026/9/14/south-koreas-new-manager-robert-moreno-dismisses-ai-coaching-allegations?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 11:03:28 +0000"
+     "title": "Private schools become a costly choice for struggling parents in Gaza",
+     "link": "https://www.aljazeera.com/features/2026/9/14/private-schools-become-a-costly-choice-for-struggling-in-gaza?traffic_source=rss",
+     "date": "Mon, 14 Sep 2026 17:22:48 +0000"
     }
    ]
   },
@@ -230,13 +230,33 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Encoded and non-genetic protein variants expand human functional proteome",
+     "link": "https://www.nature.com/articles/s41586-026-11124-z",
+     "date": ""
+    },
+    {
      "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
      "link": "https://www.nature.com/articles/d41586-026-02908-4",
      "date": ""
     },
     {
+     "title": "How is climate change affecting conifers and their ability to sequester carbon?",
+     "link": "https://www.nature.com/articles/d41586-026-02847-0",
+     "date": ""
+    },
+    {
      "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
      "link": "https://www.nature.com/articles/d41586-026-02852-3",
+     "date": ""
+    },
+    {
+     "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
+     "link": "https://www.nature.com/articles/d41586-026-02829-2",
+     "date": ""
+    },
+    {
+     "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
+     "link": "https://www.nature.com/articles/d41586-026-02895-6",
      "date": ""
     },
     {
@@ -247,26 +267,6 @@
     {
      "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
      "link": "https://www.nature.com/articles/d41586-026-02851-4",
-     "date": ""
-    },
-    {
-     "title": "Drug firms’ secret data supercharge AI protein models",
-     "link": "https://www.nature.com/articles/d41586-026-02882-x",
-     "date": ""
-    },
-    {
-     "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
-     "link": "https://www.nature.com/articles/d41586-026-02826-5",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-     "link": "https://www.nature.com/articles/d41586-026-02893-8",
-     "date": ""
-    },
-    {
-     "title": "NSF moves to overhaul funding approach in line with White House priorities",
-     "link": "https://www.nature.com/articles/d41586-026-02892-9",
      "date": ""
     }
    ]
