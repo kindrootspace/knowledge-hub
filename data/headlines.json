@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15 18:12 UTC",
+ "updated": "2026-09-15 21:22 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,22 +7,17 @@
     {
      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
      "link": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 16:53:53 GMT"
+     "date": "Tue, 15 Sep 2026 19:47:10 GMT"
     },
     {
-     "title": "Letby failings go beyond one hospital - the whole system has been found lacking",
-     "link": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 16:51:43 GMT"
+     "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 21:07:13 GMT"
     },
     {
      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
      "link": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 16:45:49 GMT"
-    },
-    {
-     "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 16:01:54 GMT"
+     "date": "Tue, 15 Sep 2026 20:41:35 GMT"
     },
     {
      "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
@@ -35,6 +30,11 @@
      "date": "Tue, 15 Sep 2026 17:35:02 GMT"
     },
     {
+     "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+     "link": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 20:23:08 GMT"
+    },
+    {
      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 15 Sep 2026 11:05:42 GMT"
@@ -42,13 +42,18 @@
     {
      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 15:31:34 GMT"
+     "date": "Tue, 15 Sep 2026 20:34:12 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "US borrowing costs hit highest level since 2007",
+     "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 19:35:10 GMT"
+    },
     {
      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
@@ -83,11 +88,6 @@
      "title": "Government set to nationalise troubled steel firm",
      "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 14 Sep 2026 19:06:46 GMT"
-    },
-    {
-     "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-     "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 05:13:08 GMT"
     }
    ]
   },
@@ -120,25 +120,35 @@
      "date": "Sat, 12 Sep 2026 15:09:05 GMT"
     },
     {
+     "title": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+     "link": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+     "date": "Tue, 15 Sep 2026 19:14:00 GMT"
+    },
+    {
+     "title": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+     "link": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+     "date": "Tue, 15 Sep 2026 19:08:37 GMT"
+    },
+    {
      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
      "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
      "date": "Tue, 15 Sep 2026 02:43:18 GMT"
-    },
-    {
-     "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
-     "link": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
-     "date": "Mon, 14 Sep 2026 17:04:05 GMT"
-    },
-    {
-     "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-     "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-     "date": "Thu, 10 Sep 2026 20:35:06 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "State of U.S. democracy reaches new low, report finds",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
+     "date": "Tue, 15 Sep 2026 14:57:42 -0400"
+    },
+    {
+     "title": "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
+     "date": "Tue, 15 Sep 2026 14:29:49 -0400"
+    },
     {
      "title": "Judge blocks plan to return Trump's name to the Kennedy Center",
      "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
@@ -168,16 +178,6 @@
      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
      "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
      "date": "Tue, 15 Sep 2026 07:35:49 -0400"
-    },
-    {
-     "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-     "date": "Tue, 15 Sep 2026 06:26:08 -0400"
-    },
-    {
-     "title": "NATO jets shoot down a drone in Lithuanian airspace",
-     "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-     "date": "Tue, 15 Sep 2026 05:06:30 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
-     "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 17:39:58 +0000"
+     "title": "Romanian shepards and farmers clash with police",
+     "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:40:05 +0000"
     },
     {
-     "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
-     "link": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 16:50:46 +0000"
+     "title": "What makes these midterms so pivotal?",
+     "link": "https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:19:26 +0000"
     },
     {
-     "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-     "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 16:15:13 +0000"
+     "title": "Why do some African leaders gamble with term limits?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/15/why-do-some-african-leaders-gamble-with-term-limits-2?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:17:52 +0000"
     },
     {
-     "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
-     "link": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 16:14:10 +0000"
+     "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+     "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:16:35 +0000"
     },
     {
-     "title": "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
-     "link": "https://www.aljazeera.com/news/2026/9/15/fbis-kash-patel-defends-hiring-policy-change-on-bestiality-prostitution?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 16:13:26 +0000"
+     "title": "Kennedy Center closes amid financial crisis and Trump name dispute",
+     "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:14:22 +0000"
     },
     {
-     "title": "Lucy Letby inquiry blames UK hospital for failure to protect babies",
-     "link": "https://www.aljazeera.com/news/2026/9/15/lucy-letby-inquiry-blames-hospital-for-complete-failure-to-protect-babies?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 15:58:49 +0000"
+     "title": "Blanche says admin will comply with mail ballot ruling, defends Trump",
+     "link": "https://www.aljazeera.com/news/2026/9/15/blanche-says-admin-will-comply-with-mail-ballot-ruling-defends-trump?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:13:40 +0000"
     },
     {
-     "title": "US democratic decline threatens global rule of law, report warns",
-     "link": "https://www.aljazeera.com/news/2026/9/15/us-democratic-decline-threatens-global-rule-of-law-report-warns?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 15:52:35 +0000"
+     "title": "US speaker rejects AI pause, warns of losing edge to China",
+     "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 20:13:09 +0000"
     },
     {
-     "title": "Will Russia and Ukraine halt attacks on energy infrastructure?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/will-russia-and-ukraine-halt-attacks-on-energy-infrastructure?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 15:50:51 +0000"
+     "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+     "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 19:59:00 +0000"
     }
    ]
   },
