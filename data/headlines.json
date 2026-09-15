@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-15 07:45 UTC",
+ "updated": "2026-09-15 13:33 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "State pension likely to rise by £488 a year in April",
+     "title": "Key findings from Lucy Letby Thirlwall Inquiry",
+     "link": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 12:37:11 GMT"
+    },
+    {
+     "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 07:33:15 GMT"
+     "date": "Tue, 15 Sep 2026 11:05:42 GMT"
     },
     {
-     "title": "Lucy Letby public inquiry findings set to be published",
-     "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 01:54:35 GMT"
+     "title": "Denmark says Russian warship fired flares at military helicopter",
+     "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 11:40:00 GMT"
     },
     {
-     "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-     "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 03:47:27 GMT"
+     "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
+     "link": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 12:06:19 GMT"
     },
     {
-     "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-     "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 03:50:06 GMT"
+     "title": "Political donors could face tougher residency rules",
+     "link": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 13:25:48 GMT"
     },
     {
-     "title": "Superstars and broken records: 2026 Emmy highlights",
-     "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 05:14:24 GMT"
+     "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+     "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 11:49:33 GMT"
     },
     {
-     "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-     "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 23:51:03 GMT"
+     "title": "Former England footballer Raheem Sterling admits dangerous driving after M3 crash",
+     "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 13:22:42 GMT"
     },
     {
-     "title": "US confirms for first time it has deployed space weapons",
-     "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 01:52:02 GMT"
-    },
-    {
-     "title": "Harry and Meghan to have security review and children change school",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 20:29:52 GMT"
+     "title": "Two dead after car hits group of pedestrians",
+     "link": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 11:38:58 GMT"
     }
    ]
   },
@@ -50,14 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "State pension likely to rise by £488 a year in April",
+     "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 07:33:15 GMT"
+     "date": "Tue, 15 Sep 2026 11:05:42 GMT"
     },
     {
      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 03:47:27 GMT"
+     "date": "Tue, 15 Sep 2026 08:49:31 GMT"
     },
     {
      "title": "I got paid $5,000 to move to a place I'd never heard of",
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Ex-CIA chief issued subpoena in Trump 'grand conspiracy' investigation, lawyer says",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5969390/ex-cia-director-subpoenaed",
-     "date": "Tue, 15 Sep 2026 02:58:02 -0400"
+     "title": "Geopolitics and grain don't mix, say these Montana farmers",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+     "date": "Tue, 15 Sep 2026 08:33:19 -0400"
     },
     {
-     "title": "Emmys 2026: Here's the list of winners",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
-     "date": "Mon, 14 Sep 2026 19:55:49 -0400"
+     "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+     "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+     "date": "Tue, 15 Sep 2026 07:35:49 -0400"
     },
     {
-     "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-     "date": "Mon, 14 Sep 2026 19:38:40 -0400"
+     "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+     "date": "Tue, 15 Sep 2026 06:26:08 -0400"
     },
     {
-     "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
-     "date": "Mon, 14 Sep 2026 18:36:33 -0400"
+     "title": "NATO jets shoot down a drone in Lithuanian airspace",
+     "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+     "date": "Tue, 15 Sep 2026 05:06:30 -0400"
     },
     {
-     "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
-     "date": "Mon, 14 Sep 2026 18:05:06 -0400"
+     "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
+     "date": "Tue, 15 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Trump's EPA repeals pollution limits on fossil fuel power plants",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
-     "date": "Mon, 14 Sep 2026 16:34:28 -0400"
+     "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+     "date": "Tue, 15 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
-     "date": "Mon, 14 Sep 2026 16:34:20 -0400"
+     "title": "This bill could reshape crypto in America -- and it's sparking a major battle",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+     "date": "Tue, 15 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
-     "date": "Mon, 14 Sep 2026 14:45:21 -0400"
+     "title": "Get ready for yet another cost when buying a home: Junk fees",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+     "date": "Tue, 15 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-     "link": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 06:53:50 +0000"
+     "title": "Houthi-run TV releases video of abandoned Mocha airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 13:11:13 +0000"
     },
     {
-     "title": "BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes",
-     "link": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 06:15:43 +0000"
+     "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
+     "link": "https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 13:10:26 +0000"
     },
     {
-     "title": "Leeds United defeat Newcastle 4-1 to go third in Premier League",
-     "link": "https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 05:55:45 +0000"
+     "title": "Coalition talks likely as no party dominates Philippines’ Bangsamoro region",
+     "link": "https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 13:07:41 +0000"
     },
     {
-     "title": "Internet shutdown crosses 100 days in Pakistan-administered Kashmir",
-     "link": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 05:47:52 +0000"
+     "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+     "link": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 12:43:14 +0000"
     },
     {
-     "title": "Spectacular turtle nesting event in southern Mexico",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_spectacular-turtle-nesting-event-in-southern-mexico-150926?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 05:20:17 +0000"
+     "title": "India vs Afghanistan live: T20 cricket match",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 12:33:40 +0000"
     },
     {
-     "title": "Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate",
-     "link": "https://www.aljazeera.com/news/2026/9/15/emmy-winners-2026-widows-bay-and-the-pitt-dominate?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 04:49:34 +0000"
+     "title": "Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/athletes-share-what-women-in-sport-look-like-to-rebut-sydney-sweeney-ad?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 11:55:49 +0000"
     },
     {
-     "title": "Millions line up for ‘sacred henna’ at Indian temple",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 04:42:40 +0000"
+     "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+     "link": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 11:54:37 +0000"
     },
     {
-     "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 03:28:42 +0000"
+     "title": "US repeals pollution limits for fossil fuel power plants",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/us-repeals-pollution-limits-for-fossil-fuel-power-plants?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 11:53:19 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
-     "title": "Encoded and non-genetic protein variants expand human functional proteome",
-     "link": "https://www.nature.com/articles/s41586-026-11124-z",
+     "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+     "link": "https://www.nature.com/articles/s41586-026-11137-8",
      "date": ""
     },
     {
-     "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-02908-4",
+     "title": "A wake-up call: diversify global research funding",
+     "link": "https://www.nature.com/articles/d41586-026-02904-8",
      "date": ""
     },
     {
-     "title": "How is climate change affecting conifers and their ability to sequester carbon?",
-     "link": "https://www.nature.com/articles/d41586-026-02847-0",
+     "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
+     "link": "https://www.nature.com/articles/d41586-026-02907-5",
      "date": ""
     },
     {
-     "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
-     "link": "https://www.nature.com/articles/d41586-026-02852-3",
+     "title": "The geometric genius of René Descartes",
+     "link": "https://www.nature.com/articles/d41586-026-02723-x",
      "date": ""
     },
     {
-     "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
-     "link": "https://www.nature.com/articles/d41586-026-02829-2",
+     "title": "Make AI traceable before it shapes global climate assessments",
+     "link": "https://www.nature.com/articles/d41586-026-02905-7",
      "date": ""
     },
     {
-     "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
-     "link": "https://www.nature.com/articles/d41586-026-02895-6",
+     "title": "Why the NIH must resist the metrics trap",
+     "link": "https://www.nature.com/articles/d41586-026-02906-6",
      "date": ""
     },
     {
-     "title": "UK universities are on the brink — what is their greatest source of stress?",
-     "link": "https://www.nature.com/articles/d41586-026-02608-z",
+     "title": "CRISPR crops are coming to Europe — why bolder would be better",
+     "link": "https://www.nature.com/articles/d41586-026-02848-z",
      "date": ""
     },
     {
-     "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
-     "link": "https://www.nature.com/articles/d41586-026-02851-4",
+     "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
+     "link": "https://www.nature.com/articles/d41586-026-02850-5",
      "date": ""
     }
    ]
