@@ -1,18 +1,33 @@
 {
- "updated": "2026-09-15 01:28 UTC",
+ "updated": "2026-09-15 07:45 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Man admits drugging and raping wife over 20 years",
-     "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 16:54:26 GMT"
+     "title": "State pension likely to rise by £488 a year in April",
+     "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 07:33:15 GMT"
     },
     {
-     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 00:32:21 GMT"
+     "title": "Lucy Letby public inquiry findings set to be published",
+     "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 01:54:35 GMT"
+    },
+    {
+     "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+     "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 03:47:27 GMT"
+    },
+    {
+     "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+     "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 03:50:06 GMT"
+    },
+    {
+     "title": "Superstars and broken records: 2026 Emmy highlights",
+     "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 05:14:24 GMT"
     },
     {
      "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
@@ -20,29 +35,14 @@
      "date": "Mon, 14 Sep 2026 23:51:03 GMT"
     },
     {
-     "title": "Nato jets down drone that entered Lithuanian airspace",
-     "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 00:10:48 GMT"
-    },
-    {
-     "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
-     "link": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 00:04:34 GMT"
-    },
-    {
-     "title": "Burnham cancels engagements after death of his father",
-     "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 18:53:38 GMT"
+     "title": "US confirms for first time it has deployed space weapons",
+     "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 01:52:02 GMT"
     },
     {
      "title": "Harry and Meghan to have security review and children change school",
      "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 14 Sep 2026 20:29:52 GMT"
-    },
-    {
-     "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-     "link": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 21:10:49 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 00:32:21 GMT"
+     "title": "State pension likely to rise by £488 a year in April",
+     "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 07:33:15 GMT"
+    },
+    {
+     "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+     "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 03:47:27 GMT"
     },
     {
      "title": "I got paid $5,000 to move to a place I'd never heard of",
@@ -60,9 +65,19 @@
      "date": "Mon, 14 Sep 2026 23:08:28 GMT"
     },
     {
+     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 00:32:21 GMT"
+    },
+    {
      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 14 Sep 2026 23:07:56 GMT"
+    },
+    {
+     "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+     "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
      "title": "Government set to nationalise troubled steel firm",
@@ -70,30 +85,25 @@
      "date": "Mon, 14 Sep 2026 19:06:46 GMT"
     },
     {
-     "title": "Petrol and diesel prices hit highest since 2022",
-     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 11:42:52 GMT"
-    },
-    {
      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 22:01:39 GMT"
-    },
-    {
-     "title": "Rent rises set to speed up in gloomy forecast for tenants",
-     "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 13 Sep 2026 23:05:45 GMT"
-    },
-    {
-     "title": "'Culture shift' needed in how UK does business, PM urges",
-     "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 14 Sep 2026 14:22:55 GMT"
+     "date": "Tue, 15 Sep 2026 05:13:08 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+     "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
+     "date": "Tue, 15 Sep 2026 04:00:27 GMT"
+    },
+    {
+     "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+     "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+     "date": "Tue, 15 Sep 2026 04:00:26 GMT"
+    },
     {
      "title": "The London hospital funded by donors who invested in the slave trade",
      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
@@ -110,14 +120,9 @@
      "date": "Sat, 12 Sep 2026 15:09:05 GMT"
     },
     {
-     "title": "Six Nigerians extradited to US over $6m online romance scam",
-     "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-     "date": "Sat, 12 Sep 2026 14:05:45 GMT"
-    },
-    {
-     "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-     "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-     "date": "Fri, 11 Sep 2026 04:00:04 GMT"
+     "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
+     "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+     "date": "Tue, 15 Sep 2026 02:43:18 GMT"
     },
     {
      "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
@@ -128,11 +133,6 @@
      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
      "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
      "date": "Thu, 10 Sep 2026 20:35:06 GMT"
-    },
-    {
-     "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
-     "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
-     "date": "Thu, 10 Sep 2026 01:02:42 GMT"
     }
    ]
   },
@@ -140,7 +140,12 @@
    "name": "NPR",
    "items": [
     {
-     "title": "See who's won an Emmy Award so far",
+     "title": "Ex-CIA chief issued subpoena in Trump 'grand conspiracy' investigation, lawyer says",
+     "link": "https://www.npr.org/2026/09/15/nx-s1-5969390/ex-cia-director-subpoenaed",
+     "date": "Tue, 15 Sep 2026 02:58:02 -0400"
+    },
+    {
+     "title": "Emmys 2026: Here's the list of winners",
      "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
      "date": "Mon, 14 Sep 2026 19:55:49 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
      "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
      "date": "Mon, 14 Sep 2026 14:45:21 -0400"
-    },
-    {
-     "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
-     "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
-     "date": "Mon, 14 Sep 2026 14:25:04 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Russia resupplies military bases in Syria for first time under new deal",
-     "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 00:43:47 +0000"
+     "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+     "link": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 06:53:50 +0000"
     },
     {
-     "title": "Geneva talks put Rwanda-DRC peace deal to the test",
-     "link": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 00:26:06 +0000"
+     "title": "BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes",
+     "link": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 06:15:43 +0000"
     },
     {
-     "title": "Sweden election is too close to call as far right loses ground",
-     "link": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 00:06:34 +0000"
+     "title": "Leeds United defeat Newcastle 4-1 to go third in Premier League",
+     "link": "https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 05:55:45 +0000"
     },
     {
-     "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
-     "date": "Tue, 15 Sep 2026 00:00:00 +0000"
+     "title": "Internet shutdown crosses 100 days in Pakistan-administered Kashmir",
+     "link": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 05:47:52 +0000"
     },
     {
-     "title": "Landowners in Texas ask court to stop Trump border wall",
-     "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 21:44:03 +0000"
+     "title": "Spectacular turtle nesting event in southern Mexico",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_spectacular-turtle-nesting-event-in-southern-mexico-150926?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 05:20:17 +0000"
     },
     {
-     "title": "Israeli attack targets Gaza displacement camp",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 21:37:04 +0000"
+     "title": "Emmy winners 2026: ‘Widow’s Bay’ and ‘The Pitt’ dominate",
+     "link": "https://www.aljazeera.com/news/2026/9/15/emmy-winners-2026-widows-bay-and-the-pitt-dominate?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 04:49:34 +0000"
     },
     {
-     "title": "US repeals rules limiting greenhouse gas emissions by power plants",
-     "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 21:36:09 +0000"
+     "title": "Millions line up for ‘sacred henna’ at Indian temple",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 04:42:40 +0000"
     },
     {
-     "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
-     "date": "Mon, 14 Sep 2026 21:29:50 +0000"
+     "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
+     "date": "Tue, 15 Sep 2026 03:28:42 +0000"
     }
    ]
   },
