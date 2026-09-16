@@ -1,9 +1,19 @@
 {
- "updated": "2026-09-16 16:56 UTC",
+ "updated": "2026-09-16 20:08 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Body found in search for missing three-year-old Noah Woods",
+     "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 18:50:09 GMT"
+    },
+    {
+     "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+     "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 17:47:17 GMT"
+    },
     {
      "title": "EU chief backs plan for Canada to become 'associate member'",
      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
@@ -17,32 +27,22 @@
     {
      "title": "Photos show widespread damage at US sites from Iranian attacks",
      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 16:33:56 GMT"
+     "date": "Wed, 16 Sep 2026 18:36:16 GMT"
     },
     {
-     "title": "How escalating Saudi oil crisis could drive up prices everywhere",
-     "link": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 16:06:50 GMT"
+     "title": "Watch: BBC crew catch thieves in act while filming shoplifting report",
+     "link": "https://www.bbc.co.uk/news/videos/cmq5xyq78gp1o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 06:13:05 GMT"
     },
     {
      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
      "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 11:50:12 GMT"
+     "date": "Wed, 16 Sep 2026 19:49:20 GMT"
     },
     {
      "title": "Schools in England get extra £500m in bid to avoid teachers' pay strike",
      "link": "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 16:29:27 GMT"
-    },
-    {
-     "title": "Earl Spencer's unreleased book on sister Diana stolen in the Netherlands",
-     "link": "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 13:22:16 GMT"
-    },
-    {
-     "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-     "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 14:16:14 GMT"
+     "date": "Wed, 16 Sep 2026 18:35:43 GMT"
     }
    ]
   },
@@ -70,14 +70,14 @@
      "date": "Wed, 16 Sep 2026 08:36:37 GMT"
     },
     {
-     "title": "UK in talks about joining global defence bank led by Canada",
-     "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:50:55 GMT"
-    },
-    {
      "title": "The extreme engineering of aircraft windows",
      "link": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 15 Sep 2026 23:19:38 GMT"
+    },
+    {
+     "title": "UK in talks about joining global defence bank led by Canada",
+     "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 23:50:55 GMT"
     },
     {
      "title": "Complaints to watchdog about water firms soar",
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Congress is under pressure to act on AI — here's what that could look like",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+     "date": "Wed, 16 Sep 2026 13:32:44 -0400"
+    },
+    {
+     "title": "DOJ charges Russian agents with plotting attacks, including in US",
+     "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+     "date": "Wed, 16 Sep 2026 13:19:49 -0400"
+    },
+    {
+     "title": "A tumultuous congressional primary season closes with record departures and defeats",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
+     "date": "Wed, 16 Sep 2026 13:05:41 -0400"
+    },
+    {
      "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
      "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
      "date": "Wed, 16 Sep 2026 12:14:19 -0400"
@@ -163,21 +178,6 @@
      "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
      "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
      "date": "Wed, 16 Sep 2026 07:19:46 -0400"
-    },
-    {
-     "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
-     "date": "Wed, 16 Sep 2026 06:48:22 -0400"
-    },
-    {
-     "title": "Senators question Trump's picks for top health positions, including surgeon general",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
-     "date": "Wed, 16 Sep 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
-     "link": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
-     "date": "Wed, 16 Sep 2026 05:57:03 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Malaysia offers to invite Myanmar leader in Rohingya repatriation push",
-     "link": "https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 16:39:11 +0000"
+     "title": "Al-Mughayyir: A village under siege",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 19:48:05 +0000"
     },
     {
-     "title": "Angry Dutch farmers blamed for railway sabotage: What happened?",
-     "link": "https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 16:35:28 +0000"
+     "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
+     "link": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 19:45:30 +0000"
     },
     {
-     "title": "Ebola fight in DRC ‘far from over,’ warns WHO chief",
-     "link": "https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 16:23:37 +0000"
+     "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+     "link": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 19:44:05 +0000"
     },
     {
-     "title": "Sweden expels Iran embassy employee, citing security concerns",
-     "link": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 15:53:38 +0000"
+     "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 19:14:28 +0000"
     },
     {
-     "title": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 15:23:51 +0000"
+     "title": "US Fed raises interest rates for first time in three years",
+     "link": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 18:03:51 +0000"
     },
     {
-     "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-     "link": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 15:16:07 +0000"
+     "title": "Geopolitical divides fueling UN Security Council inaction, Guterres warns",
+     "link": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 17:55:49 +0000"
     },
     {
-     "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-     "link": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 15:00:20 +0000"
+     "title": "UK trade unions back motion to boycott and sanction Israel",
+     "link": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 17:42:00 +0000"
     },
     {
-     "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-     "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 14:53:51 +0000"
+     "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
+     "link": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 17:38:09 +0000"
     }
    ]
   },
