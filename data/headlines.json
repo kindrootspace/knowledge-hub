@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-16 06:02 UTC",
+ "updated": "2026-09-16 11:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 00:59:20 GMT"
+     "title": "Petrol and diesel price rises push UK inflation higher",
+     "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 10:33:42 GMT"
     },
     {
-     "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+     "title": "EU chief backs plan for Canada to become 'associate member'",
+     "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 10:59:53 GMT"
+    },
+    {
+     "title": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 01:29:20 GMT"
+     "date": "Wed, 16 Sep 2026 09:36:54 GMT"
     },
     {
-     "title": "UK in talks about joining global defence bank led by Canada",
-     "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:50:55 GMT"
+     "title": "At least 20 killed and dozens missing after war-damaged Gaza building collapses",
+     "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 11:22:51 GMT"
     },
     {
-     "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
-     "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 05:14:19 GMT"
+     "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
+     "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 10:59:18 GMT"
     },
     {
-     "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-     "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 00:25:34 GMT"
+     "title": "Watch: Why is Donald Trump so opposed to regulating AI?",
+     "link": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 20:35:00 GMT"
     },
     {
-     "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
-     "link": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 22:04:38 GMT"
+     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 10:02:05 GMT"
     },
     {
-     "title": "Search continues for boy, 3, missing at playground",
-     "link": "https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 05:32:07 GMT"
-    },
-    {
-     "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 00:11:25 GMT"
+     "title": "Burnham thanks well-wishers following his father's death",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 11:21:21 GMT"
     }
    ]
   },
@@ -50,24 +50,29 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+     "title": "Petrol and diesel price rises push UK inflation higher",
+     "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 10:33:42 GMT"
+    },
+    {
+     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 00:59:20 GMT"
+     "date": "Wed, 16 Sep 2026 10:02:05 GMT"
     },
     {
-     "title": "Complaints to watchdog about water firms jump 84%",
+     "title": "We managed to get jobs after uni - here's how we're keeping them",
+     "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 08:36:37 GMT"
+    },
+    {
+     "title": "Complaints to watchdog about water firms soar",
      "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:14:08 GMT"
+     "date": "Wed, 16 Sep 2026 06:59:41 GMT"
     },
     {
-     "title": "How rising bond yields impact American consumers",
-     "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 03:58:32 GMT"
-    },
-    {
-     "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-     "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:39:55 GMT"
+     "title": "UK in talks about joining global defence bank led by Canada",
+     "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 23:50:55 GMT"
     },
     {
      "title": "The extreme engineering of aircraft windows",
@@ -75,25 +80,35 @@
      "date": "Tue, 15 Sep 2026 23:19:38 GMT"
     },
     {
-     "title": "Do you feel guilty when calling in sick at work? This might be why...",
-     "link": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:40:07 GMT"
+     "title": "A backlash over data centres is another threat to the AI juggernaut",
+     "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 15 Sep 2026 23:39:55 GMT"
     },
     {
-     "title": "We are all new job starters - here's how we got through the first few days",
-     "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:14:26 GMT"
-    },
-    {
-     "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-     "link": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 00:05:51 GMT"
+     "title": "How rising bond yields impact American consumers",
+     "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 03:58:32 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "US to bar some South Africans over claims of anti-white discrimination",
+     "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
+     "date": "Wed, 16 Sep 2026 10:56:45 GMT"
+    },
+    {
+     "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+     "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+     "date": "Wed, 16 Sep 2026 07:00:14 GMT"
+    },
+    {
+     "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+     "link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+     "date": "Wed, 16 Sep 2026 06:00:12 GMT"
+    },
     {
      "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
@@ -103,21 +118,6 @@
      "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
      "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
      "date": "Tue, 15 Sep 2026 04:00:27 GMT"
-    },
-    {
-     "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
-     "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
-     "date": "Tue, 15 Sep 2026 04:00:26 GMT"
-    },
-    {
-     "title": "The London hospital funded by donors who invested in the slave trade",
-     "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-     "date": "Mon, 14 Sep 2026 13:00:58 GMT"
-    },
-    {
-     "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-     "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-     "date": "Mon, 14 Sep 2026 12:38:51 GMT"
     },
     {
      "title": "People protecting nature and land set up self-defence units amid threat of murder",
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "NBC news helicopter crashes and kills at least 3 in LA neighborhood",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
-     "date": "Wed, 16 Sep 2026 00:06:00 -0400"
+     "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
+     "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
+     "date": "Wed, 16 Sep 2026 07:19:46 -0400"
     },
     {
-     "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
-     "date": "Tue, 15 Sep 2026 23:03:47 -0400"
+     "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
+     "date": "Wed, 16 Sep 2026 06:48:22 -0400"
     },
     {
-     "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
-     "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
-     "date": "Tue, 15 Sep 2026 20:55:41 -0400"
+     "title": "Senators question Trump's picks for top health positions, including surgeon general",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
+     "date": "Wed, 16 Sep 2026 06:00:00 -0400"
     },
     {
-     "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
-     "date": "Tue, 15 Sep 2026 18:26:14 -0400"
+     "title": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
+     "link": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+     "date": "Wed, 16 Sep 2026 05:57:03 -0400"
     },
     {
-     "title": "State of U.S. democracy reaches new low, report finds",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
-     "date": "Tue, 15 Sep 2026 14:57:42 -0400"
+     "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+     "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+     "date": "Wed, 16 Sep 2026 05:04:27 -0400"
     },
     {
-     "title": "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
-     "date": "Tue, 15 Sep 2026 14:29:49 -0400"
+     "title": "As campaign season gears up, AI-generated ads are everywhere",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
+     "date": "Wed, 16 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
-     "date": "Tue, 15 Sep 2026 13:49:07 -0400"
+     "title": "A Kansas girl ran off to join the circus and changed the tattoo world",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5955615/a-kansas-girl-ran-off-to-join-the-circus-and-changed-the-tattoo-world",
+     "date": "Wed, 16 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Prosecutors won't seek the death penalty for Nick Reiner",
-     "link": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
-     "date": "Tue, 15 Sep 2026 13:36:49 -0400"
+     "title": "The 500 colleges where former students aren't repaying their loans, and why",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
+     "date": "Wed, 16 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,65 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US House votes to end Iran war, 7 Republicans join in favour",
-     "link": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 05:36:53 +0000"
+     "title": "Moment Kash Patel’s senate hearing takes bizarre turn",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 11:12:04 +0000"
     },
     {
-     "title": "Seoul court orders North Korea to pay $32.5m for blowing up office",
-     "link": "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 05:31:34 +0000"
+     "title": "India summons Pakistani diplomat after incident in Arabian Sea",
+     "link": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 10:46:34 +0000"
     },
     {
-     "title": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
-     "link": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 05:24:50 +0000"
+     "title": "Israeli double-tap strike kills 15-year-old and paramedic in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/09-16-sv-gaza-double-tap-strike?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 10:21:49 +0000"
     },
     {
-     "title": "Republican forces Congress to hold impeachment vote for Pete Hegseth",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/republican-forces-congress-to-hold-impeachment-vote-for-pete-hegseth?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 05:21:18 +0000"
+     "title": "Real Madrid stars appear to hide Ceuta solidarity message",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/real-madrid-stars-appear-to-hide-ceuta-solidarity-message?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 10:11:54 +0000"
     },
     {
-     "title": "At least 10 dead, dozens missing in Gaza building collapse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 05:06:52 +0000"
+     "title": "Former Kosovo President Hashim Thaci sentenced to 25 years for war crimes",
+     "link": "https://www.aljazeera.com/news/2026/9/16/former-kosovo-president-hashim-thaci-convicted-of-war-crimes?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 09:46:24 +0000"
     },
     {
-     "title": "Gaza residential building collapses, six families reportedly trapped",
-     "link": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 04:30:52 +0000"
+     "title": "Sri Lankan star Rumesh Pathirage’s javelin broken ahead of Asian Games",
+     "link": "https://www.aljazeera.com/sports/2026/9/16/sri-lankan-star-rumesh-pathirages-javelin-broken-ahead-of-asian-games?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 09:44:07 +0000"
     },
     {
-     "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
-     "link": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 03:39:50 +0000"
+     "title": "At least five killed in Russian drone strike near Ukraine front line",
+     "link": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 09:32:52 +0000"
     },
     {
-     "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
-     "link": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 03:38:57 +0000"
+     "title": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 09:19:50 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+     "link": "https://www.nature.com/articles/d41586-026-02914-6",
+     "date": ""
+    },
+    {
+     "title": "AI companies must work with the research community to protect attribution",
+     "link": "https://www.nature.com/articles/d41586-026-02886-7",
+     "date": ""
+    },
+    {
+     "title": "These bizarre, much-coveted microbes are revealing the origins of complex life",
+     "link": "https://www.nature.com/articles/d41586-026-02849-y",
+     "date": ""
+    },
     {
      "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
      "link": "https://www.nature.com/articles/s41586-026-11139-6",
@@ -252,21 +267,6 @@
     {
      "title": "The geometric genius of René Descartes",
      "link": "https://www.nature.com/articles/d41586-026-02723-x",
-     "date": ""
-    },
-    {
-     "title": "Make AI traceable before it shapes global climate assessments",
-     "link": "https://www.nature.com/articles/d41586-026-02905-7",
-     "date": ""
-    },
-    {
-     "title": "Why the NIH must resist the metrics trap",
-     "link": "https://www.nature.com/articles/d41586-026-02906-6",
-     "date": ""
-    },
-    {
-     "title": "Global inequality panel is a chance for research to change lives",
-     "link": "https://www.nature.com/articles/d41586-026-02885-8",
      "date": ""
     }
    ]
