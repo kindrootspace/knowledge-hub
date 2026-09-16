@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16 20:08 UTC",
+ "updated": "2026-09-16 22:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Wed, 16 Sep 2026 18:50:09 GMT"
     },
     {
-     "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+     "title": "US interest rates raised for first time in three years",
+     "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 22:16:51 GMT"
+    },
+    {
+     "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
      "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 17:47:17 GMT"
+     "date": "Wed, 16 Sep 2026 20:46:30 GMT"
     },
     {
      "title": "EU chief backs plan for Canada to become 'associate member'",
@@ -38,17 +43,17 @@
      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
      "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 16 Sep 2026 19:49:20 GMT"
-    },
-    {
-     "title": "Schools in England get extra £500m in bid to avoid teachers' pay strike",
-     "link": "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 18:35:43 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "US interest rates raised for first time in three years",
+     "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 22:16:51 GMT"
+    },
     {
      "title": "Petrol and diesel price rises push UK inflation higher",
      "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
@@ -83,11 +88,6 @@
      "title": "Complaints to watchdog about water firms soar",
      "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 16 Sep 2026 06:59:41 GMT"
-    },
-    {
-     "title": "Burnham rejects 'tax and spend socialist' comments",
-     "link": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 14:21:37 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
+     "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+     "date": "Wed, 16 Sep 2026 18:30:46 -0400"
+    },
+    {
+     "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
+     "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
+     "date": "Wed, 16 Sep 2026 17:20:59 -0400"
+    },
+    {
+     "title": "House holds billionaire Leon Black in contempt of Congress",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
+     "date": "Wed, 16 Sep 2026 17:12:27 -0400"
+    },
+    {
+     "title": "Trump administration plans ideological warning signs for Smithsonian",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+     "date": "Wed, 16 Sep 2026 16:55:54 -0400"
+    },
+    {
+     "title": "The 'burnerverse' exploiting young women in college",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
+     "date": "Wed, 16 Sep 2026 16:50:17 -0400"
+    },
+    {
+     "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+     "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+     "date": "Wed, 16 Sep 2026 16:08:27 -0400"
+    },
+    {
      "title": "Congress is under pressure to act on AI — here's what that could look like",
      "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
      "date": "Wed, 16 Sep 2026 13:32:44 -0400"
     },
     {
-     "title": "DOJ charges Russian agents with plotting attacks, including in US",
+     "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
      "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
      "date": "Wed, 16 Sep 2026 13:19:49 -0400"
-    },
-    {
-     "title": "A tumultuous congressional primary season closes with record departures and defeats",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
-     "date": "Wed, 16 Sep 2026 13:05:41 -0400"
-    },
-    {
-     "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-     "date": "Wed, 16 Sep 2026 12:14:19 -0400"
-    },
-    {
-     "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-     "date": "Wed, 16 Sep 2026 11:00:16 -0400"
-    },
-    {
-     "title": "How are rising prices affecting you? NPR wants to know",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-     "date": "Wed, 16 Sep 2026 09:40:12 -0400"
-    },
-    {
-     "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-     "date": "Wed, 16 Sep 2026 09:33:53 -0400"
-    },
-    {
-     "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-     "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
-     "date": "Wed, 16 Sep 2026 07:19:46 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Al-Mughayyir: A village under siege",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 19:48:05 +0000"
+     "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
+     "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 22:30:34 +0000"
     },
     {
-     "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
-     "link": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 19:45:30 +0000"
+     "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+     "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 22:18:49 +0000"
     },
     {
-     "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
-     "link": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 19:44:05 +0000"
+     "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+     "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 21:41:36 +0000"
     },
     {
-     "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 19:14:28 +0000"
+     "title": "Rescue workers search for survivors after Gaza building collapse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 21:15:42 +0000"
     },
     {
-     "title": "US Fed raises interest rates for first time in three years",
-     "link": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 18:03:51 +0000"
+     "title": "US removes Venezuela from drug list, Trump says",
+     "link": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 20:53:02 +0000"
     },
     {
-     "title": "Geopolitical divides fueling UN Security Council inaction, Guterres warns",
-     "link": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 17:55:49 +0000"
+     "title": "Displaced Syrians dig through hills of garbage to make a living",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 20:29:41 +0000"
     },
     {
-     "title": "UK trade unions back motion to boycott and sanction Israel",
-     "link": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 17:42:00 +0000"
+     "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 20:12:25 +0000"
     },
     {
-     "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
-     "link": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 17:38:09 +0000"
+     "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
+     "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 20:08:50 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
      "link": "https://www.nature.com/articles/s41586-026-11123-0",
+     "date": ""
+    },
+    {
+     "title": "Why most stars don’t have outbursts like our Sun’s",
+     "link": "https://www.nature.com/articles/d41586-026-02833-6",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Reimagining research papers as interactive and reliable AI agents",
      "link": "https://www.nature.com/articles/s41586-026-11044-y",
-     "date": ""
-    },
-    {
-     "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
-     "link": "https://www.nature.com/articles/s41586-026-11042-0",
      "date": ""
     }
    ]
