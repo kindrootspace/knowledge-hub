@@ -1,23 +1,18 @@
 {
- "updated": "2026-09-17 01:25 UTC",
+ "updated": "2026-09-17 07:40 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Body found in search for missing three-year-old Noah Woods",
-     "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 18:50:09 GMT"
+     "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+     "link": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 06:15:35 GMT"
     },
     {
-     "title": "US interest rates raised for first time in three years",
-     "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 00:40:17 GMT"
-    },
-    {
-     "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-     "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 20:46:30 GMT"
+     "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 06:38:43 GMT"
     },
     {
      "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
@@ -25,24 +20,29 @@
      "date": "Wed, 16 Sep 2026 23:50:56 GMT"
     },
     {
-     "title": "Interest rates hold expected but Bank of England facing tough choices",
+     "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 05:00:18 GMT"
+    },
+    {
+     "title": "Body found in search for missing three-year-old Noah Woods",
+     "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 18:50:09 GMT"
+    },
+    {
+     "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 07:06:49 GMT"
+    },
+    {
+     "title": "Lena Dunham announces birth of first baby via surrogacy",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 00:55:10 GMT"
+    },
+    {
+     "title": "Bank of England expected to hold interest rates as it faces tough choices",
      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 23:15:01 GMT"
-    },
-    {
-     "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 23:41:57 GMT"
-    },
-    {
-     "title": "At least seven months of relentless rain needed to end drought, research shows",
-     "link": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 00:01:29 GMT"
-    },
-    {
-     "title": "'Putney pusher' suspect found dead at home",
-     "link": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 15:56:06 GMT"
+     "date": "Thu, 17 Sep 2026 06:06:49 GMT"
     }
    ]
   },
@@ -52,12 +52,12 @@
     {
      "title": "Interest rates hold expected but Bank of England facing tough choices",
      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 23:15:01 GMT"
+     "date": "Thu, 17 Sep 2026 06:06:49 GMT"
     },
     {
-     "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 23:41:57 GMT"
+     "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 06:38:43 GMT"
     },
     {
      "title": "US interest rates raised for first time in three years",
@@ -70,30 +70,35 @@
      "date": "Wed, 16 Sep 2026 23:15:53 GMT"
     },
     {
-     "title": "Petrol and diesel price rises push UK inflation higher",
-     "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 14:30:51 GMT"
-    },
-    {
      "title": "Would you buy branded clothing from your favourite tech firm?",
      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 16 Sep 2026 23:18:47 GMT"
     },
     {
-     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 10:02:05 GMT"
+     "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+     "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 03:09:21 GMT"
     },
     {
-     "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
-     "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 14:52:38 GMT"
+     "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:41:57 GMT"
+    },
+    {
+     "title": "EU chief backs plan for Canada to become 'associate member'",
+     "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 00:32:05 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+     "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+     "date": "Thu, 17 Sep 2026 04:00:39 GMT"
+    },
     {
      "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
      "link": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
@@ -115,11 +120,6 @@
      "date": "Wed, 16 Sep 2026 05:00:12 GMT"
     },
     {
-     "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-     "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-     "date": "Tue, 15 Sep 2026 04:00:27 GMT"
-    },
-    {
      "title": "Battle of Chile director Patricio Guzmán dies aged 85",
      "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
      "date": "Wed, 16 Sep 2026 13:15:02 GMT"
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+     "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
+     "date": "Thu, 17 Sep 2026 02:44:49 -0400"
+    },
     {
      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
      "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
@@ -170,14 +175,9 @@
      "date": "Wed, 16 Sep 2026 16:50:17 -0400"
     },
     {
-     "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+     "title": "EU offers Canada 'associate member' role; Trump calls it 'laughable'",
      "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
      "date": "Wed, 16 Sep 2026 16:08:27 -0400"
-    },
-    {
-     "title": "Congress is under pressure to act on AI — here's what that could look like",
-     "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
-     "date": "Wed, 16 Sep 2026 13:32:44 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "UK and Canada discuss AI risks and defence ties in first bilateral meeting",
-     "link": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 01:14:26 +0000"
+     "title": "Israel weaponises AI for West Bank demolitions",
+     "link": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 06:30:08 +0000"
     },
     {
-     "title": "Congress passes sweeping US sanctions bill targeting Russia",
-     "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 00:55:13 +0000"
+     "title": "OpenAI reports more incidents of models acting deceptively",
+     "link": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 06:15:07 +0000"
     },
     {
-     "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 00:32:54 +0000"
+     "title": "What are the biggest AI companies and how much are they worth?",
+     "link": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 05:55:22 +0000"
     },
     {
-     "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
-     "link": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 00:30:23 +0000"
+     "title": "Argentinian judge orders suspension of Falklands oil project",
+     "link": "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 04:52:07 +0000"
     },
     {
-     "title": "NHL superstar Ovechkin ‘was asked’ to film Putin ad, team says",
-     "link": "https://www.aljazeera.com/news/2026/9/17/nhl-superstar-ovechkin-was-asked-to-film-putin-ad-team-says?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 00:08:32 +0000"
+     "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 04:43:01 +0000"
     },
     {
-     "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
-     "link": "https://www.aljazeera.com/news/2026/9/17/three-dead-after-flooding-inundates-navajo-nation-in-new-mexico?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 00:01:21 +0000"
+     "title": "Can AI regulation keep America ahead of China?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_can-ai-regulation-keep-america-ahead-of-china-170926?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 04:42:27 +0000"
     },
     {
-     "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 00:00:00 +0000"
+     "title": "US bars Palestinian president from attending UNGA for second year",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 04:35:52 +0000"
     },
     {
-     "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-     "link": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 23:26:27 +0000"
+     "title": "US extends visa ban on Palestinian officials before UN General Assembly",
+     "link": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 03:44:13 +0000"
     }
    ]
   },
