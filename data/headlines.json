@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16 22:56 UTC",
+ "updated": "2026-09-17 01:25 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,7 +12,7 @@
     {
      "title": "US interest rates raised for first time in three years",
      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 22:16:51 GMT"
+     "date": "Thu, 17 Sep 2026 00:40:17 GMT"
     },
     {
      "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
@@ -20,29 +20,29 @@
      "date": "Wed, 16 Sep 2026 20:46:30 GMT"
     },
     {
-     "title": "EU chief backs plan for Canada to become 'associate member'",
-     "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 12:36:51 GMT"
+     "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+     "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:50:56 GMT"
+    },
+    {
+     "title": "Interest rates hold expected but Bank of England facing tough choices",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:15:01 GMT"
+    },
+    {
+     "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:41:57 GMT"
+    },
+    {
+     "title": "At least seven months of relentless rain needed to end drought, research shows",
+     "link": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 00:01:29 GMT"
     },
     {
      "title": "'Putney pusher' suspect found dead at home",
      "link": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 16 Sep 2026 15:56:06 GMT"
-    },
-    {
-     "title": "Photos show widespread damage at US sites from Iranian attacks",
-     "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 18:36:16 GMT"
-    },
-    {
-     "title": "Watch: BBC crew catch thieves in act while filming shoplifting report",
-     "link": "https://www.bbc.co.uk/news/videos/cmq5xyq78gp1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 06:13:05 GMT"
-    },
-    {
-     "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-     "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 19:49:20 GMT"
     }
    ]
   },
@@ -50,9 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Interest rates hold expected but Bank of England facing tough choices",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:15:01 GMT"
+    },
+    {
+     "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:41:57 GMT"
+    },
+    {
      "title": "US interest rates raised for first time in three years",
      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 22:16:51 GMT"
+     "date": "Thu, 17 Sep 2026 00:40:17 GMT"
+    },
+    {
+     "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+     "link": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:15:53 GMT"
     },
     {
      "title": "Petrol and diesel price rises push UK inflation higher",
@@ -60,9 +75,9 @@
      "date": "Wed, 16 Sep 2026 14:30:51 GMT"
     },
     {
-     "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
-     "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 14:52:38 GMT"
+     "title": "Would you buy branded clothing from your favourite tech firm?",
+     "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 23:18:47 GMT"
     },
     {
      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -70,24 +85,9 @@
      "date": "Wed, 16 Sep 2026 10:02:05 GMT"
     },
     {
-     "title": "We managed to get jobs after uni - here's how we're keeping them",
-     "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 08:36:37 GMT"
-    },
-    {
-     "title": "The extreme engineering of aircraft windows",
-     "link": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:19:38 GMT"
-    },
-    {
-     "title": "UK in talks about joining global defence bank led by Canada",
-     "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 15 Sep 2026 23:50:55 GMT"
-    },
-    {
-     "title": "Complaints to watchdog about water firms soar",
-     "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 06:59:41 GMT"
+     "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+     "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 16 Sep 2026 14:52:38 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+     "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+     "date": "Wed, 16 Sep 2026 19:07:40 -0400"
+    },
+    {
      "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
      "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
      "date": "Wed, 16 Sep 2026 18:30:46 -0400"
@@ -150,7 +155,7 @@
      "date": "Wed, 16 Sep 2026 17:20:59 -0400"
     },
     {
-     "title": "House holds billionaire Leon Black in contempt of Congress",
+     "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
      "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
      "date": "Wed, 16 Sep 2026 17:12:27 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "Congress is under pressure to act on AI — here's what that could look like",
      "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
      "date": "Wed, 16 Sep 2026 13:32:44 -0400"
-    },
-    {
-     "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
-     "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-     "date": "Wed, 16 Sep 2026 13:19:49 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
-     "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 22:30:34 +0000"
+     "title": "UK and Canada discuss AI risks and defence ties in first bilateral meeting",
+     "link": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 01:14:26 +0000"
     },
     {
-     "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
-     "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 22:18:49 +0000"
+     "title": "Congress passes sweeping US sanctions bill targeting Russia",
+     "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 00:55:13 +0000"
     },
     {
-     "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
-     "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 21:41:36 +0000"
+     "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 00:32:54 +0000"
     },
     {
-     "title": "Rescue workers search for survivors after Gaza building collapse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 21:15:42 +0000"
+     "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+     "link": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 00:30:23 +0000"
     },
     {
-     "title": "US removes Venezuela from drug list, Trump says",
-     "link": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 20:53:02 +0000"
+     "title": "NHL superstar Ovechkin ‘was asked’ to film Putin ad, team says",
+     "link": "https://www.aljazeera.com/news/2026/9/17/nhl-superstar-ovechkin-was-asked-to-film-putin-ad-team-says?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 00:08:32 +0000"
     },
     {
-     "title": "Displaced Syrians dig through hills of garbage to make a living",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 20:29:41 +0000"
+     "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
+     "link": "https://www.aljazeera.com/news/2026/9/17/three-dead-after-flooding-inundates-navajo-nation-in-new-mexico?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 00:01:21 +0000"
     },
     {
-     "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 20:12:25 +0000"
+     "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
-     "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
-     "date": "Wed, 16 Sep 2026 20:08:50 +0000"
+     "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+     "link": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
+     "date": "Wed, 16 Sep 2026 23:26:27 +0000"
     }
    ]
   },
