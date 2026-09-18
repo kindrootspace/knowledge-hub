@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17 21:26 UTC",
+ "updated": "2026-09-18 00:20 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,24 +15,14 @@
      "date": "Thu, 17 Sep 2026 18:56:31 GMT"
     },
     {
-     "title": "Interest rates held but Bank signals rise if energy prices stay high",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 14:05:38 GMT"
+     "title": "War may be coming. Are we psychologically ready?",
+     "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 23:22:17 GMT"
     },
     {
-     "title": "Father's tribute to 'sweetest little boy' Noah Woods",
-     "link": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 14:54:53 GMT"
-    },
-    {
-     "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-     "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 14:33:12 GMT"
-    },
-    {
-     "title": "Archbishop of Canterbury withdraws award from Muslim cleric who praised Osama bin Laden",
-     "link": "https://www.bbc.co.uk/news/articles/ckr50lrz5e6zo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 20:08:02 GMT"
+     "title": "New wild cat species discovered - with only one known living member",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 23:15:55 GMT"
     },
     {
      "title": "Ed Sheeran's tour in 'damage control mode' after Macklemore backlash",
@@ -40,15 +30,40 @@
      "date": "Thu, 17 Sep 2026 16:34:03 GMT"
     },
     {
-     "title": "UK Youth Parliament looks set to be axed",
-     "link": "https://www.bbc.co.uk/news/articles/c689jke4w310o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 17:53:55 GMT"
+     "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+     "link": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 14:54:53 GMT"
+    },
+    {
+     "title": "Badenoch says she is bringing in lawyers to challenge government after Tory-run council's 94% tax hike",
+     "link": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 00:13:56 GMT"
+    },
+    {
+     "title": "Watch: Can humpback whales experience grief?",
+     "link": "https://www.bbc.co.uk/news/videos/c6p93mn44m42o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 22:10:03 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Healey to ask EU finance ministers to let UK into industry scheme",
+     "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 22:07:01 GMT"
+    },
+    {
+     "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+     "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 23:00:53 GMT"
+    },
+    {
+     "title": "Early Bowie music available to stream for first time",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 23:01:03 GMT"
+    },
     {
      "title": "Interest rates held but Bank signals rise if energy prices stay high",
      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
@@ -60,6 +75,11 @@
      "date": "Thu, 17 Sep 2026 14:20:27 GMT"
     },
     {
+     "title": "The virtual worlds where robots are trained",
+     "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 23:00:47 GMT"
+    },
+    {
      "title": "I sent 200 LinkedIn messages and got a job: How to nail networking",
      "link": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 17 Sep 2026 10:37:43 GMT"
@@ -68,26 +88,6 @@
      "title": "Warm words on Canada's EU 'associate membership' but no guarantees",
      "link": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 17 Sep 2026 16:59:43 GMT"
-    },
-    {
-     "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-     "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 08:22:12 GMT"
-    },
-    {
-     "title": "Would you buy branded clothing from your favourite tech firm?",
-     "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 16 Sep 2026 23:18:47 GMT"
-    },
-    {
-     "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-     "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 03:09:21 GMT"
-    },
-    {
-     "title": "US interest rates raised for first time in three years",
-     "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 00:40:17 GMT"
     }
    ]
   },
@@ -120,7 +120,7 @@
      "date": "Wed, 16 Sep 2026 05:00:12 GMT"
     },
     {
-     "title": "New cat species identified in Bolivia for first time in more than a century",
+     "title": "New cat species identified for first time in more than a century in Bolivia",
      "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
      "date": "Thu, 17 Sep 2026 20:43:38 GMT"
     },
@@ -150,6 +150,11 @@
      "date": "Thu, 17 Sep 2026 16:23:34 -0400"
     },
     {
+     "title": "Retired Olympic superstar Jessie Diggins wins her first-ever 100 mile trail race",
+     "link": "https://www.npr.org/2026/09/17/nx-s1-5948171/retired-olympic-superstar-jessie-diggins-wins-her-first-ever-100-mile-trail-race",
+     "date": "Thu, 17 Sep 2026 16:00:35 -0400"
+    },
+    {
      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
      "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
      "date": "Thu, 17 Sep 2026 15:33:30 -0400"
@@ -173,11 +178,6 @@
      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
      "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
      "date": "Thu, 17 Sep 2026 08:33:36 -0400"
-    },
-    {
-     "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
-     "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-     "date": "Thu, 17 Sep 2026 06:54:18 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
-     "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 21:08:51 +0000"
+     "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-     "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 21:01:41 +0000"
+     "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
+     "link": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 23:42:37 +0000"
     },
     {
-     "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
-     "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 20:47:52 +0000"
+     "title": "US approves $414M uranium investment in Niger, two years after troops left",
+     "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 23:16:25 +0000"
     },
     {
-     "title": "Why does Brazil get to speak first at UNGA?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 20:46:21 +0000"
+     "title": "Russia election: Could other parties challenge United Russia?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 22:19:58 +0000"
     },
     {
-     "title": "Can ‘middle powers’ come together to build a new economic alliance?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 20:37:06 +0000"
+     "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
+     "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 22:12:22 +0000"
     },
     {
-     "title": "Why have China’s oil prices reached a record high?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 20:30:39 +0000"
+     "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+     "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 21:42:31 +0000"
     },
     {
-     "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
-     "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 19:54:46 +0000"
+     "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+     "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 21:38:17 +0000"
     },
     {
-     "title": "Ilhan Omar attacker sentenced to more than a year in prison",
-     "link": "https://www.aljazeera.com/news/2026/9/17/ilhan-omar-attacker-pleads-guilty-sentenced-to-more-than-a-year-in-prison?traffic_source=rss",
-     "date": "Thu, 17 Sep 2026 19:42:30 +0000"
+     "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+     "date": "Thu, 17 Sep 2026 21:27:11 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+     "link": "https://www.nature.com/articles/s41586-026-11134-x",
+     "date": ""
+    },
+    {
+     "title": "Mercury is shrinking with age — faster than thought",
+     "link": "https://www.nature.com/articles/d41586-026-02898-3",
+     "date": ""
+    },
+    {
+     "title": "Schoolhouse meals serve up an income bump",
+     "link": "https://www.nature.com/articles/d41586-026-02896-5",
+     "date": ""
+    },
+    {
+     "title": "How fast are you ageing? Ask AI",
+     "link": "https://www.nature.com/articles/d41586-026-02913-7",
+     "date": ""
+    },
+    {
+     "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb",
+     "link": "https://www.nature.com/articles/d41586-026-02621-2",
+     "date": ""
+    },
+    {
+     "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
+     "link": "https://www.nature.com/articles/d41586-026-02911-9",
+     "date": ""
+    },
+    {
+     "title": "How a team of AIs discovered a promising lung-cancer drug",
+     "link": "https://www.nature.com/articles/d41586-026-02954-y",
+     "date": ""
+    },
+    {
+     "title": "Who gets credit in the AI era? OpenAI maths bombshell sparks debate",
+     "link": "https://www.nature.com/articles/d41586-026-02910-w",
+     "date": ""
     }
    ]
   }
