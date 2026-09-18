@@ -1,13 +1,18 @@
 {
- "updated": "2026-09-18 15:01 UTC",
+ "updated": "2026-09-18 18:29 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 14:24:30 GMT"
+     "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 15:59:59 GMT"
+    },
+    {
+     "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+     "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 15:59:21 GMT"
     },
     {
      "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
@@ -15,34 +20,29 @@
      "date": "Fri, 18 Sep 2026 12:30:16 GMT"
     },
     {
-     "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 14:42:01 GMT"
+     "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+     "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 15:48:58 GMT"
     },
     {
-     "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
-     "link": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 09:46:17 GMT"
+     "title": "Teen who piloted Channel boat with 165 migrants jailed",
+     "link": "https://www.bbc.co.uk/news/articles/ck05rv764l0eo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 13:59:44 GMT"
     },
     {
-     "title": "Tenko and Doc Martin actress Stephanie Cole dies aged 84",
+     "title": "Brother didn't match description of 'Putney pusher', suspect's sisters tell BBC",
+     "link": "https://www.bbc.co.uk/news/videos/c623xzx1pnleo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 15:55:57 GMT"
+    },
+    {
+     "title": "'Get in' - woman joins police chase by giving officer a lift in Nissan Micra",
+     "link": "https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 15:29:52 GMT"
+    },
+    {
+     "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
      "link": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 14:48:52 GMT"
-    },
-    {
-     "title": "War may be coming. Are we psychologically ready?",
-     "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 23:22:17 GMT"
-    },
-    {
-     "title": "Sisters of 'Putney pusher' suspect say DNA will clear his name",
-     "link": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 13:04:57 GMT"
-    },
-    {
-     "title": "'Insufficient funds' to pay Brewdog creditors and unpaid wages after takeover deal",
-     "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 13:19:34 GMT"
+     "date": "Fri, 18 Sep 2026 15:27:01 GMT"
     }
    ]
   },
@@ -50,14 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war",
+     "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 17:57:30 GMT"
+    },
+    {
      "title": "Flight chaos caused by 'millisecond' software defect, report says",
      "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 14:24:30 GMT"
+     "date": "Fri, 18 Sep 2026 15:48:58 GMT"
+    },
+    {
+     "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+     "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 17:10:58 GMT"
+    },
+    {
+     "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+     "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 17:15:02 GMT"
     },
     {
      "title": "We bought our £242,000 home without a deposit - here's how",
      "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 10:43:03 GMT"
+    },
+    {
+     "title": "The virtual worlds where robots are trained",
+     "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 17 Sep 2026 23:00:47 GMT"
     },
     {
      "title": "British Steel plan lacks credibility, MPs say",
@@ -68,32 +88,17 @@
      "title": "Thames Water rescue deal should be rejected - MPs",
      "link": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 05:16:57 GMT"
-    },
-    {
-     "title": "'Insufficient funds' to pay Brewdog creditors after takeover deal",
-     "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 13:19:34 GMT"
-    },
-    {
-     "title": "The virtual worlds where robots are trained",
-     "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 23:00:47 GMT"
-    },
-    {
-     "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
-     "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 06:52:47 GMT"
-    },
-    {
-     "title": "Early Bowie music available to stream for first time",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 23:01:03 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
+     "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
+     "date": "Fri, 18 Sep 2026 17:27:39 GMT"
+    },
     {
      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
      "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
@@ -115,9 +120,9 @@
      "date": "Fri, 18 Sep 2026 00:23:31 GMT"
     },
     {
-     "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
-     "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-     "date": "Thu, 17 Sep 2026 04:00:39 GMT"
+     "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
+     "link": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+     "date": "Fri, 18 Sep 2026 17:10:37 GMT"
     },
     {
      "title": "New cat species identified for first time in more than a century in Bolivia",
@@ -128,17 +133,22 @@
      "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
      "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
      "date": "Thu, 17 Sep 2026 15:46:15 GMT"
-    },
-    {
-     "title": "Battle of Chile director Patricio Guzmán dies aged 85",
-     "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
-     "date": "Wed, 16 Sep 2026 13:15:02 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "What expensive sulfur means for your dinner table",
+     "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+     "date": "Fri, 18 Sep 2026 12:40:58 -0400"
+    },
+    {
+     "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
+     "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
+     "date": "Fri, 18 Sep 2026 12:07:51 -0400"
+    },
     {
      "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
      "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
@@ -168,16 +178,6 @@
      "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
      "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
      "date": "Fri, 18 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
-     "date": "Fri, 18 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "A DHS email raises new questions about the Trump administration's election plans",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-     "date": "Fri, 18 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
-     "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 14:30:18 +0000"
+     "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+     "link": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 18:16:20 +0000"
     },
     {
-     "title": "New Bolivian cat claws its way into species list: What we meow",
-     "link": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 14:25:53 +0000"
+     "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
+     "link": "https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 18:15:32 +0000"
     },
     {
-     "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
-     "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 14:17:20 +0000"
+     "title": "Sweden’s left-wing opposition leader begins efforts to form government",
+     "link": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 17:55:38 +0000"
     },
     {
-     "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
-     "link": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 14:08:03 +0000"
+     "title": "Iranians rally in biggest show of defiance against US since war began",
+     "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 17:23:23 +0000"
     },
     {
-     "title": "The cost of Iran’s regional leverage",
-     "link": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 13:52:49 +0000"
+     "title": "UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members",
+     "link": "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 16:59:38 +0000"
     },
     {
-     "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-     "link": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 13:36:58 +0000"
+     "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 16:38:10 +0000"
     },
     {
-     "title": "Video: Students flee deadly school shooting in the Philippines",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 13:30:16 +0000"
+     "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
+     "link": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 16:12:28 +0000"
     },
     {
-     "title": "US voter opposition to war on Iran grows to new highs: Poll",
-     "link": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 13:09:27 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
-     "link": "https://www.nature.com/articles/d41586-026-02897-4",
-     "date": ""
-    },
-    {
-     "title": "How research funding took me out of the lab and into leadership",
-     "link": "https://www.nature.com/articles/d41586-026-02184-2",
-     "date": ""
-    },
-    {
-     "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
-     "link": "https://www.nature.com/articles/d41586-026-02945-z",
-     "date": ""
-    },
-    {
-     "title": "Chinese companies doubled down on science after US tech restrictions",
-     "link": "https://www.nature.com/articles/d41586-026-02946-y",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
-     "link": "https://www.nature.com/articles/s41586-026-11134-x",
-     "date": ""
-    },
-    {
-     "title": "Mercury is shrinking with age — faster than thought",
-     "link": "https://www.nature.com/articles/d41586-026-02898-3",
-     "date": ""
-    },
-    {
-     "title": "Schoolhouse meals serve up an income bump",
-     "link": "https://www.nature.com/articles/d41586-026-02896-5",
-     "date": ""
-    },
-    {
-     "title": "How fast are you ageing? Ask AI",
-     "link": "https://www.nature.com/articles/d41586-026-02913-7",
-     "date": ""
+     "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
+     "link": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 15:45:45 +0000"
     }
    ]
   }
