@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 18:29 UTC",
+ "updated": "2026-09-18 21:41 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,6 +25,11 @@
      "date": "Fri, 18 Sep 2026 15:48:58 GMT"
     },
     {
+     "title": "Trump says he is banning CNN and Politico from White House",
+     "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 21:34:51 GMT"
+    },
+    {
      "title": "Teen who piloted Channel boat with 165 migrants jailed",
      "link": "https://www.bbc.co.uk/news/articles/ck05rv764l0eo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 13:59:44 GMT"
@@ -33,11 +38,6 @@
      "title": "Brother didn't match description of 'Putney pusher', suspect's sisters tell BBC",
      "link": "https://www.bbc.co.uk/news/videos/c623xzx1pnleo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 15:55:57 GMT"
-    },
-    {
-     "title": "'Get in' - woman joins police chase by giving officer a lift in Nissan Micra",
-     "link": "https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 15:29:52 GMT"
     },
     {
      "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war",
+     "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 17:57:30 GMT"
     },
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+     "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+     "date": "Fri, 18 Sep 2026 17:13:14 -0400"
+    },
+    {
+     "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+     "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+     "date": "Fri, 18 Sep 2026 16:15:53 -0400"
+    },
+    {
+     "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
+     "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
+     "date": "Fri, 18 Sep 2026 15:14:15 -0400"
+    },
+    {
+     "title": "Syrian regime planned American journalist's kidnapping for weeks",
+     "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+     "date": "Fri, 18 Sep 2026 15:13:52 -0400"
+    },
+    {
      "title": "What expensive sulfur means for your dinner table",
      "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
      "date": "Fri, 18 Sep 2026 12:40:58 -0400"
@@ -158,26 +178,6 @@
      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
      "date": "Fri, 18 Sep 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-     "date": "Fri, 18 Sep 2026 06:58:49 -0400"
-    },
-    {
-     "title": "South Africa 'feels like a prison' for women amid spate of femicides",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-     "date": "Fri, 18 Sep 2026 06:39:14 -0400"
-    },
-    {
-     "title": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
-     "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-     "date": "Fri, 18 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-     "date": "Fri, 18 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
-     "link": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 18:16:20 +0000"
+     "title": "New cat species found, first in more than 100 years",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 21:06:15 +0000"
     },
     {
-     "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
-     "link": "https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 18:15:32 +0000"
+     "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+     "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 21:06:14 +0000"
     },
     {
-     "title": "Sweden’s left-wing opposition leader begins efforts to form government",
-     "link": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 17:55:38 +0000"
+     "title": "UK court clears woman of voicing support for Hamas in university speech",
+     "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 20:55:57 +0000"
     },
     {
-     "title": "Iranians rally in biggest show of defiance against US since war began",
-     "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 17:23:23 +0000"
+     "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 20:38:00 +0000"
     },
     {
-     "title": "UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members",
-     "link": "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 16:59:38 +0000"
+     "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+     "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 20:20:23 +0000"
     },
     {
-     "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 16:38:10 +0000"
+     "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+     "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 19:50:04 +0000"
     },
     {
-     "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
-     "link": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 16:12:28 +0000"
+     "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+     "link": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 19:39:16 +0000"
     },
     {
-     "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-     "link": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
-     "date": "Fri, 18 Sep 2026 15:45:45 +0000"
+     "title": "Lebanese artist turns Israeli missile debris into art",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+     "date": "Fri, 18 Sep 2026 19:31:32 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+     "link": "https://www.nature.com/articles/d41586-026-02897-4",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+     "link": "https://www.nature.com/articles/d41586-026-02984-6",
+     "date": ""
+    },
+    {
+     "title": "Europe pushes for space independence amid geopolitical rifts",
+     "link": "https://www.nature.com/articles/d41586-026-02919-1",
+     "date": ""
+    },
+    {
+     "title": "How research funding took me out of the lab and into leadership",
+     "link": "https://www.nature.com/articles/d41586-026-02184-2",
+     "date": ""
+    },
+    {
+     "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+     "link": "https://www.nature.com/articles/d41586-026-02945-z",
+     "date": ""
+    },
+    {
+     "title": "How to make a brain: new experiments challenge existing picture",
+     "link": "https://www.nature.com/articles/d41586-026-02943-1",
+     "date": ""
+    },
+    {
+     "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+     "link": "https://www.nature.com/articles/d41586-026-02922-6",
+     "date": ""
+    },
+    {
+     "title": "Chinese companies doubled down on science after US tech restrictions",
+     "link": "https://www.nature.com/articles/d41586-026-02946-y",
+     "date": ""
     }
    ]
   }
