@@ -1,38 +1,38 @@
 {
- "updated": "2026-09-19 14:25 UTC",
+ "updated": "2026-09-19 18:01 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+     "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
-     "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-     "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 15:59:59 GMT"
+     "title": "Major seaside hotel fire treated as suspicious",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 16:43:21 GMT"
     },
     {
-     "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+     "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+     "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 17:50:14 GMT"
+    },
+    {
+     "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+     "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 15:00:32 GMT"
+    },
+    {
+     "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
      "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 15:59:21 GMT"
     },
     {
-     "title": "Billionaire Man United owner says he has lost confidence in the UK",
-     "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 23:06:16 GMT"
-    },
-    {
-     "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
-     "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 23:04:41 GMT"
-    },
-    {
-     "title": "Michael Marra announced as new Scottish Labour leader",
-     "link": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 10:59:55 GMT"
+     "title": "Trump ramps up feud with media after week of setbacks",
+     "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 17:23:37 GMT"
     },
     {
      "title": "Bitter row over Diana book brings back unhappy times for royals",
@@ -40,9 +40,9 @@
      "date": "Sat, 19 Sep 2026 09:37:35 GMT"
     },
     {
-     "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-     "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 23:01:34 GMT"
+     "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
+     "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 22:03:40 GMT"
     }
    ]
   },
@@ -140,12 +140,22 @@
    "name": "NPR",
    "items": [
     {
+     "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+     "date": "Sat, 19 Sep 2026 11:26:31 -0400"
+    },
+    {
      "title": "Opinion: Remembering Annie Dillard, nature writer",
      "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
      "date": "Sat, 19 Sep 2026 08:00:00 -0400"
     },
     {
-     "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+     "title": "Life in Kabul 5 years after the Taliban's return",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+     "date": "Sat, 19 Sep 2026 07:40:40 -0400"
+    },
+    {
+     "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
      "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
      "date": "Sat, 19 Sep 2026 07:21:56 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "As Europe warms, Italy sees West Nile virus spread",
      "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
      "date": "Sat, 19 Sep 2026 01:13:18 -0400"
-    },
-    {
-     "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
-     "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-     "date": "Sat, 19 Sep 2026 00:44:46 -0400"
-    },
-    {
-     "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
-     "date": "Fri, 18 Sep 2026 17:13:14 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
-     "link": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 13:58:40 +0000"
+     "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
+     "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 17:48:18 +0000"
     },
     {
-     "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
-     "link": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 13:55:44 +0000"
+     "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
+     "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 17:14:45 +0000"
     },
     {
-     "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
-     "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 13:21:52 +0000"
+     "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
+     "link": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 16:42:26 +0000"
     },
     {
-     "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 13:13:19 +0000"
+     "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+     "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 16:21:36 +0000"
     },
     {
-     "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
-     "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 12:59:31 +0000"
+     "title": "Police hiring standards matter. But they alone cannot stop abuse",
+     "link": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 15:58:55 +0000"
     },
     {
-     "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
-     "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 12:51:43 +0000"
+     "title": "Jerusalem Daily: Gaza’s children return to schools",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 15:38:58 +0000"
     },
     {
-     "title": "Asian Games 2026: Top athletes and storylines to look out for",
-     "link": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 12:38:45 +0000"
+     "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 15:31:05 +0000"
     },
     {
-     "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
-     "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 12:34:37 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
-     "link": "https://www.nature.com/articles/d41586-026-02897-4",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-     "link": "https://www.nature.com/articles/d41586-026-02984-6",
-     "date": ""
-    },
-    {
-     "title": "Europe pushes for space independence amid geopolitical rifts",
-     "link": "https://www.nature.com/articles/d41586-026-02919-1",
-     "date": ""
-    },
-    {
-     "title": "How research funding took me out of the lab and into leadership",
-     "link": "https://www.nature.com/articles/d41586-026-02184-2",
-     "date": ""
-    },
-    {
-     "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
-     "link": "https://www.nature.com/articles/d41586-026-02945-z",
-     "date": ""
-    },
-    {
-     "title": "How to make a brain: new experiments challenge existing picture",
-     "link": "https://www.nature.com/articles/d41586-026-02943-1",
-     "date": ""
-    },
-    {
-     "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-     "link": "https://www.nature.com/articles/d41586-026-02922-6",
-     "date": ""
-    },
-    {
-     "title": "Chinese companies doubled down on science after US tech restrictions",
-     "link": "https://www.nature.com/articles/d41586-026-02946-y",
-     "date": ""
+     "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+     "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 15:18:00 +0000"
     }
    ]
   }
