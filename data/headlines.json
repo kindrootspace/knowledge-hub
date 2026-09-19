@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19 11:00 UTC",
+ "updated": "2026-09-19 14:25 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 22:58:55 GMT"
+     "date": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
      "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
@@ -30,19 +30,19 @@
      "date": "Fri, 18 Sep 2026 23:04:41 GMT"
     },
     {
-     "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 07:19:48 GMT"
-    },
-    {
-     "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-     "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 23:01:34 GMT"
+     "title": "Michael Marra announced as new Scottish Labour leader",
+     "link": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 10:59:55 GMT"
     },
     {
      "title": "Bitter row over Diana book brings back unhappy times for royals",
      "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 19 Sep 2026 09:37:35 GMT"
+    },
+    {
+     "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 23:01:34 GMT"
     }
    ]
   },
@@ -140,7 +140,17 @@
    "name": "NPR",
    "items": [
     {
-     "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
+     "title": "Opinion: Remembering Annie Dillard, nature writer",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+     "date": "Sat, 19 Sep 2026 08:00:00 -0400"
+    },
+    {
+     "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+     "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+     "date": "Sat, 19 Sep 2026 07:21:56 -0400"
+    },
+    {
+     "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
      "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
      "date": "Sat, 19 Sep 2026 05:01:00 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
      "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
      "date": "Fri, 18 Sep 2026 17:13:14 -0400"
-    },
-    {
-     "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-     "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-     "date": "Fri, 18 Sep 2026 16:15:53 -0400"
-    },
-    {
-     "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
-     "date": "Fri, 18 Sep 2026 15:14:15 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 10:40:12 +0000"
+     "title": "Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction",
+     "link": "https://www.aljazeera.com/sports/2026/9/19/atletico-madrid-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 13:58:40 +0000"
     },
     {
-     "title": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
-     "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 09:50:30 +0000"
+     "title": "Fear and anger in South Africa as bodies of nine women found: What we know",
+     "link": "https://www.aljazeera.com/news/2026/9/19/fear-and-anger-in-south-africa-as-bodies-of-nine-women-found-what-we-know?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 13:55:44 +0000"
     },
     {
-     "title": "Africa’s Green Revolution threatens traditional foods",
-     "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 09:36:38 +0000"
+     "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+     "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 13:21:52 +0000"
     },
     {
-     "title": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
-     "link": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 09:05:13 +0000"
+     "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 13:13:19 +0000"
     },
     {
-     "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
-     "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 08:47:17 +0000"
+     "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+     "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 12:59:31 +0000"
     },
     {
-     "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-     "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 08:18:08 +0000"
+     "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+     "link": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 12:51:43 +0000"
     },
     {
-     "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-     "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 07:50:44 +0000"
+     "title": "Asian Games 2026: Top athletes and storylines to look out for",
+     "link": "https://www.aljazeera.com/sports/2026/9/19/asian-games-2026-top-athletes-and-storylines-to-look-out-for?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 12:38:45 +0000"
     },
     {
-     "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 07:35:05 +0000"
+     "title": "US lifts sanctions on Eritrea ‘to advance US regional interests’ in Red Sea",
+     "link": "https://www.aljazeera.com/news/2026/9/19/us-lifts-sanctions-on-eritrea-imposed-during-conflict-in-ethiopias-tigray?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 12:34:37 +0000"
     }
    ]
   },
