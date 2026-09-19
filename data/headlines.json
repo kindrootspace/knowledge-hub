@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19 05:53 UTC",
+ "updated": "2026-09-19 11:00 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,29 +20,29 @@
      "date": "Fri, 18 Sep 2026 15:59:21 GMT"
     },
     {
-     "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 15:48:58 GMT"
-    },
-    {
      "title": "Billionaire Man United owner says he has lost confidence in the UK",
      "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 23:06:16 GMT"
     },
     {
-     "title": "Google's Gemini AI hacked three companies in security test",
-     "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 04:27:11 GMT"
-    },
-    {
-     "title": "Trump says he is banning CNN and Politico from White House",
-     "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 05:36:36 GMT"
-    },
-    {
-     "title": "Grim discoveries of murdered women spark fear in South Africa",
+     "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 23:04:41 GMT"
+    },
+    {
+     "title": "Parents could lose benefits or face prison for child's crimes, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 07:19:48 GMT"
+    },
+    {
+     "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 23:01:34 GMT"
+    },
+    {
+     "title": "Bitter row over Diana book brings back unhappy times for royals",
+     "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 09:37:35 GMT"
     }
    ]
   },
@@ -140,12 +140,27 @@
    "name": "NPR",
    "items": [
     {
+     "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
+     "date": "Sat, 19 Sep 2026 05:01:00 -0400"
+    },
+    {
+     "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+     "date": "Sat, 19 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+     "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+     "date": "Sat, 19 Sep 2026 02:39:57 -0400"
+    },
+    {
      "title": "As Europe warms, Italy sees West Nile virus spread",
      "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
      "date": "Sat, 19 Sep 2026 01:13:18 -0400"
     },
     {
-     "title": "US and Denmark reach deal to build US military presence in Greenland",
+     "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
      "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
      "date": "Sat, 19 Sep 2026 00:44:46 -0400"
     },
@@ -163,21 +178,6 @@
      "title": "When Trump and Xi meet they will discuss AI. 'Track Two' talks are already buzzing",
      "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
      "date": "Fri, 18 Sep 2026 15:14:15 -0400"
-    },
-    {
-     "title": "Syrian regime planned American journalist's kidnapping for weeks",
-     "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
-     "date": "Fri, 18 Sep 2026 15:13:52 -0400"
-    },
-    {
-     "title": "What expensive sulfur means for your dinner table",
-     "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
-     "date": "Fri, 18 Sep 2026 12:40:58 -0400"
-    },
-    {
-     "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-     "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-     "date": "Fri, 18 Sep 2026 12:07:51 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "UK jails teen asylum seeker for steering overcrowded Channel migrant boat",
-     "link": "https://www.aljazeera.com/news/2026/9/19/uk-jails-teen-asylum-seeker-for-steering-overcrowded-channel-migrant-boat?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 04:57:30 +0000"
+     "title": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 10:40:12 +0000"
     },
     {
-     "title": "Japan has record 100,000 people aged over 100: How societies are ageing",
-     "link": "https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 04:31:06 +0000"
+     "title": "Trump says US has ‘permanent control’ of Greenland security: Does it?",
+     "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-us-has-permanent-control-of-greenland-security-does-it?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 09:50:30 +0000"
     },
     {
-     "title": "Trump bans CNN, MS NOW, Politico from the White House",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 04:28:54 +0000"
+     "title": "Africa’s Green Revolution threatens traditional foods",
+     "link": "https://www.aljazeera.com/opinions/2026/9/19/africas-green-revolution-threatens-traditional-foods?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 09:36:38 +0000"
     },
     {
-     "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
-     "link": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 04:25:42 +0000"
+     "title": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
+     "link": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 09:05:13 +0000"
     },
     {
-     "title": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
-     "link": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 04:22:47 +0000"
+     "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
+     "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 08:47:17 +0000"
     },
     {
-     "title": "North Korea dismisses UN nuclear watchdog resolution",
-     "link": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 03:29:54 +0000"
+     "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+     "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 08:18:08 +0000"
     },
     {
-     "title": "Report: More US troops have died in Iran war than Pentagon says",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 03:02:51 +0000"
+     "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
+     "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 07:50:44 +0000"
     },
     {
-     "title": "South Africans voice their anger as hundreds hold femicide vigil",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 02:41:57 +0000"
+     "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 07:35:05 +0000"
     }
    ]
   },
