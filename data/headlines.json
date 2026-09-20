@@ -1,28 +1,33 @@
 {
- "updated": "2026-09-20 01:10 UTC",
+ "updated": "2026-09-20 06:17 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-     "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 23:49:26 GMT"
+     "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 05:00:07 GMT"
     },
     {
-     "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+     "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+     "link": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 05:06:37 GMT"
+    },
+    {
+     "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 01:10:01 GMT"
+     "date": "Sun, 20 Sep 2026 04:49:11 GMT"
+    },
+    {
+     "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+     "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 06:16:37 GMT"
     },
     {
      "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
      "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 19 Sep 2026 20:11:35 GMT"
-    },
-    {
-     "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-     "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 23:00:27 GMT"
     },
     {
      "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
@@ -33,11 +38,6 @@
      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 19 Sep 2026 22:51:14 GMT"
-    },
-    {
-     "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
-     "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 15:59:21 GMT"
     },
     {
      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Saudi Arabia says Houthis tried to attack its capital",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+     "date": "Sat, 19 Sep 2026 23:57:23 -0400"
+    },
+    {
+     "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+     "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+     "date": "Sat, 19 Sep 2026 23:34:12 -0400"
+    },
+    {
      "title": "The new lines of southern Lebanon",
      "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
      "date": "Sat, 19 Sep 2026 15:00:24 -0400"
@@ -168,16 +178,6 @@
      "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
      "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
      "date": "Sat, 19 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-     "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-     "date": "Sat, 19 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-     "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-     "date": "Sat, 19 Sep 2026 02:39:57 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
-     "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 00:36:05 +0000"
+     "title": "Journalists locked out of the White House after Trump ban",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 05:43:01 +0000"
     },
     {
-     "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 00:00:00 +0000"
+     "title": "Two German states go to the polls after far-right gains",
+     "link": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 05:42:50 +0000"
     },
     {
-     "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-     "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 23:18:34 +0000"
+     "title": "Jammertest: Arctic exercise to counter satellite jamming",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 05:16:08 +0000"
     },
     {
-     "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-     "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 22:03:05 +0000"
+     "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+     "link": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 04:59:15 +0000"
     },
     {
-     "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 20:47:20 +0000"
+     "title": "Tunisian protesters demand release of four Sumud activists",
+     "link": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 04:55:33 +0000"
     },
     {
-     "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-     "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 20:40:09 +0000"
+     "title": "How did the US recall a billion products in six months?",
+     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 04:18:55 +0000"
     },
     {
-     "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-     "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 20:30:01 +0000"
+     "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
+     "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 03:40:24 +0000"
     },
     {
-     "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 20:13:56 +0000"
+     "title": "Ed Sheeran opens solo concert with comments about Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 03:31:54 +0000"
     }
    ]
   },
