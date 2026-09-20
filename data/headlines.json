@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20 06:17 UTC",
+ "updated": "2026-09-20 12:22 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,34 +15,34 @@
      "date": "Sun, 20 Sep 2026 05:06:37 GMT"
     },
     {
-     "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+     "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+     "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 10:45:39 GMT"
+    },
+    {
+     "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 04:49:11 GMT"
     },
     {
-     "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-     "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 06:16:37 GMT"
-    },
-    {
-     "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-     "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 20:11:35 GMT"
-    },
-    {
-     "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
-     "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 21:27:06 GMT"
-    },
-    {
-     "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+     "title": "The deadly new drugs making Scotland's fight against addiction even harder",
      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 22:51:14 GMT"
+     "date": "Sun, 20 Sep 2026 08:04:55 GMT"
+    },
+    {
+     "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+     "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 09:32:50 GMT"
     },
     {
      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 19 Sep 2026 23:01:38 GMT"
+    },
+    {
+     "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
+     "link": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 23:18:34 GMT"
     }
    ]
   },
@@ -50,44 +50,44 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+     "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 11:22:21 GMT"
+    },
+    {
+     "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+     "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 09:32:50 GMT"
+    },
+    {
+     "title": "Not all AI workers think the tech could kill everyone",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 23:01:57 GMT"
+    },
+    {
+     "title": "Chiltern Railways renationalised after 30 years",
+     "link": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 10:45:39 GMT"
+    },
+    {
+     "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
+     "link": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 11:21:34 GMT"
+    },
+    {
+     "title": "Billionaire Man United owner says he has lost confidence in the UK",
+     "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 18 Sep 2026 23:06:16 GMT"
+    },
+    {
+     "title": "Google's Gemini AI hacked three companies in security test",
+     "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 13:39:32 GMT"
+    },
+    {
      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 17:57:30 GMT"
-    },
-    {
-     "title": "Flight chaos caused by 'millisecond' software defect, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 15:48:58 GMT"
-    },
-    {
-     "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-     "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 17:10:58 GMT"
-    },
-    {
-     "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-     "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 17:15:02 GMT"
-    },
-    {
-     "title": "We bought our £242,000 home without a deposit - here's how",
-     "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 10:43:03 GMT"
-    },
-    {
-     "title": "The virtual worlds where robots are trained",
-     "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 17 Sep 2026 23:00:47 GMT"
-    },
-    {
-     "title": "British Steel plan lacks credibility, MPs say",
-     "link": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 12:47:15 GMT"
-    },
-    {
-     "title": "Thames Water rescue deal should be rejected - MPs",
-     "link": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 05:16:57 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 18 Sep 2026 08:30:12 GMT"
     },
     {
+     "title": "Former president of Chile abandons UN secretary general candidacy",
+     "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+     "date": "Sun, 20 Sep 2026 12:04:08 GMT"
+    },
+    {
      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
      "link": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
      "date": "Fri, 18 Sep 2026 17:10:37 GMT"
@@ -128,11 +133,6 @@
      "title": "New cat species identified for first time in more than a century in Bolivia",
      "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
      "date": "Thu, 17 Sep 2026 20:43:38 GMT"
-    },
-    {
-     "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-     "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-     "date": "Thu, 17 Sep 2026 15:46:15 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
+     "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+     "date": "Sun, 20 Sep 2026 07:00:00 -0400"
+    },
+    {
+     "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+     "date": "Sun, 20 Sep 2026 06:01:00 -0400"
+    },
+    {
+     "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+     "date": "Sun, 20 Sep 2026 06:00:00 -0400"
+    },
+    {
+     "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+     "date": "Sun, 20 Sep 2026 05:16:42 -0400"
+    },
+    {
+     "title": "How the NPR College Podcast Challenge changed lives",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+     "date": "Sun, 20 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "NPR's College Podcast Challenge is back for 2026",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+     "date": "Sun, 20 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+     "date": "Sun, 20 Sep 2026 05:00:00 -0400"
+    },
+    {
      "title": "Saudi Arabia says Houthis tried to attack its capital",
      "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
      "date": "Sat, 19 Sep 2026 23:57:23 -0400"
-    },
-    {
-     "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
-     "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-     "date": "Sat, 19 Sep 2026 23:34:12 -0400"
-    },
-    {
-     "title": "The new lines of southern Lebanon",
-     "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-     "date": "Sat, 19 Sep 2026 15:00:24 -0400"
-    },
-    {
-     "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-     "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-     "date": "Sat, 19 Sep 2026 11:26:31 -0400"
-    },
-    {
-     "title": "Opinion: Remembering Annie Dillard, nature writer",
-     "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
-     "date": "Sat, 19 Sep 2026 08:00:00 -0400"
-    },
-    {
-     "title": "Life in Kabul 5 years after the Taliban's return",
-     "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-     "date": "Sat, 19 Sep 2026 07:40:40 -0400"
-    },
-    {
-     "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
-     "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
-     "date": "Sat, 19 Sep 2026 07:21:56 -0400"
-    },
-    {
-     "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
-     "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-     "date": "Sat, 19 Sep 2026 05:01:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Journalists locked out of the White House after Trump ban",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/journalists-locked-out-of-the-white-house-after-trump-ban?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 05:43:01 +0000"
+     "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 12:00:16 +0000"
     },
     {
-     "title": "Two German states go to the polls after far-right gains",
-     "link": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 05:42:50 +0000"
+     "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+     "link": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 11:54:24 +0000"
     },
     {
-     "title": "Jammertest: Arctic exercise to counter satellite jamming",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 05:16:08 +0000"
+     "title": "Back to school in Gaza: Learning in tents after years of disruption",
+     "link": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 11:26:20 +0000"
     },
     {
-     "title": "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
-     "link": "https://www.aljazeera.com/news/2026/9/20/state-funeral-honours-hong-kongs-first-post-colonial-leader-tung-chee-hwa?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 04:59:15 +0000"
+     "title": "What are Iran’s latest conditions to end its war with the US?",
+     "link": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 11:21:06 +0000"
     },
     {
-     "title": "Tunisian protesters demand release of four Sumud activists",
-     "link": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 04:55:33 +0000"
+     "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
+     "link": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 11:18:21 +0000"
     },
     {
-     "title": "How did the US recall a billion products in six months?",
-     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 04:18:55 +0000"
+     "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 11:10:00 +0000"
     },
     {
-     "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
-     "link": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 03:40:24 +0000"
+     "title": "Trump’s Greenland deal: A triumph of optics?",
+     "link": "https://www.aljazeera.com/opinions/2026/9/20/trumps-greenland-deal-a-triumph-of-optics?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 10:49:10 +0000"
     },
     {
-     "title": "Ed Sheeran opens solo concert with comments about Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 03:31:54 +0000"
+     "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
+     "link": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 10:23:33 +0000"
     }
    ]
   },
