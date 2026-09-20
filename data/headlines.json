@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-20 16:48 UTC",
+ "updated": "2026-09-20 19:27 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 12:23:05 GMT"
+     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+     "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 19:21:28 GMT"
     },
     {
      "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
@@ -25,24 +25,24 @@
      "date": "Sun, 20 Sep 2026 10:45:39 GMT"
     },
     {
+     "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+     "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 17:25:49 GMT"
+    },
+    {
      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 04:49:11 GMT"
     },
     {
-     "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-     "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 23:01:38 GMT"
+     "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
+     "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 17:04:51 GMT"
     },
     {
-     "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-     "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 14:42:42 GMT"
-    },
-    {
-     "title": "Top Gear star Richard Hammond thanks emergency crews 20 years on from crash",
-     "link": "https://www.bbc.co.uk/news/articles/c65y5084x8e0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 13:55:58 GMT"
+     "title": "Trump says triumphal arch will be military complex with drones and snipers",
+     "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 16:36:43 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+     "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+     "date": "Sun, 20 Sep 2026 13:29:29 -0400"
+    },
+    {
      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
      "link": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
      "date": "Sun, 20 Sep 2026 11:05:47 -0400"
@@ -170,11 +175,6 @@
      "date": "Sun, 20 Sep 2026 05:16:42 -0400"
     },
     {
-     "title": "How the NPR College Podcast Challenge changed lives",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
-     "date": "Sun, 20 Sep 2026 05:00:00 -0400"
-    },
-    {
      "title": "NPR's College Podcast Challenge is back for 2026",
      "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
      "date": "Sun, 20 Sep 2026 05:00:00 -0400"
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-     "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 15:57:48 +0000"
+     "title": "How will Saudi Arabia deal with the Houthis?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 18:34:36 +0000"
     },
     {
-     "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-     "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 15:30:10 +0000"
+     "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
+     "link": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 18:32:03 +0000"
     },
     {
-     "title": "Trump says monumental arch in Washington, DC will also be military complex",
-     "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 15:16:38 +0000"
+     "title": "Gaza artists honour Macklemore for supporting Palestine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 17:59:10 +0000"
     },
     {
-     "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 14:43:49 +0000"
+     "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 17:55:46 +0000"
     },
     {
-     "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 14:38:01 +0000"
+     "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
+     "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 17:35:12 +0000"
     },
     {
-     "title": "Humanoid robots fight in cage match in Shanghai",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 14:12:28 +0000"
+     "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+     "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 17:27:53 +0000"
     },
     {
-     "title": "The pro-Israel censors are starting to lose",
-     "link": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 14:00:32 +0000"
+     "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
+     "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 16:47:33 +0000"
     },
     {
-     "title": "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
-     "link": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 13:53:21 +0000"
+     "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+     "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 16:37:19 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+     "link": "https://www.nature.com/articles/d41586-026-02897-4",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+     "link": "https://www.nature.com/articles/d41586-026-02984-6",
+     "date": ""
+    },
+    {
+     "title": "Europe pushes for space independence amid geopolitical rifts",
+     "link": "https://www.nature.com/articles/d41586-026-02919-1",
+     "date": ""
+    },
+    {
+     "title": "How research funding took me out of the lab and into leadership",
+     "link": "https://www.nature.com/articles/d41586-026-02184-2",
+     "date": ""
+    },
+    {
+     "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+     "link": "https://www.nature.com/articles/d41586-026-02945-z",
+     "date": ""
+    },
+    {
+     "title": "How to make a brain: new experiments challenge existing picture",
+     "link": "https://www.nature.com/articles/d41586-026-02943-1",
+     "date": ""
+    },
+    {
+     "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+     "link": "https://www.nature.com/articles/d41586-026-02922-6",
+     "date": ""
+    },
+    {
+     "title": "Chinese companies doubled down on science after US tech restrictions",
+     "link": "https://www.nature.com/articles/d41586-026-02946-y",
+     "date": ""
     }
    ]
   }
