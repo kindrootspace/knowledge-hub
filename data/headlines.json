@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19 23:06 UTC",
+ "updated": "2026-09-20 01:10 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 20:16:07 GMT"
+     "date": "Sat, 19 Sep 2026 23:49:26 GMT"
+    },
+    {
+     "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+     "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 01:10:01 GMT"
     },
     {
      "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
@@ -20,14 +25,14 @@
      "date": "Sat, 19 Sep 2026 23:00:27 GMT"
     },
     {
-     "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-     "link": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 18:03:30 GMT"
-    },
-    {
      "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
      "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 19 Sep 2026 21:27:06 GMT"
+    },
+    {
+     "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+     "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 22:51:14 GMT"
     },
     {
      "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
@@ -35,14 +40,9 @@
      "date": "Fri, 18 Sep 2026 15:59:21 GMT"
     },
     {
-     "title": "Bitter row over Diana book brings back unhappy times for royals",
-     "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 09:37:35 GMT"
-    },
-    {
-     "title": "When a cherished tree began withering away, locals suspected a killer in their midst",
-     "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 22:03:40 GMT"
+     "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+     "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 19 Sep 2026 23:01:38 GMT"
     }
    ]
   },
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+     "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 00:36:05 +0000"
+    },
+    {
+     "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+     "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+     "date": "Sat, 19 Sep 2026 23:18:34 +0000"
+    },
+    {
      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
      "date": "Sat, 19 Sep 2026 22:03:05 +0000"
@@ -208,21 +223,6 @@
      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
      "date": "Sat, 19 Sep 2026 20:13:56 +0000"
-    },
-    {
-     "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-     "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 20:03:23 +0000"
-    },
-    {
-     "title": "Canadians warm to EU ‘associate membership’ proposal",
-     "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 19:53:55 +0000"
-    },
-    {
-     "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
-     "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
-     "date": "Sat, 19 Sep 2026 19:50:10 +0000"
     }
    ]
   },
