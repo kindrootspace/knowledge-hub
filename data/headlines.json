@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20 19:27 UTC",
+ "updated": "2026-09-20 22:26 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 19:21:28 GMT"
+     "date": "Sun, 20 Sep 2026 20:21:40 GMT"
     },
     {
      "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
@@ -20,6 +20,11 @@
      "date": "Sun, 20 Sep 2026 15:00:09 GMT"
     },
     {
+     "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+     "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 21:30:36 GMT"
+    },
+    {
      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 10:45:39 GMT"
@@ -30,19 +35,14 @@
      "date": "Sun, 20 Sep 2026 17:25:49 GMT"
     },
     {
-     "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-     "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 04:49:11 GMT"
-    },
-    {
      "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
      "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 17:04:51 GMT"
     },
     {
-     "title": "Trump says triumphal arch will be military complex with drones and snipers",
-     "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 16:36:43 GMT"
+     "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+     "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 19:04:11 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 18 Sep 2026 08:30:12 GMT"
     },
     {
+     "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+     "link": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+     "date": "Sun, 20 Sep 2026 20:17:44 GMT"
+    },
+    {
      "title": "Michelle Bachelet withdraws from race to become UN secretary general",
      "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
      "date": "Sun, 20 Sep 2026 12:04:08 GMT"
@@ -128,17 +133,22 @@
      "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
      "link": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
      "date": "Fri, 18 Sep 2026 17:10:37 GMT"
-    },
-    {
-     "title": "New cat species identified for first time in more than a century in Bolivia",
-     "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
-     "date": "Thu, 17 Sep 2026 20:43:38 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+     "date": "Sun, 20 Sep 2026 17:53:00 -0400"
+    },
+    {
+     "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+     "date": "Sun, 20 Sep 2026 17:39:24 -0400"
+    },
     {
      "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
      "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
@@ -168,16 +178,6 @@
      "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
      "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
      "date": "Sun, 20 Sep 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-     "date": "Sun, 20 Sep 2026 05:16:42 -0400"
-    },
-    {
-     "title": "NPR's College Podcast Challenge is back for 2026",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
-     "date": "Sun, 20 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "How will Saudi Arabia deal with the Houthis?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 18:34:36 +0000"
+     "title": "France to summon Iran envoy after language centre closure in Tehran",
+     "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 22:06:22 +0000"
     },
     {
-     "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
-     "link": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 18:32:03 +0000"
+     "title": "Qatar PM urges Gulf security framework with Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 21:00:15 +0000"
     },
     {
-     "title": "Gaza artists honour Macklemore for supporting Palestine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 17:59:10 +0000"
+     "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 20:58:01 +0000"
     },
     {
-     "title": "Jerusalem Daily: Israel pardons soldier Elor Azaria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jerusalem-daily-israel-pardons-soldier-elor-azaria?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 17:55:46 +0000"
+     "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+     "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 20:31:15 +0000"
     },
     {
-     "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
-     "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 17:35:12 +0000"
+     "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+     "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 20:13:18 +0000"
     },
     {
-     "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
-     "link": "https://www.aljazeera.com/news/2026/9/20/meloni-promises-to-ban-burqas-niqabs-in-italys-schools?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 17:27:53 +0000"
+     "title": "US, China open high-level talks ahead of Trump-Xi summit",
+     "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 19:42:13 +0000"
     },
     {
-     "title": "Central Colombia forest fire threatens tourist town of Villa de Leyva",
-     "link": "https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 16:47:33 +0000"
+     "title": "Qatar says it is working to revive Iran-US talks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 19:36:12 +0000"
     },
     {
-     "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
-     "link": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 16:37:19 +0000"
+     "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+     "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 19:28:43 +0000"
     }
    ]
   },
