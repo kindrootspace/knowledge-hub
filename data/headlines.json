@@ -1,54 +1,64 @@
 {
- "updated": "2026-09-21 06:22 UTC",
+ "updated": "2026-09-21 14:09 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "Specialist courts for rape cases to be rolled out across England and Wales",
-     "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 22:43:31 GMT"
-    },
-    {
-     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-     "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 03:22:44 GMT"
-    },
-    {
-     "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
-     "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 05:00:34 GMT"
-    },
-    {
-     "title": "Union calls for halt to graded Ofsted inspections over health concerns",
-     "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 23:02:05 GMT"
-    },
-    {
-     "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 04:00:38 GMT"
-    },
     {
      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
      "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 21 Sep 2026 04:00:05 GMT"
     },
     {
-     "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
-     "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 15:21:19 GMT"
+     "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
+     "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 05:00:34 GMT"
     },
     {
-     "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 05:33:06 GMT"
+     "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+     "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 10:00:31 GMT"
+    },
+    {
+     "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+     "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 00:05:11 GMT"
+    },
+    {
+     "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
+     "link": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 12:32:42 GMT"
+    },
+    {
+     "title": "British Museum bans visitors from photographing Bayeux Tapestry",
+     "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 12:21:40 GMT"
+    },
+    {
+     "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
+     "link": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 11:05:13 GMT"
+    },
+    {
+     "title": "Watch: Patrick Clancy says he forgives his ex-wife, Lindsay",
+     "link": "https://www.bbc.co.uk/news/videos/c699dlj957mgo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 13:53:38 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "What are my rights if my flight is cancelled or delayed?",
+     "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 10:28:17 GMT"
+    },
+    {
+     "title": "Tories pledge to bring back tax-free shopping for tourists",
+     "link": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 10:37:23 GMT"
+    },
     {
      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
@@ -60,14 +70,14 @@
      "date": "Mon, 21 Sep 2026 05:50:56 GMT"
     },
     {
-     "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-     "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 00:34:53 GMT"
-    },
-    {
      "title": "Will you get £13,000 a year when you stop working? Here's how to check",
      "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 23:02:45 GMT"
+     "date": "Mon, 21 Sep 2026 08:49:45 GMT"
+    },
+    {
+     "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+     "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 06:25:43 GMT"
     },
     {
      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
@@ -78,16 +88,6 @@
      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 14:42:42 GMT"
-    },
-    {
-     "title": "Not all AI workers think the tech could kill everyone",
-     "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 23:01:57 GMT"
-    },
-    {
-     "title": "Chiltern Railways renationalised after 30 years",
-     "link": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 10:45:39 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-     "date": "Sun, 20 Sep 2026 17:53:00 -0400"
+     "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+     "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
+     "date": "Mon, 21 Sep 2026 07:24:27 -0400"
     },
     {
-     "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-     "date": "Sun, 20 Sep 2026 17:39:24 -0400"
+     "title": "German chancellor stands his ground after his party loses in state elections",
+     "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+     "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-     "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
-     "date": "Sun, 20 Sep 2026 13:29:29 -0400"
+     "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
+     "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
-     "date": "Sun, 20 Sep 2026 11:05:47 -0400"
+     "title": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
+     "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "PHOTOS: The precarious life of fisherfolk",
-     "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
-     "date": "Sun, 20 Sep 2026 08:24:02 -0400"
+     "title": "What to know as world leaders converge at the United Nations this week",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+     "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "The capture of Western Yemen is making the country's humanitarian crisis worse",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5973884/the-capture-of-western-yemen-is-making-the-countrys-humanitarian-crisis-worse",
-     "date": "Sun, 20 Sep 2026 08:05:42 -0400"
+     "title": "The data center backlash is reshaping American politics — one community at a time",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+     "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
-     "date": "Sun, 20 Sep 2026 07:00:00 -0400"
+     "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+     "date": "Mon, 21 Sep 2026 04:41:50 -0400"
     },
     {
-     "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
-     "date": "Sun, 20 Sep 2026 06:01:00 -0400"
+     "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+     "date": "Mon, 21 Sep 2026 04:39:38 -0400"
     }
    ]
   },
@@ -185,50 +185,75 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 05:56:27 +0000"
+     "title": "Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19",
+     "link": "https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:59:13 +0000"
     },
     {
-     "title": "Iran’s military says US preparing to resume strikes",
-     "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 05:21:41 +0000"
+     "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
+     "link": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:32:55 +0000"
     },
     {
-     "title": "Massive explosions at Syrian army weapons depot near Aleppo",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 04:19:00 +0000"
+     "title": "Inside Kazakhstan’s push to become a regional AI centre",
+     "link": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:26:01 +0000"
     },
     {
-     "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 02:31:37 +0000"
+     "title": "Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate",
+     "link": "https://www.aljazeera.com/sports/2026/9/21/swiss-captain-xhaka-sidelined-over-fake-covid-19-vaccination-certificate?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:20:13 +0000"
     },
     {
-     "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-     "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 01:30:46 +0000"
+     "title": "Who is Yu Zidi, China’s 13-year-old swimming sensation?",
+     "link": "https://www.aljazeera.com/sports/2026/9/21/who-is-yu-zidi-chinas-13-year-old-swimming-sensation?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:19:07 +0000"
     },
     {
-     "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-     "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 01:19:42 +0000"
+     "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:18:20 +0000"
     },
     {
-     "title": "The Sahel and the UN: a smaller footprint, a different role",
-     "link": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 00:53:15 +0000"
+     "title": "CNN, Politico, MS NOW to sue Trump administration over White House ban",
+     "link": "https://www.aljazeera.com/news/2026/9/21/cnn-politico-ms-now-to-sue-trump-administration-over-white-house-ban?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 13:15:24 +0000"
     },
     {
-     "title": "Ethiopian armed groups forge alliance against government",
-     "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 00:34:30 +0000"
+     "title": "Moroccan parties mobilise in markets and online for parliamentary elections",
+     "link": "https://www.aljazeera.com/news/2026/9/21/moroccan-parties-mobilise-in-markets-and-online-for-parliamentary-elections?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 12:49:23 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Six principles for supporting academic freedom in universities",
+     "link": "https://www.nature.com/articles/d41586-026-02932-4",
+     "date": ""
+    },
+    {
+     "title": "Losing your way of life to climate change matters — and we need a way to measure it",
+     "link": "https://www.nature.com/articles/d41586-026-02928-0",
+     "date": ""
+    },
+    {
+     "title": "AI co-scientists are revolutionizing how research is done",
+     "link": "https://www.nature.com/articles/d41586-026-02931-5",
+     "date": ""
+    },
+    {
+     "title": "How do I change labs gracefully during my PhD?",
+     "link": "https://www.nature.com/articles/d41586-026-02441-4",
+     "date": ""
+    },
+    {
+     "title": "'Epigenetic' editing is here: gene-tagging technique banishes hepatitis B virus",
+     "link": "https://www.nature.com/articles/d41586-026-02981-9",
+     "date": ""
+    },
     {
      "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
      "link": "https://www.nature.com/articles/d41586-026-02897-4",
@@ -240,33 +265,8 @@
      "date": ""
     },
     {
-     "title": "Europe pushes for space independence amid geopolitical rifts",
-     "link": "https://www.nature.com/articles/d41586-026-02919-1",
-     "date": ""
-    },
-    {
-     "title": "How research funding took me out of the lab and into leadership",
-     "link": "https://www.nature.com/articles/d41586-026-02184-2",
-     "date": ""
-    },
-    {
-     "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
-     "link": "https://www.nature.com/articles/d41586-026-02945-z",
-     "date": ""
-    },
-    {
-     "title": "How to make a brain: new experiments challenge existing picture",
-     "link": "https://www.nature.com/articles/d41586-026-02943-1",
-     "date": ""
-    },
-    {
-     "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
-     "link": "https://www.nature.com/articles/d41586-026-02922-6",
-     "date": ""
-    },
-    {
-     "title": "Chinese companies doubled down on science after US tech restrictions",
-     "link": "https://www.nature.com/articles/d41586-026-02946-y",
+     "title": "Daily briefing: How to turn a paper into an AI agent",
+     "link": "https://www.nature.com/articles/d41586-026-02994-4",
      "date": ""
     }
    ]
