@@ -1,23 +1,23 @@
 {
- "updated": "2026-09-21 01:06 UTC",
+ "updated": "2026-09-21 06:22 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-     "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 20:21:40 GMT"
-    },
-    {
-     "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
-     "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 15:21:19 GMT"
-    },
-    {
      "title": "Specialist courts for rape cases to be rolled out across England and Wales",
      "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 22:43:31 GMT"
+    },
+    {
+     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+     "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 03:22:44 GMT"
+    },
+    {
+     "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+     "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 05:00:34 GMT"
     },
     {
      "title": "Union calls for halt to graded Ofsted inspections over health concerns",
@@ -25,30 +25,40 @@
      "date": "Sun, 20 Sep 2026 23:02:05 GMT"
     },
     {
-     "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-     "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 17:25:49 GMT"
+     "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 04:00:38 GMT"
     },
     {
-     "title": "Kelsey Parker welcomes baby after 'devastating' stillbirth last year",
-     "link": "https://www.bbc.co.uk/news/articles/cmzxz260020qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 17:04:51 GMT"
+     "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+     "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 04:00:05 GMT"
     },
     {
-     "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-     "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 19:04:11 GMT"
+     "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+     "link": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 15:21:19 GMT"
     },
     {
-     "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 23:12:31 GMT"
+     "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 05:33:06 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 04:00:38 GMT"
+    },
+    {
+     "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 05:50:56 GMT"
+    },
     {
      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
      "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
@@ -78,22 +88,17 @@
      "title": "Chiltern Railways renationalised after 30 years",
      "link": "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 10:45:39 GMT"
-    },
-    {
-     "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
-     "link": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 14:05:15 GMT"
-    },
-    {
-     "title": "Billionaire Man United owner says he has lost confidence in the UK",
-     "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 23:06:16 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Banished to alien lands: Trump’s secret deportation deals",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
+     "date": "Mon, 21 Sep 2026 05:00:38 GMT"
+    },
     {
      "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
      "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
@@ -115,9 +120,9 @@
      "date": "Fri, 18 Sep 2026 10:00:15 GMT"
     },
     {
-     "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
-     "link": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
-     "date": "Fri, 18 Sep 2026 08:30:12 GMT"
+     "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+     "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+     "date": "Mon, 21 Sep 2026 01:09:23 GMT"
     },
     {
      "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
@@ -128,11 +133,6 @@
      "title": "Michelle Bachelet withdraws from race to become UN secretary general",
      "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
      "date": "Sun, 20 Sep 2026 12:04:08 GMT"
-    },
-    {
-     "title": "Brazil’s Lula announces higher welfare payments and free weight-loss jabs ahead of election",
-     "link": "https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
-     "date": "Fri, 18 Sep 2026 17:10:37 GMT"
     }
    ]
   },
@@ -165,6 +165,11 @@
      "date": "Sun, 20 Sep 2026 08:24:02 -0400"
     },
     {
+     "title": "The capture of Western Yemen is making the country's humanitarian crisis worse",
+     "link": "https://www.npr.org/2026/09/20/nx-s1-5973884/the-capture-of-western-yemen-is-making-the-countrys-humanitarian-crisis-worse",
+     "date": "Sun, 20 Sep 2026 08:05:42 -0400"
+    },
+    {
      "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
      "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
      "date": "Sun, 20 Sep 2026 07:00:00 -0400"
@@ -173,17 +178,42 @@
      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
      "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
      "date": "Sun, 20 Sep 2026 06:01:00 -0400"
-    },
-    {
-     "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
-     "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
-     "date": "Sun, 20 Sep 2026 06:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Meloni promises to ban burqas, niqabs in Italy’s schools",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 05:56:27 +0000"
+    },
+    {
+     "title": "Iran’s military says US preparing to resume strikes",
+     "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 05:21:41 +0000"
+    },
+    {
+     "title": "Massive explosions at Syrian army weapons depot near Aleppo",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 04:19:00 +0000"
+    },
+    {
+     "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 02:31:37 +0000"
+    },
+    {
+     "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+     "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 01:30:46 +0000"
+    },
+    {
+     "title": "Trump administration readies sweeping sanctions against ICC, reports say",
+     "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 01:19:42 +0000"
+    },
     {
      "title": "The Sahel and the UN: a smaller footprint, a different role",
      "link": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
@@ -193,36 +223,6 @@
      "title": "Ethiopian armed groups forge alliance against government",
      "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
      "date": "Mon, 21 Sep 2026 00:34:30 +0000"
-    },
-    {
-     "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 00:00:47 +0000"
-    },
-    {
-     "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
-     "link": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 23:59:28 +0000"
-    },
-    {
-     "title": "Polls close in Russian wartime election with ruling party set to dominate",
-     "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 22:54:00 +0000"
-    },
-    {
-     "title": "France to summon Iran envoy after language centre closure in Tehran",
-     "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 22:06:22 +0000"
-    },
-    {
-     "title": "Qatar PM urges Gulf security framework with Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 21:00:15 +0000"
-    },
-    {
-     "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 20:58:01 +0000"
     }
    ]
   },
