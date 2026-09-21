@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20 22:26 UTC",
+ "updated": "2026-09-21 01:06 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,19 +15,14 @@
      "date": "Sun, 20 Sep 2026 15:21:19 GMT"
     },
     {
-     "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-     "link": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 15:00:09 GMT"
-    },
-    {
      "title": "Specialist courts for rape cases to be rolled out across England and Wales",
      "link": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 21:30:36 GMT"
+     "date": "Sun, 20 Sep 2026 22:43:31 GMT"
     },
     {
-     "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-     "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 20 Sep 2026 10:45:39 GMT"
+     "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+     "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 23:02:05 GMT"
     },
     {
      "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
@@ -43,12 +38,27 @@
      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 20 Sep 2026 19:04:11 GMT"
+    },
+    {
+     "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
+     "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 23:12:31 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+     "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 00:34:53 GMT"
+    },
+    {
+     "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+     "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 20 Sep 2026 23:02:45 GMT"
+    },
     {
      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
      "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
@@ -78,16 +88,6 @@
      "title": "Billionaire Man United owner says he has lost confidence in the UK",
      "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 18 Sep 2026 23:06:16 GMT"
-    },
-    {
-     "title": "Google's Gemini AI hacked three companies in security test",
-     "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 19 Sep 2026 13:39:32 GMT"
-    },
-    {
-     "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-     "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 18 Sep 2026 17:57:30 GMT"
     }
    ]
   },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "The Sahel and the UN: a smaller footprint, a different role",
+     "link": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 00:53:15 +0000"
+    },
+    {
+     "title": "Ethiopian armed groups forge alliance against government",
+     "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 00:34:30 +0000"
+    },
+    {
+     "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 00:00:47 +0000"
+    },
+    {
+     "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+     "link": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 23:59:28 +0000"
+    },
+    {
+     "title": "Polls close in Russian wartime election with ruling party set to dominate",
+     "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+     "date": "Sun, 20 Sep 2026 22:54:00 +0000"
+    },
+    {
      "title": "France to summon Iran envoy after language centre closure in Tehran",
      "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
      "date": "Sun, 20 Sep 2026 22:06:22 +0000"
@@ -198,31 +223,6 @@
      "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
      "date": "Sun, 20 Sep 2026 20:58:01 +0000"
-    },
-    {
-     "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-     "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 20:31:15 +0000"
-    },
-    {
-     "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-     "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 20:13:18 +0000"
-    },
-    {
-     "title": "US, China open high-level talks ahead of Trump-Xi summit",
-     "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 19:42:13 +0000"
-    },
-    {
-     "title": "Qatar says it is working to revive Iran-US talks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-says-it-is-working-to-revive-iran-us-talks?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 19:36:12 +0000"
-    },
-    {
-     "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
-     "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-     "date": "Sun, 20 Sep 2026 19:28:43 +0000"
     }
    ]
   },
