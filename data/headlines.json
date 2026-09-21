@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21 19:28 UTC",
+ "updated": "2026-09-21 23:17 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 16:39:16 GMT"
+     "date": "Mon, 21 Sep 2026 20:21:18 GMT"
+    },
+    {
+     "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+     "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 21:36:39 GMT"
     },
     {
      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -20,29 +25,24 @@
      "date": "Mon, 21 Sep 2026 17:48:23 GMT"
     },
     {
-     "title": "Seventeen arrested in Teesside organised crime raids",
-     "link": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 15:56:58 GMT"
+     "title": "Flights at major US airports delayed after cable cut by construction workers",
+     "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 22:54:49 GMT"
+    },
+    {
+     "title": "Watch: Police raid organised crime targets in Teesside",
+     "link": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 20:21:29 GMT"
     },
     {
      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 15:58:53 GMT"
+     "date": "Mon, 21 Sep 2026 22:48:33 GMT"
     },
     {
-     "title": "Man charged with causing death by dangerous driving over crash that killed 6",
-     "link": "https://www.bbc.co.uk/news/articles/cmqlwpkl72plo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 17:01:32 GMT"
-    },
-    {
-     "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-     "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 14:06:12 GMT"
-    },
-    {
-     "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 18:42:44 GMT"
+     "title": "Infantino says he is open to Fifa reform",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 19:50:57 GMT"
     }
    ]
   },
@@ -50,19 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Vet prescription fees capped under rule changes",
+     "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 23:01:18 GMT"
+    },
+    {
+     "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+     "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 23:01:26 GMT"
+    },
+    {
+     "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 21:34:32 GMT"
+    },
+    {
      "title": "Repeated air traffic control failures leave us in worrying territory",
      "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 21 Sep 2026 16:39:01 GMT"
     },
     {
-     "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 18:42:44 GMT"
+     "title": "Flights at major US airports delayed after cable cut by construction workers",
+     "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 21 Sep 2026 22:54:49 GMT"
     },
     {
      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 16:39:16 GMT"
+     "date": "Mon, 21 Sep 2026 20:21:18 GMT"
     },
     {
      "title": "What are my rights if my flight is cancelled or delayed?",
@@ -73,27 +88,17 @@
      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 21 Sep 2026 04:00:38 GMT"
-    },
-    {
-     "title": "Tories pledge to bring back tax-free shopping for tourists",
-     "link": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 10:37:23 GMT"
-    },
-    {
-     "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-     "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 05:50:56 GMT"
-    },
-    {
-     "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-     "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 08:49:45 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+     "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+     "date": "Mon, 21 Sep 2026 22:33:40 GMT"
+    },
     {
      "title": "Banished to alien lands: Trump’s secret deportation deals",
      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
@@ -115,11 +120,6 @@
      "date": "Fri, 18 Sep 2026 11:21:36 GMT"
     },
     {
-     "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
-     "link": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
-     "date": "Fri, 18 Sep 2026 10:00:15 GMT"
-    },
-    {
      "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
      "link": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
      "date": "Mon, 21 Sep 2026 17:13:23 GMT"
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "What the equinox 'henge' effect tells us about U.S. cities",
+     "link": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
+     "date": "Mon, 21 Sep 2026 15:50:13 -0400"
+    },
     {
      "title": "Aviation regulators turn to AI to help manage the nation's airspace",
      "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
@@ -165,18 +170,13 @@
      "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "The data center backlash is reshaping American politics — one community at a time",
-     "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+     "title": "Germany's leader stands his ground after his party loses in state elections",
+     "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
      "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
      "title": "What to know as world leaders converge at the United Nations this week",
      "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
-     "date": "Mon, 21 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Germany's leader stands his ground after his party loses in state elections",
-     "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
      "date": "Mon, 21 Sep 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Photos: Gaza’s children return to class in tents and ruins",
-     "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 18:40:26 +0000"
+     "title": "How thousands of migrants stranded in Ceuta are surviving",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 21:04:44 +0000"
     },
     {
-     "title": "Protesters march on Islamabad over soaring fuel prices",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:48:51 +0000"
+     "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+     "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 20:57:43 +0000"
     },
     {
-     "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
-     "link": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:45:40 +0000"
+     "title": "Trump speech inaudible as US networks boycott White House event",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 20:38:51 +0000"
     },
     {
-     "title": "Paramount settles with US states in step towards merger with Warner Bros",
-     "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:42:24 +0000"
+     "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+     "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 20:17:39 +0000"
     },
     {
-     "title": "‘Licence to kill:’ French protests decry police use-of-force bill",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:38:07 +0000"
+     "title": "UN Chief Guterres calls for ban on ‘killer robots’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 20:07:23 +0000"
     },
     {
-     "title": "Airplane makes ‘miracle’ landing as Typhoon Dujuan hits Japan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/airplane-makes-miracle-landing-as-typhoon-dujuan-hits-japan?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:32:34 +0000"
+     "title": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
+     "link": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 20:05:07 +0000"
     },
     {
-     "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:19:59 +0000"
+     "title": "FAA halts flights to major US East Coast airports amid outage",
+     "link": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 20:01:37 +0000"
     },
     {
-     "title": "How is Europe dealing with ‘hybrid war’?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
-     "date": "Mon, 21 Sep 2026 17:12:32 +0000"
+     "title": "Embattled Gianni Infantino says he is open to talks over FIFA reform",
+     "link": "https://www.aljazeera.com/sports/2026/9/21/embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform?traffic_source=rss",
+     "date": "Mon, 21 Sep 2026 19:50:13 +0000"
     }
    ]
   },
