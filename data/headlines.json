@@ -1,38 +1,33 @@
 {
- "updated": "2026-09-22 09:58 UTC",
+ "updated": "2026-09-22 14:54 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "New EU industry rules would damage UK, warns Burnham",
+     "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 13:10:23 GMT"
+    },
     {
      "title": "Martha's Rule rolled out at every A&E department in England",
      "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 08:32:32 GMT"
     },
     {
-     "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-     "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 08:52:12 GMT"
+     "title": "Father admits causing death of his son in hotel fall",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 14:31:34 GMT"
     },
     {
-     "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-     "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 06:03:22 GMT"
+     "title": "Tim Westwood charged with two more sexual offences",
+     "link": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 14:29:31 GMT"
     },
     {
-     "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
-     "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 04:05:58 GMT"
-    },
-    {
-     "title": "Scientists discover why Kent meningitis outbreak was so severe",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 07:55:56 GMT"
-    },
-    {
-     "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-     "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 08:17:15 GMT"
+     "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+     "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 14:42:40 GMT"
     },
     {
      "title": "Watch: Six-year-old girl from China sets new Rubik's Cube world record",
@@ -40,15 +35,25 @@
      "date": "Tue, 22 Sep 2026 02:43:52 GMT"
     },
     {
-     "title": "UK to help refuel Saudi jets countering Houthi attacks",
-     "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 08:53:03 GMT"
+     "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+     "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 11:34:11 GMT"
+    },
+    {
+     "title": "Scientists discover why Kent meningitis outbreak was so severe",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 13:35:38 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+     "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 11:34:11 GMT"
+    },
     {
      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
      "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Mon, 21 Sep 2026 23:01:26 GMT"
     },
     {
-     "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 21:34:32 GMT"
-    },
-    {
      "title": "Spain battles climate change on several fronts",
      "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 09:11:48 GMT"
     },
     {
+     "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 11:24:48 GMT"
+    },
+    {
      "title": "Repeated air traffic control failures leave us in worrying territory",
      "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 21 Sep 2026 16:39:01 GMT"
-    },
-    {
-     "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-     "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 21 Sep 2026 20:21:18 GMT"
     }
    ]
   },
@@ -140,29 +140,29 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
+     "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
+     "date": "Tue, 22 Sep 2026 09:30:01 -0400"
+    },
+    {
+     "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+     "link": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
+     "date": "Tue, 22 Sep 2026 07:01:01 -0400"
+    },
+    {
+     "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+     "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
+     "date": "Tue, 22 Sep 2026 06:59:37 -0400"
+    },
+    {
+     "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian",
+     "date": "Tue, 22 Sep 2026 06:00:00 -0400"
+    },
+    {
      "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
      "link": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
      "date": "Tue, 22 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era",
-     "link": "https://www.npr.org/2026/09/22/g-s1-144369/freedom-caucus-trump-republicans",
-     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Trump heads to U.N. looking for wins after a rough week",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
-     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Police, fire, EMT and mental health: How one city is leading the charge to reshape 911",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5973302/unarmed-911-responders-police-reform",
-     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "The best and biggest games of September",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5971441/review-control-resonant-silent-hill-best-biggest-september-games",
-     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
     },
     {
      "title": "Abortion is on the ballot again as post-Roe policies continue to evolve",
@@ -170,14 +170,14 @@
      "date": "Tue, 22 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
-     "date": "Tue, 22 Sep 2026 04:31:47 -0400"
+     "title": "The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era",
+     "link": "https://www.npr.org/2026/09/22/g-s1-144369/freedom-caucus-trump-republicans",
+     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "New book by Princess Diana's brother prompts war of words with King Charles III",
-     "link": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
-     "date": "Tue, 22 Sep 2026 04:03:27 -0400"
+     "title": "How unarmed 911 teams are reshaping public safety in nearly 100 cities",
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5973302/unarmed-911-responders-police-reform",
+     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
-     "link": "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 09:12:55 +0000"
+     "title": "Why are the Houthis fighting for Yemen’s Kahboub Mountains?",
+     "link": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 14:47:25 +0000"
     },
     {
-     "title": "Gunman opens fire near high school in western Turkiye, wounding eight",
-     "link": "https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 09:04:13 +0000"
+     "title": "UN Chief condemns Gaza destruction, West Bank settlements",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/un-chief-condemns-gaza-destruction-west-bank-settlements?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 14:37:24 +0000"
     },
     {
-     "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation",
-     "link": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 08:54:10 +0000"
+     "title": "Where is the US opening new military bases in Greenland?",
+     "link": "https://www.aljazeera.com/news/2026/9/22/where-is-the-us-opening-new-military-bases-in?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 14:31:50 +0000"
     },
     {
-     "title": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
-     "link": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 08:07:13 +0000"
+     "title": "Jerusalem Daily: Israel besieges Palestinian town",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/jerusalem-daily-israel-besieges-palestinian-town?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 14:30:51 +0000"
     },
     {
-     "title": "Why young people are paying to get hired",
-     "link": "https://www.aljazeera.com/video/money-works/2026/9/22/why-young-people-are-paying-to-get-hired?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 08:02:37 +0000"
+     "title": "Ex-Rwandan official appears at UK trial over 1994 genocide",
+     "link": "https://www.aljazeera.com/news/2026/9/22/2425?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 14:28:54 +0000"
     },
     {
-     "title": "Undermining the UN is not a new US policy",
-     "link": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 07:42:37 +0000"
+     "title": "Colombia eases gun restrictions despite fears of more violence",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 13:45:31 +0000"
     },
     {
-     "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
-     "link": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 07:33:24 +0000"
+     "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+     "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 13:29:53 +0000"
     },
     {
-     "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
-     "link": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 07:27:07 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Biosecurity must protect human functional capacity",
-     "link": "https://www.nature.com/articles/d41586-026-02996-2",
-     "date": ""
-    },
-    {
-     "title": "Why insects need their own protected areas",
-     "link": "https://www.nature.com/articles/d41586-026-02997-1",
-     "date": ""
-    },
-    {
-     "title": "A global safety net for climate-risk intelligence is urgently needed",
-     "link": "https://www.nature.com/articles/d41586-026-02995-3",
-     "date": ""
-    },
-    {
-     "title": "The worst El Niño in recorded history is brewing — here’s how governments must prepare",
-     "link": "https://www.nature.com/articles/d41586-026-02939-x",
-     "date": ""
-    },
-    {
-     "title": "Chemist-aligned retrosynthesis by ensembling diverse inductive bias models",
-     "link": "https://www.nature.com/articles/s41586-026-11160-9",
-     "date": ""
-    },
-    {
-     "title": "Six principles for supporting academic freedom in universities",
-     "link": "https://www.nature.com/articles/d41586-026-02932-4",
-     "date": ""
-    },
-    {
-     "title": "Losing your way of life to climate change matters — and we need a way to measure it",
-     "link": "https://www.nature.com/articles/d41586-026-02928-0",
-     "date": ""
-    },
-    {
-     "title": "Edible batteries power medical devices in the body",
-     "link": "https://www.nature.com/articles/d41586-026-02987-3",
-     "date": ""
+     "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
+     "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 13:28:07 +0000"
     }
    ]
   }
