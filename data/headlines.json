@@ -1,18 +1,23 @@
 {
- "updated": "2026-09-22 18:55 UTC",
+ "updated": "2026-09-22 22:09 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-     "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 18:00:17 GMT"
+     "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+     "link": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 21:22:36 GMT"
     },
     {
-     "title": "New EU industry rules would damage UK, warns Burnham",
-     "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 13:10:23 GMT"
+     "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+     "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 19:15:57 GMT"
+    },
+    {
+     "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+     "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 20:54:49 GMT"
     },
     {
      "title": "Tim Westwood charged with two more sexual offences",
@@ -22,7 +27,7 @@
     {
      "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
      "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 17:50:13 GMT"
+     "date": "Tue, 22 Sep 2026 20:08:52 GMT"
     },
     {
      "title": "Father admits causing death of his son in hotel fall",
@@ -30,19 +35,14 @@
      "date": "Tue, 22 Sep 2026 15:52:35 GMT"
     },
     {
+     "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+     "link": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 19:01:18 GMT"
+    },
+    {
      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 15:17:37 GMT"
-    },
-    {
-     "title": "US to build two military bases in Greenland under new deal with Denmark",
-     "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 18:43:29 GMT"
-    },
-    {
-     "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-     "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 16:50:29 GMT"
     }
    ]
   },
@@ -55,19 +55,19 @@
      "date": "Tue, 22 Sep 2026 15:43:14 GMT"
     },
     {
+     "title": "Trump says he would back ban on diesel exports",
+     "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 20:41:13 GMT"
+    },
+    {
      "title": "New EU industry rules would damage UK, warns Burnham",
      "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 13:10:23 GMT"
+     "date": "Tue, 22 Sep 2026 21:18:40 GMT"
     },
     {
      "title": "'We screwed up': Doordash admits underpaying New York workers",
      "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 16:50:24 GMT"
-    },
-    {
-     "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-     "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 16:50:29 GMT"
     },
     {
      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
@@ -80,14 +80,14 @@
      "date": "Tue, 22 Sep 2026 09:11:48 GMT"
     },
     {
+     "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+     "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 16:50:29 GMT"
+    },
+    {
      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
      "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 21 Sep 2026 23:01:26 GMT"
-    },
-    {
-     "title": "Vet prescription fees capped under rule changes",
-     "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 07:39:35 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 18 Sep 2026 11:21:36 GMT"
     },
     {
+     "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
+     "link": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
+     "date": "Tue, 22 Sep 2026 19:09:29 GMT"
+    },
+    {
      "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
      "link": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
      "date": "Tue, 22 Sep 2026 18:23:08 GMT"
@@ -128,17 +133,32 @@
      "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
      "link": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
      "date": "Tue, 22 Sep 2026 04:29:22 GMT"
-    },
-    {
-     "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
-     "link": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
-     "date": "Mon, 21 Sep 2026 17:13:23 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Questions remain after grand jury declines indictment in Nolan Wells' death",
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death",
+     "date": "Tue, 22 Sep 2026 17:47:51 -0400"
+    },
+    {
+     "title": "Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape",
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5978033/braden-peters-clavicular-looksmaxxing-rape-accusation",
+     "date": "Tue, 22 Sep 2026 17:37:28 -0400"
+    },
+    {
+     "title": "White House launches 'Trump TV' after ban on major news outlets",
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house",
+     "date": "Tue, 22 Sep 2026 17:31:01 -0400"
+    },
+    {
+     "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
+     "link": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions",
+     "date": "Tue, 22 Sep 2026 15:25:05 -0400"
+    },
     {
      "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
      "link": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
@@ -158,26 +178,6 @@
      "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
      "link": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
      "date": "Tue, 22 Sep 2026 07:01:01 -0400"
-    },
-    {
-     "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
-     "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-     "date": "Tue, 22 Sep 2026 06:59:37 -0400"
-    },
-    {
-     "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian",
-     "date": "Tue, 22 Sep 2026 06:00:00 -0400"
-    },
-    {
-     "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
-     "date": "Tue, 22 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Abortion is on the ballot again as post-Roe policies continue to evolve",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
-     "date": "Tue, 22 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Qatar urges diplomacy, rejects Strait of Hormuz ‘bargaining’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-urges-diplomacy-rejects-strait-of-hormuz?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 18:27:01 +0000"
+     "title": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+     "link": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 21:30:51 +0000"
     },
     {
-     "title": "Trump says US officials met for three hours with Iranian delegation",
-     "link": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 18:14:12 +0000"
+     "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 21:11:47 +0000"
     },
     {
-     "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 18:01:49 +0000"
+     "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 21:09:23 +0000"
     },
     {
-     "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
-     "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 17:51:07 +0000"
+     "title": "Macron: France won’t ‘yield an inch’ on Ukraine support",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/macron-france-wont-yield-an-inch-on-ukraine-support?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 21:09:03 +0000"
     },
     {
-     "title": "Sudan’s historical famine echoes through latest hunger crisis",
-     "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 17:45:55 +0000"
+     "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+     "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 20:27:45 +0000"
     },
     {
-     "title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
-     "link": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 17:35:01 +0000"
+     "title": "Trump: US-Iran meeting at UN was ‘very good’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 20:23:48 +0000"
     },
     {
-     "title": "Turkiye school shooting leaves 11 pupils wounded",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 17:02:36 +0000"
+     "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+     "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 20:03:50 +0000"
     },
     {
-     "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-     "link": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
-     "date": "Tue, 22 Sep 2026 16:55:39 +0000"
+     "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+     "date": "Tue, 22 Sep 2026 19:59:36 +0000"
     }
    ]
   },
@@ -250,6 +250,11 @@
      "date": ""
     },
     {
+     "title": "Dust in the wind is on the decline",
+     "link": "https://www.nature.com/articles/d41586-026-02979-3",
+     "date": ""
+    },
+    {
      "title": "About to give your first lecture? Read this first",
      "link": "https://www.nature.com/articles/d41586-026-02369-9",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "This super-cold microscope could spur a quantum revolution",
      "link": "https://www.nature.com/articles/d41586-026-02942-2",
-     "date": ""
-    },
-    {
-     "title": "Why AI companies can’t be trusted to self-regulate",
-     "link": "https://www.nature.com/articles/d41586-026-03014-1",
      "date": ""
     }
    ]
