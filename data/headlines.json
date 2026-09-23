@@ -1,54 +1,59 @@
 {
- "updated": "2026-09-23 11:38 UTC",
+ "updated": "2026-09-23 17:00 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 10:49:44 GMT"
+     "title": "Home secretary says undetected migrant landings 'unacceptable'",
+     "link": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 16:42:23 GMT"
     },
     {
-     "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
-     "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 04:32:59 GMT"
+     "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+     "link": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 15:23:49 GMT"
+    },
+    {
+     "title": "Iran's president tells Trump it will never 'bend the knee'",
+     "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 15:58:13 GMT"
+    },
+    {
+     "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
+     "link": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 11:47:17 GMT"
+    },
+    {
+     "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 12:52:53 GMT"
+    },
+    {
+     "title": "Watch: Trump and Xi are meeting on US soil - what's on their agenda?",
+     "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 11:00:09 GMT"
+    },
+    {
+     "title": "Singer Michael Kiwanuka reveals he is recovering from a stroke",
+     "link": "https://www.bbc.co.uk/news/articles/cmvgy4yydj1do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 16:19:16 GMT"
     },
     {
      "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
      "link": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 23 Sep 2026 05:00:25 GMT"
-    },
-    {
-     "title": "'My eyelids became infected - I was scared to sleep'",
-     "link": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 05:00:32 GMT"
-    },
-    {
-     "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-     "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 11:00:08 GMT"
-    },
-    {
-     "title": "Drug deaths in Scotland rise 11% as country struggles with worst rate in Europe",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyz2pvw058o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 11:03:19 GMT"
-    },
-    {
-     "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
-     "link": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 08:43:47 GMT"
-    },
-    {
-     "title": "What's at stake when Trump and Xi meet in the US?",
-     "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 11:00:09 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+     "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 16:42:47 GMT"
+    },
     {
      "title": "Off sick? You need to phone your boss, back-to-work adviser says",
      "link": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
@@ -57,7 +62,7 @@
     {
      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
      "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 11:00:08 GMT"
+     "date": "Wed, 23 Sep 2026 13:50:25 GMT"
     },
     {
      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
@@ -70,24 +75,19 @@
      "date": "Wed, 23 Sep 2026 03:20:30 GMT"
     },
     {
-     "title": "UK and US warned to take action on spiralling debt costs by IMF",
-     "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 08:31:16 GMT"
-    },
-    {
      "title": "Will a switch to light speed cut power use at data centres?",
      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 23:03:48 GMT"
     },
     {
+     "title": "UK and US warned to take action on spiralling debt costs by IMF",
+     "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 08:31:16 GMT"
+    },
+    {
      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 23:20:31 GMT"
-    },
-    {
-     "title": "Trump says he would back ban on diesel exports",
-     "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 20:41:13 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 18 Sep 2026 23:08:49 GMT"
     },
     {
+     "title": "Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby",
+     "link": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
+     "date": "Wed, 23 Sep 2026 12:54:07 GMT"
+    },
+    {
      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
      "link": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
      "date": "Wed, 23 Sep 2026 01:15:26 GMT"
@@ -128,11 +133,6 @@
      "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
      "link": "https://www.theguardian.com/world/2026/sep/22/hurricane-polo-mexico",
      "date": "Tue, 22 Sep 2026 19:09:29 GMT"
-    },
-    {
-     "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
-     "link": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
-     "date": "Tue, 22 Sep 2026 18:23:08 GMT"
     }
    ]
   },
@@ -140,9 +140,34 @@
    "name": "NPR",
    "items": [
     {
+     "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+     "date": "Wed, 23 Sep 2026 12:13:52 -0400"
+    },
+    {
+     "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
+     "date": "Wed, 23 Sep 2026 10:09:10 -0400"
+    },
+    {
+     "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
+     "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+     "date": "Wed, 23 Sep 2026 09:31:47 -0400"
+    },
+    {
+     "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
+     "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
+     "date": "Wed, 23 Sep 2026 07:48:00 -0400"
+    },
+    {
      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
      "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
      "date": "Wed, 23 Sep 2026 07:13:32 -0400"
+    },
+    {
+     "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+     "date": "Wed, 23 Sep 2026 06:48:47 -0400"
     },
     {
      "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
@@ -153,31 +178,6 @@
      "title": "DOJ defends White House media ban, urges court to reject lawsuit",
      "link": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
      "date": "Wed, 23 Sep 2026 05:06:47 -0400"
-    },
-    {
-     "title": "Major news outlets banned by Trump will have their day in court",
-     "link": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-     "date": "Wed, 23 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
-     "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-     "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
-     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
-     "link": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
-     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Poll: Trust in the U.S. Postal Service delivering mail-in ballots on time has fallen",
-     "link": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
-     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 11:03:35 +0000"
+     "title": "Israel’s destruction leaves Lebanon’s border villages in ruins",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:48:33 +0000"
     },
     {
-     "title": "China’s swimming prodigy Yu Zidi bags third gold in Asian Games record",
-     "link": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 10:50:43 +0000"
+     "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
+     "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:44:01 +0000"
     },
     {
-     "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
-     "link": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 10:44:52 +0000"
+     "title": "How and why the UN General Assembly is gaining prominence",
+     "link": "https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:36:09 +0000"
     },
     {
-     "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
-     "link": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 10:27:38 +0000"
+     "title": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:34:47 +0000"
     },
     {
-     "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
-     "link": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 10:15:37 +0000"
+     "title": "Scientists warn super El Nino could cause 450,000 deaths: Should we worry?",
+     "link": "https://www.aljazeera.com/features/2026/9/23/scientists-warn-super-el-nino-could-cause-450000-deaths-should-we-worry?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:29:55 +0000"
     },
     {
-     "title": "World leaders say UN Security Council failing to function",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/world-leaders-say-un-security-council-failing-to-function?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 10:04:35 +0000"
+     "title": "Yemeni government in military and diplomatic push to reverse Houthi gains",
+     "link": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:21:18 +0000"
     },
     {
-     "title": "Europe’s centrists are finally paying the price of their extremism",
-     "link": "https://www.aljazeera.com/opinions/2026/9/23/europes-centrists-are-finally-paying-the-price-of-their-extremism?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 10:02:50 +0000"
+     "title": "Argentina to UN: Falkland Islands are a ‘national cause’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/argentina-to-un-falkland-islands-are-a-national?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 16:12:48 +0000"
     },
     {
-     "title": "Ethiopian Airlines suspends flights to three northern Tigray airports",
-     "link": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 09:58:51 +0000"
+     "title": "KPMG manager says she was fired after facing harassment over her keffiyeh",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 15:52:13 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+     "link": "https://www.nature.com/articles/s41586-026-11189-w",
+     "date": ""
+    },
+    {
+     "title": "Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",
+     "link": "https://www.nature.com/articles/s41586-026-11169-0",
+     "date": ""
+    },
+    {
+     "title": "Bank accounts reveal the fingerprints of abusive financial control",
+     "link": "https://www.nature.com/articles/d41586-026-03021-2",
+     "date": ""
+    },
+    {
+     "title": "Competition heats up in the regenerative-medicine ranks",
+     "link": "https://www.nature.com/articles/d41586-026-02856-z",
+     "date": ""
+    },
+    {
+     "title": "Huge hoard of metal bars hints at vast Iron Age trade",
+     "link": "https://www.nature.com/articles/d41586-026-02986-4",
+     "date": ""
+    },
+    {
+     "title": "The gene-regulatory evolution of the human skeleton",
+     "link": "https://www.nature.com/articles/s41586-026-11053-x",
+     "date": ""
+    },
+    {
+     "title": "The anthropogenic fingerprint on emerging infectious diseases",
+     "link": "https://www.nature.com/articles/s41586-026-11058-6",
+     "date": ""
+    },
+    {
+     "title": "Gravitational torque drives multidecadal variations in length of day",
+     "link": "https://www.nature.com/articles/s41586-026-10999-2",
+     "date": ""
     }
    ]
   }
