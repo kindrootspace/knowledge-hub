@@ -1,18 +1,18 @@
 {
- "updated": "2026-09-23 05:59 UTC",
+ "updated": "2026-09-23 11:38 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
-     "link": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 01:08:40 GMT"
+     "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 10:49:44 GMT"
     },
     {
-     "title": "Watch: Key moments from Andy Burnham's first UN speech",
-     "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 01:25:47 GMT"
+     "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+     "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 04:32:59 GMT"
     },
     {
      "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
@@ -25,24 +25,24 @@
      "date": "Wed, 23 Sep 2026 05:00:32 GMT"
     },
     {
-     "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
-     "link": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 23:20:43 GMT"
+     "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+     "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 11:00:08 GMT"
     },
     {
-     "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
-     "link": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 04:32:59 GMT"
+     "title": "Drug deaths in Scotland rise 11% as country struggles with worst rate in Europe",
+     "link": "https://www.bbc.co.uk/news/articles/cmwyz2pvw058o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 11:03:19 GMT"
     },
     {
-     "title": "Child ketamine users getting bladder damage describe 'peeing a jellyfish'",
-     "link": "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 23:21:16 GMT"
+     "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
+     "link": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 08:43:47 GMT"
     },
     {
-     "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 23:01:28 GMT"
+     "title": "What's at stake when Trump and Xi meet in the US?",
+     "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 11:00:09 GMT"
     }
    ]
   },
@@ -50,19 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Off sick? You need to phone your boss, back-to-work adviser says",
+     "link": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 10:49:51 GMT"
+    },
+    {
+     "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+     "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 23 Sep 2026 11:00:08 GMT"
+    },
+    {
      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 23:11:33 GMT"
     },
     {
-     "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+     "title": "Trump wants AI to be rebranded as super intelligence. Will it work?",
      "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 23 Sep 2026 03:20:30 GMT"
     },
     {
-     "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+     "title": "UK and US warned to take action on spiralling debt costs by IMF",
      "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 23:01:28 GMT"
+     "date": "Wed, 23 Sep 2026 08:31:16 GMT"
+    },
+    {
+     "title": "Will a switch to light speed cut power use at data centres?",
+     "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 22 Sep 2026 23:03:48 GMT"
     },
     {
      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
@@ -73,27 +88,22 @@
      "title": "Trump says he would back ban on diesel exports",
      "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 22 Sep 2026 20:41:13 GMT"
-    },
-    {
-     "title": "Will a switch to light speed cut power use at data centres?",
-     "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 23:03:48 GMT"
-    },
-    {
-     "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-     "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 15:43:14 GMT"
-    },
-    {
-     "title": "'We screwed up': Doordash admits underpaying New York workers",
-     "link": "https://www.bbc.co.uk/news/articles/cjr4v72y6p4eo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 22 Sep 2026 16:50:24 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+     "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+     "date": "Wed, 23 Sep 2026 11:08:01 GMT"
+    },
+    {
+     "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+     "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+     "date": "Wed, 23 Sep 2026 09:38:06 GMT"
+    },
     {
      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
      "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
@@ -108,16 +118,6 @@
      "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
      "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
      "date": "Fri, 18 Sep 2026 23:08:49 GMT"
-    },
-    {
-     "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-     "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-     "date": "Fri, 18 Sep 2026 17:27:39 GMT"
-    },
-    {
-     "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-     "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-     "date": "Fri, 18 Sep 2026 11:21:36 GMT"
     },
     {
      "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
-     "link": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act",
-     "date": "Wed, 23 Sep 2026 01:26:31 -0400"
+     "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
+     "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
+     "date": "Wed, 23 Sep 2026 07:13:32 -0400"
     },
     {
-     "title": "Questions remain after grand jury declines indictment in Nolan Wells' death",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death",
-     "date": "Tue, 22 Sep 2026 17:47:51 -0400"
+     "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
+     "date": "Wed, 23 Sep 2026 06:00:00 -0400"
     },
     {
-     "title": "Girl accuses Braden Peters, social media influencer known as 'Clavicular,' of rape",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5978033/braden-peters-clavicular-looksmaxxing-rape-accusation",
-     "date": "Tue, 22 Sep 2026 17:37:28 -0400"
+     "title": "DOJ defends White House media ban, urges court to reject lawsuit",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
+     "date": "Wed, 23 Sep 2026 05:06:47 -0400"
     },
     {
-     "title": "White House launches 'Trump TV' after ban on major news outlets",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house",
-     "date": "Tue, 22 Sep 2026 17:31:01 -0400"
+     "title": "Major news outlets banned by Trump will have their day in court",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
+     "date": "Wed, 23 Sep 2026 05:01:00 -0400"
     },
     {
-     "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions",
-     "date": "Tue, 22 Sep 2026 15:25:05 -0400"
+     "title": "There's growing concern that Trump may deploy the National Guard ahead of elections",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
+     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-     "date": "Tue, 22 Sep 2026 12:29:37 -0400"
+     "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
+     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
-     "link": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
-     "date": "Tue, 22 Sep 2026 12:17:37 -0400"
+     "title": "How an 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
     },
     {
-     "title": "Sri Lanka court convicts 15 over deadly 2019 Easter bombings",
-     "link": "https://www.npr.org/2026/09/22/g-s1-144514/sri-lanka-court-convicts-15-over-deadly-2019-easter-bombings",
-     "date": "Tue, 22 Sep 2026 09:30:01 -0400"
+     "title": "Poll: Trust in the U.S. Postal Service delivering mail-in ballots on time has fallen",
+     "link": "https://www.npr.org/2026/09/23/nx-s1-5978081/usps-election-mail-in-ballot",
+     "date": "Wed, 23 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Trump rallies Shield of the Americas coalition against drug cartels",
-     "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 05:34:40 +0000"
+     "title": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 11:03:35 +0000"
     },
     {
-     "title": "Cooperation is the goal at the UNGA, but is it possible?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 05:07:26 +0000"
+     "title": "China’s swimming prodigy Yu Zidi bags third gold in Asian Games record",
+     "link": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 10:50:43 +0000"
     },
     {
-     "title": "Six-year-old sets Rubik’s Cube world record twice in three days",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 04:58:08 +0000"
+     "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
+     "link": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 10:44:52 +0000"
     },
     {
-     "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
-     "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 04:42:15 +0000"
+     "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
+     "link": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 10:27:38 +0000"
     },
     {
-     "title": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 04:08:17 +0000"
+     "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
+     "link": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 10:15:37 +0000"
     },
     {
-     "title": "Venezuelans protest interim leader Delcy Rodriguez at UN headquarters",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 03:08:51 +0000"
+     "title": "World leaders say UN Security Council failing to function",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/world-leaders-say-un-security-council-failing-to-function?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 10:04:35 +0000"
     },
     {
-     "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
-     "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 02:50:36 +0000"
+     "title": "Europe’s centrists are finally paying the price of their extremism",
+     "link": "https://www.aljazeera.com/opinions/2026/9/23/europes-centrists-are-finally-paying-the-price-of-their-extremism?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 10:02:50 +0000"
     },
     {
-     "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-     "link": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-     "date": "Wed, 23 Sep 2026 02:36:32 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Biosecurity must protect human functional capacity",
-     "link": "https://www.nature.com/articles/d41586-026-02996-2",
-     "date": ""
-    },
-    {
-     "title": "Why insects need their own protected areas",
-     "link": "https://www.nature.com/articles/d41586-026-02997-1",
-     "date": ""
-    },
-    {
-     "title": "A global safety net for climate-risk intelligence is urgently needed",
-     "link": "https://www.nature.com/articles/d41586-026-02995-3",
-     "date": ""
-    },
-    {
-     "title": "What happens in Vegas: one lecturer’s hunt for a projector",
-     "link": "https://www.nature.com/articles/d41586-026-02724-w",
-     "date": ""
-    },
-    {
-     "title": "Dust in the wind is on the decline",
-     "link": "https://www.nature.com/articles/d41586-026-02979-3",
-     "date": ""
-    },
-    {
-     "title": "About to give your first lecture? Read this first",
-     "link": "https://www.nature.com/articles/d41586-026-02369-9",
-     "date": ""
-    },
-    {
-     "title": "Watch scientists decipher burnt scrolls without unrolling them",
-     "link": "https://www.nature.com/articles/d41586-026-02920-8",
-     "date": ""
-    },
-    {
-     "title": "This super-cold microscope could spur a quantum revolution",
-     "link": "https://www.nature.com/articles/d41586-026-02942-2",
-     "date": ""
+     "title": "Ethiopian Airlines suspends flights to three northern Tigray airports",
+     "link": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports?traffic_source=rss",
+     "date": "Wed, 23 Sep 2026 09:58:51 +0000"
     }
    ]
   }
