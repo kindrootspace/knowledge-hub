@@ -1,13 +1,23 @@
 {
- "updated": "2026-09-24 15:07 UTC",
+ "updated": "2026-09-24 19:10 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+     "title": "Watch: Why has Trump been so eager to welcome Xi?",
+     "link": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 15:16:27 GMT"
+    },
+    {
+     "title": "White House restores access to media outlets banned by Trump after judge's order",
      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 14:55:34 GMT"
+     "date": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+     "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+     "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 16:00:29 GMT"
     },
     {
      "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
@@ -15,34 +25,24 @@
      "date": "Thu, 24 Sep 2026 12:29:39 GMT"
     },
     {
-     "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-     "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 11:59:23 GMT"
+     "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
+     "link": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 15:57:55 GMT"
     },
     {
-     "title": "Anti-migrant activist arrested after dinghy slashed in Channel",
-     "link": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 08:42:35 GMT"
+     "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
+     "link": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 17:49:46 GMT"
+    },
+    {
+     "title": "Watch: UN delegates walk out of Netanyahu speech",
+     "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 18:29:29 GMT"
     },
     {
      "title": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
      "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 12:18:04 GMT"
-    },
-    {
-     "title": "German prosecutors investigate 105-year-old for crimes at Nazi PoW camp",
-     "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 14:37:34 GMT"
-    },
-    {
-     "title": "Small boat migrant arrivals reach 781 in one day, breaking 2026 record",
-     "link": "https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 14:58:51 GMT"
-    },
-    {
-     "title": "Watch: What you need to know about the OpenAI Australian government hack",
-     "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 05:18:26 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Reported assaults on Britain's rail services rise by more than a third",
      "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 13:07:28 GMT"
+     "date": "Thu, 24 Sep 2026 15:38:50 GMT"
     },
     {
      "title": "£170 a bag? Protein users squeezed as prices soar",
@@ -67,7 +67,7 @@
     {
      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 07:10:58 GMT"
+     "date": "Thu, 24 Sep 2026 15:42:07 GMT"
     },
     {
      "title": "How the oil capital of the US welcomed a solar power boom",
@@ -97,7 +97,7 @@
     {
      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
      "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-     "date": "Thu, 24 Sep 2026 13:43:09 GMT"
+     "date": "Thu, 24 Sep 2026 15:29:42 GMT"
     },
     {
      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
@@ -120,6 +120,11 @@
      "date": "Mon, 21 Sep 2026 05:00:38 GMT"
     },
     {
+     "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
+     "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
+     "date": "Thu, 24 Sep 2026 17:56:06 GMT"
+    },
+    {
      "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
      "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
      "date": "Wed, 23 Sep 2026 18:50:43 GMT"
@@ -128,11 +133,6 @@
      "title": "Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby",
      "link": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
      "date": "Wed, 23 Sep 2026 12:54:07 GMT"
-    },
-    {
-     "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
-     "link": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
-     "date": "Wed, 23 Sep 2026 01:15:26 GMT"
     }
    ]
   },
@@ -140,8 +140,23 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Trump rolls out the red carpet for Xi as high-stakes summit begins",
-     "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
+     "title": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
+     "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
+     "date": "Thu, 24 Sep 2026 13:51:40 -0400"
+    },
+    {
+     "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
+     "link": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
+     "date": "Thu, 24 Sep 2026 12:01:44 -0400"
+    },
+    {
+     "title": "The economic squeeze is pushing up poverty rates for older adults",
+     "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+     "date": "Thu, 24 Sep 2026 11:00:00 -0400"
+    },
+    {
+     "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+     "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
      "date": "Thu, 24 Sep 2026 08:43:15 -0400"
     },
     {
@@ -163,21 +178,6 @@
      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
      "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
      "date": "Thu, 24 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Warren demands Trump officials explain removing a ban on interference in census data",
-     "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
-     "date": "Thu, 24 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-     "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-     "date": "Thu, 24 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "States threaten action against company profiting off disabled vets after NPR report",
-     "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
-     "date": "Thu, 24 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Why are Ireland vs Israel football matches so controversial?",
-     "link": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 14:36:02 +0000"
+     "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+     "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 18:19:03 +0000"
     },
     {
-     "title": "Forever Chemicals: Ground Zero",
-     "link": "https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 14:30:00 +0000"
+     "title": "US and China presidents discuss cooperation, trade and AI risks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 18:19:01 +0000"
     },
     {
-     "title": "‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time",
-     "link": "https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 14:15:35 +0000"
+     "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+     "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 18:13:32 +0000"
     },
     {
-     "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-     "link": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 14:04:43 +0000"
+     "title": "Iranian-American group sues Trump over war",
+     "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 17:45:52 +0000"
     },
     {
-     "title": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
-     "link": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 13:42:05 +0000"
+     "title": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
+     "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 17:15:31 +0000"
     },
     {
-     "title": "Has China received US F-35 parts by diverting an Australian shipment?",
-     "link": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 13:36:22 +0000"
+     "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 17:08:50 +0000"
     },
     {
-     "title": "Netanyahu at UNGA over the years",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 13:35:45 +0000"
+     "title": "Collapsing currency and inflation leave families struggling in Sudan",
+     "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 17:03:55 +0000"
     },
     {
-     "title": "Hurricane Polo brings fears of heavy rain and landslides in Mexico",
-     "link": "https://www.aljazeera.com/news/2026/9/24/hurricane-polo-hits-mexicos-coast-as-tropical-storm-nolo-approaches-hawaii?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 13:02:43 +0000"
+     "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
+     "link": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 17:03:31 +0000"
     }
    ]
   },
@@ -230,13 +230,28 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Bumblebees don’t mind a little plastic in their honeypots",
+     "link": "https://www.nature.com/articles/d41586-026-02988-2",
+     "date": ""
+    },
+    {
      "title": "Youthful fans of YouTube sports videos stick to the sofa",
      "link": "https://www.nature.com/articles/d41586-026-02989-1",
      "date": ""
     },
     {
+     "title": "AI system helps lab devices ‘talk’ with each other — streamlining research",
+     "link": "https://www.nature.com/articles/d41586-026-02990-8",
+     "date": ""
+    },
+    {
      "title": "AI agent hacks government website for first time: why this breach matters",
      "link": "https://www.nature.com/articles/d41586-026-03024-z",
+     "date": ""
+    },
+    {
+     "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
+     "link": "https://www.nature.com/articles/d41586-026-03022-1",
      "date": ""
     },
     {
@@ -252,21 +267,6 @@
     {
      "title": "Bank accounts reveal the fingerprints of abusive financial control",
      "link": "https://www.nature.com/articles/d41586-026-03021-2",
-     "date": ""
-    },
-    {
-     "title": "Competition heats up in the regenerative-medicine ranks",
-     "link": "https://www.nature.com/articles/d41586-026-02856-z",
-     "date": ""
-    },
-    {
-     "title": "Huge hoard of metal bars hints at vast Iron Age trade",
-     "link": "https://www.nature.com/articles/d41586-026-02986-4",
-     "date": ""
-    },
-    {
-     "title": "The gene-regulatory evolution of the human skeleton",
-     "link": "https://www.nature.com/articles/s41586-026-11053-x",
      "date": ""
     }
    ]
