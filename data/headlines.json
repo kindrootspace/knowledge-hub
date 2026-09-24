@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24 19:10 UTC",
+ "updated": "2026-09-24 22:25 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,19 @@
      "date": "Thu, 24 Sep 2026 15:16:27 GMT"
     },
     {
+     "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+     "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 22:16:23 GMT"
+    },
+    {
      "title": "White House restores access to media outlets banned by Trump after judge's order",
      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 17:49:20 GMT"
+    },
+    {
+     "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+     "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 21:21:47 GMT"
     },
     {
      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
@@ -20,24 +30,14 @@
      "date": "Thu, 24 Sep 2026 16:00:29 GMT"
     },
     {
-     "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
-     "link": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 12:29:39 GMT"
-    },
-    {
      "title": "Man jailed for two years over throwing bottle at Portsmouth migrant protest",
      "link": "https://www.bbc.co.uk/news/articles/c8vgy7ww21rqo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 15:57:55 GMT"
     },
     {
-     "title": "'It has broken us as a family,' mother of poison seller victim tells hearing",
+     "title": "'We are living a constant nightmare,' mother of poison seller victim tells hearing",
      "link": "https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 17:49:46 GMT"
-    },
-    {
-     "title": "Watch: UN delegates walk out of Netanyahu speech",
-     "link": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 18:29:29 GMT"
+     "date": "Thu, 24 Sep 2026 19:16:05 GMT"
     },
     {
      "title": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+     "date": "Thu, 24 Sep 2026 15:46:53 -0400"
+    },
+    {
      "title": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
      "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
      "date": "Thu, 24 Sep 2026 13:51:40 -0400"
@@ -170,13 +175,8 @@
      "date": "Thu, 24 Sep 2026 06:43:25 -0400"
     },
     {
-     "title": "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say",
-     "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
-     "date": "Thu, 24 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-     "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+     "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+     "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
      "date": "Thu, 24 Sep 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-     "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 18:19:03 +0000"
+     "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+     "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 21:56:15 +0000"
     },
     {
-     "title": "US and China presidents discuss cooperation, trade and AI risks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 18:19:01 +0000"
+     "title": "Croatian court approves extradition in Nord Stream bombing case",
+     "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 21:47:44 +0000"
     },
     {
-     "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-     "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 18:13:32 +0000"
+     "title": "Trump and Xi hold critical talks at White House summit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 21:41:40 +0000"
     },
     {
-     "title": "Iranian-American group sues Trump over war",
-     "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 17:45:52 +0000"
+     "title": "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/actors-arrested-bibi-protest-unga?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 21:15:56 +0000"
     },
     {
-     "title": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
-     "link": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 17:15:31 +0000"
+     "title": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 21:08:30 +0000"
     },
     {
-     "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 17:08:50 +0000"
+     "title": "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
+     "link": "https://www.aljazeera.com/sports/2026/9/24/portugal-beat-wales-1-0-as-nations-league-defence-begins?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 21:07:33 +0000"
     },
     {
-     "title": "Collapsing currency and inflation leave families struggling in Sudan",
-     "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 17:03:55 +0000"
+     "title": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 20:54:28 +0000"
     },
     {
-     "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-     "link": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 17:03:31 +0000"
+     "title": "US citizen injured after wrongly arrested by ICE in Illinois",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-citizen-injured-after-wrongly-arrested-by-ice-in-illinois?traffic_source=rss",
+     "date": "Thu, 24 Sep 2026 20:23:06 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "Youthful fans of YouTube sports videos stick to the sofa",
      "link": "https://www.nature.com/articles/d41586-026-02989-1",
+     "date": ""
+    },
+    {
+     "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
+     "link": "https://www.nature.com/articles/d41586-026-03020-3",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",
      "link": "https://www.nature.com/articles/s41586-026-11169-0",
-     "date": ""
-    },
-    {
-     "title": "Bank accounts reveal the fingerprints of abusive financial control",
-     "link": "https://www.nature.com/articles/d41586-026-03021-2",
      "date": ""
     }
    ]
