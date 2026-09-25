@@ -1,33 +1,23 @@
 {
- "updated": "2026-09-25 01:31 UTC",
+ "updated": "2026-09-25 07:49 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 06:40:18 GMT"
+    },
     {
      "title": "Watch: The world’s two most powerful men just met. How did it go?",
      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 01:27:10 GMT"
     },
     {
-     "title": "Anti-migrant activist charged after dinghy slashed in Channel",
-     "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 22:16:23 GMT"
-    },
-    {
-     "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+     "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
      "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 23:44:00 GMT"
-    },
-    {
-     "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-     "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 00:44:04 GMT"
-    },
-    {
-     "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-     "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 23:44:38 GMT"
     },
     {
      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
@@ -35,14 +25,24 @@
      "date": "Thu, 24 Sep 2026 23:45:08 GMT"
     },
     {
-     "title": "Hundreds of thousands expected in Paris for Pope's visit",
-     "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 23:17:00 GMT"
+     "title": "What to expect from Burnham's first Labour conference as PM",
+     "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 23:44:38 GMT"
     },
     {
-     "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-     "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 01:10:35 GMT"
+     "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+     "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 22:16:23 GMT"
+    },
+    {
+     "title": "FA could have prevented our son's death, say parents of striker Billy Vigar",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 05:25:29 GMT"
+    },
+    {
+     "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+     "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 00:44:04 GMT"
     }
    ]
   },
@@ -50,14 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 06:40:18 GMT"
+    },
+    {
      "title": "'We're all broke': Would you chase a friend for £5?",
      "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 23:00:45 GMT"
     },
     {
-     "title": "Reported assaults on Britain's rail services rise by more than a third",
-     "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 15:38:50 GMT"
+     "title": "Farmers down 240 million litres of milk after heat",
+     "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 05:30:13 GMT"
     },
     {
      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -65,9 +70,9 @@
      "date": "Thu, 24 Sep 2026 18:06:40 GMT"
     },
     {
-     "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-     "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 00:50:24 GMT"
+     "title": "Scam hotel booking sent family to Wetherspoon pub",
+     "link": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 05:02:48 GMT"
     },
     {
      "title": "X-planes: Are they needed in the new era of drones?",
@@ -75,19 +80,14 @@
      "date": "Thu, 24 Sep 2026 23:03:53 GMT"
     },
     {
-     "title": "£170 a bag? Protein users squeezed as prices soar",
-     "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 23:12:01 GMT"
+     "title": "Africa's richest man, Ethiopia and Djibouti to build $660m fuel pipeline",
+     "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 06:48:07 GMT"
     },
     {
-     "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-     "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 22:01:17 GMT"
-    },
-    {
-     "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-     "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 23 Sep 2026 21:25:01 GMT"
+     "title": "Reported assaults on Britain's rail services rise by more than a third",
+     "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 15:38:50 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 21 Sep 2026 05:00:38 GMT"
     },
     {
+     "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+     "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+     "date": "Fri, 25 Sep 2026 03:33:48 GMT"
+    },
+    {
      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
      "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
      "date": "Thu, 24 Sep 2026 17:56:06 GMT"
@@ -128,17 +133,22 @@
      "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
      "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
      "date": "Wed, 23 Sep 2026 18:50:43 GMT"
-    },
-    {
-     "title": "Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby",
-     "link": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
-     "date": "Wed, 23 Sep 2026 12:54:07 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Trump's state dinner for Xi features sea bass and a long list of tech titans",
+     "link": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
+     "date": "Fri, 25 Sep 2026 02:18:59 -0400"
+    },
+    {
+     "title": "Man shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
+     "link": "https://www.npr.org/2026/09/25/nx-s1-5980967/man-shot-trump-campaign-rally-dies",
+     "date": "Fri, 25 Sep 2026 02:16:07 -0400"
+    },
     {
      "title": "Long agenda, short meeting: Trump and Xi meet",
      "link": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
@@ -168,16 +178,6 @@
      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
      "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
      "date": "Thu, 24 Sep 2026 08:43:15 -0400"
-    },
-    {
-     "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
-     "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
-     "date": "Thu, 24 Sep 2026 07:10:14 -0400"
-    },
-    {
-     "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
-     "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
-     "date": "Thu, 24 Sep 2026 06:43:25 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
-     "link": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 00:38:13 +0000"
+     "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+     "link": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 06:56:51 +0000"
     },
     {
-     "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
-     "link": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 00:35:51 +0000"
+     "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+     "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 06:44:31 +0000"
     },
     {
-     "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-     "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 00:24:47 +0000"
+     "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 06:28:00 +0000"
     },
     {
-     "title": "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
-     "link": "https://www.aljazeera.com/news/2026/9/25/argentinas-poverty-rises-to-32-percent-under-milei-with-more-pain-forecast?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 00:23:24 +0000"
+     "title": "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+     "link": "https://www.aljazeera.com/news/2026/9/25/hurricane-polo-lashes-mexico-as-nolo-strengthens-near-hawaii?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 06:00:15 +0000"
     },
     {
-     "title": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 00:00:00 +0000"
+     "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+     "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 05:59:26 +0000"
     },
     {
-     "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-     "link": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 23:51:56 +0000"
+     "title": "Tata v Tata: What’s behind India’s big boardroom brawl?",
+     "link": "https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 05:22:23 +0000"
     },
     {
-     "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
-     "link": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 23:29:03 +0000"
+     "title": "Multiple regions in Russia come under Ukrainian drone attacks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 05:18:35 +0000"
     },
     {
-     "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
-     "date": "Thu, 24 Sep 2026 22:55:03 +0000"
+     "title": "Israeli football player sent off after gun-firing goal celebration",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 05:09:54 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "AI bots are flooding researchers with requests for money and time",
+     "link": "https://www.nature.com/articles/d41586-026-03005-2",
+     "date": ""
+    },
     {
      "title": "Bumblebees don’t mind a little plastic in their honeypots",
      "link": "https://www.nature.com/articles/d41586-026-02988-2",
@@ -262,11 +267,6 @@
     {
      "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
      "link": "https://www.nature.com/articles/s41586-026-11189-w",
-     "date": ""
-    },
-    {
-     "title": "Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes",
-     "link": "https://www.nature.com/articles/s41586-026-11169-0",
      "date": ""
     }
    ]
