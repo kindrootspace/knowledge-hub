@@ -1,13 +1,23 @@
 {
- "updated": "2026-09-25 18:37 UTC",
+ "updated": "2026-09-25 22:21 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Man City found guilty of majority of 115 financial rule breaches",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 20:11:12 GMT"
+    },
+    {
      "title": "Watch: What could the potential sanctions for Man City be?",
      "link": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 14:55:14 GMT"
+    },
+    {
+     "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+     "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 21:57:23 GMT"
     },
     {
      "title": "I'm not tempted to call an early election, Burnham says",
@@ -15,14 +25,9 @@
      "date": "Fri, 25 Sep 2026 17:15:35 GMT"
     },
     {
-     "title": "Special agents' blood and urine test results stolen in FBI hack",
-     "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 13:56:16 GMT"
-    },
-    {
-     "title": "Some BBC channels and radio stations may well have to close, director general says",
-     "link": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 12:00:11 GMT"
+     "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 20:47:49 GMT"
     },
     {
      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
@@ -30,19 +35,14 @@
      "date": "Fri, 25 Sep 2026 15:01:42 GMT"
     },
     {
+     "title": "Trump's plans for massive arch move ahead",
+     "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 18:27:46 GMT"
+    },
+    {
      "title": "U2 celebrate 50th anniversary at the school where they formed",
      "link": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 16:52:10 GMT"
-    },
-    {
-     "title": "Noah Woods left playground through gap in fence, inquest hears",
-     "link": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 12:51:48 GMT"
-    },
-    {
-     "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
-     "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 18:02:55 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
      "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 16:00:44 GMT"
+    },
+    {
+     "title": "Man City found guilty of breaking financial rules",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 20:11:12 GMT"
     },
     {
      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
@@ -70,24 +75,19 @@
      "date": "Fri, 25 Sep 2026 13:56:16 GMT"
     },
     {
-     "title": "'We're all broke': Would you chase a friend for £5?",
-     "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 23:00:45 GMT"
-    },
-    {
      "title": "X-planes: Are they needed in the new era of drones?",
      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 23:03:53 GMT"
     },
     {
+     "title": "'We're all broke': Would you chase a friend for £5?",
+     "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 23:00:45 GMT"
+    },
+    {
      "title": "Farmers down 240 million litres of milk after heat",
      "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 05:30:13 GMT"
-    },
-    {
-     "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-     "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 16:01:54 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Supreme Court blocks Trump-backed Missouri congressional map",
+     "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+     "date": "Fri, 25 Sep 2026 18:06:16 -0400"
+    },
+    {
+     "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+     "link": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+     "date": "Fri, 25 Sep 2026 16:08:40 -0400"
+    },
+    {
+     "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+     "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+     "date": "Fri, 25 Sep 2026 15:11:47 -0400"
+    },
+    {
      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
      "link": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
      "date": "Fri, 25 Sep 2026 12:14:24 -0400"
@@ -163,21 +178,6 @@
      "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
      "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
      "date": "Fri, 25 Sep 2026 10:46:28 -0400"
-    },
-    {
-     "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-     "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
-     "date": "Fri, 25 Sep 2026 07:18:52 -0400"
-    },
-    {
-     "title": "Why this Pokémon set is dropping in value",
-     "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-     "date": "Fri, 25 Sep 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
-     "date": "Fri, 25 Sep 2026 06:25:03 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-     "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 18:05:32 +0000"
+     "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 21:37:35 +0000"
     },
     {
-     "title": "US top court allows Trump to use controversial voter verification system",
-     "link": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:45:24 +0000"
+     "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+     "link": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 21:32:43 +0000"
     },
     {
-     "title": "Lebanese in Brazil, Brazilian in Lebanon",
-     "link": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:44:39 +0000"
+     "title": "What would a US diesel export ban mean for global fuel prices?",
+     "link": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 21:28:56 +0000"
     },
     {
-     "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-     "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:34:16 +0000"
+     "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+     "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 21:20:05 +0000"
     },
     {
-     "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-     "link": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:20:58 +0000"
+     "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+     "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 20:59:43 +0000"
     },
     {
-     "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
-     "link": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:18:35 +0000"
+     "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 20:56:20 +0000"
     },
     {
-     "title": "US court upholds Pentagon’s blacklisting of Anthropic",
-     "link": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:03:52 +0000"
+     "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 20:46:15 +0000"
     },
     {
-     "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out",
-     "link": "https://www.aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 17:03:03 +0000"
+     "title": "Afghan taxi drivers defy the Taliban’s music ban",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
+     "date": "Fri, 25 Sep 2026 20:42:47 +0000"
     }
    ]
   },
@@ -237,6 +237,11 @@
     {
      "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
      "link": "https://www.nature.com/articles/d41586-026-03032-z",
+     "date": ""
+    },
+    {
+     "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+     "link": "https://www.nature.com/articles/d41586-026-03039-6",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "AI bots are flooding researchers with requests for money and time",
      "link": "https://www.nature.com/articles/d41586-026-03005-2",
-     "date": ""
-    },
-    {
-     "title": "Bumblebees don’t mind a little plastic in their honeypots",
-     "link": "https://www.nature.com/articles/d41586-026-02988-2",
      "date": ""
     }
    ]
