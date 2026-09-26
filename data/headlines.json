@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-26 01:34 UTC",
+ "updated": "2026-09-26 07:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Man City found guilty of majority of 115 financial rule breaches",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 20:11:12 GMT"
+     "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 20:13:53 GMT"
     },
     {
-     "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 20:48:18 GMT"
+     "title": "The computer hacker who tried to take down Man City",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 05:56:40 GMT"
+    },
+    {
+     "title": "OpenAI bots meddled with multiple US government agency sites",
+     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 02:50:56 GMT"
     },
     {
      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:38:48 GMT"
+     "date": "Sat, 26 Sep 2026 05:03:09 GMT"
     },
     {
-     "title": "E-bikes seized by police sold on at auction, BBC finds",
+     "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 23:20:48 GMT"
+    },
+    {
+     "title": "E-motorbikes seized by police sold on at auction, BBC finds",
      "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 23:02:42 GMT"
-    },
-    {
-     "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:05:40 GMT"
-    },
-    {
-     "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 01:25:30 GMT"
-    },
-    {
-     "title": "I'm not tempted to call an early election, Burnham says",
-     "link": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 17:15:35 GMT"
     },
     {
      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 26 Sep 2026 01:24:31 GMT"
+    },
+    {
+     "title": "Your child has left home. Here's why it's time to stop checking up on them",
+     "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 23:03:51 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+     "date": "Sat, 26 Sep 2026 02:59:45 -0400"
+    },
+    {
+     "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+     "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
+     "date": "Sat, 26 Sep 2026 01:43:38 -0400"
+    },
+    {
+     "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+     "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+     "date": "Sat, 26 Sep 2026 00:42:17 -0400"
+    },
+    {
      "title": "Supreme Court blocks Trump-backed Missouri congressional map",
      "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
      "date": "Fri, 25 Sep 2026 18:06:16 -0400"
@@ -163,21 +178,6 @@
      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
      "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
      "date": "Fri, 25 Sep 2026 11:57:35 -0400"
-    },
-    {
-     "title": "The Supreme Court revives a controversial data system for citizenship checks",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-     "date": "Fri, 25 Sep 2026 11:40:57 -0400"
-    },
-    {
-     "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-     "date": "Fri, 25 Sep 2026 10:55:12 -0400"
-    },
-    {
-     "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-     "date": "Fri, 25 Sep 2026 10:46:28 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pro-Imran Khan rally delayed amid government closures",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 00:38:34 +0000"
+     "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+     "link": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 05:25:23 +0000"
     },
     {
-     "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 00:00:00 +0000"
+     "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+     "link": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 05:23:09 +0000"
     },
     {
-     "title": "US court rules against Kalshi, says states can regulate prediction markets",
-     "link": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 23:56:46 +0000"
+     "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+     "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 04:48:41 +0000"
     },
     {
-     "title": "Iran says it awaits US response on seven-day roadmap to end war",
-     "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 23:52:18 +0000"
+     "title": "Bangkok on red alert as massive floods hit the city",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 04:43:39 +0000"
     },
     {
-     "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
-     "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 23:21:52 +0000"
+     "title": "US official claims Trump holds all the cards in Iran talks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 04:37:22 +0000"
     },
     {
-     "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 22:33:27 +0000"
+     "title": "Iran pitches US a seven-day end to the war at UNGA",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 04:28:58 +0000"
     },
     {
-     "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-     "link": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 22:16:35 +0000"
+     "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+     "link": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 04:27:07 +0000"
     },
     {
-     "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-     "date": "Fri, 25 Sep 2026 21:37:35 +0000"
+     "title": "PAM wins big in Morocco parliament elections but falls short of majority",
+     "link": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 04:19:11 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+     "link": "https://www.nature.com/articles/d41586-026-03041-y",
+     "date": ""
+    },
+    {
+     "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03032-z",
+     "date": ""
+    },
+    {
+     "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+     "link": "https://www.nature.com/articles/d41586-026-03039-6",
+     "date": ""
+    },
+    {
+     "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+     "link": "https://www.nature.com/articles/d41586-026-03023-0",
+     "date": ""
+    },
+    {
+     "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+     "link": "https://www.nature.com/articles/d41586-026-03016-z",
+     "date": ""
+    },
+    {
+     "title": "Exclusive: Sham scientific societies are misleading star researchers",
+     "link": "https://www.nature.com/articles/d41586-026-02980-w",
+     "date": ""
+    },
+    {
+     "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
+     "link": "https://www.nature.com/articles/d41586-026-03028-9",
+     "date": ""
+    },
+    {
+     "title": "AI bots are flooding researchers with requests for money and time",
+     "link": "https://www.nature.com/articles/d41586-026-03005-2",
+     "date": ""
     }
    ]
   }
