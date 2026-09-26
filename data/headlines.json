@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-26 07:42 UTC",
+ "updated": "2026-09-26 13:06 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 20:13:53 GMT"
+     "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 11:03:53 GMT"
     },
     {
-     "title": "The computer hacker who tried to take down Man City",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 05:56:40 GMT"
+     "title": "British national among six dead in building explosion close to Acropolis in Athens",
+     "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 12:47:25 GMT"
     },
     {
-     "title": "OpenAI bots meddled with multiple US government agency sites",
-     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 02:50:56 GMT"
+     "title": "How long can Labour's feel-good factor last?",
+     "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 11:22:03 GMT"
     },
     {
-     "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-     "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 05:03:09 GMT"
+     "title": "Met to re-examine CCTV from Jill Dando murder case",
+     "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 11:54:24 GMT"
     },
     {
-     "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:20:48 GMT"
+     "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 10:44:37 GMT"
     },
     {
-     "title": "E-motorbikes seized by police sold on at auction, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:02:42 GMT"
+     "title": "Huge crowds greet Pope in Paris ahead of open-air Mass",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 12:51:10 GMT"
     },
     {
-     "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-     "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 01:24:31 GMT"
+     "title": "Prince Harry says it is 'great' to be back in Britain after six years in US",
+     "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 12:26:53 GMT"
     },
     {
-     "title": "Your child has left home. Here's why it's time to stop checking up on them",
-     "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:03:51 GMT"
+     "title": "How the bare nails trend became a class issue",
+     "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 23:31:20 GMT"
     }
    ]
   },
@@ -50,14 +50,29 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "OpenAI bots meddled with multiple US government agency sites",
+     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
+    {
+     "title": "Could an iced coffee freeze you out of the job market?",
+     "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 10:05:36 GMT"
+    },
+    {
+     "title": "Clubs seek legal advice over Man City charges compensation",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 20:13:53 GMT"
+    },
+    {
+     "title": "'We're all broke': Would you chase a friend for £5?",
+     "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 24 Sep 2026 23:00:45 GMT"
+    },
+    {
      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
      "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 16:00:44 GMT"
-    },
-    {
-     "title": "Man City found guilty of breaking financial rules",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 20:11:12 GMT"
     },
     {
      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
@@ -70,24 +85,9 @@
      "date": "Fri, 25 Sep 2026 10:50:49 GMT"
     },
     {
-     "title": "Special agents' blood and urine test results stolen in FBI hack",
-     "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 13:56:16 GMT"
-    },
-    {
      "title": "X-planes: Are they needed in the new era of drones?",
      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 24 Sep 2026 23:03:53 GMT"
-    },
-    {
-     "title": "'We're all broke': Would you chase a friend for £5?",
-     "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 23:00:45 GMT"
-    },
-    {
-     "title": "Farmers down 240 million litres of milk after heat",
-     "link": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 05:30:13 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 21 Sep 2026 05:00:38 GMT"
     },
     {
+     "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+     "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+     "date": "Sat, 26 Sep 2026 07:58:05 GMT"
+    },
+    {
      "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
      "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
      "date": "Fri, 25 Sep 2026 22:21:15 GMT"
@@ -128,17 +133,37 @@
      "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
      "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
      "date": "Fri, 25 Sep 2026 16:34:05 GMT"
-    },
-    {
-     "title": "Hurricane Polo barrels towards Baja California region of Mexico",
-     "link": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
-     "date": "Fri, 25 Sep 2026 10:28:45 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+     "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+     "date": "Sat, 26 Sep 2026 08:00:00 -0400"
+    },
+    {
+     "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+     "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+     "date": "Sat, 26 Sep 2026 07:31:18 -0400"
+    },
+    {
+     "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+     "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+     "date": "Sat, 26 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+     "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+     "date": "Sat, 26 Sep 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The U.S. has more thalidomide survivors than the government admits",
+     "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+     "date": "Sat, 26 Sep 2026 05:00:00 -0400"
+    },
     {
      "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
      "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
@@ -153,31 +178,6 @@
      "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
      "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
      "date": "Sat, 26 Sep 2026 00:42:17 -0400"
-    },
-    {
-     "title": "Supreme Court blocks Trump-backed Missouri congressional map",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
-     "date": "Fri, 25 Sep 2026 18:06:16 -0400"
-    },
-    {
-     "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
-     "date": "Fri, 25 Sep 2026 16:08:40 -0400"
-    },
-    {
-     "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-     "date": "Fri, 25 Sep 2026 15:11:47 -0400"
-    },
-    {
-     "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-     "link": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-     "date": "Fri, 25 Sep 2026 12:14:24 -0400"
-    },
-    {
-     "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-     "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-     "date": "Fri, 25 Sep 2026 11:57:35 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
-     "link": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 05:25:23 +0000"
+     "title": "Pressure to boycott Israel game grows as Ireland preparations stall",
+     "link": "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 11:48:08 +0000"
     },
     {
-     "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
-     "link": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 05:23:09 +0000"
+     "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills several people",
+     "link": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 11:33:42 +0000"
     },
     {
-     "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
-     "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 04:48:41 +0000"
+     "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+     "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 11:06:28 +0000"
     },
     {
-     "title": "Bangkok on red alert as massive floods hit the city",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/bangkok-on-red-alert-as-massive-floods-hit-the-city?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 04:43:39 +0000"
+     "title": "Ebola spreads in DR Congo, putting neighbouring nations at risk",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 10:56:00 +0000"
     },
     {
-     "title": "US official claims Trump holds all the cards in Iran talks",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 04:37:22 +0000"
+     "title": "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
+     "link": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 10:52:03 +0000"
     },
     {
-     "title": "Iran pitches US a seven-day end to the war at UNGA",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 04:28:58 +0000"
+     "title": "Israel bans Arab parties from election: Who they are, why it matters",
+     "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 10:27:11 +0000"
     },
     {
-     "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
-     "link": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 04:27:07 +0000"
+     "title": "Virat Kohli says he will retire from India cricket after 2027 World Cup",
+     "link": "https://www.aljazeera.com/sports/2026/9/26/india-cricket-great-virat-kohli-says-2027-world-cup-will-be-his-last?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 10:16:21 +0000"
     },
     {
-     "title": "PAM wins big in Morocco parliament elections but falls short of majority",
-     "link": "https://www.aljazeera.com/news/2026/9/26/pam-wins-big-in-morocco-parliament-elections-but-falls-short-of-majority?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 04:19:11 +0000"
+     "title": "England vs Spain: UEFA Nations League – Predictions, teams, head-to-head",
+     "link": "https://www.aljazeera.com/sports/2026/9/26/england-vs-spain-uefa-nations-league-prediction-team-news-head-to-head?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 09:51:04 +0000"
     }
    ]
   },
