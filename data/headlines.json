@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26 17:11 UTC",
+ "updated": "2026-09-26 19:52 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
      "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 17:09:40 GMT"
+     "date": "Sat, 26 Sep 2026 18:50:02 GMT"
     },
     {
      "title": "Heathrow Airport warns third runway could be delayed by four years",
@@ -17,17 +17,12 @@
     {
      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 16:58:39 GMT"
+     "date": "Sat, 26 Sep 2026 18:17:12 GMT"
     },
     {
      "title": "How long can Labour's feel-good factor last?",
      "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 26 Sep 2026 11:22:03 GMT"
-    },
-    {
-     "title": "Met to re-examine CCTV from Jill Dando murder case",
-     "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 13:21:27 GMT"
     },
     {
      "title": "Republic of Ireland to wear black armbands for Israel game",
@@ -43,6 +38,11 @@
      "title": "How the bare nails trend became a class issue",
      "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 25 Sep 2026 23:31:20 GMT"
+    },
+    {
+     "title": "Your child has left home. Here's why it's time to stop checking up on them",
+     "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 25 Sep 2026 23:03:51 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+     "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+     "date": "Sat, 26 Sep 2026 13:10:04 -0400"
+    },
+    {
      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
      "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
      "date": "Sat, 26 Sep 2026 08:00:00 -0400"
@@ -173,11 +178,6 @@
      "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
      "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
      "date": "Sat, 26 Sep 2026 02:59:45 -0400"
-    },
-    {
-     "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
-     "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
-     "date": "Sat, 26 Sep 2026 01:43:38 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Women take up arms as sexual violence ravages eastern DRC",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 16:24:51 +0000"
+     "title": "Colombia extradites leader of armed group to US in shift towards Washington",
+     "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 19:21:53 +0000"
     },
     {
-     "title": "At least 10 people killed in Russian and Ukrainian attacks",
-     "link": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 16:16:49 +0000"
+     "title": "South African police discover body of 10th woman near Johannesburg",
+     "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 18:08:12 +0000"
     },
     {
-     "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 16:14:35 +0000"
+     "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 18:00:43 +0000"
     },
     {
-     "title": "Manchester City confident they can prove ‘innocence’ over charges: Chairman",
-     "link": "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 15:49:57 +0000"
+     "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 17:55:22 +0000"
     },
     {
-     "title": "LIVE: England vs Spain – UEFA Nations League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 15:47:40 +0000"
+     "title": "Trump rejects combining US-China AI efforts",
+     "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 17:39:18 +0000"
     },
     {
-     "title": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
-     "link": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 15:43:11 +0000"
+     "title": "Iraq seeks US exemption from ban on Iranian flights",
+     "link": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 17:35:11 +0000"
     },
     {
-     "title": "Thousands of students protest German military conscription",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 15:23:38 +0000"
+     "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 17:27:19 +0000"
     },
     {
-     "title": "One year on, the UK’s recognition of Palestinian statehood is bearing fruit",
-     "link": "https://www.aljazeera.com/opinions/2026/9/26/one-year-on-the-uks-recognition-of-palestinian-statehood-is-bearing-fruit?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 15:20:24 +0000"
+     "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
+     "link": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 17:22:44 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+     "link": "https://www.nature.com/articles/d41586-026-03041-y",
+     "date": ""
+    },
+    {
+     "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03032-z",
+     "date": ""
+    },
+    {
+     "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+     "link": "https://www.nature.com/articles/d41586-026-03039-6",
+     "date": ""
+    },
+    {
+     "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+     "link": "https://www.nature.com/articles/d41586-026-03023-0",
+     "date": ""
+    },
+    {
+     "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+     "link": "https://www.nature.com/articles/d41586-026-03016-z",
+     "date": ""
+    },
+    {
+     "title": "Exclusive: Sham scientific societies are misleading star researchers",
+     "link": "https://www.nature.com/articles/d41586-026-02980-w",
+     "date": ""
+    },
+    {
+     "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
+     "link": "https://www.nature.com/articles/d41586-026-03028-9",
+     "date": ""
+    },
+    {
+     "title": "AI bots are flooding researchers with requests for money and time",
+     "link": "https://www.nature.com/articles/d41586-026-03005-2",
+     "date": ""
     }
    ]
   }
