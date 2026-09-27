@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26 22:52 UTC",
+ "updated": "2026-09-27 01:28 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Sat, 26 Sep 2026 18:50:02 GMT"
     },
     {
-     "title": "Heathrow Airport warns third runway could be delayed by four years",
-     "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 16:32:42 GMT"
+     "title": "Appeal court judges overturn ban on controversial Drumcree parade",
+     "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 00:49:02 GMT"
+    },
+    {
+     "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 23:00:42 GMT"
     },
     {
      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
@@ -20,9 +25,9 @@
      "date": "Sat, 26 Sep 2026 22:15:59 GMT"
     },
     {
-     "title": "How long can Labour's feel-good factor last?",
-     "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 11:22:03 GMT"
+     "title": "Heathrow Airport warns third runway could be delayed by four years",
+     "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 16:32:42 GMT"
     },
     {
      "title": "Republic of Ireland to wear black armbands for Israel game",
@@ -30,19 +35,14 @@
      "date": "Sat, 26 Sep 2026 19:59:00 GMT"
     },
     {
-     "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
-     "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 12:26:53 GMT"
+     "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+     "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 23:01:47 GMT"
     },
     {
-     "title": "How the bare nails trend became a class issue",
-     "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:31:20 GMT"
-    },
-    {
-     "title": "Your child has left home. Here's why it's time to stop checking up on them",
-     "link": "https://www.bbc.co.uk/news/articles/c6evwmzxdn4do?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 23:03:51 GMT"
+     "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
+     "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 23:03:39 GMT"
     }
    ]
   },
@@ -185,6 +185,36 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 00:50:31 +0000"
+    },
+    {
+     "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 23:49:30 +0000"
+    },
+    {
+     "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
+     "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 23:26:31 +0000"
+    },
+    {
+     "title": "Powerful storm brings flooding, power outages to northeastern United States",
+     "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 22:51:57 +0000"
+    },
+    {
+     "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
+     "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
+     "date": "Sat, 26 Sep 2026 22:38:01 +0000"
+    },
+    {
      "title": "Student protesters disrupt NVIDIA AI climate panel",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
      "date": "Sat, 26 Sep 2026 22:09:33 +0000"
@@ -193,36 +223,6 @@
      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
      "link": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
      "date": "Sat, 26 Sep 2026 21:51:56 +0000"
-    },
-    {
-     "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
-     "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 21:09:59 +0000"
-    },
-    {
-     "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 20:57:54 +0000"
-    },
-    {
-     "title": "Why is violence between Pakistan and Afghanistan recurring?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 20:55:44 +0000"
-    },
-    {
-     "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-     "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 20:33:05 +0000"
-    },
-    {
-     "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
-     "link": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 20:21:56 +0000"
-    },
-    {
-     "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
-     "date": "Sat, 26 Sep 2026 19:43:03 +0000"
     }
    ]
   },
