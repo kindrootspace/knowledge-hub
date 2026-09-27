@@ -1,18 +1,23 @@
 {
- "updated": "2026-09-27 13:58 UTC",
+ "updated": "2026-09-27 18:24 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "What we know about RAF base counter-terror investigation",
+     "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 18:12:55 GMT"
+    },
     {
      "title": "Burnham proposes NHS-style social care system for England",
      "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 27 Sep 2026 13:48:05 GMT"
     },
     {
-     "title": "'Broken social care will in the end break the NHS,' says Burnham",
-     "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 09:52:49 GMT"
+     "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+     "link": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 14:07:17 GMT"
     },
     {
      "title": "Ten NHS staff removed over Noah Woods data breach",
@@ -20,29 +25,24 @@
      "date": "Sun, 27 Sep 2026 13:25:27 GMT"
     },
     {
+     "title": "England win series as Banton delivers on potential",
+     "link": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 16:49:38 GMT"
+    },
+    {
      "title": "Two mass shootings in South Africa leave 27 dead",
      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 13:50:14 GMT"
+     "date": "Sun, 27 Sep 2026 14:09:22 GMT"
     },
     {
-     "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-     "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 11:38:03 GMT"
+     "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 14:24:46 GMT"
     },
     {
-     "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
-     "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 23:01:47 GMT"
-    },
-    {
-     "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
-     "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 23:04:08 GMT"
-    },
-    {
-     "title": "Big Bang wins over fans old and new at Tottenham Hotspur Stadium",
-     "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 08:51:23 GMT"
+     "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+     "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 07:44:11 GMT"
     }
    ]
   },
@@ -145,12 +145,27 @@
      "date": "Sun, 27 Sep 2026 09:01:27 -0400"
     },
     {
+     "title": "Trump wants to remove a question about race in the census. We look back at the history",
+     "link": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+     "date": "Sun, 27 Sep 2026 08:17:31 -0400"
+    },
+    {
+     "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+     "link": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+     "date": "Sun, 27 Sep 2026 08:06:24 -0400"
+    },
+    {
+     "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+     "link": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+     "date": "Sun, 27 Sep 2026 08:06:23 -0400"
+    },
+    {
      "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
      "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
      "date": "Sun, 27 Sep 2026 08:00:00 -0400"
     },
     {
-     "title": "Photos: These shepherds climb down a mountain to go to night school",
+     "title": "Photos: This may be the most inspirational night school on Earth",
      "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
      "date": "Sun, 27 Sep 2026 07:53:42 -0400"
     },
@@ -160,24 +175,9 @@
      "date": "Sun, 27 Sep 2026 07:00:00 -0400"
     },
     {
-     "title": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
+     "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
      "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
      "date": "Sun, 27 Sep 2026 06:49:36 -0400"
-    },
-    {
-     "title": "These Democrats are running for Congress on Christian faith. Will it pay off?",
-     "link": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
-     "date": "Sun, 27 Sep 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-     "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-     "date": "Sat, 26 Sep 2026 17:13:54 -0400"
-    },
-    {
-     "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-     "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-     "date": "Sat, 26 Sep 2026 16:08:28 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-     "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 13:17:53 +0000"
+     "title": "‘Iran ready for doomsday war’, FM Araghchi says",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 17:46:04 +0000"
     },
     {
-     "title": "Swiss voters set to reject tighter neutrality rules in referendum",
-     "link": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 12:45:42 +0000"
+     "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+     "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 17:42:45 +0000"
     },
     {
-     "title": "Political rallies fill Brazil’s streets a week before elections",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 12:34:13 +0000"
+     "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 17:29:50 +0000"
     },
     {
-     "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-     "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 12:02:50 +0000"
+     "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+     "link": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 17:07:33 +0000"
     },
     {
-     "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
-     "link": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 11:04:30 +0000"
+     "title": "Dozens killed in two mass shootings in South Africa",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 16:58:36 +0000"
     },
     {
-     "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
-     "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 10:26:21 +0000"
+     "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 16:53:57 +0000"
     },
     {
-     "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
-     "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 10:01:33 +0000"
+     "title": "Northern Ireland protesters block Orange Order march into Catholic area",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_northern-ireland-protesters-block-orange-order-270926?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 16:51:15 +0000"
     },
     {
-     "title": "Yemen government forces widen attacks against Houthis: What we know",
-     "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 09:59:21 +0000"
+     "title": "Muslims protest planned demolition of ‘600-year-old’ mosque in India",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss",
+     "date": "Sun, 27 Sep 2026 16:37:59 +0000"
     }
    ]
   },
