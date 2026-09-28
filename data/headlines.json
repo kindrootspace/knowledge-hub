@@ -1,23 +1,18 @@
 {
- "updated": "2026-09-28 00:47 UTC",
+ "updated": "2026-09-28 06:55 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-     "link": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 20:10:51 GMT"
-    },
-    {
      "title": "What we know about RAF Fairford counter-terror probe",
      "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 19:47:44 GMT"
+     "date": "Mon, 28 Sep 2026 05:41:43 GMT"
     },
     {
-     "title": "Protesters disperse after blocking contentious Orange Order parade",
-     "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 00:41:07 GMT"
+     "title": "Police block Orange Order from controversial parade route",
+     "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 06:46:10 GMT"
     },
     {
      "title": "Inside Yemen's front-line city as Houthis battle for control",
@@ -25,9 +20,14 @@
      "date": "Sun, 27 Sep 2026 21:16:31 GMT"
     },
     {
-     "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+     "title": "Watch: BBC team take cover as Houthi drone spotted on Yemen front-line",
      "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 27 Sep 2026 21:00:06 GMT"
+    },
+    {
+     "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+     "link": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 05:02:30 GMT"
     },
     {
      "title": "My hometown shows that high streets have to change or die",
@@ -35,7 +35,7 @@
      "date": "Sun, 27 Sep 2026 23:05:53 GMT"
     },
     {
-     "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+     "title": "Republic of Ireland 'raised awareness worldwide' in Israel game, coach says",
      "link": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 27 Sep 2026 22:20:17 GMT"
     },
@@ -50,14 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "My hometown shows that high streets have to change or die",
+     "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 27 Sep 2026 23:05:53 GMT"
+    },
+    {
      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
      "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 27 Sep 2026 23:01:47 GMT"
     },
     {
+     "title": "Tourism tax needs to be more flexible in Wales, warns expert",
+     "link": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 05:04:54 GMT"
+    },
+    {
+     "title": "Avanti West Coast services to be nationalised from March",
+     "link": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 03:05:50 GMT"
+    },
+    {
      "title": "You need £17,000 for a first home - here's how to do it",
      "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 27 Sep 2026 23:20:43 GMT"
+    },
+    {
+     "title": "OpenAI bots meddled with multiple US government agency sites",
+     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 26 Sep 2026 02:50:56 GMT"
     },
     {
      "title": "Andy Burnham refuses to back third runway at Heathrow",
@@ -68,26 +88,6 @@
      "title": "Faisal Islam: The two big decisions the chancellor must make",
      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 26 Sep 2026 23:00:42 GMT"
-    },
-    {
-     "title": "OpenAI bots meddled with multiple US government agency sites",
-     "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 02:50:56 GMT"
-    },
-    {
-     "title": "Could an iced coffee freeze you out of the job market?",
-     "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 26 Sep 2026 10:05:36 GMT"
-    },
-    {
-     "title": "Clubs seek legal advice over Man City charges compensation",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 25 Sep 2026 20:13:53 GMT"
-    },
-    {
-     "title": "'We're all broke': Would you chase a friend for £5?",
-     "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 24 Sep 2026 23:00:45 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Nantucket shipwreck uncovered by Nor'easter",
+     "link": "https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster",
+     "date": "Sun, 27 Sep 2026 20:30:26 -0400"
+    },
+    {
      "title": "Scientists discover two new species of sea spiders along Canadian coastline",
      "link": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
      "date": "Sun, 27 Sep 2026 18:31:16 -0400"
@@ -173,11 +178,6 @@
      "title": "Photos: This may be the most inspirational night school on Earth",
      "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
      "date": "Sun, 27 Sep 2026 07:53:42 -0400"
-    },
-    {
-     "title": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
-     "link": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
-     "date": "Sun, 27 Sep 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
-     "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 00:29:25 +0000"
+     "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
+     "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 06:24:33 +0000"
     },
     {
-     "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 00:00:00 +0000"
+     "title": "Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?",
+     "link": "https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 06:23:02 +0000"
     },
     {
-     "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
-     "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 23:14:15 +0000"
+     "title": "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
+     "link": "https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 05:40:06 +0000"
     },
     {
-     "title": "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 23:09:48 +0000"
+     "title": "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
+     "link": "https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 05:28:29 +0000"
     },
     {
-     "title": "Powerful storm floods US Northeast, causes power outages",
-     "link": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 22:51:29 +0000"
+     "title": "Russian strikes kill eight, injure dozens across Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 05:06:11 +0000"
     },
     {
-     "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-     "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 21:41:59 +0000"
+     "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 04:56:00 +0000"
     },
     {
-     "title": "Alleged rape on campus sparks violent protest at Indian university",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 21:17:05 +0000"
+     "title": "Serbia’s president resigns to run for prime minister",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 04:50:46 +0000"
     },
     {
-     "title": "Floods inundate roads in southeastern Algeria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
-     "date": "Sun, 27 Sep 2026 21:03:47 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
-     "link": "https://www.nature.com/articles/d41586-026-03041-y",
-     "date": ""
-    },
-    {
-     "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-03032-z",
-     "date": ""
-    },
-    {
-     "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
-     "link": "https://www.nature.com/articles/d41586-026-03039-6",
-     "date": ""
-    },
-    {
-     "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
-     "link": "https://www.nature.com/articles/d41586-026-03023-0",
-     "date": ""
-    },
-    {
-     "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-     "link": "https://www.nature.com/articles/d41586-026-03016-z",
-     "date": ""
-    },
-    {
-     "title": "Exclusive: Sham scientific societies are misleading star researchers",
-     "link": "https://www.nature.com/articles/d41586-026-02980-w",
-     "date": ""
-    },
-    {
-     "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
-     "link": "https://www.nature.com/articles/d41586-026-03028-9",
-     "date": ""
-    },
-    {
-     "title": "AI bots are flooding researchers with requests for money and time",
-     "link": "https://www.nature.com/articles/d41586-026-03005-2",
-     "date": ""
+     "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 04:44:12 +0000"
     }
    ]
   }
