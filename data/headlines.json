@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-28 15:28 UTC",
+ "updated": "2026-09-28 22:01 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "What we know about RAF Fairford counter-terror probe",
-     "link": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 14:37:17 GMT"
+     "title": "Five men arrested in RAF Fairford incident released on police bail",
+     "link": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 19:16:26 GMT"
+    },
+    {
+     "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+     "link": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 19:28:54 GMT"
+    },
+    {
+     "title": "UK tries to stop Trump's diesel export ban",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 20:39:31 GMT"
     },
     {
      "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
      "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 15:08:50 GMT"
+     "date": "Mon, 28 Sep 2026 18:07:25 GMT"
     },
     {
-     "title": "UK diesel price hits all-time high, the RAC says",
-     "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 10:00:18 GMT"
+     "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+     "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 13:59:06 GMT"
     },
     {
-     "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
-     "link": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 05:02:30 GMT"
+     "title": "Mahmood signals rethink on migrants' right to remain",
+     "link": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 18:04:41 GMT"
     },
     {
-     "title": "Police block Protestant Orange Order from controversial parade route",
-     "link": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 14:29:25 GMT"
+     "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
+     "link": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 17:00:29 GMT"
     },
     {
-     "title": "Three dead, including child, in Channel crossing attempt",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 12:06:52 GMT"
-    },
-    {
-     "title": "Worker at care home investigated by BBC struck off for threatening elderly man",
-     "link": "https://www.bbc.co.uk/news/articles/cm9dwz5d1j77o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 05:18:57 GMT"
-    },
-    {
-     "title": "Felled Sycamore Gap stump has 'encouraging' growth",
-     "link": "https://www.bbc.co.uk/news/articles/c8vgyxrlve46o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 05:01:06 GMT"
+     "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+     "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 17:45:52 GMT"
     }
    ]
   },
@@ -50,29 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-     "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 15:08:50 GMT"
+     "title": "UK tries to stop Trump's diesel export ban",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 20:39:31 GMT"
     },
     {
-     "title": "What is the Budget and what could be in it?",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 14:29:49 GMT"
+     "title": "What a US diesel export ban could mean for you",
+     "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 18:18:30 GMT"
+    },
+    {
+     "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+     "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 17:45:52 GMT"
     },
     {
      "title": "UK diesel price hits all-time high, the RAC says",
      "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 10:00:18 GMT"
+     "date": "Mon, 28 Sep 2026 20:42:56 GMT"
     },
     {
-     "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-     "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 11:16:08 GMT"
+     "title": "What is the Budget and what could be in it?",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 17:14:16 GMT"
     },
     {
      "title": "Why UK diesel prices have hit an all-time high",
      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 11:50:18 GMT"
+     "date": "Mon, 28 Sep 2026 20:43:52 GMT"
     },
     {
      "title": "Why the PM could finally drop the triple lock pension pledge",
@@ -80,20 +85,20 @@
      "date": "Mon, 28 Sep 2026 07:38:21 GMT"
     },
     {
-     "title": "Tourism tax needs to be more flexible in Wales, warns expert",
-     "link": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 10:49:31 GMT"
-    },
-    {
-     "title": "My hometown shows that high streets have to change or die",
-     "link": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 27 Sep 2026 23:05:53 GMT"
+     "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+     "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 18:07:25 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+     "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+     "date": "Mon, 28 Sep 2026 15:54:25 GMT"
+    },
     {
      "title": "At least 27 dead after two mass shootings in South Africa, police say",
      "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
@@ -113,11 +118,6 @@
      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
      "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
      "date": "Wed, 23 Sep 2026 11:08:01 GMT"
-    },
-    {
-     "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-     "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-     "date": "Wed, 23 Sep 2026 09:38:06 GMT"
     },
     {
      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+     "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
+     "date": "Mon, 28 Sep 2026 13:14:25 -0400"
+    },
+    {
+     "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
+     "link": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
+     "date": "Mon, 28 Sep 2026 12:27:30 -0400"
+    },
+    {
+     "title": "The Trump administration weakens fuel efficiency standards for new cars",
+     "link": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
+     "date": "Mon, 28 Sep 2026 12:07:15 -0400"
+    },
+    {
      "title": "SpaceX's Starship launches on first orbital mission from Texas",
      "link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
      "date": "Mon, 28 Sep 2026 09:15:29 -0400"
@@ -155,28 +170,13 @@
      "date": "Mon, 28 Sep 2026 07:41:48 -0400"
     },
     {
-     "title": "5 British suspects arrested, explosives found near U.S.-run air base. Iran denies role",
+     "title": "U.K. examines if Iran or Russia are involved in foiled attack near base used by U.S.",
      "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
      "date": "Mon, 28 Sep 2026 06:51:25 -0400"
     },
     {
-     "title": "What to know about the $810 million in spending canceled by President Trump",
-     "link": "https://www.npr.org/2026/09/28/nx-s1-5982739/what-to-know-about-the-810-million-in-spending-canceled-by-president-trump",
-     "date": "Mon, 28 Sep 2026 05:00:00 -0400"
-    },
-    {
      "title": "How to limit the rat numbers? Train the humans",
      "link": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
-     "date": "Mon, 28 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "5 tips for parents worried about their kids' screen time and online safety",
-     "link": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
-     "date": "Mon, 28 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-     "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
      "date": "Mon, 28 Sep 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
-     "link": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 14:03:55 +0000"
+     "title": "Gold falls amid rising oil prices and higher US dollar",
+     "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 21:34:51 +0000"
     },
     {
-     "title": "Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games",
-     "link": "https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 14:03:47 +0000"
+     "title": "Hundreds set up tent encampments in Madrid over housing crisis",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 21:12:29 +0000"
     },
     {
-     "title": "Cattle to feed: Why a global meat crisis is looming",
-     "link": "https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 13:56:03 +0000"
+     "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
+     "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 21:04:58 +0000"
     },
     {
-     "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
-     "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 13:53:28 +0000"
+     "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 20:53:53 +0000"
     },
     {
-     "title": "Bandung: The Meeting That Terrified the Superpowers | Al Jazeera Originals",
-     "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/9/28/bandung-the-meeting-that-terrified-the-superpowers-al-jazeera-originals?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 13:41:07 +0000"
+     "title": "French far-right leader Bardella refutes anti-Semitism allegations",
+     "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 20:52:03 +0000"
     },
     {
-     "title": "UN commemoration of Durban Declaration: What’s on agenda, who will attend?",
-     "link": "https://www.aljazeera.com/news/2026/9/28/un-commemoration-of-durban-declaration-whats-on-agenda-who-will-attend?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 13:38:16 +0000"
+     "title": "South Sudan calls for sanctions to be lifted at UNGA",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 20:45:52 +0000"
     },
     {
-     "title": "We need to talk about Bandung",
-     "link": "https://www.aljazeera.com/opinions/2026/9/28/we-need-to-talk-about-bandung?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 13:34:54 +0000"
+     "title": "Slovenia’s U-turn towards Israel",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 20:35:51 +0000"
     },
     {
-     "title": "Sri Lanka’s Rumesh Pathirage wins Asian Games javelin gold",
-     "link": "https://www.aljazeera.com/sports/2026/9/28/sri-lankas-rumesh-pathirage-wins-asian-games-javelin-gold?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 13:15:14 +0000"
+     "title": "Gaza’s young inventors build robots with what they have",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 20:34:22 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "China now leads the world in trials for next-gen CAR-T therapies",
+     "link": "https://www.nature.com/articles/d41586-026-03004-3",
+     "date": ""
+    },
+    {
+     "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+     "link": "https://www.nature.com/articles/d41586-026-02959-7",
+     "date": ""
+    },
+    {
+     "title": "Bigger than CRISPR? A guide to the latest genome editors",
+     "link": "https://www.nature.com/articles/d41586-026-02964-w",
+     "date": ""
+    },
+    {
+     "title": "Vaping in childhood has bigger health risks than we’d thought",
+     "link": "https://www.nature.com/articles/d41586-026-02962-y",
+     "date": ""
+    },
+    {
+     "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+     "link": "https://www.nature.com/articles/d41586-026-03043-w",
+     "date": ""
+    },
+    {
+     "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
+     "link": "https://www.nature.com/articles/d41586-026-02277-y",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+     "link": "https://www.nature.com/articles/d41586-026-03041-y",
+     "date": ""
+    },
+    {
+     "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03032-z",
+     "date": ""
     }
    ]
   }
