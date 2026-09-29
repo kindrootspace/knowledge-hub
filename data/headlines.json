@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28 22:01 UTC",
+ "updated": "2026-09-29 01:57 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,40 +15,60 @@
      "date": "Mon, 28 Sep 2026 19:28:54 GMT"
     },
     {
+     "title": "OpenAI scraps rollout of new model over safety concerns",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 01:51:25 GMT"
+    },
+    {
+     "title": "Burnham to unveil public body to invest in electricity grid",
+     "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 00:40:29 GMT"
+    },
+    {
      "title": "UK tries to stop Trump's diesel export ban",
      "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 28 Sep 2026 20:39:31 GMT"
     },
     {
-     "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-     "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 18:07:25 GMT"
+     "title": "Migrants using longer, more dangerous routes across Channel",
+     "link": "https://www.bbc.co.uk/news/articles/c6y8zzdjmrgvo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 00:42:15 GMT"
     },
     {
-     "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-     "link": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 13:59:06 GMT"
+     "title": "Temperatures to hit 25C in burst of late September warmth",
+     "link": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 23:13:58 GMT"
     },
     {
-     "title": "Mahmood signals rethink on migrants' right to remain",
-     "link": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 18:04:41 GMT"
-    },
-    {
-     "title": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
-     "link": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 17:00:29 GMT"
-    },
-    {
-     "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-     "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 17:45:52 GMT"
+     "title": "Egyptian officials convicted of kidnapping Cambridge student found dead in 2016",
+     "link": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 23:39:15 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Burnham to unveil public body to invest in electricity grid",
+     "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 00:40:29 GMT"
+    },
+    {
+     "title": "Warning more homes will be uninsurable due to flood risk",
+     "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 23:10:13 GMT"
+    },
+    {
+     "title": "OpenAI scraps rollout of new model over safety concerns",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 01:51:25 GMT"
+    },
+    {
+     "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+     "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 28 Sep 2026 23:10:06 GMT"
+    },
     {
      "title": "UK tries to stop Trump's diesel export ban",
      "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
@@ -68,26 +88,6 @@
      "title": "UK diesel price hits all-time high, the RAC says",
      "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 28 Sep 2026 20:42:56 GMT"
-    },
-    {
-     "title": "What is the Budget and what could be in it?",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 17:14:16 GMT"
-    },
-    {
-     "title": "Why UK diesel prices have hit an all-time high",
-     "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 20:43:52 GMT"
-    },
-    {
-     "title": "Why the PM could finally drop the triple lock pension pledge",
-     "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 07:38:21 GMT"
-    },
-    {
-     "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-     "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 18:07:25 GMT"
     }
    ]
   },
@@ -130,9 +130,9 @@
      "date": "Sun, 27 Sep 2026 22:59:25 GMT"
     },
     {
-     "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-     "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-     "date": "Sat, 26 Sep 2026 16:00:39 GMT"
+     "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
+     "link": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
+     "date": "Sun, 27 Sep 2026 06:45:54 GMT"
     }
    ]
   },
@@ -140,7 +140,7 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+     "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
      "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
      "date": "Mon, 28 Sep 2026 13:14:25 -0400"
     },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Gold falls amid rising oil prices and higher US dollar",
-     "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 21:34:51 +0000"
+     "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+     "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 01:01:38 +0000"
     },
     {
-     "title": "Hundreds set up tent encampments in Madrid over housing crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 21:12:29 +0000"
+     "title": "OpenAI scraps release of latest AI model over safety concerns",
+     "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 00:38:06 +0000"
     },
     {
-     "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
-     "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 21:04:58 +0000"
+     "title": "Africa’s space ambitions are moving from policy to practice",
+     "link": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 00:26:22 +0000"
     },
     {
-     "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 20:53:53 +0000"
+     "title": "Inside Al Jazeera’s UNGA coverage",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 00:10:21 +0000"
     },
     {
-     "title": "French far-right leader Bardella refutes anti-Semitism allegations",
-     "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 20:52:03 +0000"
+     "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "South Sudan calls for sanctions to be lifted at UNGA",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 20:45:52 +0000"
+     "title": "Fiery end for SpaceX Starship mission",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fiery-end-for-spacex-starship-mission?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 23:48:48 +0000"
     },
     {
-     "title": "Slovenia’s U-turn towards Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 20:35:51 +0000"
+     "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 23:34:19 +0000"
     },
     {
-     "title": "Gaza’s young inventors build robots with what they have",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
-     "date": "Mon, 28 Sep 2026 20:34:22 +0000"
+     "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+     "link": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
+     "date": "Mon, 28 Sep 2026 22:05:43 +0000"
     }
    ]
   },
