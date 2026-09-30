@@ -1,48 +1,48 @@
 {
- "updated": "2026-09-30 13:44 UTC",
+ "updated": "2026-09-30 19:21 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "What we know about the Dubai-Israel plane diversion",
-     "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 12:30:05 GMT"
+     "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+     "link": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 18:40:36 GMT"
     },
     {
-     "title": "Move to rejoin EU among options for UK, says Burnham",
+     "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+     "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 15:59:51 GMT"
+    },
+    {
+     "title": "UK-France 'one in, one out' migrant scheme scrapped",
+     "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 17:11:08 GMT"
+    },
+    {
+     "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+     "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 18:15:15 GMT"
+    },
+    {
+     "title": "Teens who died in car that entered River Wear named",
+     "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 18:40:18 GMT"
+    },
+    {
+     "title": "Brexit referendum 'possible' in Labour election manifesto, Burnham tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 13:40:03 GMT"
+     "date": "Wed, 30 Sep 2026 16:06:23 GMT"
     },
     {
-     "title": "Watch: Detail about new call to police changes RAF Fairford timeline",
-     "link": "https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 12:31:10 GMT"
+     "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+     "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 15:29:11 GMT"
     },
     {
-     "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+     "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
      "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 30 Sep 2026 12:50:51 GMT"
-    },
-    {
-     "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 13:36:07 GMT"
-    },
-    {
-     "title": "Guardiola backing Man City after guilty verdicts",
-     "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 10:07:23 GMT"
-    },
-    {
-     "title": "Greggs to shut four factories and cut 740 jobs",
-     "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 11:47:22 GMT"
-    },
-    {
-     "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-     "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 11:36:23 GMT"
     }
    ]
   },
@@ -52,17 +52,17 @@
     {
      "title": "Household energy bills forecast to see biggest rise in four years",
      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 10:47:49 GMT"
+     "date": "Wed, 30 Sep 2026 14:36:45 GMT"
     },
     {
      "title": "Regulating AI 'not the right place to start' says Bailey",
      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 10:20:20 GMT"
+     "date": "Wed, 30 Sep 2026 14:00:33 GMT"
     },
     {
      "title": "Greggs to shut four factories and cut 740 jobs",
      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 11:47:22 GMT"
+     "date": "Wed, 30 Sep 2026 15:03:22 GMT"
     },
     {
      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -95,14 +95,19 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+     "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+     "date": "Wed, 30 Sep 2026 15:59:32 GMT"
+    },
+    {
+     "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+     "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+     "date": "Wed, 30 Sep 2026 14:16:33 GMT"
+    },
+    {
      "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
      "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
      "date": "Wed, 30 Sep 2026 12:47:15 GMT"
-    },
-    {
-     "title": "Top Trump figures push to direct human rights funding to rightwing causes",
-     "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-     "date": "Wed, 30 Sep 2026 12:00:42 GMT"
     },
     {
      "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
@@ -113,11 +118,6 @@
      "title": "At least 27 dead after two mass shootings in South Africa, police say",
      "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
      "date": "Sun, 27 Sep 2026 13:46:49 GMT"
-    },
-    {
-     "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-     "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-     "date": "Sun, 27 Sep 2026 11:00:03 GMT"
     },
     {
      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
@@ -140,7 +140,37 @@
    "name": "NPR",
    "items": [
     {
-     "title": "A flight from Dubai to Tel Aviv diverts to Saudi Arabia after making distress call",
+     "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+     "date": "Wed, 30 Sep 2026 13:51:42 -0400"
+    },
+    {
+     "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
+     "date": "Wed, 30 Sep 2026 13:19:24 -0400"
+    },
+    {
+     "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
+     "date": "Wed, 30 Sep 2026 12:32:12 -0400"
+    },
+    {
+     "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+     "date": "Wed, 30 Sep 2026 11:33:19 -0400"
+    },
+    {
+     "title": "How Trump keeps undercutting his anti-communist message",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
+     "date": "Wed, 30 Sep 2026 10:58:51 -0400"
+    },
+    {
+     "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
+     "date": "Wed, 30 Sep 2026 10:30:03 -0400"
+    },
+    {
+     "title": "A pilot stabs another pilot and tries to crash their flight to Tel Aviv, Israel says",
      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
      "date": "Wed, 30 Sep 2026 09:35:11 -0400"
     },
@@ -148,36 +178,6 @@
      "title": "FBI hunting the hackers who stole its employees' sensitive data",
      "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
      "date": "Wed, 30 Sep 2026 08:29:05 -0400"
-    },
-    {
-     "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-     "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-     "date": "Wed, 30 Sep 2026 07:13:17 -0400"
-    },
-    {
-     "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
-     "date": "Wed, 30 Sep 2026 07:00:00 -0400"
-    },
-    {
-     "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-     "date": "Wed, 30 Sep 2026 05:01:00 -0400"
-    },
-    {
-     "title": "The moment you've been waiting for: America's best student podcasts",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
-     "date": "Wed, 30 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
-     "date": "Wed, 30 Sep 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
-     "date": "Wed, 30 Sep 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,60 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
-     "link": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 13:14:39 +0000"
+     "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+     "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 19:00:11 +0000"
     },
     {
-     "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-     "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:49:04 +0000"
+     "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+     "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 18:52:51 +0000"
     },
     {
-     "title": "Settlers closing in on Ramallah",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:43:27 +0000"
+     "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
+     "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 18:48:32 +0000"
     },
     {
-     "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
-     "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:40:08 +0000"
+     "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
+     "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 18:39:04 +0000"
     },
     {
-     "title": "Rainwater washes away highway in Nigeria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:39:08 +0000"
+     "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 18:12:27 +0000"
     },
     {
-     "title": "Former journalist crowned king of Uganda’s Tooro kingdom",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/30-09-sv-uganda-tooro-king-ug?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:34:21 +0000"
+     "title": "Strong indications’ Iran linked to suspected UK airbase plot",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 18:09:51 +0000"
     },
     {
-     "title": "How does Iraq’s security change after US forces withdraw?",
-     "link": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:33:05 +0000"
+     "title": "Trump set to announce $200bn in energy investments from South Korea",
+     "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 18:01:14 +0000"
     },
     {
-     "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 12:17:00 +0000"
+     "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 17:55:59 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "These optical illusions are why butterflies are so hard to catch",
+     "link": "https://www.nature.com/articles/d41586-026-03124-w",
+     "date": ""
+    },
+    {
+     "title": "Who’s the loudest of them all? The bare-throated bellbird vies for the prize",
+     "link": "https://www.nature.com/articles/d41586-026-03038-7",
+     "date": ""
+    },
     {
      "title": "Is exposomics the key to making personalized medicine a reality?",
      "link": "https://www.nature.com/articles/d41586-026-02958-8",
@@ -240,33 +250,23 @@
      "date": ""
     },
     {
+     "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
+     "link": "https://www.nature.com/articles/d41586-026-03086-z",
+     "date": ""
+    },
+    {
+     "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
+     "link": "https://www.nature.com/articles/d41586-026-02777-x",
+     "date": ""
+    },
+    {
+     "title": "Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature",
+     "link": "https://www.nature.com/articles/d41586-026-02991-7",
+     "date": ""
+    },
+    {
      "title": "Tuberculosis treatment has advanced — now we need to stop drug resistance dragging us backwards",
      "link": "https://www.nature.com/articles/d41586-026-02963-x",
-     "date": ""
-    },
-    {
-     "title": "Beware sham scientific societies: the research community must be more vigilant",
-     "link": "https://www.nature.com/articles/d41586-026-03047-6",
-     "date": ""
-    },
-    {
-     "title": "The buck stops with me",
-     "link": "https://www.nature.com/articles/d41586-026-02863-0",
-     "date": ""
-    },
-    {
-     "title": "How to spend $25 billion on science: OpenAI’s staggeringly rich research charity gets under way",
-     "link": "https://www.nature.com/articles/d41586-026-03015-0",
-     "date": ""
-    },
-    {
-     "title": "I turn up late to meetings to dodge small talk. Am I wrong?",
-     "link": "https://www.nature.com/articles/d41586-026-02201-4",
-     "date": ""
-    },
-    {
-     "title": "Restoring hearing in people with a rare form of deafness",
-     "link": "https://www.nature.com/articles/d41586-026-02894-7",
      "date": ""
     }
    ]
