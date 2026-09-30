@@ -1,28 +1,33 @@
 {
- "updated": "2026-09-30 19:21 UTC",
+ "updated": "2026-09-30 23:50 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-     "link": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 18:40:36 GMT"
+     "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+     "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 21:30:38 GMT"
+    },
+    {
+     "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+     "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 19:00:50 GMT"
+    },
+    {
+     "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+     "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:42:10 GMT"
+    },
+    {
+     "title": "Employers should teach primary-age children about work, says Milburn",
+     "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 21:40:31 GMT"
     },
     {
      "title": "UK believes Iran involved in RAF Fairford incident, PM says",
      "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 15:59:51 GMT"
-    },
-    {
-     "title": "UK-France 'one in, one out' migrant scheme scrapped",
-     "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 17:11:08 GMT"
-    },
-    {
-     "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
-     "link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 18:15:15 GMT"
+     "date": "Wed, 30 Sep 2026 21:26:59 GMT"
     },
     {
      "title": "Teens who died in car that entered River Wear named",
@@ -30,25 +35,30 @@
      "date": "Wed, 30 Sep 2026 18:40:18 GMT"
     },
     {
+     "title": "UK-France 'one in, one out' migrant scheme scrapped",
+     "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 17:11:08 GMT"
+    },
+    {
      "title": "Brexit referendum 'possible' in Labour election manifesto, Burnham tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 30 Sep 2026 16:06:23 GMT"
-    },
-    {
-     "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-     "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 15:29:11 GMT"
-    },
-    {
-     "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
-     "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 12:50:51 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Vape prices to rise as new tax takes effect",
+     "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:02:11 GMT"
+    },
+    {
+     "title": "Energy bills are going up - here's what you can do about it",
+     "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:01:32 GMT"
+    },
     {
      "title": "Household energy bills forecast to see biggest rise in four years",
      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
@@ -65,6 +75,11 @@
      "date": "Wed, 30 Sep 2026 15:03:22 GMT"
     },
     {
+     "title": "The AI telling farmers when to harvest",
+     "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:02:21 GMT"
+    },
+    {
      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 30 Sep 2026 04:01:52 GMT"
@@ -73,21 +88,6 @@
      "title": "Doubters spur me on: why more women are taking up DIY",
      "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 30 Sep 2026 07:27:11 GMT"
-    },
-    {
-     "title": "The start-ups hoping to return battery making to the US",
-     "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 23:06:50 GMT"
-    },
-    {
-     "title": "Huel ad banned for suggesting its products could replace all meals",
-     "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 23:06:06 GMT"
-    },
-    {
-     "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-     "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 11:25:12 GMT"
     }
    ]
   },
@@ -97,7 +97,7 @@
     {
      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
      "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-     "date": "Wed, 30 Sep 2026 15:59:32 GMT"
+     "date": "Wed, 30 Sep 2026 19:51:24 GMT"
     },
     {
      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Swiss glaciers suffer another year of record ice loss",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+     "date": "Wed, 30 Sep 2026 19:00:00 -0400"
+    },
+    {
+     "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+     "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+     "date": "Wed, 30 Sep 2026 17:51:20 -0400"
+    },
+    {
      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
      "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
      "date": "Wed, 30 Sep 2026 13:51:42 -0400"
@@ -168,16 +178,6 @@
      "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
      "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
      "date": "Wed, 30 Sep 2026 10:30:03 -0400"
-    },
-    {
-     "title": "A pilot stabs another pilot and tries to crash their flight to Tel Aviv, Israel says",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-     "date": "Wed, 30 Sep 2026 09:35:11 -0400"
-    },
-    {
-     "title": "FBI hunting the hackers who stole its employees' sensitive data",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-     "date": "Wed, 30 Sep 2026 08:29:05 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-     "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 19:00:11 +0000"
+     "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+     "link": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 23:31:54 +0000"
     },
     {
-     "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-     "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 18:52:51 +0000"
+     "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+     "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 23:15:00 +0000"
     },
     {
-     "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
-     "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 18:48:32 +0000"
+     "title": "US Senate rejects bill targeting AI data centre electricity costs",
+     "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 22:58:21 +0000"
     },
     {
-     "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
-     "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 18:39:04 +0000"
+     "title": "Hong Kong journalist arrested on sedition charge",
+     "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 22:16:01 +0000"
     },
     {
-     "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 18:12:27 +0000"
+     "title": "Russian drone crashes into Kyiv playground without exploding",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 22:13:35 +0000"
     },
     {
-     "title": "Strong indications’ Iran linked to suspected UK airbase plot",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 18:09:51 +0000"
+     "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 21:34:30 +0000"
     },
     {
-     "title": "Trump set to announce $200bn in energy investments from South Korea",
-     "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 18:01:14 +0000"
+     "title": "Trump administration files complaint against judges over media comments",
+     "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 21:28:43 +0000"
     },
     {
-     "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 17:55:59 +0000"
+     "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 21:12:46 +0000"
     }
    ]
   },
