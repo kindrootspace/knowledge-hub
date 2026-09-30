@@ -1,9 +1,19 @@
 {
- "updated": "2026-09-29 20:47 UTC",
+ "updated": "2026-09-30 00:27 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "One of the five men arrested near RAF Fairford called 999 himself",
+     "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 00:12:24 GMT"
+    },
+    {
+     "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+     "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 19:54:07 GMT"
+    },
     {
      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
      "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
@@ -15,19 +25,9 @@
      "date": "Tue, 29 Sep 2026 19:13:14 GMT"
     },
     {
-     "title": "Man City guilty of 'sham' contracts and misleading accounts",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 18:12:33 GMT"
-    },
-    {
-     "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
-     "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 19:50:58 GMT"
-    },
-    {
-     "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
-     "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 19:54:07 GMT"
+     "title": "Household energy bills forecast to see biggest rise in four years",
+     "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:03:13 GMT"
     },
     {
      "title": "Three teenagers die after car enters River Wear",
@@ -35,14 +35,14 @@
      "date": "Tue, 29 Sep 2026 20:01:45 GMT"
     },
     {
-     "title": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
-     "link": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 14:45:03 GMT"
+     "title": "Man City guilty of 'sham' contracts and misleading accounts",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 18:12:33 GMT"
     },
     {
-     "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
-     "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 16:56:50 GMT"
+     "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 22:06:30 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-     "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 17:39:06 GMT"
+     "title": "Household energy bills forecast to see biggest rise in four years",
+     "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:03:13 GMT"
     },
     {
      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
@@ -60,34 +60,34 @@
      "date": "Tue, 29 Sep 2026 16:43:39 GMT"
     },
     {
+     "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+     "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:06:14 GMT"
+    },
+    {
+     "title": "Huel ad banned for suggesting its products could replace all conventional food",
+     "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:06:06 GMT"
+    },
+    {
+     "title": "Chinese AI tool told researchers how to make bioweapons",
+     "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:15:29 GMT"
+    },
+    {
+     "title": "The start-ups hoping to return battery making to the US",
+     "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:06:50 GMT"
+    },
+    {
      "title": "Soho House venue under investigation for food safety",
      "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 29 Sep 2026 19:10:06 GMT"
     },
     {
-     "title": "Oura pulls $15bn stock market listing days after announcement",
-     "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 17:17:07 GMT"
-    },
-    {
-     "title": "What is the triple lock and why are people talking about it?",
-     "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 17:09:46 GMT"
-    },
-    {
-     "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+     "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 19:17:43 GMT"
-    },
-    {
-     "title": "Warning more homes will be uninsurable due to flood risk",
-     "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 09:42:48 GMT"
-    },
-    {
-     "title": "What a US diesel export ban could mean for you",
-     "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 28 Sep 2026 18:18:30 GMT"
+     "date": "Tue, 29 Sep 2026 23:47:10 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-     "link": "https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 20:08:33 +0000"
+     "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 00:00:00 +0000"
     },
     {
-     "title": "Has Gaza broken the Israel consensus in the US?",
-     "link": "https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 20:05:41 +0000"
+     "title": "Trump says he plans to campaign for 32 days before midterm elections",
+     "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:53:08 +0000"
     },
     {
-     "title": "US troops fully withdraw from Baghdad base after two decades",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 20:00:31 +0000"
+     "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
+     "link": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:49:18 +0000"
     },
     {
-     "title": "Can Iraq handle future security challenges alone?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 19:05:03 +0000"
+     "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+     "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:43:32 +0000"
     },
     {
-     "title": "Madrid residents feel the impact of Spain’s housing crisis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/madrid-residents-feel-the-impact-of-spains-housing-crisis?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 18:57:52 +0000"
+     "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
+     "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:28:47 +0000"
     },
     {
-     "title": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 18:51:30 +0000"
+     "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
+     "link": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:15:35 +0000"
     },
     {
-     "title": "Trump unveils new site to simplify access to government services",
-     "link": "https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 18:21:33 +0000"
+     "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+     "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:06:53 +0000"
     },
     {
-     "title": "Morocco’s king names Fatima Ezzahra El Mansouri first woman PM",
-     "link": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 18:10:37 +0000"
+     "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
+     "date": "Tue, 29 Sep 2026 23:06:07 +0000"
     }
    ]
   },
