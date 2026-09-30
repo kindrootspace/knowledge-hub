@@ -1,24 +1,9 @@
 {
- "updated": "2026-09-30 00:27 UTC",
+ "updated": "2026-09-30 06:43 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "One of the five men arrested near RAF Fairford called 999 himself",
-     "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 00:12:24 GMT"
-    },
-    {
-     "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
-     "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 19:54:07 GMT"
-    },
-    {
-     "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-     "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 17:39:06 GMT"
-    },
     {
      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
      "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
@@ -27,22 +12,37 @@
     {
      "title": "Household energy bills forecast to see biggest rise in four years",
      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 23:03:13 GMT"
+     "date": "Wed, 30 Sep 2026 05:27:23 GMT"
     },
     {
-     "title": "Three teenagers die after car enters River Wear",
-     "link": "https://www.bbc.co.uk/news/articles/c8y5zxeq5dl3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 20:01:45 GMT"
+     "title": "One of the five men arrested near RAF Fairford called 999 himself",
+     "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 00:12:24 GMT"
     },
     {
-     "title": "Man City guilty of 'sham' contracts and misleading accounts",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 18:12:33 GMT"
+     "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+     "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 05:02:50 GMT"
     },
     {
-     "title": "It is time for Tuchel to offer Alexander-Arnold some trust",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 22:06:30 GMT"
+     "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
+     "link": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:09:37 GMT"
+    },
+    {
+     "title": "Antisemitism on the rise at universities, charity warns",
+     "link": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 00:36:22 GMT"
+    },
+    {
+     "title": "Chinese AI tool told researchers how to make bioweapons",
+     "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:15:29 GMT"
+    },
+    {
+     "title": "The intricate web Man City spun to con the Premier League",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 20:58:17 GMT"
     }
    ]
   },
@@ -52,12 +52,17 @@
     {
      "title": "Household energy bills forecast to see biggest rise in four years",
      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 23:03:13 GMT"
+     "date": "Wed, 30 Sep 2026 05:27:23 GMT"
     },
     {
      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
      "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 29 Sep 2026 16:43:39 GMT"
+    },
+    {
+     "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+     "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 04:01:52 GMT"
     },
     {
      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
@@ -70,24 +75,19 @@
      "date": "Tue, 29 Sep 2026 23:06:06 GMT"
     },
     {
-     "title": "Chinese AI tool told researchers how to make bioweapons",
-     "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 23:15:29 GMT"
-    },
-    {
      "title": "The start-ups hoping to return battery making to the US",
      "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 29 Sep 2026 23:06:50 GMT"
     },
     {
+     "title": "Chinese AI tool told researchers how to make bioweapons",
+     "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 29 Sep 2026 23:15:29 GMT"
+    },
+    {
      "title": "Soho House venue under investigation for food safety",
      "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 29 Sep 2026 19:10:06 GMT"
-    },
-    {
-     "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-     "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 29 Sep 2026 23:47:10 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Hurricane Polo's remnants bringing more rain to flood-struck U.S. Southwest",
+     "link": "https://www.npr.org/2026/09/30/g-s1-145590/hurricane-polo-us-southwest",
+     "date": "Wed, 30 Sep 2026 02:16:44 -0400"
+    },
+    {
+     "title": "The federal law aimed at protecting college students from sexual abuse",
+     "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
+     "date": "Tue, 29 Sep 2026 17:29:21 -0400"
+    },
+    {
      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
      "link": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
      "date": "Tue, 29 Sep 2026 15:19:37 -0400"
@@ -168,16 +178,6 @@
      "title": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
      "link": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
      "date": "Tue, 29 Sep 2026 12:01:00 -0400"
-    },
-    {
-     "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-     "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-     "date": "Tue, 29 Sep 2026 07:36:24 -0400"
-    },
-    {
-     "title": "How to hide your spending habits from retailers (so you don't get ripped off)",
-     "link": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
-     "date": "Tue, 29 Sep 2026 05:01:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 00:00:00 +0000"
+     "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
+     "link": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 06:29:57 +0000"
     },
     {
-     "title": "Trump says he plans to campaign for 32 days before midterm elections",
-     "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:53:08 +0000"
+     "title": "India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage",
+     "link": "https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 06:25:39 +0000"
     },
     {
-     "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
-     "link": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:49:18 +0000"
+     "title": "Hegseth to cut number of US general and admiral positions by 20%",
+     "link": "https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 05:05:35 +0000"
     },
     {
-     "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-     "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:43:32 +0000"
+     "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
+     "link": "https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 04:51:01 +0000"
     },
     {
-     "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
-     "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:28:47 +0000"
+     "title": "South African president orders action on femicide after killings",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 04:39:34 +0000"
     },
     {
-     "title": "Venezuelan man shot by ICE officer in Texas is charged with assault",
-     "link": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:15:35 +0000"
+     "title": "Democrats hope anger at Trump enough to get young people to vote",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 04:36:27 +0000"
     },
     {
-     "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
-     "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:06:53 +0000"
+     "title": "String of rapes in Delhi triggers social campaign for women’s safety",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/string-of-rapes-in-delhi-triggers-social-campaign-for-womens-safety?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 03:53:50 +0000"
     },
     {
-     "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
-     "date": "Tue, 29 Sep 2026 23:06:07 +0000"
+     "title": "Public workers in France strike over pay as student protests turn violent",
+     "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss",
+     "date": "Wed, 30 Sep 2026 03:53:39 +0000"
     }
    ]
   },
@@ -250,6 +250,11 @@
      "date": ""
     },
     {
+     "title": "Emissions after the Paris accord made Europe’s heatwaves more severe",
+     "link": "https://www.nature.com/articles/d41586-026-03035-w",
+     "date": ""
+    },
+    {
      "title": "Patents alone won’t unlock critical-mineral supply chains",
      "link": "https://www.nature.com/articles/d41586-026-03054-7",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
      "link": "https://www.nature.com/articles/d41586-026-03055-6",
-     "date": ""
-    },
-    {
-     "title": "AI-powered medical devices must be tested in real-world settings",
-     "link": "https://www.nature.com/articles/d41586-026-03046-7",
      "date": ""
     }
    ]
