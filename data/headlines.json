@@ -1,54 +1,59 @@
 {
- "updated": "2026-09-30 23:50 UTC",
+ "updated": "2026-10-01 05:55 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
-     "link": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 21:30:38 GMT"
-    },
-    {
-     "title": "Dame Esther Rantzen: A presenter who campaigned for change",
-     "link": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 19:00:50 GMT"
-    },
-    {
-     "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+     "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 23:42:10 GMT"
+     "date": "Thu, 01 Oct 2026 05:34:41 GMT"
     },
     {
-     "title": "Employers should teach primary-age children about work, says Milburn",
-     "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 21:40:31 GMT"
+     "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+     "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 03:43:06 GMT"
     },
     {
-     "title": "UK believes Iran involved in RAF Fairford incident, PM says",
-     "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 21:26:59 GMT"
+     "title": "Plummeting Israel flight dropped like a rollercoaster, says passenger",
+     "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 03:52:20 GMT"
     },
     {
-     "title": "Teens who died in car that entered River Wear named",
-     "link": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 18:40:18 GMT"
+     "title": "AI boom could trigger market shocks, Bank of England boss warns",
+     "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 04:03:17 GMT"
     },
     {
-     "title": "UK-France 'one in, one out' migrant scheme scrapped",
-     "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 17:11:08 GMT"
+     "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:25:23 GMT"
     },
     {
-     "title": "Brexit referendum 'possible' in Labour election manifesto, Burnham tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 16:06:23 GMT"
+     "title": "Vape prices to rise as new tax takes effect",
+     "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:02:11 GMT"
+    },
+    {
+     "title": "Celebrity Traitors is back - here's what you need to know ahead of the first show",
+     "link": "https://www.bbc.co.uk/news/articles/ckqxvnpy7e49o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 00:09:38 GMT"
+    },
+    {
+     "title": "Tiny image sparks big backlash in Nikon photo contest",
+     "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 23:10:19 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "AI boom could trigger market shocks, Bank of England boss warns",
+     "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 04:03:17 GMT"
+    },
     {
      "title": "Vape prices to rise as new tax takes effect",
      "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
@@ -63,11 +68,6 @@
      "title": "Household energy bills forecast to see biggest rise in four years",
      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 30 Sep 2026 14:36:45 GMT"
-    },
-    {
-     "title": "Regulating AI 'not the right place to start' says Bailey",
-     "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 14:00:33 GMT"
     },
     {
      "title": "Greggs to shut four factories and cut 740 jobs",
@@ -85,9 +85,9 @@
      "date": "Wed, 30 Sep 2026 04:01:52 GMT"
     },
     {
-     "title": "Doubters spur me on: why more women are taking up DIY",
-     "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 30 Sep 2026 07:27:11 GMT"
+     "title": "Regulating AI 'not the right place to start' says Bailey",
+     "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 30 Sep 2026 14:00:33 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+     "link": "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+     "date": "Thu, 01 Oct 2026 01:43:24 -0400"
+    },
+    {
      "title": "Swiss glaciers suffer another year of record ice loss",
      "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
      "date": "Wed, 30 Sep 2026 19:00:00 -0400"
@@ -173,11 +178,6 @@
      "title": "How Trump keeps undercutting his anti-communist message",
      "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
      "date": "Wed, 30 Sep 2026 10:58:51 -0400"
-    },
-    {
-     "title": "After failed execution, health workers say Tennessee's method flouts medical ethics",
-     "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
-     "date": "Wed, 30 Sep 2026 10:30:03 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
-     "link": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 23:31:54 +0000"
+     "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
+     "link": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 05:37:39 +0000"
     },
     {
-     "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-     "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 23:15:00 +0000"
+     "title": "Mourners bury DR Congo official killed after defending Ebola response",
+     "link": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 05:18:52 +0000"
     },
     {
-     "title": "US Senate rejects bill targeting AI data centre electricity costs",
-     "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 22:58:21 +0000"
+     "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 05:04:28 +0000"
     },
     {
-     "title": "Hong Kong journalist arrested on sedition charge",
-     "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 22:16:01 +0000"
+     "title": "‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 04:58:48 +0000"
     },
     {
-     "title": "Russian drone crashes into Kyiv playground without exploding",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 22:13:35 +0000"
+     "title": "Execution of US woman Christa Pike fails after botched lethal injection",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 04:55:02 +0000"
     },
     {
-     "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 21:34:30 +0000"
+     "title": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
+     "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 04:16:19 +0000"
     },
     {
-     "title": "Trump administration files complaint against judges over media comments",
-     "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 21:28:43 +0000"
+     "title": "South Korea’s exports hit record high on AI boom",
+     "link": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 04:08:15 +0000"
     },
     {
-     "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
-     "date": "Wed, 30 Sep 2026 21:12:46 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "These optical illusions are why butterflies are so hard to catch",
-     "link": "https://www.nature.com/articles/d41586-026-03124-w",
-     "date": ""
-    },
-    {
-     "title": "Who’s the loudest of them all? The bare-throated bellbird vies for the prize",
-     "link": "https://www.nature.com/articles/d41586-026-03038-7",
-     "date": ""
-    },
-    {
-     "title": "Is exposomics the key to making personalized medicine a reality?",
-     "link": "https://www.nature.com/articles/d41586-026-02958-8",
-     "date": ""
-    },
-    {
-     "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
-     "link": "https://www.nature.com/articles/d41586-026-02965-9",
-     "date": ""
-    },
-    {
-     "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
-     "link": "https://www.nature.com/articles/d41586-026-03086-z",
-     "date": ""
-    },
-    {
-     "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
-     "link": "https://www.nature.com/articles/d41586-026-02777-x",
-     "date": ""
-    },
-    {
-     "title": "Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature",
-     "link": "https://www.nature.com/articles/d41586-026-02991-7",
-     "date": ""
-    },
-    {
-     "title": "Tuberculosis treatment has advanced — now we need to stop drug resistance dragging us backwards",
-     "link": "https://www.nature.com/articles/d41586-026-02963-x",
-     "date": ""
+     "title": "AFCON 2027: East Africa races to get tournament-ready",
+     "link": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
+     "date": "Thu, 01 Oct 2026 03:04:24 +0000"
     }
    ]
   }
