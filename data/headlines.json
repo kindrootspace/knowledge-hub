@@ -1,54 +1,64 @@
 {
- "updated": "2026-10-02 16:16 UTC",
+ "updated": "2026-10-02 20:47 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "School protests send shivers down French government's spine",
-     "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 12:43:02 GMT"
+     "title": "Widdecombe suspect charged with planning terror act against Farage",
+     "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 19:40:05 GMT"
+    },
+    {
+     "title": "Watch: Why has UK diesel price hit an all time high?",
+     "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 16:58:30 GMT"
+    },
+    {
+     "title": "Riot police clash with students as education protests rage in France",
+     "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 17:43:10 GMT"
+    },
+    {
+     "title": "Men charged over alleged plot to target Manchester Jewish community",
+     "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 20:19:20 GMT"
+    },
+    {
+     "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+     "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 20:32:07 GMT"
+    },
+    {
+     "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+     "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 15:26:37 GMT"
     },
     {
      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 16:07:15 GMT"
+     "date": "Fri, 02 Oct 2026 17:44:08 GMT"
     },
     {
-     "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-     "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 08:46:37 GMT"
-    },
-    {
-     "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-     "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 14:01:09 GMT"
-    },
-    {
-     "title": "Dolly Parton sings Jolene in Welsh in recording released after her death",
-     "link": "https://www.bbc.co.uk/news/articles/cw8d3ddpz8dlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 14:00:38 GMT"
-    },
-    {
-     "title": "Woman who killed abusive partner has murder conviction overturned",
-     "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 11:52:00 GMT"
-    },
-    {
-     "title": "Alison Hammond has heart check-up in hospital after leaving TV's This Morning",
-     "link": "https://www.bbc.co.uk/news/articles/c60rlwgx9n9go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 16:00:18 GMT"
-    },
-    {
-     "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
-     "link": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 15:40:31 GMT"
+     "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+     "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 15:30:12 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+     "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 20:25:19 GMT"
+    },
+    {
+     "title": "UK diesel prices top £2 a litre for first time, RAC says",
+     "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 15:50:05 GMT"
+    },
     {
      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
      "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
@@ -65,11 +75,6 @@
      "date": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
-     "title": "UK diesel price tops £2 a litre as G7 countries agree to release 100 million barrels of oil",
-     "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 15:50:05 GMT"
-    },
-    {
      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
      "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 01 Oct 2026 23:00:05 GMT"
@@ -83,11 +88,6 @@
      "title": "Why UK diesel prices have breached the £2 per litre mark",
      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 02 Oct 2026 13:38:22 GMT"
-    },
-    {
-     "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-     "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 23:45:06 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Germany's political center fights for relevance after far-right and far-left gains",
+     "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+     "date": "Fri, 02 Oct 2026 15:22:57 -0400"
+    },
+    {
+     "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+     "date": "Fri, 02 Oct 2026 14:43:30 -0400"
+    },
+    {
+     "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+     "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+     "date": "Fri, 02 Oct 2026 14:16:07 -0400"
+    },
+    {
      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
      "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
      "date": "Fri, 02 Oct 2026 10:37:27 -0400"
@@ -163,21 +178,6 @@
      "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
      "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
      "date": "Fri, 02 Oct 2026 06:30:00 -0400"
-    },
-    {
-     "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
-     "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
-     "date": "Fri, 02 Oct 2026 06:25:03 -0400"
-    },
-    {
-     "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
-     "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
-     "date": "Fri, 02 Oct 2026 05:01:00 -0400"
-    },
-    {
-     "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
-     "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-     "date": "Fri, 02 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
-     "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 16:06:25 +0000"
+     "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+     "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 20:32:02 +0000"
     },
     {
-     "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
-     "link": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 16:06:15 +0000"
+     "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
+     "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 20:28:07 +0000"
     },
     {
-     "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 16:02:39 +0000"
+     "title": "Could conflict in Ethiopia expand across the region?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 20:17:50 +0000"
     },
     {
-     "title": "LIVE: France vs Italy – UEFA Nations League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 15:45:55 +0000"
+     "title": "Arab party leader withdraws from Israeli elections",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 19:10:23 +0000"
     },
     {
-     "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
-     "link": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 15:01:08 +0000"
+     "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 19:01:45 +0000"
     },
     {
-     "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
-     "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 14:14:18 +0000"
+     "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
+     "link": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 18:51:54 +0000"
     },
     {
-     "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
-     "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 13:53:24 +0000"
+     "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+     "link": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 18:18:42 +0000"
     },
     {
-     "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
-     "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 13:50:06 +0000"
+     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+     "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 18:11:37 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
+     "link": "https://www.nature.com/articles/d41586-026-03057-4",
+     "date": ""
+    },
     {
      "title": "How to respond to hate speech without fuelling it further",
      "link": "https://www.nature.com/articles/d41586-026-03058-3",
@@ -245,6 +250,11 @@
      "date": ""
     },
     {
+     "title": "Can you name the women who have won a science Nobel prize?",
+     "link": "https://www.nature.com/articles/d41586-026-03133-9",
+     "date": ""
+    },
+    {
      "title": "Von Neumann’s party",
      "link": "https://www.nature.com/articles/d41586-026-02976-6",
      "date": ""
@@ -257,16 +267,6 @@
     {
      "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
      "link": "https://www.nature.com/articles/d41586-026-02564-8",
-     "date": ""
-    },
-    {
-     "title": "Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
-     "link": "https://www.nature.com/articles/s41586-026-11149-4",
-     "date": ""
-    },
-    {
-     "title": "A black hole’s jets have a halo effect",
-     "link": "https://www.nature.com/articles/d41586-026-03036-9",
      "date": ""
     }
    ]
