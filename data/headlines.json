@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-02 02:17 UTC",
+ "updated": "2026-10-02 09:46 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 00:20:39 GMT"
+     "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+     "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 09:08:06 GMT"
     },
     {
-     "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-     "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 23:45:06 GMT"
+     "title": "Watch: Emotional pilot recounts moment of Flydubai attack",
+     "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 08:46:37 GMT"
     },
     {
-     "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-     "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 22:21:16 GMT"
+     "title": "Man City verdict has 'significant implications for integrity of the game', says FA",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 08:50:24 GMT"
     },
     {
      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
@@ -25,45 +25,30 @@
      "date": "Thu, 01 Oct 2026 22:28:45 GMT"
     },
     {
-     "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
-     "link": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 22:22:43 GMT"
-    },
-    {
-     "title": "Spain and China are cosying up - to the anger of many in the EU",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 23:42:33 GMT"
-    },
-    {
-     "title": "Watch: Celebrity Traitors series two kicks off with a wild curveball",
-     "link": "https://www.bbc.co.uk/news/videos/cwd080ryxd42o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 21:51:56 GMT"
-    },
-    {
      "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
      "link": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 20:18:06 GMT"
-    }
-   ]
-  },
-  {
-   "name": "BBC Business",
-   "items": [
-    {
-     "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-     "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 22:21:16 GMT"
-    },
-    {
-     "title": "OpenAI fires three workers over mishandling 'sensitive information'",
-     "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 01:34:56 GMT"
+     "date": "Fri, 02 Oct 2026 09:28:32 GMT"
     },
     {
      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 01 Oct 2026 23:45:06 GMT"
     },
+    {
+     "title": "'I was terrified': Alex Ferguson on brain haemorrhage and games that shaped his life",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 05:25:13 GMT"
+    },
+    {
+     "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+     "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 05:51:20 GMT"
+    }
+   ]
+  },
+  {
+   "name": "BBC Business",
+   "items": [
     {
      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
      "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
@@ -75,14 +60,29 @@
      "date": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
+     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+     "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 08:54:00 GMT"
+    },
+    {
+     "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+     "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 23:45:06 GMT"
+    },
+    {
      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
      "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 01 Oct 2026 23:00:05 GMT"
     },
     {
-     "title": "HMRC urged to scrutinise tax implications of Man City case",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 18:21:22 GMT"
+     "title": "OpenAI fires workers for 'mishandling sensitive information'",
+     "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 08:20:32 GMT"
+    },
+    {
+     "title": "Thames Water apologises after £145,000 customer billing mistake",
+     "link": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 18:09:16 GMT"
     },
     {
      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
@@ -94,6 +94,11 @@
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+     "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+     "date": "Fri, 02 Oct 2026 08:55:42 GMT"
+    },
     {
      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
      "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
@@ -115,9 +120,9 @@
      "date": "Mon, 28 Sep 2026 15:54:25 GMT"
     },
     {
-     "title": "At least 27 dead after two mass shootings in South Africa, police say",
-     "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-     "date": "Sun, 27 Sep 2026 13:46:49 GMT"
+     "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+     "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+     "date": "Fri, 02 Oct 2026 04:00:10 GMT"
     },
     {
      "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
@@ -128,17 +133,32 @@
      "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
      "link": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
      "date": "Thu, 01 Oct 2026 18:34:10 GMT"
-    },
-    {
-     "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
-     "link": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump",
-     "date": "Thu, 01 Oct 2026 09:00:34 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
+     "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
+     "date": "Fri, 02 Oct 2026 05:01:00 -0400"
+    },
+    {
+     "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Asia",
+     "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
+     "date": "Fri, 02 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+     "date": "Fri, 02 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "He was banned by betting sites, and filed for bankruptcy. Then he relapsed on Kalshi",
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+     "date": "Fri, 02 Oct 2026 05:00:00 -0400"
+    },
     {
      "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
      "link": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
@@ -158,26 +178,6 @@
      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
      "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
      "date": "Thu, 01 Oct 2026 14:41:07 -0400"
-    },
-    {
-     "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
-     "link": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
-     "date": "Thu, 01 Oct 2026 14:22:59 -0400"
-    },
-    {
-     "title": "AI data centers: How much are ratepayers on the hook for?",
-     "link": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
-     "date": "Thu, 01 Oct 2026 12:47:53 -0400"
-    },
-    {
-     "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
-     "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
-     "date": "Thu, 01 Oct 2026 12:43:26 -0400"
-    },
-    {
-     "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
-     "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
-     "date": "Thu, 01 Oct 2026 11:21:33 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Trump launches midterms campaign blitz amidst record low approval ratings",
-     "link": "https://www.aljazeera.com/news/2026/10/2/trump-launches-midterms-campaign-blitz-amidst-record-low-approval-ratings?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 01:39:08 +0000"
+     "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+     "link": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 09:03:21 +0000"
     },
     {
-     "title": "Trump says US may ask Europe to release diesel reserves",
-     "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 01:23:35 +0000"
+     "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
+     "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 08:26:22 +0000"
     },
     {
-     "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
-     "link": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 00:29:57 +0000"
+     "title": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
+     "link": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 08:14:18 +0000"
     },
     {
-     "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 00:00:00 +0000"
+     "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+     "link": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 08:03:02 +0000"
     },
     {
-     "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-     "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-     "date": "Thu, 01 Oct 2026 23:44:39 +0000"
+     "title": "Indian police detain politicians at protests over election chief",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 07:59:49 +0000"
     },
     {
-     "title": "Brazilian government calls for probe into US funding of far-right causes",
-     "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
-     "date": "Thu, 01 Oct 2026 22:48:17 +0000"
+     "title": "Lawyers for US inmate who survived lethal injections demand release",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 07:58:08 +0000"
     },
     {
-     "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
-     "date": "Thu, 01 Oct 2026 22:44:56 +0000"
+     "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+     "link": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 07:17:02 +0000"
     },
     {
-     "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
-     "link": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
-     "date": "Thu, 01 Oct 2026 22:31:30 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
-     "link": "https://www.nature.com/articles/s41586-026-11149-4",
-     "date": ""
-    },
-    {
-     "title": "A black hole’s jets have a halo effect",
-     "link": "https://www.nature.com/articles/d41586-026-03036-9",
-     "date": ""
-    },
-    {
-     "title": "Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes",
-     "link": "https://www.nature.com/articles/d41586-026-03119-7",
-     "date": ""
-    },
-    {
-     "title": "Sign of the times: AI lingo muscles into esteemed dictionary",
-     "link": "https://www.nature.com/articles/d41586-026-03044-9",
-     "date": ""
-    },
-    {
-     "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
-     "link": "https://www.nature.com/articles/d41586-026-03042-x",
-     "date": ""
-    },
-    {
-     "title": "Gaze into the cosmos and through the eyes of a bee — September’s best science images",
-     "link": "https://www.nature.com/articles/d41586-026-03101-3",
-     "date": ""
-    },
-    {
-     "title": "Battle of the Anthropocene: allegations re-ignite row over proposed geologic epoch",
-     "link": "https://www.nature.com/articles/d41586-026-03118-8",
-     "date": ""
-    },
-    {
-     "title": "These optical illusions are why butterflies are so hard to catch",
-     "link": "https://www.nature.com/articles/d41586-026-03124-w",
-     "date": ""
+     "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
+     "link": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 06:26:48 +0000"
     }
    ]
   }
