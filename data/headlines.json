@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03 12:34 UTC",
+ "updated": "2026-10-03 17:17 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 11:20:21 GMT"
+     "date": "Sat, 03 Oct 2026 14:27:33 GMT"
     },
     {
      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
@@ -20,24 +20,24 @@
      "date": "Sat, 03 Oct 2026 10:27:57 GMT"
     },
     {
-     "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-     "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 11:48:41 GMT"
-    },
-    {
-     "title": "Protesters across Spain demand action over housing crisis",
+     "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 12:16:15 GMT"
+     "date": "Sat, 03 Oct 2026 13:34:11 GMT"
     },
     {
-     "title": "Homemade bombs part of alleged plot on Manchester's Jewish community, court told",
+     "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
      "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 11:40:15 GMT"
+     "date": "Sat, 03 Oct 2026 12:51:08 GMT"
     },
     {
-     "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-     "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 11:07:52 GMT"
+     "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+     "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 03 Oct 2026 16:57:02 GMT"
+    },
+    {
+     "title": "Spoiler alert! Is social media ruining big gig surprises?",
+     "link": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 03 Oct 2026 02:26:42 GMT"
     },
     {
      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
@@ -120,6 +120,11 @@
      "date": "Wed, 30 Sep 2026 12:47:15 GMT"
     },
     {
+     "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+     "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+     "date": "Sat, 03 Oct 2026 17:03:54 GMT"
+    },
+    {
      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
      "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
      "date": "Sat, 03 Oct 2026 07:00:35 GMT"
@@ -128,11 +133,6 @@
      "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
      "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
      "date": "Fri, 02 Oct 2026 21:12:29 GMT"
-    },
-    {
-     "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
-     "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
-     "date": "Fri, 02 Oct 2026 15:13:23 GMT"
     }
    ]
   },
@@ -145,13 +145,18 @@
      "date": "Sat, 03 Oct 2026 08:00:00 -0400"
     },
     {
-     "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-     "date": "Sat, 03 Oct 2026 07:00:00 -0400"
+     "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+     "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+     "date": "Sat, 03 Oct 2026 07:47:09 -0400"
     },
     {
      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+     "date": "Sat, 03 Oct 2026 07:00:00 -0400"
+    },
+    {
+     "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
+     "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
      "date": "Sat, 03 Oct 2026 07:00:00 -0400"
     },
     {
@@ -165,7 +170,7 @@
      "date": "Sat, 03 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "No one expected an American pope. Here's the inside story of how 'Bob' became Pope Leo",
+     "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
      "date": "Sat, 03 Oct 2026 05:00:00 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "How the system failed us: Former foster youth tell their stories",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
      "date": "Sat, 03 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Brazil's big political rematch: What to know",
-     "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
-     "date": "Fri, 02 Oct 2026 22:57:07 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-     "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 11:51:22 +0000"
+     "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+     "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 16:25:03 +0000"
     },
     {
-     "title": "The double standards of a failed execution",
-     "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 11:32:42 +0000"
+     "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 16:17:23 +0000"
     },
     {
-     "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-     "link": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 11:16:43 +0000"
+     "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 16:16:32 +0000"
     },
     {
-     "title": "Palestinians gather for football amid Gaza’s ruins",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 11:08:17 +0000"
+     "title": "What we know about the co-pilot accused in Flydubai attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 15:39:10 +0000"
     },
     {
-     "title": "How AI is helping Mexico detect breast cancer earlier",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 10:55:32 +0000"
+     "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
+     "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 15:18:28 +0000"
     },
     {
-     "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-     "link": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 10:48:28 +0000"
+     "title": "Tens of thousands protest in Spain after failed housing reforms",
+     "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 15:06:40 +0000"
     },
     {
-     "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-     "link": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 10:46:20 +0000"
+     "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+     "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 14:30:40 +0000"
     },
     {
-     "title": "What is FC Barcelona’s Negreira case, and what are the charges?",
-     "link": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 10:12:14 +0000"
+     "title": "What to know about Brazil’s 2026 presidential election",
+     "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 14:23:55 +0000"
     }
    ]
   },
