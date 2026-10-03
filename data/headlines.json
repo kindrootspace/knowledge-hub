@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02 20:47 UTC",
+ "updated": "2026-10-03 00:30 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,12 @@
     {
      "title": "Widdecombe suspect charged with planning terror act against Farage",
      "link": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 19:40:05 GMT"
+     "date": "Fri, 02 Oct 2026 21:32:25 GMT"
+    },
+    {
+     "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+     "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 20:25:19 GMT"
     },
     {
      "title": "Watch: Why has UK diesel price hit an all time high?",
@@ -15,14 +20,14 @@
      "date": "Fri, 02 Oct 2026 16:58:30 GMT"
     },
     {
-     "title": "Riot police clash with students as education protests rage in France",
-     "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 17:43:10 GMT"
-    },
-    {
      "title": "Men charged over alleged plot to target Manchester Jewish community",
      "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 20:19:20 GMT"
+     "date": "Fri, 02 Oct 2026 21:38:05 GMT"
+    },
+    {
+     "title": "Riot police clash with students as education protests rage in France",
+     "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 21:13:27 GMT"
     },
     {
      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
@@ -30,19 +35,14 @@
      "date": "Fri, 02 Oct 2026 20:32:07 GMT"
     },
     {
-     "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-     "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 15:26:37 GMT"
+     "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+     "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 23:31:37 GMT"
     },
     {
-     "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 17:44:08 GMT"
-    },
-    {
-     "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-     "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 15:30:12 GMT"
+     "title": "Tories pledge to build 50,000 new prison places",
+     "link": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 02 Oct 2026 21:11:04 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 28 Sep 2026 15:54:25 GMT"
     },
     {
+     "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
+     "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+     "date": "Fri, 02 Oct 2026 21:12:29 GMT"
+    },
+    {
      "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
      "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
      "date": "Fri, 02 Oct 2026 15:13:23 GMT"
@@ -128,17 +133,17 @@
      "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
      "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
      "date": "Fri, 02 Oct 2026 04:00:10 GMT"
-    },
-    {
-     "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
-     "link": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
-     "date": "Fri, 02 Oct 2026 02:00:07 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+     "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
+     "date": "Fri, 02 Oct 2026 17:44:07 -0400"
+    },
     {
      "title": "Germany's political center fights for relevance after far-right and far-left gains",
      "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
@@ -173,11 +178,6 @@
      "title": "Why is diesel more expensive than regular gas?",
      "link": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
      "date": "Fri, 02 Oct 2026 07:00:00 -0400"
-    },
-    {
-     "title": "San Francisco's car crime has plunged. How much credit does Flock deserve?",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
-     "date": "Fri, 02 Oct 2026 06:30:00 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-     "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 20:32:02 +0000"
+     "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+     "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 23:55:24 +0000"
     },
     {
-     "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
-     "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 20:28:07 +0000"
+     "title": "Dutch royal house helped slave trade to survive, study finds",
+     "link": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 23:43:50 +0000"
     },
     {
-     "title": "Could conflict in Ethiopia expand across the region?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 20:17:50 +0000"
+     "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+     "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 22:50:23 +0000"
     },
     {
-     "title": "Arab party leader withdraws from Israeli elections",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 19:10:23 +0000"
+     "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+     "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 22:14:34 +0000"
     },
     {
-     "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 19:01:45 +0000"
+     "title": "Croatia vs England: UEFA Nations League – Kane, Modric, teams, form",
+     "link": "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 21:59:26 +0000"
     },
     {
-     "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-     "link": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 18:51:54 +0000"
+     "title": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 21:59:11 +0000"
     },
     {
-     "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-     "link": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 18:18:42 +0000"
+     "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+     "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 21:53:17 +0000"
     },
     {
-     "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-     "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-     "date": "Fri, 02 Oct 2026 18:11:37 +0000"
+     "title": "France held 1-1 by Italy in Zidane home debut after Olise stunner",
+     "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss",
+     "date": "Fri, 02 Oct 2026 21:24:24 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Location, location, location: how to edit genes only in the cells you want",
+     "link": "https://www.nature.com/articles/d41586-026-03037-8",
+     "date": ""
+    },
     {
      "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
      "link": "https://www.nature.com/articles/d41586-026-03057-4",
@@ -262,11 +267,6 @@
     {
      "title": "Prozac use for childhood depression skewed by single flawed medical trial",
      "link": "https://www.nature.com/articles/d41586-026-02769-x",
-     "date": ""
-    },
-    {
-     "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-     "link": "https://www.nature.com/articles/d41586-026-02564-8",
      "date": ""
     }
    ]
