@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03 21:15 UTC",
+ "updated": "2026-10-03 23:47 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Coast Guard searching for missing medical plane carrying 6 people",
+     "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+     "date": "Sat, 03 Oct 2026 18:31:04 -0400"
+    },
+    {
+     "title": "Can the Cornell lawsuit force changes that make students safer?",
+     "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+     "date": "Sat, 03 Oct 2026 17:57:34 -0400"
+    },
+    {
      "title": "Opinion: A Hawk is not the same as a Hawkeye",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
      "date": "Sat, 03 Oct 2026 08:00:00 -0400"
@@ -168,22 +178,27 @@
      "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
      "date": "Sat, 03 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "4 ways to battle performance anxiety, according to a confidence coach",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
-     "date": "Sat, 03 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "How the system failed us: Former foster youth tell their stories",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
-     "date": "Sat, 03 Oct 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Air ambulance missing on flight from Bermuda to Boston",
+     "link": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 23:03:44 +0000"
+    },
+    {
+     "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+     "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 22:43:58 +0000"
+    },
+    {
+     "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+     "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+     "date": "Sat, 03 Oct 2026 21:15:05 +0000"
+    },
     {
      "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Is the CJP changing India’s political landscape?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
      "date": "Sat, 03 Oct 2026 19:00:01 +0000"
-    },
-    {
-     "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 18:49:03 +0000"
-    },
-    {
-     "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-     "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 18:23:29 +0000"
-    },
-    {
-     "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-     "link": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
-     "date": "Sat, 03 Oct 2026 18:20:51 +0000"
     }
    ]
   },
