@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-04 12:22 UTC",
+ "updated": "2026-10-04 17:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 11:19:58 GMT"
+     "title": "Green Party members back 'Zionism is racism' motion",
+     "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 16:35:29 GMT"
     },
     {
-     "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
-     "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 11:04:47 GMT"
+     "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+     "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 16:20:02 GMT"
     },
     {
-     "title": "Daughter of MP murdered five years ago says politicians still at risk",
-     "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 11:59:35 GMT"
+     "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+     "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 14:25:32 GMT"
     },
     {
-     "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-     "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 12:09:04 GMT"
+     "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 13:45:24 GMT"
     },
     {
-     "title": "Australia investigating Flydubai co-pilot's links to country",
-     "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 06:19:17 GMT"
+     "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+     "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 16:51:30 GMT"
     },
     {
-     "title": "Cornell president says university 'must do better' after frat house rape allegations",
-     "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 00:11:25 GMT"
+     "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+     "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 16:24:48 GMT"
     },
     {
      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
@@ -40,9 +40,9 @@
      "date": "Sun, 04 Oct 2026 11:24:58 GMT"
     },
     {
-     "title": "The Celebrity Traitors connections that might surprise you",
-     "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 01:31:32 GMT"
+     "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 11:19:58 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
+     "link": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
+     "date": "Sun, 04 Oct 2026 15:16:03 GMT"
+    },
+    {
      "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
      "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
      "date": "Sat, 03 Oct 2026 09:00:56 GMT"
@@ -115,30 +120,40 @@
      "date": "Wed, 30 Sep 2026 14:16:33 GMT"
     },
     {
-     "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
-     "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
-     "date": "Wed, 30 Sep 2026 12:47:15 GMT"
+     "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
+     "date": "Sun, 04 Oct 2026 14:00:32 GMT"
     },
     {
      "title": "Brazil goes to polls in decisive election for future of Latin America",
      "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
-     "date": "Sun, 04 Oct 2026 08:53:01 GMT"
+     "date": "Sun, 04 Oct 2026 13:52:33 GMT"
     },
     {
      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
      "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
      "date": "Sun, 04 Oct 2026 03:38:48 GMT"
-    },
-    {
-     "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-     "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-     "date": "Sat, 03 Oct 2026 07:00:35 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+     "date": "Sun, 04 Oct 2026 11:41:07 -0400"
+    },
+    {
+     "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+     "date": "Sun, 04 Oct 2026 11:15:09 -0400"
+    },
+    {
+     "title": "How the Cornell case is affecting women who have experienced sexual assault",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+     "date": "Sun, 04 Oct 2026 10:51:27 -0400"
+    },
     {
      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
@@ -163,21 +178,6 @@
      "title": "Opinion: A Hawk is not the same as a Hawkeye",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
      "date": "Sat, 03 Oct 2026 08:00:00 -0400"
-    },
-    {
-     "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-     "date": "Sat, 03 Oct 2026 07:47:09 -0400"
-    },
-    {
-     "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-     "date": "Sat, 03 Oct 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-     "date": "Sat, 03 Oct 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
-     "link": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 11:58:14 +0000"
+     "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+     "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 17:17:42 +0000"
     },
     {
-     "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-     "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 11:15:34 +0000"
+     "title": "Mass protests demanding poll chief resignation shake India for third day",
+     "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:55:03 +0000"
     },
     {
-     "title": "Iran says Hormuz to remain closed until US meets conditions",
-     "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 11:11:30 +0000"
+     "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:38:45 +0000"
     },
     {
-     "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
-     "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 11:05:02 +0000"
+     "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+     "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:28:43 +0000"
     },
     {
-     "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
-     "link": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 11:02:33 +0000"
+     "title": "US and Man City’s Cavan Sullivan becomes youngest international goalscorer",
+     "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:23:59 +0000"
     },
     {
-     "title": "Is the Sudanese army gaining momentum against the RSF?",
-     "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 10:56:12 +0000"
+     "title": "Three years of genocide in Gaza through one man’s camera",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:18:01 +0000"
     },
     {
-     "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
-     "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 10:55:40 +0000"
+     "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:04:53 +0000"
     },
     {
-     "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-     "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 10:44:23 +0000"
+     "title": "Philippines arrests 244 suspects in online scam crackdown",
+     "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 16:00:50 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Location, location, location: how to edit genes only in the cells you want",
+     "link": "https://www.nature.com/articles/d41586-026-03037-8",
+     "date": ""
+    },
+    {
+     "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
+     "link": "https://www.nature.com/articles/d41586-026-03057-4",
+     "date": ""
+    },
+    {
+     "title": "How to respond to hate speech without fuelling it further",
+     "link": "https://www.nature.com/articles/d41586-026-03058-3",
+     "date": ""
+    },
+    {
+     "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+     "link": "https://www.nature.com/articles/d41586-026-03126-8",
+     "date": ""
+    },
+    {
+     "title": "Nature has rights — it is time the world recognized them",
+     "link": "https://www.nature.com/articles/d41586-026-03145-5",
+     "date": ""
+    },
+    {
+     "title": "Can you name the women who have won a science Nobel prize?",
+     "link": "https://www.nature.com/articles/d41586-026-03133-9",
+     "date": ""
+    },
+    {
+     "title": "Von Neumann’s party",
+     "link": "https://www.nature.com/articles/d41586-026-02976-6",
+     "date": ""
+    },
+    {
+     "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+     "link": "https://www.nature.com/articles/d41586-026-02769-x",
+     "date": ""
     }
    ]
   }
