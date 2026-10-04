@@ -1,18 +1,33 @@
 {
- "updated": "2026-10-04 05:54 UTC",
+ "updated": "2026-10-04 12:22 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham scraps controversial plans to curb jury trials",
+     "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
      "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 03:07:30 GMT"
+     "date": "Sun, 04 Oct 2026 11:19:58 GMT"
     },
     {
-     "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+     "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
      "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 21:03:22 GMT"
+     "date": "Sun, 04 Oct 2026 11:04:47 GMT"
+    },
+    {
+     "title": "Daughter of MP murdered five years ago says politicians still at risk",
+     "link": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 11:59:35 GMT"
+    },
+    {
+     "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+     "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 12:09:04 GMT"
+    },
+    {
+     "title": "Australia investigating Flydubai co-pilot's links to country",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 06:19:17 GMT"
     },
     {
      "title": "Cornell president says university 'must do better' after frat house rape allegations",
@@ -20,29 +35,14 @@
      "date": "Sun, 04 Oct 2026 00:11:25 GMT"
     },
     {
-     "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 21:07:59 GMT"
-    },
-    {
-     "title": "When parenting advice becomes too much",
-     "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 01:24:05 GMT"
-    },
-    {
-     "title": "Man shot dead as families gather for memorial in London",
-     "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 20:42:05 GMT"
+     "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+     "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 11:24:58 GMT"
     },
     {
      "title": "The Celebrity Traitors connections that might surprise you",
      "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 04 Oct 2026 01:31:32 GMT"
-    },
-    {
-     "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-     "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 04:53:29 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 30 Sep 2026 12:47:15 GMT"
     },
     {
+     "title": "Brazil goes to polls in decisive election for future of Latin America",
+     "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+     "date": "Sun, 04 Oct 2026 08:53:01 GMT"
+    },
+    {
      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
      "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
      "date": "Sun, 04 Oct 2026 03:38:48 GMT"
@@ -128,17 +133,22 @@
      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
      "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
      "date": "Sat, 03 Oct 2026 07:00:35 GMT"
-    },
-    {
-     "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-     "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-     "date": "Fri, 02 Oct 2026 21:12:29 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+     "date": "Sun, 04 Oct 2026 06:00:00 -0400"
+    },
+    {
+     "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+     "date": "Sun, 04 Oct 2026 05:00:00 -0400"
+    },
     {
      "title": "Coast Guard finds debris from medical plane carrying 6 people",
      "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
@@ -160,24 +170,14 @@
      "date": "Sat, 03 Oct 2026 07:47:09 -0400"
     },
     {
-     "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-     "date": "Sat, 03 Oct 2026 07:00:00 -0400"
-    },
-    {
      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
      "date": "Sat, 03 Oct 2026 07:00:00 -0400"
     },
     {
-     "title": "The Supreme Court faces another term jam-packed with controversy",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-     "date": "Sat, 03 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
-     "date": "Sat, 03 Oct 2026 05:00:00 -0400"
+     "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+     "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+     "date": "Sat, 03 Oct 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
-     "link": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 05:28:38 +0000"
+     "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+     "link": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 11:58:14 +0000"
     },
     {
-     "title": "Widespread damage after huge hailstones pound Paraguay capital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 05:14:13 +0000"
+     "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+     "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 11:15:34 +0000"
     },
     {
-     "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 05:00:40 +0000"
+     "title": "Iran says Hormuz to remain closed until US meets conditions",
+     "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 11:11:30 +0000"
     },
     {
-     "title": "Bosnia general election 2026 explained in maps and charts",
-     "link": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 04:58:50 +0000"
+     "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+     "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 11:05:02 +0000"
     },
     {
-     "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-     "link": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 04:10:17 +0000"
+     "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
+     "link": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 11:02:33 +0000"
     },
     {
-     "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 04:09:13 +0000"
+     "title": "Is the Sudanese army gaining momentum against the RSF?",
+     "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 10:56:12 +0000"
     },
     {
-     "title": "Pick-up truck overturns trying to carry military chopper in Russia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 04:06:05 +0000"
+     "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
+     "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 10:55:40 +0000"
     },
     {
-     "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-     "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 03:33:49 +0000"
+     "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
+     "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 10:44:23 +0000"
     }
    ]
   }
