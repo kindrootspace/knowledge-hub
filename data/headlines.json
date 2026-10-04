@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04 17:35 UTC",
+ "updated": "2026-10-04 21:26 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Green Party members back 'Zionism is racism' motion",
      "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 16:35:29 GMT"
+     "date": "Sun, 04 Oct 2026 20:51:36 GMT"
     },
     {
      "title": "I'm a classic old school Conservative, says Kemi Badenoch",
@@ -120,25 +120,30 @@
      "date": "Wed, 30 Sep 2026 14:16:33 GMT"
     },
     {
+     "title": "Brazil presidential election 2026: first-round live results",
+     "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+     "date": "Sun, 04 Oct 2026 19:01:28 GMT"
+    },
+    {
      "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
      "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
      "date": "Sun, 04 Oct 2026 14:00:32 GMT"
     },
     {
-     "title": "Brazil goes to polls in decisive election for future of Latin America",
+     "title": "Polls close in first round of Brazil’s high stakes presidential election",
      "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
      "date": "Sun, 04 Oct 2026 13:52:33 GMT"
-    },
-    {
-     "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
-     "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
-     "date": "Sun, 04 Oct 2026 03:38:48 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+     "date": "Sun, 04 Oct 2026 14:36:48 -0400"
+    },
     {
      "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
@@ -173,11 +178,6 @@
      "title": "Can the Cornell lawsuit force changes that make students safer?",
      "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
      "date": "Sat, 03 Oct 2026 17:57:34 -0400"
-    },
-    {
-     "title": "Opinion: A Hawk is not the same as a Hawkeye",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
-     "date": "Sat, 03 Oct 2026 08:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-     "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 17:17:42 +0000"
+     "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+     "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 20:38:56 +0000"
     },
     {
-     "title": "Mass protests demanding poll chief resignation shake India for third day",
-     "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:55:03 +0000"
+     "title": "Debris found near Nantucket believed to be from missing medical plane",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 20:21:09 +0000"
     },
     {
-     "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:38:45 +0000"
+     "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 20:00:05 +0000"
     },
     {
-     "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-     "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:28:43 +0000"
+     "title": "Imran Khan’s party launches march to Islamabad demanding his release",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 19:53:55 +0000"
     },
     {
-     "title": "US and Man City’s Cavan Sullivan becomes youngest international goalscorer",
-     "link": "https://www.aljazeera.com/sports/2026/10/4/us-and-man-citys-cavan-sullivan-becomes-youngest-international-goalscorer?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:23:59 +0000"
+     "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 19:46:34 +0000"
     },
     {
-     "title": "Three years of genocide in Gaza through one man’s camera",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:18:01 +0000"
+     "title": "France to shutter up to 500 schools as more student protests called",
+     "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 19:41:04 +0000"
     },
     {
-     "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:04:53 +0000"
+     "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+     "link": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 19:20:08 +0000"
     },
     {
-     "title": "Philippines arrests 244 suspects in online scam crackdown",
-     "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 16:00:50 +0000"
+     "title": "War on Iran: Is escalation more likely than a deal?",
+     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 18:47:22 +0000"
     }
    ]
   },
