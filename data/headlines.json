@@ -1,9 +1,19 @@
 {
- "updated": "2026-10-04 21:26 UTC",
+ "updated": "2026-10-05 00:55 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "US removes all bombers from RAF Fairford base",
+     "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 21:57:32 GMT"
+    },
+    {
+     "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+     "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 00:27:06 GMT"
+    },
     {
      "title": "Green Party members back 'Zionism is racism' motion",
      "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
@@ -13,16 +23,6 @@
      "title": "I'm a classic old school Conservative, says Kemi Badenoch",
      "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 04 Oct 2026 16:20:02 GMT"
-    },
-    {
-     "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-     "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 14:25:32 GMT"
-    },
-    {
-     "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-     "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 13:45:24 GMT"
     },
     {
      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -35,20 +35,25 @@
      "date": "Sun, 04 Oct 2026 16:24:48 GMT"
     },
     {
-     "title": "Glastonbury 2027 tickets sell out in 42 minutes",
-     "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 11:24:58 GMT"
+     "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 13:45:24 GMT"
     },
     {
-     "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 11:19:58 GMT"
+     "title": "Protesters gather as migrants brought ashore on south coast",
+     "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 21:37:03 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "The job interview question you don't have to answer",
+     "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 04 Oct 2026 23:22:07 GMT"
+    },
     {
      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
@@ -75,19 +80,14 @@
      "date": "Thu, 01 Oct 2026 23:00:06 GMT"
     },
     {
-     "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-     "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 01 Oct 2026 23:00:05 GMT"
-    },
-    {
      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 01 Oct 2026 23:32:59 GMT"
     },
     {
-     "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 10:47:07 GMT"
+     "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+     "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 01 Oct 2026 23:00:05 GMT"
     }
    ]
   },
@@ -122,23 +122,33 @@
     {
      "title": "Brazil presidential election 2026: first-round live results",
      "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-     "date": "Sun, 04 Oct 2026 19:01:28 GMT"
+     "date": "Mon, 05 Oct 2026 00:24:55 GMT"
+    },
+    {
+     "title": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula",
+     "link": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
+     "date": "Mon, 05 Oct 2026 00:16:52 GMT"
     },
     {
      "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
      "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
      "date": "Sun, 04 Oct 2026 14:00:32 GMT"
-    },
-    {
-     "title": "Polls close in first round of Brazil’s high stakes presidential election",
-     "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
-     "date": "Sun, 04 Oct 2026 13:52:33 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+     "date": "Sun, 04 Oct 2026 20:17:35 -0400"
+    },
+    {
+     "title": "Brazil votes, with Lula facing Bolsonaro's son",
+     "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+     "date": "Sun, 04 Oct 2026 17:52:09 -0400"
+    },
     {
      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
@@ -168,16 +178,6 @@
      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
      "date": "Sun, 04 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Coast Guard finds debris from medical plane carrying 6 people",
-     "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
-     "date": "Sat, 03 Oct 2026 18:31:04 -0400"
-    },
-    {
-     "title": "Can the Cornell lawsuit force changes that make students safer?",
-     "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
-     "date": "Sat, 03 Oct 2026 17:57:34 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
-     "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 20:38:56 +0000"
+     "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 00:00:00 +0000"
     },
     {
-     "title": "Debris found near Nantucket believed to be from missing medical plane",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 20:21:09 +0000"
+     "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
+     "link": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 23:52:49 +0000"
     },
     {
-     "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 20:00:05 +0000"
+     "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+     "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 23:22:02 +0000"
     },
     {
-     "title": "Imran Khan’s party launches march to Islamabad demanding his release",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 19:53:55 +0000"
+     "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+     "link": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 23:16:18 +0000"
     },
     {
-     "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 19:46:34 +0000"
+     "title": "Mysterious luminous object burns in the skies above Libya",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 22:56:32 +0000"
     },
     {
-     "title": "France to shutter up to 500 schools as more student protests called",
-     "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 19:41:04 +0000"
+     "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 22:47:18 +0000"
     },
     {
-     "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
-     "link": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 19:20:08 +0000"
+     "title": "Nicaragua says it will withdraw from Central American Parliament",
+     "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 22:36:54 +0000"
     },
     {
-     "title": "War on Iran: Is escalation more likely than a deal?",
-     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-     "date": "Sun, 04 Oct 2026 18:47:22 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Location, location, location: how to edit genes only in the cells you want",
-     "link": "https://www.nature.com/articles/d41586-026-03037-8",
-     "date": ""
-    },
-    {
-     "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
-     "link": "https://www.nature.com/articles/d41586-026-03057-4",
-     "date": ""
-    },
-    {
-     "title": "How to respond to hate speech without fuelling it further",
-     "link": "https://www.nature.com/articles/d41586-026-03058-3",
-     "date": ""
-    },
-    {
-     "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-     "link": "https://www.nature.com/articles/d41586-026-03126-8",
-     "date": ""
-    },
-    {
-     "title": "Nature has rights — it is time the world recognized them",
-     "link": "https://www.nature.com/articles/d41586-026-03145-5",
-     "date": ""
-    },
-    {
-     "title": "Can you name the women who have won a science Nobel prize?",
-     "link": "https://www.nature.com/articles/d41586-026-03133-9",
-     "date": ""
-    },
-    {
-     "title": "Von Neumann’s party",
-     "link": "https://www.nature.com/articles/d41586-026-02976-6",
-     "date": ""
-    },
-    {
-     "title": "Prozac use for childhood depression skewed by single flawed medical trial",
-     "link": "https://www.nature.com/articles/d41586-026-02769-x",
-     "date": ""
+     "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+     "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+     "date": "Sun, 04 Oct 2026 22:23:30 +0000"
     }
    ]
   }
