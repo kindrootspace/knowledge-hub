@@ -1,48 +1,48 @@
 {
- "updated": "2026-10-05 07:03 UTC",
+ "updated": "2026-10-05 16:01 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "US removes all bombers from RAF Fairford base",
-     "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 04:58:56 GMT"
+     "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+     "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 13:16:00 GMT"
     },
     {
-     "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-     "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 05:35:36 GMT"
+     "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+     "link": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 13:09:42 GMT"
     },
     {
-     "title": "Protesters scuffle with police as migrants brought ashore on south coast",
-     "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 06:24:47 GMT"
+     "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+     "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 14:30:31 GMT"
     },
     {
-     "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-     "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 04 Oct 2026 21:35:30 GMT"
+     "title": "Would the Conservatives' plan make new houses £50,000 cheaper?",
+     "link": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 15:19:46 GMT"
     },
     {
-     "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-     "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 06:52:56 GMT"
+     "title": "Twelve arrests after protest over migrant boat arrival",
+     "link": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 13:26:19 GMT"
     },
     {
-     "title": "Potty training scheme to roll out to 20 more areas",
-     "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 03:45:37 GMT"
+     "title": "BBC appoints Rachel Jupp as new director of news",
+     "link": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 13:05:13 GMT"
     },
     {
-     "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-     "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 03:16:16 GMT"
+     "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+     "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 11:34:59 GMT"
     },
     {
-     "title": "Watch: How Brazil's dramatic election unfolded",
-     "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 04:51:24 GMT"
+     "title": "Pickford 'almost caused crash' with careless driving",
+     "link": "https://www.bbc.co.uk/news/articles/cxvgd3j2qqnmo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 14:42:28 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Average five-year mortgage rate hits 6% for first time in three years",
+     "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 09:54:57 GMT"
+    },
+    {
      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
      "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 06:52:56 GMT"
+     "date": "Mon, 05 Oct 2026 10:25:36 GMT"
     },
     {
      "title": "The job interview question you don't have to answer",
@@ -60,19 +65,14 @@
      "date": "Sun, 04 Oct 2026 23:22:07 GMT"
     },
     {
-     "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+     "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+     "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 10:44:51 GMT"
+    },
+    {
+     "title": "Trump chooses top spy boss to run new AI taskforce",
      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 06:15:29 GMT"
-    },
-    {
-     "title": "How India became dangerously addicted to Chinese imports",
-     "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 05 Oct 2026 01:42:11 GMT"
-    },
-    {
-     "title": "Suppliers pile pressure on government over energy bills",
-     "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 08:58:44 GMT"
+     "date": "Mon, 05 Oct 2026 10:03:38 GMT"
     },
     {
      "title": "UK diesel prices top £2 a litre for first time, RAC says",
@@ -80,20 +80,25 @@
      "date": "Fri, 02 Oct 2026 15:50:05 GMT"
     },
     {
-     "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-     "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 03 Oct 2026 04:38:31 GMT"
+     "title": "Why are data centres such a big deal in Scotland?",
+     "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 10:04:08 GMT"
     },
     {
-     "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-     "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 02 Oct 2026 14:30:48 GMT"
+     "title": "How India became dangerously addicted to Chinese imports",
+     "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 05 Oct 2026 01:42:11 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+     "link": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+     "date": "Mon, 05 Oct 2026 12:00:24 GMT"
+    },
     {
      "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
      "link": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
@@ -115,24 +120,19 @@
      "date": "Fri, 02 Oct 2026 08:55:42 GMT"
     },
     {
-     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-     "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-     "date": "Wed, 30 Sep 2026 19:51:24 GMT"
+     "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+     "link": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+     "date": "Mon, 05 Oct 2026 09:30:52 GMT"
+    },
+    {
+     "title": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65",
+     "link": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
+     "date": "Mon, 05 Oct 2026 09:22:59 GMT"
     },
     {
      "title": "Brazil presidential election 2026: first-round live results",
      "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
      "date": "Mon, 05 Oct 2026 00:24:55 GMT"
-    },
-    {
-     "title": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula",
-     "link": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
-     "date": "Mon, 05 Oct 2026 00:16:52 GMT"
-    },
-    {
-     "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
-     "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
-     "date": "Sun, 04 Oct 2026 14:00:32 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-     "date": "Sun, 04 Oct 2026 20:17:35 -0400"
+     "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+     "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
+     "date": "Mon, 05 Oct 2026 10:24:31 -0400"
     },
     {
-     "title": "Brazil votes, with Lula facing Bolsonaro's son",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
-     "date": "Sun, 04 Oct 2026 17:52:09 -0400"
+     "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+     "date": "Mon, 05 Oct 2026 08:33:20 -0400"
     },
     {
-     "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-     "date": "Sun, 04 Oct 2026 14:36:48 -0400"
+     "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
+     "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
+     "date": "Mon, 05 Oct 2026 07:47:36 -0400"
     },
     {
-     "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
-     "date": "Sun, 04 Oct 2026 11:41:07 -0400"
+     "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+     "link": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+     "date": "Mon, 05 Oct 2026 07:38:26 -0400"
     },
     {
-     "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
-     "date": "Sun, 04 Oct 2026 11:15:09 -0400"
+     "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+     "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+     "date": "Mon, 05 Oct 2026 07:07:09 -0400"
     },
     {
-     "title": "How the Cornell case is affecting women who have experienced sexual assault",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
-     "date": "Sun, 04 Oct 2026 10:51:27 -0400"
+     "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
+     "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+     "date": "Mon, 05 Oct 2026 06:53:46 -0400"
     },
     {
-     "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-     "date": "Sun, 04 Oct 2026 06:00:00 -0400"
+     "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+     "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+     "date": "Mon, 05 Oct 2026 06:11:33 -0400"
     },
     {
-     "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-     "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-     "date": "Sun, 04 Oct 2026 05:00:00 -0400"
+     "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
+     "link": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action",
+     "date": "Mon, 05 Oct 2026 06:01:19 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
-     "link": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 05:56:13 +0000"
+     "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+     "link": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 15:30:15 +0000"
     },
     {
-     "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-     "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 05:20:57 +0000"
+     "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+     "link": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 15:29:04 +0000"
     },
     {
-     "title": "Who were the top teen athletes at the Asian Games?",
-     "link": "https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 05:12:38 +0000"
+     "title": "What happened between Ireland and Israel in their Nations League match?",
+     "link": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 15:28:16 +0000"
     },
     {
-     "title": "Samoa PM apologises after Nazi salute video emerges",
-     "link": "https://www.aljazeera.com/news/2026/10/5/samoa-pm-apologises-after-nazi-salute-video-emerges?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 05:08:29 +0000"
+     "title": "A drive through the West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 15:22:10 +0000"
     },
     {
-     "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 05:08:23 +0000"
+     "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
+     "link": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 14:58:02 +0000"
     },
     {
-     "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
-     "link": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 04:13:20 +0000"
+     "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
+     "link": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 14:37:17 +0000"
     },
     {
-     "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
-     "link": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 04:07:51 +0000"
+     "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 14:19:44 +0000"
     },
     {
-     "title": "Singapore turns matchmaker amid rock-bottom birthrate",
-     "link": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-     "date": "Mon, 05 Oct 2026 03:48:17 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Location, location, location: how to edit genes only in the cells you want",
-     "link": "https://www.nature.com/articles/d41586-026-03037-8",
-     "date": ""
-    },
-    {
-     "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
-     "link": "https://www.nature.com/articles/d41586-026-03057-4",
-     "date": ""
-    },
-    {
-     "title": "How to respond to hate speech without fuelling it further",
-     "link": "https://www.nature.com/articles/d41586-026-03058-3",
-     "date": ""
-    },
-    {
-     "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-     "link": "https://www.nature.com/articles/d41586-026-03126-8",
-     "date": ""
-    },
-    {
-     "title": "Nature has rights — it is time the world recognized them",
-     "link": "https://www.nature.com/articles/d41586-026-03145-5",
-     "date": ""
-    },
-    {
-     "title": "Can you name the women who have won a science Nobel prize?",
-     "link": "https://www.nature.com/articles/d41586-026-03133-9",
-     "date": ""
-    },
-    {
-     "title": "Von Neumann’s party",
-     "link": "https://www.nature.com/articles/d41586-026-02976-6",
-     "date": ""
-    },
-    {
-     "title": "Prozac use for childhood depression skewed by single flawed medical trial",
-     "link": "https://www.nature.com/articles/d41586-026-02769-x",
-     "date": ""
+     "title": "Nobel medicine prize honours US and German scientists for optogenetics work",
+     "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss",
+     "date": "Mon, 05 Oct 2026 14:18:18 +0000"
     }
    ]
   }
