@@ -1,13 +1,28 @@
 {
- "updated": "2026-10-06 17:11 UTC",
+ "updated": "2026-10-06 21:37 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: At the scene of student protests in Lille",
-     "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 15:02:56 GMT"
+     "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 19:25:08 GMT"
+    },
+    {
+     "title": "Watch: Police raid on gang behind fake gay asylum claims",
+     "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 19:01:17 GMT"
+    },
+    {
+     "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+     "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 21:09:41 GMT"
+    },
+    {
+     "title": "Tear gas in Paris and Marseille as school protests grow across France",
+     "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 18:03:19 GMT"
     },
     {
      "title": "British national arrested in connection with RAF Fairford incident",
@@ -15,34 +30,19 @@
      "date": "Tue, 06 Oct 2026 15:03:58 GMT"
     },
     {
-     "title": "ASOS app users receive push notifications apparently sent by hackers",
+     "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 10:37:50 GMT"
+     "date": "Tue, 06 Oct 2026 17:50:19 GMT"
     },
     {
      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
      "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 17:00:03 GMT"
-    },
-    {
-     "title": "PCs who used Taser and baton on amputee, 92, sacked",
-     "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 15:58:15 GMT"
+     "date": "Tue, 06 Oct 2026 21:18:45 GMT"
     },
     {
      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 13:00:54 GMT"
-    },
-    {
-     "title": "Watch: How Russia responded to US after plague researcher death",
-     "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 13:32:42 GMT"
-    },
-    {
-     "title": "Former German spy chief arrested for espionage and treason",
-     "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 10:05:42 GMT"
+     "date": "Tue, 06 Oct 2026 18:42:58 GMT"
     }
    ]
   },
@@ -50,24 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "NHS supply lorry drivers to strike in pay dispute",
-     "link": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 13:43:15 GMT"
+     "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+     "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 17:50:19 GMT"
+    },
+    {
+     "title": "What can I do to protect myself after 'Asos hacked' message?",
+     "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 19:17:23 GMT"
+    },
+    {
+     "title": "Amazon wins global rights to stream Emmys in six-year deal",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 19:08:21 GMT"
     },
     {
      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
      "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 16:01:11 GMT"
+     "date": "Tue, 06 Oct 2026 20:18:58 GMT"
     },
     {
      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 13:00:54 GMT"
+     "date": "Tue, 06 Oct 2026 18:42:58 GMT"
     },
     {
-     "title": "ASOS app users receive push notifications apparently sent by hackers",
-     "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 10:37:50 GMT"
+     "title": "Roll-out begins for passport-free airport e-gates",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 17:38:29 GMT"
     },
     {
      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
@@ -75,19 +85,9 @@
      "date": "Tue, 06 Oct 2026 08:16:11 GMT"
     },
     {
-     "title": "Lego fraudster among last year's most high-profile insurance scammers",
-     "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 07:03:35 GMT"
-    },
-    {
-     "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-     "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 06:53:17 GMT"
-    },
-    {
-     "title": "Last call for the mall? How shopping centres are reinventing themselves",
-     "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 05:28:37 GMT"
+     "title": "NHS supply lorry drivers to strike in pay dispute",
+     "link": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 13:43:15 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Cornell names former acting U.S. attorney general to review rape case",
+     "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
+     "date": "Tue, 06 Oct 2026 14:31:45 -0400"
+    },
+    {
+     "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+     "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+     "date": "Tue, 06 Oct 2026 14:05:44 -0400"
+    },
+    {
      "title": "Here are the finalists for the 2026 National Book Awards",
      "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
      "date": "Tue, 06 Oct 2026 10:30:20 -0400"
@@ -165,19 +175,9 @@
      "date": "Tue, 06 Oct 2026 07:19:25 -0400"
     },
     {
-     "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-     "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-     "date": "Tue, 06 Oct 2026 07:00:00 -0400"
-    },
-    {
      "title": "What voters in 6 key states could tell us about the 2026 midterms",
      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
      "date": "Tue, 06 Oct 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-     "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-     "date": "Tue, 06 Oct 2026 06:16:28 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Is Europe preparing for a wider war with Russia?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 16:17:58 +0000"
+     "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+     "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 21:28:35 +0000"
     },
     {
-     "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
-     "link": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 15:49:54 +0000"
+     "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
+     "link": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 21:23:59 +0000"
     },
     {
-     "title": "LIVE: Croatia vs Spain – UEFA Nations League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 15:47:16 +0000"
+     "title": "Tokyo protests US military presence after Okinawa killing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 21:20:28 +0000"
     },
     {
-     "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
-     "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 15:14:28 +0000"
+     "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+     "link": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 21:11:39 +0000"
     },
     {
-     "title": "Photos: School blockades, street protests grip France",
-     "link": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 14:53:02 +0000"
+     "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 20:54:07 +0000"
     },
     {
-     "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-     "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 14:50:01 +0000"
+     "title": "Cornell names Sally Yates to review university’s response to rape case",
+     "link": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 20:49:10 +0000"
     },
     {
-     "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
-     "link": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 14:47:39 +0000"
+     "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+     "link": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 20:44:12 +0000"
     },
     {
-     "title": "What new measures is Iran taking to counter US economic pressure?",
-     "link": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 14:42:33 +0000"
+     "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
+     "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 20:42:42 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: Anodic Pd membrane H2 extraction enhances thermochemical dehydrogenation",
+     "link": "https://www.nature.com/articles/s41586-026-11244-6",
+     "date": ""
+    },
+    {
+     "title": "Maintaining global science collaboration during conflict requires fairer rules",
+     "link": "https://www.nature.com/articles/d41586-026-03176-y",
+     "date": ""
+    },
+    {
+     "title": "The Solar System could die one billion times earlier than thought",
+     "link": "https://www.nature.com/articles/d41586-026-03155-3",
+     "date": ""
+    },
+    {
+     "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
+     "link": "https://www.nature.com/articles/d41586-026-03174-0",
+     "date": ""
+    },
+    {
+     "title": "Scientists take a radiometer for a spin in a hot-air balloon",
+     "link": "https://www.nature.com/articles/d41586-026-02973-9",
+     "date": ""
+    },
+    {
+     "title": "Preprints must not leak sensitive research information",
+     "link": "https://www.nature.com/articles/d41586-026-03177-x",
+     "date": ""
+    },
+    {
+     "title": "Unprecedented hole opened up in Antarctic winter sea ice",
+     "link": "https://www.nature.com/articles/d41586-026-03160-6",
+     "date": ""
+    },
+    {
+     "title": "AI could undermine scientific independence in subtle ways",
+     "link": "https://www.nature.com/articles/d41586-026-03175-z",
+     "date": ""
     }
    ]
   }
