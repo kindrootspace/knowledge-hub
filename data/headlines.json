@@ -1,23 +1,38 @@
 {
- "updated": "2026-10-07 16:29 UTC",
+ "updated": "2026-10-07 21:59 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Badenoch pledges inheritance tax changes as she pitches Tories as 'no-nonsense' party",
+     "title": "Badenoch says Tories would scrap inheritance tax on family homes",
      "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 07 Oct 2026 14:33:11 GMT"
     },
     {
-     "title": "Watch: The big test facing Badenoch after her conference speech",
-     "link": "https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 13:41:31 GMT"
+     "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+     "link": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 16:31:06 GMT"
+    },
+    {
+     "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+     "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 21:40:24 GMT"
     },
     {
      "title": "Boots sold in £7bn deal to Canadian billionaire family",
      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 15:57:43 GMT"
+     "date": "Wed, 07 Oct 2026 17:18:30 GMT"
+    },
+    {
+     "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+     "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 20:27:03 GMT"
+    },
+    {
+     "title": "Man charged with 13 attempted murders including British child after Alps attack",
+     "link": "https://www.bbc.co.uk/news/articles/c8g47zll517zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 18:32:02 GMT"
     },
     {
      "title": "Family tribute to 'kind and loving' GP found dead at home",
@@ -25,24 +40,9 @@
      "date": "Wed, 07 Oct 2026 16:10:36 GMT"
     },
     {
-     "title": "Southampton manager to stay in role after being given suspended ban over Spygate scandal",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cqj9knmvm2ryo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 16:11:15 GMT"
-    },
-    {
-     "title": "Watch: Why French police have stopped using stun grenades on student protesters",
-     "link": "https://www.bbc.co.uk/news/articles/cqe8r9811n9jo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 13:19:26 GMT"
-    },
-    {
-     "title": "Notorious gangland enforcer Paul Ferris dies aged 62",
-     "link": "https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 16:15:09 GMT"
-    },
-    {
-     "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 13:52:13 GMT"
+     "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+     "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 18:12:58 GMT"
     }
    ]
   },
@@ -52,7 +52,12 @@
     {
      "title": "Boots sold in £7bn deal to Canadian billionaire family",
      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 15:57:43 GMT"
+     "date": "Wed, 07 Oct 2026 17:18:30 GMT"
+    },
+    {
+     "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+     "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 20:34:17 GMT"
     },
     {
      "title": "Ex-bankers jailed for rigging rates have convictions quashed",
@@ -70,6 +75,11 @@
      "date": "Wed, 07 Oct 2026 07:57:10 GMT"
     },
     {
+     "title": "Rainmakers: The drones used to seed clouds",
+     "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 07:09:32 GMT"
+    },
+    {
      "title": "Half the harvest, twice the bills: how drought hit farms",
      "link": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 07 Oct 2026 05:22:52 GMT"
@@ -78,16 +88,6 @@
      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
      "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 06 Oct 2026 23:01:31 GMT"
-    },
-    {
-     "title": "Rainmakers: The drones used to seed clouds",
-     "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 07 Oct 2026 07:09:32 GMT"
-    },
-    {
-     "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
-     "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 23:01:13 GMT"
     }
    ]
   },
@@ -120,25 +120,55 @@
      "date": "Sun, 04 Oct 2026 15:16:03 GMT"
     },
     {
+     "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+     "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+     "date": "Wed, 07 Oct 2026 19:23:30 GMT"
+    },
+    {
+     "title": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+     "link": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+     "date": "Wed, 07 Oct 2026 19:00:44 GMT"
+    },
+    {
      "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
      "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
      "date": "Wed, 07 Oct 2026 15:03:26 GMT"
-    },
-    {
-     "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
-     "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
-     "date": "Wed, 07 Oct 2026 12:03:52 GMT"
-    },
-    {
-     "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
-     "link": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
-     "date": "Wed, 07 Oct 2026 11:00:08 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "What is the pneumonic plague?",
+     "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+     "date": "Wed, 07 Oct 2026 17:06:31 -0400"
+    },
+    {
+     "title": "This surprising mammal fossil is giving scientists something to chew on",
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
+     "date": "Wed, 07 Oct 2026 15:59:16 -0400"
+    },
+    {
+     "title": "Judge orders that Christa Pike execution evidence be preserved",
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved",
+     "date": "Wed, 07 Oct 2026 15:53:10 -0400"
+    },
+    {
+     "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
+     "date": "Wed, 07 Oct 2026 15:08:48 -0400"
+    },
+    {
+     "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
+     "date": "Wed, 07 Oct 2026 14:00:31 -0400"
+    },
+    {
+     "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
+     "link": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+     "date": "Wed, 07 Oct 2026 12:55:19 -0400"
+    },
     {
      "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
      "link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
@@ -148,36 +178,6 @@
      "title": "Gut microbes followed migrating humans across continents, new study suggests",
      "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
      "date": "Wed, 07 Oct 2026 11:00:47 -0400"
-    },
-    {
-     "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-     "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-     "date": "Wed, 07 Oct 2026 09:53:54 -0400"
-    },
-    {
-     "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
-     "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
-     "date": "Wed, 07 Oct 2026 09:32:37 -0400"
-    },
-    {
-     "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
-     "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
-     "date": "Wed, 07 Oct 2026 06:52:58 -0400"
-    },
-    {
-     "title": "Who will win the 2026 Nobel Prize in economics?",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
-     "date": "Wed, 07 Oct 2026 06:30:00 -0400"
-    },
-    {
-     "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
-     "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
-     "date": "Wed, 07 Oct 2026 06:05:54 -0400"
-    },
-    {
-     "title": "Over 1,000 children are buried at juvenile detention centers nationwide",
-     "link": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
-     "date": "Wed, 07 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
-     "link": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 16:02:17 +0000"
+     "title": "Pro-Palestine university groups march in London on October 7 anniversary",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 21:33:21 +0000"
     },
     {
-     "title": "The mass killing does not mean Israel’s winning",
-     "link": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 15:25:06 +0000"
+     "title": "Trump on why he thinks he deserves the Nobel Peace Prize",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 21:30:18 +0000"
     },
     {
-     "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
-     "link": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 15:13:21 +0000"
+     "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+     "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 21:09:20 +0000"
     },
     {
-     "title": "Ex-German spy chief arrested: A history of spooks working for enemy powers",
-     "link": "https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 14:52:26 +0000"
+     "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
+     "link": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 21:08:59 +0000"
     },
     {
-     "title": "Millions of Pakistanis get government fuel relief but some miss out",
-     "link": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 14:02:40 +0000"
+     "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 21:06:46 +0000"
     },
     {
-     "title": "Why Paramount-Warner merger has sparked fears about press freedom",
-     "link": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 13:56:27 +0000"
+     "title": "Inside SpaceX’s new look for AI data centres in orbit",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 20:54:43 +0000"
     },
     {
-     "title": "South Korea signals military exemption cuts for athletes after Asian Games",
-     "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 13:38:14 +0000"
+     "title": "US Republicans, independents express low trust in election integrity: Poll",
+     "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 20:27:47 +0000"
     },
     {
-     "title": "Okinawa governor urges Japan action after US Marine arrested over killing",
-     "link": "https://www.aljazeera.com/news/2026/10/7/okinawa-governor-urges-japan-action-after-us-marine-arrested-over-killing?traffic_source=rss",
-     "date": "Wed, 07 Oct 2026 13:31:18 +0000"
+     "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 20:17:27 +0000"
     }
    ]
   },
@@ -232,6 +232,11 @@
     {
      "title": "A guide to Nature Index tables",
      "link": "https://www.nature.com/articles/d41586-026-02999-z",
+     "date": ""
+    },
+    {
+     "title": "Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'",
+     "link": "https://www.nature.com/articles/d41586-026-03208-7",
      "date": ""
     },
     {
@@ -262,11 +267,6 @@
     {
      "title": "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’",
      "link": "https://www.nature.com/articles/d41586-026-03059-2",
-     "date": ""
-    },
-    {
-     "title": "Why sound, strong science alone isn’t enough in pandemic preparedness",
-     "link": "https://www.nature.com/articles/d41586-026-02985-5",
      "date": ""
     }
    ]
