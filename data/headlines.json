@@ -1,9 +1,14 @@
 {
- "updated": "2026-10-06 21:37 UTC",
+ "updated": "2026-10-07 01:32 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+     "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 00:56:59 GMT"
+    },
     {
      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
      "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
@@ -15,24 +20,9 @@
      "date": "Tue, 06 Oct 2026 19:01:17 GMT"
     },
     {
-     "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
-     "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 21:09:41 GMT"
-    },
-    {
      "title": "Tear gas in Paris and Marseille as school protests grow across France",
      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 06 Oct 2026 18:03:19 GMT"
-    },
-    {
-     "title": "British national arrested in connection with RAF Fairford incident",
-     "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 15:03:58 GMT"
-    },
-    {
-     "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-     "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 17:50:19 GMT"
     },
     {
      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
@@ -40,15 +30,45 @@
      "date": "Tue, 06 Oct 2026 21:18:45 GMT"
     },
     {
-     "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-     "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 18:42:58 GMT"
+     "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
+     "link": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 21:41:58 GMT"
+    },
+    {
+     "title": "What can I do to protect myself after 'Asos hacked' message?",
+     "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 19:17:23 GMT"
+    },
+    {
+     "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+     "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 00:01:38 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
+     "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 07 Oct 2026 00:01:38 GMT"
+    },
+    {
+     "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+     "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 23:01:13 GMT"
+    },
+    {
+     "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+     "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 23:01:31 GMT"
+    },
+    {
+     "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+     "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 06 Oct 2026 23:01:22 GMT"
+    },
     {
      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
@@ -65,29 +85,9 @@
      "date": "Tue, 06 Oct 2026 19:08:21 GMT"
     },
     {
-     "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-     "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 20:18:58 GMT"
-    },
-    {
      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 06 Oct 2026 18:42:58 GMT"
-    },
-    {
-     "title": "Roll-out begins for passport-free airport e-gates",
-     "link": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 17:38:29 GMT"
-    },
-    {
-     "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
-     "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 08:16:11 GMT"
-    },
-    {
-     "title": "NHS supply lorry drivers to strike in pay dispute",
-     "link": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 06 Oct 2026 13:43:15 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Sun, 04 Oct 2026 15:16:03 GMT"
     },
     {
+     "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+     "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+     "date": "Tue, 06 Oct 2026 22:06:04 GMT"
+    },
+    {
      "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
      "link": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
      "date": "Tue, 06 Oct 2026 16:53:21 GMT"
@@ -128,17 +133,17 @@
      "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
      "link": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
      "date": "Tue, 06 Oct 2026 11:40:03 GMT"
-    },
-    {
-     "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
-     "link": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
-     "date": "Tue, 06 Oct 2026 07:00:05 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Actress Eva Marie Saint, who won an Oscar for 'On the Waterfront,' dies at 102",
+     "link": "https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102",
+     "date": "Tue, 06 Oct 2026 18:45:00 -0400"
+    },
     {
      "title": "Cornell names former acting U.S. attorney general to review rape case",
      "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
@@ -173,11 +178,6 @@
      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
      "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
      "date": "Tue, 06 Oct 2026 07:19:25 -0400"
-    },
-    {
-     "title": "What voters in 6 key states could tell us about the 2026 midterms",
-     "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-     "date": "Tue, 06 Oct 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
-     "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 21:28:35 +0000"
+     "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+     "link": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 01:07:21 +0000"
     },
     {
-     "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
-     "link": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 21:23:59 +0000"
+     "title": "What’s behind Israel’s growing shift to the right?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 00:58:21 +0000"
     },
     {
-     "title": "Tokyo protests US military presence after Okinawa killing",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 21:20:28 +0000"
+     "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+     "link": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 00:35:57 +0000"
     },
     {
-     "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
-     "link": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 21:11:39 +0000"
+     "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+     "link": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 00:26:47 +0000"
     },
     {
-     "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
-     "link": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 20:54:07 +0000"
+     "title": "South Sudan’s aid crisis deepens as food stocks run low",
+     "link": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 00:13:59 +0000"
     },
     {
-     "title": "Cornell names Sally Yates to review university’s response to rape case",
-     "link": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 20:49:10 +0000"
+     "title": "French mayor tear-gassed after shielding protesters from police",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 00:10:56 +0000"
     },
     {
-     "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
-     "link": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 20:44:12 +0000"
+     "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+     "date": "Wed, 07 Oct 2026 00:00:00 +0000"
     },
     {
-     "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
-     "link": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
-     "date": "Tue, 06 Oct 2026 20:42:42 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: Anodic Pd membrane H2 extraction enhances thermochemical dehydrogenation",
-     "link": "https://www.nature.com/articles/s41586-026-11244-6",
-     "date": ""
-    },
-    {
-     "title": "Maintaining global science collaboration during conflict requires fairer rules",
-     "link": "https://www.nature.com/articles/d41586-026-03176-y",
-     "date": ""
-    },
-    {
-     "title": "The Solar System could die one billion times earlier than thought",
-     "link": "https://www.nature.com/articles/d41586-026-03155-3",
-     "date": ""
-    },
-    {
-     "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
-     "link": "https://www.nature.com/articles/d41586-026-03174-0",
-     "date": ""
-    },
-    {
-     "title": "Scientists take a radiometer for a spin in a hot-air balloon",
-     "link": "https://www.nature.com/articles/d41586-026-02973-9",
-     "date": ""
-    },
-    {
-     "title": "Preprints must not leak sensitive research information",
-     "link": "https://www.nature.com/articles/d41586-026-03177-x",
-     "date": ""
-    },
-    {
-     "title": "Unprecedented hole opened up in Antarctic winter sea ice",
-     "link": "https://www.nature.com/articles/d41586-026-03160-6",
-     "date": ""
-    },
-    {
-     "title": "AI could undermine scientific independence in subtle ways",
-     "link": "https://www.nature.com/articles/d41586-026-03175-z",
-     "date": ""
+     "title": "Electric car bursts into flames at charging station in Turkiye",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss",
+     "date": "Tue, 06 Oct 2026 23:33:33 +0000"
     }
    ]
   }
