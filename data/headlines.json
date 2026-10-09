@@ -1,18 +1,38 @@
 {
- "updated": "2026-10-09 16:13 UTC",
+ "updated": "2026-10-09 20:56 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 09 Oct 2026 20:32:42 GMT"
+    },
+    {
+     "title": "NI secretary to ban the Drumcree parade",
+     "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 09 Oct 2026 20:38:31 GMT"
+    },
+    {
+     "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+     "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 09 Oct 2026 18:40:10 GMT"
+    },
+    {
      "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
      "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 15:16:54 GMT"
+     "date": "Fri, 09 Oct 2026 19:26:53 GMT"
     },
     {
      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 09 Oct 2026 12:29:02 GMT"
+    },
+    {
+     "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+     "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 09 Oct 2026 20:42:11 GMT"
     },
     {
      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
@@ -22,27 +42,7 @@
     {
      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 15:18:58 GMT"
-    },
-    {
-     "title": "Anthropic bans users from being 'cruel' to its AI systems",
-     "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 12:34:27 GMT"
-    },
-    {
-     "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-     "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 10:52:34 GMT"
-    },
-    {
-     "title": "Bank cashier outed by holiday photos after stealing £13k is ordered to pay back money",
-     "link": "https://www.bbc.co.uk/news/articles/c6rmy7287njko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 15:14:30 GMT"
-    },
-    {
-     "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-     "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 12:24:58 GMT"
+     "date": "Fri, 09 Oct 2026 17:14:16 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 09 Oct 2026 20:32:42 GMT"
+    },
+    {
      "title": "Burnham promises to curb non-compete rules in job contracts",
      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 13:02:47 GMT"
+     "date": "Fri, 09 Oct 2026 16:15:30 GMT"
     },
     {
      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
@@ -62,7 +67,7 @@
     {
      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
      "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 04:55:14 GMT"
+     "date": "Fri, 09 Oct 2026 19:32:50 GMT"
     },
     {
      "title": "I've been with my boyfriend for two years and don't know his salary",
@@ -70,24 +75,19 @@
      "date": "Fri, 09 Oct 2026 09:37:38 GMT"
     },
     {
-     "title": "Anthropic bans users from being 'cruel' to its AI systems",
-     "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 12:34:27 GMT"
-    },
-    {
      "title": "Why are more roofs not made of solar tiles?",
      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 08 Oct 2026 23:09:56 GMT"
     },
     {
+     "title": "Anthropic bans users from being 'cruel' to its AI systems",
+     "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 09 Oct 2026 12:34:27 GMT"
+    },
+    {
      "title": "'Add me on WhatsApp' scam calls to be investigated",
      "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 08 Oct 2026 23:05:09 GMT"
-    },
-    {
-     "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-     "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 09:30:49 GMT"
     }
    ]
   },
@@ -97,7 +97,7 @@
     {
      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
      "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-     "date": "Fri, 09 Oct 2026 11:24:10 GMT"
+     "date": "Fri, 09 Oct 2026 16:30:09 GMT"
     },
     {
      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
@@ -120,6 +120,11 @@
      "date": "Thu, 08 Oct 2026 16:11:32 GMT"
     },
     {
+     "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+     "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+     "date": "Fri, 09 Oct 2026 19:52:48 GMT"
+    },
+    {
      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
      "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
      "date": "Fri, 09 Oct 2026 04:00:37 GMT"
@@ -128,17 +133,27 @@
      "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
      "link": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
      "date": "Thu, 08 Oct 2026 20:40:55 GMT"
-    },
-    {
-     "title": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
-     "link": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-     "date": "Thu, 08 Oct 2026 18:04:16 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
+     "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
+     "date": "Fri, 09 Oct 2026 14:55:38 -0400"
+    },
+    {
+     "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+     "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+     "date": "Fri, 09 Oct 2026 13:49:28 -0400"
+    },
+    {
+     "title": "Did Russia play by the rules in reporting lab worker's death?",
+     "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+     "date": "Fri, 09 Oct 2026 12:43:45 -0400"
+    },
     {
      "title": "How the oil industry is preparing for Hurricane Isaias",
      "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
@@ -155,16 +170,6 @@
      "date": "Fri, 09 Oct 2026 07:00:00 -0400"
     },
     {
-     "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-     "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-     "date": "Fri, 09 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Why we remember: One student's journey into memory",
-     "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
-     "date": "Fri, 09 Oct 2026 05:00:00 -0400"
-    },
-    {
      "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
      "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
      "date": "Fri, 09 Oct 2026 05:00:00 -0400"
@@ -173,11 +178,6 @@
      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
      "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
      "date": "Fri, 09 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
-     "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
-     "date": "Fri, 09 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
-     "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 15:28:10 +0000"
+     "title": "How will Spain’s housing crisis affect elections?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 20:39:11 +0000"
     },
     {
-     "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-     "link": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 15:25:27 +0000"
+     "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 20:29:30 +0000"
     },
     {
-     "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
-     "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 15:09:51 +0000"
+     "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+     "link": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 20:17:15 +0000"
     },
     {
-     "title": "US sanctions International Criminal Court itself in latest escalation",
-     "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 15:08:30 +0000"
+     "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+     "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 20:13:24 +0000"
     },
     {
-     "title": "Trump’s planned DC arch faces new lawsuit",
-     "link": "https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 15:04:01 +0000"
+     "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+     "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 19:47:33 +0000"
     },
     {
-     "title": "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola",
-     "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-case-causing-uncertainty-for-whole-premier-league-says-iraola?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 14:40:01 +0000"
+     "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+     "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 19:32:13 +0000"
     },
     {
-     "title": "US to livestream Fort Hood shooter’s execution: Is that legal?​",
-     "link": "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 14:37:08 +0000"
+     "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+     "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 19:22:56 +0000"
     },
     {
-     "title": "Man City face Liverpool after being found guilty of financial breaches",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/man-city-face-liverpool-after-being-found-guilty-of-financial-breaches?traffic_source=rss",
-     "date": "Fri, 09 Oct 2026 14:29:06 +0000"
+     "title": "Injured Orangutan rescued from Indonesia wildfires",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+     "date": "Fri, 09 Oct 2026 19:14:56 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+     "link": "https://www.nature.com/articles/d41586-026-03159-z",
+     "date": ""
+    },
     {
      "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
      "link": "https://www.nature.com/articles/d41586-026-03216-7",
@@ -262,11 +267,6 @@
     {
      "title": "Five movements from the edge of the singularity",
      "link": "https://www.nature.com/articles/d41586-026-03116-w",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
-     "link": "https://www.nature.com/articles/s41586-026-11266-0",
      "date": ""
     }
    ]
