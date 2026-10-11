@@ -1,38 +1,38 @@
 {
- "updated": "2026-10-10 22:32 UTC",
+ "updated": "2026-10-11 01:54 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Man dies after tiger attack at wildlife park",
-     "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 19:09:59 GMT"
+     "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+     "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 00:21:52 GMT"
     },
     {
      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 19:28:28 GMT"
+     "date": "Sun, 11 Oct 2026 01:41:29 GMT"
     },
     {
-     "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 17:44:26 GMT"
+     "title": "Man dies after tiger attack at wildlife park",
+     "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 01:05:37 GMT"
     },
     {
-     "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-     "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 14:27:43 GMT"
+     "title": "US justice department investigates TV networks over Trump pool coverage",
+     "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 00:49:17 GMT"
     },
     {
-     "title": "King warns malicious online actors are evolving tactics",
-     "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 15:56:32 GMT"
+     "title": "UK launch flood taskforce to prepare for extreme winter weather",
+     "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 00:44:37 GMT"
     },
     {
-     "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-     "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 18:22:29 GMT"
+     "title": "Bid to overturn ruling which stops police being sued for failings",
+     "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 10 Oct 2026 23:04:37 GMT"
     },
     {
      "title": "Northern Lights stun UK down to England's south coast",
@@ -40,9 +40,9 @@
      "date": "Sat, 10 Oct 2026 20:57:29 GMT"
     },
     {
-     "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
-     "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 23:01:22 GMT"
+     "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+     "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 10 Oct 2026 23:17:03 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+     "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+     "date": "Sat, 10 Oct 2026 19:44:15 -0400"
+    },
+    {
      "title": "Christa Pike discharged from the hospital and back in prison",
      "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
      "date": "Sat, 10 Oct 2026 18:15:04 -0400"
@@ -173,11 +178,6 @@
      "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
      "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
      "date": "Sat, 10 Oct 2026 07:00:00 -0400"
-    },
-    {
-     "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
-     "date": "Sat, 10 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-     "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 21:40:20 +0000"
+     "title": "Man dies after entering tiger enclosure at England wildlife park",
+     "link": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 01:16:18 +0000"
     },
     {
-     "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-     "link": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 21:12:04 +0000"
+     "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 01:11:10 +0000"
     },
     {
-     "title": "Malawi motorists queue for days as fuel shortage bites",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 21:10:38 +0000"
+     "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 01:02:07 +0000"
     },
     {
-     "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
-     "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 21:10:06 +0000"
+     "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+     "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 00:23:50 +0000"
     },
     {
-     "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
-     "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 21:02:49 +0000"
+     "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 00:00:13 +0000"
     },
     {
-     "title": "Damage seen inside Saudi airport after third attack this week",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 20:43:19 +0000"
+     "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+     "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+     "date": "Sat, 10 Oct 2026 22:43:08 +0000"
     },
     {
-     "title": "Philippines volcano erupts, creating 6km-high ash cloud",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 20:37:17 +0000"
+     "title": "WHO says no plague case registered after Russian lab worker’s death",
+     "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+     "date": "Sat, 10 Oct 2026 22:34:29 +0000"
     },
     {
-     "title": "Rubio pledges US cooperation in Marine-linked murder case",
-     "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 20:30:36 +0000"
+     "title": "Yemeni government’s military says its forces advancing against Houthis",
+     "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+     "date": "Sat, 10 Oct 2026 22:12:25 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+     "link": "https://www.nature.com/articles/d41586-026-03159-z",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
+     "link": "https://www.nature.com/articles/d41586-026-03216-7",
+     "date": ""
+    },
+    {
+     "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+     "link": "https://www.nature.com/articles/d41586-026-03158-0",
+     "date": ""
+    },
+    {
+     "title": "The life of Darwin and the science of clouds: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03217-6",
+     "date": ""
+    },
+    {
+     "title": "Watch this invisible tattoo appear under UV light",
+     "link": "https://www.nature.com/articles/d41586-026-03210-z",
+     "date": ""
+    },
+    {
+     "title": "An experiment to glimpse the future Amazon — in pictures",
+     "link": "https://www.nature.com/articles/d41586-026-02909-3",
+     "date": ""
+    },
+    {
+     "title": "Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
+     "link": "https://www.nature.com/articles/s41586-026-11273-1",
+     "date": ""
+    },
+    {
+     "title": "Five movements from the edge of the singularity",
+     "link": "https://www.nature.com/articles/d41586-026-03116-w",
+     "date": ""
     }
    ]
   }
