@@ -1,33 +1,28 @@
 {
- "updated": "2026-10-11 08:52 UTC",
+ "updated": "2026-10-11 15:41 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 01:41:29 GMT"
+     "title": "Attack on Saudi Arabian airport is another dangerous moment in already tense conflict",
+     "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 15:32:32 GMT"
     },
     {
-     "title": "Man dies after tiger attack at wildlife park",
-     "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 06:58:54 GMT"
+     "title": "Buildings swept away as flash floods hit central Nepal",
+     "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 10:34:02 GMT"
     },
     {
-     "title": "US justice department investigates TV networks over Trump pool coverage",
-     "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 05:05:43 GMT"
+     "title": "Wildlife park remains closed after fatal tiger attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 12:38:02 GMT"
     },
     {
-     "title": "MPs seek to overturn ruling that stops police being sued for failings",
-     "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 23:04:37 GMT"
-    },
-    {
-     "title": "Northern Lights stun UK down to England's south coast",
-     "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 10 Oct 2026 20:57:29 GMT"
+     "title": "Pope Leo to have surgery after lump found on lung",
+     "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 13:38:55 GMT"
     },
     {
      "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
@@ -43,6 +38,11 @@
      "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
      "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 10 Oct 2026 23:18:16 GMT"
+    },
+    {
+     "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+     "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 10 Oct 2026 22:13:08 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-     "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-     "date": "Sat, 10 Oct 2026 19:44:15 -0400"
+     "title": "Pope Leo XIV to undergo lung surgery this week",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+     "date": "Sun, 11 Oct 2026 08:54:25 -0400"
     },
     {
-     "title": "Christa Pike discharged from the hospital and back in prison",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
-     "date": "Sat, 10 Oct 2026 18:15:04 -0400"
+     "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+     "date": "Sun, 11 Oct 2026 08:10:54 -0400"
     },
     {
-     "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
-     "date": "Sat, 10 Oct 2026 17:40:58 -0400"
+     "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+     "date": "Sun, 11 Oct 2026 08:00:00 -0400"
     },
     {
-     "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-     "date": "Sat, 10 Oct 2026 17:32:53 -0400"
+     "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+     "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+     "date": "Sun, 11 Oct 2026 07:28:15 -0400"
     },
     {
-     "title": "The Kennedy Center names new artistic director, amid concerns",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
-     "date": "Sat, 10 Oct 2026 14:17:12 -0400"
+     "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
+     "date": "Sun, 11 Oct 2026 06:00:00 -0400"
     },
     {
-     "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-     "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
-     "date": "Sat, 10 Oct 2026 13:14:03 -0400"
+     "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+     "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+     "date": "Sun, 11 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Opinion: Can I keep the baseball I caught?",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
-     "date": "Sat, 10 Oct 2026 08:00:00 -0400"
+     "title": "It's taking longer to find a new job after losing one",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+     "date": "Sun, 11 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
-     "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
-     "date": "Sat, 10 Oct 2026 07:00:00 -0400"
+     "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+     "date": "Sun, 11 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
-     "link": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 08:32:06 +0000"
+     "title": "Power bank fire forces plane to emergency land in India",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 15:26:29 +0000"
     },
     {
-     "title": "What the Iran war has done to the world’s energy supply, in charts",
-     "link": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 08:22:02 +0000"
+     "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 15:24:50 +0000"
     },
     {
-     "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-     "link": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 07:57:36 +0000"
+     "title": "How the ICC can be saved",
+     "link": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 15:15:35 +0000"
     },
     {
-     "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 07:39:16 +0000"
+     "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+     "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 15:10:27 +0000"
     },
     {
-     "title": "Flash flood sweeps away buildings in Nepal",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 06:34:31 +0000"
+     "title": "Pope Leo to undergo surgery to remove lung nodule",
+     "link": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 14:59:38 +0000"
     },
     {
-     "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
-     "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 05:57:00 +0000"
+     "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+     "link": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 14:34:15 +0000"
     },
     {
-     "title": "How genocidal war on Gaza is shaping Israel’s election",
-     "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 05:35:09 +0000"
+     "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+     "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 14:25:03 +0000"
     },
     {
-     "title": "US opens antitrust probe into TV networks for halting Trump coverage",
-     "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 04:30:10 +0000"
+     "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+     "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 14:09:12 +0000"
     }
    ]
   },
