@@ -1,14 +1,9 @@
 {
- "updated": "2026-10-11 01:54 UTC",
+ "updated": "2026-10-11 08:52 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-     "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 00:21:52 GMT"
-    },
     {
      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
@@ -17,20 +12,15 @@
     {
      "title": "Man dies after tiger attack at wildlife park",
      "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 01:05:37 GMT"
+     "date": "Sun, 11 Oct 2026 06:58:54 GMT"
     },
     {
      "title": "US justice department investigates TV networks over Trump pool coverage",
      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 00:49:17 GMT"
+     "date": "Sun, 11 Oct 2026 05:05:43 GMT"
     },
     {
-     "title": "UK launch flood taskforce to prepare for extreme winter weather",
-     "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 00:44:37 GMT"
-    },
-    {
-     "title": "Bid to overturn ruling which stops police being sued for failings",
+     "title": "MPs seek to overturn ruling that stops police being sued for failings",
      "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 10 Oct 2026 23:04:37 GMT"
     },
@@ -40,9 +30,19 @@
      "date": "Sat, 10 Oct 2026 20:57:29 GMT"
     },
     {
-     "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+     "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
      "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 10 Oct 2026 23:17:03 GMT"
+    },
+    {
+     "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+     "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 10 Oct 2026 23:31:35 GMT"
+    },
+    {
+     "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
+     "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 10 Oct 2026 23:18:16 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Thu, 08 Oct 2026 20:20:31 GMT"
     },
     {
+     "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
+     "link": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
+     "date": "Sun, 11 Oct 2026 07:45:31 GMT"
+    },
+    {
+     "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+     "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+     "date": "Sun, 11 Oct 2026 06:56:08 GMT"
+    },
+    {
      "title": "Candidate named Hitler Mussolini elected mayor in Peru",
      "link": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
      "date": "Sat, 10 Oct 2026 12:00:10 GMT"
-    },
-    {
-     "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-     "date": "Sat, 10 Oct 2026 05:00:48 GMT"
-    },
-    {
-     "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-     "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-     "date": "Sat, 10 Oct 2026 00:50:52 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Man dies after entering tiger enclosure at England wildlife park",
-     "link": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 01:16:18 +0000"
+     "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+     "link": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 08:32:06 +0000"
     },
     {
-     "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 01:11:10 +0000"
+     "title": "What the Iran war has done to the world’s energy supply, in charts",
+     "link": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 08:22:02 +0000"
     },
     {
-     "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 01:02:07 +0000"
+     "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
+     "link": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 07:57:36 +0000"
     },
     {
-     "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-     "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 00:23:50 +0000"
+     "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 07:39:16 +0000"
     },
     {
-     "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 00:00:13 +0000"
+     "title": "Flash flood sweeps away buildings in Nepal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 06:34:31 +0000"
     },
     {
-     "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
-     "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 22:43:08 +0000"
+     "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+     "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 05:57:00 +0000"
     },
     {
-     "title": "WHO says no plague case registered after Russian lab worker’s death",
-     "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 22:34:29 +0000"
+     "title": "How genocidal war on Gaza is shaping Israel’s election",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 05:35:09 +0000"
     },
     {
-     "title": "Yemeni government’s military says its forces advancing against Houthis",
-     "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-     "date": "Sat, 10 Oct 2026 22:12:25 +0000"
+     "title": "US opens antitrust probe into TV networks for halting Trump coverage",
+     "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 04:30:10 +0000"
     }
    ]
   },
