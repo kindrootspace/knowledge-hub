@@ -1,13 +1,18 @@
 {
- "updated": "2026-10-11 20:17 UTC",
+ "updated": "2026-10-12 00:33 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Saudi capital airport hit by second Houthi strike in two days",
+     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+     "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 21:36:40 GMT"
+    },
+    {
+     "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 16:41:37 GMT"
+     "date": "Sun, 11 Oct 2026 22:45:58 GMT"
     },
     {
      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
@@ -35,20 +40,40 @@
      "date": "Sun, 11 Oct 2026 19:08:04 GMT"
     },
     {
-     "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-     "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 15:32:23 GMT"
-    },
-    {
-     "title": "Burnham to release details of Man City meetings",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 18:01:13 GMT"
+     "title": "Iran war threatens Healey's Budget plans, think tank warns",
+     "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 23:04:07 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Iran war threatens Healey's Budget plans, think tank warns",
+     "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 23:04:07 GMT"
+    },
+    {
+     "title": "Trump faces growing backlash over plans to import diesel from Russia",
+     "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 23:18:45 GMT"
+    },
+    {
+     "title": "Debt advice that may leave you owing even more money",
+     "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 23:19:07 GMT"
+    },
+    {
+     "title": "Roofing scammers con homeowners out of thousands of pounds",
+     "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 23:19:49 GMT"
+    },
+    {
+     "title": "AI is less regulated than milk, says Microsoft president",
+     "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 11 Oct 2026 23:07:35 GMT"
+    },
     {
      "title": "Citroen revives the 2CV for an electric age",
      "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
@@ -63,31 +88,6 @@
      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 09 Oct 2026 22:30:22 GMT"
-    },
-    {
-     "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-     "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 14:38:10 GMT"
-    },
-    {
-     "title": "Boots has a new owner: Three ways it could affect you",
-     "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 23:01:14 GMT"
-    },
-    {
-     "title": "Burnham promises to curb non-compete rules in job contracts",
-     "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 16:15:30 GMT"
-    },
-    {
-     "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-     "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 14:36:35 GMT"
-    },
-    {
-     "title": "I've been with my boyfriend for two years and don't know his salary",
-     "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 09 Oct 2026 09:37:38 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+     "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+     "date": "Sun, 11 Oct 2026 19:54:21 -0400"
+    },
+    {
      "title": "Pope Leo XIV to undergo lung surgery this week",
      "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
      "date": "Sun, 11 Oct 2026 08:54:25 -0400"
@@ -170,11 +175,6 @@
      "date": "Sun, 11 Oct 2026 06:00:00 -0400"
     },
     {
-     "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-     "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
-     "date": "Sun, 11 Oct 2026 05:00:00 -0400"
-    },
-    {
      "title": "It's taking longer to find a new job after losing one",
      "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
      "date": "Sun, 11 Oct 2026 05:00:00 -0400"
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 19:59:15 +0000"
+     "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+     "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 00:14:46 +0000"
     },
     {
-     "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
-     "link": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 19:31:36 +0000"
+     "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 00:00:00 +0000"
     },
     {
-     "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
-     "link": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 19:19:50 +0000"
+     "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 23:20:46 +0000"
     },
     {
-     "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
-     "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 18:47:57 +0000"
+     "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+     "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 23:17:05 +0000"
     },
     {
-     "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 18:25:42 +0000"
+     "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 22:49:23 +0000"
     },
     {
-     "title": "Lebanon’s first electric train hopes to revive railway system",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 18:00:51 +0000"
+     "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 22:24:07 +0000"
     },
     {
-     "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 17:52:27 +0000"
+     "title": "Waves crash into homes as excavators try to protect California properties",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 21:03:41 +0000"
     },
     {
-     "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
-     "link": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
-     "date": "Sun, 11 Oct 2026 17:39:26 +0000"
+     "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+     "link": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+     "date": "Sun, 11 Oct 2026 20:57:48 +0000"
     }
    ]
   },
