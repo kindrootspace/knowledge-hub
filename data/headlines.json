@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13 00:40 UTC",
+ "updated": "2026-10-13 07:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham to push for new post-Brexit deals at EU summit",
-     "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 17:38:15 GMT"
+     "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+     "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 07:33:57 GMT"
     },
     {
-     "title": "Government expands police support to political figures who are not MPs",
-     "link": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 19:51:34 GMT"
+     "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
+     "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 01:27:59 GMT"
     },
     {
-     "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
-     "link": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 16:28:10 GMT"
+     "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+     "link": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 01:13:33 GMT"
     },
     {
      "title": "Heating oil customers face tough winter despite shake-up promise",
@@ -30,25 +30,30 @@
      "date": "Mon, 12 Oct 2026 23:37:00 GMT"
     },
     {
+     "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 05:02:34 GMT"
+    },
+    {
      "title": "Breaking Bad actor RJ Mitte dies aged 34",
      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 00:12:25 GMT"
+     "date": "Tue, 13 Oct 2026 06:26:05 GMT"
     },
     {
-     "title": "Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest",
-     "link": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 18:36:34 GMT"
-    },
-    {
-     "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-     "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 20:17:37 GMT"
+     "title": "One dead and several hurt after rollercoaster incident at US amusement park",
+     "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 02:26:21 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+     "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 07:33:57 GMT"
+    },
     {
      "title": "I earn £120,000 a year making social media videos go viral",
      "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
@@ -58,6 +63,11 @@
      "title": "Heating oil customers face tough winter despite shake-up promise",
      "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 12 Oct 2026 23:02:24 GMT"
+    },
+    {
+     "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 01:50:47 GMT"
     },
     {
      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
@@ -78,16 +88,6 @@
      "title": "Fridges in French supermarkets hit by cyber attack",
      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 12 Oct 2026 18:31:32 GMT"
-    },
-    {
-     "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-     "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 15:03:42 GMT"
-    },
-    {
-     "title": "Roofing scammers con homeowners out of thousands of pounds",
-     "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 11 Oct 2026 23:19:49 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Thu, 08 Oct 2026 20:20:31 GMT"
     },
     {
-     "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
-     "link": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
-     "date": "Mon, 12 Oct 2026 21:40:51 GMT"
+     "title": "Latin American organised crime ‘may operate in 16 European countries’",
+     "link": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
+     "date": "Tue, 13 Oct 2026 07:00:18 GMT"
     },
     {
-     "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-     "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-     "date": "Mon, 12 Oct 2026 13:14:14 GMT"
+     "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+     "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+     "date": "Tue, 13 Oct 2026 04:29:46 GMT"
     },
     {
-     "title": "Balkan temperatures swing as heavy rain heads for Greece",
-     "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
-     "date": "Mon, 12 Oct 2026 10:48:26 GMT"
+     "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+     "link": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+     "date": "Tue, 13 Oct 2026 03:03:48 GMT"
     }
    ]
   },
@@ -140,7 +140,12 @@
    "name": "NPR",
    "items": [
     {
-     "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+     "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
+     "link": "https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered",
+     "date": "Tue, 13 Oct 2026 01:42:28 -0400"
+    },
+    {
+     "title": "New White House press secretary a 'devoted fan' of Trump and MAGA",
      "link": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
      "date": "Mon, 12 Oct 2026 18:17:43 -0400"
     },
@@ -148,6 +153,11 @@
      "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
      "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
      "date": "Mon, 12 Oct 2026 18:16:47 -0400"
+    },
+    {
+     "title": "Actor Selma Blair removed from plane by police after altercation",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation",
+     "date": "Mon, 12 Oct 2026 16:18:42 -0400"
     },
     {
      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
@@ -168,16 +178,6 @@
      "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
      "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
      "date": "Mon, 12 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Here's what to know if you're unsure about your measles immunity status",
-     "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
-     "date": "Mon, 12 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
-     "date": "Mon, 12 Oct 2026 04:38:03 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 00:00:00 +0000"
+     "title": "Emir says Qatar has shown resilience in the face of ‘exceptional events’",
+     "link": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 06:42:58 +0000"
     },
     {
-     "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
-     "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 23:54:05 +0000"
+     "title": "Malaysia’s Firefly cancels flights to Singapore over haze from Indonesia",
+     "link": "https://www.aljazeera.com/news/2026/10/13/malaysias-firefly-cancels-flights-to-singapore-over-transboundary-haze?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 06:42:02 +0000"
     },
     {
-     "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
-     "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 23:09:50 +0000"
+     "title": "Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa",
+     "link": "https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 06:32:43 +0000"
     },
     {
-     "title": "US archbishop says Catholics in army should not participate in firing squad",
-     "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 23:05:16 +0000"
+     "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+     "link": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 05:59:48 +0000"
     },
     {
-     "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
-     "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 22:44:00 +0000"
+     "title": "Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m",
+     "link": "https://www.aljazeera.com/sports/2026/10/13/michael-jordans-last-dance-nba-finals-jersey-sells-for-record-14m?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 05:55:19 +0000"
     },
     {
-     "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
-     "link": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 22:23:44 +0000"
+     "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
+     "link": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 05:40:10 +0000"
     },
     {
-     "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
-     "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 21:33:13 +0000"
+     "title": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
+     "link": "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 05:01:14 +0000"
     },
     {
-     "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-     "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 21:27:42 +0000"
+     "title": "Man dies after fall from Six Flags rollercoaster in Georgia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 04:48:29 +0000"
     }
    ]
   },
