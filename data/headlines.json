@@ -1,28 +1,18 @@
 {
- "updated": "2026-10-12 17:55 UTC",
+ "updated": "2026-10-13 00:40 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
-     "link": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 17:29:30 GMT"
+     "title": "Burnham to push for new post-Brexit deals at EU summit",
+     "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 17:38:15 GMT"
     },
     {
-     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 17:32:13 GMT"
-    },
-    {
-     "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
-     "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 15:51:30 GMT"
-    },
-    {
-     "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-     "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 14:00:03 GMT"
+     "title": "Government expands police support to political figures who are not MPs",
+     "link": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 19:51:34 GMT"
     },
     {
      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
@@ -30,25 +20,50 @@
      "date": "Mon, 12 Oct 2026 16:28:10 GMT"
     },
     {
-     "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
-     "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 17:09:55 GMT"
+     "title": "Heating oil customers face tough winter despite shake-up promise",
+     "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 23:02:24 GMT"
     },
     {
-     "title": "Government expands police support to political figures who are not MPs",
-     "link": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 17:24:27 GMT"
+     "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+     "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 23:37:00 GMT"
     },
     {
-     "title": "French supermarket fridges heated to 50C in 'unprecedented' cyber attack",
-     "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 16:17:59 GMT"
+     "title": "Breaking Bad actor RJ Mitte dies aged 34",
+     "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 00:12:25 GMT"
+    },
+    {
+     "title": "Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest",
+     "link": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 18:36:34 GMT"
+    },
+    {
+     "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+     "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 20:17:37 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "I earn £120,000 a year making social media videos go viral",
+     "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 23:01:45 GMT"
+    },
+    {
+     "title": "Heating oil customers face tough winter despite shake-up promise",
+     "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 23:02:24 GMT"
+    },
+    {
+     "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+     "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 12 Oct 2026 23:37:00 GMT"
+    },
     {
      "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
      "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
@@ -62,7 +77,7 @@
     {
      "title": "Fridges in French supermarkets hit by cyber attack",
      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 16:17:59 GMT"
+     "date": "Mon, 12 Oct 2026 18:31:32 GMT"
     },
     {
      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
@@ -73,21 +88,6 @@
      "title": "Roofing scammers con homeowners out of thousands of pounds",
      "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 11 Oct 2026 23:19:49 GMT"
-    },
-    {
-     "title": "AI is less regulated than milk, says Microsoft president",
-     "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 07:47:37 GMT"
-    },
-    {
-     "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 05:00:52 GMT"
-    },
-    {
-     "title": "HMV to close Oxford Street store after three years",
-     "link": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 10:36:39 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 08 Oct 2026 20:20:31 GMT"
     },
     {
+     "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+     "link": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
+     "date": "Mon, 12 Oct 2026 21:40:51 GMT"
+    },
+    {
      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
      "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
      "date": "Mon, 12 Oct 2026 13:14:14 GMT"
@@ -128,17 +133,22 @@
      "title": "Balkan temperatures swing as heavy rain heads for Greece",
      "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
      "date": "Mon, 12 Oct 2026 10:48:26 GMT"
-    },
-    {
-     "title": "Thousands without power in Florida and Alabama as Isaias moves north",
-     "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
-     "date": "Sun, 11 Oct 2026 13:45:27 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+     "date": "Mon, 12 Oct 2026 18:17:43 -0400"
+    },
+    {
+     "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+     "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+     "date": "Mon, 12 Oct 2026 18:16:47 -0400"
+    },
     {
      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
      "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
@@ -168,16 +178,6 @@
      "title": "Morning news brief",
      "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
      "date": "Mon, 12 Oct 2026 04:38:03 -0400"
-    },
-    {
-     "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
-     "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
-     "date": "Mon, 12 Oct 2026 04:37:01 -0400"
-    },
-    {
-     "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-     "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
-     "date": "Mon, 12 Oct 2026 04:35:16 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
-     "link": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 17:39:08 +0000"
+     "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 00:00:00 +0000"
     },
     {
-     "title": "India’s voter list changes sparks fresh protests",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 17:33:51 +0000"
+     "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+     "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 23:54:05 +0000"
     },
     {
-     "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 17:07:50 +0000"
+     "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+     "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 23:09:50 +0000"
     },
     {
-     "title": "Blast kills teenager, injures dozens in northern Israel",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 16:44:07 +0000"
+     "title": "US archbishop says Catholics in army should not participate in firing squad",
+     "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 23:05:16 +0000"
     },
     {
-     "title": "Photos: Protests over voter lists escalate in India’s capital",
-     "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 16:24:40 +0000"
+     "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+     "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 22:44:00 +0000"
     },
     {
-     "title": "Pope Leo continues working after lung surgery announcement",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 16:10:01 +0000"
+     "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
+     "link": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 22:23:44 +0000"
     },
     {
-     "title": "UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU",
-     "link": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 16:02:35 +0000"
+     "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+     "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 21:33:13 +0000"
     },
     {
-     "title": "France school shooting: Police detain pupil after two injured",
-     "link": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
-     "date": "Mon, 12 Oct 2026 15:47:43 +0000"
+     "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+     "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+     "date": "Mon, 12 Oct 2026 21:27:42 +0000"
     }
    ]
   },
@@ -245,6 +245,11 @@
      "date": ""
     },
     {
+     "title": "Economics Nobel awarded for work on stabilizing economies in crisis",
+     "link": "https://www.nature.com/articles/d41586-026-03251-4",
+     "date": ""
+    },
+    {
      "title": "Beyond the solvent fog: watching molecules dance in the crowd",
      "link": "https://www.nature.com/articles/d41586-026-02970-y",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "I told ChatGPT to ‘continue’ — it went too far",
      "link": "https://www.nature.com/articles/d41586-026-02714-y",
-     "date": ""
-    },
-    {
-     "title": "Does the decline of book reading mark the end of rational thinking?",
-     "link": "https://www.nature.com/articles/d41586-026-03224-7",
      "date": ""
     }
    ]
