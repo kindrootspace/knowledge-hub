@@ -1,33 +1,38 @@
 {
- "updated": "2026-10-13 21:15 UTC",
+ "updated": "2026-10-14 00:20 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+     "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 23:58:56 GMT"
+    },
+    {
+     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+     "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 00:17:00 GMT"
+    },
+    {
+     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
     {
      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 13 Oct 2026 15:52:15 GMT"
     },
     {
-     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-     "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 20:46:06 GMT"
+     "title": "Zelensky and Burnham to meet in Downing Street",
+     "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 21:31:30 GMT"
     },
     {
-     "title": "Man killed in tiger attack identified as William Chapman",
-     "link": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 19:35:21 GMT"
-    },
-    {
-     "title": "Football regulator says he would quit over any political interference in Man City case",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 16:00:18 GMT"
-    },
-    {
-     "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 18:25:28 GMT"
+     "title": "Royal Mail losing 400 postal workers a week, says union",
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 23:03:59 GMT"
     },
     {
      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
@@ -35,20 +40,25 @@
      "date": "Tue, 13 Oct 2026 19:51:14 GMT"
     },
     {
-     "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-     "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 18:23:22 GMT"
-    },
-    {
-     "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-     "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 19:23:28 GMT"
+     "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 18:25:28 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Royal Mail losing 400 postal workers a week, says union",
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 23:03:59 GMT"
+    },
+    {
+     "title": "Is it OK for jobseekers or employers to use AI?",
+     "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 23:04:39 GMT"
+    },
     {
      "title": "Three things we've learnt about the UK economy from the IMF",
      "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
@@ -60,6 +70,16 @@
      "date": "Tue, 13 Oct 2026 15:59:07 GMT"
     },
     {
+     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 21:42:49 GMT"
+    },
+    {
+     "title": "How long will humans be needed for translation?",
+     "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 23:05:29 GMT"
+    },
+    {
      "title": "Poundland in rescue talks as owners seek buyer",
      "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 13 Oct 2026 12:17:17 GMT"
@@ -68,26 +88,6 @@
      "title": "BA flight forced to turn back over cracked window",
      "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 13 Oct 2026 11:48:07 GMT"
-    },
-    {
-     "title": "Heating oil customers face tough winter despite shake-up promise",
-     "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 12 Oct 2026 23:02:24 GMT"
-    },
-    {
-     "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-     "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 09:38:54 GMT"
-    },
-    {
-     "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
-     "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 15:12:38 GMT"
-    },
-    {
-     "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-     "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 09:34:43 GMT"
     }
    ]
   },
@@ -120,9 +120,9 @@
      "date": "Thu, 08 Oct 2026 20:20:31 GMT"
     },
     {
-     "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+     "title": "Intense waves and floods batter California waterfront homes and boardwalks",
      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-     "date": "Tue, 13 Oct 2026 18:25:06 GMT"
+     "date": "Tue, 13 Oct 2026 21:29:08 GMT"
     },
     {
      "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
@@ -139,6 +139,16 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+     "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+     "date": "Tue, 13 Oct 2026 18:29:26 -0400"
+    },
+    {
+     "title": "What an economics Nobel Prize winner knows about pricing",
+     "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+     "date": "Tue, 13 Oct 2026 16:03:35 -0400"
+    },
     {
      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
      "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
@@ -168,16 +178,6 @@
      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
      "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
      "date": "Tue, 13 Oct 2026 07:08:14 -0400"
-    },
-    {
-     "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-     "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-     "date": "Tue, 13 Oct 2026 06:51:33 -0400"
-    },
-    {
-     "title": "What ice cream has to do with this year's Nobel Prize in economics",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
-     "date": "Tue, 13 Oct 2026 06:30:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Tupac Shakur killer sentenced to 40 years in prison",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 20:46:22 +0000"
+     "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
+     "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 23:42:57 +0000"
     },
     {
-     "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 20:33:10 +0000"
+     "title": "Manchester United’s Martinez blasts board’s lack of investment",
+     "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 22:57:56 +0000"
     },
     {
-     "title": "How podcasts became political powerhouses",
-     "link": "https://www.aljazeera.com/video/lets-focus/2026/10/13/how-podcasts-became-political-powerhouses?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 20:12:42 +0000"
+     "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
+     "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 22:56:24 +0000"
     },
     {
-     "title": "Scientists urge tighter AI controls to prevent global cyber risks",
-     "link": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 20:00:32 +0000"
+     "title": "Mauritius imposes curfew after night of unrest over police shooting",
+     "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 22:41:59 +0000"
     },
     {
-     "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 19:40:51 +0000"
+     "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
+     "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 22:33:50 +0000"
     },
     {
-     "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-     "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 19:39:01 +0000"
+     "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
+     "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 22:17:26 +0000"
     },
     {
-     "title": "Trump says Houthis trying to increase oil prices before US elections",
-     "link": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 19:33:11 +0000"
+     "title": "US trial begins for Rwandan-American accused of role in genocide",
+     "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 22:15:44 +0000"
     },
     {
-     "title": "Will NATO’s ‘theory of victory’ work?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 19:32:16 +0000"
+     "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+     "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
+     "date": "Tue, 13 Oct 2026 21:59:39 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+     "link": "https://www.nature.com/articles/d41586-026-03244-3",
+     "date": ""
+    },
+    {
+     "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet via helical tunneling",
+     "link": "https://www.nature.com/articles/s41586-026-11257-1",
+     "date": ""
+    },
+    {
+     "title": "Decentralized AI needs more evidence on energy use",
+     "link": "https://www.nature.com/articles/d41586-026-03245-2",
+     "date": ""
+    },
+    {
+     "title": "Selective, Catalytic Oxidation of Polyethylene Surfaces",
+     "link": "https://www.nature.com/articles/s41586-026-11255-3",
+     "date": ""
+    },
+    {
+     "title": "Lead-tainted teeth reveal medieval mines’ unequal toll",
+     "link": "https://www.nature.com/articles/d41586-026-03236-3",
+     "date": ""
+    },
+    {
+     "title": "When microbes degrade plastic, where does it go?",
+     "link": "https://www.nature.com/articles/d41586-026-03246-1",
+     "date": ""
+    },
+    {
+     "title": "A mysterious jelly seems to be left behind by toads",
+     "link": "https://www.nature.com/articles/d41586-026-02974-8",
+     "date": ""
+    },
+    {
+     "title": "Why not every global problem can be tackled by an IPCC-like organization",
+     "link": "https://www.nature.com/articles/d41586-026-03234-5",
+     "date": ""
     }
    ]
   }
