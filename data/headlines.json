@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-14 17:11 UTC",
+ "updated": "2026-10-14 20:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 20:17:09 GMT"
+    },
+    {
+     "title": "We are behind you and that will not change, PM tells Zelensky",
+     "link": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 19:22:28 GMT"
+    },
+    {
      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
      "link": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 16:22:28 GMT"
-    },
-    {
-     "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-     "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 13:11:17 GMT"
-    },
-    {
-     "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 14:30:48 GMT"
+     "date": "Wed, 14 Oct 2026 17:55:53 GMT"
     },
     {
      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
@@ -25,9 +25,9 @@
      "date": "Wed, 14 Oct 2026 16:56:21 GMT"
     },
     {
-     "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-     "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 12:44:17 GMT"
+     "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+     "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 17:46:30 GMT"
     },
     {
      "title": "What we know about the Pope's lung cancer diagnosis",
@@ -35,9 +35,9 @@
      "date": "Wed, 14 Oct 2026 12:37:33 GMT"
     },
     {
-     "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-     "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 13:35:29 GMT"
+     "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+     "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 12:44:17 GMT"
     },
     {
      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
@@ -50,7 +50,12 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+     "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+     "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 17:46:30 GMT"
+    },
+    {
+     "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 16:47:32 GMT"
     },
@@ -70,30 +75,30 @@
      "date": "Wed, 14 Oct 2026 13:45:34 GMT"
     },
     {
-     "title": "US inflation rises more than expected - here's what is happening with prices",
-     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 15:26:14 GMT"
-    },
-    {
      "title": "How long will humans be needed for translation?",
      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 13 Oct 2026 23:05:29 GMT"
     },
     {
+     "title": "US inflation rises more than expected - here's what is happening with prices",
+     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 15:26:14 GMT"
+    },
+    {
      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 11:57:22 GMT"
-    },
-    {
-     "title": "Wayfair among firms fined millions for misleading sales tactics",
-     "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 12:09:45 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+     "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+     "date": "Wed, 14 Oct 2026 19:01:29 GMT"
+    },
     {
      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
      "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
@@ -115,11 +120,6 @@
      "date": "Fri, 09 Oct 2026 09:59:06 GMT"
     },
     {
-     "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-     "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-     "date": "Fri, 09 Oct 2026 04:00:38 GMT"
-    },
-    {
      "title": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
      "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
      "date": "Wed, 14 Oct 2026 08:39:00 GMT"
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+     "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+     "date": "Wed, 14 Oct 2026 15:42:03 -0400"
+    },
     {
      "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
      "link": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
@@ -165,18 +170,13 @@
      "date": "Wed, 14 Oct 2026 05:09:39 -0400"
     },
     {
-     "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-     "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-     "date": "Wed, 14 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-     "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
-     "date": "Wed, 14 Oct 2026 05:00:00 -0400"
-    },
-    {
      "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
      "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
+     "date": "Wed, 14 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
+     "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
      "date": "Wed, 14 Oct 2026 05:00:00 -0400"
     }
    ]
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 17:05:01 +0000"
+     "title": "Russia attack hits Kyiv after reported intelligence lapse",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 20:14:57 +0000"
     },
     {
-     "title": "Kenya’s health ministry confirms second Ebola case",
-     "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 17:03:19 +0000"
+     "title": "Barcola scores hat-trick as Liverpool hit LASK for six",
+     "link": "https://www.aljazeera.com/sports/2026/10/14/barcola-scores-hat-trick-as-liverpool-hit-lask-for-six?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 20:12:20 +0000"
     },
     {
-     "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
-     "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 17:02:31 +0000"
+     "title": "Spanish NGO halts Mediterranean rescue operations, citing fuel prices",
+     "link": "https://www.aljazeera.com/news/2026/10/14/spanish-ngo-halts-mediterranean-rescue-operations-citing-fuel-prices?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 20:10:15 +0000"
     },
     {
-     "title": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
-     "link": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 16:51:12 +0000"
+     "title": "How will a new alliance affect the conflict in eastern DRC?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 19:54:16 +0000"
     },
     {
-     "title": "AI in politics: Is Albania the EU’s testing ground?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ai-in-politics-is-albania-the-eus-testing-ground?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 16:46:41 +0000"
+     "title": "US lifts sanctions on Venezuela’s top legislator",
+     "link": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 19:53:03 +0000"
     },
     {
-     "title": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
-     "link": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 16:41:42 +0000"
+     "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 19:23:27 +0000"
     },
     {
-     "title": "Fire erupts at Albania’s Education Ministry as protests enter third day",
-     "link": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 16:23:20 +0000"
+     "title": "World’s oldest known shipwreck found in Turkiye",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 19:17:48 +0000"
     },
     {
-     "title": "At least two security officials killed near Iran’s critical Chabahar port",
-     "link": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 16:22:04 +0000"
+     "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
+     "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 19:02:51 +0000"
     }
    ]
   },
@@ -245,6 +245,16 @@
      "date": ""
     },
     {
+     "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+     "link": "https://www.nature.com/articles/s41586-026-11267-z",
+     "date": ""
+    },
+    {
+     "title": "Growing plane and ship traffic degrade the air of western North America",
+     "link": "https://www.nature.com/articles/d41586-026-03239-0",
+     "date": ""
+    },
+    {
      "title": "The world is closer to a major conservation target than scientists thought",
      "link": "https://www.nature.com/articles/d41586-026-03307-5",
      "date": ""
@@ -257,16 +267,6 @@
     {
      "title": "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
      "link": "https://www.nature.com/articles/d41586-026-03081-4",
-     "date": ""
-    },
-    {
-     "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
-     "link": "https://www.nature.com/articles/d41586-026-02442-3",
-     "date": ""
-    },
-    {
-     "title": "A guide to the Nature Index",
-     "link": "https://www.nature.com/articles/d41586-026-03206-9",
      "date": ""
     }
    ]
