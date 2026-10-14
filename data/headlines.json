@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14 00:20 UTC",
+ "updated": "2026-10-14 06:09 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,24 +10,19 @@
      "date": "Tue, 13 Oct 2026 23:58:56 GMT"
     },
     {
+     "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+     "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 05:01:07 GMT"
+    },
+    {
+     "title": "Watch: BBC joins police on front line against car theft",
+     "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 05:00:37 GMT"
+    },
+    {
      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 00:17:00 GMT"
-    },
-    {
-     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 21:42:49 GMT"
-    },
-    {
-     "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-     "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 15:52:15 GMT"
-    },
-    {
-     "title": "Zelensky and Burnham to meet in Downing Street",
-     "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 21:31:30 GMT"
     },
     {
      "title": "Royal Mail losing 400 postal workers a week, says union",
@@ -35,20 +30,30 @@
      "date": "Tue, 13 Oct 2026 23:03:59 GMT"
     },
     {
-     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-     "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 19:51:14 GMT"
+     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
-     "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 18:25:28 GMT"
+     "title": "World's oldest shipwreck found off coast of Turkey",
+     "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 05:00:35 GMT"
+    },
+    {
+     "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 04:36:06 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+     "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 04:59:06 GMT"
+    },
     {
      "title": "Royal Mail losing 400 postal workers a week, says union",
      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
@@ -60,9 +65,9 @@
      "date": "Tue, 13 Oct 2026 23:04:39 GMT"
     },
     {
-     "title": "Three things we've learnt about the UK economy from the IMF",
-     "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 11:58:43 GMT"
+     "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+     "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 02:05:32 GMT"
     },
     {
      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
@@ -70,24 +75,19 @@
      "date": "Tue, 13 Oct 2026 15:59:07 GMT"
     },
     {
-     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 21:42:49 GMT"
-    },
-    {
      "title": "How long will humans be needed for translation?",
      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 13 Oct 2026 23:05:29 GMT"
     },
     {
-     "title": "Poundland in rescue talks as owners seek buyer",
-     "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 12:17:17 GMT"
+     "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 21:42:49 GMT"
     },
     {
-     "title": "BA flight forced to turn back over cracked window",
-     "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 11:48:07 GMT"
+     "title": "Three things we've learnt about the UK economy from the IMF",
+     "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 13 Oct 2026 11:58:43 GMT"
     }
    ]
   },
@@ -185,50 +185,60 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
-     "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 23:42:57 +0000"
+     "title": "From Cairo to Tokyo: Can you guess these twin cities?",
+     "link": "https://www.aljazeera.com/news/2026/10/14/from-cairo-to-tokyo-can-you-guess-these-twin-cities?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 05:40:18 +0000"
     },
     {
-     "title": "Manchester United’s Martinez blasts board’s lack of investment",
-     "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 22:57:56 +0000"
+     "title": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
+     "link": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 05:39:48 +0000"
     },
     {
-     "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
-     "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 22:56:24 +0000"
+     "title": "Ukrainian drones strike more than 100km into Russian territory",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 05:07:55 +0000"
     },
     {
-     "title": "Mauritius imposes curfew after night of unrest over police shooting",
-     "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 22:41:59 +0000"
+     "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+     "link": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 04:27:18 +0000"
     },
     {
-     "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
-     "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 22:33:50 +0000"
+     "title": "Singapore’s economy grows more than 5 percent amid AI boom",
+     "link": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 04:25:02 +0000"
     },
     {
-     "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
-     "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 22:17:26 +0000"
+     "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 04:16:13 +0000"
     },
     {
-     "title": "US trial begins for Rwandan-American accused of role in genocide",
-     "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 22:15:44 +0000"
+     "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+     "link": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 03:57:24 +0000"
     },
     {
-     "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
-     "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
-     "date": "Tue, 13 Oct 2026 21:59:39 +0000"
+     "title": "Israel returns 22 stolen ancient artefacts to Greece",
+     "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 03:23:08 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "China’s AI research is booming. Where is it headed?",
+     "link": "https://www.nature.com/articles/d41586-026-03223-8",
+     "date": ""
+    },
+    {
+     "title": "China’s extraordinary rise in science and how it will change the world",
+     "link": "https://www.nature.com/articles/d41586-026-03222-9",
+     "date": ""
+    },
     {
      "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
      "link": "https://www.nature.com/articles/d41586-026-03244-3",
@@ -257,16 +267,6 @@
     {
      "title": "When microbes degrade plastic, where does it go?",
      "link": "https://www.nature.com/articles/d41586-026-03246-1",
-     "date": ""
-    },
-    {
-     "title": "A mysterious jelly seems to be left behind by toads",
-     "link": "https://www.nature.com/articles/d41586-026-02974-8",
-     "date": ""
-    },
-    {
-     "title": "Why not every global problem can be tackled by an IPCC-like organization",
-     "link": "https://www.nature.com/articles/d41586-026-03234-5",
      "date": ""
     }
    ]
