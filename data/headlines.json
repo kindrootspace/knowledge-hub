@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-14 20:42 UTC",
+ "updated": "2026-10-14 23:55 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 20:17:09 GMT"
+     "date": "Wed, 14 Oct 2026 20:55:24 GMT"
     },
     {
      "title": "We are behind you and that will not change, PM tells Zelensky",
@@ -30,19 +30,19 @@
      "date": "Wed, 14 Oct 2026 17:46:30 GMT"
     },
     {
+     "title": "Reform faces criticism after councillors filmed making racist comments",
+     "link": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 22:34:47 GMT"
+    },
+    {
      "title": "What we know about the Pope's lung cancer diagnosis",
      "link": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 12:37:33 GMT"
     },
     {
-     "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-     "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 12:44:17 GMT"
-    },
-    {
-     "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-     "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 15:34:19 GMT"
+     "title": "Brooklyn novelty shop reeling from 'surreal' row with Kelly Clarkson over mechanical bird",
+     "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 22:19:13 GMT"
     }
    ]
   },
@@ -60,6 +60,11 @@
      "date": "Wed, 14 Oct 2026 16:47:32 GMT"
     },
     {
+     "title": "How backlash against data centres could shape the US midterm elections",
+     "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 23:02:57 GMT"
+    },
+    {
      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 15:54:04 GMT"
@@ -70,24 +75,19 @@
      "date": "Wed, 14 Oct 2026 11:04:12 GMT"
     },
     {
+     "title": "How a Chinese-made toy gets to a US retailer",
+     "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 14 Oct 2026 23:01:28 GMT"
+    },
+    {
      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
      "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 13:45:34 GMT"
     },
     {
-     "title": "How long will humans be needed for translation?",
-     "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 13 Oct 2026 23:05:29 GMT"
-    },
-    {
      "title": "US inflation rises more than expected - here's what is happening with prices",
      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 14 Oct 2026 15:26:14 GMT"
-    },
-    {
-     "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-     "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 14 Oct 2026 11:57:22 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Russia attack hits Kyiv after reported intelligence lapse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 20:14:57 +0000"
+     "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+     "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 23:03:10 +0000"
     },
     {
-     "title": "Barcola scores hat-trick as Liverpool hit LASK for six",
-     "link": "https://www.aljazeera.com/sports/2026/10/14/barcola-scores-hat-trick-as-liverpool-hit-lask-for-six?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 20:12:20 +0000"
+     "title": "ICE pushes back on report suggesting body cameras that automatically record",
+     "link": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 22:57:13 +0000"
     },
     {
-     "title": "Spanish NGO halts Mediterranean rescue operations, citing fuel prices",
-     "link": "https://www.aljazeera.com/news/2026/10/14/spanish-ngo-halts-mediterranean-rescue-operations-citing-fuel-prices?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 20:10:15 +0000"
+     "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+     "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 21:50:01 +0000"
     },
     {
-     "title": "How will a new alliance affect the conflict in eastern DRC?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/14/how-will-a-new-alliance-affect-the-conflict-in-eastern-drc?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 19:54:16 +0000"
+     "title": "PSG beat Man City 4-2 in Champions League thriller",
+     "link": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 21:35:49 +0000"
     },
     {
-     "title": "US lifts sanctions on Venezuela’s top legislator",
-     "link": "https://www.aljazeera.com/news/2026/10/14/us-lifts-sanctions-on-venezuelas-top-legislator?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 19:53:03 +0000"
+     "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+     "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 21:35:27 +0000"
     },
     {
-     "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 19:23:27 +0000"
+     "title": "West Indies beat India to level T20 series as Hope continues record run",
+     "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 20:52:25 +0000"
     },
     {
-     "title": "World’s oldest known shipwreck found in Turkiye",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 19:17:48 +0000"
+     "title": "Israeli quadcopter drone drops bomb in Lebanon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 20:47:46 +0000"
     },
     {
-     "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
-     "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
-     "date": "Wed, 14 Oct 2026 19:02:51 +0000"
+     "title": "Families of Trinidadian men killed in US boat strike demand accountability",
+     "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
+     "date": "Wed, 14 Oct 2026 20:42:59 +0000"
     }
    ]
   },
