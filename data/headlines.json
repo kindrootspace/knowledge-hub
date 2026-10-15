@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-15 19:08 UTC",
+ "updated": "2026-10-15 22:19 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-     "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 15:55:14 GMT"
+     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+     "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 15 Oct 2026 21:12:14 GMT"
     },
     {
      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -25,24 +25,24 @@
      "date": "Thu, 15 Oct 2026 16:35:05 GMT"
     },
     {
+     "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 15 Oct 2026 20:24:32 GMT"
+    },
+    {
      "title": "Banks say Healey is planning Budget tax raid on their profits",
      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 15 Oct 2026 17:14:36 GMT"
     },
     {
-     "title": "Meghan makes first official public appearance since moving back to UK",
-     "link": "https://www.bbc.co.uk/news/articles/c6gelgd1lxv2o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 12:06:51 GMT"
+     "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
+     "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 15 Oct 2026 15:00:05 GMT"
     },
     {
      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 15 Oct 2026 10:56:25 GMT"
-    },
-    {
-     "title": "Severe drought declared in parts of southern England",
-     "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 15:55:10 GMT"
     }
    ]
   },
@@ -140,7 +140,17 @@
    "name": "NPR",
    "items": [
     {
-     "title": "America's historic preservation law is in peril, advocates say. Here's what's at stake",
+     "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+     "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
+     "date": "Thu, 15 Oct 2026 16:50:53 -0400"
+    },
+    {
+     "title": "Suspicious mailings to election officials, congressional offices under investigation",
+     "link": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
+     "date": "Thu, 15 Oct 2026 15:54:15 -0400"
+    },
+    {
+     "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
      "link": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary",
      "date": "Thu, 15 Oct 2026 14:38:05 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
      "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
      "date": "Thu, 15 Oct 2026 06:00:00 -0400"
-    },
-    {
-     "title": "Make a 'sick day' kit for cold and flu season before your household gets hit",
-     "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
-     "date": "Thu, 15 Oct 2026 05:02:00 -0400"
-    },
-    {
-     "title": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-     "link": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
-     "date": "Thu, 15 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-     "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 18:57:08 +0000"
+     "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+     "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:57:58 +0000"
     },
     {
-     "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-     "link": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 18:41:41 +0000"
+     "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
+     "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:54:26 +0000"
     },
     {
-     "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
-     "link": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 18:17:57 +0000"
+     "title": "Trump administration sues California over noncitizens on voter rolls",
+     "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:44:59 +0000"
     },
     {
-     "title": "Trump ramps up third-country US deportations despite global rights outcry",
-     "link": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 17:54:26 +0000"
+     "title": "Several people dead or missing after Istanbul floods",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:15:46 +0000"
     },
     {
-     "title": "A mother’s touch helps premature babies grow strong in Gaza",
-     "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 17:43:01 +0000"
+     "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:05:01 +0000"
     },
     {
-     "title": "Pope Leo resumes work in hospital while recovering from surgery",
-     "link": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 17:25:09 +0000"
+     "title": "ICE tactics spark debate before pivotal US midterm elections",
+     "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:02:31 +0000"
     },
     {
-     "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
-     "link": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 17:13:17 +0000"
+     "title": "Robots dance the ‘Macarena’ at Japan tech expo",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 21:00:01 +0000"
     },
     {
-     "title": "Dying in Detention",
-     "link": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 17:00:00 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
-     "link": "https://www.nature.com/articles/d41586-026-03178-w",
-     "date": ""
-    },
-    {
-     "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
-     "link": "https://www.nature.com/articles/d41586-026-03329-z",
-     "date": ""
-    },
-    {
-     "title": "Orangutan mothers arrange play dates for their babies",
-     "link": "https://www.nature.com/articles/d41586-026-03238-1",
-     "date": ""
-    },
-    {
-     "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
-     "link": "https://www.nature.com/articles/s41586-026-11263-3",
-     "date": ""
-    },
-    {
-     "title": "Give me the good news: four science stories to brighten your day",
-     "link": "https://www.nature.com/articles/d41586-026-03152-6",
-     "date": ""
-    },
-    {
-     "title": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
-     "link": "https://www.nature.com/articles/d41586-026-03233-6",
-     "date": ""
-    },
-    {
-     "title": "ArXiv versus AI slop: will capping preprint submissions work?",
-     "link": "https://www.nature.com/articles/d41586-026-03194-w",
-     "date": ""
-    },
-    {
-     "title": "Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
-     "link": "https://www.nature.com/articles/s41586-026-11242-8",
-     "date": ""
+     "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
+     "date": "Thu, 15 Oct 2026 20:29:52 +0000"
     }
    ]
   }
