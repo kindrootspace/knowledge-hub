@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-16 01:21 UTC",
+ "updated": "2026-10-16 07:10 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-     "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 22:37:21 GMT"
+     "title": "Three children and teacher killed in US primary school shooting",
+     "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 16 Oct 2026 03:45:09 GMT"
     },
     {
-     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-     "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 17:47:22 GMT"
+     "title": "Banks say Healey planning to increase tax on their profits in Budget",
+     "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 16 Oct 2026 06:42:12 GMT"
     },
     {
      "title": "Same-day test helps doctors detect hidden infections in critically ill children",
@@ -20,29 +20,29 @@
      "date": "Fri, 16 Oct 2026 00:34:45 GMT"
     },
     {
-     "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
-     "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 23:01:49 GMT"
-    },
-    {
      "title": "Porn showing choking or incest to be banned from early November, government says",
      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 15 Oct 2026 23:27:57 GMT"
     },
     {
-     "title": "Banks say Healey is planning Budget tax raid on their profits",
-     "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 17:14:36 GMT"
+     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+     "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 15 Oct 2026 22:37:21 GMT"
     },
     {
-     "title": "Reform faces questions over candidate vetting after undercover filming",
-     "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 23:52:27 GMT"
+     "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+     "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 15 Oct 2026 23:01:49 GMT"
     },
     {
-     "title": "London housing project wins top architecture award",
-     "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 20:36:32 GMT"
+     "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
+     "link": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 16 Oct 2026 04:16:31 GMT"
+    },
+    {
+     "title": "Mother of Henry Nowak killer could be deported",
+     "link": "https://www.bbc.co.uk/news/articles/cqze4l9l2eywo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 15 Oct 2026 19:43:07 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Banks say Healey is planning Budget tax raid on their profits",
+     "title": "Banks say Healey planning to increase tax on their profits in Budget",
      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 15 Oct 2026 17:14:36 GMT"
+     "date": "Fri, 16 Oct 2026 06:42:12 GMT"
     },
     {
      "title": "I find it quite demoralising in store - why I do all my shopping online",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+     "link": "https://www.npr.org/2026/10/16/g-s1-148366/owl-family-manhattan",
+     "date": "Fri, 16 Oct 2026 02:27:30 -0400"
+    },
+    {
+     "title": "Brewers sweep the Dodgers to reach the World Series for the first time since 1982",
+     "link": "https://www.npr.org/2026/10/16/nx-s1-6004787/brewers-sweep-dodgers-mlb",
+     "date": "Fri, 16 Oct 2026 02:12:04 -0400"
+    },
+    {
      "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
      "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
      "date": "Thu, 15 Oct 2026 16:50:53 -0400"
@@ -168,16 +178,6 @@
      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
      "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
      "date": "Thu, 15 Oct 2026 07:06:21 -0400"
-    },
-    {
-     "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-     "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-     "date": "Thu, 15 Oct 2026 06:05:58 -0400"
-    },
-    {
-     "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
-     "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-     "date": "Thu, 15 Oct 2026 06:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-     "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-     "date": "Fri, 16 Oct 2026 00:31:18 +0000"
+     "title": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+     "link": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 06:41:15 +0000"
     },
     {
-     "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-     "date": "Fri, 16 Oct 2026 00:02:37 +0000"
+     "title": "Which countries waste the most food, and how to reduce waste at home",
+     "link": "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 06:31:57 +0000"
     },
     {
-     "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-     "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 23:35:26 +0000"
+     "title": "Vibe coding: Game-changer or risky business?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 06:01:34 +0000"
     },
     {
-     "title": "At least 4, including 3 children, killed in US elementary school shooting",
-     "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 22:51:56 +0000"
+     "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+     "link": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 05:55:23 +0000"
     },
     {
-     "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-     "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 21:57:58 +0000"
+     "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 05:51:40 +0000"
     },
     {
-     "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
-     "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 21:54:26 +0000"
+     "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+     "link": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 05:28:29 +0000"
     },
     {
-     "title": "Trump administration sues California over noncitizens on voter rolls",
-     "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 21:44:59 +0000"
+     "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+     "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 05:15:09 +0000"
     },
     {
-     "title": "Several people dead or missing after Istanbul floods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
-     "date": "Thu, 15 Oct 2026 21:15:46 +0000"
+     "title": "Bystander guns down suspected primary school shooter in Oregon",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+     "date": "Fri, 16 Oct 2026 05:00:25 +0000"
     }
    ]
   },
