@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-17 04:27 UTC",
+ "updated": "2026-10-17 09:22 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+     "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 07:41:01 GMT"
+    },
+    {
      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 01:19:04 GMT"
+     "date": "Sat, 17 Oct 2026 06:49:48 GMT"
     },
     {
-     "title": "Trump waives several Russia sanctions as new US law takes effect",
-     "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 02:48:36 GMT"
-    },
-    {
-     "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-     "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 03:57:16 GMT"
+     "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+     "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 08:34:44 GMT"
     },
     {
      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
@@ -25,14 +25,14 @@
      "date": "Fri, 16 Oct 2026 21:02:18 GMT"
     },
     {
-     "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-     "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 16 Oct 2026 20:28:59 GMT"
+     "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+     "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 01:59:48 GMT"
     },
     {
-     "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 16 Oct 2026 20:08:07 GMT"
+     "title": "Swinney insists 'stars are aligning' for Scottish independence",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 08:17:18 GMT"
     },
     {
      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
@@ -40,9 +40,9 @@
      "date": "Sat, 17 Oct 2026 01:34:52 GMT"
     },
     {
-     "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 01:59:48 GMT"
+     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+     "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 16 Oct 2026 18:11:29 GMT"
     }
    ]
   },
@@ -140,6 +140,31 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+     "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Weddings are expensive. How about a grocery store cake?",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
+     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
+     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Coastal homes burn as hot winds fuel California fires",
+     "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+     "date": "Sat, 17 Oct 2026 04:20:00 -0400"
+    },
+    {
      "title": "Katie Zacharia is out as press secretary, White House says",
      "link": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
      "date": "Fri, 16 Oct 2026 16:29:40 -0400"
@@ -153,31 +178,6 @@
      "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
      "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
      "date": "Fri, 16 Oct 2026 13:45:16 -0400"
-    },
-    {
-     "title": "Amid talk of public execution, public opinion on death penalty is split",
-     "link": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
-     "date": "Fri, 16 Oct 2026 12:28:00 -0400"
-    },
-    {
-     "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-     "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-     "date": "Fri, 16 Oct 2026 11:57:27 -0400"
-    },
-    {
-     "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-     "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-     "date": "Fri, 16 Oct 2026 09:26:43 -0400"
-    },
-    {
-     "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-     "link": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-     "date": "Fri, 16 Oct 2026 07:30:31 -0400"
-    },
-    {
-     "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-     "link": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
-     "date": "Fri, 16 Oct 2026 07:03:57 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
-     "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 03:30:36 +0000"
+     "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
+     "link": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 08:40:47 +0000"
     },
     {
-     "title": "Cameroonians await government reshuffle after Biya’s return",
-     "link": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 03:14:28 +0000"
+     "title": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 08:27:28 +0000"
     },
     {
-     "title": "Brazil’s Amazon deforestation hits lowest level on record",
-     "link": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 02:49:21 +0000"
+     "title": "Oregon school shooter was former special-needs student, police say",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 08:04:35 +0000"
     },
     {
-     "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 01:37:07 +0000"
+     "title": "Wildfire prompts thousands of evacuation orders in Orange County",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 08:03:26 +0000"
     },
     {
-     "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
-     "link": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 01:33:37 +0000"
+     "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
+     "link": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 07:45:31 +0000"
     },
     {
-     "title": "Oregon school shooter was former special needs student, police say",
-     "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 00:25:22 +0000"
+     "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+     "link": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 07:43:19 +0000"
     },
     {
-     "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 00:00:00 +0000"
+     "title": "11-year old flying car company mocks Tesla Roadster",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 07:32:42 +0000"
     },
     {
-     "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
-     "date": "Fri, 16 Oct 2026 23:55:57 +0000"
+     "title": "Israeli raids and arrests in southern Syria push population to the brink",
+     "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 07:17:06 +0000"
     }
    ]
   },
