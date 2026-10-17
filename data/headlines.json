@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 13:43 UTC",
+ "updated": "2026-10-17 17:11 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,29 +10,29 @@
      "date": "Sat, 17 Oct 2026 12:14:52 GMT"
     },
     {
+     "title": "More NHS staff sacked over attacks victims' records",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 16:34:39 GMT"
+    },
+    {
      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
      "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 17 Oct 2026 12:56:09 GMT"
     },
     {
-     "title": "More NHS staff sacked over attacks victims' records",
-     "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 13:18:32 GMT"
+     "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 15:36:05 GMT"
     },
     {
-     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-     "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 09:58:17 GMT"
+     "title": "Pope discharged from hospital days after lung cancer surgery",
+     "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 13:51:36 GMT"
     },
     {
-     "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
-     "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 11:57:27 GMT"
-    },
-    {
-     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-     "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 16 Oct 2026 18:11:29 GMT"
+     "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
+     "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 16 Oct 2026 23:27:01 GMT"
     },
     {
      "title": "Why people who have never smoked are getting hooked on vapes",
@@ -40,9 +40,9 @@
      "date": "Fri, 16 Oct 2026 23:49:16 GMT"
     },
     {
-     "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-     "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 16 Oct 2026 23:27:01 GMT"
+     "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+     "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 16 Oct 2026 18:11:29 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Scuffles and fires break out as protesters rally across France, joining students",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+     "date": "Sat, 17 Oct 2026 11:57:40 -0400"
+    },
+    {
+     "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+     "date": "Sat, 17 Oct 2026 11:10:14 -0400"
+    },
+    {
+     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+     "date": "Sat, 17 Oct 2026 10:25:10 -0400"
+    },
+    {
      "title": "Perspective: Midterm money madness",
      "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
      "date": "Sat, 17 Oct 2026 08:00:00 -0400"
@@ -150,6 +165,11 @@
      "date": "Sat, 17 Oct 2026 07:43:14 -0400"
     },
     {
+     "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
+     "date": "Sat, 17 Oct 2026 07:43:13 -0400"
+    },
+    {
      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
      "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
      "date": "Sat, 17 Oct 2026 07:00:00 -0400"
@@ -158,26 +178,6 @@
      "title": "No Kings turns its focus to voting this weekend. Here's what we know",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
      "date": "Sat, 17 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-     "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
-     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Weddings are expensive. How about a grocery store cake?",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
-     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Coastal homes burn as hot winds fuel California fires",
-     "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
-     "date": "Sat, 17 Oct 2026 04:20:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Child, four women among Palestinians injured in West Bank pogroms",
-     "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 12:48:03 +0000"
+     "title": "Why are Latin American countries building closer ties with Israel?",
+     "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 16:54:44 +0000"
     },
     {
-     "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-     "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 12:46:48 +0000"
+     "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 16:49:07 +0000"
     },
     {
-     "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-     "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 12:27:49 +0000"
+     "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+     "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 16:48:46 +0000"
     },
     {
-     "title": "France tackles new wave of nationwide protests",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 12:18:55 +0000"
+     "title": "Buildings and cars set on fire as cost of living protests rock France",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 16:00:40 +0000"
     },
     {
-     "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-     "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 12:10:56 +0000"
+     "title": "Pope Leo leaves hospital after lung cancer surgery",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 15:47:52 +0000"
     },
     {
-     "title": "Women protest in New Delhi against police brutality",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 12:07:15 +0000"
+     "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+     "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 15:25:27 +0000"
     },
     {
-     "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 11:22:41 +0000"
+     "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+     "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 15:20:27 +0000"
     },
     {
-     "title": "Protests spread across France as ‘yellow vests’ set to join",
-     "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 11:21:32 +0000"
+     "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+     "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 14:57:24 +0000"
     }
    ]
   },
