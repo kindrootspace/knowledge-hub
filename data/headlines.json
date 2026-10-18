@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 01:03 UTC",
+ "updated": "2026-10-18 05:54 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -20,9 +20,14 @@
      "date": "Sat, 17 Oct 2026 16:34:39 GMT"
     },
     {
-     "title": "Anti-government protesters battle with police in Albania",
-     "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 20:53:00 GMT"
+     "title": "Deaths confirmed in major fire at Canada military base",
+     "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 04:00:50 GMT"
+    },
+    {
+     "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 05:04:31 GMT"
     },
     {
      "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -33,11 +38,6 @@
      "title": "Swinney's emotional explanation for his commitment to independence",
      "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 17 Oct 2026 18:11:42 GMT"
-    },
-    {
-     "title": "Dubois destroys Wardley in two rounds to retain title",
-     "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 22:27:49 GMT"
     },
     {
      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -120,19 +120,19 @@
      "date": "Fri, 09 Oct 2026 16:30:09 GMT"
     },
     {
+     "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+     "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+     "date": "Sun, 18 Oct 2026 04:00:49 GMT"
+    },
+    {
+     "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+     "date": "Sun, 18 Oct 2026 02:50:29 GMT"
+    },
+    {
      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
      "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
      "date": "Sat, 17 Oct 2026 02:52:59 GMT"
-    },
-    {
-     "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-     "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-     "date": "Fri, 16 Oct 2026 19:37:53 GMT"
-    },
-    {
-     "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-     "link": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
-     "date": "Fri, 16 Oct 2026 16:47:35 GMT"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 00:00:11 +0000"
+     "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+     "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 05:16:49 +0000"
     },
     {
-     "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-     "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 23:40:59 +0000"
+     "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+     "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 04:59:29 +0000"
     },
     {
-     "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-     "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 23:21:57 +0000"
+     "title": "St Petersburg under attack from Ukrainian drone swarm",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 04:51:01 +0000"
     },
     {
-     "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
-     "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 21:08:10 +0000"
+     "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+     "link": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 04:46:17 +0000"
     },
     {
-     "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-     "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 21:02:26 +0000"
+     "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 04:21:46 +0000"
     },
     {
-     "title": "Ten killed in fire at beach resort in Bangladesh",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 20:50:01 +0000"
+     "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+     "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 04:14:42 +0000"
     },
     {
-     "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 20:40:38 +0000"
+     "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 03:44:25 +0000"
     },
     {
-     "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 20:20:25 +0000"
+     "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
+     "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 02:33:14 +0000"
     }
    ]
   },
