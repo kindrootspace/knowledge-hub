@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-18 18:06 UTC",
+ "updated": "2026-10-18 20:44 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "What we know so far about deadly fire at Canadian military base",
-     "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 17:48:53 GMT"
+     "title": "Macron calls for 'calm and order' after riots across France",
+     "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 20:33:21 GMT"
     },
     {
-     "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-     "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 12:07:31 GMT"
+     "title": "What we know so far about deadly fire at Canadian military base",
+     "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 19:42:37 GMT"
     },
     {
      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
@@ -30,6 +30,11 @@
      "date": "Sun, 18 Oct 2026 05:30:16 GMT"
     },
     {
+     "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+     "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 19:53:27 GMT"
+    },
+    {
      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 18 Oct 2026 15:46:10 GMT"
@@ -38,11 +43,6 @@
      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 18 Oct 2026 12:09:04 GMT"
-    },
-    {
-     "title": "Suspects hunted after police officer injured in shooting",
-     "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 13:10:18 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+     "date": "Sun, 18 Oct 2026 14:38:49 -0400"
+    },
+    {
      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
      "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
      "date": "Sun, 18 Oct 2026 12:30:00 -0400"
@@ -173,11 +178,6 @@
      "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
      "date": "Sat, 17 Oct 2026 18:45:25 -0400"
-    },
-    {
-     "title": "French police arrest 1,800 after violent clashes and looting mar protests",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-     "date": "Sat, 17 Oct 2026 11:57:40 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 17:58:49 +0000"
+     "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 20:26:03 +0000"
     },
     {
-     "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 17:52:37 +0000"
+     "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+     "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 20:19:22 +0000"
     },
     {
-     "title": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
-     "link": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 17:48:17 +0000"
+     "title": "What’s behind Europe’s youth protests?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 20:05:07 +0000"
     },
     {
-     "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 17:20:20 +0000"
+     "title": "India’s crackdown on cockroaches, critics and cameras",
+     "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 19:31:45 +0000"
     },
     {
-     "title": "Trump endorses Netanyahu in Israeli legislative elections",
-     "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 16:36:26 +0000"
+     "title": "How will Europe deal with youth-led protests?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 19:15:21 +0000"
     },
     {
-     "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-     "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 16:25:52 +0000"
+     "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 19:12:30 +0000"
     },
     {
-     "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 16:25:43 +0000"
+     "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+     "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 19:11:27 +0000"
     },
     {
-     "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-     "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 15:30:44 +0000"
+     "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+     "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 18:44:30 +0000"
     }
    ]
   },
