@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 11:06 UTC",
+ "updated": "2026-10-18 14:34 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,27 +7,17 @@
     {
      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 10:53:54 GMT"
-    },
-    {
-     "title": "Watch: Parisians wake up to protest damage and looted shops",
-     "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 10:58:39 GMT"
+     "date": "Sun, 18 Oct 2026 12:07:31 GMT"
     },
     {
      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
      "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 10:03:17 GMT"
+     "date": "Sun, 18 Oct 2026 11:14:33 GMT"
     },
     {
-     "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+     "title": "Ending corridor care in hospitals for children a priority, says health secretary",
      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 09:45:59 GMT"
-    },
-    {
-     "title": "Police officer in hospital after being shot in Nottingham",
-     "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 10:58:54 GMT"
+     "date": "Sun, 18 Oct 2026 12:09:04 GMT"
     },
     {
      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -35,14 +25,24 @@
      "date": "Sun, 18 Oct 2026 05:04:31 GMT"
     },
     {
-     "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-     "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 09:53:33 GMT"
+     "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
+     "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 05:30:16 GMT"
+    },
+    {
+     "title": "Suspects hunted after police officer injured in shooting",
+     "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 13:10:18 GMT"
     },
     {
      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 17 Oct 2026 22:09:50 GMT"
+    },
+    {
+     "title": "There's a crackdown on sports piracy but is it already out of control?",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 00:11:09 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+     "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+     "date": "Sun, 18 Oct 2026 08:55:01 -0400"
+    },
+    {
+     "title": "If you have the scratch, they have the scares",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+     "date": "Sun, 18 Oct 2026 08:00:00 -0400"
+    },
+    {
      "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
      "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
      "date": "Sun, 18 Oct 2026 05:00:00 -0400"
@@ -155,7 +165,7 @@
      "date": "Sat, 17 Oct 2026 18:45:25 -0400"
     },
     {
-     "title": "Paris police report 855 arrests after violent clashes and looting during protests",
+     "title": "French police arrest 1,800 after violent clashes and looting mar protests",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
      "date": "Sat, 17 Oct 2026 11:57:40 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
      "date": "Sat, 17 Oct 2026 10:25:10 -0400"
-    },
-    {
-     "title": "Perspective: Midterm money madness",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
-     "date": "Sat, 17 Oct 2026 08:00:00 -0400"
-    },
-    {
-     "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-     "date": "Sat, 17 Oct 2026 07:43:14 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
-     "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:48:18 +0000"
+     "title": "Why is Trump now encouraging mail-in voting?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 14:09:16 +0000"
     },
     {
-     "title": "Palestinian karate champion Maryam Bsharat wins second world title",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:47:59 +0000"
+     "title": "Why have France’s school protests become a wider political crisis?",
+     "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 13:48:04 +0000"
     },
     {
-     "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
-     "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:34:09 +0000"
+     "title": "Sudan army accused of drone strike on livestock market",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 13:37:03 +0000"
     },
     {
-     "title": "Russia’s war in Ukraine puts Europe on edge",
-     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:33:36 +0000"
+     "title": "Was ancient India the world’s forgotten superpower?",
+     "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 13:17:31 +0000"
     },
     {
-     "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
-     "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:30:00 +0000"
+     "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+     "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 13:16:13 +0000"
     },
     {
-     "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-     "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:23:38 +0000"
+     "title": "Paris left reeling as student-led protests turn chaotic",
+     "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 13:08:06 +0000"
     },
     {
-     "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:18:03 +0000"
+     "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
+     "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 12:49:57 +0000"
     },
     {
-     "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
-     "link": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 10:02:59 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
-     "link": "https://www.nature.com/articles/d41586-026-03341-3",
-     "date": ""
-    },
-    {
-     "title": "The pianist who never played",
-     "link": "https://www.nature.com/articles/d41586-026-03112-0",
-     "date": ""
-    },
-    {
-     "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
-     "link": "https://www.nature.com/articles/d41586-026-03308-4",
-     "date": ""
-    },
-    {
-     "title": "Memory stays strong in old age when this brain enzyme is active",
-     "link": "https://www.nature.com/articles/d41586-026-03303-9",
-     "date": ""
-    },
-    {
-     "title": "Unprecedented atlas explores mitochondria across the tree of life",
-     "link": "https://www.nature.com/articles/d41586-026-03195-9",
-     "date": ""
-    },
-    {
-     "title": "PhD students who write dissertation with AI less likely to stay in academia",
-     "link": "https://www.nature.com/articles/d41586-026-03253-2",
-     "date": ""
-    },
-    {
-     "title": "History’s long-secret codes are being cracked by amateurs using AI",
-     "link": "https://www.nature.com/articles/d41586-026-03338-y",
-     "date": ""
-    },
-    {
-     "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
-     "link": "https://www.nature.com/articles/d41586-026-03178-w",
-     "date": ""
+     "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 12:44:26 +0000"
     }
    ]
   }
