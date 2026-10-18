@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 22:19 UTC",
+ "updated": "2026-10-18 01:03 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Sat, 17 Oct 2026 20:52:17 GMT"
     },
     {
-     "title": "How day of protests unfolded as disorder breaks out across France",
-     "link": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 21:33:17 GMT"
+     "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+     "link": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 00:49:42 GMT"
     },
     {
      "title": "More NHS staff sacked over attacks victims' records",
@@ -27,7 +27,7 @@
     {
      "title": "European diplomats attacked by Israeli settlers in West Bank",
      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 18:38:57 GMT"
+     "date": "Sat, 17 Oct 2026 23:52:38 GMT"
     },
     {
      "title": "Swinney's emotional explanation for his commitment to independence",
@@ -35,14 +35,14 @@
      "date": "Sat, 17 Oct 2026 18:11:42 GMT"
     },
     {
-     "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 16:02:31 GMT"
+     "title": "Dubois destroys Wardley in two rounds to retain title",
+     "link": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 22:27:49 GMT"
     },
     {
-     "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
-     "link": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 16 Oct 2026 23:27:01 GMT"
+     "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+     "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 17 Oct 2026 22:09:50 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+     "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+     "date": "Sat, 17 Oct 2026 18:45:25 -0400"
+    },
+    {
      "title": "Scuffles and fires break out as protesters rally across France, joining students",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
      "date": "Sat, 17 Oct 2026 11:57:40 -0400"
@@ -173,17 +178,27 @@
      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
      "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
      "date": "Sat, 17 Oct 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-     "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-     "date": "Sat, 17 Oct 2026 05:00:00 -0400"
     }
    ]
   },
   {
    "name": "Al Jazeera",
    "items": [
+    {
+     "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 00:00:11 +0000"
+    },
+    {
+     "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+     "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 23:40:59 +0000"
+    },
+    {
+     "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+     "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+     "date": "Sat, 17 Oct 2026 23:21:57 +0000"
+    },
     {
      "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
      "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
@@ -208,21 +223,6 @@
      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
      "date": "Sat, 17 Oct 2026 20:20:25 +0000"
-    },
-    {
-     "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 20:02:22 +0000"
-    },
-    {
-     "title": "At least 17 killed in stampede at religious gathering in India",
-     "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 19:48:54 +0000"
-    },
-    {
-     "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-     "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-     "date": "Sat, 17 Oct 2026 19:26:13 +0000"
     }
    ]
   },
