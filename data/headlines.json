@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 20:44 UTC",
+ "updated": "2026-10-18 23:13 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,14 @@
      "date": "Sun, 18 Oct 2026 20:33:21 GMT"
     },
     {
+     "title": "Major fire at Canada military base leaves four dead, dozens injured",
+     "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 23:06:09 GMT"
+    },
+    {
      "title": "What we know so far about deadly fire at Canadian military base",
      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 19:42:37 GMT"
+     "date": "Sun, 18 Oct 2026 21:37:56 GMT"
     },
     {
      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
@@ -25,9 +30,9 @@
      "date": "Sun, 18 Oct 2026 05:04:31 GMT"
     },
     {
-     "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-     "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 05:30:16 GMT"
+     "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+     "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 21:00:22 GMT"
     },
     {
      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
@@ -38,11 +43,6 @@
      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 18 Oct 2026 15:46:10 GMT"
-    },
-    {
-     "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-     "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 12:09:04 GMT"
     }
    ]
   },
@@ -122,7 +122,7 @@
     {
      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-     "date": "Sun, 18 Oct 2026 17:34:53 GMT"
+     "date": "Sun, 18 Oct 2026 22:26:15 GMT"
     },
     {
      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
@@ -185,6 +185,21 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+     "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 22:41:49 +0000"
+    },
+    {
+     "title": "Alberta independence referendum: Will separatists survive a loss?",
+     "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 21:53:13 +0000"
+    },
+    {
+     "title": "Macron condemns violence after riots lead to looting and mass arrests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 21:10:47 +0000"
+    },
+    {
      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
      "date": "Sun, 18 Oct 2026 20:26:03 +0000"
@@ -208,21 +223,6 @@
      "title": "How will Europe deal with youth-led protests?",
      "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
      "date": "Sun, 18 Oct 2026 19:15:21 +0000"
-    },
-    {
-     "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 19:12:30 +0000"
-    },
-    {
-     "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-     "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 19:11:27 +0000"
-    },
-    {
-     "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-     "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 18:44:30 +0000"
     }
    ]
   },
