@@ -1,9 +1,14 @@
 {
- "updated": "2026-10-18 14:34 UTC",
+ "updated": "2026-10-18 18:06 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "What we know so far about deadly fire at Canadian military base",
+     "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 17:48:53 GMT"
+    },
     {
      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
@@ -12,12 +17,7 @@
     {
      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
      "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 11:14:33 GMT"
-    },
-    {
-     "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-     "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 12:09:04 GMT"
+     "date": "Sun, 18 Oct 2026 14:57:19 GMT"
     },
     {
      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -30,19 +30,19 @@
      "date": "Sun, 18 Oct 2026 05:30:16 GMT"
     },
     {
+     "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+     "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 15:46:10 GMT"
+    },
+    {
+     "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+     "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 18 Oct 2026 12:09:04 GMT"
+    },
+    {
      "title": "Suspects hunted after police officer injured in shooting",
      "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 18 Oct 2026 13:10:18 GMT"
-    },
-    {
-     "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-     "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 17 Oct 2026 22:09:50 GMT"
-    },
-    {
-     "title": "There's a crackdown on sports piracy but is it already out of control?",
-     "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 00:11:09 GMT"
     }
    ]
   },
@@ -120,14 +120,14 @@
      "date": "Wed, 14 Oct 2026 13:16:30 GMT"
     },
     {
+     "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+     "date": "Sun, 18 Oct 2026 17:34:53 GMT"
+    },
+    {
      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
      "date": "Sun, 18 Oct 2026 04:00:49 GMT"
-    },
-    {
-     "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-     "date": "Sun, 18 Oct 2026 02:50:29 GMT"
     },
     {
      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
@@ -140,9 +140,19 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
+     "date": "Sun, 18 Oct 2026 12:30:00 -0400"
+    },
+    {
      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
      "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
      "date": "Sun, 18 Oct 2026 08:55:01 -0400"
+    },
+    {
+     "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+     "link": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+     "date": "Sun, 18 Oct 2026 08:00:57 -0400"
     },
     {
      "title": "If you have the scratch, they have the scares",
@@ -155,7 +165,7 @@
      "date": "Sun, 18 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Major fire breaks out in Alberta after deadly incident at military base",
+     "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
      "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
      "date": "Sun, 18 Oct 2026 03:56:08 -0400"
     },
@@ -168,16 +178,6 @@
      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
      "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
      "date": "Sat, 17 Oct 2026 11:57:40 -0400"
-    },
-    {
-     "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-     "date": "Sat, 17 Oct 2026 11:10:14 -0400"
-    },
-    {
-     "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-     "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-     "date": "Sat, 17 Oct 2026 10:25:10 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Why is Trump now encouraging mail-in voting?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 14:09:16 +0000"
+     "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 17:58:49 +0000"
     },
     {
-     "title": "Why have France’s school protests become a wider political crisis?",
-     "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 13:48:04 +0000"
+     "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 17:52:37 +0000"
     },
     {
-     "title": "Sudan army accused of drone strike on livestock market",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 13:37:03 +0000"
+     "title": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
+     "link": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 17:48:17 +0000"
     },
     {
-     "title": "Was ancient India the world’s forgotten superpower?",
-     "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 13:17:31 +0000"
+     "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 17:20:20 +0000"
     },
     {
-     "title": "Gaza families fear food shortages as Israel halts commercial shipments",
-     "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 13:16:13 +0000"
+     "title": "Trump endorses Netanyahu in Israeli legislative elections",
+     "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 16:36:26 +0000"
     },
     {
-     "title": "Paris left reeling as student-led protests turn chaotic",
-     "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 13:08:06 +0000"
+     "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+     "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 16:25:52 +0000"
     },
     {
-     "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
-     "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 12:49:57 +0000"
+     "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 16:25:43 +0000"
     },
     {
-     "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
-     "date": "Sun, 18 Oct 2026 12:44:26 +0000"
+     "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+     "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+     "date": "Sun, 18 Oct 2026 15:30:44 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+     "link": "https://www.nature.com/articles/d41586-026-03341-3",
+     "date": ""
+    },
+    {
+     "title": "The pianist who never played",
+     "link": "https://www.nature.com/articles/d41586-026-03112-0",
+     "date": ""
+    },
+    {
+     "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+     "link": "https://www.nature.com/articles/d41586-026-03308-4",
+     "date": ""
+    },
+    {
+     "title": "Memory stays strong in old age when this brain enzyme is active",
+     "link": "https://www.nature.com/articles/d41586-026-03303-9",
+     "date": ""
+    },
+    {
+     "title": "Unprecedented atlas explores mitochondria across the tree of life",
+     "link": "https://www.nature.com/articles/d41586-026-03195-9",
+     "date": ""
+    },
+    {
+     "title": "PhD students who write dissertation with AI less likely to stay in academia",
+     "link": "https://www.nature.com/articles/d41586-026-03253-2",
+     "date": ""
+    },
+    {
+     "title": "History’s long-secret codes are being cracked by amateurs using AI",
+     "link": "https://www.nature.com/articles/d41586-026-03338-y",
+     "date": ""
+    },
+    {
+     "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+     "link": "https://www.nature.com/articles/d41586-026-03178-w",
+     "date": ""
     }
    ]
   }
