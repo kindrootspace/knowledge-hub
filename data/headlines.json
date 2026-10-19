@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19 15:36 UTC",
+ "updated": "2026-10-19 21:03 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -17,12 +17,22 @@
     {
      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
      "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 13:01:50 GMT"
+     "date": "Mon, 19 Oct 2026 18:22:06 GMT"
     },
     {
-     "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-     "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 00:06:25 GMT"
+     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 20:49:00 GMT"
+    },
+    {
+     "title": "Mission blasts off for Mars to grab a piece of its moon",
+     "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 19:45:46 GMT"
+    },
+    {
+     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 17:18:04 GMT"
     },
     {
      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
@@ -30,19 +40,9 @@
      "date": "Mon, 19 Oct 2026 12:12:02 GMT"
     },
     {
-     "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-     "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 09:11:42 GMT"
-    },
-    {
-     "title": "Kenya pastor convicted of ordering parents to starve their children to death",
-     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 15:25:59 GMT"
-    },
-    {
-     "title": "Trial hears Robinson 'intimidated' Daily Mail reporters",
-     "link": "https://www.bbc.co.uk/news/articles/cry83jz19v26o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 13:42:45 GMT"
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 16:22:12 GMT"
     }
    ]
   },
@@ -52,7 +52,12 @@
     {
      "title": "Vinted blocks French looters listing stolen goods for sale",
      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 15:25:44 GMT"
+     "date": "Mon, 19 Oct 2026 16:46:35 GMT"
+    },
+    {
+     "title": "Bikes 'not for jousting,' says Lime after duel video",
+     "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 15:44:53 GMT"
     },
     {
      "title": "Home sellers cut asking prices on 3,000 properties a day",
@@ -83,17 +88,17 @@
      "title": "People playing loud music on buses could face £100 fine",
      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 19 Oct 2026 09:49:58 GMT"
-    },
-    {
-     "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-     "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 23:28:45 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+     "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+     "date": "Mon, 19 Oct 2026 16:08:14 GMT"
+    },
     {
      "title": "Drone attack near market kills 80 in Sudan",
      "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
@@ -113,11 +118,6 @@
      "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
      "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
      "date": "Sun, 18 Oct 2026 07:00:53 GMT"
-    },
-    {
-     "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-     "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-     "date": "Thu, 15 Oct 2026 08:00:25 GMT"
     },
     {
      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Man City’s Semenyo out for up to eight weeks due to knee injury",
-     "link": "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 15:07:19 +0000"
+     "title": "Kenya convicts cult leader over the murder of 190 children",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 20:31:21 +0000"
     },
     {
-     "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-     "link": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 15:05:16 +0000"
+     "title": "Trump signs order launching women’s health division at NIH, White House",
+     "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 20:29:46 +0000"
     },
     {
-     "title": "Who is cult leader Paul Mackenzie, accused of convincing followers to die?",
-     "link": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 14:54:24 +0000"
+     "title": "Finland seeking one million land mines as it eyes Russian threat",
+     "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 19:57:10 +0000"
     },
     {
-     "title": "Albania’s protests explained",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 14:46:53 +0000"
+     "title": "One killed in US shooting near mosque in Columbus, Ohio",
+     "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 19:50:20 +0000"
     },
     {
-     "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-     "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 14:43:03 +0000"
+     "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+     "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 19:48:53 +0000"
     },
     {
-     "title": "PSG vs Barcelona match will not be postponed despite protests: French PM",
-     "link": "https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 14:01:00 +0000"
+     "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 19:38:40 +0000"
     },
     {
-     "title": "Australian Member of Parliament critically injured after being hit by a car",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 13:49:32 +0000"
+     "title": "Indian court extends detention of ‘Cockroach’ leaders",
+     "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 19:09:22 +0000"
     },
     {
-     "title": "French protest violence: A ‘Christmas present’ for Le Pen’s far right?",
-     "link": "https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 13:41:23 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Light and mirrors move large quantum computers closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-03237-2",
-     "date": ""
-    },
-    {
-     "title": "How pregnancy reshapes the brain throughout life",
-     "link": "https://www.nature.com/articles/d41586-026-03312-8",
-     "date": ""
-    },
-    {
-     "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
-     "link": "https://www.nature.com/articles/d41586-026-03275-w",
-     "date": ""
-    },
-    {
-     "title": "‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts",
-     "link": "https://www.nature.com/articles/d41586-026-03315-5",
-     "date": ""
-    },
-    {
-     "title": "Three reasons why AI is not conscious and perhaps never will be",
-     "link": "https://www.nature.com/articles/d41586-026-03313-7",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
-     "link": "https://www.nature.com/articles/s41586-026-11290-0",
-     "date": ""
-    },
-    {
-     "title": "How to compare and strengthen research systems",
-     "link": "https://www.nature.com/articles/d41586-026-03309-3",
-     "date": ""
-    },
-    {
-     "title": "Lessons from Katrina: how to rebuild academia from the ground up",
-     "link": "https://www.nature.com/articles/d41586-026-02623-0",
-     "date": ""
+     "title": "Protesters block Louvre in support of French student movement",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 18:39:27 +0000"
     }
    ]
   }
