@@ -1,23 +1,18 @@
 {
- "updated": "2026-10-19 21:03 UTC",
+ "updated": "2026-10-20 00:20 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: Are the French riots a warning of an intense election to come?",
-     "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 13:43:27 GMT"
+     "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+     "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 21:14:53 GMT"
     },
     {
-     "title": "Australian MP critically injured after being hit by car in apparent attack",
-     "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 14:09:54 GMT"
-    },
-    {
-     "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-     "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 18:22:06 GMT"
+     "title": "Watch: Clean up begins after French riots but police remain",
+     "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 21:30:08 GMT"
     },
     {
      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
@@ -25,30 +20,55 @@
      "date": "Mon, 19 Oct 2026 20:49:00 GMT"
     },
     {
+     "title": "Criminals detained in hospital set to lose benefits",
+     "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 23:21:38 GMT"
+    },
+    {
+     "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 21:30:06 GMT"
+    },
+    {
+     "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+     "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 18:22:06 GMT"
+    },
+    {
      "title": "Mission blasts off for Mars to grab a piece of its moon",
      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 19 Oct 2026 19:45:46 GMT"
     },
     {
-     "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-     "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 17:18:04 GMT"
-    },
-    {
-     "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-     "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 12:12:02 GMT"
-    },
-    {
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 16:22:12 GMT"
+     "title": "US church on frontline of battle against drug known as 'tranq'",
+     "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 00:02:32 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 21:30:06 GMT"
+    },
+    {
+     "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+     "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 23:00:21 GMT"
+    },
+    {
+     "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+     "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 18:21:54 GMT"
+    },
+    {
+     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 21:12:30 GMT"
+    },
     {
      "title": "Vinted blocks French looters listing stolen goods for sale",
      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
@@ -68,32 +88,17 @@
      "title": "Musk and Anthropic pledge public share giveaways",
      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 19 Oct 2026 09:38:25 GMT"
-    },
-    {
-     "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-     "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 12:16:32 GMT"
-    },
-    {
-     "title": "Don't fall for this - how to protect yourself from AI scams",
-     "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 18 Oct 2026 23:24:59 GMT"
-    },
-    {
-     "title": "China's growth accelerates as AI boom helps boost exports",
-     "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 06:08:02 GMT"
-    },
-    {
-     "title": "People playing loud music on buses could face £100 fine",
-     "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 09:49:58 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+     "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+     "date": "Mon, 19 Oct 2026 22:34:43 GMT"
+    },
     {
      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
      "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
@@ -113,11 +118,6 @@
      "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
      "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
      "date": "Sun, 18 Oct 2026 09:00:55 GMT"
-    },
-    {
-     "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-     "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-     "date": "Sun, 18 Oct 2026 07:00:53 GMT"
     },
     {
      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+     "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+     "date": "Mon, 19 Oct 2026 17:56:37 -0400"
+    },
+    {
+     "title": "Schools struggle to measure how much AI experiments are helping",
+     "link": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+     "date": "Mon, 19 Oct 2026 16:59:57 -0400"
+    },
+    {
      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
      "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
      "date": "Mon, 19 Oct 2026 07:38:43 -0400"
@@ -150,13 +160,13 @@
      "date": "Mon, 19 Oct 2026 07:15:43 -0400"
     },
     {
-     "title": "The real reason it's going to take a while to know who won in some midterm races",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+     "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+     "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
      "date": "Mon, 19 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+     "title": "The real reason it's going to take a while to know who won in some midterm races",
+     "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
      "date": "Mon, 19 Oct 2026 05:00:00 -0400"
     },
     {
@@ -168,16 +178,6 @@
      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
      "link": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
      "date": "Mon, 19 Oct 2026 04:46:18 -0400"
-    },
-    {
-     "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
-     "date": "Mon, 19 Oct 2026 04:45:58 -0400"
-    },
-    {
-     "title": "Alberta voters weigh future in Canada",
-     "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
-     "date": "Mon, 19 Oct 2026 04:45:01 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Kenya convicts cult leader over the murder of 190 children",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 20:31:21 +0000"
+     "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+     "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 00:08:01 +0000"
     },
     {
-     "title": "Trump signs order launching women’s health division at NIH, White House",
-     "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 20:29:46 +0000"
+     "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 00:00:00 +0000"
     },
     {
-     "title": "Finland seeking one million land mines as it eyes Russian threat",
-     "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 19:57:10 +0000"
+     "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+     "link": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 23:56:32 +0000"
     },
     {
-     "title": "One killed in US shooting near mosque in Columbus, Ohio",
-     "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 19:50:20 +0000"
+     "title": "Colombia illegal gold mine collapse kills 14 people",
+     "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 23:56:17 +0000"
     },
     {
-     "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-     "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 19:48:53 +0000"
+     "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+     "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 23:16:01 +0000"
     },
     {
-     "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 19:38:40 +0000"
+     "title": "Children among six killed in Russian drone strike on Ukraine park",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 23:12:42 +0000"
     },
     {
-     "title": "Indian court extends detention of ‘Cockroach’ leaders",
-     "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 19:09:22 +0000"
+     "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 22:37:19 +0000"
     },
     {
-     "title": "Protesters block Louvre in support of French student movement",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
-     "date": "Mon, 19 Oct 2026 18:39:27 +0000"
+     "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+     "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+     "date": "Mon, 19 Oct 2026 21:46:00 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Toxic chemicals in fentanyl revealed by speedy technique",
+     "link": "https://www.nature.com/articles/d41586-026-03317-3",
+     "date": ""
+    },
+    {
+     "title": "Light and mirrors move large quantum computers closer to reality",
+     "link": "https://www.nature.com/articles/d41586-026-03237-2",
+     "date": ""
+    },
+    {
+     "title": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
+     "link": "https://www.nature.com/articles/d41586-026-03228-3",
+     "date": ""
+    },
+    {
+     "title": "US government probe into postdoc visas worries scientists",
+     "link": "https://www.nature.com/articles/d41586-026-03345-z",
+     "date": ""
+    },
+    {
+     "title": "Microdosing LSD shows some cognitive benefits — but only for women",
+     "link": "https://www.nature.com/articles/d41586-026-03265-y",
+     "date": ""
+    },
+    {
+     "title": "How pregnancy reshapes the brain throughout life",
+     "link": "https://www.nature.com/articles/d41586-026-03312-8",
+     "date": ""
+    },
+    {
+     "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
+     "link": "https://www.nature.com/articles/d41586-026-03275-w",
+     "date": ""
+    },
+    {
+     "title": "‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts",
+     "link": "https://www.nature.com/articles/d41586-026-03315-5",
+     "date": ""
     }
    ]
   }
