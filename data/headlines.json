@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 20:35 UTC",
+ "updated": "2026-10-20 23:53 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -12,32 +12,32 @@
     {
      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 20:01:04 GMT"
+     "date": "Tue, 20 Oct 2026 21:27:39 GMT"
+    },
+    {
+     "title": "UK government to make Jackdaw gas field announcement",
+     "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 17:33:42 GMT"
+    },
+    {
+     "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+     "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 22:29:24 GMT"
+    },
+    {
+     "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+     "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 21:10:38 GMT"
+    },
+    {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 23:24:47 GMT"
     },
     {
      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 15:32:36 GMT"
-    },
-    {
-     "title": "Google resolves cloud outage affecting UK banks and websites",
-     "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 18:03:19 GMT"
-    },
-    {
-     "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 13:10:43 GMT"
-    },
-    {
-     "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
-     "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 20:12:39 GMT"
-    },
-    {
-     "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 11:45:49 GMT"
     },
     {
      "title": "Schools should recognise antisemitism as distinct form of harm, review says",
@@ -49,6 +49,11 @@
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Elon Musk says Tesla-SpaceX merger being considered",
+     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 23:24:47 GMT"
+    },
     {
      "title": "Google resolves cloud outage affecting UK banks and websites",
      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
@@ -65,6 +70,16 @@
      "date": "Tue, 20 Oct 2026 19:30:05 GMT"
     },
     {
+     "title": "Audit regulator looking into Manchester City accounting",
+     "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 20:56:53 GMT"
+    },
+    {
+     "title": "The tech helping crack decades-old cold cases",
+     "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 23:13:24 GMT"
+    },
+    {
      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 15:53:13 GMT"
@@ -73,21 +88,6 @@
      "title": "Union attacks NatWest plans to get workers back to the office",
      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 14:50:19 GMT"
-    },
-    {
-     "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-     "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 19:42:32 GMT"
-    },
-    {
-     "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-     "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 10:06:34 GMT"
-    },
-    {
-     "title": "Jobless rate falls but small firms cut back hiring",
-     "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 11:26:48 GMT"
     }
    ]
   },
@@ -160,11 +160,6 @@
      "date": "Tue, 20 Oct 2026 06:30:00 -0400"
     },
     {
-     "title": "Can the new federal voucher program help public schools? Democrats are torn",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
-     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
-    },
-    {
      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
      "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
      "date": "Tue, 20 Oct 2026 05:00:00 -0400"
@@ -172,6 +167,11 @@
     {
      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
      "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Can the new federal voucher program help public schools? Democrats are torn",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
      "date": "Tue, 20 Oct 2026 05:00:00 -0400"
     },
     {
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-     "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 20:05:39 +0000"
+     "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 23:19:52 +0000"
     },
     {
-     "title": "Is money ruining US elections?",
-     "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 19:59:46 +0000"
+     "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+     "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 22:51:35 +0000"
     },
     {
-     "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
-     "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 19:55:37 +0000"
+     "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+     "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 22:20:13 +0000"
     },
     {
-     "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 19:51:09 +0000"
+     "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+     "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 21:27:38 +0000"
     },
     {
-     "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
-     "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 19:29:39 +0000"
+     "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+     "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 21:24:06 +0000"
     },
     {
-     "title": "The political ads that don’t look like ads",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 19:05:53 +0000"
+     "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+     "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 21:19:12 +0000"
     },
     {
-     "title": "UK to deploy fighter jets to defend Saudi Arabia",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 18:55:52 +0000"
+     "title": "Why do the US midterms matter for Trump and Congress?",
+     "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 21:00:42 +0000"
     },
     {
-     "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
-     "link": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 18:53:51 +0000"
+     "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 20:49:00 +0000"
     }
    ]
   },
