@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 06:01 UTC",
+ "updated": "2026-10-20 11:37 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,17 @@
     {
      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 01:31:09 GMT"
+     "date": "Tue, 20 Oct 2026 10:06:34 GMT"
+    },
+    {
+     "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+     "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 11:23:01 GMT"
+    },
+    {
+     "title": "How the attack on an Australian MP unfolded",
+     "link": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 06:02:05 GMT"
     },
     {
      "title": "We asked teens what schools should teach them about work. This is what they said",
@@ -15,34 +25,24 @@
      "date": "Tue, 20 Oct 2026 05:00:14 GMT"
     },
     {
-     "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-     "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 21:14:53 GMT"
+     "title": "Storm Austen to bring severe gales to UK as weather warning issued",
+     "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 09:42:56 GMT"
     },
     {
-     "title": "Watch: Clean up begins after French riots but police remain",
-     "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 21:30:08 GMT"
+     "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
+     "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 10:55:40 GMT"
     },
     {
-     "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-     "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 21:30:06 GMT"
-    },
-    {
-     "title": "US church on frontline of battle against drug known as 'tranq'",
-     "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 00:02:32 GMT"
+     "title": "Three children injured after school bus roof ripped off in crash",
+     "link": "https://www.bbc.co.uk/news/articles/c6qxnzzgv8e7o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 10:55:49 GMT"
     },
     {
      "title": "Criminals detained in hospital set to lose benefits",
      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 23:21:38 GMT"
-    },
-    {
-     "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 20:49:00 GMT"
+     "date": "Tue, 20 Oct 2026 07:35:38 GMT"
     }
    ]
   },
@@ -50,19 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Jobless rate falls but small firms cut back hiring",
+     "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 11:26:48 GMT"
+    },
+    {
      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 01:31:09 GMT"
+     "date": "Tue, 20 Oct 2026 10:06:34 GMT"
     },
     {
      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 21:30:06 GMT"
+     "date": "Tue, 20 Oct 2026 08:55:02 GMT"
     },
     {
-     "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+     "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 23:00:21 GMT"
+     "date": "Tue, 20 Oct 2026 10:28:36 GMT"
     },
     {
      "title": "How is the US economy really doing under President Trump?",
@@ -70,24 +75,19 @@
      "date": "Tue, 20 Oct 2026 05:00:45 GMT"
     },
     {
-     "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-     "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 18:21:54 GMT"
-    },
-    {
      "title": "Vinted blocks French looters listing stolen goods for sale",
      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 19 Oct 2026 16:46:35 GMT"
     },
     {
-     "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-     "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 21:12:30 GMT"
+     "title": "What is the Budget and what could be in it?",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 08:31:36 GMT"
     },
     {
-     "title": "Bikes 'not for jousting,' says Lime after duel video",
-     "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 19 Oct 2026 15:44:53 GMT"
+     "title": "US bans China's DeepSeek from government in race for AI dominance",
+     "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 19 Oct 2026 18:21:54 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Sun, 18 Oct 2026 09:00:55 GMT"
     },
     {
+     "title": "Alberta voters reject plan for referendum to leave Canada",
+     "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+     "date": "Tue, 20 Oct 2026 09:02:43 GMT"
+    },
+    {
      "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
      "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
      "date": "Mon, 19 Oct 2026 10:07:09 GMT"
@@ -128,11 +133,6 @@
      "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
      "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
      "date": "Mon, 19 Oct 2026 05:00:22 GMT"
-    },
-    {
-     "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-     "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-     "date": "Sun, 18 Oct 2026 23:53:13 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "DOJ charges 28 in California with voting crimes as election tensions escalate",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
-     "date": "Mon, 19 Oct 2026 18:10:06 -0400"
+     "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+     "link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+     "date": "Tue, 20 Oct 2026 07:04:49 -0400"
     },
     {
-     "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
-     "date": "Mon, 19 Oct 2026 17:56:37 -0400"
+     "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+     "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+     "date": "Tue, 20 Oct 2026 06:30:00 -0400"
     },
     {
-     "title": "Schools struggle to measure how much AI experiments are helping",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
-     "date": "Mon, 19 Oct 2026 16:59:57 -0400"
+     "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-     "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-     "date": "Mon, 19 Oct 2026 07:38:43 -0400"
+     "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-     "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-     "date": "Mon, 19 Oct 2026 07:15:43 -0400"
-    },
-    {
-     "title": "The real reason it's going to take a while to know who won in some midterm races",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-     "date": "Mon, 19 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-     "date": "Mon, 19 Oct 2026 05:00:00 -0400"
+     "title": "Can the new federal voucher program help public schools? Democrats are torn",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
     },
     {
      "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
-     "date": "Mon, 19 Oct 2026 04:46:44 -0400"
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
+     "date": "Tue, 20 Oct 2026 04:50:27 -0400"
+    },
+    {
+     "title": "Rays will face Brewers in World Series to produce a first-time champion",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+     "date": "Tue, 20 Oct 2026 02:28:10 -0400"
+    },
+    {
+     "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+     "date": "Tue, 20 Oct 2026 02:02:40 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Israel’s elections 2026 explained in maps and charts",
-     "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 05:25:31 +0000"
+     "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+     "link": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 11:07:55 +0000"
     },
     {
-     "title": "US Supreme Court to hear case on race in school admissions",
-     "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 04:38:07 +0000"
+     "title": "Masoud Pezeshkian: Peace, Not Surrender",
+     "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 11:02:31 +0000"
     },
     {
-     "title": "Japan launches historic mission to bring back Mars moon samples",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 04:08:33 +0000"
+     "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+     "link": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 10:53:01 +0000"
     },
     {
-     "title": "Fourteen dead in illegal Colombian gold mine collapse",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 03:55:27 +0000"
+     "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+     "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 10:36:57 +0000"
     },
     {
-     "title": "‘Deliberate’ car ramming of Australian MP an isolated incident, police say",
-     "link": "https://www.aljazeera.com/news/2026/10/20/deliberate-car-ramming-of-australian-mp-an-isolated-incident-police-say?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 03:24:18 +0000"
+     "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+     "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 10:24:28 +0000"
     },
     {
-     "title": "Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals",
-     "link": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 03:13:52 +0000"
+     "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+     "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 10:13:19 +0000"
     },
     {
-     "title": "PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams",
-     "link": "https://www.aljazeera.com/sports/2026/10/20/psg-vs-barcelona-uefa-champions-league-yamal-torres-predictions?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 02:52:50 +0000"
+     "title": "Albertans reject referendum on independence from Canada",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 09:42:04 +0000"
     },
     {
-     "title": "Man claims arm broken in violent ICE arrest",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/man-claims-arm-broken-in-violent-ice-arrest?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 02:41:05 +0000"
+     "title": "South Korea to pull more embassy staff from Ukraine after POW row",
+     "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
+     "date": "Tue, 20 Oct 2026 09:26:02 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
-     "title": "Toxic chemicals in fentanyl revealed by speedy technique",
-     "link": "https://www.nature.com/articles/d41586-026-03317-3",
+     "title": "Bundle water safeguards into critical-mineral licences",
+     "link": "https://www.nature.com/articles/d41586-026-03353-z",
      "date": ""
     },
     {
-     "title": "Light and mirrors move large quantum computers closer to reality",
-     "link": "https://www.nature.com/articles/d41586-026-03237-2",
+     "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+     "link": "https://www.nature.com/articles/d41586-026-03351-1",
      "date": ""
     },
     {
-     "title": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
-     "link": "https://www.nature.com/articles/d41586-026-03228-3",
+     "title": "Conservation planning should follow animal clocks",
+     "link": "https://www.nature.com/articles/d41586-026-03354-y",
      "date": ""
     },
     {
-     "title": "US government probe into postdoc visas worries scientists",
-     "link": "https://www.nature.com/articles/d41586-026-03345-z",
+     "title": "Europe and the rest of the world must come up with an answer to US science strategy",
+     "link": "https://www.nature.com/articles/d41586-026-03352-0",
      "date": ""
     },
     {
-     "title": "Microdosing LSD shows some cognitive benefits — but only for women",
-     "link": "https://www.nature.com/articles/d41586-026-03265-y",
+     "title": "Butterfly wing patterns make motion hard to read",
+     "link": "https://www.nature.com/articles/d41586-026-03062-7",
      "date": ""
     },
     {
-     "title": "How pregnancy reshapes the brain throughout life",
-     "link": "https://www.nature.com/articles/d41586-026-03312-8",
+     "title": "Will this sleep-disorder drug be the next big blockbuster?",
+     "link": "https://www.nature.com/articles/d41586-026-03310-w",
      "date": ""
     },
     {
-     "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
-     "link": "https://www.nature.com/articles/d41586-026-03275-w",
+     "title": "China picks first researchers for 15-year mega grants",
+     "link": "https://www.nature.com/articles/d41586-026-03151-7",
      "date": ""
     },
     {
-     "title": "‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts",
-     "link": "https://www.nature.com/articles/d41586-026-03315-5",
+     "title": "Nepal’s disaster is an urgent wake-up call",
+     "link": "https://www.nature.com/articles/d41586-026-03314-6",
      "date": ""
     }
    ]
