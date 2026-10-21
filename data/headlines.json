@@ -1,23 +1,33 @@
 {
- "updated": "2026-10-21 10:09 UTC",
+ "updated": "2026-10-21 15:15 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
-     "link": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 08:49:44 GMT"
+     "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+     "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 14:26:24 GMT"
     },
     {
-     "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+     "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 09:22:23 GMT"
+     "date": "Wed, 21 Oct 2026 13:49:50 GMT"
     },
     {
-     "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-     "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 09:45:31 GMT"
+     "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+     "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 15:06:58 GMT"
+    },
+    {
+     "title": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+     "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 11:21:58 GMT"
+    },
+    {
+     "title": "Websites taken down across Europe as critical cyber-security update issued",
+     "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 15:11:11 GMT"
     },
     {
      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
@@ -25,24 +35,14 @@
      "date": "Wed, 21 Oct 2026 05:00:35 GMT"
     },
     {
-     "title": "Watch: Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-     "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 05:00:54 GMT"
+     "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+     "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 12:03:52 GMT"
     },
     {
-     "title": "Australian MP loses both legs after alleged car attack, husband says",
-     "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 07:56:30 GMT"
-    },
-    {
-     "title": "Watch: Huge crowds watch attempt to save shark stranded in South Korean canal",
-     "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 08:19:32 GMT"
-    },
-    {
-     "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
-     "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 08:18:53 GMT"
+     "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+     "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 14:04:52 GMT"
     }
    ]
   },
@@ -52,12 +52,17 @@
     {
      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 10:03:41 GMT"
+     "date": "Wed, 21 Oct 2026 10:20:15 GMT"
     },
     {
      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 09:45:31 GMT"
+     "date": "Wed, 21 Oct 2026 10:16:17 GMT"
+    },
+    {
+     "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+     "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 14:04:52 GMT"
     },
     {
      "title": "What is happening to UK prices?",
@@ -65,35 +70,35 @@
      "date": "Wed, 21 Oct 2026 08:35:47 GMT"
     },
     {
-     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 08:42:49 GMT"
-    },
-    {
      "title": "The tech helping crack decades-old cold cases",
      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 23:13:24 GMT"
     },
     {
+     "title": "What is the Budget and what could be in it?",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 08:31:36 GMT"
+    },
+    {
+     "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 08:42:49 GMT"
+    },
+    {
      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 21 Oct 2026 06:36:39 GMT"
-    },
-    {
-     "title": "Google resolves cloud outage affecting UK banks and websites",
-     "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 18:03:19 GMT"
-    },
-    {
-     "title": "Trump sued over Canadian tariffs in latest legal challenge",
-     "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 19:30:05 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+     "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+     "date": "Wed, 21 Oct 2026 13:40:08 GMT"
+    },
     {
      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
      "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
@@ -113,11 +118,6 @@
      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
      "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
      "date": "Mon, 19 Oct 2026 16:08:14 GMT"
-    },
-    {
-     "title": "Drone attack near market kills 80 in Sudan",
-     "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-     "date": "Mon, 19 Oct 2026 14:45:53 GMT"
     },
     {
      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
@@ -140,13 +140,33 @@
    "name": "NPR",
    "items": [
     {
-     "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
-     "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
-     "date": "Wed, 21 Oct 2026 05:00:00 -0400"
+     "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+     "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+     "date": "Wed, 21 Oct 2026 09:28:04 -0400"
+    },
+    {
+     "title": "Trump leans into unprecedented power ahead of midterm elections",
+     "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+     "date": "Wed, 21 Oct 2026 08:09:41 -0400"
+    },
+    {
+     "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+     "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+     "date": "Wed, 21 Oct 2026 07:46:59 -0400"
+    },
+    {
+     "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+     "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+     "date": "Wed, 21 Oct 2026 06:20:50 -0400"
     },
     {
      "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
      "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
+     "date": "Wed, 21 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
+     "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
      "date": "Wed, 21 Oct 2026 05:00:00 -0400"
     },
     {
@@ -155,29 +175,9 @@
      "date": "Wed, 21 Oct 2026 04:42:59 -0400"
     },
     {
-     "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
-     "link": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
-     "date": "Wed, 21 Oct 2026 02:07:16 -0400"
-    },
-    {
-     "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
-     "link": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
-     "date": "Wed, 21 Oct 2026 02:05:18 -0400"
-    },
-    {
-     "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-     "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-     "date": "Wed, 21 Oct 2026 01:43:24 -0400"
-    },
-    {
-     "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
-     "link": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
-     "date": "Wed, 21 Oct 2026 01:37:28 -0400"
-    },
-    {
-     "title": "United Nations report highlights significant increase in U.S. climate pollution",
-     "link": "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions",
-     "date": "Wed, 21 Oct 2026 01:00:00 -0400"
+     "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+     "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+     "date": "Wed, 21 Oct 2026 04:42:10 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Attack on Australian MP Haines: How threats against legislators have soared",
-     "link": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 09:24:47 +0000"
+     "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+     "link": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 14:41:03 +0000"
     },
     {
-     "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-     "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 09:02:18 +0000"
+     "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 14:39:08 +0000"
     },
     {
-     "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-     "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 08:34:37 +0000"
+     "title": "Russia releases American Stephen Hubbard after four years in prison",
+     "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 14:31:53 +0000"
     },
     {
-     "title": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
-     "link": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 08:30:55 +0000"
+     "title": "US congressional candidate Brad Lander freed after West Bank detention",
+     "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 14:12:15 +0000"
     },
     {
-     "title": "Trump snaps at reporter, ordering him to be quiet",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 08:29:08 +0000"
+     "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+     "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 13:58:17 +0000"
     },
     {
-     "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-     "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 08:25:45 +0000"
+     "title": "How war in Lebanon has cost young people with autism and ADHD",
+     "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 13:32:57 +0000"
     },
     {
-     "title": "Bayern Munich vs Arsenal: Champions League – Predictions, Olise, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/10/21/bayern-munich-arsenal-champions-league-predictions-saka-kane-olise?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 08:15:00 +0000"
+     "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+     "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 13:25:50 +0000"
     },
     {
-     "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
-     "date": "Wed, 21 Oct 2026 08:05:28 +0000"
+     "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
+     "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 13:20:27 +0000"
     }
    ]
   },
@@ -230,8 +230,18 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
+     "link": "https://www.nature.com/articles/s41586-026-11252-6",
+     "date": ""
+    },
+    {
      "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
      "link": "https://www.nature.com/articles/d41586-026-03355-x",
+     "date": ""
+    },
+    {
+     "title": "The Bursar",
+     "link": "https://www.nature.com/articles/d41586-026-03110-2",
      "date": ""
     },
     {
@@ -257,16 +267,6 @@
     {
      "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
      "link": "https://www.nature.com/articles/d41586-026-03351-1",
-     "date": ""
-    },
-    {
-     "title": "Conservation planning should follow animal clocks",
-     "link": "https://www.nature.com/articles/d41586-026-03354-y",
-     "date": ""
-    },
-    {
-     "title": "Europe and the rest of the world must come up with an answer to US science strategy",
-     "link": "https://www.nature.com/articles/d41586-026-03352-0",
      "date": ""
     }
    ]
