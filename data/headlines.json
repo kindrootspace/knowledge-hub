@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20 23:53 UTC",
+ "updated": "2026-10-21 04:49 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,14 +10,14 @@
      "date": "Tue, 20 Oct 2026 18:32:14 GMT"
     },
     {
-     "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+     "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 21:27:39 GMT"
+     "date": "Wed, 21 Oct 2026 03:59:18 GMT"
     },
     {
-     "title": "UK government to make Jackdaw gas field announcement",
+     "title": "UK government expected to approve Jackdaw gas field",
      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 17:33:42 GMT"
+     "date": "Wed, 21 Oct 2026 04:41:04 GMT"
     },
     {
      "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
@@ -27,22 +27,22 @@
     {
      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
      "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 21:10:38 GMT"
+     "date": "Wed, 21 Oct 2026 01:28:16 GMT"
     },
     {
-     "title": "Elon Musk says Tesla-SpaceX merger being considered",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 23:24:47 GMT"
+     "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+     "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 04:13:14 GMT"
     },
     {
-     "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-     "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 15:32:36 GMT"
+     "title": "What happened inside court for man charged with Australian MP attack",
+     "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 03:58:16 GMT"
     },
     {
-     "title": "Schools should recognise antisemitism as distinct form of harm, review says",
-     "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 18:52:32 GMT"
+     "title": "France is divided over who to blame for weekend riots and what to learn from them",
+     "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 01:22:51 GMT"
     }
    ]
   },
@@ -55,14 +55,19 @@
      "date": "Tue, 20 Oct 2026 23:24:47 GMT"
     },
     {
+     "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+     "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 04:13:14 GMT"
+    },
+    {
      "title": "Google resolves cloud outage affecting UK banks and websites",
      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 18:03:19 GMT"
     },
     {
-     "title": "UK government to make Jackdaw gas field announcement",
+     "title": "UK government expected to approve Jackdaw gas field",
      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 17:33:42 GMT"
+     "date": "Wed, 21 Oct 2026 04:41:04 GMT"
     },
     {
      "title": "Trump sued over Canadian tariffs in latest legal challenge",
@@ -70,30 +75,30 @@
      "date": "Tue, 20 Oct 2026 19:30:05 GMT"
     },
     {
-     "title": "Audit regulator looking into Manchester City accounting",
-     "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 20:56:53 GMT"
-    },
-    {
      "title": "The tech helping crack decades-old cold cases",
      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 23:13:24 GMT"
     },
     {
+     "title": "Audit regulator looking into Manchester City accounting",
+     "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 20 Oct 2026 20:56:53 GMT"
+    },
+    {
      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 20 Oct 2026 15:53:13 GMT"
-    },
-    {
-     "title": "Union attacks NatWest plans to get workers back to the office",
-     "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 20 Oct 2026 14:50:19 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+     "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+     "date": "Wed, 21 Oct 2026 00:14:55 GMT"
+    },
     {
      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
@@ -113,11 +118,6 @@
      "title": "Drone attack near market kills 80 in Sudan",
      "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
      "date": "Mon, 19 Oct 2026 14:45:53 GMT"
-    },
-    {
-     "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-     "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-     "date": "Mon, 19 Oct 2026 14:11:08 GMT"
     },
     {
      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+     "date": "Tue, 20 Oct 2026 22:15:50 -0400"
+    },
+    {
      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
      "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
      "date": "Tue, 20 Oct 2026 16:19:16 -0400"
@@ -160,11 +165,6 @@
      "date": "Tue, 20 Oct 2026 06:30:00 -0400"
     },
     {
-     "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
-    },
-    {
      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
      "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
      "date": "Tue, 20 Oct 2026 05:00:00 -0400"
@@ -175,9 +175,9 @@
      "date": "Tue, 20 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
-     "date": "Tue, 20 Oct 2026 04:50:27 -0400"
+     "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+     "date": "Tue, 20 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-     "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 23:19:52 +0000"
+     "title": "Italy approves sweeping security measures in response to protests",
+     "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 04:13:00 +0000"
     },
     {
-     "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
-     "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 22:51:35 +0000"
+     "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+     "link": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 03:51:39 +0000"
     },
     {
-     "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
-     "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 22:20:13 +0000"
+     "title": "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
+     "link": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 03:02:29 +0000"
     },
     {
-     "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-     "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 21:27:38 +0000"
+     "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+     "link": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 02:19:06 +0000"
     },
     {
-     "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-     "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 21:24:06 +0000"
+     "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 02:18:10 +0000"
     },
     {
-     "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-     "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 21:19:12 +0000"
+     "title": "UN experts call on India to stop using ‘excessive force’ against protesters",
+     "link": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 01:43:38 +0000"
     },
     {
-     "title": "Why do the US midterms matter for Trump and Congress?",
-     "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 21:00:42 +0000"
+     "title": "Musk confirms SpaceX and Tesla exploring merger",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 01:19:22 +0000"
     },
     {
-     "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
-     "date": "Tue, 20 Oct 2026 20:49:00 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Is it ‘moon-stroke’, or a chill?",
-     "link": "https://www.nature.com/articles/d41586-026-02975-7",
-     "date": ""
-    },
-    {
-     "title": "Bundle water safeguards into critical-mineral licences",
-     "link": "https://www.nature.com/articles/d41586-026-03353-z",
-     "date": ""
-    },
-    {
-     "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
-     "link": "https://www.nature.com/articles/d41586-026-03351-1",
-     "date": ""
-    },
-    {
-     "title": "Conservation planning should follow animal clocks",
-     "link": "https://www.nature.com/articles/d41586-026-03354-y",
-     "date": ""
-    },
-    {
-     "title": "Europe and the rest of the world must come up with an answer to US science strategy",
-     "link": "https://www.nature.com/articles/d41586-026-03352-0",
-     "date": ""
-    },
-    {
-     "title": "Butterfly wing patterns make motion hard to read",
-     "link": "https://www.nature.com/articles/d41586-026-03062-7",
-     "date": ""
-    },
-    {
-     "title": "Nature’s job-satisfaction survey highlights the changing geography of science",
-     "link": "https://www.nature.com/articles/d41586-026-03327-1",
-     "date": ""
-    },
-    {
-     "title": "Will this sleep-disorder drug be the next big blockbuster?",
-     "link": "https://www.nature.com/articles/d41586-026-03310-w",
-     "date": ""
+     "title": "US jails Guatemalan man for 30 years over deadly smuggling operation",
+     "link": "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss",
+     "date": "Wed, 21 Oct 2026 01:01:25 +0000"
     }
    ]
   }
