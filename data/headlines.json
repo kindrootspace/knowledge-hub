@@ -1,54 +1,64 @@
 {
- "updated": "2026-10-22 15:17 UTC",
+ "updated": "2026-10-22 20:07 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+     "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 17:46:58 GMT"
+    },
+    {
+     "title": "Race to update services' computer systems after cyber-security flaw found",
+     "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 17:12:51 GMT"
+    },
     {
      "title": "AI discovered a massive cyber-security flaw - here's what happened",
      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 12:17:44 GMT"
     },
     {
-     "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 14:28:59 GMT"
+     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+     "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 17:14:04 GMT"
     },
     {
      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
      "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 12:34:36 GMT"
+     "date": "Thu, 22 Oct 2026 16:45:09 GMT"
     },
     {
-     "title": "Moment man rescued from sinking car by Australian TV reporter",
-     "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 11:08:33 GMT"
+     "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 15:56:36 GMT"
+    },
+    {
+     "title": "Woman charged after police officer injured in shooting",
+     "link": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 19:52:40 GMT"
     },
     {
      "title": "Two storms in two days as Austen and Boelo head for UK",
      "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 10:34:17 GMT"
-    },
-    {
-     "title": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
-     "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 13:31:04 GMT"
-    },
-    {
-     "title": "French weekend protests to be limited to union demos only, says Macron",
-     "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 13:02:14 GMT"
-    },
-    {
-     "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
-     "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 06:41:29 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 18:26:56 GMT"
+    },
+    {
+     "title": "'I wasn't thinking straight' says five jobs civil servant",
+     "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 15:05:47 GMT"
+    },
     {
      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
@@ -65,14 +75,9 @@
      "date": "Wed, 21 Oct 2026 23:27:05 GMT"
     },
     {
-     "title": "Is an 'AI war' complicating your job search?",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 05:01:31 GMT"
-    },
-    {
-     "title": "Websites taken down worldwide as critical cyber-security update issued",
-     "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 19:54:57 GMT"
+     "title": "What is PHP and why did it spark a global cyber-security scramble?",
+     "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 11:15:58 GMT"
     },
     {
      "title": "No order, no seat: Starbucks China rolls out new store policy",
@@ -80,14 +85,9 @@
      "date": "Thu, 22 Oct 2026 04:02:29 GMT"
     },
     {
-     "title": "What is PHP and why did it spark a global cyber-security scramble?",
-     "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 11:15:58 GMT"
-    },
-    {
-     "title": "The grads ditching the UK for a fresh start abroad",
-     "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 23:12:06 GMT"
+     "title": "Websites taken down worldwide as critical cyber-security update issued",
+     "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 21 Oct 2026 19:54:57 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Mon, 19 Oct 2026 22:34:43 GMT"
     },
     {
+     "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+     "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+     "date": "Thu, 22 Oct 2026 15:00:29 GMT"
+    },
+    {
      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
      "date": "Tue, 20 Oct 2026 16:24:05 GMT"
@@ -128,17 +133,17 @@
      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
      "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
      "date": "Tue, 20 Oct 2026 16:11:21 GMT"
-    },
-    {
-     "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
-     "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
-     "date": "Tue, 20 Oct 2026 15:41:44 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+     "link": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+     "date": "Thu, 22 Oct 2026 15:16:20 -0400"
+    },
     {
      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
@@ -150,7 +155,7 @@
      "date": "Thu, 22 Oct 2026 07:28:24 -0400"
     },
     {
-     "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+     "title": "Achy from sitting at a desk all day? Try doing this",
      "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
      "date": "Thu, 22 Oct 2026 05:01:00 -0400"
     },
@@ -173,11 +178,6 @@
      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
      "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
      "date": "Thu, 22 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "See how Big Tech is transforming Spain's landscape",
-     "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-     "date": "Thu, 22 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,75 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Carney and Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-     "link": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 15:00:37 +0000"
+     "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 19:35:18 +0000"
     },
     {
-     "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
-     "link": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 14:55:59 +0000"
+     "title": "White evangelical support for Trump slips but still strong as midterms near",
+     "link": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 19:31:47 +0000"
     },
     {
-     "title": "Germany arrests Ukrainian man accused of spying for Russia",
-     "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 14:36:06 +0000"
+     "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+     "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 19:31:27 +0000"
     },
     {
-     "title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
-     "link": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 14:34:46 +0000"
+     "title": "Time just changed forever",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 19:00:07 +0000"
     },
     {
-     "title": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session",
-     "link": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 14:31:28 +0000"
+     "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+     "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 18:17:29 +0000"
     },
     {
-     "title": "India resist New Zealand fightback to win record-setting T20 cricket opener",
-     "link": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 14:09:56 +0000"
+     "title": "Trump says NBA star LeBron James disrespected US national anthem",
+     "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 18:05:52 +0000"
     },
     {
-     "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 13:42:26 +0000"
+     "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+     "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 17:58:04 +0000"
     },
     {
-     "title": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
-     "link": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 13:35:31 +0000"
+     "title": "US-sanctioned ICC wins top EU human rights award",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 17:46:03 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Can a 'lullaby' save coral reefs from extinction?",
+     "link": "https://www.nature.com/articles/d41586-026-03414-3",
+     "date": ""
+    },
+    {
+     "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+     "link": "https://www.nature.com/articles/d41586-026-03371-x",
+     "date": ""
+    },
+    {
+     "title": "Teen depression and anxiety predicted by childhood brain development",
+     "link": "https://www.nature.com/articles/d41586-026-03357-9",
+     "date": ""
+    },
+    {
+     "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+     "link": "https://www.nature.com/articles/d41586-026-03389-1",
+     "date": ""
+    },
+    {
+     "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
+     "link": "https://www.nature.com/articles/s41586-026-11312-x",
+     "date": ""
+    },
     {
      "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
      "link": "https://www.nature.com/articles/s41586-026-11317-6",
@@ -242,31 +267,6 @@
     {
      "title": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
      "link": "https://www.nature.com/articles/s41586-026-11252-6",
-     "date": ""
-    },
-    {
-     "title": "Surprise! White dwarf stars come in a rainbow of colours",
-     "link": "https://www.nature.com/articles/d41586-026-03319-1",
-     "date": ""
-    },
-    {
-     "title": "To heal sick cities, scientists and residents must work together",
-     "link": "https://www.nature.com/articles/d41586-026-03161-5",
-     "date": ""
-    },
-    {
-     "title": "An AI tool improves weather forecasts up to a month ahead",
-     "link": "https://www.nature.com/articles/d41586-026-03077-0",
-     "date": ""
-    },
-    {
-     "title": "Teen depression and anxiety predicted by childhood brain development",
-     "link": "https://www.nature.com/articles/d41586-026-03357-9",
-     "date": ""
-    },
-    {
-     "title": "Using AI to offer personalized health advice",
-     "link": "https://www.nature.com/articles/d41586-026-03065-4",
      "date": ""
     }
    ]
