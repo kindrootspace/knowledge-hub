@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 20:07 UTC",
+ "updated": "2026-10-22 23:22 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,7 +7,7 @@
     {
      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
      "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 17:46:58 GMT"
+     "date": "Thu, 22 Oct 2026 21:29:44 GMT"
     },
     {
      "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -15,9 +15,19 @@
      "date": "Thu, 22 Oct 2026 17:12:51 GMT"
     },
     {
-     "title": "AI discovered a massive cyber-security flaw - here's what happened",
-     "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 12:17:44 GMT"
+     "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+     "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 21:42:39 GMT"
+    },
+    {
+     "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+     "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 22:33:52 GMT"
+    },
+    {
+     "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 22:48:44 GMT"
     },
     {
      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
@@ -30,19 +40,9 @@
      "date": "Thu, 22 Oct 2026 16:45:09 GMT"
     },
     {
-     "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-     "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 15:56:36 GMT"
-    },
-    {
-     "title": "Woman charged after police officer injured in shooting",
-     "link": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 19:52:40 GMT"
-    },
-    {
-     "title": "Two storms in two days as Austen and Boelo head for UK",
-     "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 10:34:17 GMT"
+     "title": "Prince William makes surprise appearance on Graham Norton Show",
+     "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 21:21:22 GMT"
     }
    ]
   },
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+     "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+     "date": "Thu, 22 Oct 2026 21:53:28 GMT"
+    },
+    {
      "title": "Controversial US-backed vaccine trial in African newborns halted",
      "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
      "date": "Wed, 21 Oct 2026 17:18:56 GMT"
@@ -113,11 +118,6 @@
      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
      "date": "Tue, 20 Oct 2026 19:18:03 GMT"
-    },
-    {
-     "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-     "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
-     "date": "Mon, 19 Oct 2026 22:34:43 GMT"
     },
     {
      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+     "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+     "date": "Thu, 22 Oct 2026 16:12:52 -0400"
+    },
     {
      "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
      "link": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
@@ -173,11 +178,6 @@
      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
      "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
      "date": "Thu, 22 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-     "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
-     "date": "Thu, 22 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 19:35:18 +0000"
+     "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+     "link": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 22:52:35 +0000"
     },
     {
-     "title": "White evangelical support for Trump slips but still strong as midterms near",
-     "link": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 19:31:47 +0000"
+     "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+     "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 22:25:14 +0000"
     },
     {
-     "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-     "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 19:31:27 +0000"
+     "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+     "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 22:09:38 +0000"
     },
     {
-     "title": "Time just changed forever",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 19:00:07 +0000"
+     "title": "US judge blocks federal operations seeking to identify non-citizen voters",
+     "link": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 21:52:52 +0000"
     },
     {
-     "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-     "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 18:17:29 +0000"
+     "title": "Michigan voters closely divided between Rogers and El-Sayed",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 21:51:50 +0000"
     },
     {
-     "title": "Trump says NBA star LeBron James disrespected US national anthem",
-     "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 18:05:52 +0000"
+     "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
+     "link": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 21:51:41 +0000"
     },
     {
-     "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-     "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 17:58:04 +0000"
+     "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+     "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 21:23:01 +0000"
     },
     {
-     "title": "US-sanctioned ICC wins top EU human rights award",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 17:46:03 +0000"
+     "title": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+     "link": "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss",
+     "date": "Thu, 22 Oct 2026 21:20:32 +0000"
     }
    ]
   },
