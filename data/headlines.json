@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 23:22 UTC",
+ "updated": "2026-10-23 04:50 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -22,7 +22,17 @@
     {
      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
      "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 22:33:52 GMT"
+     "date": "Fri, 23 Oct 2026 00:14:08 GMT"
+    },
+    {
+     "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+     "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 23:16:16 GMT"
+    },
+    {
+     "title": "Amber warning in place as Storm Austen hits parts of UK",
+     "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 00:08:43 GMT"
     },
     {
      "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
@@ -32,17 +42,7 @@
     {
      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 17:14:04 GMT"
-    },
-    {
-     "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
-     "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 16:45:09 GMT"
-    },
-    {
-     "title": "Prince William makes surprise appearance on Graham Norton Show",
-     "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 21:21:22 GMT"
+     "date": "Fri, 23 Oct 2026 01:38:44 GMT"
     }
    ]
   },
@@ -50,9 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Grid operator says lights will stay on this winter after concerns",
+     "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 23:04:38 GMT"
+    },
+    {
      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 18:26:56 GMT"
+    },
+    {
+     "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+     "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 22:27:53 GMT"
     },
     {
      "title": "'I wasn't thinking straight' says five jobs civil servant",
@@ -78,16 +88,6 @@
      "title": "What is PHP and why did it spark a global cyber-security scramble?",
      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 11:15:58 GMT"
-    },
-    {
-     "title": "No order, no seat: Starbucks China rolls out new store policy",
-     "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 04:02:29 GMT"
-    },
-    {
-     "title": "Websites taken down worldwide as critical cyber-security update issued",
-     "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 21 Oct 2026 19:54:57 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Tue, 20 Oct 2026 19:18:03 GMT"
     },
     {
+     "title": "Brazil’s election and the battle for the Amazon – podcast",
+     "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+     "date": "Fri, 23 Oct 2026 02:00:56 GMT"
+    },
+    {
      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
      "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
      "date": "Thu, 22 Oct 2026 15:00:29 GMT"
@@ -128,11 +133,6 @@
      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
      "date": "Tue, 20 Oct 2026 16:24:05 GMT"
-    },
-    {
-     "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-     "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
-     "date": "Tue, 20 Oct 2026 16:11:21 GMT"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
-     "link": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 22:52:35 +0000"
+     "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
+     "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 04:41:24 +0000"
     },
     {
-     "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-     "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 22:25:14 +0000"
+     "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+     "link": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 04:27:55 +0000"
     },
     {
-     "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
-     "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 22:09:38 +0000"
+     "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+     "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 04:09:28 +0000"
     },
     {
-     "title": "US judge blocks federal operations seeking to identify non-citizen voters",
-     "link": "https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 21:52:52 +0000"
+     "title": "US tech stocks tumble as investors fret over AI spending",
+     "link": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 03:13:13 +0000"
     },
     {
-     "title": "Michigan voters closely divided between Rogers and El-Sayed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/michigan-voters-closely-divided-between-rogers-and-el-sayed?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 21:51:50 +0000"
+     "title": "Venezuelans demand elections in first national protest in nearly two years",
+     "link": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 03:12:12 +0000"
     },
     {
-     "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
-     "link": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 21:51:41 +0000"
+     "title": "Indian developer turns ‘Cockroach’ protests into video game",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 02:44:35 +0000"
     },
     {
-     "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
-     "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 21:23:01 +0000"
+     "title": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
+     "link": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 02:22:24 +0000"
     },
     {
-     "title": "Trump ordered to sit for deposition in BBC defamation lawsuit",
-     "link": "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss",
-     "date": "Thu, 22 Oct 2026 21:20:32 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Can a 'lullaby' save coral reefs from extinction?",
-     "link": "https://www.nature.com/articles/d41586-026-03414-3",
-     "date": ""
-    },
-    {
-     "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-     "link": "https://www.nature.com/articles/d41586-026-03371-x",
-     "date": ""
-    },
-    {
-     "title": "Teen depression and anxiety predicted by childhood brain development",
-     "link": "https://www.nature.com/articles/d41586-026-03357-9",
-     "date": ""
-    },
-    {
-     "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-     "link": "https://www.nature.com/articles/d41586-026-03389-1",
-     "date": ""
-    },
-    {
-     "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-     "link": "https://www.nature.com/articles/s41586-026-11312-x",
-     "date": ""
-    },
-    {
-     "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
-     "link": "https://www.nature.com/articles/s41586-026-11317-6",
-     "date": ""
-    },
-    {
-     "title": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
-     "link": "https://www.nature.com/articles/d41586-026-03376-6",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
-     "link": "https://www.nature.com/articles/s41586-026-11252-6",
-     "date": ""
+     "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
+     "link": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 02:09:38 +0000"
     }
    ]
   }
