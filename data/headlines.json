@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 15:04 UTC",
+ "updated": "2026-10-23 19:13 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,17 +7,32 @@
     {
      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 14:43:48 GMT"
+     "date": "Fri, 23 Oct 2026 18:17:06 GMT"
     },
     {
-     "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
-     "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 08:26:47 GMT"
+     "title": "Meghan statement offers answers after years of questions about her relationship with father",
+     "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 17:27:50 GMT"
     },
     {
-     "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+     "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+     "link": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 13:03:29 GMT"
+    },
+    {
+     "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 14:15:23 GMT"
+     "date": "Fri, 23 Oct 2026 18:56:06 GMT"
+    },
+    {
+     "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 16:59:51 GMT"
+    },
+    {
+     "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 16:39:03 GMT"
     },
     {
      "title": "Burnham suggests stocking up on tinned food and bottled water",
@@ -25,30 +40,20 @@
      "date": "Fri, 23 Oct 2026 12:41:10 GMT"
     },
     {
-     "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
-     "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 05:00:05 GMT"
-    },
-    {
-     "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
-     "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 05:00:12 GMT"
-    },
-    {
-     "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 14:48:10 GMT"
-    },
-    {
-     "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 14:45:43 GMT"
+     "date": "Fri, 23 Oct 2026 15:37:07 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+     "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 15:15:13 GMT"
+    },
     {
      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Thu, 22 Oct 2026 18:26:56 GMT"
     },
     {
-     "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-     "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 22:27:53 GMT"
-    },
-    {
      "title": "The Indian workers filming their work to train AI",
      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 08:04:17 GMT"
     },
     {
+     "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+     "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 22:27:53 GMT"
+    },
+    {
      "title": "'I wasn't thinking straight' says five jobs civil servant",
      "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 15:05:47 GMT"
-    },
-    {
-     "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 14:28:59 GMT"
     }
    ]
   },
@@ -140,7 +140,22 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+     "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+     "date": "Fri, 23 Oct 2026 14:30:00 -0400"
+    },
+    {
+     "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+     "date": "Fri, 23 Oct 2026 13:35:14 -0400"
+    },
+    {
+     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+     "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+     "date": "Fri, 23 Oct 2026 11:51:04 -0400"
+    },
+    {
+     "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
      "date": "Fri, 23 Oct 2026 10:16:10 -0400"
     },
@@ -163,21 +178,6 @@
      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
      "date": "Fri, 23 Oct 2026 05:40:32 -0400"
-    },
-    {
-     "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
-     "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-     "date": "Fri, 23 Oct 2026 05:37:38 -0400"
-    },
-    {
-     "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
-     "date": "Fri, 23 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "With jet fuel prices near a record, holiday airfares soar higher",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
-     "date": "Fri, 23 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
-     "link": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 14:16:14 +0000"
+     "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 18:55:18 +0000"
     },
     {
-     "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 14:15:52 +0000"
+     "title": "Israel locks down occupied West Bank after Hebron shooting",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 18:38:26 +0000"
     },
     {
-     "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-     "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 13:50:26 +0000"
+     "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+     "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 18:22:51 +0000"
     },
     {
-     "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
-     "link": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 13:46:12 +0000"
+     "title": "Trump administration sues to block possible Democratic win in Alaska",
+     "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 17:57:54 +0000"
     },
     {
-     "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
-     "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 13:45:21 +0000"
+     "title": "Many feared trapped after multistorey building collapses in Kenya",
+     "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 17:49:04 +0000"
     },
     {
-     "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-     "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 13:39:06 +0000"
+     "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+     "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 17:47:20 +0000"
     },
     {
-     "title": "Gunmen open fire at church in Jordan, killing several people",
-     "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 13:32:40 +0000"
+     "title": "Bayern coach Kompany taken to hospital after collapsing during training",
+     "link": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 17:44:05 +0000"
     },
     {
-     "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-     "link": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 13:25:58 +0000"
+     "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 17:30:51 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+     "link": "https://www.nature.com/articles/s41586-026-11303-y",
+     "date": ""
+    },
     {
      "title": "Elusive snow leopards and evasive particles: Books in brief",
      "link": "https://www.nature.com/articles/d41586-026-03395-3",
@@ -240,8 +245,18 @@
      "date": ""
     },
     {
-     "title": "First human infected with rare livestock pathogen: what we know about Shamonda virus",
+     "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+     "link": "https://www.nature.com/articles/d41586-026-03418-z",
+     "date": ""
+    },
+    {
+     "title": "First person infected with rare Shamonda virus: what we know",
      "link": "https://www.nature.com/articles/d41586-026-03416-1",
+     "date": ""
+    },
+    {
+     "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
+     "link": "https://www.nature.com/articles/d41586-026-03383-7",
      "date": ""
     },
     {
@@ -252,21 +267,6 @@
     {
      "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
      "link": "https://www.nature.com/articles/d41586-026-03417-0",
-     "date": ""
-    },
-    {
-     "title": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
-     "link": "https://www.nature.com/articles/d41586-026-02582-6",
-     "date": ""
-    },
-    {
-     "title": "Can a 'lullaby' save coral reefs from extinction?",
-     "link": "https://www.nature.com/articles/d41586-026-03414-3",
-     "date": ""
-    },
-    {
-     "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-     "link": "https://www.nature.com/articles/d41586-026-03371-x",
      "date": ""
     }
    ]
