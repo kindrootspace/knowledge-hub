@@ -1,9 +1,19 @@
 {
- "updated": "2026-10-23 19:13 UTC",
+ "updated": "2026-10-23 22:13 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+     "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 21:10:47 GMT"
+    },
+    {
+     "title": "Watch: Trees ripped up as Storm Austen batters Britain",
+     "link": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 21:01:31 GMT"
+    },
     {
      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
@@ -15,34 +25,24 @@
      "date": "Fri, 23 Oct 2026 17:27:50 GMT"
     },
     {
-     "title": "Watch: Moment part of Brighton's historic West Pier collapses",
-     "link": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 13:03:29 GMT"
-    },
-    {
      "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 18:56:06 GMT"
+     "date": "Fri, 23 Oct 2026 19:42:08 GMT"
     },
     {
-     "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 16:59:51 GMT"
+     "date": "Fri, 23 Oct 2026 19:30:19 GMT"
+    },
+    {
+     "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
+     "link": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 18:42:38 GMT"
     },
     {
      "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
      "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 16:39:03 GMT"
-    },
-    {
-     "title": "Burnham suggests stocking up on tinned food and bottled water",
-     "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 12:41:10 GMT"
-    },
-    {
-     "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-     "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 15:37:07 GMT"
     }
    ]
   },
@@ -53,6 +53,11 @@
      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 15:15:13 GMT"
+    },
+    {
+     "title": "White House says the US is lifting tariffs on some Canadian goods",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 20:39:39 GMT"
     },
     {
      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
@@ -70,24 +75,19 @@
      "date": "Thu, 22 Oct 2026 23:20:38 GMT"
     },
     {
-     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 18:26:56 GMT"
-    },
-    {
      "title": "The Indian workers filming their work to train AI",
      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 08:04:17 GMT"
     },
     {
+     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 22 Oct 2026 18:26:56 GMT"
+    },
+    {
      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 22:27:53 GMT"
-    },
-    {
-     "title": "'I wasn't thinking straight' says five jobs civil servant",
-     "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 15:05:47 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+     "date": "Fri, 23 Oct 2026 15:31:15 -0400"
+    },
+    {
      "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
      "date": "Fri, 23 Oct 2026 14:30:00 -0400"
@@ -173,11 +178,6 @@
      "title": "Why Meta is charging to post more hyperlinks",
      "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
      "date": "Fri, 23 Oct 2026 07:00:00 -0400"
-    },
-    {
-     "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-     "date": "Fri, 23 Oct 2026 05:40:32 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 18:55:18 +0000"
+     "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 21:27:32 +0000"
     },
     {
-     "title": "Israel locks down occupied West Bank after Hebron shooting",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 18:38:26 +0000"
+     "title": "‘Generation Right’: Israeli youth show strong support for the right",
+     "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:52:32 +0000"
     },
     {
-     "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
-     "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 18:22:51 +0000"
+     "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+     "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:44:14 +0000"
     },
     {
-     "title": "Trump administration sues to block possible Democratic win in Alaska",
-     "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 17:57:54 +0000"
+     "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+     "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:44:02 +0000"
     },
     {
-     "title": "Many feared trapped after multistorey building collapses in Kenya",
-     "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 17:49:04 +0000"
+     "title": "Why is the UK at the forefront of AI-driven job cuts?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:43:47 +0000"
     },
     {
-     "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
-     "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 17:47:20 +0000"
+     "title": "Why is Trump questioning Ilhan Omar’s name?",
+     "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:37:19 +0000"
     },
     {
-     "title": "Bayern coach Kompany taken to hospital after collapsing during training",
-     "link": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 17:44:05 +0000"
+     "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:02:21 +0000"
     },
     {
-     "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 17:30:51 +0000"
+     "title": "Trump’s broken promises: economy, war and ICE",
+     "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 20:01:21 +0000"
     }
    ]
   },
