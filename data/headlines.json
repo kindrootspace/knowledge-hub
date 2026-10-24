@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-24 18:09 UTC",
+ "updated": "2026-10-24 20:50 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+     "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 19:37:35 GMT"
+    },
     {
      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 24 Oct 2026 12:59:49 GMT"
     },
     {
-     "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 15:13:40 GMT"
-    },
-    {
-     "title": "Between quick wins and big dreams lies Burnham's biggest test",
-     "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 11:03:57 GMT"
+     "date": "Sat, 24 Oct 2026 20:30:43 GMT"
     },
     {
      "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
@@ -25,14 +25,14 @@
      "date": "Sat, 24 Oct 2026 17:11:56 GMT"
     },
     {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 17:21:42 GMT"
+     "title": "Between quick wins and big dreams lies Burnham's biggest test",
+     "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 11:03:57 GMT"
     },
     {
-     "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 10:30:08 GMT"
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 17:21:42 GMT"
     },
     {
      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
@@ -120,6 +120,11 @@
      "date": "Wed, 21 Oct 2026 00:14:55 GMT"
     },
     {
+     "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+     "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "date": "Sat, 24 Oct 2026 18:11:44 GMT"
+    },
+    {
      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
      "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
      "date": "Sat, 24 Oct 2026 09:43:09 GMT"
@@ -128,11 +133,6 @@
      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
      "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
      "date": "Sat, 24 Oct 2026 00:30:02 GMT"
-    },
-    {
-     "title": "Brazil’s election and the battle for the Amazon – podcast",
-     "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
-     "date": "Fri, 23 Oct 2026 02:00:56 GMT"
     }
    ]
   },
@@ -175,7 +175,7 @@
      "date": "Sat, 24 Oct 2026 03:04:13 -0400"
     },
     {
-     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+     "title": "Flooding in Four Corners region displaces residents, as storms move southeast",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
      "date": "Fri, 23 Oct 2026 20:40:42 -0400"
     }
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Violent clashes as Albanian government cracks down on protests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 20:39:08 +0000"
+    },
+    {
+     "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 20:37:02 +0000"
+    },
+    {
+     "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+     "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 20:03:29 +0000"
+    },
+    {
+     "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+     "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 19:11:48 +0000"
+    },
+    {
+     "title": "Thousands join Paris protests as authorities clamp down on disorder",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 19:01:52 +0000"
+    },
+    {
+     "title": "Thousands gather at new Albanian antigovernment rally",
+     "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 18:30:56 +0000"
+    },
+    {
+     "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 18:00:20 +0000"
+    },
+    {
      "title": "Trump says he may move White House press corps to new location",
      "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
      "date": "Sat, 24 Oct 2026 17:01:34 +0000"
-    },
-    {
-     "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
-     "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 16:48:36 +0000"
-    },
-    {
-     "title": "Serbian elections: A country where students may actually take power",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 16:36:44 +0000"
-    },
-    {
-     "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
-     "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 16:18:17 +0000"
-    },
-    {
-     "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-     "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 15:50:49 +0000"
-    },
-    {
-     "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 15:36:38 +0000"
-    },
-    {
-     "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
-     "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 15:05:58 +0000"
-    },
-    {
-     "title": "Why Israeli tourists and investors are unsettling Cypriots",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 14:56:47 +0000"
     }
    ]
   },
