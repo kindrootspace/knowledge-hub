@@ -1,23 +1,18 @@
 {
- "updated": "2026-10-24 05:55 UTC",
+ "updated": "2026-10-24 11:02 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-     "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 02:25:54 GMT"
+     "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 10:30:08 GMT"
     },
     {
-     "title": "France prepares for day of protest a week after nationwide riots",
-     "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 04:03:46 GMT"
-    },
-    {
-     "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-     "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 00:05:45 GMT"
+     "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 09:45:47 GMT"
     },
     {
      "title": "Met investigates reports of letter detailing claims about Meghan's father",
@@ -25,24 +20,29 @@
      "date": "Sat, 24 Oct 2026 03:17:24 GMT"
     },
     {
-     "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
-     "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 22:47:07 GMT"
-    },
-    {
-     "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+     "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 03:51:25 GMT"
+     "date": "Sat, 24 Oct 2026 10:22:34 GMT"
     },
     {
-     "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
-     "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 22:52:40 GMT"
+     "title": "Watch: The rise of AI election ads in US midterms campaign",
+     "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 05:03:44 GMT"
     },
     {
-     "title": "Australian MP's condition improves after alleged car attack",
-     "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 01:55:15 GMT"
+     "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+     "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 23:11:31 GMT"
+    },
+    {
+     "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+     "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 23:15:47 GMT"
+    },
+    {
+     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 23:09:16 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 21 Oct 2026 00:14:55 GMT"
     },
     {
+     "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+     "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+     "date": "Sat, 24 Oct 2026 09:43:09 GMT"
+    },
+    {
      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
      "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
      "date": "Sat, 24 Oct 2026 00:30:02 GMT"
@@ -128,11 +133,6 @@
      "title": "Brazil’s election and the battle for the Amazon – podcast",
      "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
      "date": "Fri, 23 Oct 2026 02:00:56 GMT"
-    },
-    {
-     "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
-     "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
-     "date": "Thu, 22 Oct 2026 15:00:29 GMT"
     }
    ]
   },
@@ -140,9 +140,34 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+     "date": "Sat, 24 Oct 2026 06:00:00 -0400"
+    },
+    {
+     "title": "U.S. birth rate drops to record low, but older women are having more babies",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+     "date": "Sat, 24 Oct 2026 06:00:00 -0400"
+    },
+    {
+     "title": "This decade has been missing its big-impact midterm",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+     "date": "Sat, 24 Oct 2026 05:00:00 -0400"
+    },
+    {
+     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+     "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+     "date": "Sat, 24 Oct 2026 03:04:13 -0400"
+    },
+    {
      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
      "date": "Fri, 23 Oct 2026 20:40:42 -0400"
+    },
+    {
+     "title": "Russia steps up election influence efforts in final stretch of midterms",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+     "date": "Fri, 23 Oct 2026 17:40:02 -0400"
     },
     {
      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
@@ -153,31 +178,6 @@
      "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
      "date": "Fri, 23 Oct 2026 14:30:00 -0400"
-    },
-    {
-     "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-     "date": "Fri, 23 Oct 2026 13:35:14 -0400"
-    },
-    {
-     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-     "link": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
-     "date": "Fri, 23 Oct 2026 11:51:04 -0400"
-    },
-    {
-     "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germophobia",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
-     "date": "Fri, 23 Oct 2026 10:16:10 -0400"
-    },
-    {
-     "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-     "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-     "date": "Fri, 23 Oct 2026 08:41:39 -0400"
-    },
-    {
-     "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-     "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-     "date": "Fri, 23 Oct 2026 07:22:25 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
-     "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 05:29:07 +0000"
+     "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+     "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 10:47:07 +0000"
     },
     {
-     "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
-     "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 05:20:35 +0000"
+     "title": "France braces for another day of mass protests as security on high alert",
+     "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 10:04:25 +0000"
     },
     {
-     "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-     "link": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 05:04:32 +0000"
+     "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
+     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 09:41:56 +0000"
     },
     {
-     "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 04:48:40 +0000"
+     "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 09:32:22 +0000"
     },
     {
-     "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 03:51:58 +0000"
+     "title": "Just Eat apologises after AI-generated images blunder",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 09:29:37 +0000"
     },
     {
-     "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 03:50:32 +0000"
+     "title": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 09:16:19 +0000"
     },
     {
-     "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
-     "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 03:47:14 +0000"
+     "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+     "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 09:14:40 +0000"
     },
     {
-     "title": "Pentagon designates Confucius Institutes a national security threat",
-     "link": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 03:38:20 +0000"
+     "title": "Bolivian teachers strike over wages and education reform",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 08:56:54 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+     "link": "https://www.nature.com/articles/s41586-026-11303-y",
+     "date": ""
+    },
+    {
+     "title": "Elusive snow leopards and evasive particles: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03395-3",
+     "date": ""
+    },
+    {
+     "title": "Sleep declines in rural communities after electricity arrives",
+     "link": "https://www.nature.com/articles/d41586-026-03318-2",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+     "link": "https://www.nature.com/articles/d41586-026-03418-z",
+     "date": ""
+    },
+    {
+     "title": "First person infected with rare Shamonda virus: what we know",
+     "link": "https://www.nature.com/articles/d41586-026-03416-1",
+     "date": ""
+    },
+    {
+     "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
+     "link": "https://www.nature.com/articles/d41586-026-03383-7",
+     "date": ""
+    },
+    {
+     "title": "Rebody",
+     "link": "https://www.nature.com/articles/d41586-026-03108-w",
+     "date": ""
+    },
+    {
+     "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+     "link": "https://www.nature.com/articles/d41586-026-03417-0",
+     "date": ""
     }
    ]
   }
