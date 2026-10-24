@@ -1,28 +1,18 @@
 {
- "updated": "2026-10-24 00:44 UTC",
+ "updated": "2026-10-24 05:55 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-     "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 21:10:47 GMT"
+     "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+     "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 02:25:54 GMT"
     },
     {
-     "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 18:17:06 GMT"
-    },
-    {
-     "title": "Meghan statement offers answers after years of questions about her relationship with father",
-     "link": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 17:27:50 GMT"
-    },
-    {
-     "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-     "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 19:42:08 GMT"
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 04:03:46 GMT"
     },
     {
      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -30,9 +20,19 @@
      "date": "Sat, 24 Oct 2026 00:05:45 GMT"
     },
     {
+     "title": "Met investigates reports of letter detailing claims about Meghan's father",
+     "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 03:17:24 GMT"
+    },
+    {
      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 22:47:07 GMT"
+    },
+    {
+     "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 03:51:25 GMT"
     },
     {
      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
@@ -40,9 +40,9 @@
      "date": "Fri, 23 Oct 2026 22:52:40 GMT"
     },
     {
-     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 19:30:19 GMT"
+     "title": "Australian MP's condition improves after alleged car attack",
+     "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 01:55:15 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+     "date": "Fri, 23 Oct 2026 20:40:42 -0400"
+    },
+    {
      "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
      "date": "Fri, 23 Oct 2026 15:31:15 -0400"
@@ -173,11 +178,6 @@
      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
      "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
      "date": "Fri, 23 Oct 2026 07:22:25 -0400"
-    },
-    {
-     "title": "Why Meta is charging to post more hyperlinks",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-     "date": "Fri, 23 Oct 2026 07:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 00:00:00 +0000"
+     "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+     "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 05:29:07 +0000"
     },
     {
-     "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 23:25:11 +0000"
+     "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+     "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 05:20:35 +0000"
     },
     {
-     "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
-     "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 23:10:54 +0000"
+     "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+     "link": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 05:04:32 +0000"
     },
     {
-     "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-     "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 22:33:48 +0000"
+     "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 04:48:40 +0000"
     },
     {
-     "title": "Why is Israel increasing its presence in the Balkans?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 22:01:52 +0000"
+     "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 03:51:58 +0000"
     },
     {
-     "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 21:27:32 +0000"
+     "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 03:50:32 +0000"
     },
     {
-     "title": "‘Generation Right’: Israeli youth show strong support for the right",
-     "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:52:32 +0000"
+     "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+     "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 03:47:14 +0000"
     },
     {
-     "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
-     "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:44:14 +0000"
+     "title": "Pentagon designates Confucius Institutes a national security threat",
+     "link": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 03:38:20 +0000"
     }
    ]
   }
