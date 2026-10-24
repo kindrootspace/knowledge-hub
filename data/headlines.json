@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 22:13 UTC",
+ "updated": "2026-10-24 00:44 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -8,11 +8,6 @@
      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
      "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 21:10:47 GMT"
-    },
-    {
-     "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-     "link": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 21:01:31 GMT"
     },
     {
      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
@@ -30,19 +25,24 @@
      "date": "Fri, 23 Oct 2026 19:42:08 GMT"
     },
     {
+     "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+     "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 00:05:45 GMT"
+    },
+    {
+     "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+     "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 22:47:07 GMT"
+    },
+    {
+     "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+     "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 22:52:40 GMT"
+    },
+    {
      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 19:30:19 GMT"
-    },
-    {
-     "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
-     "link": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 18:42:38 GMT"
-    },
-    {
-     "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
-     "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 16:39:03 GMT"
     }
    ]
   },
@@ -50,19 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "How does the UK state pension compare with other countries?",
+     "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 00:09:12 GMT"
+    },
+    {
+     "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+     "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 00:05:45 GMT"
+    },
+    {
      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 15:15:13 GMT"
     },
     {
-     "title": "White House says the US is lifting tariffs on some Canadian goods",
+     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 20:39:39 GMT"
+     "date": "Sat, 24 Oct 2026 00:36:47 GMT"
     },
     {
      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 11:48:04 GMT"
+    },
+    {
+     "title": "The Indian workers filming their work to train AI",
+     "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 08:04:17 GMT"
     },
     {
      "title": "Lights will stay on this winter, grid operator says after concerns",
@@ -73,21 +88,6 @@
      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 22 Oct 2026 23:20:38 GMT"
-    },
-    {
-     "title": "The Indian workers filming their work to train AI",
-     "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 08:04:17 GMT"
-    },
-    {
-     "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-     "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 18:26:56 GMT"
-    },
-    {
-     "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-     "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 22:27:53 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 21 Oct 2026 00:14:55 GMT"
     },
     {
+     "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+     "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+     "date": "Sat, 24 Oct 2026 00:30:02 GMT"
+    },
+    {
      "title": "Brazil’s election and the battle for the Amazon – podcast",
      "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
      "date": "Fri, 23 Oct 2026 02:00:56 GMT"
@@ -128,11 +133,6 @@
      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
      "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
      "date": "Thu, 22 Oct 2026 15:00:29 GMT"
-    },
-    {
-     "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-     "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-     "date": "Tue, 20 Oct 2026 16:24:05 GMT"
     }
    ]
   },
@@ -185,6 +185,31 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 23:25:11 +0000"
+    },
+    {
+     "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+     "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 23:10:54 +0000"
+    },
+    {
+     "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+     "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 22:33:48 +0000"
+    },
+    {
+     "title": "Why is Israel increasing its presence in the Balkans?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+     "date": "Fri, 23 Oct 2026 22:01:52 +0000"
+    },
+    {
      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
      "date": "Fri, 23 Oct 2026 21:27:32 +0000"
@@ -198,76 +223,6 @@
      "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
      "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
      "date": "Fri, 23 Oct 2026 20:44:14 +0000"
-    },
-    {
-     "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
-     "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:44:02 +0000"
-    },
-    {
-     "title": "Why is the UK at the forefront of AI-driven job cuts?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:43:47 +0000"
-    },
-    {
-     "title": "Why is Trump questioning Ilhan Omar’s name?",
-     "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:37:19 +0000"
-    },
-    {
-     "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:02:21 +0000"
-    },
-    {
-     "title": "Trump’s broken promises: economy, war and ICE",
-     "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
-     "date": "Fri, 23 Oct 2026 20:01:21 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
-     "link": "https://www.nature.com/articles/s41586-026-11303-y",
-     "date": ""
-    },
-    {
-     "title": "Elusive snow leopards and evasive particles: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-03395-3",
-     "date": ""
-    },
-    {
-     "title": "Sleep declines in rural communities after electricity arrives",
-     "link": "https://www.nature.com/articles/d41586-026-03318-2",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
-     "link": "https://www.nature.com/articles/d41586-026-03418-z",
-     "date": ""
-    },
-    {
-     "title": "First person infected with rare Shamonda virus: what we know",
-     "link": "https://www.nature.com/articles/d41586-026-03416-1",
-     "date": ""
-    },
-    {
-     "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
-     "link": "https://www.nature.com/articles/d41586-026-03383-7",
-     "date": ""
-    },
-    {
-     "title": "Rebody",
-     "link": "https://www.nature.com/articles/d41586-026-03108-w",
-     "date": ""
-    },
-    {
-     "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
-     "link": "https://www.nature.com/articles/d41586-026-03417-0",
-     "date": ""
     }
    ]
   }
