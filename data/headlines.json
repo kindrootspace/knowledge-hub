@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 14:33 UTC",
+ "updated": "2026-10-24 18:09 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,9 +10,9 @@
      "date": "Sat, 24 Oct 2026 12:59:49 GMT"
     },
     {
-     "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 11:00:48 GMT"
+     "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 15:13:40 GMT"
     },
     {
      "title": "Between quick wins and big dreams lies Burnham's biggest test",
@@ -20,9 +20,14 @@
      "date": "Sat, 24 Oct 2026 11:03:57 GMT"
     },
     {
-     "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+     "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 09:45:47 GMT"
+     "date": "Sat, 24 Oct 2026 17:11:56 GMT"
+    },
+    {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 17:21:42 GMT"
     },
     {
      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
@@ -30,19 +35,14 @@
      "date": "Sat, 24 Oct 2026 10:30:08 GMT"
     },
     {
-     "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-     "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 23:15:47 GMT"
-    },
-    {
-     "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-     "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 23:11:31 GMT"
-    },
-    {
      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 23:50:45 GMT"
+    },
+    {
+     "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+     "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 23:15:47 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Ukraine says Starlink is back to normal after disruptions",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "date": "Sat, 24 Oct 2026 13:54:25 -0400"
+    },
+    {
      "title": "Perspective: The next James Bond",
      "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
      "date": "Sat, 24 Oct 2026 08:00:00 -0400"
@@ -150,13 +155,13 @@
      "date": "Sat, 24 Oct 2026 07:59:08 -0400"
     },
     {
-     "title": "U.S. birth rate drops to record low, but older women are having more babies",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+     "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
      "date": "Sat, 24 Oct 2026 06:00:00 -0400"
     },
     {
-     "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+     "title": "U.S. birth rate drops to record low, but older women are having more babies",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
      "date": "Sat, 24 Oct 2026 06:00:00 -0400"
     },
     {
@@ -173,11 +178,6 @@
      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
      "date": "Fri, 23 Oct 2026 20:40:42 -0400"
-    },
-    {
-     "title": "Russia steps up election influence efforts in final stretch of midterms",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
-     "date": "Fri, 23 Oct 2026 17:40:02 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-     "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 14:21:34 +0000"
+     "title": "Trump says he may move White House press corps to new location",
+     "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 17:01:34 +0000"
     },
     {
-     "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-     "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 14:04:27 +0000"
+     "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+     "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 16:48:36 +0000"
     },
     {
-     "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
-     "link": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 13:58:14 +0000"
+     "title": "Serbian elections: A country where students may actually take power",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 16:36:44 +0000"
     },
     {
-     "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
-     "link": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 13:52:08 +0000"
+     "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+     "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 16:18:17 +0000"
     },
     {
-     "title": "Sudan’s soaring fuel prices make getting by harder for workers",
-     "link": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 13:51:08 +0000"
+     "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+     "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 15:50:49 +0000"
     },
     {
-     "title": "Who was behind the deadly church shooting in Jordan?",
-     "link": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 13:39:26 +0000"
+     "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 15:36:38 +0000"
     },
     {
-     "title": "Netanyahu floats Crypto to bypass sanctions",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 13:27:11 +0000"
+     "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+     "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 15:05:58 +0000"
     },
     {
-     "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 13:16:23 +0000"
+     "title": "Why Israeli tourists and investors are unsettling Cypriots",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 14:56:47 +0000"
     }
    ]
   },
