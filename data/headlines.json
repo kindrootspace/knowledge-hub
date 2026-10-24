@@ -1,28 +1,33 @@
 {
- "updated": "2026-10-24 20:50 UTC",
+ "updated": "2026-10-24 23:15 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 21:09:27 GMT"
+    },
     {
      "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 24 Oct 2026 19:37:35 GMT"
     },
     {
+     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 22:44:36 GMT"
+    },
+    {
+     "title": "Ukraine depends on Starlink - can Europe plug the gap?",
+     "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 23:00:08 GMT"
+    },
+    {
      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 24 Oct 2026 12:59:49 GMT"
-    },
-    {
-     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 20:30:43 GMT"
-    },
-    {
-     "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
-     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 17:11:56 GMT"
     },
     {
      "title": "Between quick wins and big dreams lies Burnham's biggest test",
@@ -32,17 +37,12 @@
     {
      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 17:21:42 GMT"
+     "date": "Sat, 24 Oct 2026 23:02:06 GMT"
     },
     {
      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 23:50:45 GMT"
-    },
-    {
-     "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
-     "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 23:15:47 GMT"
     }
    ]
   },
@@ -120,9 +120,9 @@
      "date": "Wed, 21 Oct 2026 00:14:55 GMT"
     },
     {
-     "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+     "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
      "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-     "date": "Sat, 24 Oct 2026 18:11:44 GMT"
+     "date": "Sat, 24 Oct 2026 21:10:23 GMT"
     },
     {
      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
@@ -139,6 +139,21 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+     "date": "Sat, 24 Oct 2026 18:47:58 -0400"
+    },
+    {
+     "title": "Trade tariffs cause whiplash at Port Milwaukee",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+     "date": "Sat, 24 Oct 2026 17:20:55 -0400"
+    },
+    {
+     "title": "How data centers became a bipartisan political issue in Wisconsin",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+     "date": "Sat, 24 Oct 2026 17:20:53 -0400"
+    },
     {
      "title": "Ukraine says Starlink is back to normal after disruptions",
      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
@@ -163,21 +178,6 @@
      "title": "U.S. birth rate drops to record low, but older women are having more babies",
      "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
      "date": "Sat, 24 Oct 2026 06:00:00 -0400"
-    },
-    {
-     "title": "This decade has been missing its big-impact midterm",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-     "date": "Sat, 24 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-     "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-     "date": "Sat, 24 Oct 2026 03:04:13 -0400"
-    },
-    {
-     "title": "Flooding in Four Corners region displaces residents, as storms move southeast",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-     "date": "Fri, 23 Oct 2026 20:40:42 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Violent clashes as Albanian government cracks down on protests",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 20:39:08 +0000"
+     "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+     "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 22:35:45 +0000"
     },
     {
-     "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 20:37:02 +0000"
+     "title": "How have Democrats’ policies shifted since the last major US election?",
+     "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 22:28:37 +0000"
     },
     {
-     "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-     "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 20:03:29 +0000"
+     "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+     "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 21:39:29 +0000"
     },
     {
-     "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-     "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 19:11:48 +0000"
+     "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 21:36:23 +0000"
     },
     {
-     "title": "Thousands join Paris protests as authorities clamp down on disorder",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 19:01:52 +0000"
+     "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 21:30:11 +0000"
     },
     {
-     "title": "Thousands gather at new Albanian antigovernment rally",
-     "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 18:30:56 +0000"
+     "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+     "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 21:08:51 +0000"
     },
     {
-     "title": "Kim Jong Un crosses new bridge linking North Korea and China",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 18:00:20 +0000"
+     "title": "Train slams into crane that collapsed onto railway line in Brazil",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 21:02:55 +0000"
     },
     {
-     "title": "Trump says he may move White House press corps to new location",
-     "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 17:01:34 +0000"
+     "title": "Severe hunger stalks people in Gaza as bakeries close down",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 20:52:55 +0000"
     }
    ]
   },
