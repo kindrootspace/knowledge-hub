@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 23:15 UTC",
+ "updated": "2026-10-25 01:14 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -25,30 +25,35 @@
      "date": "Sat, 24 Oct 2026 23:00:08 GMT"
     },
     {
+     "title": "Burnham open to 'honest discussion' on EU free movement",
+     "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 25 Oct 2026 00:33:19 GMT"
+    },
+    {
      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 24 Oct 2026 12:59:49 GMT"
     },
     {
-     "title": "Between quick wins and big dreams lies Burnham's biggest test",
-     "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 11:03:57 GMT"
+     "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+     "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 23:50:02 GMT"
     },
     {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 24 Oct 2026 23:02:06 GMT"
-    },
-    {
-     "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-     "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 23:50:45 GMT"
+     "title": "Rosebank: Life on the oil field at the centre of a political storm",
+     "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 23:15:18 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Rosebank: Life on the oil field at the centre of a political storm",
+     "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 24 Oct 2026 23:15:18 GMT"
+    },
     {
      "title": "How does the UK state pension compare with other countries?",
      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
@@ -70,24 +75,19 @@
      "date": "Sat, 24 Oct 2026 00:36:47 GMT"
     },
     {
-     "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-     "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 11:48:04 GMT"
-    },
-    {
      "title": "The Indian workers filming their work to train AI",
      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 08:04:17 GMT"
     },
     {
+     "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+     "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 23 Oct 2026 11:48:04 GMT"
+    },
+    {
      "title": "Lights will stay on this winter, grid operator says after concerns",
      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 06:47:10 GMT"
-    },
-    {
-     "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-     "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 22 Oct 2026 23:20:38 GMT"
     }
    ]
   },
@@ -185,6 +185,26 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+     "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+     "date": "Sun, 25 Oct 2026 00:34:43 +0000"
+    },
+    {
+     "title": "Violence breaks out across Europe after another day of protests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+     "date": "Sun, 25 Oct 2026 00:23:48 +0000"
+    },
+    {
+     "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+     "date": "Sun, 25 Oct 2026 00:00:00 +0000"
+    },
+    {
+     "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+     "date": "Sat, 24 Oct 2026 23:08:16 +0000"
+    },
+    {
      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
      "date": "Sat, 24 Oct 2026 22:35:45 +0000"
@@ -203,26 +223,6 @@
      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
      "date": "Sat, 24 Oct 2026 21:36:23 +0000"
-    },
-    {
-     "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-     "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 21:30:11 +0000"
-    },
-    {
-     "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-     "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 21:08:51 +0000"
-    },
-    {
-     "title": "Train slams into crane that collapsed onto railway line in Brazil",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 21:02:55 +0000"
-    },
-    {
-     "title": "Severe hunger stalks people in Gaza as bakeries close down",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-     "date": "Sat, 24 Oct 2026 20:52:55 +0000"
     }
    ]
   },
