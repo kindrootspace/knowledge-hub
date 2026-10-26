@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 06:15 UTC",
+ "updated": "2026-10-26 13:12 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,39 +10,39 @@
      "date": "Mon, 26 Oct 2026 02:53:00 GMT"
     },
     {
-     "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-     "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 04:41:36 GMT"
+     "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+     "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 12:00:20 GMT"
     },
     {
-     "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
-     "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 06:00:04 GMT"
+     "title": "Healey to shield low-income pensioners from income tax in the Budget",
+     "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 10:28:12 GMT"
+    },
+    {
+     "title": "Daughter wins £127k claim for caring for mum at home",
+     "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 06:23:01 GMT"
+    },
+    {
+     "title": "What is walking down the newly-pedestrianised Oxford Street like?",
+     "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 11:50:34 GMT"
+    },
+    {
+     "title": "Consultant doctors in England to strike next month",
+     "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 11:45:48 GMT"
     },
     {
      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 01:07:05 GMT"
+     "date": "Mon, 26 Oct 2026 12:52:16 GMT"
     },
     {
-     "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
-     "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 00:26:49 GMT"
-    },
-    {
-     "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
-     "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 01:40:39 GMT"
-    },
-    {
-     "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-     "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 25 Oct 2026 22:37:36 GMT"
-    },
-    {
-     "title": "Deeply divided Israel braces for pivotal election",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 25 Oct 2026 22:11:13 GMT"
+     "title": "Burnham leaves door open to referendum on EU free movement",
+     "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 12:20:41 GMT"
     }
    ]
   },
@@ -50,14 +50,29 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Healey to shield low-income pensioners from income tax in the Budget",
+     "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 10:28:12 GMT"
+    },
+    {
      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 26 Oct 2026 00:26:49 GMT"
     },
     {
-     "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+     "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 25 Oct 2026 23:44:34 GMT"
+    },
+    {
+     "title": "What is the Budget and what could be in it?",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 02:16:37 GMT"
+    },
+    {
+     "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+     "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 10:48:46 GMT"
     },
     {
      "title": "Will a new code end 'rip-off parking charges'?",
@@ -73,21 +88,6 @@
      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 23 Oct 2026 23:11:31 GMT"
-    },
-    {
-     "title": "The Indian workers filming their work to train AI",
-     "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 23 Oct 2026 08:04:17 GMT"
-    },
-    {
-     "title": "What is the Budget and what could be in it?",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 02:16:37 GMT"
-    },
-    {
-     "title": "Budget to include £1bn for social and affordable housing",
-     "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 25 Oct 2026 10:03:17 GMT"
     }
    ]
   },
@@ -95,9 +95,19 @@
    "name": "Guardian World",
    "items": [
     {
-     "title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
+     "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+     "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+     "date": "Mon, 26 Oct 2026 11:00:40 GMT"
+    },
+    {
+     "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+     "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+     "date": "Mon, 26 Oct 2026 09:59:27 GMT"
+    },
+    {
+     "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
      "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-     "date": "Mon, 26 Oct 2026 05:00:22 GMT"
+     "date": "Mon, 26 Oct 2026 06:59:36 GMT"
     },
     {
      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -110,29 +120,19 @@
      "date": "Thu, 22 Oct 2026 21:53:28 GMT"
     },
     {
-     "title": "Controversial US-backed vaccine trial in African newborns halted",
-     "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-     "date": "Wed, 21 Oct 2026 17:18:56 GMT"
-    },
-    {
-     "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-     "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-     "date": "Wed, 21 Oct 2026 13:40:08 GMT"
-    },
-    {
-     "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+     "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-     "date": "Mon, 26 Oct 2026 05:53:54 GMT"
+     "date": "Mon, 26 Oct 2026 12:50:24 GMT"
+    },
+    {
+     "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+     "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+     "date": "Mon, 26 Oct 2026 06:44:33 GMT"
     },
     {
      "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
      "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
      "date": "Mon, 26 Oct 2026 05:27:12 GMT"
-    },
-    {
-     "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-     "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
-     "date": "Mon, 26 Oct 2026 00:19:05 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Brazil's left-wing President Lula elected for fourth term",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-     "date": "Sun, 25 Oct 2026 20:35:00 -0400"
+     "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+     "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+     "date": "Mon, 26 Oct 2026 07:11:00 -0400"
     },
     {
-     "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
-     "date": "Sun, 25 Oct 2026 16:35:35 -0400"
+     "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+     "date": "Mon, 26 Oct 2026 05:22:36 -0400"
     },
     {
-     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-     "date": "Sun, 25 Oct 2026 13:50:35 -0400"
+     "title": "How AI is transforming hurricane forecasts",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+     "date": "Mon, 26 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-     "date": "Sun, 25 Oct 2026 12:18:41 -0400"
+     "title": "Special ed diaries: Teachers tell NPR about their most joyous, most difficult moments",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6000653/special-education-teacher-shortage",
+     "date": "Mon, 26 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Israelis have changed. Will they change their leadership?",
-     "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-     "date": "Sun, 25 Oct 2026 12:00:00 -0400"
+     "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+     "date": "Mon, 26 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-     "date": "Sun, 25 Oct 2026 11:03:17 -0400"
+     "title": "Court ruling fails to end wait for thousands of immigrants stuck abroad without visas",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-5991896/court-ruling-fails-to-end-wait-for-thousands-of-immigrants-stuck-abroad-without-visas",
+     "date": "Mon, 26 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "This College of Magic turns ordinary kids into cool magicians",
-     "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-     "date": "Sun, 25 Oct 2026 07:24:58 -0400"
+     "title": "Republicans are spending millions and still may not win districts drawn to favor them",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
+     "date": "Mon, 26 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-     "date": "Sun, 25 Oct 2026 06:00:00 -0400"
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
+     "date": "Mon, 26 Oct 2026 04:42:53 -0400"
     }
    ]
   },
@@ -185,50 +185,65 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "The French government is hiding behind a ‘riots’ narrative",
-     "link": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 05:56:04 +0000"
+     "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+     "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 12:23:44 +0000"
     },
     {
-     "title": "China’s political elite gather for talks on Communist Party discipline",
-     "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 05:38:41 +0000"
+     "title": "Manchester United crisis: What are the top five problems facing the club?",
+     "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 12:18:12 +0000"
     },
     {
-     "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-     "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 05:24:59 +0000"
+     "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+     "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 12:17:02 +0000"
     },
     {
-     "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-     "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 05:18:00 +0000"
+     "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
+     "link": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 12:11:59 +0000"
     },
     {
-     "title": "Israel’s election: Five key things to know",
-     "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 05:16:38 +0000"
+     "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+     "link": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 11:28:25 +0000"
     },
     {
-     "title": "Social video captures moment Brazil’s election turned",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 05:01:59 +0000"
+     "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+     "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 11:08:48 +0000"
     },
     {
-     "title": "Bolsonaro calls for Brazil election result to be annulled",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 04:36:46 +0000"
+     "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+     "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 11:04:55 +0000"
     },
     {
-     "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
-     "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 04:32:48 +0000"
+     "title": "Saudi-led coalition says it struck Houthi missile facilities",
+     "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+     "date": "Mon, 26 Oct 2026 10:41:23 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Women might have invented language — but not alone",
+     "link": "https://www.nature.com/articles/d41586-026-03392-6",
+     "date": ""
+    },
+    {
+     "title": "Are salaries getting worse? Many scientists think so",
+     "link": "https://www.nature.com/articles/d41586-026-03398-0",
+     "date": ""
+    },
+    {
+     "title": "The Selfish Gene, 50 years on — it’s time for an update",
+     "link": "https://www.nature.com/articles/d41586-026-03393-5",
+     "date": ""
+    },
     {
      "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
      "link": "https://www.nature.com/articles/s41586-026-11328-3",
@@ -252,21 +267,6 @@
     {
      "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
      "link": "https://www.nature.com/articles/d41586-026-03418-z",
-     "date": ""
-    },
-    {
-     "title": "First person infected with rare Shamonda virus: what we know",
-     "link": "https://www.nature.com/articles/d41586-026-03416-1",
-     "date": ""
-    },
-    {
-     "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
-     "link": "https://www.nature.com/articles/d41586-026-03383-7",
-     "date": ""
-    },
-    {
-     "title": "Rebody",
-     "link": "https://www.nature.com/articles/d41586-026-03108-w",
      "date": ""
     }
    ]
