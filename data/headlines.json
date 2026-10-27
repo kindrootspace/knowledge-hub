@@ -1,18 +1,23 @@
 {
- "updated": "2026-10-26 23:53 UTC",
+ "updated": "2026-10-27 05:06 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
+     "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 23:10:59 GMT"
+    },
+    {
+     "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 26 Oct 2026 23:03:14 GMT"
     },
     {
-     "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+     "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 22:30:02 GMT"
+     "date": "Tue, 27 Oct 2026 01:57:48 GMT"
     },
     {
      "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -20,29 +25,24 @@
      "date": "Mon, 26 Oct 2026 16:30:34 GMT"
     },
     {
-     "title": "Drivers who killed mum and girl while racing jailed",
-     "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 15:39:39 GMT"
+     "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+     "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 19:27:21 GMT"
     },
     {
-     "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+     "title": "Sharp rise in sales of some essential goods after government call to stock up",
+     "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 04:29:52 GMT"
+    },
+    {
+     "title": "Jay-Z to perform at Super Bowl half-time show",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 05:05:15 GMT"
+    },
+    {
+     "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 22:43:44 GMT"
-    },
-    {
-     "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-     "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 15:37:33 GMT"
-    },
-    {
-     "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-     "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 16:27:17 GMT"
-    },
-    {
-     "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
-     "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 17:50:00 GMT"
+     "date": "Tue, 27 Oct 2026 04:13:56 GMT"
     }
    ]
   },
@@ -50,14 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+     "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 00:01:00 GMT"
+    },
+    {
+     "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 22:30:02 GMT"
+     "date": "Tue, 27 Oct 2026 01:57:48 GMT"
     },
     {
      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 26 Oct 2026 16:27:17 GMT"
+    },
+    {
+     "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+     "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 01:48:04 GMT"
     },
     {
      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
@@ -70,24 +80,14 @@
      "date": "Mon, 26 Oct 2026 10:28:12 GMT"
     },
     {
-     "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-     "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 00:26:49 GMT"
-    },
-    {
-     "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-     "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 25 Oct 2026 23:44:34 GMT"
-    },
-    {
      "title": "What is the Budget and what could be in it?",
      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 26 Oct 2026 02:16:37 GMT"
     },
     {
-     "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-     "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 10:48:46 GMT"
+     "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+     "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 26 Oct 2026 00:26:49 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 23 Oct 2026 13:57:11 GMT"
     },
     {
+     "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+     "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+     "date": "Tue, 27 Oct 2026 00:00:03 GMT"
+    },
+    {
      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
      "date": "Mon, 26 Oct 2026 23:02:17 GMT"
@@ -128,17 +133,22 @@
      "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
      "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
      "date": "Mon, 26 Oct 2026 17:56:50 GMT"
-    },
-    {
-     "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
-     "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
-     "date": "Mon, 26 Oct 2026 17:38:16 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "A quick guide to Israel's high-stakes elections",
+     "link": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+     "date": "Tue, 27 Oct 2026 00:54:30 -0400"
+    },
+    {
+     "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+     "date": "Mon, 26 Oct 2026 20:31:45 -0400"
+    },
     {
      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
      "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
@@ -168,16 +178,6 @@
      "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
      "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
      "date": "Mon, 26 Oct 2026 07:11:00 -0400"
-    },
-    {
-     "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
-     "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-     "date": "Mon, 26 Oct 2026 05:22:36 -0400"
-    },
-    {
-     "title": "How AI is transforming hurricane forecasts",
-     "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
-     "date": "Mon, 26 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
-     "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 23:25:29 +0000"
+     "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 04:30:00 +0000"
     },
     {
-     "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 23:18:31 +0000"
+     "title": "Man with fake gun shot after using abused partner as shield",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 03:48:41 +0000"
     },
     {
-     "title": "Former FBI director James Comey hit with third set of charges under Trump",
-     "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 22:03:26 +0000"
+     "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 03:17:40 +0000"
     },
     {
-     "title": "Africa food security under threat due to Iran war, trade officials warn",
-     "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 21:42:18 +0000"
+     "title": "Moroccan police intercept migrant swimming back towards Ceuta",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 02:38:48 +0000"
     },
     {
-     "title": "What will Lula’s fourth term mean for Brazil?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 20:55:47 +0000"
+     "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+     "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 02:29:00 +0000"
     },
     {
-     "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-     "link": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 20:55:37 +0000"
+     "title": "Trump suggests renaming the Atlantic Ocean the ‘American Ocean’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/trump-suggests-renaming-the-atlantic-ocean-the-american?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 02:17:06 +0000"
     },
     {
-     "title": "Palestinian children crawl under Israeli military gates to get to school",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 20:46:01 +0000"
+     "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+     "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 01:32:54 +0000"
     },
     {
-     "title": "Huge explosion at a weapons depot in Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-     "date": "Mon, 26 Oct 2026 20:41:33 +0000"
+     "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 01:20:56 +0000"
     }
    ]
   },
