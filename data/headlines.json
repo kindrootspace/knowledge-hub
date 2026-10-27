@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-27 10:35 UTC",
+ "updated": "2026-10-27 16:39 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Two charged with national security offences over RAF Fairford incident",
-     "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 10:30:40 GMT"
-    },
-    {
-     "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+     "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 10:10:31 GMT"
+     "date": "Tue, 27 Oct 2026 15:01:27 GMT"
     },
     {
-     "title": "Israel heads to polls for pivotal election defined by security and democracy",
+     "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+     "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 16:29:50 GMT"
+    },
+    {
+     "title": "Turnout so far highest on record as Israelis vote in pivotal election",
      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 10:14:00 GMT"
+     "date": "Tue, 27 Oct 2026 11:11:33 GMT"
     },
     {
      "title": "What does Israel's election mean for Gaza and the wider world?",
@@ -25,24 +25,24 @@
      "date": "Tue, 27 Oct 2026 10:17:36 GMT"
     },
     {
-     "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 23:10:59 GMT"
+     "title": "Men abused woman after her husband drugged and advertised her online, court told",
+     "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 14:28:16 GMT"
     },
     {
-     "title": "Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke",
+     "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 10:19:13 GMT"
+     "date": "Tue, 27 Oct 2026 13:25:54 GMT"
     },
     {
-     "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-     "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 06:33:11 GMT"
+     "title": "I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 13:08:26 GMT"
     },
     {
-     "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-     "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 09:18:44 GMT"
+     "title": "Norway and Finland leaders hold rare call with Putin",
+     "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 27 Oct 2026 14:23:05 GMT"
     }
    ]
   },
@@ -52,12 +52,12 @@
     {
      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 06:48:50 GMT"
+     "date": "Tue, 27 Oct 2026 13:08:26 GMT"
     },
     {
-     "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+     "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 10:10:31 GMT"
+     "date": "Tue, 27 Oct 2026 15:01:27 GMT"
     },
     {
      "title": "Donald Trump's biggest economic problem looks strangely familiar",
@@ -70,12 +70,12 @@
      "date": "Tue, 27 Oct 2026 06:33:11 GMT"
     },
     {
-     "title": "Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke",
+     "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 27 Oct 2026 10:19:13 GMT"
+     "date": "Tue, 27 Oct 2026 13:25:54 GMT"
     },
     {
-     "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+     "title": "Apple to replace iPhone Duos affected by screen problem",
      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 27 Oct 2026 09:37:55 GMT"
     },
@@ -87,7 +87,7 @@
     {
      "title": "What is the Budget and what could be in it?",
      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 26 Oct 2026 02:16:37 GMT"
+     "date": "Tue, 27 Oct 2026 11:06:53 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Fri, 23 Oct 2026 13:57:11 GMT"
     },
     {
-     "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+     "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, the Guardian’s Latin America correspondent answers your questions",
      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-     "date": "Tue, 27 Oct 2026 00:00:03 GMT"
+     "date": "Tue, 27 Oct 2026 16:26:52 GMT"
+    },
+    {
+     "title": "Flávio Bolsonaro rumoured to have fled Brazil after presidential election loss",
+     "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+     "date": "Tue, 27 Oct 2026 16:24:15 GMT"
     },
     {
      "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
      "date": "Mon, 26 Oct 2026 23:02:17 GMT"
-    },
-    {
-     "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
-     "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-     "date": "Mon, 26 Oct 2026 17:56:50 GMT"
     }
    ]
   },
@@ -140,14 +140,29 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+     "date": "Tue, 27 Oct 2026 10:41:17 -0400"
+    },
+    {
+     "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
+     "date": "Tue, 27 Oct 2026 10:15:21 -0400"
+    },
+    {
+     "title": "A 'Green Army' is out to thwart El Niño flooding",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+     "date": "Tue, 27 Oct 2026 10:12:35 -0400"
+    },
+    {
+     "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+     "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+     "date": "Tue, 27 Oct 2026 07:39:52 -0400"
+    },
+    {
      "title": "How Aldi is pushing down grocery prices",
      "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
      "date": "Tue, 27 Oct 2026 06:30:00 -0400"
-    },
-    {
-     "title": "Polymarket has investigated 'dozens' of election-related cases",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-     "date": "Tue, 27 Oct 2026 05:00:00 -0400"
     },
     {
      "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
@@ -155,29 +170,14 @@
      "date": "Tue, 27 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+     "title": "Polymarket has investigated 'dozens' of election-related cases",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
      "date": "Tue, 27 Oct 2026 05:00:00 -0400"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6012225/morning-news-brief",
-     "date": "Tue, 27 Oct 2026 04:48:45 -0400"
-    },
-    {
-     "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
-     "date": "Tue, 27 Oct 2026 02:30:54 -0400"
-    },
-    {
-     "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
-     "link": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
-     "date": "Tue, 27 Oct 2026 01:46:18 -0400"
-    },
-    {
-     "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
-     "link": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
-     "date": "Tue, 27 Oct 2026 01:45:44 -0400"
+     "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+     "link": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+     "date": "Tue, 27 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "North Korean howitzer guns spotted close to border with South Korea",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 10:22:20 +0000"
+     "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
+     "link": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 16:05:22 +0000"
     },
     {
-     "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
-     "link": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 10:03:32 +0000"
+     "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+     "link": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:53:35 +0000"
     },
     {
-     "title": "WNBA Finals: Valkyries beat Dream to reach the brink of their first title",
-     "link": "https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 09:52:36 +0000"
+     "title": "Iranian and Qatari leaders meet at Russian energy forum",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:49:19 +0000"
     },
     {
-     "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 09:38:59 +0000"
+     "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+     "link": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:26:59 +0000"
     },
     {
-     "title": "Kylian Mbappe loses Chinese sponsors for calling Mao ‘Chinese dictator’",
-     "link": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-loses-chinese-sponsors-for-calling-mao-chinese-dictator?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 09:24:49 +0000"
+     "title": "Israel election turnout highest in 50 years as voting continues",
+     "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:20:48 +0000"
     },
     {
-     "title": "Israel election results 2026: When will we know who won and what’s next?",
-     "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 09:22:45 +0000"
+     "title": "Cyclone Arnab batters India’s east coast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:11:12 +0000"
     },
     {
-     "title": "UK prosecutors charge two after RAF Fairford incident",
-     "link": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 09:12:21 +0000"
+     "title": "Israeli military detains Egyptian national who crossed border",
+     "link": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:10:27 +0000"
     },
     {
-     "title": "Cruise ship crashes into two container ships during storm",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss",
-     "date": "Tue, 27 Oct 2026 08:46:19 +0000"
+     "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+     "link": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+     "date": "Tue, 27 Oct 2026 15:08:59 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
-     "title": "Nerve activity initiates autoimmune hair loss",
-     "link": "https://www.nature.com/articles/d41586-026-03258-x",
+     "title": "The Nobel prize in economic science has a serious gender problem",
+     "link": "https://www.nature.com/articles/d41586-026-03404-5",
      "date": ""
     },
     {
-     "title": "Women might have invented language — but not alone",
-     "link": "https://www.nature.com/articles/d41586-026-03392-6",
+     "title": "AI-hallucinated citations should be treated as research misconduct",
+     "link": "https://www.nature.com/articles/d41586-026-03407-2",
      "date": ""
     },
     {
-     "title": "Are salaries getting worse? Many scientists think so",
-     "link": "https://www.nature.com/articles/d41586-026-03398-0",
+     "title": "Short-term academic visits to China could sustain ties",
+     "link": "https://www.nature.com/articles/d41586-026-03405-4",
      "date": ""
     },
     {
-     "title": "Can science make your dog live longer? Longevity craze comes to pets",
-     "link": "https://www.nature.com/articles/d41586-026-03447-8",
+     "title": "Making ‘mind pictures’ takes mental effort",
+     "link": "https://www.nature.com/articles/d41586-026-03276-9",
      "date": ""
     },
     {
-     "title": "Glimpsing archaeal microbes on the move",
-     "link": "https://www.nature.com/articles/d41586-026-03259-w",
+     "title": "AI watermarking efforts must encourage independent public scrutiny",
+     "link": "https://www.nature.com/articles/d41586-026-03406-3",
      "date": ""
     },
     {
-     "title": "Evolutionary ‘game-changer’: weird armoured amphibian lived in ancient seas",
-     "link": "https://www.nature.com/articles/d41586-026-03440-1",
+     "title": "How to keep tabs on the tools in your lab",
+     "link": "https://www.nature.com/articles/d41586-026-02814-9",
      "date": ""
     },
     {
-     "title": "The Selfish Gene, 50 years on — it’s time for an update",
-     "link": "https://www.nature.com/articles/d41586-026-03393-5",
+     "title": "Why pharma firms are betting billions on psychedelic drugs despite setbacks",
+     "link": "https://www.nature.com/articles/d41586-026-03390-8",
      "date": ""
     },
     {
-     "title": "Mentoring a lab colleague? Share your ‘CV of failures’ with them",
-     "link": "https://www.nature.com/articles/d41586-026-03410-7",
+     "title": "Could measuring immune health reshape medical care?",
+     "link": "https://www.nature.com/articles/d41586-026-03396-2",
      "date": ""
     }
    ]
