@@ -1,58 +1,13 @@
 {
- "updated": "2026-10-29 14:20 UTC",
+ "updated": "2026-10-29 20:18 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Treasury will not commit to reducing welfare bill before next election",
-     "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 10:41:50 GMT"
-    },
-    {
-     "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-     "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 11:07:35 GMT"
-    },
-    {
-     "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-     "link": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 12:52:50 GMT"
-    },
-    {
-     "title": "Serious pollution by water industry remains high despite £5bn investment",
-     "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 12:08:01 GMT"
-    },
-    {
-     "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-     "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 13:25:07 GMT"
-    },
-    {
-     "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 14:17:35 GMT"
-    },
-    {
-     "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-     "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 13:27:29 GMT"
-    },
-    {
-     "title": "Bereaved families appalled by footage of Seoul crush in Call of Duty",
-     "link": "https://www.bbc.co.uk/news/articles/cx5ynj718zymo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 12:01:41 GMT"
-    }
-   ]
-  },
-  {
-   "name": "BBC Business",
-   "items": [
-    {
-     "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-     "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 13:27:29 GMT"
+     "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 15:42:56 GMT"
     },
     {
      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
@@ -60,19 +15,64 @@
      "date": "Thu, 29 Oct 2026 13:19:24 GMT"
     },
     {
-     "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 11:52:55 GMT"
+     "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 11:07:35 GMT"
     },
     {
-     "title": "What we now know about the UK economy in four charts",
-     "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 28 Oct 2026 20:08:45 GMT"
+     "title": "Met refers itself to police watchdog over letter about Meghan's father",
+     "link": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 17:58:18 GMT"
     },
     {
-     "title": "What the Budget offers for under 25s - and what it leaves out",
-     "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 28 Oct 2026 20:02:38 GMT"
+     "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
+     "link": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 20:02:27 GMT"
+    },
+    {
+     "title": "Hundreds of GP practices lose online services after collapse of tech firm",
+     "link": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 17:13:40 GMT"
+    },
+    {
+     "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+     "link": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 12:52:50 GMT"
+    },
+    {
+     "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 19:19:23 GMT"
+    }
+   ]
+  },
+  {
+   "name": "BBC Business",
+   "items": [
+    {
+     "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+     "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 19:11:10 GMT"
+    },
+    {
+     "title": "US interest rates held steady and economy grows - what it means for you",
+     "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 17:15:05 GMT"
+    },
+    {
+     "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+     "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 13:19:24 GMT"
+    },
+    {
+     "title": "Faisal Islam: This Budget was micro and that was deliberate",
+     "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 15:48:44 GMT"
+    },
+    {
+     "title": "Bereaved families will not face tax bill over pension delays under new rules",
+     "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 15:18:04 GMT"
     },
     {
      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
@@ -80,14 +80,14 @@
      "date": "Thu, 29 Oct 2026 09:30:03 GMT"
     },
     {
-     "title": "Your pay, energy bills and savings: How the Budget affects you",
-     "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 28 Oct 2026 16:43:35 GMT"
+     "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 11:52:55 GMT"
     },
     {
-     "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 28 Oct 2026 18:45:09 GMT"
+     "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+     "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 15:05:15 GMT"
     }
    ]
   },
@@ -120,19 +120,19 @@
      "date": "Mon, 26 Oct 2026 09:59:27 GMT"
     },
     {
+     "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+     "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+     "date": "Thu, 29 Oct 2026 17:49:47 GMT"
+    },
+    {
+     "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+     "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+     "date": "Thu, 29 Oct 2026 17:46:38 GMT"
+    },
+    {
      "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
      "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
      "date": "Wed, 28 Oct 2026 22:06:46 GMT"
-    },
-    {
-     "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-     "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-     "date": "Wed, 28 Oct 2026 21:27:33 GMT"
-    },
-    {
-     "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-     "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-     "date": "Wed, 28 Oct 2026 20:15:07 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-     "date": "Thu, 29 Oct 2026 09:05:03 -0400"
+     "title": "What killed 500-plus penguins? How scientists solved the mystery",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+     "date": "Thu, 29 Oct 2026 16:03:26 -0400"
     },
     {
-     "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-     "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
-     "date": "Thu, 29 Oct 2026 07:34:30 -0400"
+     "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
+     "date": "Thu, 29 Oct 2026 16:00:00 -0400"
     },
     {
-     "title": "How AI drones are influencing the course of the Ukraine war",
-     "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
-     "date": "Thu, 29 Oct 2026 05:02:00 -0400"
+     "title": "Even birds get jet lagged, study shows",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
+     "date": "Thu, 29 Oct 2026 14:00:00 -0400"
     },
     {
-     "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
-     "date": "Thu, 29 Oct 2026 05:00:00 -0400"
+     "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
+     "date": "Thu, 29 Oct 2026 13:21:58 -0400"
     },
     {
-     "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
-     "date": "Thu, 29 Oct 2026 05:00:00 -0400"
+     "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+     "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+     "date": "Thu, 29 Oct 2026 11:58:27 -0400"
     },
     {
-     "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
-     "date": "Thu, 29 Oct 2026 05:00:00 -0400"
+     "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+     "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+     "date": "Thu, 29 Oct 2026 11:53:46 -0400"
     },
     {
-     "title": "Business as a liberal art? Some high schools say yes",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
-     "date": "Thu, 29 Oct 2026 05:00:00 -0400"
+     "title": "Who benefits when massive AI data centers come to town?",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+     "date": "Thu, 29 Oct 2026 11:41:59 -0400"
     },
     {
-     "title": "Ahead of midterms, Missourians defend transgender healthcare",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
-     "date": "Thu, 29 Oct 2026 05:00:00 -0400"
+     "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+     "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+     "date": "Thu, 29 Oct 2026 10:52:11 -0400"
     }
    ]
   },
@@ -185,50 +185,60 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight",
-     "link": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:54:18 +0000"
+     "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
+     "link": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 20:00:26 +0000"
     },
     {
-     "title": "Neville says managers need sacking ‘for own good’ as Man Utd retain Carrick",
-     "link": "https://www.aljazeera.com/sports/2026/10/29/neville-says-managers-need-sacking-for-own-good-as-man-utd-retain-carrick?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:53:49 +0000"
+     "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+     "link": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 19:23:33 +0000"
     },
     {
-     "title": "Damascus, Amman contradict each other on attack that killed civilians",
-     "link": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:44:42 +0000"
+     "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+     "link": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 19:21:19 +0000"
     },
     {
-     "title": "Indonesians share impact of haze on their livelihoods",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:30:55 +0000"
+     "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 19:06:00 +0000"
     },
     {
-     "title": "Rising fuel costs force passengers off cruise ship",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:26:38 +0000"
+     "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
+     "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 19:02:33 +0000"
     },
     {
-     "title": "The megadonors financing the US midterms to influence policy",
-     "link": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:26:07 +0000"
+     "title": "Pentagon fires general it says leaked classified information to media",
+     "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 19:02:19 +0000"
     },
     {
-     "title": "Men pulled from vehicle stranded by floods in Syria",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 13:15:14 +0000"
+     "title": "Texas Republican group seeks to block certification of state’s election",
+     "link": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 18:40:01 +0000"
     },
     {
-     "title": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
-     "link": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 12:53:11 +0000"
+     "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+     "link": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 18:30:04 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Even stupendous black holes can’t explain dark matter",
+     "link": "https://www.nature.com/articles/d41586-026-03386-4",
+     "date": ""
+    },
+    {
+     "title": "How the US mid-term elections could shake up science",
+     "link": "https://www.nature.com/articles/d41586-026-03479-0",
+     "date": ""
+    },
     {
      "title": "Switchable Chlorine Atom Transfer Radical Reactions",
      "link": "https://www.nature.com/articles/s41586-026-11348-z",
@@ -257,16 +267,6 @@
     {
      "title": "The brain liquidates billions of mutant neurons around the time we’re born",
      "link": "https://www.nature.com/articles/d41586-026-03444-x",
-     "date": ""
-    },
-    {
-     "title": "Daily briefing: The big push to personalize psychiatry",
-     "link": "https://www.nature.com/articles/d41586-026-03531-z",
-     "date": ""
-    },
-    {
-     "title": "Tethered to stone: how rock and water availability shaped early desert occupation",
-     "link": "https://www.nature.com/articles/d41586-026-03263-0",
      "date": ""
     }
    ]
