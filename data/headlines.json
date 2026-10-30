@@ -1,28 +1,33 @@
 {
- "updated": "2026-10-30 01:00 UTC",
+ "updated": "2026-10-30 07:07 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
-     "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 21:57:04 GMT"
+     "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+     "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 05:15:16 GMT"
     },
     {
-     "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
-     "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 20:50:25 GMT"
+     "title": "Australian mushroom murderer loses appeal to overturn convictions",
+     "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 01:35:40 GMT"
     },
     {
-     "title": "What are the government's options for reducing welfare spending?",
-     "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 17:59:57 GMT"
+     "title": "Hyrox athlete who soiled herself in race says she put others at risk",
+     "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 06:10:50 GMT"
     },
     {
-     "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 22:17:52 GMT"
+     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+     "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 06:02:23 GMT"
+    },
+    {
+     "title": "Democrats have an identity crisis - it won't be an easy fix",
+     "link": "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 02:14:41 GMT"
     },
     {
      "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
@@ -30,19 +35,14 @@
      "date": "Fri, 30 Oct 2026 00:16:59 GMT"
     },
     {
-     "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 00:59:04 GMT"
+     "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
+     "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 20:50:25 GMT"
     },
     {
-     "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
-     "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 23:03:39 GMT"
-    },
-    {
-     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-     "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 20:21:54 GMT"
+     "title": "Student-backed election winners demand sweeping resignations in Serbia",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 00:17:28 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+     "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 00:59:04 GMT"
+     "date": "Fri, 30 Oct 2026 05:15:16 GMT"
+    },
+    {
+     "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 00:00:35 GMT"
     },
     {
      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
@@ -75,11 +80,6 @@
      "date": "Thu, 29 Oct 2026 13:19:24 GMT"
     },
     {
-     "title": "From workshops to the catwalk - why mended clothes are going mainstream",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 00:00:35 GMT"
-    },
-    {
      "title": "Faisal Islam: This Budget was micro and that was deliberate",
      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 29 Oct 2026 15:48:44 GMT"
@@ -95,6 +95,16 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+     "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+     "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+    },
+    {
+     "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+     "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+     "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+    },
+    {
      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
      "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
      "date": "Wed, 28 Oct 2026 14:16:24 GMT"
@@ -108,16 +118,6 @@
      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
      "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
      "date": "Mon, 26 Oct 2026 15:07:23 GMT"
-    },
-    {
-     "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-     "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-     "date": "Mon, 26 Oct 2026 11:00:40 GMT"
-    },
-    {
-     "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-     "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-     "date": "Mon, 26 Oct 2026 09:59:27 GMT"
     },
     {
      "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
@@ -139,6 +139,11 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Justice Department issues subpoenas to California election workers",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+     "date": "Thu, 29 Oct 2026 21:35:54 -0400"
+    },
     {
      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
      "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
@@ -173,11 +178,6 @@
      "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
      "link": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
      "date": "Thu, 29 Oct 2026 13:21:58 -0400"
-    },
-    {
-     "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-     "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-     "date": "Thu, 29 Oct 2026 11:58:27 -0400"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Armenian parliament turns into a boxing ring, third time in a month",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-     "date": "Fri, 30 Oct 2026 00:36:03 +0000"
+     "title": "US midterms: 4 days to go – What the polls say as Trump cancels two rallies",
+     "link": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 06:36:11 +0000"
     },
     {
-     "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
-     "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-     "date": "Fri, 30 Oct 2026 00:29:24 +0000"
+     "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+     "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 04:40:07 +0000"
     },
     {
-     "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-     "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-     "date": "Fri, 30 Oct 2026 00:11:20 +0000"
+     "title": "US judge blocks Trump’s Medicaid rule forcing ill to prove impairment",
+     "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 04:38:24 +0000"
     },
     {
-     "title": "What does bourbon have to do with the US midterms?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-     "date": "Fri, 30 Oct 2026 00:08:50 +0000"
+     "title": "‘You look like hell’, Trump lashes out at reporter in tarmac tirade",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 04:31:16 +0000"
     },
     {
-     "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-     "date": "Fri, 30 Oct 2026 00:00:00 +0000"
+     "title": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 04:14:09 +0000"
     },
     {
-     "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-     "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 23:52:30 +0000"
+     "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 03:31:30 +0000"
     },
     {
-     "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-     "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 22:36:06 +0000"
+     "title": "Flash floods kill five in Syria",
+     "link": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 03:11:55 +0000"
     },
     {
-     "title": "Trump administration attempts to take down leak of ICE personnel data",
-     "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 22:16:51 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Even stupendous black holes can’t explain dark matter",
-     "link": "https://www.nature.com/articles/d41586-026-03386-4",
-     "date": ""
-    },
-    {
-     "title": "How the US mid-term elections could shake up science",
-     "link": "https://www.nature.com/articles/d41586-026-03479-0",
-     "date": ""
-    },
-    {
-     "title": "Switchable Chlorine Atom Transfer Radical Reactions",
-     "link": "https://www.nature.com/articles/s41586-026-11348-z",
-     "date": ""
-    },
-    {
-     "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
-     "link": "https://www.nature.com/articles/s41586-026-11335-4",
-     "date": ""
-    },
-    {
-     "title": "Why did ancient humans avoid this lush paradise",
-     "link": "https://www.nature.com/articles/d41586-026-03486-1",
-     "date": ""
-    },
-    {
-     "title": "This Arabian desert was once a lush paradise. Why did ancient humans avoid it?",
-     "link": "https://www.nature.com/articles/d41586-026-03484-3",
-     "date": ""
-    },
-    {
-     "title": "Accounting of Africa’s water reveals a management gap",
-     "link": "https://www.nature.com/articles/d41586-026-03260-3",
-     "date": ""
-    },
-    {
-     "title": "The brain liquidates billions of mutant neurons around the time we’re born",
-     "link": "https://www.nature.com/articles/d41586-026-03444-x",
-     "date": ""
+     "title": "Husband of one of Modi’s closest advisors questions election integrity",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 02:41:18 +0000"
     }
    ]
   }
