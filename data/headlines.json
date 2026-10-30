@@ -1,54 +1,64 @@
 {
- "updated": "2026-10-29 20:18 UTC",
+ "updated": "2026-10-30 01:00 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 15:42:56 GMT"
+     "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+     "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 21:57:04 GMT"
     },
     {
-     "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-     "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 13:19:24 GMT"
+     "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
+     "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 20:50:25 GMT"
     },
     {
-     "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-     "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 11:07:35 GMT"
+     "title": "What are the government's options for reducing welfare spending?",
+     "link": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 17:59:57 GMT"
     },
     {
-     "title": "Met refers itself to police watchdog over letter about Meghan's father",
-     "link": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 17:58:18 GMT"
+     "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 22:17:52 GMT"
     },
     {
-     "title": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-     "link": "https://www.bbc.co.uk/news/articles/ckdd8qpdeym4o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 20:02:27 GMT"
+     "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+     "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 00:16:59 GMT"
     },
     {
-     "title": "Hundreds of GP practices lose online services after collapse of tech firm",
-     "link": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 17:13:40 GMT"
+     "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 00:59:04 GMT"
     },
     {
-     "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-     "link": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 12:52:50 GMT"
+     "title": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+     "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 23:03:39 GMT"
     },
     {
-     "title": "Paris suburb shooting suspect targeted people of Muslim or African appearance, prosecutor says",
-     "link": "https://www.bbc.co.uk/news/articles/cmd7qjq13prpo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 19:19:23 GMT"
+     "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+     "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 20:21:54 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 00:59:04 GMT"
+    },
+    {
+     "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 29 Oct 2026 22:17:52 GMT"
+    },
     {
      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
@@ -65,6 +75,11 @@
      "date": "Thu, 29 Oct 2026 13:19:24 GMT"
     },
     {
+     "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 00:00:35 GMT"
+    },
+    {
      "title": "Faisal Islam: This Budget was micro and that was deliberate",
      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 29 Oct 2026 15:48:44 GMT"
@@ -73,21 +88,6 @@
      "title": "Bereaved families will not face tax bill over pension delays under new rules",
      "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 29 Oct 2026 15:18:04 GMT"
-    },
-    {
-     "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
-     "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 09:30:03 GMT"
-    },
-    {
-     "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 11:52:55 GMT"
-    },
-    {
-     "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
-     "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 29 Oct 2026 15:05:15 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+     "date": "Thu, 29 Oct 2026 18:23:38 -0400"
+    },
+    {
+     "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+     "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+     "date": "Thu, 29 Oct 2026 16:29:13 -0400"
+    },
+    {
+     "title": "Some rural Republicans in California say redistricting has left them without a voice",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
+     "date": "Thu, 29 Oct 2026 16:19:31 -0400"
+    },
+    {
      "title": "What killed 500-plus penguins? How scientists solved the mystery",
      "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
      "date": "Thu, 29 Oct 2026 16:03:26 -0400"
@@ -163,21 +178,6 @@
      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
      "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
      "date": "Thu, 29 Oct 2026 11:58:27 -0400"
-    },
-    {
-     "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-     "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-     "date": "Thu, 29 Oct 2026 11:53:46 -0400"
-    },
-    {
-     "title": "Who benefits when massive AI data centers come to town?",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
-     "date": "Thu, 29 Oct 2026 11:41:59 -0400"
-    },
-    {
-     "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
-     "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
-     "date": "Thu, 29 Oct 2026 10:52:11 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
-     "link": "https://www.aljazeera.com/news/2026/10/29/man-targeted-muslims-africans-and-north-africans-french-prosecutors-say?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 20:00:26 +0000"
+     "title": "Armenian parliament turns into a boxing ring, third time in a month",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 00:36:03 +0000"
     },
     {
-     "title": "Cornell begins no confidence vote over handling of alleged gang rape",
-     "link": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 19:23:33 +0000"
+     "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+     "link": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 00:29:24 +0000"
     },
     {
-     "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-     "link": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 19:21:19 +0000"
+     "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+     "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 00:11:20 +0000"
     },
     {
-     "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 19:06:00 +0000"
+     "title": "What does bourbon have to do with the US midterms?",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 00:08:50 +0000"
     },
     {
-     "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-     "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 19:02:33 +0000"
+     "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+     "date": "Fri, 30 Oct 2026 00:00:00 +0000"
     },
     {
-     "title": "Pentagon fires general it says leaked classified information to media",
-     "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 19:02:19 +0000"
+     "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
+     "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 23:52:30 +0000"
     },
     {
-     "title": "Texas Republican group seeks to block certification of state’s election",
-     "link": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 18:40:01 +0000"
+     "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+     "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 22:36:06 +0000"
     },
     {
-     "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-     "link": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
-     "date": "Thu, 29 Oct 2026 18:30:04 +0000"
+     "title": "Trump administration attempts to take down leak of ICE personnel data",
+     "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
+     "date": "Thu, 29 Oct 2026 22:16:51 +0000"
     }
    ]
   },
