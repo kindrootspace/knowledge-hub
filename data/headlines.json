@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-31 17:43 UTC",
+ "updated": "2026-10-31 21:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 15:50:41 GMT"
+     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+     "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 31 Oct 2026 19:22:26 GMT"
     },
     {
-     "title": "Emotional reunions with loved ones for Oleshky evacuees",
-     "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 16:55:47 GMT"
-    },
-    {
-     "title": "Healey risks breaking minimum wage promise for younger workers",
+     "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
      "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 31 Oct 2026 17:26:29 GMT"
+    },
+    {
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 31 Oct 2026 21:29:01 GMT"
     },
     {
      "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "date": "Sat, 31 Oct 2026 15:30:19 -0400"
+    },
+    {
+     "title": "Key takeaways from this week's political meeting in Beijing",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+     "date": "Sat, 31 Oct 2026 14:42:33 -0400"
+    },
+    {
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "date": "Sat, 31 Oct 2026 14:11:02 -0400"
+    },
+    {
      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
      "date": "Sat, 31 Oct 2026 09:50:58 -0400"
@@ -160,23 +175,8 @@
      "date": "Sat, 31 Oct 2026 05:01:00 -0400"
     },
     {
-     "title": "Your writing was flagged as AI. What does that actually mean?",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-     "date": "Sat, 31 Oct 2026 05:00:00 -0400"
-    },
-    {
      "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
-     "date": "Sat, 31 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
-     "date": "Sat, 31 Oct 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
-     "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
      "date": "Sat, 31 Oct 2026 05:00:00 -0400"
     }
    ]
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
-     "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 17:21:05 +0000"
+     "title": "Fiery confrontations between protestors and police in Albania",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 21:12:46 +0000"
     },
     {
-     "title": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
-     "link": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 17:19:44 +0000"
+     "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+     "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 21:01:19 +0000"
     },
     {
-     "title": "Dakar Youth Olympics: Who gets to hold the flame?",
-     "link": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 17:17:21 +0000"
+     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+     "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 20:30:35 +0000"
     },
     {
-     "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 17:12:11 +0000"
+     "title": "Israel’s allegations of Qatari election interference rejected",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 20:24:58 +0000"
     },
     {
-     "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-     "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 16:28:04 +0000"
+     "title": "What is ranked-choice voting and how does it work in US elections?",
+     "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 20:11:37 +0000"
     },
     {
-     "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-     "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 15:43:46 +0000"
+     "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+     "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 20:09:18 +0000"
     },
     {
-     "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-     "link": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 15:09:59 +0000"
+     "title": "How vulnerable are cryptocurrency platforms?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 19:19:29 +0000"
     },
     {
-     "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-     "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 14:31:37 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
-     "link": "https://www.nature.com/articles/d41586-026-03553-7",
-     "date": ""
-    },
-    {
-     "title": "Author Correction: Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
-     "link": "https://www.nature.com/articles/s41586-026-11337-2",
-     "date": ""
-    },
-    {
-     "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-     "link": "https://www.nature.com/articles/d41586-026-03543-9",
-     "date": ""
-    },
-    {
-     "title": "Somewhere over the transcontinental burrito tunnel",
-     "link": "https://www.nature.com/articles/d41586-026-03368-6",
-     "date": ""
-    },
-    {
-     "title": "I built the UK government’s metascience unit — here’s what countries need to know",
-     "link": "https://www.nature.com/articles/d41586-026-03502-4",
-     "date": ""
-    },
-    {
-     "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
-     "link": "https://www.nature.com/articles/d41586-026-03455-8",
-     "date": ""
-    },
-    {
-     "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
-     "link": "https://www.nature.com/articles/d41586-026-03512-2",
-     "date": ""
-    },
-    {
-     "title": "Even stupendous black holes can’t explain dark matter",
-     "link": "https://www.nature.com/articles/d41586-026-03386-4",
-     "date": ""
+     "title": "Palestinians ‘Stealing their own olives’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 19:18:32 +0000"
     }
    ]
   }
