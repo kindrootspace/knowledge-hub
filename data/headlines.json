@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31 21:35 UTC",
+ "updated": "2026-11-01 01:10 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,34 +15,34 @@
      "date": "Sat, 31 Oct 2026 17:26:29 GMT"
     },
     {
+     "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 31 Oct 2026 22:56:15 GMT"
+    },
+    {
      "title": "Thousands demonstrate in Paris as protests spread across Europe",
      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 31 Oct 2026 21:29:01 GMT"
     },
     {
-     "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 16:49:18 GMT"
+     "title": "Who are the real winners of Celebrity Traitors?",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 00:06:01 GMT"
     },
     {
      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 16:32:08 GMT"
+     "date": "Sat, 31 Oct 2026 22:11:45 GMT"
     },
     {
-     "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
-     "link": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 13:20:39 GMT"
+     "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+     "link": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 31 Oct 2026 23:07:02 GMT"
     },
     {
-     "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-     "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 00:16:03 GMT"
-    },
-    {
-     "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-     "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 23:26:16 GMT"
+     "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+     "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 00:17:05 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Virginia and D.C. sue to block construction of Trump arch",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+     "date": "Sat, 31 Oct 2026 18:48:51 -0400"
+    },
+    {
+     "title": "Mixed economic forecast weighs heavy ahead of midterms",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+     "date": "Sat, 31 Oct 2026 17:14:35 -0400"
+    },
+    {
      "title": "France seethes again as youth-led protests sweep Europe",
      "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
      "date": "Sat, 31 Oct 2026 15:30:19 -0400"
@@ -168,16 +178,6 @@
      "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
      "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
      "date": "Sat, 31 Oct 2026 07:56:10 -0400"
-    },
-    {
-     "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
-     "date": "Sat, 31 Oct 2026 05:01:00 -0400"
-    },
-    {
-     "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
-     "date": "Sat, 31 Oct 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Fiery confrontations between protestors and police in Albania",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 21:12:46 +0000"
+     "title": "Polish president holds crisis talks in court standoff",
+     "link": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 00:30:59 +0000"
     },
     {
-     "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-     "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 21:01:19 +0000"
+     "title": "Gen Z-led protests in Germany turn violent",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 00:27:20 +0000"
     },
     {
-     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-     "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 20:30:35 +0000"
+     "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 00:00:51 +0000"
     },
     {
-     "title": "Israel’s allegations of Qatari election interference rejected",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 20:24:58 +0000"
+     "title": "ICE agent’s violent shove propels woman through the air",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 23:45:36 +0000"
     },
     {
-     "title": "What is ranked-choice voting and how does it work in US elections?",
-     "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 20:11:37 +0000"
+     "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+     "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 22:38:03 +0000"
     },
     {
-     "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-     "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 20:09:18 +0000"
+     "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+     "link": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 22:36:41 +0000"
     },
     {
-     "title": "How vulnerable are cryptocurrency platforms?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 19:19:29 +0000"
+     "title": "Palestine Action supporters arrested outside US embassy in London",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 22:10:53 +0000"
     },
     {
-     "title": "Palestinians ‘Stealing their own olives’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
-     "date": "Sat, 31 Oct 2026 19:18:32 +0000"
+     "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+     "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+     "date": "Sat, 31 Oct 2026 21:38:54 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
+     "link": "https://www.nature.com/articles/d41586-026-03553-7",
+     "date": ""
+    },
+    {
+     "title": "Author Correction: Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
+     "link": "https://www.nature.com/articles/s41586-026-11337-2",
+     "date": ""
+    },
+    {
+     "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
+     "link": "https://www.nature.com/articles/d41586-026-03543-9",
+     "date": ""
+    },
+    {
+     "title": "Somewhere over the transcontinental burrito tunnel",
+     "link": "https://www.nature.com/articles/d41586-026-03368-6",
+     "date": ""
+    },
+    {
+     "title": "I built the UK government’s metascience unit — here’s what countries need to know",
+     "link": "https://www.nature.com/articles/d41586-026-03502-4",
+     "date": ""
+    },
+    {
+     "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+     "link": "https://www.nature.com/articles/d41586-026-03455-8",
+     "date": ""
+    },
+    {
+     "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
+     "link": "https://www.nature.com/articles/d41586-026-03512-2",
+     "date": ""
+    },
+    {
+     "title": "Even stupendous black holes can’t explain dark matter",
+     "link": "https://www.nature.com/articles/d41586-026-03386-4",
+     "date": ""
     }
    ]
   }
