@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-01 07:33 UTC",
+ "updated": "2026-11-01 15:10 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Shops looted as German cost of living protests turn violent",
+     "title": "Shops looted as German cost-of-living protests turn violent",
      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 07:05:50 GMT"
+     "date": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
-     "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+     "title": "Healey risks breaking minimum wage promise for younger workers",
      "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 17:26:29 GMT"
+     "date": "Sun, 01 Nov 2026 11:05:40 GMT"
     },
     {
-     "title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
-     "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 31 Oct 2026 16:55:47 GMT"
+     "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+     "link": "https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 13:41:00 GMT"
     },
     {
-     "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-     "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 06:03:57 GMT"
+     "title": "University of Cambridge scientist among those who died in Spanish train crash",
+     "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 13:41:05 GMT"
     },
     {
-     "title": "Reeves says UK's future should be inside the EU",
-     "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 02:57:34 GMT"
+     "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 14:11:35 GMT"
     },
     {
-     "title": "Who are the real winners of Celebrity Traitors?",
-     "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 00:06:01 GMT"
+     "title": "Five teenagers stabbed at Halloween party",
+     "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 15:01:31 GMT"
     },
     {
      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
@@ -40,9 +40,9 @@
      "date": "Sun, 01 Nov 2026 05:26:02 GMT"
     },
     {
-     "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-     "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 00:17:05 GMT"
+     "title": "Who are the real winners of Celebrity Traitors?",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 00:06:01 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 21:13:14 GMT"
+     "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+     "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 00:17:05 GMT"
+    },
+    {
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 13:11:37 GMT"
     },
     {
      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -70,24 +75,19 @@
      "date": "Fri, 30 Oct 2026 18:00:24 GMT"
     },
     {
-     "title": "How Poundland grew from a market stall to a high street giant",
-     "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 06:08:22 GMT"
-    },
-    {
      "title": "How video game remakes tap the power of nostalgia",
      "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 30 Oct 2026 07:45:00 GMT"
     },
     {
-     "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 00:00:35 GMT"
+     "title": "How Poundland grew from a market stall to a high street giant",
+     "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 06:08:22 GMT"
     },
     {
-     "title": "Yorkshire Water boss resigns after firm downgraded",
-     "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 16:04:55 GMT"
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 30 Oct 2026 21:13:14 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Virginia and D.C. sue to block construction of Trump arch",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-     "date": "Sat, 31 Oct 2026 18:48:51 -0400"
+     "title": "Living with high prices in Virginia's 1st Congressional District",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+     "date": "Sun, 01 Nov 2026 08:00:00 -0500"
     },
     {
-     "title": "Mixed economic forecast weighs heavy ahead of midterms",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
-     "date": "Sat, 31 Oct 2026 17:14:35 -0400"
+     "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+     "date": "Sun, 01 Nov 2026 07:00:00 -0500"
     },
     {
-     "title": "France seethes again as youth-led protests sweep Europe",
-     "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-     "date": "Sat, 31 Oct 2026 15:30:19 -0400"
+     "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+     "date": "Sun, 01 Nov 2026 06:00:00 -0500"
     },
     {
-     "title": "Key takeaways from this week's political meeting in Beijing",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-     "date": "Sat, 31 Oct 2026 14:42:33 -0400"
+     "title": "How one family gave a critical boost to gene therapy research",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
     },
     {
-     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-     "date": "Sat, 31 Oct 2026 14:11:02 -0400"
+     "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
     },
     {
-     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-     "date": "Sat, 31 Oct 2026 09:50:58 -0400"
+     "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
+     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
     },
     {
-     "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-     "date": "Sat, 31 Oct 2026 08:00:00 -0400"
+     "title": "Here's how to watch election night as the polls close, hour-by-hour",
+     "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
     },
     {
-     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-     "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-     "date": "Sat, 31 Oct 2026 07:56:10 -0400"
+     "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
+     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Police storm Portugal housing protest camps",
-     "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 07:06:21 +0000"
+     "title": "Photos: Thousands join India’s opposition rally against election chief",
+     "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 14:46:03 +0000"
     },
     {
-     "title": "A Gulf non-aggression pact could be the path forward",
-     "link": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 07:03:56 +0000"
+     "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+     "link": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 14:26:43 +0000"
     },
     {
-     "title": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
-     "link": "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 06:34:20 +0000"
+     "title": "Israel election: When will government be formed, who will lead it?",
+     "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 14:16:14 +0000"
     },
     {
-     "title": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
-     "link": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 06:19:52 +0000"
+     "title": "Israeli attacks on Gaza kill at least nine people",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 14:10:59 +0000"
     },
     {
-     "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
-     "link": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 06:17:45 +0000"
+     "title": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 13:47:53 +0000"
     },
     {
-     "title": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India",
-     "link": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 05:25:32 +0000"
+     "title": "Ireland’s European athletics champion Ciara Mageean dies aged 34",
+     "link": "https://www.aljazeera.com/sports/2026/11/1/irelands-european-athletics-champion-ciara-mageean-dies-aged-34?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 13:43:57 +0000"
     },
     {
-     "title": "Roger’s cynical gift basket for El-Sayed on his birthday",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 05:21:16 +0000"
+     "title": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 13:42:25 +0000"
     },
     {
-     "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-     "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 04:49:15 +0000"
+     "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+     "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 13:36:16 +0000"
     }
    ]
   },
