@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 15:10 UTC",
+ "updated": "2026-11-01 19:40 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -10,45 +10,50 @@
      "date": "Sun, 01 Nov 2026 11:57:48 GMT"
     },
     {
-     "title": "Healey risks breaking minimum wage promise for younger workers",
-     "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 11:05:40 GMT"
-    },
-    {
-     "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
-     "link": "https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 13:41:00 GMT"
-    },
-    {
-     "title": "University of Cambridge scientist among those who died in Spanish train crash",
-     "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 13:41:05 GMT"
-    },
-    {
-     "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 14:11:35 GMT"
-    },
-    {
      "title": "Five teenagers stabbed at Halloween party",
      "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 01 Nov 2026 15:01:31 GMT"
     },
     {
-     "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-     "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 05:26:02 GMT"
+     "title": "Thousands of jobs at Virgin Media O2 to be cut",
+     "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 16:57:14 GMT"
     },
     {
-     "title": "Who are the real winners of Celebrity Traitors?",
-     "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 00:06:01 GMT"
+     "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
+     "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 17:53:55 GMT"
+    },
+    {
+     "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 14:11:35 GMT"
+    },
+    {
+     "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
+     "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 18:00:14 GMT"
+    },
+    {
+     "title": "After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge",
+     "link": "https://www.bbc.co.uk/news/articles/c9146yve236lo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 17:18:16 GMT"
+    },
+    {
+     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+     "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 17:06:32 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Thousands of jobs at Virgin Media O2 to be cut",
+     "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 16:57:14 GMT"
+    },
     {
      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
      "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
      "title": "City of London chief tops UK Black Powerlist",
      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 30 Oct 2026 18:00:24 GMT"
-    },
-    {
-     "title": "How video game remakes tap the power of nostalgia",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 07:45:00 GMT"
     },
     {
      "title": "How Poundland grew from a market stall to a high street giant",
@@ -140,6 +140,31 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+     "date": "Sun, 01 Nov 2026 14:00:58 -0500"
+    },
+    {
+     "title": "How to think about the midterms — and the political moment the country is in",
+     "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+     "date": "Sun, 01 Nov 2026 13:27:06 -0500"
+    },
+    {
+     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+     "date": "Sun, 01 Nov 2026 13:00:37 -0500"
+    },
+    {
+     "title": "The midterms will test the nation's political direction and confidence",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+     "date": "Sun, 01 Nov 2026 12:57:58 -0500"
+    },
+    {
+     "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+     "date": "Sun, 01 Nov 2026 12:33:21 -0500"
+    },
+    {
      "title": "Living with high prices in Virginia's 1st Congressional District",
      "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
      "date": "Sun, 01 Nov 2026 08:00:00 -0500"
@@ -153,31 +178,6 @@
      "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
      "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
      "date": "Sun, 01 Nov 2026 06:00:00 -0500"
-    },
-    {
-     "title": "How one family gave a critical boost to gene therapy research",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
-     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
-     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
-    },
-    {
-     "title": "Here's how to watch election night as the polls close, hour-by-hour",
-     "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
-    },
-    {
-     "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
-     "date": "Sun, 01 Nov 2026 05:00:00 -0400"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Photos: Thousands join India’s opposition rally against election chief",
-     "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 14:46:03 +0000"
+     "title": "Arsenal go top after narrow win at Liverpool",
+     "link": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 19:09:18 +0000"
     },
     {
-     "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-     "link": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 14:26:43 +0000"
+     "title": "How will the Iran war shape the outcome of the US midterm vote?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 19:00:32 +0000"
     },
     {
-     "title": "Israel election: When will government be formed, who will lead it?",
-     "link": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 14:16:14 +0000"
+     "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+     "link": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 18:58:23 +0000"
     },
     {
-     "title": "Israeli attacks on Gaza kill at least nine people",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 14:10:59 +0000"
+     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+     "link": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 18:51:07 +0000"
     },
     {
-     "title": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 13:47:53 +0000"
+     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+     "link": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 18:37:37 +0000"
     },
     {
-     "title": "Ireland’s European athletics champion Ciara Mageean dies aged 34",
-     "link": "https://www.aljazeera.com/sports/2026/11/1/irelands-european-athletics-champion-ciara-mageean-dies-aged-34?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 13:43:57 +0000"
+     "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+     "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 18:23:57 +0000"
     },
     {
-     "title": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 13:42:25 +0000"
+     "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+     "link": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 17:30:45 +0000"
     },
     {
-     "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-     "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 13:36:16 +0000"
+     "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+     "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
+     "date": "Sun, 01 Nov 2026 16:59:41 +0000"
     }
    ]
   },
