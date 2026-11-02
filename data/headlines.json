@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-02 06:04 UTC",
+ "updated": "2026-11-02 15:54 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Five teenagers stabbed at Halloween party",
-     "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 15:01:31 GMT"
+     "title": "Shop freezers in seven European countries hit by cyber-attack",
+     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 15:12:22 GMT"
     },
     {
-     "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+     "title": "Mother told to book appointment to give birth to her baby who had died",
+     "link": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 12:51:10 GMT"
+    },
+    {
+     "title": "What Americans are voting for in this election",
+     "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 09:22:55 GMT"
+    },
+    {
+     "title": "Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat",
+     "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 14:35:38 GMT"
+    },
+    {
+     "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
+     "link": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 13:29:48 GMT"
+    },
+    {
+     "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+     "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 06:00:54 GMT"
+    },
+    {
+     "title": "Nine killed as small jet crashes on Florida street",
      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 02:59:02 GMT"
+     "date": "Mon, 02 Nov 2026 09:10:19 GMT"
     },
     {
-     "title": "How a Democrat in Michigan rocked the party days before the US midterms",
-     "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 04:40:00 GMT"
-    },
-    {
-     "title": "Democrats have high hopes for midterms, but polls have let them down before",
-     "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 00:25:12 GMT"
-    },
-    {
-     "title": "Binance users withdraw $3.6bn after record crypto hack",
-     "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 03:32:14 GMT"
-    },
-    {
-     "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
-     "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 23:20:54 GMT"
-    },
-    {
-     "title": "A&E warning system to flag sick children deteriorating quickly",
-     "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 00:51:24 GMT"
-    },
-    {
-     "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 02:46:55 GMT"
+     "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 14:35:01 GMT"
     }
    ]
   },
@@ -50,9 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Binance users withdraw $3.6bn after record crypto hack",
+     "title": "Ryanair says it may freeze workers' pay and raise airfares",
+     "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 12:22:10 GMT"
+    },
+    {
+     "title": "Shop freezers in seven European countries hit by cyber-attack",
+     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 15:12:22 GMT"
+    },
+    {
+     "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+     "link": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 13:40:36 GMT"
+    },
+    {
+     "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 03:32:14 GMT"
+     "date": "Mon, 02 Nov 2026 07:42:33 GMT"
     },
     {
      "title": "Don't get caught out by new Buy Now Pay Later rules",
@@ -60,7 +75,7 @@
      "date": "Sun, 01 Nov 2026 23:34:49 GMT"
     },
     {
-     "title": "Thousands of jobs at Virgin Media O2 to be cut",
+     "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 01 Nov 2026 16:57:14 GMT"
     },
@@ -70,24 +85,9 @@
      "date": "Sun, 01 Nov 2026 00:17:05 GMT"
     },
     {
-     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 20:34:46 GMT"
-    },
-    {
      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 31 Oct 2026 02:12:19 GMT"
-    },
-    {
-     "title": "City of London chief tops UK Black Powerlist",
-     "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 18:00:24 GMT"
-    },
-    {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 13:11:37 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-     "date": "Sun, 01 Nov 2026 17:22:12 -0500"
+     "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+     "date": "Mon, 02 Nov 2026 07:19:54 -0500"
     },
     {
-     "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-     "date": "Sun, 01 Nov 2026 17:19:13 -0500"
+     "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
+     "date": "Mon, 02 Nov 2026 06:30:00 -0500"
     },
     {
-     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-     "date": "Sun, 01 Nov 2026 14:49:15 -0500"
+     "title": "6 things to watch for on election night",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-     "date": "Sun, 01 Nov 2026 14:00:58 -0500"
+     "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "How to think about the midterms — and the political moment the country is in",
-     "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-     "date": "Sun, 01 Nov 2026 13:27:06 -0500"
+     "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-     "date": "Sun, 01 Nov 2026 13:00:37 -0500"
+     "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "The midterms will test the nation's political direction and confidence",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
-     "date": "Sun, 01 Nov 2026 12:57:58 -0500"
+     "title": "What Vance's midterm push reveals about his potential 2028 bid",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
+     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
-     "date": "Sun, 01 Nov 2026 12:33:21 -0500"
+     "title": "Morning news brief",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
+     "date": "Mon, 02 Nov 2026 04:42:20 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
-     "link": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 04:31:02 +0000"
+     "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
+     "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 15:43:00 +0000"
     },
     {
-     "title": "Bulgaria has its first elected female president",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 04:25:56 +0000"
+     "title": "Carrick not distracted by speculation over United future",
+     "link": "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 15:31:07 +0000"
     },
     {
-     "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
-     "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 04:08:54 +0000"
+     "title": "Jake Paul to fight MMA star Cedric Doumbe",
+     "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 15:13:13 +0000"
     },
     {
-     "title": "US midterms: What to know about independent voters and candidates",
-     "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 03:53:42 +0000"
+     "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
+     "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 15:09:49 +0000"
     },
     {
-     "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
-     "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 03:51:57 +0000"
+     "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+     "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 15:00:08 +0000"
     },
     {
-     "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 03:17:41 +0000"
+     "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 14:57:01 +0000"
     },
     {
-     "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 02:41:40 +0000"
+     "title": "As Islamophobia ramps up in US midterms, Texas Muslims eye local stakes",
+     "link": "https://www.aljazeera.com/news/2026/11/2/as-islamophobia-ramps-up-in-us-midterms-texas-muslims-eye-local-stakes?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 14:41:47 +0000"
     },
     {
-     "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-     "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 01:40:50 +0000"
+     "title": "How US oil firms profit $130bn from Iran war as household bills surge",
+     "link": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 14:27:50 +0000"
     }
    ]
   },
@@ -230,43 +230,43 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis",
+     "link": "https://www.nature.com/articles/s41586-026-11350-5",
+     "date": ""
+    },
+    {
      "title": "Measles made a stealthy return as another virus took the spotlight",
      "link": "https://www.nature.com/articles/d41586-026-03387-3",
      "date": ""
     },
     {
-     "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
-     "link": "https://www.nature.com/articles/d41586-026-03553-7",
+     "title": "Earth’s resources sustain humanity — but they come at a high price",
+     "link": "https://www.nature.com/articles/d41586-026-03506-0",
      "date": ""
     },
     {
-     "title": "Author Correction: Rh3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
-     "link": "https://www.nature.com/articles/s41586-026-11337-2",
+     "title": "Iranian scientists in the United States face major upheaval",
+     "link": "https://www.nature.com/articles/d41586-026-03346-y",
      "date": ""
     },
     {
-     "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-     "link": "https://www.nature.com/articles/d41586-026-03543-9",
+     "title": "Five overlooked steps to identify new epidemics, fast",
+     "link": "https://www.nature.com/articles/d41586-026-03509-x",
      "date": ""
     },
     {
-     "title": "Somewhere over the transcontinental burrito tunnel",
-     "link": "https://www.nature.com/articles/d41586-026-03368-6",
+     "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+     "link": "https://www.nature.com/articles/d41586-026-03511-3",
      "date": ""
     },
     {
-     "title": "I built the UK government’s metascience unit — here’s what countries need to know",
-     "link": "https://www.nature.com/articles/d41586-026-03502-4",
+     "title": "In Indonesia, PhD students blow the whistle on bad supervision",
+     "link": "https://www.nature.com/articles/d41586-026-02465-w",
      "date": ""
     },
     {
-     "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
-     "link": "https://www.nature.com/articles/d41586-026-03455-8",
-     "date": ""
-    },
-    {
-     "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
-     "link": "https://www.nature.com/articles/d41586-026-03512-2",
+     "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
+     "link": "https://www.nature.com/articles/d41586-026-03507-z",
      "date": ""
     }
    ]
