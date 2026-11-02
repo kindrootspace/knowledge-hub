@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-02 15:54 UTC",
+ "updated": "2026-11-02 23:30 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Mahmood scraps settlement plans for migrant care workers",
+     "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 22:32:31 GMT"
+    },
+    {
      "title": "Shop freezers in seven European countries hit by cyber-attack",
      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 15:12:22 GMT"
+     "date": "Mon, 02 Nov 2026 17:38:11 GMT"
     },
     {
-     "title": "Mother told to book appointment to give birth to her baby who had died",
-     "link": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 12:51:10 GMT"
+     "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+     "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 17:34:58 GMT"
     },
     {
-     "title": "What Americans are voting for in this election",
-     "link": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 09:22:55 GMT"
+     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 21:10:04 GMT"
     },
     {
-     "title": "Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat",
-     "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 14:35:38 GMT"
-    },
-    {
-     "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-     "link": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 13:29:48 GMT"
-    },
-    {
-     "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-     "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 06:00:54 GMT"
-    },
-    {
-     "title": "Nine killed as small jet crashes on Florida street",
+     "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 09:10:19 GMT"
+     "date": "Mon, 02 Nov 2026 19:58:34 GMT"
     },
     {
-     "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 14:35:01 GMT"
+     "title": "What Florida jet audio and flight data tells us about its final moments",
+     "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 19:49:22 GMT"
+    },
+    {
+     "title": "MP Carla Lockhart quits DUP in Drumcree row",
+     "link": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 18:17:31 GMT"
+    },
+    {
+     "title": "Two boys arrested after Halloween party stabbings",
+     "link": "https://www.bbc.co.uk/news/articles/cked3j229j43o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 20:20:11 GMT"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "title": "Shop freezers in seven European countries hit by cyber-attack",
      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 02 Nov 2026 15:12:22 GMT"
+     "date": "Mon, 02 Nov 2026 17:38:11 GMT"
     },
     {
      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
@@ -120,6 +120,11 @@
      "date": "Mon, 26 Oct 2026 15:07:23 GMT"
     },
     {
+     "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+     "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+     "date": "Mon, 02 Nov 2026 20:00:27 GMT"
+    },
+    {
      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
      "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
      "date": "Sun, 01 Nov 2026 22:26:11 GMT"
@@ -128,17 +133,32 @@
      "title": "Canada and EU announce new alliance open to like-minded countries",
      "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
      "date": "Fri, 30 Oct 2026 19:42:15 GMT"
-    },
-    {
-     "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-     "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-     "date": "Fri, 30 Oct 2026 14:08:41 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+     "date": "Mon, 02 Nov 2026 15:02:41 -0500"
+    },
+    {
+     "title": "Is America really that polarized? The answer might be a surprise",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+     "date": "Mon, 02 Nov 2026 15:00:00 -0500"
+    },
+    {
+     "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+     "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+     "date": "Mon, 02 Nov 2026 13:54:01 -0500"
+    },
+    {
+     "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+     "date": "Mon, 02 Nov 2026 11:34:17 -0500"
+    },
     {
      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
      "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
@@ -150,34 +170,14 @@
      "date": "Mon, 02 Nov 2026 06:30:00 -0500"
     },
     {
-     "title": "6 things to watch for on election night",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
-     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
-    },
-    {
      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
      "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
-     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "With students scarce, college admissions offices get friendlier, less intimidating",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
      "date": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
      "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
      "date": "Mon, 02 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "What Vance's midterm push reveals about his potential 2028 bid",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-     "date": "Mon, 02 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
-     "date": "Mon, 02 Nov 2026 04:42:20 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Displaced in Hebron: Picking up pieces after Israeli siege",
-     "link": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 15:43:00 +0000"
+     "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+     "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 23:05:30 +0000"
     },
     {
-     "title": "Carrick not distracted by speculation over United future",
-     "link": "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 15:31:07 +0000"
+     "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 22:59:41 +0000"
     },
     {
-     "title": "Jake Paul to fight MMA star Cedric Doumbe",
-     "link": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 15:13:13 +0000"
+     "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+     "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 22:40:06 +0000"
     },
     {
-     "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
-     "link": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 15:09:49 +0000"
+     "title": "Student protests resume in France as pupils return to school",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 21:28:55 +0000"
     },
     {
-     "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-     "link": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 15:00:08 +0000"
+     "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 21:23:31 +0000"
     },
     {
-     "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 14:57:01 +0000"
+     "title": "Mamdani’s progressive allies vie for seats in Congress",
+     "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 20:48:56 +0000"
     },
     {
-     "title": "As Islamophobia ramps up in US midterms, Texas Muslims eye local stakes",
-     "link": "https://www.aljazeera.com/news/2026/11/2/as-islamophobia-ramps-up-in-us-midterms-texas-muslims-eye-local-stakes?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 14:41:47 +0000"
+     "title": "What’s the future of the Western Sahara conflict?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 20:43:44 +0000"
     },
     {
-     "title": "How US oil firms profit $130bn from Iran war as household bills surge",
-     "link": "https://www.aljazeera.com/news/2026/11/2/how-us-oil-firms-profit-130bn-from-iran-war-as-household-bills-surge?traffic_source=rss",
-     "date": "Mon, 02 Nov 2026 14:27:50 +0000"
+     "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+     "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 20:38:04 +0000"
     }
    ]
   },
@@ -245,6 +245,11 @@
      "date": ""
     },
     {
+     "title": "What tech entrepreneurs can teach scientists about failure",
+     "link": "https://www.nature.com/articles/d41586-026-03485-2",
+     "date": ""
+    },
+    {
      "title": "Iranian scientists in the United States face major upheaval",
      "link": "https://www.nature.com/articles/d41586-026-03346-y",
      "date": ""
@@ -262,11 +267,6 @@
     {
      "title": "In Indonesia, PhD students blow the whistle on bad supervision",
      "link": "https://www.nature.com/articles/d41586-026-02465-w",
-     "date": ""
-    },
-    {
-     "title": "How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’",
-     "link": "https://www.nature.com/articles/d41586-026-03507-z",
      "date": ""
     }
    ]
