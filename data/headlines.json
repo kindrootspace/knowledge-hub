@@ -1,38 +1,33 @@
 {
- "updated": "2026-11-01 23:36 UTC",
+ "updated": "2026-11-02 06:04 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
-    {
-     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 22:38:24 GMT"
-    },
     {
      "title": "Five teenagers stabbed at Halloween party",
      "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 01 Nov 2026 15:01:31 GMT"
     },
     {
-     "title": "Thousands of jobs at Virgin Media O2 to be cut",
-     "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 16:57:14 GMT"
-    },
-    {
      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 23:15:56 GMT"
+     "date": "Mon, 02 Nov 2026 02:59:02 GMT"
     },
     {
-     "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-     "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 17:53:55 GMT"
+     "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 04:40:00 GMT"
     },
     {
-     "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 21:18:12 GMT"
+     "title": "Democrats have high hopes for midterms, but polls have let them down before",
+     "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 00:25:12 GMT"
+    },
+    {
+     "title": "Binance users withdraw $3.6bn after record crypto hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 03:32:14 GMT"
     },
     {
      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
@@ -40,15 +35,30 @@
      "date": "Sun, 01 Nov 2026 23:20:54 GMT"
     },
     {
-     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-     "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 21:16:45 GMT"
+     "title": "A&E warning system to flag sick children deteriorating quickly",
+     "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 00:51:24 GMT"
+    },
+    {
+     "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 02:46:55 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Binance users withdraw $3.6bn after record crypto hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 02 Nov 2026 03:32:14 GMT"
+    },
+    {
+     "title": "Don't get caught out by new Buy Now Pay Later rules",
+     "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 23:34:49 GMT"
+    },
     {
      "title": "Thousands of jobs at Virgin Media O2 to be cut",
      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
@@ -60,19 +70,14 @@
      "date": "Sun, 01 Nov 2026 00:17:05 GMT"
     },
     {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 01 Nov 2026 13:11:37 GMT"
-    },
-    {
      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 30 Oct 2026 20:34:46 GMT"
     },
     {
-     "title": "What we know about Binance's $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 12:27:28 GMT"
+     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 31 Oct 2026 02:12:19 GMT"
     },
     {
      "title": "City of London chief tops UK Black Powerlist",
@@ -80,14 +85,9 @@
      "date": "Fri, 30 Oct 2026 18:00:24 GMT"
     },
     {
-     "title": "How Poundland grew from a market stall to a high street giant",
-     "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 06:08:22 GMT"
-    },
-    {
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 30 Oct 2026 21:13:14 GMT"
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 01 Nov 2026 13:11:37 GMT"
     }
    ]
   },
@@ -145,6 +145,11 @@
      "date": "Sun, 01 Nov 2026 17:22:12 -0500"
     },
     {
+     "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+     "date": "Sun, 01 Nov 2026 17:19:13 -0500"
+    },
+    {
      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
      "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
      "date": "Sun, 01 Nov 2026 14:49:15 -0500"
@@ -173,11 +178,6 @@
      "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
      "link": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
      "date": "Sun, 01 Nov 2026 12:33:21 -0500"
-    },
-    {
-     "title": "Living with high prices in Virginia's 1st Congressional District",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
-     "date": "Sun, 01 Nov 2026 08:00:00 -0500"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "High-ranking US Democratic senator suffers stroke",
-     "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 22:32:54 +0000"
+     "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
+     "link": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 04:31:02 +0000"
     },
     {
-     "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-     "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 22:15:14 +0000"
+     "title": "Bulgaria has its first elected female president",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 04:25:56 +0000"
     },
     {
-     "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 21:29:43 +0000"
+     "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+     "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 04:08:54 +0000"
     },
     {
-     "title": "Thousands displaced from Hebron as Israel carries on siege",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 21:28:47 +0000"
+     "title": "US midterms: What to know about independent voters and candidates",
+     "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 03:53:42 +0000"
     },
     {
-     "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-     "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 21:01:33 +0000"
+     "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+     "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 03:51:57 +0000"
     },
     {
-     "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-     "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 21:00:52 +0000"
+     "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 03:17:41 +0000"
     },
     {
-     "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 20:48:00 +0000"
+     "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 02:41:40 +0000"
     },
     {
-     "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
-     "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
-     "date": "Sun, 01 Nov 2026 20:43:33 +0000"
+     "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+     "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+     "date": "Mon, 02 Nov 2026 01:40:50 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Measles made a stealthy return as another virus took the spotlight",
+     "link": "https://www.nature.com/articles/d41586-026-03387-3",
+     "date": ""
+    },
     {
      "title": "Briefing Chat: Dog years: could longevity science extend your pets' lives?",
      "link": "https://www.nature.com/articles/d41586-026-03553-7",
@@ -262,11 +267,6 @@
     {
      "title": "Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds",
      "link": "https://www.nature.com/articles/d41586-026-03512-2",
-     "date": ""
-    },
-    {
-     "title": "Even stupendous black holes can’t explain dark matter",
-     "link": "https://www.nature.com/articles/d41586-026-03386-4",
      "date": ""
     }
    ]
