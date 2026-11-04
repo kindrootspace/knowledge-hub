@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-04 09:14 UTC",
+ "updated": "2026-11-04 17:17 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Anthony Zurcher: Democrats push deep into Trump's heartland on historic night",
+     "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+     "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 13:33:30 GMT"
+    },
+    {
+     "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 04 Nov 2026 06:53:56 GMT"
     },
     {
-     "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-     "link": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 08:56:40 GMT"
+     "title": "Five reasons why Republicans lost so badly",
+     "link": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 12:44:19 GMT"
+    },
+    {
+     "title": "Everything you need to know from the US midterm elections",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 14:05:42 GMT"
     },
     {
      "title": "How America voted in maps and charts",
      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 07:24:59 GMT"
+     "date": "Wed, 04 Nov 2026 09:53:18 GMT"
     },
     {
-     "title": "Key moments from a night of midterm election firsts",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 09:01:40 GMT"
+     "title": "Huntingdon train attack passengers thought stabbing was a 'joke'",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 15:36:15 GMT"
     },
     {
-     "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-     "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 05:39:36 GMT"
+     "title": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
+     "link": "https://www.bbc.co.uk/news/articles/ck1ex56e5q8wo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 16:31:14 GMT"
     },
     {
-     "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
-     "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 02:14:45 GMT"
-    },
-    {
-     "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 00:04:28 GMT"
-    },
-    {
-     "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 01:36:06 GMT"
+     "title": "World must 'unite' to ease cost of living pressure, PM Burnham says after US midterms",
+     "link": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 15:35:09 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Poundland supplier 'will lose millions' if retailer collapses",
+     "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+     "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 15:51:37 GMT"
+    },
+    {
+     "title": "Poundland owner in crunch talks as retailer's collapse looms",
      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 08:05:32 GMT"
+     "date": "Wed, 04 Nov 2026 17:14:32 GMT"
     },
     {
      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -60,9 +65,9 @@
      "date": "Tue, 03 Nov 2026 20:53:03 GMT"
     },
     {
-     "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+     "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 01:36:06 GMT"
+     "date": "Wed, 04 Nov 2026 15:13:14 GMT"
     },
     {
      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -70,24 +75,19 @@
      "date": "Tue, 03 Nov 2026 16:19:29 GMT"
     },
     {
-     "title": "Canva announces major job cuts after 'our hardest year yet'",
-     "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 00:09:35 GMT"
-    },
-    {
      "title": "Graduates are managing AI - but are they learning much else?",
      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
      "date": "Wed, 04 Nov 2026 00:04:35 GMT"
     },
     {
+     "title": "Canva announces major job cuts after 'our hardest year yet'",
+     "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 04 Nov 2026 00:09:35 GMT"
+    },
+    {
      "title": "Drivers may get compensation offers before car finance saga ends",
      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 03 Nov 2026 11:56:31 GMT"
-    },
-    {
-     "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 03 Nov 2026 15:12:35 GMT"
     }
    ]
   },
@@ -97,7 +97,7 @@
     {
      "title": "ANC faces anger over poor services as South Africans vote in local elections",
      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-     "date": "Wed, 04 Nov 2026 04:00:23 GMT"
+     "date": "Wed, 04 Nov 2026 14:50:47 GMT"
     },
     {
      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
-     "link": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
-     "date": "Wed, 04 Nov 2026 02:28:02 -0500"
+     "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+     "date": "Wed, 04 Nov 2026 08:38:09 -0500"
     },
     {
-     "title": "Republicans tried to gerrymander their way out of big congressional losses. It didn't work",
-     "link": "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans",
-     "date": "Wed, 04 Nov 2026 02:23:28 -0500"
+     "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+     "date": "Wed, 04 Nov 2026 07:34:35 -0500"
     },
     {
-     "title": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
-     "link": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
-     "date": "Wed, 04 Nov 2026 01:50:28 -0500"
+     "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+     "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+     "date": "Wed, 04 Nov 2026 07:18:39 -0500"
     },
     {
-     "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-     "link": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
-     "date": "Wed, 04 Nov 2026 01:02:31 -0500"
+     "title": "6 takeaways from Democrats' big wave on election night",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+     "date": "Wed, 04 Nov 2026 07:02:38 -0500"
     },
     {
-     "title": "Here's how some key demographic groups voted in the midterms",
-     "link": "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics",
-     "date": "Wed, 04 Nov 2026 00:43:42 -0500"
+     "title": "Votes are still being counted to see who will represent Mississippi in the Senate",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race",
+     "date": "Wed, 04 Nov 2026 06:57:23 -0500"
     },
     {
-     "title": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
-     "link": "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated",
-     "date": "Wed, 04 Nov 2026 00:14:01 -0500"
+     "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+     "date": "Wed, 04 Nov 2026 06:00:00 -0500"
     },
     {
-     "title": "Democrats win full control of Congress, ushering in a new era of divided government",
-     "link": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-     "date": "Tue, 03 Nov 2026 23:44:55 -0500"
+     "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+     "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+     "date": "Wed, 04 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "Democrat Josh Turek wins the Senate seat in Iowa",
-     "link": "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
-     "date": "Tue, 03 Nov 2026 23:37:55 -0500"
+     "title": "These 10 candidates for governor made history in the 2026 election",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+     "date": "Wed, 04 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Republicans fuming after Democrat Talarico flips Texas Senate blue",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:42:50 +0000"
+     "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
+     "link": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 17:05:12 +0000"
     },
     {
-     "title": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:30:38 +0000"
+     "title": "The new Congress may struggle to push a progressive agenda",
+     "link": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 17:05:09 +0000"
     },
     {
-     "title": "Australian government defends social media ban for under 16s in court",
-     "link": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:26:50 +0000"
+     "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+     "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 16:37:49 +0000"
     },
     {
-     "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
-     "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:22:15 +0000"
+     "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+     "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 16:20:23 +0000"
     },
     {
-     "title": "US elects its first Black woman governor",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:19:27 +0000"
+     "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 15:51:32 +0000"
     },
     {
-     "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:18:40 +0000"
+     "title": "US markets rise as Democrats sweep midterm elections",
+     "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 15:39:38 +0000"
     },
     {
-     "title": "Democrat from Kansas elected to US Senate for first time since 1932",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 08:09:44 +0000"
+     "title": "‘We are still red,’ Florida’s first Black governor upon win",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-are-still-red-floridas-first-black-governor-upon-win?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 15:32:20 +0000"
     },
     {
-     "title": "‘We defeated Goliath’: Texas Democrat James Talarico wins Senate seat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss",
-     "date": "Wed, 04 Nov 2026 07:53:24 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Whence dragons?",
-     "link": "https://www.nature.com/articles/d41586-026-03277-8",
-     "date": ""
-    },
-    {
-     "title": "Research bonuses need clear and fair rules",
-     "link": "https://www.nature.com/articles/d41586-026-03562-6",
-     "date": ""
-    },
-    {
-     "title": "Safety alerts must reach visiting PhD students",
-     "link": "https://www.nature.com/articles/d41586-026-03560-8",
-     "date": ""
-    },
-    {
-     "title": "Universities must measure learning, both with and without AI assistance",
-     "link": "https://www.nature.com/articles/d41586-026-03559-1",
-     "date": ""
-    },
-    {
-     "title": "China should share the evidence behind animal-testing alternatives openly",
-     "link": "https://www.nature.com/articles/d41586-026-03561-7",
-     "date": ""
-    },
-    {
-     "title": "Historic Marburg outbreak hints at long-term viral hideout",
-     "link": "https://www.nature.com/articles/d41586-026-03538-6",
-     "date": ""
-    },
-    {
-     "title": "Will AI grant reviews make science more conservative?",
-     "link": "https://www.nature.com/articles/d41586-026-03340-4",
-     "date": ""
-    },
-    {
-     "title": "Trump’s executive order on women’s health feels like déjà vu",
-     "link": "https://www.nature.com/articles/d41586-026-03503-3",
-     "date": ""
+     "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+     "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+     "date": "Wed, 04 Nov 2026 15:28:00 +0000"
     }
    ]
   }
