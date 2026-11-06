@@ -1,54 +1,64 @@
 {
- "updated": "2026-11-06 10:53 UTC",
+ "updated": "2026-11-06 17:57 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Did a data centre revolt affect the US mid-term election results?",
-     "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 06:01:13 GMT"
+     "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+     "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 16:49:31 GMT"
     },
     {
-     "title": "Met chief warns policing 'heading for failure' without reform",
-     "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 10:19:19 GMT"
+     "title": "AI stocks climb after trillions wiped from market values",
+     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 17:03:02 GMT"
     },
     {
-     "title": "'Misleading' student loans information left out examples of higher-salary repayments",
-     "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 06:06:36 GMT"
+     "title": "New wave of bomb threats hit European airlines",
+     "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 15:25:35 GMT"
     },
     {
-     "title": "Watch: Met Police release Brand interview footage",
-     "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 16:01:56 GMT"
-    },
-    {
-     "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+     "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
      "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 06 Nov 2026 01:22:39 GMT"
     },
     {
-     "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
-     "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 07:36:41 GMT"
+     "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 16:31:15 GMT"
     },
     {
-     "title": "Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?",
-     "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 00:09:56 GMT"
+     "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+     "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 15:02:03 GMT"
     },
     {
-     "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 05:53:15 GMT"
+     "title": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
+     "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 16:43:07 GMT"
+    },
+    {
+     "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+     "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 12:16:44 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "AI stocks climb after trillions wiped from market values",
+     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 17:03:02 GMT"
+    },
+    {
+     "title": "Could the US midterms burst the AI bubble?",
+     "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 16:14:23 GMT"
+    },
     {
      "title": "How does it affect me if share prices fall?",
      "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
@@ -60,14 +70,9 @@
      "date": "Fri, 06 Nov 2026 09:57:04 GMT"
     },
     {
-     "title": "Firms told to publish salaries in job adverts ahead of new law",
+     "title": "PM tells firms to publish salaries in job adverts ahead of new law",
      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 07:36:41 GMT"
-    },
-    {
-     "title": "'I was asked if I was a crier': Your worst job interviews revealed",
-     "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 00:02:52 GMT"
+     "date": "Fri, 06 Nov 2026 15:25:43 GMT"
     },
     {
      "title": "The engine parts that 'fight the laws of the universe'",
@@ -75,25 +80,30 @@
      "date": "Fri, 06 Nov 2026 00:06:06 GMT"
     },
     {
+     "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+     "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 00:02:52 GMT"
+    },
+    {
      "title": "Interest rates hiked to 4% in first increase in over three years",
      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 05 Nov 2026 17:09:55 GMT"
-    },
-    {
-     "title": "Faisal Islam: How high will interest rates go?",
-     "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 13:17:10 GMT"
-    },
-    {
-     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 07:27:26 GMT"
     }
    ]
   },
   {
    "name": "Guardian World",
    "items": [
+    {
+     "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+     "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+     "date": "Fri, 06 Nov 2026 15:08:43 GMT"
+    },
+    {
+     "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+     "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+     "date": "Fri, 06 Nov 2026 12:48:37 GMT"
+    },
     {
      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
      "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
@@ -110,14 +120,9 @@
      "date": "Fri, 30 Oct 2026 05:00:45 GMT"
     },
     {
-     "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-     "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-     "date": "Fri, 30 Oct 2026 05:00:45 GMT"
-    },
-    {
-     "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-     "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-     "date": "Wed, 28 Oct 2026 14:16:24 GMT"
+     "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+     "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+     "date": "Fri, 06 Nov 2026 13:03:38 GMT"
     },
     {
      "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
@@ -128,11 +133,6 @@
      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
      "date": "Fri, 06 Nov 2026 06:16:22 GMT"
-    },
-    {
-     "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-     "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-     "date": "Fri, 06 Nov 2026 01:22:49 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-     "date": "Fri, 06 Nov 2026 05:00:00 -0500"
+     "title": "Remembering 'Star Trek' actor Patrick Stewart",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+     "date": "Fri, 06 Nov 2026 12:36:39 -0500"
     },
     {
-     "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
-     "date": "Fri, 06 Nov 2026 05:00:00 -0500"
+     "title": "European air traffic is targeted by new threats after a week of hoaxes",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+     "date": "Fri, 06 Nov 2026 10:21:31 -0500"
     },
     {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief",
-     "date": "Fri, 06 Nov 2026 04:47:37 -0500"
+     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+     "date": "Fri, 06 Nov 2026 09:53:46 -0500"
     },
     {
-     "title": "Former Army medic reflects on his toughest moments helping the wounded",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
-     "date": "Fri, 06 Nov 2026 04:46:06 -0500"
+     "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+     "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+     "date": "Fri, 06 Nov 2026 08:56:43 -0500"
     },
     {
-     "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-     "date": "Fri, 06 Nov 2026 04:19:57 -0500"
+     "title": "Hiring jumps: The economy added 165,000 jobs last month",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+     "date": "Fri, 06 Nov 2026 08:49:21 -0500"
     },
     {
-     "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-     "date": "Fri, 06 Nov 2026 00:05:43 -0500"
+     "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+     "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+     "date": "Fri, 06 Nov 2026 07:24:52 -0500"
     },
     {
-     "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-     "date": "Thu, 05 Nov 2026 19:16:53 -0500"
+     "title": "Why gold prices are surprisingly low",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+     "date": "Fri, 06 Nov 2026 07:00:00 -0500"
     },
     {
-     "title": "These are the races in the House and Senate that haven't been called yet",
-     "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
-     "date": "Thu, 05 Nov 2026 19:03:45 -0500"
+     "title": "'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen",
+     "date": "Fri, 06 Nov 2026 06:58:56 -0500"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-     "link": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 09:01:40 +0000"
+     "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+     "link": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 17:02:19 +0000"
     },
     {
-     "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
-     "link": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 08:41:05 +0000"
+     "title": "Paraguay resumes Pena impeachment proceedings as financial crisis deepens",
+     "link": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 16:58:56 +0000"
     },
     {
-     "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
-     "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 08:32:57 +0000"
+     "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+     "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 16:40:39 +0000"
     },
     {
-     "title": "Abdul El-Sayed did not have to become less Muslim to win",
-     "link": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 07:53:32 +0000"
+     "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 16:21:57 +0000"
     },
     {
-     "title": "Can America ever return to pre-Trump politics?",
-     "link": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 07:51:09 +0000"
+     "title": "What did the Republicans lose in the US midterms?",
+     "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 16:11:34 +0000"
     },
     {
-     "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
-     "link": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 07:32:08 +0000"
+     "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+     "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 16:10:51 +0000"
     },
     {
-     "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
-     "link": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 07:30:04 +0000"
+     "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 16:04:19 +0000"
     },
     {
-     "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
-     "link": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 07:28:53 +0000"
+     "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 15:48:10 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03595-x",
+     "date": ""
+    },
+    {
+     "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+     "link": "https://www.nature.com/articles/d41586-026-03630-x",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+     "link": "https://www.nature.com/articles/d41586-026-03632-9",
+     "date": ""
+    },
+    {
+     "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
+     "link": "https://www.nature.com/articles/d41586-026-03442-z",
+     "date": ""
+    },
+    {
+     "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
+     "link": "https://www.nature.com/articles/d41586-026-03622-x",
+     "date": ""
+    },
+    {
+     "title": "ESC (DC)2",
+     "link": "https://www.nature.com/articles/d41586-026-03450-z",
+     "date": ""
+    },
+    {
+     "title": "The palaeo cave art that hid in plain sight for 26,000 years",
+     "link": "https://www.nature.com/articles/d41586-026-03585-z",
+     "date": ""
+    },
+    {
+     "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+     "link": "https://www.nature.com/articles/s41586-026-11336-3",
+     "date": ""
     }
    ]
   }
