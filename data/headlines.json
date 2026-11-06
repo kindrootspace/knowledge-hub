@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 21:59 UTC",
+ "updated": "2026-11-06 02:26 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,48 +7,63 @@
     {
      "title": "Russell Brand found guilty of rape and sexual assault",
      "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 18:28:35 GMT"
+     "date": "Fri, 06 Nov 2026 02:21:20 GMT"
     },
     {
-     "title": "Watch: Met Police release Brand interview footage",
-     "link": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 16:01:56 GMT"
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 01:44:03 GMT"
     },
     {
-     "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 18:53:47 GMT"
+     "title": "Met chief warns policing 'heading for failure' without reform",
+     "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 01:13:53 GMT"
     },
     {
-     "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-     "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 17:39:48 GMT"
-    },
-    {
-     "title": "Messages reveal how hoax threat was passed on by air traffic control",
-     "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 18:22:46 GMT"
+     "title": "Firms told to publish salaries in job adverts ahead of new law",
+     "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 05 Nov 2026 22:32:02 GMT"
     },
     {
      "title": "California governor commutes sentences for state's 548 death row inmates",
      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 21:25:48 GMT"
+     "date": "Thu, 05 Nov 2026 23:09:33 GMT"
     },
     {
-     "title": "Interest rates hiked to 4% in first increase in over three years",
-     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 17:09:55 GMT"
+     "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+     "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 00:09:56 GMT"
     },
     {
-     "title": "UK doctor infected with Ebola being treated at London hospital",
-     "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 21:26:09 GMT"
+     "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 02:08:57 GMT"
+    },
+    {
+     "title": "King relishes 'politically charged' deployments, Palace aide says",
+     "link": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 05 Nov 2026 22:04:44 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 01:44:03 GMT"
+    },
+    {
+     "title": "Firms told to publish salaries in job adverts ahead of new law",
+     "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 05 Nov 2026 22:32:02 GMT"
+    },
+    {
+     "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+     "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 00:02:52 GMT"
+    },
     {
      "title": "Interest rates hiked to 4% in first increase in over three years",
      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
@@ -60,34 +75,19 @@
      "date": "Thu, 05 Nov 2026 13:17:10 GMT"
     },
     {
+     "title": "The engine parts that 'fight the laws of the universe'",
+     "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 06 Nov 2026 00:06:06 GMT"
+    },
+    {
      "title": "Three ways the interest rate rise could affect you",
      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 05 Nov 2026 13:08:30 GMT"
     },
     {
-     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 21:56:00 GMT"
-    },
-    {
      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 05 Nov 2026 15:27:09 GMT"
-    },
-    {
-     "title": "Graduates are managing AI - but are they learning much else?",
-     "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-     "date": "Wed, 04 Nov 2026 00:04:35 GMT"
-    },
-    {
-     "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 09:46:32 GMT"
-    },
-    {
-     "title": "Pound rises to its highest level since the Brexit referendum",
-     "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 05 Nov 2026 04:21:35 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 28 Oct 2026 14:16:24 GMT"
     },
     {
+     "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+     "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+     "date": "Fri, 06 Nov 2026 01:22:49 GMT"
+    },
+    {
      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
      "date": "Thu, 05 Nov 2026 18:48:07 GMT"
@@ -128,17 +133,32 @@
      "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
      "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
      "date": "Thu, 05 Nov 2026 11:00:21 GMT"
-    },
-    {
-     "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-     "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-     "date": "Wed, 04 Nov 2026 19:42:47 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+     "date": "Thu, 05 Nov 2026 19:16:53 -0500"
+    },
+    {
+     "title": "These are the races in the House and Senate that haven't been called yet",
+     "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+     "date": "Thu, 05 Nov 2026 19:03:45 -0500"
+    },
+    {
+     "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+     "date": "Thu, 05 Nov 2026 18:52:48 -0500"
+    },
+    {
+     "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+     "date": "Thu, 05 Nov 2026 18:34:36 -0500"
+    },
     {
      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
      "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
@@ -158,26 +178,6 @@
      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
      "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
      "date": "Thu, 05 Nov 2026 11:15:02 -0500"
-    },
-    {
-     "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-     "date": "Thu, 05 Nov 2026 10:00:00 -0500"
-    },
-    {
-     "title": "Teens worldwide aren't getting enough exercise -- especially girls",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-     "date": "Thu, 05 Nov 2026 07:24:14 -0500"
-    },
-    {
-     "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-     "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-     "date": "Thu, 05 Nov 2026 07:02:24 -0500"
-    },
-    {
-     "title": "After sweeping midterm wins, here's what Democrats hope to get done in the majority",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6029331/democrats-have-a-long-to-do-list-when-they-take-over-congress-next-year",
-     "date": "Thu, 05 Nov 2026 06:45:35 -0500"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "South Africa’s ANC on track for new lows in local polls",
-     "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 21:48:16 +0000"
+     "title": "Gaza turns discarded cooking pots into seawalls",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 02:03:47 +0000"
     },
     {
-     "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 21:42:30 +0000"
+     "title": "California governor commutes sentences of more than 500 people on death row",
+     "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 01:39:35 +0000"
     },
     {
-     "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 21:33:40 +0000"
+     "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 00:19:57 +0000"
     },
     {
-     "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 21:26:21 +0000"
+     "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+     "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 00:15:22 +0000"
     },
     {
-     "title": "Saudi coalition intercepts missile fired towards Medina",
-     "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 20:48:47 +0000"
+     "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+     "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 00:06:31 +0000"
     },
     {
-     "title": "Why are wealthy countries failing developing nations?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 20:45:47 +0000"
+     "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+     "date": "Fri, 06 Nov 2026 00:00:00 +0000"
     },
     {
-     "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 20:43:46 +0000"
+     "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+     "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+     "date": "Thu, 05 Nov 2026 23:46:52 +0000"
     },
     {
-     "title": "Mass protests in France driven by nationwide strike action",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-     "date": "Thu, 05 Nov 2026 20:11:37 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-     "link": "https://www.nature.com/articles/s41586-026-11336-3",
-     "date": ""
-    },
-    {
-     "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-     "link": "https://www.nature.com/articles/s41586-026-11351-4",
-     "date": ""
-    },
-    {
-     "title": "The hidden cost of flexible work in academia: women do more parenting",
-     "link": "https://www.nature.com/articles/d41586-026-03568-0",
-     "date": ""
-    },
-    {
-     "title": "Spider snooze stages",
-     "link": "https://www.nature.com/articles/d41586-026-03487-0",
-     "date": ""
-    },
-    {
-     "title": "Why not to wait even a few minutes before fleeing a tsunami",
-     "link": "https://www.nature.com/articles/d41586-026-03539-5",
-     "date": ""
-    },
-    {
-     "title": "Toothbrush zaps bacteria with electricity made when bristles move",
-     "link": "https://www.nature.com/articles/d41586-026-03586-y",
-     "date": ""
-    },
-    {
-     "title": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
-     "link": "https://www.nature.com/articles/d41586-026-03537-7",
-     "date": ""
-    },
-    {
-     "title": "A guide to Nature Index tables",
-     "link": "https://www.nature.com/articles/d41586-026-03344-0",
-     "date": ""
+     "title": "Generation Z and young voters help redefine US politics after midterms",
+     "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+     "date": "Thu, 05 Nov 2026 21:49:31 +0000"
     }
    ]
   }
