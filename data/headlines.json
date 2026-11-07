@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-07 10:11 UTC",
+ "updated": "2026-11-07 16:27 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-     "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 07:27:44 GMT"
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 15:19:35 GMT"
     },
     {
-     "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 23:24:15 GMT"
+     "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+     "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 11:04:28 GMT"
     },
     {
-     "title": "Paraguay's president impeached after collapse of bank",
-     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 07:20:00 GMT"
+     "title": "Two men arrested after boy injured in sword attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 15:10:54 GMT"
     },
     {
      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
@@ -25,24 +25,24 @@
      "date": "Sat, 07 Nov 2026 00:31:54 GMT"
     },
     {
+     "title": "No clear winner after tight New Zealand general election",
+     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 15:56:28 GMT"
+    },
+    {
      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
      "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 05:12:52 GMT"
-    },
-    {
-     "title": "Pope in 'pretty good health' as he starts Latin America tour",
-     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 06:59:48 GMT"
-    },
-    {
-     "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
-     "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 01:41:36 GMT"
+     "date": "Sat, 07 Nov 2026 11:31:10 GMT"
     },
     {
      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 07 Nov 2026 01:27:47 GMT"
+    },
+    {
+     "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+     "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 01:41:36 GMT"
     }
    ]
   },
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "A promising new medicine against heart disease fails unexpectedly",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+     "date": "Sat, 07 Nov 2026 09:50:00 -0500"
+    },
+    {
+     "title": "Democrats plan to widen their probes of fatal ICE shootings",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+     "date": "Sat, 07 Nov 2026 08:19:09 -0500"
+    },
+    {
+     "title": "Perspective: Simon Winchester was here to tell a story",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+     "date": "Sat, 07 Nov 2026 08:00:00 -0500"
+    },
+    {
+     "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+     "date": "Sat, 07 Nov 2026 06:50:21 -0500"
+    },
+    {
      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
      "date": "Sat, 07 Nov 2026 05:00:00 -0500"
@@ -158,26 +178,6 @@
      "title": "The incoming class of U.S. senators is full of historic firsts",
      "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
      "date": "Fri, 06 Nov 2026 15:21:13 -0500"
-    },
-    {
-     "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-     "date": "Fri, 06 Nov 2026 15:09:58 -0500"
-    },
-    {
-     "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
-     "date": "Fri, 06 Nov 2026 14:50:14 -0500"
-    },
-    {
-     "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
-     "date": "Fri, 06 Nov 2026 14:13:52 -0500"
-    },
-    {
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-     "date": "Fri, 06 Nov 2026 14:13:06 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
-     "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 09:18:53 +0000"
+     "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+     "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 16:15:18 +0000"
     },
     {
-     "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-     "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 08:45:36 +0000"
+     "title": "Hundreds march in Pau, France against high living costs",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 16:09:11 +0000"
     },
     {
-     "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
-     "link": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 08:10:01 +0000"
+     "title": "Five killed and at least 10 injured in Krakow shooting",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 16:06:58 +0000"
     },
     {
-     "title": "Houston mayor curbs cooperation of US city’s police with ICE",
-     "link": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 07:50:16 +0000"
+     "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+     "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 15:34:58 +0000"
     },
     {
-     "title": "Qatari PM says US willing to seek solution to war with Iran",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 07:10:37 +0000"
+     "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 15:29:11 +0000"
     },
     {
-     "title": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
-     "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 07:09:12 +0000"
+     "title": "At least five people killed in shooting in Poland’s Krakow",
+     "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 15:22:55 +0000"
     },
     {
-     "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 07:05:01 +0000"
+     "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
+     "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 14:30:00 +0000"
     },
     {
-     "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
-     "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 06:47:45 +0000"
+     "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+     "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 14:24:48 +0000"
     }
    ]
   },
