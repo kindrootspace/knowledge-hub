@@ -1,33 +1,38 @@
 {
- "updated": "2026-11-07 16:27 UTC",
+ "updated": "2026-11-07 20:53 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 20:23:17 GMT"
+    },
     {
      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 07 Nov 2026 15:19:35 GMT"
     },
     {
-     "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-     "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 11:04:28 GMT"
+     "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+     "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 17:32:42 GMT"
     },
     {
-     "title": "Two men arrested after boy injured in sword attack",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 15:10:54 GMT"
+     "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 16:25:55 GMT"
+    },
+    {
+     "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+     "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 19:52:23 GMT"
     },
     {
      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
      "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 07 Nov 2026 00:31:54 GMT"
-    },
-    {
-     "title": "No clear winner after tight New Zealand general election",
-     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 15:56:28 GMT"
     },
     {
      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
@@ -38,11 +43,6 @@
      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 07 Nov 2026 01:27:47 GMT"
-    },
-    {
-     "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-     "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 01:41:36 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+     "date": "Sat, 07 Nov 2026 15:18:18 -0500"
+    },
+    {
+     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+     "date": "Sat, 07 Nov 2026 13:37:36 -0500"
+    },
+    {
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "date": "Sat, 07 Nov 2026 12:14:36 -0500"
+    },
+    {
      "title": "A promising new medicine against heart disease fails unexpectedly",
      "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
      "date": "Sat, 07 Nov 2026 09:50:00 -0500"
@@ -163,21 +178,6 @@
      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
      "date": "Sat, 07 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-     "date": "Fri, 06 Nov 2026 16:53:10 -0500"
-    },
-    {
-     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-     "date": "Fri, 06 Nov 2026 15:42:51 -0500"
-    },
-    {
-     "title": "The incoming class of U.S. senators is full of historic firsts",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-     "date": "Fri, 06 Nov 2026 15:21:13 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-     "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 16:15:18 +0000"
+     "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+     "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 20:26:58 +0000"
     },
     {
-     "title": "Hundreds march in Pau, France against high living costs",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 16:09:11 +0000"
+     "title": "More than 140,000 rally as new protests against rising costs sweep France",
+     "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 20:12:22 +0000"
     },
     {
-     "title": "Five killed and at least 10 injured in Krakow shooting",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 16:06:58 +0000"
+     "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 20:10:38 +0000"
     },
     {
-     "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-     "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 15:34:58 +0000"
+     "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 20:08:47 +0000"
     },
     {
-     "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 15:29:11 +0000"
+     "title": "Masked protesters set off firecrackers and block roads in Albania",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 19:49:19 +0000"
     },
     {
-     "title": "At least five people killed in shooting in Poland’s Krakow",
-     "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 15:22:55 +0000"
+     "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+     "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 19:42:46 +0000"
     },
     {
-     "title": "The Lions by the River Tigris: Restoring Mosul’s artefacts",
-     "link": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 14:30:00 +0000"
+     "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+     "link": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 19:29:06 +0000"
     },
     {
-     "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-     "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 14:24:48 +0000"
+     "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+     "link": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 19:24:21 +0000"
     }
    ]
   },
