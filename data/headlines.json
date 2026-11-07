@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-07 02:48 UTC",
+ "updated": "2026-11-07 10:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 21:26:56 GMT"
+     "date": "Sat, 07 Nov 2026 07:27:44 GMT"
     },
     {
-     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 06 Nov 2026 23:24:15 GMT"
     },
     {
-     "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-     "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 16:49:31 GMT"
-    },
-    {
-     "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 12:16:44 GMT"
-    },
-    {
-     "title": "New wave of bomb threats hit European airlines",
-     "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 15:25:35 GMT"
-    },
-    {
-     "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
-     "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 19:51:48 GMT"
-    },
-    {
-     "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-     "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 15:02:03 GMT"
-    },
-    {
      "title": "Paraguay's president impeached after collapse of bank",
      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 01:07:56 GMT"
+     "date": "Sat, 07 Nov 2026 07:20:00 GMT"
+    },
+    {
+     "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+     "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 00:31:54 GMT"
+    },
+    {
+     "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+     "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 05:12:52 GMT"
+    },
+    {
+     "title": "Pope in 'pretty good health' as he starts Latin America tour",
+     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 06:59:48 GMT"
+    },
+    {
+     "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+     "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 01:41:36 GMT"
+    },
+    {
+     "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+     "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 07 Nov 2026 01:27:47 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+     "date": "Sat, 07 Nov 2026 05:00:00 -0500"
+    },
+    {
+     "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+     "date": "Fri, 06 Nov 2026 16:53:10 -0500"
+    },
+    {
      "title": "Israel's Arab-led parties in spotlight after inconclusive election",
      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
      "date": "Fri, 06 Nov 2026 15:42:51 -0500"
@@ -168,16 +178,6 @@
      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
      "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
      "date": "Fri, 06 Nov 2026 14:13:06 -0500"
-    },
-    {
-     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-     "date": "Fri, 06 Nov 2026 14:00:21 -0500"
-    },
-    {
-     "title": "Remembering 'Star Trek' actor Patrick Stewart",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
-     "date": "Fri, 06 Nov 2026 12:36:39 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
-     "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 01:55:03 +0000"
+     "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
+     "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 09:18:53 +0000"
     },
     {
-     "title": "EU prosecutor office investigates fatal train crash in Spain",
-     "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 01:33:39 +0000"
+     "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+     "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 08:45:36 +0000"
     },
     {
-     "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 00:55:51 +0000"
+     "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
+     "link": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 08:10:01 +0000"
     },
     {
-     "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-     "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 00:31:41 +0000"
+     "title": "Houston mayor curbs cooperation of US city’s police with ICE",
+     "link": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 07:50:16 +0000"
     },
     {
-     "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 00:21:49 +0000"
+     "title": "Qatari PM says US willing to seek solution to war with Iran",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 07:10:37 +0000"
     },
     {
-     "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-     "date": "Sat, 07 Nov 2026 00:00:00 +0000"
+     "title": "WTA apologises to Pegula for broadcast of ‘diva’ comment about Andreeva",
+     "link": "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 07:09:12 +0000"
     },
     {
-     "title": "New Zealanders head to polls on final day of voting",
-     "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 23:48:01 +0000"
+     "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 07:05:01 +0000"
     },
     {
-     "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-     "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-     "date": "Fri, 06 Nov 2026 23:33:28 +0000"
+     "title": "‘Every person has their luck’: Morocco’s beach metal detectorists",
+     "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+     "date": "Sat, 07 Nov 2026 06:47:45 +0000"
     }
    ]
   },
