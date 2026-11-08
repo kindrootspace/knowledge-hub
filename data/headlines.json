@@ -1,33 +1,38 @@
 {
- "updated": "2026-11-08 19:42 UTC",
+ "updated": "2026-11-08 23:43 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 22:42:41 GMT"
+    },
+    {
+     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 23:34:18 GMT"
+    },
     {
      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 08 Nov 2026 18:20:53 GMT"
     },
     {
+     "title": "Maya Jama steps down as host of reality TV show Love Island",
+     "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 21:19:48 GMT"
+    },
+    {
      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 17:35:13 GMT"
+     "date": "Sun, 08 Nov 2026 19:58:02 GMT"
     },
     {
-     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 18:22:53 GMT"
-    },
-    {
-     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-     "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 16:05:57 GMT"
-    },
-    {
-     "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 13:05:30 GMT"
+     "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+     "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 22:49:53 GMT"
     },
     {
      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
@@ -35,14 +40,9 @@
      "date": "Sun, 08 Nov 2026 15:37:57 GMT"
     },
     {
-     "title": "Iran executes three men for 'armed unrest' after January protests",
-     "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 13:37:50 GMT"
-    },
-    {
-     "title": "Government looking at banning under-16s from Vinted and eBay",
-     "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 15:37:25 GMT"
+     "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 13:05:30 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "NASA is looking for astronauts to live and work on the Moon",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+     "date": "Sun, 08 Nov 2026 18:36:47 -0500"
+    },
+    {
      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
      "date": "Sun, 08 Nov 2026 14:25:30 -0500"
@@ -160,6 +165,11 @@
      "date": "Sun, 08 Nov 2026 10:07:15 -0500"
     },
     {
+     "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+     "date": "Sun, 08 Nov 2026 08:34:34 -0500"
+    },
+    {
      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
      "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
      "date": "Sun, 08 Nov 2026 06:00:00 -0500"
@@ -168,16 +178,6 @@
      "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
      "date": "Sun, 08 Nov 2026 06:00:00 -0500"
-    },
-    {
-     "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-     "date": "Sun, 08 Nov 2026 06:00:00 -0500"
-    },
-    {
-     "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-     "date": "Sun, 08 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "After the midterms, where does the Republican Party stand?",
-     "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 19:09:18 +0000"
+     "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+     "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 22:42:12 +0000"
     },
     {
-     "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-     "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 18:22:58 +0000"
+     "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+     "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 22:16:50 +0000"
     },
     {
-     "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-     "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 18:12:27 +0000"
+     "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+     "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 22:16:10 +0000"
     },
     {
-     "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-     "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 18:01:05 +0000"
+     "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+     "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 22:03:54 +0000"
     },
     {
-     "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-     "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 17:44:51 +0000"
+     "title": "Deadly sand cliff collapses on displaced families in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 21:05:07 +0000"
     },
     {
-     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 17:11:52 +0000"
+     "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 21:01:33 +0000"
     },
     {
-     "title": "Photos: Diwali celebrations light up India and its global diaspora",
-     "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 17:03:14 +0000"
+     "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 20:51:22 +0000"
     },
     {
-     "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 17:00:00 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-     "link": "https://www.nature.com/articles/d41586-026-03595-x",
-     "date": ""
-    },
-    {
-     "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
-     "link": "https://www.nature.com/articles/d41586-026-03630-x",
-     "date": ""
-    },
-    {
-     "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
-     "link": "https://www.nature.com/articles/d41586-026-03632-9",
-     "date": ""
-    },
-    {
-     "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
-     "link": "https://www.nature.com/articles/d41586-026-03442-z",
-     "date": ""
-    },
-    {
-     "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
-     "link": "https://www.nature.com/articles/s41586-026-11233-9",
-     "date": ""
-    },
-    {
-     "title": "These AI agents design your perfect robot-powered lab — and run it for you",
-     "link": "https://www.nature.com/articles/d41586-026-03587-x",
-     "date": ""
-    },
-    {
-     "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
-     "link": "https://www.nature.com/articles/d41586-026-03622-x",
-     "date": ""
-    },
-    {
-     "title": "ESC (DC)2",
-     "link": "https://www.nature.com/articles/d41586-026-03450-z",
-     "date": ""
+     "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 20:29:47 +0000"
     }
    ]
   }
