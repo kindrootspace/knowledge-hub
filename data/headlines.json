@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-08 15:13 UTC",
+ "updated": "2026-11-08 19:42 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "King leads solemn Remembrance service at Cenotaph",
+     "title": "King leads solemn Remembrance Sunday service at Cenotaph",
      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 13:49:07 GMT"
+     "date": "Sun, 08 Nov 2026 18:20:53 GMT"
     },
     {
-     "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
-     "link": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 12:16:10 GMT"
+     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 17:35:13 GMT"
+    },
+    {
+     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 18:22:53 GMT"
+    },
+    {
+     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+     "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 16:05:57 GMT"
+    },
+    {
+     "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 13:05:30 GMT"
     },
     {
      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
      "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 13:57:43 GMT"
+     "date": "Sun, 08 Nov 2026 15:37:57 GMT"
     },
     {
-     "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+     "title": "Iran executes three men for 'armed unrest' after January protests",
+     "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 13:37:50 GMT"
+    },
+    {
+     "title": "Government looking at banning under-16s from Vinted and eBay",
      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 11:25:32 GMT"
-    },
-    {
-     "title": "My parents chose to die together and I was left to grieve alone",
-     "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 01:10:21 GMT"
-    },
-    {
-     "title": "The Trump coalition is shattered - what will Republicans do now?",
-     "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 00:52:39 GMT"
-    },
-    {
-     "title": "He spent $50,000 on Labubus but now the craze is dying",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 07 Nov 2026 23:02:35 GMT"
-    },
-    {
-     "title": "Ambika Mod wants to change how South Asian women are seen on-screen",
-     "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 00:49:00 GMT"
+     "date": "Sun, 08 Nov 2026 15:37:25 GMT"
     }
    ]
   },
@@ -52,7 +52,7 @@
     {
      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 11:25:32 GMT"
+     "date": "Sun, 08 Nov 2026 15:37:25 GMT"
     },
     {
      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
@@ -95,6 +95,11 @@
    "name": "Guardian World",
    "items": [
     {
+     "title": "Collision of two trains in Egypt kills at least seven",
+     "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+     "date": "Sun, 08 Nov 2026 17:51:17 GMT"
+    },
+    {
      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
      "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
      "date": "Sun, 08 Nov 2026 12:00:39 GMT"
@@ -113,11 +118,6 @@
      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
      "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
      "date": "Wed, 04 Nov 2026 18:18:37 GMT"
-    },
-    {
-     "title": "ANC faces anger over poor services as South Africans vote in local elections",
-     "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-     "date": "Wed, 04 Nov 2026 14:50:47 GMT"
     },
     {
      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
@@ -140,12 +140,32 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+     "date": "Sun, 08 Nov 2026 14:25:30 -0500"
+    },
+    {
+     "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+     "date": "Sun, 08 Nov 2026 11:46:15 -0500"
+    },
+    {
+     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+     "date": "Sun, 08 Nov 2026 11:30:16 -0500"
+    },
+    {
+     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+     "date": "Sun, 08 Nov 2026 10:07:15 -0500"
+    },
+    {
      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
      "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
      "date": "Sun, 08 Nov 2026 06:00:00 -0500"
     },
     {
-     "title": "In Maine, a new approach to practicing medicine in the sky",
+     "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
      "date": "Sun, 08 Nov 2026 06:00:00 -0500"
     },
@@ -158,26 +178,6 @@
      "title": "How Gen Z voters helped fuel a blue wave for Democrats",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
      "date": "Sun, 08 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-     "date": "Sun, 08 Nov 2026 02:35:29 -0500"
-    },
-    {
-     "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-     "date": "Sat, 07 Nov 2026 19:19:52 -0500"
-    },
-    {
-     "title": "The surprising and often forgotten history of economic populism in Texas",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
-     "date": "Sat, 07 Nov 2026 17:12:07 -0500"
-    },
-    {
-     "title": "Oklahoma tribes say proposed legal changes put ancestral lands in Ohio at risk",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk",
-     "date": "Sat, 07 Nov 2026 17:12:02 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-     "link": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 14:19:17 +0000"
+     "title": "After the midterms, where does the Republican Party stand?",
+     "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 19:09:18 +0000"
     },
     {
-     "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-     "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 14:06:19 +0000"
+     "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+     "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 18:22:58 +0000"
     },
     {
-     "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 14:02:35 +0000"
+     "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+     "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 18:12:27 +0000"
     },
     {
-     "title": "At least 21 dead as small boat sinks off Senegal",
-     "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 13:32:17 +0000"
+     "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+     "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 18:01:05 +0000"
     },
     {
-     "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-     "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 13:27:57 +0000"
+     "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+     "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 17:44:51 +0000"
     },
     {
-     "title": "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/cctv-captures-streets-shaking-as-5-7-magnitude-earthquake-hits-japan?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 13:11:41 +0000"
+     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 17:11:52 +0000"
     },
     {
-     "title": "Could Iraq’s Kurdish region return to two separate administrations?",
-     "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 13:06:28 +0000"
+     "title": "Photos: Diwali celebrations light up India and its global diaspora",
+     "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 17:03:14 +0000"
     },
     {
-     "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-     "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 12:40:12 +0000"
+     "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+     "date": "Sun, 08 Nov 2026 17:00:00 +0000"
     }
    ]
   },
