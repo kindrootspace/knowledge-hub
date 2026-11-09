@@ -1,23 +1,33 @@
 {
- "updated": "2026-11-08 23:43 UTC",
+ "updated": "2026-11-09 06:31 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 22:42:41 GMT"
+     "title": "Inside the French drug gangs recruiting children to kill",
+     "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 06:00:26 GMT"
     },
     {
-     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 23:34:18 GMT"
+     "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+     "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 00:57:05 GMT"
     },
     {
-     "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-     "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 18:20:53 GMT"
+     "title": "Dense fog threatens Monday morning rush-hour disruption",
+     "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 06:17:34 GMT"
+    },
+    {
+     "title": "Government's EV targets expected to be reduced this week",
+     "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 05:00:43 GMT"
+    },
+    {
+     "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+     "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 02:50:13 GMT"
     },
     {
      "title": "Maya Jama steps down as host of reality TV show Love Island",
@@ -25,30 +35,30 @@
      "date": "Sun, 08 Nov 2026 21:19:48 GMT"
     },
     {
-     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-     "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 19:58:02 GMT"
-    },
-    {
-     "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
-     "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 22:49:53 GMT"
-    },
-    {
      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
      "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 15:37:57 GMT"
+     "date": "Mon, 09 Nov 2026 02:34:09 GMT"
     },
     {
-     "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 08 Nov 2026 13:05:30 GMT"
+     "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+     "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 08 Nov 2026 22:05:12 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+     "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 06:01:52 GMT"
+    },
+    {
+     "title": "Doing these things now will help you save money at Christmas",
+     "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 09 Nov 2026 00:09:14 GMT"
+    },
     {
      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -78,16 +88,6 @@
      "title": "How does it affect me if share prices fall?",
      "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 06 Nov 2026 09:21:50 GMT"
-    },
-    {
-     "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-     "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 17:19:38 GMT"
-    },
-    {
-     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 06 Nov 2026 21:49:50 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 04 Nov 2026 18:18:37 GMT"
     },
     {
+     "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+     "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+     "date": "Mon, 09 Nov 2026 02:11:25 GMT"
+    },
+    {
      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
      "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
      "date": "Sun, 08 Nov 2026 09:00:35 GMT"
@@ -128,17 +133,22 @@
      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
      "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
      "date": "Sun, 08 Nov 2026 07:00:34 GMT"
-    },
-    {
-     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
-     "date": "Sat, 07 Nov 2026 01:55:11 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+     "date": "Mon, 09 Nov 2026 01:20:44 -0500"
+    },
+    {
+     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+     "date": "Sun, 08 Nov 2026 19:17:43 -0500"
+    },
     {
      "title": "NASA is looking for astronauts to live and work on the Moon",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
@@ -168,16 +178,6 @@
      "title": "SS United States, a historic ship will be sunk to create an artificial reef",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
      "date": "Sun, 08 Nov 2026 08:34:34 -0500"
-    },
-    {
-     "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-     "date": "Sun, 08 Nov 2026 06:00:00 -0500"
-    },
-    {
-     "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-     "date": "Sun, 08 Nov 2026 06:00:00 -0500"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Lopez double fires Barcelona to win at Atletico Madrid",
-     "link": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 22:42:12 +0000"
+     "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+     "link": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 05:20:08 +0000"
     },
     {
-     "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
-     "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 22:16:50 +0000"
+     "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+     "link": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 05:18:39 +0000"
     },
     {
-     "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-     "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 22:16:10 +0000"
+     "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+     "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 05:02:19 +0000"
     },
     {
-     "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
-     "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 22:03:54 +0000"
+     "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+     "link": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 05:02:16 +0000"
     },
     {
-     "title": "Deadly sand cliff collapses on displaced families in Gaza",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 21:05:07 +0000"
+     "title": "Pope tells Argentina’s Milei leaders should know limits of power",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 04:52:34 +0000"
     },
     {
-     "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 21:01:33 +0000"
+     "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 04:35:34 +0000"
     },
     {
-     "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 20:51:22 +0000"
+     "title": "Asian stock markets climb after earlier tech rout",
+     "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 04:03:02 +0000"
     },
     {
-     "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
-     "date": "Sun, 08 Nov 2026 20:29:47 +0000"
+     "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+     "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+     "date": "Mon, 09 Nov 2026 04:02:18 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
+     "link": "https://www.nature.com/articles/d41586-026-03631-w",
+     "date": ""
+    },
+    {
+     "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+     "link": "https://www.nature.com/articles/d41586-026-03595-x",
+     "date": ""
+    },
+    {
+     "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+     "link": "https://www.nature.com/articles/d41586-026-03630-x",
+     "date": ""
+    },
+    {
+     "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+     "link": "https://www.nature.com/articles/d41586-026-03632-9",
+     "date": ""
+    },
+    {
+     "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
+     "link": "https://www.nature.com/articles/d41586-026-03442-z",
+     "date": ""
+    },
+    {
+     "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+     "link": "https://www.nature.com/articles/s41586-026-11233-9",
+     "date": ""
+    },
+    {
+     "title": "These AI agents design your perfect robot-powered lab — and run it for you",
+     "link": "https://www.nature.com/articles/d41586-026-03587-x",
+     "date": ""
+    },
+    {
+     "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
+     "link": "https://www.nature.com/articles/d41586-026-03622-x",
+     "date": ""
     }
    ]
   }
