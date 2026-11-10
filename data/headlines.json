@@ -1,13 +1,38 @@
 {
- "updated": "2026-11-10 17:50 UTC",
+ "updated": "2026-11-10 23:23 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "US Army soldier suspected of spying for Russia arrested in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 20:20:04 GMT"
+    },
+    {
+     "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+     "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 20:20:11 GMT"
+    },
+    {
+     "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+     "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 22:41:01 GMT"
+    },
+    {
+     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+     "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 22:17:45 GMT"
+    },
+    {
      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 10 Nov 2026 17:00:11 GMT"
+    },
+    {
+     "title": "Train attack driver's '10 seconds' to change line",
+     "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 18:54:35 GMT"
     },
     {
      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
@@ -15,34 +40,9 @@
      "date": "Tue, 10 Nov 2026 16:19:48 GMT"
     },
     {
-     "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-     "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 15:10:20 GMT"
-    },
-    {
-     "title": "More than 12 US military aircraft leave second UK base",
-     "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 17:22:14 GMT"
-    },
-    {
-     "title": "Watch: Meghan's first public appearance since father arrested",
-     "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 11:57:14 GMT"
-    },
-    {
-     "title": "Train attack driver had '10 seconds' to change line",
-     "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 16:56:26 GMT"
-    },
-    {
-     "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 11:23:43 GMT"
-    },
-    {
-     "title": "Met Police investigating more 'potential criminal allegations' about Brand",
-     "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 14:09:11 GMT"
+     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+     "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 22:52:15 GMT"
     }
    ]
   },
@@ -50,19 +50,19 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+     "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 22:52:15 GMT"
+    },
+    {
+     "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 14:46:50 GMT"
+     "date": "Tue, 10 Nov 2026 17:56:12 GMT"
     },
     {
      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 10 Nov 2026 15:10:20 GMT"
-    },
-    {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 08:23:21 GMT"
     },
     {
      "title": "US inflation higher than expected in October - here's what is happening with prices",
@@ -85,9 +85,9 @@
      "date": "Tue, 10 Nov 2026 09:23:55 GMT"
     },
     {
-     "title": "The superpower battle over energy – and what it means for your bills",
-     "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 00:08:28 GMT"
+     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 08:23:21 GMT"
     }
    ]
   },
@@ -120,9 +120,9 @@
      "date": "Fri, 06 Nov 2026 12:48:37 GMT"
     },
     {
-     "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+     "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
      "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-     "date": "Tue, 10 Nov 2026 14:49:32 GMT"
+     "date": "Tue, 10 Nov 2026 19:01:33 GMT"
     },
     {
      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
@@ -139,6 +139,21 @@
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Should you trust new AI agents with your money and data?",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+     "date": "Tue, 10 Nov 2026 16:44:32 -0500"
+    },
+    {
+     "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+     "date": "Tue, 10 Nov 2026 14:00:00 -0500"
+    },
+    {
+     "title": "U.S. boycotts U.N. human rights review for second year running",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+     "date": "Tue, 10 Nov 2026 13:53:34 -0500"
+    },
     {
      "title": "Americans across the economic spectrum feel a 'panic' about finances, author says",
      "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
@@ -163,21 +178,6 @@
      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
      "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
      "date": "Tue, 10 Nov 2026 08:30:00 -0500"
-    },
-    {
-     "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
-     "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
-     "date": "Tue, 10 Nov 2026 07:48:48 -0500"
-    },
-    {
-     "title": "Get in, loser: Broadway's newest 'Mean Girls' are ready to insult (and enlighten) you",
-     "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
-     "date": "Tue, 10 Nov 2026 07:28:36 -0500"
-    },
-    {
-     "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-     "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-     "date": "Tue, 10 Nov 2026 07:01:04 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-     "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 17:21:58 +0000"
+     "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+     "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 22:41:07 +0000"
     },
     {
-     "title": "Israeli president warns against repeat election in new Knesset session",
-     "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 17:16:15 +0000"
+     "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+     "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 22:36:14 +0000"
     },
     {
-     "title": "Security forces seized top court, Somalia’s ex-chief justice says",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 17:02:23 +0000"
+     "title": "UNIFIL patrol comes under fire in southern Lebanon",
+     "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 22:03:50 +0000"
     },
     {
-     "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 16:39:25 +0000"
+     "title": "US poll shows death penalty lost majority support for first time since 1971",
+     "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 22:03:20 +0000"
     },
     {
-     "title": "Did Fox News’ fixation on Hasan Piker backfire?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 16:26:08 +0000"
+     "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+     "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 21:55:49 +0000"
     },
     {
-     "title": "At least 12 people killed in Bulgaria motorway pile-up",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 16:20:12 +0000"
+     "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+     "link": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 21:00:55 +0000"
     },
     {
-     "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-     "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 15:49:36 +0000"
+     "title": "White House announces funds for law enforcement programme in several cities",
+     "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 21:00:01 +0000"
     },
     {
-     "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-     "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 15:36:49 +0000"
+     "title": "US soldier arrested in UK on suspicion of spying for Russia",
+     "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+     "date": "Tue, 10 Nov 2026 20:41:53 +0000"
     }
    ]
   },
