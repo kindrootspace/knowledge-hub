@@ -1,18 +1,13 @@
 {
- "updated": "2026-11-10 23:23 UTC",
+ "updated": "2026-11-11 06:22 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "US Army soldier suspected of spying for Russia arrested in UK",
-     "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 20:20:04 GMT"
-    },
-    {
-     "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-     "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 20:20:11 GMT"
+     "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 04:03:25 GMT"
     },
     {
      "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
@@ -20,35 +15,50 @@
      "date": "Tue, 10 Nov 2026 22:41:01 GMT"
     },
     {
-     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-     "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 22:17:45 GMT"
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 01:01:20 GMT"
     },
     {
-     "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-     "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 17:00:11 GMT"
+     "title": "US Army soldier suspected of spying for Russia arrested in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 20:20:04 GMT"
     },
     {
-     "title": "Train attack driver's '10 seconds' to change line",
-     "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 18:54:35 GMT"
+     "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+     "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 00:17:42 GMT"
     },
     {
-     "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-     "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 16:19:48 GMT"
+     "title": "Prince George's artwork featured in Country Life magazine",
+     "link": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 00:46:28 GMT"
     },
     {
-     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-     "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 22:52:15 GMT"
+     "title": "Acquitted 'China spy': I was fall guy for security services",
+     "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 06:00:21 GMT"
+    },
+    {
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 03:26:42 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+     "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 00:02:07 GMT"
+    },
+    {
+     "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+     "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 00:16:44 GMT"
+    },
     {
      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
@@ -65,9 +75,9 @@
      "date": "Tue, 10 Nov 2026 15:10:20 GMT"
     },
     {
-     "title": "US inflation higher than expected in October - here's what is happening with prices",
-     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 14:45:46 GMT"
+     "title": "Robot vessels take on the dangerous work of mine hunting",
+     "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 11 Nov 2026 00:19:13 GMT"
     },
     {
      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
@@ -75,19 +85,9 @@
      "date": "Tue, 10 Nov 2026 17:04:55 GMT"
     },
     {
-     "title": "I took Vinted to court to get my money back",
-     "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 00:27:37 GMT"
-    },
-    {
-     "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-     "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 09:23:55 GMT"
-    },
-    {
-     "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 10 Nov 2026 08:23:21 GMT"
+     "title": "US inflation higher than expected in October - here's what is happening with prices",
+     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 10 Nov 2026 14:45:46 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+     "date": "Tue, 10 Nov 2026 20:51:23 -0500"
+    },
+    {
+     "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+     "date": "Tue, 10 Nov 2026 18:43:11 -0500"
+    },
+    {
+     "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+     "date": "Tue, 10 Nov 2026 18:27:32 -0500"
+    },
+    {
      "title": "Should you trust new AI agents with your money and data?",
      "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
      "date": "Tue, 10 Nov 2026 16:44:32 -0500"
@@ -163,21 +178,6 @@
      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
      "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
      "date": "Tue, 10 Nov 2026 09:35:50 -0500"
-    },
-    {
-     "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-     "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-     "date": "Tue, 10 Nov 2026 09:16:53 -0500"
-    },
-    {
-     "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-     "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-     "date": "Tue, 10 Nov 2026 09:01:14 -0500"
-    },
-    {
-     "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-     "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-     "date": "Tue, 10 Nov 2026 08:30:00 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-     "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 22:41:07 +0000"
+     "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+     "link": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 05:52:28 +0000"
     },
     {
-     "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
-     "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 22:36:14 +0000"
+     "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+     "link": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 05:39:26 +0000"
     },
     {
-     "title": "UNIFIL patrol comes under fire in southern Lebanon",
-     "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 22:03:50 +0000"
+     "title": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
+     "link": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 05:16:57 +0000"
     },
     {
-     "title": "US poll shows death penalty lost majority support for first time since 1971",
-     "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 22:03:20 +0000"
+     "title": "US charges three men for allegedly plotting attack on UK base",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 05:01:47 +0000"
     },
     {
-     "title": "IBM’s biggest division ends most US foreign worker sponsorships",
-     "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 21:55:49 +0000"
+     "title": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/malaysias-ex-pm-transferred-to-house-arrest-for-1mdb-graft-sentence?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 04:56:22 +0000"
     },
     {
-     "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
-     "link": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 21:00:55 +0000"
+     "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+     "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 04:44:18 +0000"
     },
     {
-     "title": "White House announces funds for law enforcement programme in several cities",
-     "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 21:00:01 +0000"
+     "title": "Russia claims interception of 146 drones in Leningrad region",
+     "link": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 04:34:47 +0000"
     },
     {
-     "title": "US soldier arrested in UK on suspicion of spying for Russia",
-     "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-     "date": "Tue, 10 Nov 2026 20:41:53 +0000"
+     "title": "Netanyahu heckled by Bennett at Knesset opening session",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+     "date": "Wed, 11 Nov 2026 04:04:56 +0000"
     }
    ]
   },
