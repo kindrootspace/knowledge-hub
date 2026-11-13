@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-13 00:25 UTC",
+ "updated": "2026-11-13 07:58 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "title": "What we know about the global Microsoft outage",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 07:37:38 GMT"
+    },
+    {
+     "title": "Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds",
+     "link": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 06:00:44 GMT"
+    },
+    {
+     "title": "Asylum centre on military base near Piddington approved",
+     "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 06:36:25 GMT"
+    },
+    {
+     "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+     "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 00:55:31 GMT"
+    },
+    {
+     "title": "The school where white working-class pupils defy the odds",
+     "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 00:53:49 GMT"
+    },
+    {
+     "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+     "link": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 00:54:04 GMT"
+    },
+    {
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+     "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 02:01:35 GMT"
+    },
+    {
+     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 23:34:05 GMT"
-    },
-    {
-     "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
-     "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 16:43:36 GMT"
-    },
-    {
-     "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-     "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 20:09:16 GMT"
-    },
-    {
-     "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-     "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 21:00:42 GMT"
-    },
-    {
-     "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-     "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 20:25:29 GMT"
-    },
-    {
-     "title": "Can Burnham avoid another Labour welfare rebellion?",
-     "link": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 18:21:38 GMT"
-    },
-    {
-     "title": "What we know about Brooklyn building collapse that killed eight people",
-     "link": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 19:09:25 GMT"
-    },
-    {
-     "title": "Cricket sandpaper scandal claims '100% wrong', Australia captain says",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 00:20:57 GMT"
+     "date": "Fri, 13 Nov 2026 03:57:01 GMT"
     }
    ]
   },
@@ -50,9 +50,14 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "title": "What we know about the global Microsoft outage",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 07:37:38 GMT"
+    },
+    {
+     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 23:34:05 GMT"
+     "date": "Fri, 13 Nov 2026 03:57:01 GMT"
     },
     {
      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
@@ -60,9 +65,9 @@
      "date": "Fri, 13 Nov 2026 00:13:35 GMT"
     },
     {
-     "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-     "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 17:11:48 GMT"
+     "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+     "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 01:17:58 GMT"
     },
     {
      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
@@ -83,11 +88,6 @@
      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 12 Nov 2026 14:29:59 GMT"
-    },
-    {
-     "title": "Some under-25s should get fewer benefits, Milburn review to say",
-     "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 12 Nov 2026 22:51:18 GMT"
     }
    ]
   },
@@ -140,6 +140,16 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+     "date": "Thu, 12 Nov 2026 22:52:25 -0500"
+    },
+    {
+     "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+     "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+     "date": "Thu, 12 Nov 2026 20:26:24 -0500"
+    },
+    {
      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
      "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
      "date": "Thu, 12 Nov 2026 18:36:19 -0500"
@@ -168,16 +178,6 @@
      "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
      "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
      "date": "Thu, 12 Nov 2026 12:13:54 -0500"
-    },
-    {
-     "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-     "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-     "date": "Thu, 12 Nov 2026 11:20:04 -0500"
-    },
-    {
-     "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
-     "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-     "date": "Thu, 12 Nov 2026 11:12:53 -0500"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 00:00:26 +0000"
+     "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+     "link": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 07:39:18 +0000"
     },
     {
-     "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-     "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 23:52:38 +0000"
+     "title": "The real winner in Poland’s constitutional battle is Putin",
+     "link": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 07:19:08 +0000"
     },
     {
-     "title": "Russian court jails rights lawyer for 12 years on treason charge",
-     "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 23:18:50 +0000"
+     "title": "The Gulf must build security that can outlast this war",
+     "link": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 07:08:01 +0000"
     },
     {
-     "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
-     "link": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 22:12:32 +0000"
+     "title": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
+     "link": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 06:57:56 +0000"
     },
     {
-     "title": "Deadly shooting in Washington DC",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 21:18:24 +0000"
+     "title": "US reports record number of deportations and arrests in 2026",
+     "link": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 06:46:35 +0000"
     },
     {
-     "title": "Microsoft outage hits tens of thousands of users",
-     "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 21:03:09 +0000"
+     "title": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
+     "link": "https://www.aljazeera.com/sports/2026/11/13/pat-cummins-australia-usman-khawaja-sandpapergate-test-south-africa?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 06:13:11 +0000"
     },
     {
-     "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 20:59:53 +0000"
+     "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
+     "link": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 05:38:36 +0000"
     },
     {
-     "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-     "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-     "date": "Thu, 12 Nov 2026 20:49:36 +0000"
+     "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+     "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 05:23:31 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "Found: a protein that drives ageing without unleashing inflammation",
+     "link": "https://www.nature.com/articles/d41586-026-03638-3",
+     "date": ""
+    },
     {
      "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
      "link": "https://www.nature.com/articles/d41586-026-03639-2",
@@ -262,11 +267,6 @@
     {
      "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
      "link": "https://www.nature.com/articles/d41586-026-03705-9",
-     "date": ""
-    },
-    {
-     "title": "Rattlesnakes have personalities too — to venomous effect",
-     "link": "https://www.nature.com/articles/d41586-026-03536-8",
      "date": ""
     }
    ]
