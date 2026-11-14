@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-14 03:16 UTC",
+ "updated": "2026-11-14 10:38 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 09:05:48 GMT"
+    },
+    {
+     "title": "What we know about the US ground stop and what to do if your flight is affected",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 07:42:11 GMT"
+    },
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 10:30:38 GMT"
+    },
+    {
+     "title": "Cruise ship left on its side after collision with tanker on Mississippi",
      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 13 Nov 2026 23:40:45 GMT"
     },
     {
-     "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-     "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 22:12:33 GMT"
-    },
-    {
      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 02:47:24 GMT"
+     "date": "Sat, 14 Nov 2026 05:52:31 GMT"
     },
     {
-     "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-     "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 16:53:50 GMT"
+     "title": "King jokes with Elton John as he marks 78th birthday with radio show",
+     "link": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 10:02:59 GMT"
     },
     {
-     "title": "Setback for SpaceX Starship rocket's double-catch test",
-     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 00:01:01 GMT"
+     "title": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
+     "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 00:29:38 GMT"
     },
     {
-     "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 22:37:30 GMT"
-    },
-    {
-     "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 21:14:22 GMT"
-    },
-    {
-     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 16:40:31 GMT"
+     "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+     "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 00:37:01 GMT"
     }
    ]
   },
@@ -50,9 +50,9 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+     "title": "Microsoft says services fully restored after day-long global outage",
      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 21:14:22 GMT"
+     "date": "Sat, 14 Nov 2026 06:42:27 GMT"
     },
     {
      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -140,6 +140,26 @@
    "name": "NPR",
    "items": [
     {
+     "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+     "date": "Sat, 14 Nov 2026 05:00:00 -0500"
+    },
+    {
+     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+     "date": "Sat, 14 Nov 2026 05:00:00 -0500"
+    },
+    {
+     "title": "An organ transplant controversy tests 'the dead donor rule'",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+     "date": "Sat, 14 Nov 2026 05:00:00 -0500"
+    },
+    {
+     "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+     "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+     "date": "Sat, 14 Nov 2026 00:12:43 -0500"
+    },
+    {
      "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
      "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
      "date": "Fri, 13 Nov 2026 17:36:46 -0500"
@@ -158,26 +178,6 @@
      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
      "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
      "date": "Fri, 13 Nov 2026 17:18:55 -0500"
-    },
-    {
-     "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-     "date": "Fri, 13 Nov 2026 16:55:13 -0500"
-    },
-    {
-     "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-     "date": "Fri, 13 Nov 2026 16:06:09 -0500"
-    },
-    {
-     "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-     "date": "Fri, 13 Nov 2026 16:06:05 -0500"
-    },
-    {
-     "title": "What's Trump's strategy now with Iran? To keep things as they are",
-     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-     "date": "Fri, 13 Nov 2026 14:02:04 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-     "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 02:34:50 +0000"
+     "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
+     "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 10:03:12 +0000"
     },
     {
-     "title": "Tanker collision leaves riverboat passengers clinging to railings",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 01:37:08 +0000"
+     "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 09:43:54 +0000"
     },
     {
-     "title": "Former FAA official says ‘nobody really knows what is going on’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 01:28:46 +0000"
+     "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+     "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 09:43:27 +0000"
     },
     {
-     "title": "UK police open sex offence probe into comedian and author David Walliams",
-     "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 00:22:07 +0000"
+     "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 09:27:59 +0000"
     },
     {
-     "title": "Microsoft services begin recovering after global outage",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 00:17:59 +0000"
+     "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+     "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 09:19:43 +0000"
     },
     {
-     "title": "Afghanistan’s new road to China ends at a closed border",
-     "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 00:06:43 +0000"
+     "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+     "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 09:08:21 +0000"
     },
     {
-     "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 00:00:25 +0000"
+     "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 08:39:07 +0000"
     },
     {
-     "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 23:45:22 +0000"
+     "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+     "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 08:10:14 +0000"
     }
    ]
   },
