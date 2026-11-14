@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-13 22:38 UTC",
+ "updated": "2026-11-14 03:16 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-     "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 16:53:50 GMT"
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 23:40:45 GMT"
     },
     {
      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
@@ -15,7 +15,27 @@
      "date": "Fri, 13 Nov 2026 22:12:33 GMT"
     },
     {
-     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 02:47:24 GMT"
+    },
+    {
+     "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+     "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 16:53:50 GMT"
+    },
+    {
+     "title": "Setback for SpaceX Starship rocket's double-catch test",
+     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 00:01:01 GMT"
+    },
+    {
+     "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 22:37:30 GMT"
+    },
+    {
+     "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 13 Nov 2026 21:14:22 GMT"
     },
@@ -23,26 +43,6 @@
      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 13 Nov 2026 16:40:31 GMT"
-    },
-    {
-     "title": "Former Hamas bodyguard guilty of UK knife attack",
-     "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 15:51:24 GMT"
-    },
-    {
-     "title": "New campaign against EU membership launches ahead of UK-EU summit",
-     "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 21:39:46 GMT"
-    },
-    {
-     "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-     "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 14:45:19 GMT"
-    },
-    {
-     "title": "Man jailed for grooming at least 70 girls online",
-     "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 17:10:27 GMT"
     }
    ]
   },
@@ -50,7 +50,7 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 13 Nov 2026 21:14:22 GMT"
     },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
+     "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+     "date": "Fri, 13 Nov 2026 17:36:46 -0500"
+    },
+    {
+     "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+     "date": "Fri, 13 Nov 2026 17:36:45 -0500"
+    },
+    {
+     "title": "What we know about the FAA nationwide ground stop",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+     "date": "Fri, 13 Nov 2026 17:27:38 -0500"
+    },
+    {
      "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
      "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
      "date": "Fri, 13 Nov 2026 17:18:55 -0500"
     },
     {
-     "title": "FAA issues nationwide ground stop for all U.S. airports",
+     "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
      "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
      "date": "Fri, 13 Nov 2026 16:55:13 -0500"
+    },
+    {
+     "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+     "date": "Fri, 13 Nov 2026 16:06:09 -0500"
+    },
+    {
+     "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+     "date": "Fri, 13 Nov 2026 16:06:05 -0500"
     },
     {
      "title": "What's Trump's strategy now with Iran? To keep things as they are",
      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
      "date": "Fri, 13 Nov 2026 14:02:04 -0500"
-    },
-    {
-     "title": "The Trump administration's voter roll crusade could continue",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-     "date": "Fri, 13 Nov 2026 12:00:00 -0500"
-    },
-    {
-     "title": "Does Europe regret its bet on U.S. defense?",
-     "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-     "date": "Fri, 13 Nov 2026 11:17:43 -0500"
-    },
-    {
-     "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
-     "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-     "date": "Fri, 13 Nov 2026 10:46:35 -0500"
-    },
-    {
-     "title": "Remembering singer and actor Peggy King",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
-     "date": "Fri, 13 Nov 2026 08:35:22 -0500"
-    },
-    {
-     "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-     "date": "Fri, 13 Nov 2026 08:32:23 -0500"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 22:02:07 +0000"
+     "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+     "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 02:34:50 +0000"
     },
     {
-     "title": "FAA grounds US flights nationwide after ‘communication issue’",
-     "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 21:32:08 +0000"
+     "title": "Tanker collision leaves riverboat passengers clinging to railings",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 01:37:08 +0000"
     },
     {
-     "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 20:52:31 +0000"
+     "title": "Former FAA official says ‘nobody really knows what is going on’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 01:28:46 +0000"
     },
     {
-     "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 20:48:02 +0000"
+     "title": "UK police open sex offence probe into comedian and author David Walliams",
+     "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 00:22:07 +0000"
     },
     {
-     "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 20:32:42 +0000"
+     "title": "Microsoft services begin recovering after global outage",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 00:17:59 +0000"
     },
     {
-     "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-     "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 20:28:20 +0000"
+     "title": "Afghanistan’s new road to China ends at a closed border",
+     "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 00:06:43 +0000"
     },
     {
-     "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-     "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 20:18:09 +0000"
+     "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 00:00:25 +0000"
     },
     {
-     "title": "Microsoft says services still returning amid widespread outage",
-     "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-     "date": "Fri, 13 Nov 2026 20:16:13 +0000"
+     "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+     "date": "Fri, 13 Nov 2026 23:45:22 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Number of international students arriving in US plunges — worrying scientists",
+     "link": "https://www.nature.com/articles/d41586-026-03668-x",
+     "date": ""
+    },
+    {
+     "title": "Chinese graduate students are now choosing to stay closer to home",
+     "link": "https://www.nature.com/articles/d41586-026-03456-7",
+     "date": ""
+    },
+    {
+     "title": "Accept all changes",
+     "link": "https://www.nature.com/articles/d41586-026-03516-y",
+     "date": ""
+    },
+    {
+     "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+     "link": "https://www.nature.com/articles/d41586-026-03679-8",
+     "date": ""
+    },
+    {
+     "title": "Is the climate totally cooked? What the data say",
+     "link": "https://www.nature.com/articles/d41586-026-03716-6",
+     "date": ""
+    },
+    {
+     "title": "Found: a protein that drives ageing without unleashing inflammation",
+     "link": "https://www.nature.com/articles/d41586-026-03638-3",
+     "date": ""
+    },
+    {
+     "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+     "link": "https://www.nature.com/articles/d41586-026-03639-2",
+     "date": ""
+    },
+    {
+     "title": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+     "link": "https://www.nature.com/articles/d41586-026-03665-0",
+     "date": ""
     }
    ]
   }
