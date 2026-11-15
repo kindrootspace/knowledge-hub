@@ -1,23 +1,33 @@
 {
- "updated": "2026-11-15 09:27 UTC",
+ "updated": "2026-11-15 17:11 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "Staggered age of consent to be discussed after Brand case, minister says",
+     "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 15:08:30 GMT"
+    },
+    {
+     "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+     "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 12:38:28 GMT"
+    },
     {
      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
      "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 15 Nov 2026 06:01:46 GMT"
     },
     {
-     "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-     "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 07:19:52 GMT"
+     "title": "Minister backs legal right to job support for young people",
+     "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 13:06:15 GMT"
     },
     {
-     "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
-     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 22:09:40 GMT"
+     "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 14:56:21 GMT"
     },
     {
      "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
@@ -25,24 +35,14 @@
      "date": "Sun, 15 Nov 2026 00:09:29 GMT"
     },
     {
-     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 08:17:41 GMT"
+     "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
+     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 22:09:40 GMT"
     },
     {
-     "title": "Judo champion shakes up French presidential race with surprise candidacy",
-     "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 00:06:51 GMT"
-    },
-    {
-     "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
-     "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 00:05:56 GMT"
-    },
-    {
-     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 00:01:07 GMT"
+     "title": "Iran targets US military base in Bahrain with drone attack",
+     "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 13:42:58 GMT"
     }
    ]
   },
@@ -50,7 +50,17 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 14:56:21 GMT"
+    },
+    {
+     "title": "Minister backs legal right to job support for young people",
+     "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 13:06:15 GMT"
+    },
+    {
+     "title": "Beauty advent calendars can cost hundreds but are they value for money?",
      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 15 Nov 2026 00:01:07 GMT"
     },
@@ -65,14 +75,9 @@
      "date": "Sat, 14 Nov 2026 06:42:27 GMT"
     },
     {
-     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 18:36:57 GMT"
-    },
-    {
-     "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 19:53:57 GMT"
+     "title": "Heat pumps: How much heat does your home really need?",
+     "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 09:29:25 GMT"
     },
     {
      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
@@ -80,14 +85,9 @@
      "date": "Fri, 13 Nov 2026 00:13:35 GMT"
     },
     {
-     "title": "Heat pumps: How much heat does your home really need?",
-     "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 09:29:25 GMT"
-    },
-    {
-     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 03:57:01 GMT"
+     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 18:36:57 GMT"
     }
    ]
   },
@@ -140,6 +140,21 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+     "date": "Sun, 15 Nov 2026 05:00:00 -0500"
+    },
+    {
+     "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+     "date": "Sun, 15 Nov 2026 05:00:00 -0500"
+    },
+    {
+     "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+     "date": "Sun, 15 Nov 2026 05:00:00 -0500"
+    },
+    {
      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
      "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
      "date": "Sat, 14 Nov 2026 23:28:45 -0500"
@@ -163,21 +178,6 @@
      "title": "US has lost measles elimination status, global health authorities say",
      "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
      "date": "Sat, 14 Nov 2026 17:15:02 -0500"
-    },
-    {
-     "title": "SpaceX successfully catches Starship and makes history",
-     "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-     "date": "Sat, 14 Nov 2026 16:42:41 -0500"
-    },
-    {
-     "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-     "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-     "date": "Sat, 14 Nov 2026 15:12:34 -0500"
-    },
-    {
-     "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-     "date": "Sat, 14 Nov 2026 14:13:54 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-     "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 08:49:47 +0000"
+     "title": "Somalia: We would not have recovered without the international community",
+     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 16:47:36 +0000"
     },
     {
-     "title": "Thousands in Portugal protest against surging rental prices",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 08:40:37 +0000"
+     "title": "LIVE: Spain vs England – UEFA Nations League",
+     "link": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 16:45:00 +0000"
     },
     {
-     "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-     "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 08:29:18 +0000"
+     "title": "Thousands rally in Czech Republic against state media funding changes",
+     "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 16:32:22 +0000"
     },
     {
-     "title": "Jordan sentences three men to death by hanging after deadly church attack",
-     "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 08:15:04 +0000"
+     "title": "British tourist smashes Jesus statue outside Vilnius church",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 16:04:22 +0000"
     },
     {
-     "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-     "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 08:07:08 +0000"
+     "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 15:32:43 +0000"
     },
     {
-     "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-     "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 07:30:21 +0000"
+     "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+     "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 15:21:21 +0000"
     },
     {
-     "title": "ASEAN summit: Who’s attending and what’s at stake?",
-     "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 07:11:24 +0000"
+     "title": "20 years of Al Jazeera English: Our story is still being written",
+     "link": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 15:21:12 +0000"
     },
     {
-     "title": "Israel: Making the Holy Land burn",
-     "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 06:49:14 +0000"
+     "title": "Record number of migrants arrive in Spain’s Canary Islands",
+     "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 15:16:29 +0000"
     }
    ]
   },
