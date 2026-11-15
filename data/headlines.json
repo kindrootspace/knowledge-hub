@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 21:30 UTC",
+ "updated": "2026-11-15 01:56 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -7,12 +7,7 @@
     {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 20:41:45 GMT"
-    },
-    {
-     "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 13:48:37 GMT"
+     "date": "Sat, 14 Nov 2026 22:37:25 GMT"
     },
     {
      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
@@ -20,9 +15,14 @@
      "date": "Sat, 14 Nov 2026 12:22:43 GMT"
     },
     {
-     "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-     "link": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 14:46:26 GMT"
+     "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+     "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 22:37:14 GMT"
+    },
+    {
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 22:09:40 GMT"
     },
     {
      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -30,25 +30,35 @@
      "date": "Sat, 14 Nov 2026 19:12:25 GMT"
     },
     {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 18:17:58 GMT"
+     "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+     "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 22:27:06 GMT"
     },
     {
-     "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-     "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 00:37:01 GMT"
+     "title": "Wales stun New Zealand to end 73-year losing streak",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 14 Nov 2026 16:38:04 GMT"
     },
     {
-     "title": "The search to find a friend for Jojo the gorilla after a lifetime of being alone",
-     "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 00:03:56 GMT"
+     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 00:01:07 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 00:01:07 GMT"
+    },
+    {
+     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 13 Nov 2026 23:00:31 GMT"
+    },
     {
      "title": "Microsoft says services fully restored after day-long global outage",
      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -58,11 +68,6 @@
      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 13 Nov 2026 18:36:57 GMT"
-    },
-    {
-     "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-     "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 12:22:30 GMT"
     },
     {
      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
@@ -83,11 +88,6 @@
      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
      "date": "Fri, 13 Nov 2026 03:57:01 GMT"
-    },
-    {
-     "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-     "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 01:17:58 GMT"
     }
    ]
   },
@@ -140,6 +140,31 @@
    "name": "NPR",
    "items": [
     {
+     "title": "FAA ground stop disrupts college football",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+     "date": "Sat, 14 Nov 2026 20:13:59 -0500"
+    },
+    {
+     "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+     "date": "Sat, 14 Nov 2026 19:03:52 -0500"
+    },
+    {
+     "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+     "date": "Sat, 14 Nov 2026 17:48:38 -0500"
+    },
+    {
+     "title": "US has lost measles elimination status, global health authorities say",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+     "date": "Sat, 14 Nov 2026 17:15:02 -0500"
+    },
+    {
+     "title": "SpaceX successfully catches Starship and makes history",
+     "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+     "date": "Sat, 14 Nov 2026 16:42:41 -0500"
+    },
+    {
      "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
      "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
      "date": "Sat, 14 Nov 2026 15:12:34 -0500"
@@ -153,31 +178,6 @@
      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
      "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
      "date": "Sat, 14 Nov 2026 11:53:04 -0500"
-    },
-    {
-     "title": "Fuel crisis and protests pressure Chile's far-right president",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-     "date": "Sat, 14 Nov 2026 11:05:12 -0500"
-    },
-    {
-     "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-     "date": "Sat, 14 Nov 2026 08:08:05 -0500"
-    },
-    {
-     "title": "Perspective: A new kind of White House press secretary",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-     "date": "Sat, 14 Nov 2026 08:00:00 -0500"
-    },
-    {
-     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-     "date": "Sat, 14 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "A new policy could help solve the U.S. organ shortage. Critics say it's unethical",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-     "date": "Sat, 14 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,44 +185,89 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "India’s Assam state demolishes homes of 132 Muslim families",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 20:14:10 +0000"
+     "title": "SpaceX’s Starship nails a smooth return with historic catch",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 01:22:01 +0000"
     },
     {
-     "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 19:52:49 +0000"
+     "title": "Israeli air strike kills senior Hamas commander in Gaza",
+     "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 01:00:42 +0000"
     },
     {
-     "title": "Deadly car bomb blast kills two near Syria’s capital",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 19:46:36 +0000"
+     "title": "Hundreds of men march in Switzerland to protest violence against women",
+     "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 00:27:14 +0000"
     },
     {
-     "title": "More than 100,000 rally across France in new Yellow Vest protests",
-     "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 19:46:24 +0000"
+     "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+     "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 00:14:22 +0000"
     },
     {
-     "title": "Tens of thousands march in latest Portugal housing protests",
-     "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 19:27:55 +0000"
+     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 00:00:08 +0000"
     },
     {
-     "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-     "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 19:20:11 +0000"
+     "title": "Portugal immortalises Ronaldo with a new number 7",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 23:55:18 +0000"
     },
     {
-     "title": "US blames outdated technology for nationwide flight disruption",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 18:32:40 +0000"
+     "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 23:34:37 +0000"
     },
     {
-     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-     "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 18:02:53 +0000"
+     "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+     "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+     "date": "Sat, 14 Nov 2026 23:01:30 +0000"
+    }
+   ]
+  },
+  {
+   "name": "Nature",
+   "items": [
+    {
+     "title": "Number of international students arriving in US plunges — worrying scientists",
+     "link": "https://www.nature.com/articles/d41586-026-03668-x",
+     "date": ""
+    },
+    {
+     "title": "Chinese graduate students are now choosing to stay closer to home",
+     "link": "https://www.nature.com/articles/d41586-026-03456-7",
+     "date": ""
+    },
+    {
+     "title": "Accept all changes",
+     "link": "https://www.nature.com/articles/d41586-026-03516-y",
+     "date": ""
+    },
+    {
+     "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+     "link": "https://www.nature.com/articles/d41586-026-03679-8",
+     "date": ""
+    },
+    {
+     "title": "Is the climate totally cooked? What the data say",
+     "link": "https://www.nature.com/articles/d41586-026-03716-6",
+     "date": ""
+    },
+    {
+     "title": "Found: a protein that drives ageing without unleashing inflammation",
+     "link": "https://www.nature.com/articles/d41586-026-03638-3",
+     "date": ""
+    },
+    {
+     "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+     "link": "https://www.nature.com/articles/d41586-026-03639-2",
+     "date": ""
+    },
+    {
+     "title": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+     "link": "https://www.nature.com/articles/d41586-026-03665-0",
+     "date": ""
     }
    ]
   }
