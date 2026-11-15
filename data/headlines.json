@@ -1,43 +1,43 @@
 {
- "updated": "2026-11-15 01:56 UTC",
+ "updated": "2026-11-15 09:27 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 22:37:25 GMT"
-    },
-    {
-     "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-     "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 12:22:43 GMT"
+     "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+     "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 06:01:46 GMT"
     },
     {
      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
      "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 22:37:14 GMT"
+     "date": "Sun, 15 Nov 2026 07:19:52 GMT"
     },
     {
-     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 14 Nov 2026 22:09:40 GMT"
     },
     {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 19:12:25 GMT"
+     "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+     "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 00:09:29 GMT"
     },
     {
-     "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-     "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 22:27:06 GMT"
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 08:17:41 GMT"
     },
     {
-     "title": "Wales stun New Zealand to end 73-year losing streak",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 14 Nov 2026 16:38:04 GMT"
+     "title": "Judo champion shakes up French presidential race with surprise candidacy",
+     "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 00:06:51 GMT"
+    },
+    {
+     "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
+     "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 00:05:56 GMT"
     },
     {
      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+     "date": "Sat, 14 Nov 2026 23:28:45 -0500"
+    },
+    {
      "title": "FAA ground stop disrupts college football",
      "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
      "date": "Sat, 14 Nov 2026 20:13:59 -0500"
@@ -173,11 +178,6 @@
      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
      "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
      "date": "Sat, 14 Nov 2026 14:13:54 -0500"
-    },
-    {
-     "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-     "date": "Sat, 14 Nov 2026 11:53:04 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "SpaceX’s Starship nails a smooth return with historic catch",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 01:22:01 +0000"
+     "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+     "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 08:49:47 +0000"
     },
     {
-     "title": "Israeli air strike kills senior Hamas commander in Gaza",
-     "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 01:00:42 +0000"
+     "title": "Thousands in Portugal protest against surging rental prices",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 08:40:37 +0000"
     },
     {
-     "title": "Hundreds of men march in Switzerland to protest violence against women",
-     "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 00:27:14 +0000"
+     "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+     "link": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 08:29:18 +0000"
     },
     {
-     "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-     "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 00:14:22 +0000"
+     "title": "Jordan sentences three men to death by hanging after deadly church attack",
+     "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 08:15:04 +0000"
     },
     {
-     "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 00:00:08 +0000"
+     "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+     "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 08:07:08 +0000"
     },
     {
-     "title": "Portugal immortalises Ronaldo with a new number 7",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 23:55:18 +0000"
+     "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+     "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 07:30:21 +0000"
     },
     {
-     "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 23:34:37 +0000"
+     "title": "ASEAN summit: Who’s attending and what’s at stake?",
+     "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 07:11:24 +0000"
     },
     {
-     "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-     "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-     "date": "Sat, 14 Nov 2026 23:01:30 +0000"
+     "title": "Israel: Making the Holy Land burn",
+     "link": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 06:49:14 +0000"
     }
    ]
   },
