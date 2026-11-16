@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-15 21:50 UTC",
+ "updated": "2026-11-16 02:09 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
+     "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 22:30:03 GMT"
+    },
+    {
      "title": "Staggered age of consent to be discussed after Brand case, minister says",
      "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 15 Nov 2026 17:15:46 GMT"
-    },
-    {
-     "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-     "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 12:38:28 GMT"
     },
     {
      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -20,29 +20,29 @@
      "date": "Sun, 15 Nov 2026 19:32:39 GMT"
     },
     {
-     "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-     "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 06:01:46 GMT"
+     "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 22:00:13 GMT"
     },
     {
-     "title": "Minister backs legal right to job support for young people",
-     "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 13:06:15 GMT"
-    },
-    {
-     "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-     "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 18:38:11 GMT"
-    },
-    {
-     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-     "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 19:20:53 GMT"
+     "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 22:00:24 GMT"
     },
     {
      "title": "Trident submarine returns home after record-breaking undersea patrol",
      "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 15 Nov 2026 21:48:10 GMT"
+    },
+    {
+     "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 00:47:04 GMT"
+    },
+    {
+     "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+     "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 01:22:50 GMT"
     }
    ]
   },
@@ -50,9 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 22:00:24 GMT"
+    },
+    {
+     "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 15 Nov 2026 22:30:03 GMT"
+    },
+    {
      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 14:56:21 GMT"
+     "date": "Mon, 16 Nov 2026 01:47:57 GMT"
+    },
+    {
+     "title": "Black Friday and tax return scams - don't fall for these",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 00:50:39 GMT"
     },
     {
      "title": "Minister backs legal right to job support for young people",
@@ -73,21 +88,6 @@
      "title": "Microsoft says services fully restored after day-long global outage",
      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 14 Nov 2026 06:42:27 GMT"
-    },
-    {
-     "title": "Heat pumps: How much heat does your home really need?",
-     "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 09:29:25 GMT"
-    },
-    {
-     "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-     "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 00:13:35 GMT"
-    },
-    {
-     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 13 Nov 2026 18:36:57 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Fri, 06 Nov 2026 15:08:43 GMT"
     },
     {
+     "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+     "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+     "date": "Mon, 16 Nov 2026 01:13:44 GMT"
+    },
+    {
      "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
      "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
      "date": "Sat, 14 Nov 2026 13:00:44 GMT"
@@ -128,17 +133,27 @@
      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
      "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
      "date": "Fri, 13 Nov 2026 08:49:19 GMT"
-    },
-    {
-     "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-     "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-     "date": "Wed, 11 Nov 2026 22:50:37 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Flight disruptions expected to last into Monday",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+     "date": "Sun, 15 Nov 2026 20:19:28 -0500"
+    },
+    {
+     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+     "date": "Sun, 15 Nov 2026 17:41:22 -0500"
+    },
+    {
+     "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+     "date": "Sun, 15 Nov 2026 17:07:55 -0500"
+    },
     {
      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
      "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
@@ -150,34 +165,19 @@
      "date": "Sun, 15 Nov 2026 08:11:30 -0500"
     },
     {
-     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+     "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
      "date": "Sun, 15 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
      "date": "Sun, 15 Nov 2026 05:00:00 -0500"
     },
     {
      "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
      "date": "Sun, 15 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-     "date": "Sat, 14 Nov 2026 23:28:45 -0500"
-    },
-    {
-     "title": "FAA ground stop disrupts college football",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-     "date": "Sat, 14 Nov 2026 20:13:59 -0500"
-    },
-    {
-     "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-     "date": "Sat, 14 Nov 2026 19:03:52 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
-     "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 20:54:13 +0000"
+     "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+     "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+     "date": "Mon, 16 Nov 2026 00:51:23 +0000"
     },
     {
-     "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 20:50:15 +0000"
+     "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+     "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+     "date": "Mon, 16 Nov 2026 00:45:48 +0000"
     },
     {
-     "title": "Who can force Israel to implement Gaza ceasefire deal?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 20:37:43 +0000"
+     "title": "Czechs rally against gov’t threat to media independence",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+     "date": "Mon, 16 Nov 2026 00:26:32 +0000"
     },
     {
-     "title": "Estonia to close border crossings with Russia after alleged arson attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 20:31:18 +0000"
+     "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+     "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+     "date": "Mon, 16 Nov 2026 00:04:28 +0000"
     },
     {
-     "title": "Jordan sentences three men to death over deadly church attack in Karak",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 20:12:38 +0000"
+     "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+     "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+     "date": "Mon, 16 Nov 2026 00:01:45 +0000"
     },
     {
-     "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-     "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 20:07:06 +0000"
+     "title": "Iran war live: Tehran warns it may strike first before another US attack",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+     "date": "Mon, 16 Nov 2026 00:00:00 +0000"
     },
     {
-     "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 19:02:21 +0000"
+     "title": "Brawl erupts in Brazil’s Women’s League final",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 23:46:37 +0000"
     },
     {
-     "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-     "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-     "date": "Sun, 15 Nov 2026 18:31:52 +0000"
+     "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+     "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+     "date": "Sun, 15 Nov 2026 22:40:01 +0000"
     }
    ]
   },
