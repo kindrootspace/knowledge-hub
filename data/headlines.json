@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-16 20:29 UTC",
+ "updated": "2026-11-17 03:55 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-     "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 18:22:22 GMT"
+     "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 22:32:47 GMT"
+    },
+    {
+     "title": "The young people caught up in Britain's Neets crisis",
+     "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 00:06:34 GMT"
     },
     {
      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
      "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 19:43:58 GMT"
+     "date": "Tue, 17 Nov 2026 02:11:57 GMT"
     },
     {
-     "title": "When will we see Robert Pattinson as Bond in cinemas?",
-     "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 17:18:54 GMT"
+     "title": "Cass report author says she does not support draft conversion practices bill",
+     "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 22:08:03 GMT"
     },
     {
-     "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 13:19:33 GMT"
-    },
-    {
-     "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-     "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 19:30:30 GMT"
-    },
-    {
-     "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+     "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 20:03:30 GMT"
+     "date": "Mon, 16 Nov 2026 20:33:57 GMT"
+    },
+    {
+     "title": "Failed asylum seekers face removal without five-day notice period",
+     "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 01:24:49 GMT"
     },
     {
      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
@@ -40,9 +40,9 @@
      "date": "Mon, 16 Nov 2026 14:58:12 GMT"
     },
     {
-     "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
-     "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 11:27:53 GMT"
+     "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+     "link": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 03:07:23 GMT"
     }
    ]
   },
@@ -50,9 +50,29 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+     "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 22:32:47 GMT"
+    },
+    {
+     "title": "California sues OpenAI over Hugging Face attack",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 16 Nov 2026 23:12:24 GMT"
+    },
+    {
+     "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+     "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 00:00:03 GMT"
+    },
+    {
+     "title": "We couldn't afford a house alone, so we bought one with strangers",
+     "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 00:00:02 GMT"
+    },
+    {
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 19:16:52 GMT"
+     "date": "Tue, 17 Nov 2026 02:37:53 GMT"
     },
     {
      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
@@ -60,34 +80,14 @@
      "date": "Mon, 16 Nov 2026 13:19:33 GMT"
     },
     {
+     "title": "Customers report service outages at major US banks",
+     "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 00:18:01 GMT"
+    },
+    {
      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 16 Nov 2026 15:40:16 GMT"
-    },
-    {
-     "title": "Intel sued by investors after PC sales slump hits share price",
-     "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 03:04:01 GMT"
-    },
-    {
-     "title": "Gas starts flowing from Jackdaw after government green light",
-     "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 06:24:08 GMT"
-    },
-    {
-     "title": "Avoid this Black Friday scam - how to check it's a real deal",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 09:58:52 GMT"
-    },
-    {
-     "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 15 Nov 2026 00:01:07 GMT"
-    },
-    {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 16 Nov 2026 01:47:57 GMT"
     }
    ]
   },
@@ -97,7 +97,7 @@
     {
      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
      "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-     "date": "Mon, 16 Nov 2026 16:21:40 GMT"
+     "date": "Tue, 17 Nov 2026 01:10:59 GMT"
     },
     {
      "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "California sues OpenAI over hacking risks",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+     "date": "Mon, 16 Nov 2026 17:06:22 -0500"
+    },
+    {
      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
      "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
      "date": "Mon, 16 Nov 2026 13:49:26 -0500"
@@ -173,11 +178,6 @@
      "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
      "link": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
      "date": "Mon, 16 Nov 2026 06:38:50 -0500"
-    },
-    {
-     "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-     "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-     "date": "Mon, 16 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "What will Europe do next in Ukraine?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 20:12:21 +0000"
+     "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+     "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 03:12:54 +0000"
     },
     {
-     "title": "Nationwide ground stop could cost US airlines hundreds of millions",
-     "link": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 20:05:06 +0000"
+     "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+     "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 02:52:56 +0000"
     },
     {
-     "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-     "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 20:00:07 +0000"
+     "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+     "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 01:38:13 +0000"
     },
     {
-     "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-     "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 19:26:40 +0000"
+     "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+     "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 01:19:56 +0000"
     },
     {
-     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-     "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 19:19:21 +0000"
+     "title": "EU countries announce migrant deportation centre in Rwanda",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 01:12:28 +0000"
     },
     {
-     "title": "Thousands report difficulties accessing accounts online at major US banks",
-     "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 19:18:10 +0000"
+     "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+     "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 00:45:11 +0000"
     },
     {
-     "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
-     "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 19:09:09 +0000"
+     "title": "UK seeks closer ties with EU after Brexit fail",
+     "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 00:30:21 +0000"
     },
     {
-     "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
-     "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
-     "date": "Mon, 16 Nov 2026 18:38:16 +0000"
+     "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+     "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+     "date": "Tue, 17 Nov 2026 00:21:19 +0000"
     }
    ]
   },
@@ -245,28 +245,28 @@
      "date": ""
     },
     {
+     "title": "US Supreme Court rebuffs White House effort to cut research grants",
+     "link": "https://www.nature.com/articles/d41586-026-03765-x",
+     "date": ""
+    },
+    {
+     "title": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+     "link": "https://www.nature.com/articles/d41586-026-03706-8",
+     "date": ""
+    },
+    {
      "title": "The psychology of imaginary friends — and why they are good for kids",
      "link": "https://www.nature.com/articles/d41586-026-03713-9",
      "date": ""
     },
     {
+     "title": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+     "link": "https://www.nature.com/articles/d41586-026-03763-z",
+     "date": ""
+    },
+    {
      "title": "Chinese scientist sacked after child died in gene-editing trial",
      "link": "https://www.nature.com/articles/d41586-026-03752-2",
-     "date": ""
-    },
-    {
-     "title": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
-     "link": "https://www.nature.com/articles/d41586-026-03712-w",
-     "date": ""
-    },
-    {
-     "title": "Number of international students arriving in US plunges — worrying scientists",
-     "link": "https://www.nature.com/articles/d41586-026-03668-x",
-     "date": ""
-    },
-    {
-     "title": "Chinese graduate students are now choosing to stay closer to home",
-     "link": "https://www.nature.com/articles/d41586-026-03456-7",
      "date": ""
     }
    ]
