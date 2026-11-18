@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-17 22:24 UTC",
+ "updated": "2026-11-18 04:21 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+     "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 23:02:12 GMT"
+    },
+    {
+     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+     "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 22:46:30 GMT"
+    },
+    {
+     "title": "Burnham to set out options next month for long-term EU relationship",
+     "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 23:40:58 GMT"
+    },
+    {
+     "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+     "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 18 Nov 2026 00:39:06 GMT"
+    },
     {
      "title": "Government backs welfare shake-up to prevent 'lost generation'",
      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 17 Nov 2026 18:43:05 GMT"
     },
     {
-     "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
-     "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 17:35:22 GMT"
+     "title": "William and Kate on Earthshot Prize green carpet in Mumbai",
+     "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 21:15:00 GMT"
     },
     {
-     "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-     "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 18:24:21 GMT"
+     "title": "Irishman charged with destroying US military aircraft with axe",
+     "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 18 Nov 2026 02:00:37 GMT"
     },
     {
-     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-     "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 20:44:54 GMT"
-    },
-    {
-     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 21:24:35 GMT"
-    },
-    {
-     "title": "BBC reports from Kyiv bridge hit by Russian attack",
-     "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 15:54:15 GMT"
-    },
-    {
-     "title": "Rooney says he considered taking his own life at Man Utd",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 14:09:19 GMT"
-    },
-    {
-     "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-     "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 18:20:36 GMT"
+     "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+     "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 18 Nov 2026 04:13:22 GMT"
     }
    ]
   },
@@ -50,9 +50,34 @@
    "name": "BBC Business",
    "items": [
     {
-     "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
+     "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 22:19:22 GMT"
+     "date": "Wed, 18 Nov 2026 01:18:18 GMT"
+    },
+    {
+     "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+     "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 18 Nov 2026 04:00:54 GMT"
+    },
+    {
+     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+     "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 23:02:12 GMT"
+    },
+    {
+     "title": "Government backs welfare shake-up to prevent 'lost generation'",
+     "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 17 Nov 2026 18:43:05 GMT"
+    },
+    {
+     "title": "Waymo pulls driverless taxis from all US freeways",
+     "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 18 Nov 2026 03:07:22 GMT"
+    },
+    {
+     "title": "Europe plans to catch the next computer chip wave",
+     "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+     "date": "Wed, 18 Nov 2026 00:00:24 GMT"
     },
     {
      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
@@ -60,34 +85,9 @@
      "date": "Tue, 17 Nov 2026 18:24:21 GMT"
     },
     {
-     "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-     "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 15:56:04 GMT"
-    },
-    {
-     "title": "Where are the most jobs for 18-24 year-olds?",
-     "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 12:35:53 GMT"
-    },
-    {
      "title": "Speed camera fault may have allowed drivers to escape fines",
      "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
      "date": "Tue, 17 Nov 2026 20:04:54 GMT"
-    },
-    {
-     "title": "We couldn't afford a house alone, so we bought one with strangers",
-     "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 00:00:02 GMT"
-    },
-    {
-     "title": "How new US chip restrictions on South East Asia will hit China",
-     "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 14:25:45 GMT"
-    },
-    {
-     "title": "US government confirms investigation into tech firm Megaspeed",
-     "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-     "date": "Tue, 17 Nov 2026 11:17:32 GMT"
     }
    ]
   },
@@ -140,12 +140,17 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+     "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+     "date": "Tue, 17 Nov 2026 22:27:23 -0500"
+    },
+    {
      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
      "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
      "date": "Tue, 17 Nov 2026 13:34:31 -0500"
     },
     {
-     "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+     "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
      "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
      "date": "Tue, 17 Nov 2026 12:36:31 -0500"
     },
@@ -173,11 +178,6 @@
      "title": "Trump arrives in Philippines to kick off Asia trip",
      "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
      "date": "Tue, 17 Nov 2026 05:43:55 -0500"
-    },
-    {
-     "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-     "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-     "date": "Tue, 17 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-     "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 22:01:27 +0000"
+     "title": "Rubio rules out cyberattacks or links between tech outages",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 04:01:16 +0000"
     },
     {
-     "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-     "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 21:35:24 +0000"
+     "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+     "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 03:28:41 +0000"
     },
     {
-     "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 21:28:31 +0000"
+     "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+     "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 03:00:22 +0000"
     },
     {
-     "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-     "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 21:26:42 +0000"
+     "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+     "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 02:36:09 +0000"
     },
     {
-     "title": "Moment Russian military plane crashes in Siberia, killing 19",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 21:25:43 +0000"
+     "title": "Hungary on the hunt for a football hero",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 02:32:57 +0000"
     },
     {
-     "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-     "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 21:14:31 +0000"
+     "title": "ICE agents shove and pepper-spray pregnant woman",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 02:17:12 +0000"
     },
     {
-     "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-     "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 20:57:56 +0000"
+     "title": "What is Trump hoping to achieve at APEC meeting in China?",
+     "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 01:33:05 +0000"
     },
     {
-     "title": "What’s behind the ANC’s decline in South Africa?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
-     "date": "Tue, 17 Nov 2026 20:47:07 +0000"
+     "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+     "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+     "date": "Wed, 18 Nov 2026 01:32:52 +0000"
     }
    ]
   },
