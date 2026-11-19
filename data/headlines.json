@@ -1,64 +1,54 @@
 {
- "updated": "2026-11-19 13:08 UTC",
+ "updated": "2026-11-19 21:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
-     "link": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 08:31:09 GMT"
+     "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+     "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 17:42:25 GMT"
     },
     {
-     "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 00:00:59 GMT"
+     "title": "'You can be believed and understood': Joanne Young speaks after verdict",
+     "link": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 16:44:22 GMT"
     },
     {
-     "title": "Leasehold system set to be scrapped in England and Wales",
-     "link": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 09:26:59 GMT"
+     "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 20:02:02 GMT"
     },
     {
-     "title": "Anthropic raises $81bn in record-breaking stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 10:48:04 GMT"
+     "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+     "link": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 12:47:27 GMT"
     },
     {
-     "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-     "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 11:43:39 GMT"
+     "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+     "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 17:23:29 GMT"
     },
     {
-     "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-     "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 00:49:19 GMT"
+     "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
+     "link": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 12:17:32 GMT"
     },
     {
-     "title": "UK to provide Ukraine with 1,000 long-range strike drones",
-     "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 10:00:02 GMT"
+     "title": "Discrimination claims by McDonald's workers can go ahead, court says",
+     "link": "https://www.bbc.co.uk/news/videos/cmq8lyx41xj4o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 15:09:36 GMT"
     },
     {
-     "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
-     "link": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 12:01:35 GMT"
+     "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+     "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 21:21:43 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
-    {
-     "title": "Anthropic raises $81bn in record-breaking stock market debut",
-     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 10:48:04 GMT"
-    },
-    {
-     "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 00:00:59 GMT"
-    },
     {
      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
@@ -70,9 +60,14 @@
      "date": "Wed, 18 Nov 2026 23:42:07 GMT"
     },
     {
+     "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 00:00:59 GMT"
+    },
+    {
      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 19 Nov 2026 12:02:29 GMT"
+     "date": "Thu, 19 Nov 2026 13:35:52 GMT"
     },
     {
      "title": "Europe plans to catch the next computer chip wave",
@@ -88,6 +83,11 @@
      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 19 Nov 2026 02:59:06 GMT"
+    },
+    {
+     "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 19 Nov 2026 06:15:57 GMT"
     }
    ]
   },
@@ -140,12 +140,32 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+     "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+     "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+     "date": "Thu, 19 Nov 2026 14:46:27 -0500"
+    },
+    {
+     "title": "The 'Magic Six': How to strengthen your marriage in midlife",
+     "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+     "date": "Thu, 19 Nov 2026 13:28:23 -0500"
+    },
+    {
+     "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+     "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+     "date": "Thu, 19 Nov 2026 12:03:11 -0500"
+    },
+    {
+     "title": "The midterms were the largest win for either party in 50 years",
+     "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+     "date": "Thu, 19 Nov 2026 10:55:05 -0500"
+    },
+    {
+     "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
      "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
      "date": "Thu, 19 Nov 2026 07:29:41 -0500"
     },
     {
-     "title": "Yahoo for the loo! An ode to the commode! Dotty for the potty! It's World Toilet Day!",
+     "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
      "link": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
      "date": "Thu, 19 Nov 2026 07:26:31 -0500"
     },
@@ -155,29 +175,9 @@
      "date": "Thu, 19 Nov 2026 07:26:01 -0500"
     },
     {
-     "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
-     "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-     "date": "Thu, 19 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "Morning news brief",
-     "link": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
-     "date": "Thu, 19 Nov 2026 04:46:29 -0500"
-    },
-    {
-     "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-     "date": "Thu, 19 Nov 2026 04:44:40 -0500"
-    },
-    {
-     "title": "Win a trip to go behind the news with NPR",
-     "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
-     "date": "Thu, 19 Nov 2026 00:01:00 -0500"
-    },
-    {
-     "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-     "date": "Wed, 18 Nov 2026 18:54:56 -0500"
+     "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+     "link": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
+     "date": "Thu, 19 Nov 2026 06:20:42 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Pakistan’s footballers show India sportsmanship after SAFF final defeat",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 12:59:28 +0000"
+     "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+     "link": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 21:11:45 +0000"
     },
     {
-     "title": "Can Anthropic afford to put AI safety first?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/can-anthropic-afford-to-put-ai-safety-first?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 12:43:31 +0000"
+     "title": "Ten killed in Pakistan as bus crashes into gas tanker",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 21:09:24 +0000"
     },
     {
-     "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
-     "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 12:21:33 +0000"
+     "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 20:59:20 +0000"
     },
     {
-     "title": "ICJ rules Myanmar committed genocide against the Rohingya",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 12:20:19 +0000"
+     "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 20:58:41 +0000"
     },
     {
-     "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
-     "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 12:11:42 +0000"
+     "title": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 20:58:38 +0000"
     },
     {
-     "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
-     "link": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 11:57:34 +0000"
+     "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
+     "link": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 20:54:08 +0000"
     },
     {
-     "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-     "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 11:38:39 +0000"
+     "title": "Will the Shenzhen summit safeguard world peace?",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 20:43:51 +0000"
     },
     {
-     "title": "Putin says US-China-Russia can strengthen global stability",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-     "date": "Thu, 19 Nov 2026 11:22:43 +0000"
+     "title": "How vaccine fears fuelled a major measles comeback in the US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+     "date": "Thu, 19 Nov 2026 20:35:14 +0000"
     }
    ]
   },
@@ -232,6 +232,26 @@
     {
      "title": "Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale",
      "link": "https://www.nature.com/articles/s41586-026-11388-5",
+     "date": ""
+    },
+    {
+     "title": "Calcium catalysed nucleophilic fluorination",
+     "link": "https://www.nature.com/articles/s41586-026-11445-z",
+     "date": ""
+    },
+    {
+     "title": "More tropical cyclones hit peak fury at the worst possible time",
+     "link": "https://www.nature.com/articles/d41586-026-03748-y",
+     "date": ""
+    },
+    {
+     "title": "People entering old age now have better memory than their parents did",
+     "link": "https://www.nature.com/articles/d41586-026-03783-9",
+     "date": ""
+    },
+    {
+     "title": "University students are biggest spreaders of COVID",
+     "link": "https://www.nature.com/articles/d41586-026-03746-0",
      "date": ""
     },
     {
@@ -245,28 +265,8 @@
      "date": ""
     },
     {
-     "title": "Conference networking made simple, in three short videos",
-     "link": "https://www.nature.com/articles/d41586-026-03678-9",
-     "date": ""
-    },
-    {
-     "title": "First observation of a giant star swallowing its neighbour",
-     "link": "https://www.nature.com/articles/d41586-026-03784-8",
-     "date": ""
-    },
-    {
-     "title": "How to make AI data centres more sustainable",
-     "link": "https://www.nature.com/articles/d41586-026-03708-6",
-     "date": ""
-    },
-    {
-     "title": "Microbiome home tests are taking off. Can they be trusted?",
-     "link": "https://www.nature.com/articles/d41586-026-03710-y",
-     "date": ""
-    },
-    {
-     "title": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
-     "link": "https://www.nature.com/articles/d41586-026-03602-1",
+     "title": "What do various cancers have in common?",
+     "link": "https://www.nature.com/articles/d41586-026-03379-3",
      "date": ""
     }
    ]
