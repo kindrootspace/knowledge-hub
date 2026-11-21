@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21 17:32 UTC",
+ "updated": "2026-11-21 23:17 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
@@ -27,22 +27,22 @@
     {
      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 14:54:24 GMT"
+     "date": "Sat, 21 Nov 2026 22:19:43 GMT"
+    },
+    {
+     "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+     "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 21:39:22 GMT"
+    },
+    {
+     "title": "Australia hold on for narrow win against Wales",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 22:25:36 GMT"
     },
     {
      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
      "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 21 Nov 2026 00:03:16 GMT"
-    },
-    {
-     "title": "England run up record win over New Zealand in rugby union's Nations Championship",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 16:08:59 GMT"
-    },
-    {
-     "title": "Can AI really help spot Black Friday deals? We put it to the test",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 00:06:11 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 18 Nov 2026 05:00:32 GMT"
     },
     {
+     "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+     "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "date": "Sat, 21 Nov 2026 17:46:55 GMT"
+    },
+    {
      "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
      "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
      "date": "Sat, 21 Nov 2026 11:00:57 GMT"
@@ -128,17 +133,32 @@
      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
      "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
      "date": "Fri, 20 Nov 2026 11:00:31 GMT"
-    },
-    {
-     "title": "Race to be next UN secretary general exposes divisions among world powers",
-     "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-     "date": "Fri, 20 Nov 2026 05:00:24 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+     "date": "Sat, 21 Nov 2026 17:40:36 -0500"
+    },
+    {
+     "title": "Bayer reaches Roundup settlement that could cost the company billions",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+     "date": "Sat, 21 Nov 2026 15:37:35 -0500"
+    },
+    {
+     "title": "Storms expected on both coasts threatens Thanksgiving travel",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+     "date": "Sat, 21 Nov 2026 13:22:46 -0500"
+    },
+    {
+     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+     "date": "Sat, 21 Nov 2026 13:08:55 -0500"
+    },
     {
      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -158,26 +178,6 @@
      "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
      "date": "Sat, 21 Nov 2026 07:40:17 -0500"
-    },
-    {
-     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-     "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-     "date": "Sat, 21 Nov 2026 07:30:16 -0500"
-    },
-    {
-     "title": "5 ways to turn off your 'work brain' after the day ends",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
-     "date": "Sat, 21 Nov 2026 05:01:00 -0500"
-    },
-    {
-     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-     "date": "Sat, 21 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-     "date": "Sat, 21 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,50 +185,55 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 17:28:51 +0000"
+     "title": "Bahrain says Iranian attack hits industrial facility",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 22:02:03 +0000"
     },
     {
-     "title": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 17:21:37 +0000"
+     "title": "Bahrain says Iranian attack causes fire at industrial facility",
+     "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 21:31:03 +0000"
     },
     {
-     "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-     "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 17:20:03 +0000"
+     "title": "Impunity fuels surge in settler violence across occupied West Bank",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 21:11:54 +0000"
     },
     {
-     "title": "India’s opposition stages protests against Meta over account removals",
-     "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 16:14:01 +0000"
+     "title": "Indian man jailed over plot to kill Sikh separatist in US",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 21:09:18 +0000"
     },
     {
-     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-     "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 16:03:16 +0000"
+     "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+     "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 21:02:18 +0000"
     },
     {
-     "title": "US midterms 2026: What happens before the new Congress takes office?",
-     "link": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 15:49:32 +0000"
+     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+     "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 20:56:35 +0000"
     },
     {
-     "title": "French presidential candidate blames media for racist attack",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 15:46:18 +0000"
+     "title": "Thousands protest across Europe over living costs and housing",
+     "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 20:47:50 +0000"
     },
     {
-     "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 15:20:43 +0000"
+     "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 20:38:20 +0000"
     }
    ]
   },
   {
    "name": "Nature",
    "items": [
+    {
+     "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+     "link": "https://www.nature.com/articles/d41586-026-03803-8",
+     "date": ""
+    },
     {
      "title": "How AI is affecting science careers",
      "link": "https://www.nature.com/articles/d41586-026-03680-1",
@@ -262,11 +267,6 @@
     {
      "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
      "link": "https://www.nature.com/articles/d41586-026-03789-3",
-     "date": ""
-    },
-    {
-     "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
-     "link": "https://www.nature.com/articles/d41586-026-03812-7",
      "date": ""
     }
    ]
