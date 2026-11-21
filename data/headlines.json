@@ -1,38 +1,33 @@
 {
- "updated": "2026-11-21 09:55 UTC",
+ "updated": "2026-11-21 17:32 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 09:40:55 GMT"
+     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 13:17:38 GMT"
     },
     {
-     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 08:10:25 GMT"
+     "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+     "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 16:16:29 GMT"
     },
     {
-     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 20 Nov 2026 22:42:47 GMT"
+     "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 12:00:03 GMT"
     },
     {
-     "title": "Man convicted of starting Palisades fire in Los Angeles",
-     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 04:34:00 GMT"
+     "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+     "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 12:17:45 GMT"
     },
     {
      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 09:52:11 GMT"
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 20 Nov 2026 20:54:12 GMT"
+     "date": "Sat, 21 Nov 2026 14:54:24 GMT"
     },
     {
      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
@@ -40,9 +35,14 @@
      "date": "Sat, 21 Nov 2026 00:03:16 GMT"
     },
     {
-     "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
-     "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 00:08:19 GMT"
+     "title": "England run up record win over New Zealand in rugby union's Nations Championship",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 16:08:59 GMT"
+    },
+    {
+     "title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 00:06:11 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Wed, 18 Nov 2026 05:00:32 GMT"
     },
     {
+     "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+     "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+     "date": "Sat, 21 Nov 2026 11:00:57 GMT"
+    },
+    {
      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
      "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
      "date": "Fri, 20 Nov 2026 11:00:31 GMT"
@@ -128,11 +133,6 @@
      "title": "Race to be next UN secretary general exposes divisions among world powers",
      "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
      "date": "Fri, 20 Nov 2026 05:00:24 GMT"
-    },
-    {
-     "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
-     "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-     "date": "Wed, 18 Nov 2026 22:31:41 GMT"
     }
    ]
   },
@@ -140,44 +140,44 @@
    "name": "NPR",
    "items": [
     {
-     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-     "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-     "date": "Sat, 21 Nov 2026 03:08:01 -0500"
+     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "date": "Sat, 21 Nov 2026 09:18:17 -0500"
     },
     {
-     "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-     "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-     "date": "Fri, 20 Nov 2026 17:11:29 -0500"
+     "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+     "date": "Sat, 21 Nov 2026 08:58:33 -0500"
     },
     {
-     "title": "The latest from Trump's press conference",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-     "date": "Fri, 20 Nov 2026 16:38:21 -0500"
+     "title": "Perspective: Defining 'human'",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+     "date": "Sat, 21 Nov 2026 08:00:00 -0500"
     },
     {
-     "title": "Rising seas have forced this Quinault village to relocate",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-     "date": "Fri, 20 Nov 2026 16:38:13 -0500"
+     "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+     "date": "Sat, 21 Nov 2026 07:40:17 -0500"
     },
     {
-     "title": "Trump's impact on an Ohio steel plant",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-     "date": "Fri, 20 Nov 2026 16:38:11 -0500"
+     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+     "date": "Sat, 21 Nov 2026 07:30:16 -0500"
     },
     {
-     "title": "MLK's handwritten draft of iconic speech on display for the first time",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-     "date": "Fri, 20 Nov 2026 16:38:05 -0500"
+     "title": "5 ways to turn off your 'work brain' after the day ends",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+     "date": "Sat, 21 Nov 2026 05:01:00 -0500"
     },
     {
-     "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-     "date": "Fri, 20 Nov 2026 13:25:09 -0500"
+     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+     "date": "Sat, 21 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-     "date": "Fri, 20 Nov 2026 12:00:00 -0500"
+     "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+     "date": "Sat, 21 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
-     "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 09:30:24 +0000"
+     "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+     "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 17:28:51 +0000"
     },
     {
-     "title": "Fire sprinkler sprays water at flame-covered sign in China",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 09:20:40 +0000"
+     "title": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
+     "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 17:21:37 +0000"
     },
     {
-     "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-     "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 09:12:14 +0000"
+     "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+     "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 17:20:03 +0000"
     },
     {
-     "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 09:01:29 +0000"
+     "title": "India’s opposition stages protests against Meta over account removals",
+     "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 16:14:01 +0000"
     },
     {
-     "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-     "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 08:48:54 +0000"
+     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+     "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 16:03:16 +0000"
     },
     {
-     "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 08:39:35 +0000"
+     "title": "US midterms 2026: What happens before the new Congress takes office?",
+     "link": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 15:49:32 +0000"
     },
     {
-     "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-     "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 08:33:52 +0000"
+     "title": "French presidential candidate blames media for racist attack",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 15:46:18 +0000"
     },
     {
-     "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 08:26:22 +0000"
+     "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+     "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 15:20:43 +0000"
     }
    ]
   },
