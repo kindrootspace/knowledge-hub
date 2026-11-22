@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 23:17 UTC",
+ "updated": "2026-11-22 03:16 UTC",
  "sources": [
   {
    "name": "BBC News",
@@ -15,6 +15,11 @@
      "date": "Sat, 21 Nov 2026 16:16:29 GMT"
     },
     {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 22:19:43 GMT"
+    },
+    {
      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 21 Nov 2026 12:00:03 GMT"
@@ -23,11 +28,6 @@
      "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
      "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
      "date": "Sat, 21 Nov 2026 12:17:45 GMT"
-    },
-    {
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 22:19:43 GMT"
     },
     {
      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
@@ -40,9 +40,9 @@
      "date": "Sat, 21 Nov 2026 22:25:36 GMT"
     },
     {
-     "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-     "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 00:03:16 GMT"
+     "title": "How a teen gamer and his mother helped rescue a missing girl",
+     "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+     "date": "Sun, 22 Nov 2026 00:09:58 GMT"
     }
    ]
   },
@@ -145,6 +145,16 @@
      "date": "Sat, 21 Nov 2026 17:40:36 -0500"
     },
     {
+     "title": "Google employees protest AI in schools policy",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+     "date": "Sat, 21 Nov 2026 17:01:40 -0500"
+    },
+    {
+     "title": "Highlights and challenges from covering an historic month in South America",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+     "date": "Sat, 21 Nov 2026 17:01:35 -0500"
+    },
+    {
      "title": "Bayer reaches Roundup settlement that could cost the company billions",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
      "date": "Sat, 21 Nov 2026 15:37:35 -0500"
@@ -155,7 +165,7 @@
      "date": "Sat, 21 Nov 2026 13:22:46 -0500"
     },
     {
-     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+     "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
      "date": "Sat, 21 Nov 2026 13:08:55 -0500"
     },
@@ -168,16 +178,6 @@
      "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
      "date": "Sat, 21 Nov 2026 08:58:33 -0500"
-    },
-    {
-     "title": "Perspective: Defining 'human'",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-     "date": "Sat, 21 Nov 2026 08:00:00 -0500"
-    },
-    {
-     "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-     "date": "Sat, 21 Nov 2026 07:40:17 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
+     "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+     "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+     "date": "Sun, 22 Nov 2026 02:14:18 +0000"
+    },
+    {
+     "title": "Bessent confirms he’s living on US military base over Iran fears",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+     "date": "Sun, 22 Nov 2026 02:05:50 +0000"
+    },
+    {
+     "title": "Moviegoers head for the exits as quake strikes Peru",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+     "date": "Sun, 22 Nov 2026 01:07:19 +0000"
+    },
+    {
+     "title": "Clashes erupt across France in another night of protest",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+     "date": "Sun, 22 Nov 2026 00:37:32 +0000"
+    },
+    {
+     "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 23:59:03 +0000"
+    },
+    {
+     "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+     "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 23:44:00 +0000"
+    },
+    {
+     "title": "Iran faces a ‘silent economic war’, says Iranian president",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+     "date": "Sat, 21 Nov 2026 23:18:14 +0000"
+    },
+    {
      "title": "Bahrain says Iranian attack hits industrial facility",
      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
      "date": "Sat, 21 Nov 2026 22:02:03 +0000"
-    },
-    {
-     "title": "Bahrain says Iranian attack causes fire at industrial facility",
-     "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 21:31:03 +0000"
-    },
-    {
-     "title": "Impunity fuels surge in settler violence across occupied West Bank",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 21:11:54 +0000"
-    },
-    {
-     "title": "Indian man jailed over plot to kill Sikh separatist in US",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 21:09:18 +0000"
-    },
-    {
-     "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-     "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 21:02:18 +0000"
-    },
-    {
-     "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-     "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 20:56:35 +0000"
-    },
-    {
-     "title": "Thousands protest across Europe over living costs and housing",
-     "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 20:47:50 +0000"
-    },
-    {
-     "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
-     "date": "Sat, 21 Nov 2026 20:38:20 +0000"
     }
    ]
   },
