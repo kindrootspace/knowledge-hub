@@ -1,48 +1,48 @@
 {
- "updated": "2026-11-23 00:53 UTC",
+ "updated": "2026-11-23 09:07 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 00:50:35 GMT"
+     "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+     "link": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 08:59:07 GMT"
+    },
+    {
+     "title": "NHS launches world's largest AI breast cancer screening trial",
+     "link": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 00:49:22 GMT"
+    },
+    {
+     "title": "Five takeaways from the failed climate talks COP31",
+     "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 06:33:50 GMT"
     },
     {
      "title": "What's next after no deal at COP31 climate talks?",
      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 22 Nov 2026 18:57:24 GMT"
-    },
-    {
-     "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
-     "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 22 Nov 2026 13:50:21 GMT"
-    },
-    {
-     "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 22 Nov 2026 20:28:09 GMT"
+     "date": "Mon, 23 Nov 2026 05:34:39 GMT"
     },
     {
      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 22 Nov 2026 22:49:10 GMT"
+     "date": "Mon, 23 Nov 2026 08:41:08 GMT"
     },
     {
-     "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-     "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 22 Nov 2026 23:53:45 GMT"
+     "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 08:36:57 GMT"
     },
     {
-     "title": "Russell Brand's wife says she'll honour prison rules after message row",
-     "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-     "date": "Sun, 22 Nov 2026 16:51:57 GMT"
+     "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+     "link": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 06:01:31 GMT"
     },
     {
-     "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
-     "link": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 00:40:36 GMT"
+     "title": "Pip assessments need 'fundamental overhaul', report to say",
+     "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 08:19:13 GMT"
     }
    ]
   },
@@ -50,19 +50,24 @@
    "name": "BBC Business",
    "items": [
     {
+     "title": "Energy bills will soar - here's how you can ease the pain",
+     "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 01:05:07 GMT"
+    },
+    {
+     "title": "Poundland is facing collapse - what's gone wrong?",
+     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 08:00:20 GMT"
+    },
+    {
+     "title": "Pip assessments need 'fundamental overhaul', report to say",
+     "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 08:19:13 GMT"
+    },
+    {
      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
      "date": "Sun, 22 Nov 2026 13:50:21 GMT"
-    },
-    {
-     "title": "What is going on with Poundland?",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 00:22:27 GMT"
-    },
-    {
-     "title": "Energy bills will soar - here's how you can ease the pain",
-     "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 00:05:29 GMT"
     },
     {
      "title": "Employers are being asked to give interview feedback - here's what applicants want",
@@ -70,24 +75,19 @@
      "date": "Sun, 22 Nov 2026 00:04:07 GMT"
     },
     {
-     "title": "Can AI really help spot Black Friday deals? We put it to the test",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-     "date": "Sat, 21 Nov 2026 00:06:11 GMT"
-    },
-    {
      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 23 Nov 2026 00:08:00 GMT"
     },
     {
+     "title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+     "date": "Sat, 21 Nov 2026 00:06:11 GMT"
+    },
+    {
      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 23 Nov 2026 00:33:36 GMT"
-    },
-    {
-     "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-     "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-     "date": "Fri, 20 Nov 2026 16:41:52 GMT"
     }
    ]
   },
@@ -140,6 +140,11 @@
    "name": "NPR",
    "items": [
     {
+     "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+     "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+     "date": "Sun, 22 Nov 2026 20:53:48 -0500"
+    },
+    {
      "title": "What it's like at a climate conference as talks collapse",
      "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
      "date": "Sun, 22 Nov 2026 17:40:23 -0500"
@@ -173,11 +178,6 @@
      "title": "He expected a small-business loan. He got a 7-year nightmare",
      "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
      "date": "Sun, 22 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "NPR's Senior Podcast Challenge: Early entries we love",
-     "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-     "date": "Sun, 22 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-     "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 00:39:51 +0000"
+     "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+     "link": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 08:08:00 +0000"
     },
     {
-     "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-     "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 00:18:03 +0000"
+     "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 07:47:32 +0000"
     },
     {
-     "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
-     "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 00:03:30 +0000"
+     "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+     "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 07:37:09 +0000"
     },
     {
-     "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-     "date": "Sun, 22 Nov 2026 23:59:22 +0000"
+     "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+     "link": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 07:19:47 +0000"
     },
     {
-     "title": "Mystery of the red stream in Turkiye",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
-     "date": "Sun, 22 Nov 2026 23:57:58 +0000"
+     "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
+     "link": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 07:07:33 +0000"
     },
     {
-     "title": "Lion on the loose in Turkiye sparks fear among residents",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
-     "date": "Sun, 22 Nov 2026 23:40:48 +0000"
+     "title": "How Ireland resisted British rule through sport",
+     "link": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 06:47:10 +0000"
     },
     {
-     "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-     "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-     "date": "Sun, 22 Nov 2026 23:22:59 +0000"
+     "title": "Is the global far right really in retreat?",
+     "link": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 06:44:00 +0000"
     },
     {
-     "title": "Trump to host private dinner for largest owners of his meme coin",
-     "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
-     "date": "Sun, 22 Nov 2026 22:37:38 +0000"
+     "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
+     "link": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss",
+     "date": "Mon, 23 Nov 2026 06:15:40 +0000"
     }
    ]
   },
