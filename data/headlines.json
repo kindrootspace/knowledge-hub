@@ -1,13 +1,23 @@
 {
- "updated": "2026-11-23 21:26 UTC",
+ "updated": "2026-11-24 06:03 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
     {
-     "title": "My approach to EU is pragmatic, says Burnham",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 19:10:44 GMT"
+     "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+     "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 01:21:41 GMT"
+    },
+    {
+     "title": "Benefits review to suggest quicker payment for some disabled people",
+     "link": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 00:53:31 GMT"
+    },
+    {
+     "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+     "link": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 00:45:53 GMT"
     },
     {
      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
@@ -15,40 +25,35 @@
      "date": "Mon, 23 Nov 2026 20:48:35 GMT"
     },
     {
-     "title": "How Ukraine attacked Russian ships in Libya",
-     "link": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 14:32:12 GMT"
+     "title": "Why I don't always tell potential employers I'm dyslexic",
+     "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 00:00:47 GMT"
     },
     {
-     "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
-     "link": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 20:49:08 GMT"
+     "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+     "link": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
+     "date": "Mon, 23 Nov 2026 22:01:09 GMT"
     },
     {
-     "title": "UK to host 2035 Women's World Cup, Fifa confirms",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 15:09:50 GMT"
+     "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+     "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 02:15:59 GMT"
     },
     {
-     "title": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
-     "link": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 19:36:56 GMT"
-    },
-    {
-     "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-     "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 21:03:34 GMT"
-    },
-    {
-     "title": "Teenage girl stabbed multiple times by 14-year-old boy, murder trial told",
-     "link": "https://www.bbc.co.uk/news/articles/cmlydn1zye23o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 17:24:13 GMT"
+     "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+     "link": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 00:03:36 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 04:36:31 GMT"
+    },
     {
      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
      "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
@@ -70,9 +75,9 @@
      "date": "Mon, 23 Nov 2026 15:49:52 GMT"
     },
     {
-     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-     "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 00:08:00 GMT"
+     "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+     "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+     "date": "Tue, 24 Nov 2026 00:01:04 GMT"
     },
     {
      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
@@ -83,11 +88,6 @@
      "title": "Next data accessed in cyber breach",
      "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
      "date": "Mon, 23 Nov 2026 12:34:07 GMT"
-    },
-    {
-     "title": "Catering giant to switch main share listing to US in further blow to UK",
-     "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-     "date": "Mon, 23 Nov 2026 09:54:04 GMT"
     }
    ]
   },
@@ -120,6 +120,11 @@
      "date": "Thu, 19 Nov 2026 04:00:16 GMT"
     },
     {
+     "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+     "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+     "date": "Mon, 23 Nov 2026 22:41:48 GMT"
+    },
+    {
      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
      "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
      "date": "Mon, 23 Nov 2026 16:53:13 GMT"
@@ -128,17 +133,27 @@
      "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
      "link": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
      "date": "Mon, 23 Nov 2026 11:00:56 GMT"
-    },
-    {
-     "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-     "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-     "date": "Sun, 22 Nov 2026 08:00:22 GMT"
     }
    ]
   },
   {
    "name": "NPR",
    "items": [
+    {
+     "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+     "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+     "date": "Mon, 23 Nov 2026 17:29:53 -0500"
+    },
+    {
+     "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+     "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+     "date": "Mon, 23 Nov 2026 17:17:59 -0500"
+    },
+    {
+     "title": "Some women in tech have concerns about Huang's return",
+     "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+     "date": "Mon, 23 Nov 2026 17:03:57 -0500"
+    },
     {
      "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
      "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
@@ -163,21 +178,6 @@
      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
      "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
      "date": "Mon, 23 Nov 2026 05:16:33 -0500"
-    },
-    {
-     "title": "K is for kindness, but families worry the world has less of it",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
-     "date": "Mon, 23 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "Mushroom supplements promise health benefits. What does the science say?",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-     "date": "Mon, 23 Nov 2026 05:00:00 -0500"
-    },
-    {
-     "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
-     "date": "Mon, 23 Nov 2026 05:00:00 -0500"
     }
    ]
   },
@@ -185,89 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "US drug prices leave patients facing impossible choices",
-     "link": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 21:02:00 +0000"
+     "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+     "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 04:59:13 +0000"
     },
     {
-     "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
-     "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 20:41:56 +0000"
+     "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 04:52:06 +0000"
     },
     {
-     "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 20:26:40 +0000"
+     "title": "Car bomb strikes governor’s office in Meta, Colombia",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 04:49:31 +0000"
     },
     {
-     "title": "Turkish police hunting for lioness stalking Istanbul",
-     "link": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 20:22:28 +0000"
+     "title": "India’s best known bottled water under scrutiny",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 04:44:35 +0000"
     },
     {
-     "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 20:22:12 +0000"
+     "title": "WHO chief visits Cuba as healthcare system deteriorates",
+     "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 04:35:37 +0000"
     },
     {
-     "title": "Protesting Bangladesh garment workers reject pay offer",
-     "link": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 20:03:48 +0000"
+     "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+     "link": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 03:20:55 +0000"
     },
     {
-     "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
-     "link": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 20:01:41 +0000"
+     "title": "Excavator threatens sacred alpine lake in the Himalayas",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 02:35:27 +0000"
     },
     {
-     "title": "As tech outages mount, some New Yorkers prepare for the worst",
-     "link": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
-     "date": "Mon, 23 Nov 2026 19:43:45 +0000"
-    }
-   ]
-  },
-  {
-   "name": "Nature",
-   "items": [
-    {
-     "title": "Hexa-substituted benzene synthesis with non-classical carbocations",
-     "link": "https://www.nature.com/articles/s41586-026-11449-9",
-     "date": ""
-    },
-    {
-     "title": "Continuous N-to-C Peptide Synthesis",
-     "link": "https://www.nature.com/articles/s41586-026-11448-w",
-     "date": ""
-    },
-    {
-     "title": "Architecture of the poxvirus early-transcription machinery and portal complex",
-     "link": "https://www.nature.com/articles/s41586-026-11458-8",
-     "date": ""
-    },
-    {
-     "title": "Build for the future climate — or waste trillions of dollars",
-     "link": "https://www.nature.com/articles/d41586-026-03722-8",
-     "date": ""
-    },
-    {
-     "title": "‘Mozart of maths’ Terence Tao is your guide to what underpins reality",
-     "link": "https://www.nature.com/articles/d41586-026-03720-w",
-     "date": ""
-    },
-    {
-     "title": "Chemistry giant George Whitesides dies: one of the most influential researchers of his generation",
-     "link": "https://www.nature.com/articles/d41586-026-03808-3",
-     "date": ""
-    },
-    {
-     "title": "How to make climate anxiety your superpower",
-     "link": "https://www.nature.com/articles/d41586-026-03818-1",
-     "date": ""
-    },
-    {
-     "title": "It’s our duty to promote ourselves: even to other scientists. Am I wrong?",
-     "link": "https://www.nature.com/articles/d41586-026-02203-2",
-     "date": ""
+     "title": "UN chief calls for world to agree on AI oversight within a year",
+     "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+     "date": "Tue, 24 Nov 2026 02:27:19 +0000"
     }
    ]
   }
