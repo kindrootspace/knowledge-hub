@@ -1,54 +1,69 @@
 {
- "updated": "2026-11-26 15:17 UTC",
+ "updated": "2026-11-27 00:35 UTC",
  "sources": [
   {
    "name": "BBC News",
    "items": [
+    {
+     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 22:49:27 GMT"
+    },
+    {
+     "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+     "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 19:00:33 GMT"
+    },
+    {
+     "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+     "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 15:38:38 GMT"
+    },
     {
      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
      "date": "Thu, 26 Nov 2026 14:55:16 GMT"
     },
     {
-     "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-     "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 05:00:24 GMT"
+     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 27 Nov 2026 00:29:48 GMT"
     },
     {
-     "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-     "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 05:00:27 GMT"
+     "title": "Drug rape husband says wife 'would have been terrified', court hears",
+     "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 18:21:59 GMT"
     },
     {
-     "title": "Burnham joined by former PMs at Ann Widdecombe service",
-     "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 15:00:03 GMT"
+     "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+     "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 23:03:16 GMT"
     },
     {
-     "title": "BBC launches partnership with Met Office for weather coverage",
-     "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 00:12:37 GMT"
-    },
-    {
-     "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
-     "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 13:24:22 GMT"
-    },
-    {
-     "title": "Tommy Robinson charged with failing to give phone Pin code to police",
-     "link": "https://www.bbc.co.uk/news/articles/cwly4v7nvxl5o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 14:53:37 GMT"
-    },
-    {
-     "title": "New UK-EU treaty has 10-year termination clause",
-     "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 09:59:14 GMT"
+     "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 27 Nov 2026 00:20:10 GMT"
     }
    ]
   },
   {
    "name": "BBC Business",
    "items": [
+    {
+     "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+     "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 19:55:58 GMT"
+    },
+    {
+     "title": "UK to pay 'participation' fee to deliver EU deals",
+     "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 23:17:12 GMT"
+    },
+    {
+     "title": "Asia made a big AI bet on Nvidia. What happens now?",
+     "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 23:08:12 GMT"
+    },
     {
      "title": "Millions of people to see average monthly mortgage payments rise by £100",
      "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
@@ -60,34 +75,19 @@
      "date": "Thu, 26 Nov 2026 13:40:46 GMT"
     },
     {
-     "title": "When will Poundland close? Five questions about its future",
+     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+     "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+     "date": "Fri, 27 Nov 2026 00:02:19 GMT"
+    },
+    {
+     "title": "New boss appointed to lead Travelodge",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+     "date": "Thu, 26 Nov 2026 12:03:49 GMT"
+    },
+    {
+     "title": "When will Poundland shops close? Five key questions answered",
      "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 14:05:27 GMT"
-    },
-    {
-     "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 14:28:22 GMT"
-    },
-    {
-     "title": "Drivers over 70 face eye tests every three years under new plans",
-     "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 11:21:45 GMT"
-    },
-    {
-     "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-     "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 00:01:37 GMT"
-    },
-    {
-     "title": "New UK-EU treaty has 10-year termination clause",
-     "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 09:59:14 GMT"
-    },
-    {
-     "title": "Car finance compensation payments explained",
-     "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-     "date": "Thu, 26 Nov 2026 09:39:50 GMT"
+     "date": "Thu, 26 Nov 2026 17:21:21 GMT"
     }
    ]
   },
@@ -155,14 +155,19 @@
      "date": "Thu, 26 Nov 2026 07:24:29 -0500"
     },
     {
+     "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+     "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+     "date": "Thu, 26 Nov 2026 05:00:00 -0500"
+    },
+    {
      "title": "'Memories of a Good Meal': How food made a difference during WWII",
      "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
      "date": "Thu, 26 Nov 2026 05:00:00 -0500"
     },
     {
-     "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-     "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-     "date": "Thu, 26 Nov 2026 05:00:00 -0500"
+     "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+     "link": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+     "date": "Thu, 26 Nov 2026 04:44:29 -0500"
     },
     {
      "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
@@ -173,11 +178,6 @@
      "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
      "link": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
      "date": "Thu, 26 Nov 2026 04:43:27 -0500"
-    },
-    {
-     "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-     "date": "Thu, 26 Nov 2026 01:53:09 -0500"
     }
    ]
   },
@@ -185,44 +185,44 @@
    "name": "Al Jazeera",
    "items": [
     {
-     "title": "Can Trump continue with Iran war despite funding restrictions?",
-     "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 14:17:21 +0000"
+     "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+     "date": "Fri, 27 Nov 2026 00:00:00 +0000"
     },
     {
-     "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-     "link": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 14:10:00 +0000"
+     "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+     "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 23:37:17 +0000"
     },
     {
-     "title": "Inside Liberland, the crypto ‘country’ few have heard of",
-     "link": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 14:02:02 +0000"
+     "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+     "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 23:07:36 +0000"
     },
     {
-     "title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
-     "link": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 13:34:21 +0000"
+     "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+     "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 22:51:55 +0000"
     },
     {
-     "title": "Are we ready to live longer? | Centre Stage",
-     "link": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 13:29:30 +0000"
+     "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+     "link": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 22:06:54 +0000"
     },
     {
-     "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
-     "link": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 13:23:46 +0000"
+     "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+     "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 21:08:44 +0000"
     },
     {
-     "title": "Is UBI the solution to mass unemployment in an AI economy?",
-     "link": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 13:04:51 +0000"
+     "title": "Bangladesh garment workers clash with police over low wages",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 21:04:39 +0000"
     },
     {
-     "title": "Film shows testimonies of international doctors amid Gaza genocide",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
-     "date": "Thu, 26 Nov 2026 13:02:24 +0000"
+     "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+     "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+     "date": "Thu, 26 Nov 2026 20:34:34 +0000"
     }
    ]
   },
@@ -230,8 +230,23 @@
    "name": "Nature",
    "items": [
     {
+     "title": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C2H4 signalling",
+     "link": "https://www.nature.com/articles/s41586-026-11475-7",
+     "date": ""
+    },
+    {
+     "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+     "link": "https://www.nature.com/articles/d41586-026-03874-7",
+     "date": ""
+    },
+    {
      "title": "Navigating grief in academia: ways to find balance",
      "link": "https://www.nature.com/articles/d41586-026-02752-6",
+     "date": ""
+    },
+    {
+     "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+     "link": "https://www.nature.com/articles/d41586-026-03875-6",
      "date": ""
     },
     {
@@ -252,21 +267,6 @@
     {
      "title": "An in situ redox-converted molecule for all-perovskite tandem solar cells",
      "link": "https://www.nature.com/articles/s41586-026-11465-9",
-     "date": ""
-    },
-    {
-     "title": "How Singapore has turned a nation into a smart-city testing ground",
-     "link": "https://www.nature.com/articles/d41586-026-03472-7",
-     "date": ""
-    },
-    {
-     "title": "How arteries keep their shape in the face of overgrowth-inducing mutations",
-     "link": "https://www.nature.com/articles/d41586-026-03491-4",
-     "date": ""
-    },
-    {
-     "title": "What is the Riemann hypothesis? A guide to the famed conjecture that rules prime numbers",
-     "link": "https://www.nature.com/articles/d41586-026-03854-x",
      "date": ""
     }
    ]
